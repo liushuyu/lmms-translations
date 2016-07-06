@@ -1,0 +1,11 @@
+[main]
+host = https://www.transifex.com
+minimum_perc = 1
+#Need to finish at least 1% before merging back
+
+[lmms.lmms]
+file_filter = <lang>.ts
+source_file = en.ts
+source_lang = en
+type = QT
+
