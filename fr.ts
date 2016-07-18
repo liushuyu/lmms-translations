@@ -6263,10 +6263,6 @@ Rappelez-vous de sauvegarder également votre projet manuellement.</translation>
         <translation>Séquences MIDI</translation>
     </message>
     <message>
-        <source>FL Studio projects</source>
-        <translation>Projets FL Studio</translation>
-    </message>
-    <message>
         <source>Hydrogen projects</source>
         <translation>Projets Hydrogen</translation>
     </message>
@@ -6380,20 +6376,20 @@ Veuillez vérifier que vous avez au moins les droits en lecture pour ce fichier 
         <translation>Ne peux pas ouvrir %1 en écriture. Vous n&apos;avez probablement pas les droits pour écrire dans ce fichier. Assurez vous que vous avez les droits d&apos;accès en écriture pour ce fichier et essayez à nouveau.</translation>
     </message>
     <message>
-        <source>Project Version Mismatch</source>
-        <translation>Version de projet différente</translation>
-    </message>
-    <message>
-        <source>This %1 was created with LMMS version %2, but version %3 is installed</source>
-        <translation>Ce %1 a été créé avec la version %2 de LMMS mais la version installée est %3</translation>
-    </message>
-    <message>
         <source>template</source>
         <translation>modèle</translation>
     </message>
     <message>
         <source>project</source>
         <translation>projet</translation>
+    </message>
+    <message>
+        <source>Version difference</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This %1 was created with LMMS %2.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6704,10 +6700,6 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     <message>
         <source>Importing MIDI-file...</source>
         <translation>Importation du fichier MIDI...</translation>
-    </message>
-    <message>
-        <source>Importing FLP-file...</source>
-        <translation>Importation du fichier FLP...</translation>
     </message>
 </context>
 <context>
@@ -9073,10 +9065,6 @@ En double-cliquant sur ces greffons vous ferez apparaître des informations sur 
     <message>
         <source>List installed LADSPA plugins</source>
         <translation>Liste des greffons LADSPA installés</translation>
-    </message>
-    <message>
-        <source>Filter for importing FL Studio projects into LMMS</source>
-        <translation>Filtre pour l&apos;importation de projets FL Studio dans LMMS</translation>
     </message>
     <message>
         <source>GUS-compatible patch instrument</source>

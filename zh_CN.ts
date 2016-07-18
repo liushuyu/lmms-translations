@@ -435,7 +435,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>A higher tension value may make a smoother curve but overshoot some values. A low tension value will cause the slope of the curve to level off at each control point.</source>
-        <translation type="unfinished"/>
+        <translation>更高的张力数值可以使图像更平滑，但也可能使某些数值严重偏移。更低的数值会导致每个控制点附近的曲线将会过度平缓。</translation>
     </message>
     <message>
         <source>Click here to choose discrete progressions for this automation pattern.  The value of the connected object will remain constant between control points and be set immediately to the new value when each control point is reached.</source>
@@ -2164,11 +2164,11 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Amt</source>
-        <translation type="unfinished"/>
+        <translation>数量</translation>
     </message>
     <message>
         <source>Amt:</source>
-        <translation type="unfinished"/>
+        <translation>数量:</translation>
     </message>
     <message>
         <source>Regen</source>
@@ -2201,7 +2201,13 @@ In order to route the channel to another channel, select the FX channel and clic
 
 You can remove and move FX channels in the context menu, which is accessed by right-clicking the FX channel.
 </source>
-        <translation type="unfinished"/>
+        <translation>效果通道会从一个或多个乐器轨道接收输入。
+它还能被接着接入其他多个效果通道。LMMS 会自动防止无限死循环的发生，并且不会让你连接出一个死循环。
+
+如果你想将一个通道连接到另一个通道，选择第一个效果通道并且在你想连接的通道上点击“发送(Send)” 按钮。在发送按钮下面的旋钮将会控制发送到目标通道信号的强度。
+
+你可以通过右击效果通道弹出的上下文菜单移动和删除效果通道。
+</translation>
     </message>
     <message>
         <source>Move &amp;left</source>
@@ -4304,7 +4310,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Selected view</source>
-        <translation type="unfinished"/>
+        <translation>选定的视图</translation>
     </message>
     <message>
         <source>Vol1-Env1</source>
@@ -6237,10 +6243,6 @@ Remember to also save your project manually.</source>
         <translation>MIDI 音序器</translation>
     </message>
     <message>
-        <source>FL Studio projects</source>
-        <translation>FL Studio 工程</translation>
-    </message>
-    <message>
         <source>Hydrogen projects</source>
         <translation>Hydrogen工程</translation>
     </message>
@@ -6354,20 +6356,20 @@ Remember to also save your project manually.</source>
         <translation>无法打开 %1 写入数据。或许没有权限修改此文件。请确保您拥有对此文件的写权限，然后重试。</translation>
     </message>
     <message>
-        <source>Project Version Mismatch</source>
-        <translation>版本号不匹配</translation>
-    </message>
-    <message>
-        <source>This %1 was created with LMMS version %2, but version %3 is installed</source>
-        <translation>这个 %1 是由版本为 %2 的 LMMS 创建的, 但是已安装的 LMMS 版本号为 %3</translation>
-    </message>
-    <message>
         <source>template</source>
         <translation>模板</translation>
     </message>
     <message>
         <source>project</source>
         <translation>工程文件</translation>
+    </message>
+    <message>
+        <source>Version difference</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This %1 was created with LMMS %2.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6678,10 +6680,6 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <source>Importing MIDI-file...</source>
         <translation>正在导入 MIDI-文件...</translation>
-    </message>
-    <message>
-        <source>Importing FLP-file...</source>
-        <translation>正在导入 FLP-文件...</translation>
     </message>
 </context>
 <context>
@@ -9047,10 +9045,6 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <source>List installed LADSPA plugins</source>
         <translation>列出已安装的 LADSPA 插件</translation>
-    </message>
-    <message>
-        <source>Filter for importing FL Studio projects into LMMS</source>
-        <translation>将 FL Studio 工程导入 LMMS 的过滤器</translation>
     </message>
     <message>
         <source>GUS-compatible patch instrument</source>

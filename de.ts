@@ -6261,10 +6261,6 @@ Remember to also save your project manually.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>FL Studio projects</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Hydrogen projects</source>
         <translation type="unfinished"/>
     </message>
@@ -6377,19 +6373,19 @@ Remember to also save your project manually.</source>
         <translation>Konnte %1 nicht zum Schreiben öffnen. Sie sind wahrscheinlich nicht dazu berechtigt in diese Datei zu schreiben. Bitte stellen Sie sicher, dass Sie Schreibrechte für diese Datei haben und versuchen Sie es erneut.</translation>
     </message>
     <message>
-        <source>Project Version Mismatch</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This %1 was created with LMMS version %2, but version %3 is installed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>template</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>project</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Version difference</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This %1 was created with LMMS %2.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6701,10 +6697,6 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
     <message>
         <source>Importing MIDI-file...</source>
         <translation>Importiere MIDI-Datei…</translation>
-    </message>
-    <message>
-        <source>Importing FLP-file...</source>
-        <translation>Importiere FLP-Datei…</translation>
     </message>
 </context>
 <context>
@@ -9070,10 +9062,6 @@ Doppelklicken auf eines der Plugins zeigt Informaitonen über die Ports an.</tra
     <message>
         <source>List installed LADSPA plugins</source>
         <translation>Installierte LADSPA-Plugins auflisten</translation>
-    </message>
-    <message>
-        <source>Filter for importing FL Studio projects into LMMS</source>
-        <translation>Filter für Import von FL Studio Projekten in LMMS</translation>
     </message>
     <message>
         <source>GUS-compatible patch instrument</source>

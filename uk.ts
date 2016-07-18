@@ -6273,10 +6273,6 @@ Remember to also save your project manually.</source>
         <translation>MiDi послідовність</translation>
     </message>
     <message>
-        <source>FL Studio projects</source>
-        <translation>FL Studio проекти</translation>
-    </message>
-    <message>
         <source>Hydrogen projects</source>
         <translation>Hydrogen проекти</translation>
     </message>
@@ -6390,20 +6386,20 @@ Remember to also save your project manually.</source>
         <translation>Неможливо відкрити %1 для запису, можливо, немає дозволу на запис в цей файл, будь-ласка упевніться, що є доступ до цього файлу і спробуйте знову.</translation>
     </message>
     <message>
-        <source>Project Version Mismatch</source>
-        <translation>Невідповідність версій проекту</translation>
-    </message>
-    <message>
-        <source>This %1 was created with LMMS version %2, but version %3 is installed</source>
-        <translation>Цей %1 було створено в LMMS версії %2, але встановлена ​​версія %3</translation>
-    </message>
-    <message>
         <source>template</source>
         <translation>шаблон</translation>
     </message>
     <message>
         <source>project</source>
         <translation>проект</translation>
+    </message>
+    <message>
+        <source>Version difference</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This %1 was created with LMMS %2.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6714,10 +6710,6 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <source>Importing MIDI-file...</source>
         <translation>Імпортую файл MIDI...</translation>
-    </message>
-    <message>
-        <source>Importing FLP-file...</source>
-        <translation>Імпортую файл FLP...</translation>
     </message>
 </context>
 <context>
@@ -9083,10 +9075,6 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <source>List installed LADSPA plugins</source>
         <translation>Показати встановлені модулі LADSPA</translation>
-    </message>
-    <message>
-        <source>Filter for importing FL Studio projects into LMMS</source>
-        <translation>Фільтр для імпортування файлів FL Stuio</translation>
     </message>
     <message>
         <source>GUS-compatible patch instrument</source>

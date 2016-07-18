@@ -901,11 +901,11 @@ Se sei interessato a tradurre LMMS o vuoi migliorare una traduzione esistente, s
     </message>
     <message>
         <source>&amp;Remove this controller</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rimuovi questo controller</translation>
     </message>
     <message>
         <source>Re&amp;name this controller</source>
-        <translation type="unfinished"/>
+        <translation>Ri&amp;nomina questo controller</translation>
     </message>
 </context>
 <context>
@@ -1291,7 +1291,7 @@ Se sei interessato a tradurre LMMS o vuoi migliorare una traduzione esistente, s
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Description</source>
@@ -3575,7 +3575,7 @@ Fare doppio click per scegliere il file dell&apos;onda.</translation>
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>Q.TÀ</translation>
     </message>
 </context>
 <context>
@@ -5604,7 +5604,7 @@ Vi sono due forme speciali: &quot;Random&quot; e &quot;Random morbido&quot; sono
     </message>
     <message>
         <source>Quantize</source>
-        <translation type="unfinished"/>
+        <translation>Quantizza</translation>
     </message>
 </context>
 <context>
@@ -6263,10 +6263,6 @@ Ricorda di salvare il tuo progetto anche manualmente.</translation>
         <translation>Sequenze MIDI</translation>
     </message>
     <message>
-        <source>FL Studio projects</source>
-        <translation>Progetti FL Studio</translation>
-    </message>
-    <message>
         <source>Hydrogen projects</source>
         <translation>Progetti Hydrogen</translation>
     </message>
@@ -6380,20 +6376,20 @@ Assicurati di avere almeno i permessi di lettura del file e prova di nuovo.</tra
         <translation>Impossibile aprire il file %1 per la scrittura. Probabilmente non disponi dei permessi necessari alla scrittura di questo file. Assicurati di avere tali permessi e prova di nuovo.</translation>
     </message>
     <message>
-        <source>Project Version Mismatch</source>
-        <translation>Incompatibilità di versione</translation>
-    </message>
-    <message>
-        <source>This %1 was created with LMMS version %2, but version %3 is installed</source>
-        <translation>Questo %1 è stato creato con LMMS versione %2, ma ora è in uso la versione %3</translation>
-    </message>
-    <message>
         <source>template</source>
         <translation>modello</translation>
     </message>
     <message>
         <source>project</source>
         <translation>progetto</translation>
+    </message>
+    <message>
+        <source>Version difference</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This %1 was created with LMMS %2.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6493,19 +6489,19 @@ Assicurati di avere almeno i permessi di lettura del file e prova di nuovo.</tra
     <name>SubWindow</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Massimizza</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Minimizza</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"/>
+        <translation>Apri</translation>
     </message>
 </context>
 <context>
@@ -6704,10 +6700,6 @@ Assicurarsi di avere i permessi in lettura per il file e per la directory che lo
     <message>
         <source>Importing MIDI-file...</source>
         <translation>Importazione del file MIDI...</translation>
-    </message>
-    <message>
-        <source>Importing FLP-file...</source>
-        <translation>Importazione del file FLP...</translation>
     </message>
 </context>
 <context>
@@ -9073,10 +9065,6 @@ Facendo doppio click sui plugin verranno fornite informazioni sulle relative por
     <message>
         <source>List installed LADSPA plugins</source>
         <translation>Elenca i plugin LADSPA installati</translation>
-    </message>
-    <message>
-        <source>Filter for importing FL Studio projects into LMMS</source>
-        <translation>Filtro per importare progetti di FL Studio in LMMS</translation>
     </message>
     <message>
         <source>GUS-compatible patch instrument</source>

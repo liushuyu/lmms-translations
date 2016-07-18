@@ -6237,10 +6237,6 @@ Remember to also save your project manually.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>FL Studio projects</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Hydrogen projects</source>
         <translation type="unfinished"/>
     </message>
@@ -6353,19 +6349,19 @@ Remember to also save your project manually.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Project Version Mismatch</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This %1 was created with LMMS version %2, but version %3 is installed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>template</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>project</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Version difference</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This %1 was created with LMMS %2.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6674,10 +6670,6 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Importing MIDI-file...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Importing FLP-file...</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -9044,10 +9036,6 @@ Facendo duplo clic sobre calquera dos engadidos mostra información sobre os por
     <message>
         <source>List installed LADSPA plugins</source>
         <translation>Enumerar os engadidos de LADSPA instalados</translation>
-    </message>
-    <message>
-        <source>Filter for importing FL Studio projects into LMMS</source>
-        <translation>Filtro para importar proxectos do FL Studio ao LMMS</translation>
     </message>
     <message>
         <source>GUS-compatible patch instrument</source>

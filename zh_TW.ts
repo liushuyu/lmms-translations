@@ -6237,10 +6237,6 @@ Remember to also save your project manually.</source>
         <translation>MIDI 音序器</translation>
     </message>
     <message>
-        <source>FL Studio projects</source>
-        <translation>FL Studio 工程</translation>
-    </message>
-    <message>
         <source>Hydrogen projects</source>
         <translation>Hydrogen工程</translation>
     </message>
@@ -6354,19 +6350,19 @@ Remember to also save your project manually.</source>
         <translation>無法打開 %1 寫入數據。或許沒有權限修改此文件。請確保您擁有對此文件的寫權限，然後重試。</translation>
     </message>
     <message>
-        <source>Project Version Mismatch</source>
-        <translation>版本號不匹配</translation>
-    </message>
-    <message>
-        <source>This %1 was created with LMMS version %2, but version %3 is installed</source>
-        <translation>這個 %1 是由版本爲 %2 的 LMMS 創建的, 但是已安裝的 LMMS 版本號爲 %3</translation>
-    </message>
-    <message>
         <source>template</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>project</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Version difference</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This %1 was created with LMMS %2.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6678,10 +6674,6 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <source>Importing MIDI-file...</source>
         <translation>正在導入 MIDI-文件...</translation>
-    </message>
-    <message>
-        <source>Importing FLP-file...</source>
-        <translation>正在導入 FLP-文件...</translation>
     </message>
 </context>
 <context>
@@ -9047,10 +9039,6 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <source>List installed LADSPA plugins</source>
         <translation>列出已安裝的 LADSPA 插件</translation>
-    </message>
-    <message>
-        <source>Filter for importing FL Studio projects into LMMS</source>
-        <translation>將 FL Studio 工程導入 LMMS 的過濾器</translation>
     </message>
     <message>
         <source>GUS-compatible patch instrument</source>

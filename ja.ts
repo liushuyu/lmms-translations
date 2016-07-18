@@ -6227,10 +6227,6 @@ Remember to also save your project manually.</source>
         <translation>MIDIシーケンス</translation>
     </message>
     <message>
-        <source>FL Studio projects</source>
-        <translation>FL Studioプロジェクト</translation>
-    </message>
-    <message>
         <source>Hydrogen projects</source>
         <translation>Hydrogenプロジェクト</translation>
     </message>
@@ -6343,19 +6339,19 @@ Remember to also save your project manually.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Project Version Mismatch</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This %1 was created with LMMS version %2, but version %3 is installed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>template</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>project</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Version difference</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This %1 was created with LMMS %2.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6667,10 +6663,6 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <source>Importing MIDI-file...</source>
         <translation>MIDIファイルをインポートしています...</translation>
-    </message>
-    <message>
-        <source>Importing FLP-file...</source>
-        <translation>FLPファイルをインポートしています...</translation>
     </message>
 </context>
 <context>
@@ -9024,10 +9016,6 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <source>List installed LADSPA plugins</source>
         <translation>インストールされている LADSPA プラグインの一覧</translation>
-    </message>
-    <message>
-        <source>Filter for importing FL Studio projects into LMMS</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>GUS-compatible patch instrument</source>
