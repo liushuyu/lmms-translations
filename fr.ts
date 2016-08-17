@@ -901,11 +901,11 @@ Si vous êtes intéressé par la traduction de LMMS dans une nouvelle langue ou 
     </message>
     <message>
         <source>&amp;Remove this controller</source>
-        <translation type="unfinished"/>
+        <translation>Supp&amp;rimer ce contrôleur</translation>
     </message>
     <message>
         <source>Re&amp;name this controller</source>
-        <translation type="unfinished"/>
+        <translation>Re&amp;nommer ce contrôleur</translation>
     </message>
 </context>
 <context>
@@ -1291,7 +1291,7 @@ Si vous êtes intéressé par la traduction de LMMS dans une nouvelle langue ou 
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Description</source>
@@ -3575,7 +3575,7 @@ Double-cliquez pour choisir un fichier.</translation>
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>AMNT</translation>
     </message>
 </context>
 <context>
@@ -5604,7 +5604,7 @@ PM signifie Modulation de Phase : la phase de l&apos;oscillateur 3 est modulée 
     </message>
     <message>
         <source>Quantize</source>
-        <translation type="unfinished"/>
+        <translation>Quantifier</translation>
     </message>
 </context>
 <context>
@@ -6385,11 +6385,11 @@ Veuillez vérifier que vous avez au moins les droits en lecture pour ce fichier 
     </message>
     <message>
         <source>Version difference</source>
-        <translation type="unfinished"/>
+        <translation>Différence de version</translation>
     </message>
     <message>
         <source>This %1 was created with LMMS %2.</source>
-        <translation type="unfinished"/>
+        <translation>Ce %1 a été créé avec LMMS %2</translation>
     </message>
 </context>
 <context>
@@ -6489,19 +6489,19 @@ Veuillez vérifier que vous avez au moins les droits en lecture pour ce fichier 
     <name>SubWindow</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Maximiser</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Minimiser</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"/>
+        <translation>Restorer</translation>
     </message>
 </context>
 <context>
