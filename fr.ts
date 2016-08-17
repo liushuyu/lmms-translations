@@ -6489,7 +6489,7 @@ Veuillez vérifier que vous avez au moins les droits en lecture pour ce fichier 
     <name>SubWindow</name>
     <message>
         <source>Close</source>
-        <translation>Fermer</translation></translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Maximize</source>
