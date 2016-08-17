@@ -2230,14 +2230,6 @@ You can remove and move FX channels in the context menu, which is accessed by ri
 <context>
     <name>FxMixerView</name>
     <message>
-        <source>Rename FX channel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter the new name for this FX channel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>FX-Mixer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3856,18 +3848,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shut down LMMS with no further action.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Exit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6018,10 +5998,6 @@ Reason: &quot;%2&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>FL Studio installation directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>STK rawwave directory</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6100,10 +6076,6 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Choose artwork-theme directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose FL Studio installation directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6223,10 +6195,6 @@ Remember to also save your project manually.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>FL Studio projects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hydrogen projects</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6339,19 +6307,19 @@ Remember to also save your project manually.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Project Version Mismatch</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This %1 was created with LMMS version %2, but version %3 is installed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>template</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Version difference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This %1 was created with LMMS %2.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6660,10 +6628,6 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Importing MIDI-file...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Importing FLP-file...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9017,10 +8981,6 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>List installed LADSPA plugins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Filter for importing FL Studio projects into LMMS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

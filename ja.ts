@@ -2231,14 +2231,6 @@ You can remove and move FX channels in the context menu, which is accessed by ri
 <context>
     <name>FxMixerView</name>
     <message>
-        <source>Rename FX channel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Enter the new name for this FX channel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>FX-Mixer</source>
         <translation>エフェクトミキサー</translation>
     </message>
@@ -3859,18 +3851,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shut down LMMS with no further action.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Exit</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6022,10 +6002,6 @@ Reason: &quot;%2&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>FL Studio installation directory</source>
-        <translation>FL Studioのインストール先ディレクトリ</translation>
-    </message>
-    <message>
         <source>STK rawwave directory</source>
         <translation>STK rawwaveのディレクトリ</translation>
     </message>
@@ -6105,10 +6081,6 @@ Latency: %2 ms</source>
     <message>
         <source>Choose artwork-theme directory</source>
         <translation>アートワークテーマのディレクトリを選択してください</translation>
-    </message>
-    <message>
-        <source>Choose FL Studio installation directory</source>
-        <translation>FL Studioのインストール先ディレクトリを選択してください</translation>
     </message>
     <message>
         <source>Choose LADSPA plugin directory</source>

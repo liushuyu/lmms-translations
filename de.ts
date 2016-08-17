@@ -2248,14 +2248,6 @@ Sie können FX Kanäle im Kontextmenü entfernen und verschieben, welches durch 
 <context>
     <name>FxMixerView</name>
     <message>
-        <source>Rename FX channel</source>
-        <translation>FX-Kanal umbenennen</translation>
-    </message>
-    <message>
-        <source>Enter the new name for this FX channel</source>
-        <translation>Bitte einen neuen Namen für den FX-Kanal eingeben</translation>
-    </message>
-    <message>
         <source>FX-Mixer</source>
         <translation>FX-Mixer</translation>
     </message>
@@ -3877,18 +3869,6 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     </message>
     <message>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shut down LMMS with no further action.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Exit</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6056,10 +6036,6 @@ Grund: »%2«</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>FL Studio installation directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>STK rawwave directory</source>
         <translation type="unfinished"/>
     </message>
@@ -6138,10 +6114,6 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Choose artwork-theme directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Choose FL Studio installation directory</source>
         <translation type="unfinished"/>
     </message>
     <message>

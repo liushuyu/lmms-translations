@@ -2244,14 +2244,6 @@ You can remove and move FX channels in the context menu, which is accessed by ri
 <context>
     <name>FxMixerView</name>
     <message>
-        <source>Rename FX channel</source>
-        <translation>重命名效果通道</translation>
-    </message>
-    <message>
-        <source>Enter the new name for this FX channel</source>
-        <translation>为此效果通道输入一个新的名称</translation>
-    </message>
-    <message>
         <source>FX-Mixer</source>
         <translation>效果混合器</translation>
     </message>
@@ -3876,18 +3868,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>运行一个新的默认会话并且删除恢复文件。此操作无法撤销。</translation>
     </message>
     <message>
-        <source>Quit</source>
-        <translation>退出</translation>
-    </message>
-    <message>
-        <source>Shut down LMMS with no further action.</source>
-        <translation>什么也不做并关闭 LMMS。</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation>退出</translation>
-    </message>
-    <message>
         <source>Preparing plugin browser</source>
         <translation>正在准备插件浏览器</translation>
     </message>
@@ -4030,7 +4010,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>unnamed_midi_controller</source>
-        <translation type="unfinished"/>
+        <translation>未命名的 MIDI 控制器</translation>
     </message>
 </context>
 <context>
@@ -6036,10 +6016,6 @@ Reason: &quot;%2&quot;</source>
         <translation>背景图片</translation>
     </message>
     <message>
-        <source>FL Studio installation directory</source>
-        <translation>FL Studio安装目录</translation>
-    </message>
-    <message>
         <source>STK rawwave directory</source>
         <translation>STK rawwave 目录</translation>
     </message>
@@ -6120,10 +6096,6 @@ Latency: %2 ms</source>
     <message>
         <source>Choose artwork-theme directory</source>
         <translation>选择插图目录</translation>
-    </message>
-    <message>
-        <source>Choose FL Studio installation directory</source>
-        <translation>选择 FL Studio 安装目录</translation>
     </message>
     <message>
         <source>Choose LADSPA plugin directory</source>
@@ -6365,7 +6337,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Version difference</source>
-        <translation type="unfinished"/>
+        <translation>版本差异</translation>
     </message>
     <message>
         <source>This %1 was created with LMMS %2.</source>
@@ -7001,7 +6973,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here, if you want to switch to another VST-plugin preset program.</source>
-        <translation type="unfinished"/>
+        <translation>如果你想切换到另一个 VST 插件预设，请点击这里。</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -7071,7 +7043,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here, if you want to switch to another VST-plugin preset program.</source>
-        <translation type="unfinished"/>
+        <translation>如果你想切换到另一个 VST 插件预设，请点击这里。</translation>
     </message>
     <message>
         <source>Next (+)</source>
@@ -8803,7 +8775,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Treble</source>
-        <translation type="unfinished"/>
+        <translation>高音</translation>
     </message>
     <message>
         <source>Bass</source>
@@ -8898,15 +8870,15 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Treble:</source>
-        <translation type="unfinished"/>
+        <translation>高音：</translation>
     </message>
     <message>
         <source>Treble</source>
-        <translation type="unfinished"/>
+        <translation>高音</translation>
     </message>
     <message>
         <source>Bass:</source>
-        <translation type="unfinished"/>
+        <translation>低音：</translation>
     </message>
     <message>
         <source>Bass</source>
@@ -9457,15 +9429,15 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Pulse Wave</source>
-        <translation type="unfinished"/>
+        <translation>脉冲波</translation>
     </message>
     <message>
         <source>Triangle Wave</source>
-        <translation type="unfinished"/>
+        <translation>三角波</translation>
     </message>
     <message>
         <source>SawTooth</source>
-        <translation type="unfinished"/>
+        <translation>锯齿波</translation>
     </message>
     <message>
         <source>Noise</source>

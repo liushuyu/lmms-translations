@@ -2250,14 +2250,6 @@ You can remove and move FX channels in the context menu, which is accessed by ri
 <context>
     <name>FxMixerView</name>
     <message>
-        <source>Rename FX channel</source>
-        <translation>Перейменувати канал Ефекту</translation>
-    </message>
-    <message>
-        <source>Enter the new name for this FX channel</source>
-        <translation>Введіть нову назву для цього каналу Ефекту</translation>
-    </message>
-    <message>
         <source>FX-Mixer</source>
         <translation>Мікшер Ефектів</translation>
     </message>
@@ -3882,18 +3874,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Запуск за замовчуванням з видаленням файла відновлення. Ця дія не відворотня.</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Вихід</translation>
-    </message>
-    <message>
-        <source>Shut down LMMS with no further action.</source>
-        <translation>Вимкнути LMMS без будь-яких подальших дій.</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation>Вийти</translation>
     </message>
     <message>
         <source>Preparing plugin browser</source>
@@ -6066,10 +6046,6 @@ Reason: &quot;%2&quot;</source>
         <translation>Фонове зображення</translation>
     </message>
     <message>
-        <source>FL Studio installation directory</source>
-        <translation>Каталог установки FL Studio</translation>
-    </message>
-    <message>
         <source>STK rawwave directory</source>
         <translation>Каталог STK rawwave</translation>
     </message>
@@ -6150,10 +6126,6 @@ Latency: %2 ms</source>
     <message>
         <source>Choose artwork-theme directory</source>
         <translation>Вибір каталогу з темою оформлення для LMMS</translation>
-    </message>
-    <message>
-        <source>Choose FL Studio installation directory</source>
-        <translation>Вибір каталогу встановленої FL Studio</translation>
     </message>
     <message>
         <source>Choose LADSPA plugin directory</source>

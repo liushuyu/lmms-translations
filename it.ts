@@ -2248,14 +2248,6 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
 <context>
     <name>FxMixerView</name>
     <message>
-        <source>Rename FX channel</source>
-        <translation>Rinomina il canale FX</translation>
-    </message>
-    <message>
-        <source>Enter the new name for this FX channel</source>
-        <translation>Inserire il nuovo nome di questo canale FX</translation>
-    </message>
-    <message>
         <source>FX-Mixer</source>
         <translation>Mixer FX</translation>
     </message>
@@ -3878,18 +3870,6 @@ Visitare http://lmms.sf.net/wiki  per la documentazione di LMMS.</translation>
     <message>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Fai partire una sessione normale, cancellando il file di recupero in modo irreversibile.</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Esci</translation>
-    </message>
-    <message>
-        <source>Shut down LMMS with no further action.</source>
-        <translation>Chiudi LMMS senza effettuare alcuna azione.</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation>Esci</translation>
     </message>
     <message>
         <source>Preparing plugin browser</source>
@@ -6056,10 +6036,6 @@ Motivo: &quot;%2&quot;</translation>
         <translation>Grafica dello sfondo</translation>
     </message>
     <message>
-        <source>FL Studio installation directory</source>
-        <translation>Directory di installazione di FL Studio</translation>
-    </message>
-    <message>
         <source>STK rawwave directory</source>
         <translation>Directory per i file rawwave STK</translation>
     </message>
@@ -6140,10 +6116,6 @@ Latenza: %2 ms</translation>
     <message>
         <source>Choose artwork-theme directory</source>
         <translation>Seleziona la directory del tema grafico</translation>
-    </message>
-    <message>
-        <source>Choose FL Studio installation directory</source>
-        <translation>Seleziona la directory di installazione di FL Studio</translation>
     </message>
     <message>
         <source>Choose LADSPA plugin directory</source>
@@ -6385,11 +6357,11 @@ Assicurati di avere almeno i permessi di lettura del file e prova di nuovo.</tra
     </message>
     <message>
         <source>Version difference</source>
-        <translation type="unfinished"/>
+        <translation>Differenza di versione</translation>
     </message>
     <message>
         <source>This %1 was created with LMMS %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1 creato con LMMS %2.</translation>
     </message>
 </context>
 <context>

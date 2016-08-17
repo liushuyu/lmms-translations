@@ -2244,14 +2244,6 @@ You can remove and move FX channels in the context menu, which is accessed by ri
 <context>
     <name>FxMixerView</name>
     <message>
-        <source>Rename FX channel</source>
-        <translation>Renomear Canal de Efeitos</translation>
-    </message>
-    <message>
-        <source>Enter the new name for this FX channel</source>
-        <translation>Insira o novo nome para este Canal de Efeitos</translation>
-    </message>
-    <message>
         <source>FX-Mixer</source>
         <translation>Mixer de Efeitos</translation>
     </message>
@@ -3873,18 +3865,6 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     <message>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Fechar</translation>
-    </message>
-    <message>
-        <source>Shut down LMMS with no further action.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation>Sair</translation>
     </message>
     <message>
         <source>Preparing plugin browser</source>
@@ -6035,10 +6015,6 @@ Motivo: &quot;%2&quot;</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>FL Studio installation directory</source>
-        <translation>Diretório de instalação FL Studio</translation>
-    </message>
-    <message>
         <source>STK rawwave directory</source>
         <translation type="unfinished"/>
     </message>
@@ -6118,10 +6094,6 @@ Latency: %2 ms</source>
     <message>
         <source>Choose artwork-theme directory</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Choose FL Studio installation directory</source>
-        <translation>Escolha o diretório de instalação FL Studio</translation>
     </message>
     <message>
         <source>Choose LADSPA plugin directory</source>

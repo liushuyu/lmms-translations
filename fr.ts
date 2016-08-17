@@ -2248,14 +2248,6 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
 <context>
     <name>FxMixerView</name>
     <message>
-        <source>Rename FX channel</source>
-        <translation>Renommer le canal d&apos;effet</translation>
-    </message>
-    <message>
-        <source>Enter the new name for this FX channel</source>
-        <translation>Entrer le nouveau nom pour ce canal d&apos;effet</translation>
-    </message>
-    <message>
         <source>FX-Mixer</source>
         <translation>Mélangeur d&apos;effets</translation>
     </message>
@@ -3878,18 +3870,6 @@ Veuillez visiter http://lmms.sf.net/wiki pour la documentation de LMMS.</transla
     <message>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Lancer une session par défaut et effacer les fichiers de récupération. Ceci n&apos;est pas réversible.</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Quitter</translation>
-    </message>
-    <message>
-        <source>Shut down LMMS with no further action.</source>
-        <translation>Fermer LMMS sans davantage d&apos;action.</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation>Sortir</translation>
     </message>
     <message>
         <source>Preparing plugin browser</source>
@@ -6056,10 +6036,6 @@ Raison : &quot;%2&quot;</translation>
         <translation>Thème graphique d&apos;arrière-plan</translation>
     </message>
     <message>
-        <source>FL Studio installation directory</source>
-        <translation>Répertoire d&apos;installation de FL Studio</translation>
-    </message>
-    <message>
         <source>STK rawwave directory</source>
         <translation>Répertoire de STK</translation>
     </message>
@@ -6140,10 +6116,6 @@ Latence : %2 ms</translation>
     <message>
         <source>Choose artwork-theme directory</source>
         <translation>Choisissez le répertoire des thèmes graphiques</translation>
-    </message>
-    <message>
-        <source>Choose FL Studio installation directory</source>
-        <translation>Choisissez le répertoire d&apos;installation de FL Studio</translation>
     </message>
     <message>
         <source>Choose LADSPA plugin directory</source>

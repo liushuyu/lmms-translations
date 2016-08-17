@@ -2239,14 +2239,6 @@ You can remove and move FX channels in the context menu, which is accessed by ri
 <context>
     <name>FxMixerView</name>
     <message>
-        <source>Rename FX channel</source>
-        <translation>重命名效果通道</translation>
-    </message>
-    <message>
-        <source>Enter the new name for this FX channel</source>
-        <translation>爲此效果通道輸入一個新的名稱</translation>
-    </message>
-    <message>
         <source>FX-Mixer</source>
         <translation>效果混合器</translation>
     </message>
@@ -3868,18 +3860,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>運行一個新的默認會話並且刪除恢復文件。此操作無法撤銷。</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>退出</translation>
-    </message>
-    <message>
-        <source>Shut down LMMS with no further action.</source>
-        <translation>什麼也不做並關閉 LMMS。</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation>退出</translation>
     </message>
     <message>
         <source>Preparing plugin browser</source>
@@ -6030,10 +6010,6 @@ Reason: &quot;%2&quot;</source>
         <translation>背景圖片</translation>
     </message>
     <message>
-        <source>FL Studio installation directory</source>
-        <translation>FL Studio安裝目錄</translation>
-    </message>
-    <message>
         <source>STK rawwave directory</source>
         <translation>STK rawwave 目錄</translation>
     </message>
@@ -6114,10 +6090,6 @@ Latency: %2 ms</source>
     <message>
         <source>Choose artwork-theme directory</source>
         <translation>選擇插圖目錄</translation>
-    </message>
-    <message>
-        <source>Choose FL Studio installation directory</source>
-        <translation>選擇 FL Studio 安裝目錄</translation>
     </message>
     <message>
         <source>Choose LADSPA plugin directory</source>
