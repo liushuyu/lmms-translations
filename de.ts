@@ -284,7 +284,7 @@ Wenn Sie daran interessiert sind LMMS in eine andere Sprache zu übersetzen oder
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation type="unfinished"/>
+        <translation>KANÄLE</translation>
     </message>
 </context>
 <context>
@@ -612,6 +612,10 @@ Wenn Sie daran interessiert sind LMMS in eine andere Sprache zu übersetzen oder
     </message>
     <message>
         <source>Clone Steps</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add sample-track</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2151,31 +2155,7 @@ Please make sure you have write-permission to the file and the directory contain
 <context>
     <name>FlangerControlsDialog</name>
     <message>
-        <source>Delay</source>
-        <translation>Verzögerung</translation>
-    </message>
-    <message>
         <source>Delay Time:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Lfo Hz</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Lfo:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Amt</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Amt:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Regen</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2183,11 +2163,39 @@ Please make sure you have write-permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Noise</source>
-        <translation>Rauschen</translation>
+        <source>White Noise Amount:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>White Noise Amount:</source>
+        <source>DELAY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NOISE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invert</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2446,6 +2454,14 @@ Sie können FX Kanäle im Kontextmenü entfernen und verschieben, welches durch 
         <source>Down and up</source>
         <translation>Hoch und runter</translation>
     </message>
+    <message>
+        <source>Skip rate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Miss rate</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2516,6 +2532,30 @@ Sie können FX Kanäle im Kontextmenü entfernen und verschieben, welches durch 
     <message>
         <source>Mode:</source>
         <translation>Modus:</translation>
+    </message>
+    <message>
+        <source>SKIP</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Skip rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The skip function will make the arpeggiator pause one step randomly. From its start in full counter clockwise position and no effect it will gradually progress to full amnesia at maximum setting.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MISS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Miss rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5330,11 +5370,11 @@ PM bedeutet Phasen-Modulation: Die Phase von Oszillator 3 wird durch Oszillator 
         <translation>DCAY</translation>
     </message>
     <message>
-        <source>TRES</source>
+        <source>Treshold:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Treshold:</source>
+        <source>TRSH</source>
         <translation type="unfinished"/>
     </message>
 </context>

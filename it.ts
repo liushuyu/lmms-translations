@@ -614,6 +614,10 @@ Se sei interessato a tradurre LMMS o vuoi migliorare una traduzione esistente, s
         <source>Clone Steps</source>
         <translation>Clona gli step</translation>
     </message>
+    <message>
+        <source>Add sample-track</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>BBTCOView</name>
@@ -2152,44 +2156,48 @@ Assicurarsi di avere i permessi in scrittura per il file e per la directory cont
 <context>
     <name>FlangerControlsDialog</name>
     <message>
-        <source>Delay</source>
-        <translation>Delay</translation>
-    </message>
-    <message>
         <source>Delay Time:</source>
         <translation>Tempo di Ritardo:</translation>
-    </message>
-    <message>
-        <source>Lfo Hz</source>
-        <translation>Lfo Hz</translation>
-    </message>
-    <message>
-        <source>Lfo:</source>
-        <translation>Frequenza Lfo:</translation>
-    </message>
-    <message>
-        <source>Amt</source>
-        <translation>Q.tà</translation>
-    </message>
-    <message>
-        <source>Amt:</source>
-        <translation>Quantità:</translation>
-    </message>
-    <message>
-        <source>Regen</source>
-        <translation>Regen</translation>
     </message>
     <message>
         <source>Feedback Amount:</source>
         <translation>Quantità di Feedback:</translation>
     </message>
     <message>
-        <source>Noise</source>
-        <translation>Rumore</translation>
-    </message>
-    <message>
         <source>White Noise Amount:</source>
         <translation>Quantità di Rumore Bianco:</translation>
+    </message>
+    <message>
+        <source>DELAY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NOISE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invert</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2446,6 +2454,14 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
         <source>Down and up</source>
         <translation>Giù e su</translation>
     </message>
+    <message>
+        <source>Skip rate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Miss rate</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2516,6 +2532,30 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
     <message>
         <source>Mode:</source>
         <translation>Modo:</translation>
+    </message>
+    <message>
+        <source>SKIP</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Skip rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The skip function will make the arpeggiator pause one step randomly. From its start in full counter clockwise position and no effect it will gradually progress to full amnesia at maximum setting.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MISS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Miss rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5330,12 +5370,12 @@ Vi sono due forme speciali: &quot;Random&quot; e &quot;Random morbido&quot; sono
         <translation>DCAD</translation>
     </message>
     <message>
-        <source>TRES</source>
-        <translation>SOGL</translation>
-    </message>
-    <message>
         <source>Treshold:</source>
         <translation>Soglia:</translation>
+    </message>
+    <message>
+        <source>TRSH</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

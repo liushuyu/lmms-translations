@@ -616,6 +616,10 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
         <source>Clone Steps</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Add sample-track</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>BBTCOView</name>
@@ -2141,31 +2145,7 @@ Please make sure you have write-permission to the file and the directory contain
 <context>
     <name>FlangerControlsDialog</name>
     <message>
-        <source>Delay</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Delay Time:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Lfo Hz</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Lfo:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Amt</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Amt:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Regen</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2173,11 +2153,39 @@ Please make sure you have write-permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Noise</source>
+        <source>White Noise Amount:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>White Noise Amount:</source>
+        <source>DELAY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NOISE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invert</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2430,6 +2438,14 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Down and up</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Skip rate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Miss rate</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2499,6 +2515,30 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Mode:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SKIP</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Skip rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The skip function will make the arpeggiator pause one step randomly. From its start in full counter clockwise position and no effect it will gradually progress to full amnesia at maximum setting.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MISS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Miss rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The miss function will make the arpeggiator miss the intended note.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5295,11 +5335,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>TRES</source>
+        <source>Treshold:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Treshold:</source>
+        <source>TRSH</source>
         <translation type="unfinished"/>
     </message>
 </context>

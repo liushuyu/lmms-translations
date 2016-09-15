@@ -615,6 +615,10 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
         <source>Clone Steps</source>
         <translation>Clonar Pasos</translation>
     </message>
+    <message>
+        <source>Add sample-track</source>
+        <translation>Agregar pista de muestras</translation>
+    </message>
 </context>
 <context>
     <name>BBTCOView</name>
@@ -848,7 +852,7 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
     </message>
     <message>
         <source>OK</source>
-        <translation>Aceptar</translation>
+        <translation>De acuerdo</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2127,7 +2131,7 @@ Please make sure you have write-permission to the file and the directory contain
     <name>FlangerControls</name>
     <message>
         <source>Delay Samples</source>
-        <translation>Retrasar muestras</translation>
+        <translation>Muestras de retraso</translation>
     </message>
     <message>
         <source>Lfo Frequency</source>
@@ -2153,44 +2157,48 @@ Please make sure you have write-permission to the file and the directory contain
 <context>
     <name>FlangerControlsDialog</name>
     <message>
-        <source>Delay</source>
-        <translation>Retraso</translation>
-    </message>
-    <message>
         <source>Delay Time:</source>
         <translation>Tiempo de retraso :</translation>
-    </message>
-    <message>
-        <source>Lfo Hz</source>
-        <translation>Lfo Hz</translation>
-    </message>
-    <message>
-        <source>Lfo:</source>
-        <translation>Lfo:</translation>
-    </message>
-    <message>
-        <source>Amt</source>
-        <translation>Cant</translation>
-    </message>
-    <message>
-        <source>Amt:</source>
-        <translation>Cant:</translation>
-    </message>
-    <message>
-        <source>Regen</source>
-        <translation>Intensidad</translation>
     </message>
     <message>
         <source>Feedback Amount:</source>
         <translation>Cantidad de realimentación:</translation>
     </message>
     <message>
-        <source>Noise</source>
-        <translation>Ruido</translation>
-    </message>
-    <message>
         <source>White Noise Amount:</source>
         <translation>Cantidad de Ruido Blanco:</translation>
+    </message>
+    <message>
+        <source>DELAY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NOISE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invert</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2447,6 +2455,14 @@ Puedes quitar y mover los canales FX a través del menú contextual. Accede a es
         <source>Down and up</source>
         <translation>Abajo y arriba</translation>
     </message>
+    <message>
+        <source>Skip rate</source>
+        <translation>Tasa de salto</translation>
+    </message>
+    <message>
+        <source>Miss rate</source>
+        <translation>Tasa de omisión</translation>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2517,6 +2533,30 @@ Puedes quitar y mover los canales FX a través del menú contextual. Accede a es
     <message>
         <source>Mode:</source>
         <translation>Modo:</translation>
+    </message>
+    <message>
+        <source>SKIP</source>
+        <translation>SALTAR</translation>
+    </message>
+    <message>
+        <source>Skip rate:</source>
+        <translation>Tasa de salto:</translation>
+    </message>
+    <message>
+        <source>The skip function will make the arpeggiator pause one step randomly. From its start in full counter clockwise position and no effect it will gradually progress to full amnesia at maximum setting.</source>
+        <translation>&quot;Saltar&quot; hace que el arpegiador se detenga momentáneamente en un paso de manera aleatoria. En su posición inicial no produce ningún efecto. Desde allí, el efecto se incrementa gradualmente, llegando a una amnesia total en su configuración máxima.</translation>
+    </message>
+    <message>
+        <source>MISS</source>
+        <translation>OMITIR</translation>
+    </message>
+    <message>
+        <source>Miss rate:</source>
+        <translation>Tasa de omisión:</translation>
+    </message>
+    <message>
+        <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation>&quot;Omitir&quot; hace que el arpegiador pase por alto la nota deseada.</translation>
     </message>
 </context>
 <context>
@@ -3870,7 +3910,7 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
     </message>
     <message>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
-        <translation>Lanzar una sesión por defecto y borrar los archivos restaurados. Esta acción no es reversible.</translation>
+        <translation>Iniciar una sesión por defecto y borrar los archivos restaurados. Esta acción no es reversible.</translation>
     </message>
     <message>
         <source>Preparing plugin browser</source>
@@ -4026,7 +4066,7 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
     </message>
     <message>
         <source>You do not have set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
-        <translation>Nos has elegido una SoundFont por defecto en el diálogo de configuración (Edición-&gt; Configuración). Por lo tanto, no se reproducirá ningún sonido luego de importar este archivo MIDI. Debes descargar una SoundFont compatible con la GM (general midi), y especificarlo en el diálogo de configuración nuevamente. N.d.A: SoundFont es un formato de archivo (*.sf2) para síntesis de sonido por muestras. Puedes descargar la &quot;FluidR3_GM.sf2&quot; u otras con el gestor de paquetes, luego selecciónala en el diálogo de Configuración.</translation>
+        <translation>Nos has elegido una SoundFont por defecto en el diálogo de configuración (Edición-&gt; Configuración). Por lo tanto, no se reproducirá ningún sonido luego de importar este archivo MIDI. Debes descargar una SoundFont compatible con la GM (general midi), indicar su ubicación en el diálogo de configuración e intentarlo nuevamente. </translation>
     </message>
     <message>
         <source>You did not compile LMMS with support for SoundFont2 player, which is used to add default sound to imported MIDI files. Therefore no sound will be played back after importing this MIDI file.</source>
@@ -4103,15 +4143,15 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
     </message>
     <message>
         <source>Osc 1 Coarse detune</source>
-        <translation>Osc 1 desintonización gruesa</translation>
+        <translation>Osc 1 desafinación gruesa</translation>
     </message>
     <message>
         <source>Osc 1 Fine detune left</source>
-        <translation>Osc 1 desintonización fina izquierda</translation>
+        <translation>Osc 1 desafinación fina izquierda</translation>
     </message>
     <message>
         <source>Osc 1 Fine detune right</source>
-        <translation>Osc 1 desintonización fina derecha</translation>
+        <translation>Osc 1 desafinación fina derecha</translation>
     </message>
     <message>
         <source>Osc 1 Stereo phase offset</source>
@@ -4139,15 +4179,15 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
     </message>
     <message>
         <source>Osc 2 Coarse detune</source>
-        <translation>Osc 2 desintonización gruesa</translation>
+        <translation>Osc 2 desafinación gruesa</translation>
     </message>
     <message>
         <source>Osc 2 Fine detune left</source>
-        <translation>Osc 2 desintonización fina izquierda</translation>
+        <translation>Osc 2 desafinación fina izquierda</translation>
     </message>
     <message>
         <source>Osc 2 Fine detune right</source>
-        <translation>Osc 2 desintonización fina derecha</translation>
+        <translation>Osc 2 desafinación fina derecha</translation>
     </message>
     <message>
         <source>Osc 2 Stereo phase offset</source>
@@ -4175,7 +4215,7 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
     </message>
     <message>
         <source>Osc 3 Coarse detune</source>
-        <translation>Osc 3 desintonización gruesa</translation>
+        <translation>Osc 3 desafinación gruesa</translation>
     </message>
     <message>
         <source>Osc 3 Stereo phase offset</source>
@@ -4183,7 +4223,7 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
     </message>
     <message>
         <source>Osc 3 Sub-oscillator mix</source>
-        <translation>Osc 3 Mezcla de sub-osciladores</translation>
+        <translation>Osc 3 Mezcla del sub-oscilador</translation>
     </message>
     <message>
         <source>Osc 3 Waveform 1</source>
@@ -4191,7 +4231,7 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
     </message>
     <message>
         <source>Osc 3 Waveform 2</source>
-        <translation>Osc 2 Onda 2</translation>
+        <translation>Osc 3 Onda 2</translation>
     </message>
     <message>
         <source>Osc 3 Sync Hard</source>
@@ -4291,7 +4331,7 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
     </message>
     <message>
         <source>Osc2-3 modulation</source>
-        <translation>Modulación de osc 2-3</translation>
+        <translation>Modulación osc 2-3</translation>
     </message>
     <message>
         <source>Selected view</source>
@@ -4511,7 +4551,7 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
     </message>
     <message>
         <source>White noise</source>
-        <translation>Ruido-blanco</translation>
+        <translation>Ruido blanco</translation>
     </message>
     <message>
         <source>Digital Triangle wave</source>
@@ -4578,7 +4618,7 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
 Knobs and other widgets in the Operators view have their own what&apos;s this -texts, so you can get more specific help for them that way. </source>
         <translation>La vista de operadores contiene todos los operadores. Esto incluye tanto los operadores audibles (osciladores) como los operadores inaudibles (moduladores): Osciladores de baja frecuencia (LFO) y Envolventes.
 
-Cada perilla y selector en la Vista de Operadores incluye una pequeña ayuda a la que puedes acceder haciendo click en el icono &apos;¿qué es esto? en la barra superior y luego en la perilla o selector. Puedes encontrar ayuda mucho más específica de esa manera.</translation>
+Cada perilla y selector en la Vista de Operadores incluye una pequeña ayuda a la que puedes acceder haciendo click en el icono &apos;¿qué es esto?&apos; en la barra superior y luego en la perilla o selector. Puedes encontrar ayuda mucho más específica de esa manera.</translation>
     </message>
     <message>
         <source>Matrix view</source>
@@ -4630,19 +4670,19 @@ Cada objetivo de modulación tiene cuatro perillas, una para cada modulador. Por
     </message>
     <message>
         <source>The SPO knob modifies the difference in phase between left and right channels. Higher difference creates a wider stereo image. </source>
-        <translation>La perilla SPO (Balance de Fase Estéreo, por sus siglas en inglés) modifica la diferencia de fase entre los canales izquierdo y derecho. Una mayor diferencia crea una imagen estéreo más amplia.</translation>
+        <translation>La perilla SPO (Diferencia de Fase Estéreo, por sus siglas en inglés) modifica la diferencia de fase entre los canales izquierdo y derecho. Una mayor diferencia crea una imagen estéreo más amplia.</translation>
     </message>
     <message>
         <source>The PW knob controls the pulse width, also known as duty cycle, of oscillator 1. Oscillator 1 is a digital pulse wave oscillator, it doesn&apos;t produce bandlimited output, which means that you can use it as an audible oscillator but it will cause aliasing. You can also use it as an inaudible source of a sync signal, which can be used to synchronize oscillators 2 and 3. </source>
-        <translation>La perilla PW controla la amplitud del pulso, también conocida como ciclo de trabajo, del oscilador 1. El oscildor 1 es un oscilador de onda de pulso digital., no produce una salida de banda limitada, lo que significa que puedes usarlo como un oscilador audible pero causará &apos;aliasing&apos; (efecto Nyquist). También puedes usarlo como una fuente inaudible para sincronización, que puedes usar para sincronizar los osciladores 2 y 3.</translation>
+        <translation>La perilla PW controla la amplitud del pulso, también conocida como ciclo de trabajo, del oscilador 1. El oscilador 1 es un oscilador de onda de pulso digital, no produce una salida de banda limitada, lo que significa que puedes usarlo como un oscilador audible pero causará &apos;aliasing&apos; (efecto Nyquist). También puedes usarlo como una fuente inaudible para sincronización, que puedes usar para sincronizar los osciladores 2 y 3.</translation>
     </message>
     <message>
         <source>Send Sync on Rise: When enabled, the Sync signal is sent every time the state of oscillator 1 changes from low to high, ie. when the amplitude changes from -1 to 1. Oscillator 1&apos;s pitch, phase and pulse width may affect the timing of syncs, but its volume has no effect on them. Sync signals are sent independently for both left and right channels. </source>
-        <translation>Enviar Sinc al subir: Cuando está activado, la señal de sincronización es enviada cada vez que el estado del oscilador 1 pasa de abajo arriba, por ej. cuando la amplitud cambia de -1 a 1. La altura, fase y amplitud de pulso del oscilador 1 pueden afectar la sincronización, pero el volumen no tiene ningún efecto en ella. Las señales de Sinc(ronización) son enviadas de manera independiente a los canales izquierdo y derecho.</translation>
+        <translation>Enviar Sinc al subir: Cuando está activado, la señal de sincronización es enviada cada vez que el estado del oscilador 1 pasa de abajo arriba, por ej. cuando la amplitud cambia de -1 a 1. La altura, fase y amplitud de pulso del oscilador 1 pueden afectar la sincronización, pero el volumen no tiene ningún efecto en ella. Las señales de Sincronización son enviadas de manera independiente a los canales izquierdo y derecho.</translation>
     </message>
     <message>
         <source>Send Sync on Fall: When enabled, the Sync signal is sent every time the state of oscillator 1 changes from high to low, ie. when the amplitude changes from 1 to -1. Oscillator 1&apos;s pitch, phase and pulse width may affect the timing of syncs, but its volume has no effect on them. Sync signals are sent independently for both left and right channels. </source>
-        <translation>Enviar Sinc al bajar: Cuando está activado, la señal de sincronización es enviada cada vez que el estado del oscilador 1 pasa de arriba abajo, por ej. cuando la amplitud cambia de 1 a -1. La altura, fase y amplitud de pulso del oscilador 1 pueden afectar la sincronización, pero el volumen no tiene ningún efecto en ella. Las señales de Sinc(ronización) son enviadas de manera independiente a los canales izquierdo y derecho.</translation>
+        <translation>Enviar Sinc al bajar: Cuando está activado, la señal de sincronización es enviada cada vez que el estado del oscilador 1 pasa de arriba abajo, por ej. cuando la amplitud cambia de 1 a -1. La altura, fase y amplitud de pulso del oscilador 1 pueden afectar la sincronización, pero el volumen no tiene ningún efecto en ella. Las señales de Sincronización son enviadas de manera independiente a los canales izquierdo y derecho.</translation>
     </message>
     <message>
         <source>Hard sync: Every time the oscillator receives a sync signal from oscillator 1, its phase is reset to 0 + whatever its phase offset is. </source>
@@ -4650,7 +4690,7 @@ Cada objetivo de modulación tiene cuatro perillas, una para cada modulador. Por
     </message>
     <message>
         <source>Reverse sync: Every time the oscillator receives a sync signal from oscillator 1, the amplitude of the oscillator gets inverted. </source>
-        <translation>Sincronización reversa: Cada vez que el oscilador recive una señal de sinc[ronización] del oscilador 1, la amplitud el oscilador se invierte.</translation>
+        <translation>Sincronización reversa: Cada vez que el oscilador recibe una señal de sincronización del oscilador 1, la amplitud del oscilador se invierte.</translation>
     </message>
     <message>
         <source>Choose waveform for oscillator 2. </source>
@@ -4658,11 +4698,11 @@ Cada objetivo de modulación tiene cuatro perillas, una para cada modulador. Por
     </message>
     <message>
         <source>Choose waveform for oscillator 3&apos;s first sub-osc. Oscillator 3 can smoothly interpolate between two different waveforms. </source>
-        <translation>Elige una onda diferente para el primer sub-oscilador del oscilador 3. El oscilador 3 puede interpolar suavemente dos ondas diferentes.</translation>
+        <translation>Elige una onda para el primer sub-oscilador del oscilador 3. El oscilador 3 puede interpolar suavemente dos ondas diferentes.</translation>
     </message>
     <message>
         <source>Choose waveform for oscillator 3&apos;s second sub-osc. Oscillator 3 can smoothly interpolate between two different waveforms. </source>
-        <translation>Elige una onda diferente para el segundo sub-oscilador del oscilador 3. El oscilador 3 puede interpolar suavemente dos ondas diferentes.</translation>
+        <translation>Elige una onda para el segundo sub-oscilador del oscilador 3. El oscilador 3 puede interpolar suavemente dos ondas diferentes.</translation>
     </message>
     <message>
         <source>The SUB knob changes the mixing ratio of the two sub-oscs of oscillator 3. Each sub-osc can be set to produce a different waveform, and oscillator 3 can smoothly interpolate between them. All incoming modulations to oscillator 3 are applied to both sub-oscs/waveforms in the exact same way. </source>
@@ -4682,7 +4722,7 @@ En Modo Mezcla (Mix) no hay modulación: simplemente mezcla la salida de los osc
 AM means amplitude modulation: Oscillator 3&apos;s amplitude (volume) is modulated by oscillator 2. </source>
         <translation>Además de los propios moduladores, Monstro permite modular el oscilador 3 con la salida del oscilador 2
 
-AM signigica &apos;amplitud modulada&apos;. La amplitud (volumen) del oscilador 2 es modulada por el oscilador 2.</translation>
+AM significa &apos;amplitud modulada&apos;. La amplitud (volumen) del oscilador 3 es modulada por el oscilador 2.</translation>
     </message>
     <message>
         <source>In addition to dedicated modulators, Monstro allows oscillator 3 to be modulated by the output of oscillator 2. 
@@ -4690,7 +4730,7 @@ AM signigica &apos;amplitud modulada&apos;. La amplitud (volumen) del oscilador 
 FM means frequency modulation: Oscillator 3&apos;s frequency (pitch) is modulated by oscillator 2. The frequency modulation is implemented as phase modulation, which gives a more stable overall pitch than &quot;pure&quot; frequency modulation. </source>
         <translation>Además de los propios moduladores, Monstro permite modular el oscilador 3 con la salida del oscilador 2
 
-FM significa &apos;frecuencia modulada&apos;. La frecuencia (altura) del oscilador 3 es modulada por el oscilador 2. La modulaciónde frecuencia se implemente como una modulación de fase, lo que le brinda una altura general más estable a diferencia de la modulación de frecuencia &quot;pura&quot;.</translation>
+FM significa &apos;frecuencia modulada&apos;. La frecuencia (altura) del oscilador 3 es modulada por el oscilador 2. La modulación de frecuencia se implementa como una modulación de fase, lo que le brinda una altura general más estable a diferencia de la modulación de frecuencia &quot;pura&quot;.</translation>
     </message>
     <message>
         <source>In addition to dedicated modulators, Monstro allows oscillator 3 to be modulated by the output of oscillator 2. 
@@ -4698,7 +4738,7 @@ FM significa &apos;frecuencia modulada&apos;. La frecuencia (altura) del oscilad
 PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 2. It differs from frequency modulation in that the phase changes are not cumulative. </source>
         <translation>Además de los propios moduladores, Monstro permite modular el oscilador 3 con la salida del oscilador 2
 
-PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada por el oscilador 2. Se diferencia de la &apos;frecuencia modulada&apos; en que los cambios de fase no son acumulativos.</translation>
+PM significa &apos;modulación de fase&apos;. La fase del oscilador 3 es modulada por el oscilador 2. Se diferencia de la &apos;frecuencia modulada&apos; en que los cambios de fase no son acumulativos.</translation>
     </message>
     <message>
         <source>Select the waveform for LFO 1. 
@@ -4714,7 +4754,7 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Attack causes the LFO to come on gradually from the start of the note. </source>
-        <translation>El &apos;Ataque&apos; hace que el LFO crezca gradualmente desde el inicio de la nota.</translation>
+        <translation>El &apos;Ataque&apos; hace que el LFO aparezca gradualmente desde el inicio de la nota.</translation>
     </message>
     <message>
         <source>Rate sets the speed of the LFO, measured in milliseconds per cycle. Can be synced to tempo. </source>
@@ -4726,19 +4766,19 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>PRE, or pre-delay, delays the start of the envelope from the start of the note. 0 means no delay. </source>
-        <translation>PRE, o pre-retraso, retrasa en inicio de la envolvente con respecto al inicio de la nota. 0 significa ningún retraso. </translation>
+        <translation>PRE, o pre-retraso, retrasa el inicio de la envolvente con respecto al inicio de la nota. Con un valor de 0 (cero) la envolvente se inicia inmediatamente. </translation>
     </message>
     <message>
         <source>ATT, or attack, controls how fast the envelope ramps up at start, measured in milliseconds. A value of 0 means instant. </source>
-        <translation>ATT, o ataque, controla que tan rápido la envolvente se elveva al principio, en milisegundos. 0 significa instantáneamente.</translation>
+        <translation>ATT, o ataque, controla que tan rápido la envolvente se eleva al principio, en milisegundos. 0 significa instantáneamente.</translation>
     </message>
     <message>
         <source>HOLD controls how long the envelope stays at peak after the attack phase. </source>
-        <translation>HOD (mantener) controla cuánto tiempo la envolvente permanece en el pico luego del ataque.</translation>
+        <translation>HOLD (mantener) controla cuánto tiempo la envolvente permanece en el pico luego del ataque.</translation>
     </message>
     <message>
         <source>DEC, or decay, controls how fast the envelope falls off from its peak, measured in milliseconds it would take to go from peak to zero. The actual decay may be shorter if sustain is used. </source>
-        <translation>DEC, o caída, controla que tan rápido la envolvente cae desde el pico alcanzado en el ataque. Se mide de acuerdo a los milisegundos que le toma caer desde el pico hasta cero. La caída actual puede ser más corts se se utiliza el &apos;sustain&apos; [de la envolvente].</translation>
+        <translation>DEC, o caída, controla que tan rápido la envolvente cae desde el pico alcanzado en el ataque. Se mide de acuerdo a los milisegundos que le toma caer desde el pico hasta cero. La caída actual puede ser más corta si se utiliza el &apos;sustain&apos; [de la envolvente].</translation>
     </message>
     <message>
         <source>SUS, or sustain, controls the sustain level of the envelope. The decay phase will not go below this level as long as the note is held. </source>
@@ -4746,11 +4786,11 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>REL, or release, controls how long the release is for the note, measured in how long it would take to fall from peak to zero. Actual release may be shorter, depending on at what phase the note is released. </source>
-        <translation>REL, o &apos;release&apos;, controla cuánto dura el &apos;release&apos; o disipación de esta nota, o sea cuánto tarda en llegar del pico a cero. El release actual puede ser más breve, dependiendo de en que fase se libera la nota. (N.d.A.: el &apos;release&apos; puede ir del pico a cero o, si activas un nivel para el &apos;sustain&apos;, desde este nivel a cero, a partir del momento en el que dejes de presionar la tecla. Ver &apos;sustain&apos; o &apos;SUS&apos;).</translation>
+        <translation>REL, o disipación, controla cuánto dura la disipación de la nota, o sea cuánto tarda en llegar del pico a cero. La disipación actual puede ser más breve, dependiendo de en que fase se libera la nota. (N.d.T.: la disipación puede ir del pico a cero o, si activas un nivel para el &apos;sustain&apos;, desde este nivel a cero, a partir del momento en el que dejes de presionar la tecla. Ver &apos;sustain&apos; o &apos;SUS&apos;).</translation>
     </message>
     <message>
         <source>The slope knob controls the curve or shape of the envelope. A value of 0 creates straight rises and falls. Negative values create curves that start slowly, peak quickly and fall of slowly again. Positive values create curves that start and end quickly, and stay longer near the peaks. </source>
-        <translation>El control de &apos;curva&apos; (Slope) controla la forma de la envolvente. Un valor igual a 0 crea subidas y bajadas rectas. Valores negativos crean curvas que comienzan despacio, alcanzan el pico rápidamente y bajan suavemente como subieron. Valores positivos crean curvas que suben y bajan rápidamente, pero se mantienen arriba por más tiempo cerca del pico.</translation>
+        <translation>El control de &apos;curva&apos; (Slope) controla la forma de la envolvente. Un valor igual a 0 crea subidas y bajadas rectas. Valores negativos crean curvas que comienzan despacio, alcanzan el pico rápidamente y bajan suavemente como subieron. Valores positivos crean curvas que suben y bajan rápidamente, pero se mantienen por más tiempo cerca de los picos.</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -4826,7 +4866,7 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Rate</source>
-        <translation>Tasa (rate)</translation>
+        <translation>Tasa</translation>
     </message>
     <message>
         <source>Phase</source>
@@ -4854,7 +4894,7 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Slope</source>
-        <translation>Inclinación</translation>
+        <translation>Curva</translation>
     </message>
     <message>
         <source>Modulation amount</source>
@@ -4889,11 +4929,11 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Swap inputs</source>
-        <translation>Alternar entradas</translation>
+        <translation>Intercambiar entradas</translation>
     </message>
     <message>
         <source>Swap left and right input channel for reflections</source>
-        <translation>Alternar los canales de entrada izquierdo y derecho para reflexiones</translation>
+        <translation>Intercambiar los canales de entrada izquierdo y derecho para reflexiones</translation>
     </message>
 </context>
 <context>
@@ -5039,7 +5079,7 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Enable envelope 2</source>
-        <translation>Habilitar el bucle de la envolvente 2</translation>
+        <translation>Habilitar la envolvente 2</translation>
     </message>
     <message>
         <source>Enable envelope 2 loop</source>
@@ -5098,7 +5138,7 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     <name>OscillatorObject</name>
     <message>
         <source>Osc %1 volume</source>
-        <translation>Osc. %1 Volumen</translation>
+        <translation>Osc %1 Volumen</translation>
     </message>
     <message>
         <source>Osc %1 panning</source>
@@ -5106,15 +5146,15 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Osc %1 coarse detuning</source>
-        <translation>Osc %1 desintonización gruesa</translation>
+        <translation>Osc %1 desafinación gruesa</translation>
     </message>
     <message>
         <source>Osc %1 fine detuning left</source>
-        <translation>Osc %1 desintonización fina izquierda</translation>
+        <translation>Osc %1 desafinación fina izquierda</translation>
     </message>
     <message>
         <source>Osc %1 fine detuning right</source>
-        <translation>Osc %1 desintonización fina derecha</translation>
+        <translation>Osc %1 desafinación fina derecha</translation>
     </message>
     <message>
         <source>Osc %1 phase-offset</source>
@@ -5122,7 +5162,7 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Osc %1 stereo phase-detuning</source>
-        <translation>Osc %1 desintonización de fase estéreo</translation>
+        <translation>Osc %1 desafinación de fase estéreo</translation>
     </message>
     <message>
         <source>Osc %1 wave shape</source>
@@ -5169,7 +5209,7 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>De acuerdo</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5180,7 +5220,7 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     <name>PatmanView</name>
     <message>
         <source>Open other patch</source>
-        <translation>Abrir otro patch</translation>
+        <translation>Abrir otro ajuste</translation>
     </message>
     <message>
         <source>Click here to open another patch-file. Loop and Tune settings are not reset.</source>
@@ -5331,12 +5371,12 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
         <translation>CAI</translation>
     </message>
     <message>
-        <source>TRES</source>
-        <translation>UMBR</translation>
-    </message>
-    <message>
         <source>Treshold:</source>
         <translation>Umbral:</translation>
+    </message>
+    <message>
+        <source>TRSH</source>
+        <translation>UMBRAL</translation>
     </message>
 </context>
 <context>
@@ -5378,7 +5418,7 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     <name>PianoRoll</name>
     <message>
         <source>Please open a pattern by double-clicking on it!</source>
-        <translation>¡Por favor abra el patrón haciendo doble click sobre él!</translation>
+        <translation>¡Por favor abre el patrón haciendo doble click sobre él!</translation>
     </message>
     <message>
         <source>Last note</source>
@@ -5398,7 +5438,7 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Mark/unmark current semitone</source>
-        <translation>Marcar/desmarcar el semitono actual</translation>
+        <translation>Marcar/desmarcar este semitono</translation>
     </message>
     <message>
         <source>Mark current scale</source>
@@ -5457,11 +5497,11 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Record notes from MIDI-device/channel-piano</source>
-        <translation>Grabar notas desde dispositivo/canal/teclado MIDI</translation>
+        <translation>Grabar notas desde el dispositivo/canal/teclado MIDI</translation>
     </message>
     <message>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
-        <translation>Grabar notas desde dispositivo/canal/teclado MIDI escuchando la Canción o el Ritmo+Base</translation>
+        <translation>Grabar notas desde el dispositivo/canal/teclado MIDI escuchando la Canción o el Ritmo+Bajo</translation>
     </message>
     <message>
         <source>Stop playing of current pattern (Space)</source>
@@ -5469,15 +5509,15 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Click here to play the current pattern. This is useful while editing it. The pattern is automatically looped when its end is reached.</source>
-        <translation>Haz click aquí para reproducir este patrón. Te será útil al editarlo. El patrón se reproducirá en bucle cada vez que llegue al final.</translation>
+        <translation>Haz click aquí para reproducir este patrón. Te será útil al editarlo. El patrón se reproducirá en bucle automáticamente.</translation>
     </message>
     <message>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you can play and edit them afterwards.</source>
-        <translation>Haz click aquí para grabar notas desde un dispositivo MIDI o desde el piano virtual de la ventana. Cuando hayas grabado todas las notas, estas se escribirán en este patrón y luego podrás editarlas.</translation>
+        <translation>Haz click aquí para grabar notas desde un dispositivo MIDI o desde el piano virtual de la ventana. Al grabar, las notas se escribirán en este patrón y luego podrás editarlas.</translation>
     </message>
     <message>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you will hear the song or BB track in the background.</source>
-        <translation>Haz click aquí para grabar notas desde un dispositivo MIDI o desde el piano virtual de la ventana. Escucharás la Canción o el Ritmo+Base mientras tocas las notas que estas grabando en este patrón.</translation>
+        <translation>Haz click aquí para grabar notas desde un dispositivo MIDI o desde el piano virtual de la ventana. Al grabar escucharás de fondo la canción o el Ritmo/Bajo, y todas las notas que toques se escribirán en este patrón.</translation>
     </message>
     <message>
         <source>Click here to stop playback of current pattern.</source>
@@ -5501,19 +5541,19 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Click here and draw mode will be activated. In this mode you can add, resize and move notes. This is the default mode which is used most of the time. You can also press &apos;Shift+D&apos; on your keyboard to activate this mode. In this mode, hold %1 to temporarily go into select mode.</source>
-        <translation>Haz click aquí para activar el modo de Dibujo. En el modo de Dibujo, puedes añadir, redimensionar y mover las notas. Este es el modo por defecto y el que utilizarás la mayoria de las veces. Tambien puedes presionar &apos;Shift+D&apos; en el teclado para activar este modo. Mientras estes en modo de Dibujo, mantén presionado %1 para activar temporalmente el modo de Seleccion.</translation>
+        <translation>Haz click aquí para activar el modo de Dibujo. En el modo de Dibujo, puedes añadir, redimensionar y mover las notas. Este es el modo por defecto y el que utilizarás la mayoría de las veces. Tambien puedes presionar &apos;Shift+D&apos; en el teclado para activar este modo. Mientras estes en modo de Dibujo, mantén presionado %1 para activar temporalmente el modo de Selección.</translation>
     </message>
     <message>
         <source>Click here and erase mode will be activated. In this mode you can erase notes. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
-        <translation>Haz click aquí para activar el modo de borrado. En esto modo puedes borrar notas. Puedes activar este modo desde el teclado presionando &apos;Shift+E&apos;.</translation>
+        <translation>Haz click aquí para activar el modo de Borrado. En este modo puedes borrar notas. Puedes activar este modo desde el teclado presionando &apos;Shift+E&apos;.</translation>
     </message>
     <message>
         <source>Click here and select mode will be activated. In this mode you can select notes. Alternatively, you can hold %1 in draw mode to temporarily use select mode.</source>
-        <translation>Haz click aquí para activar el modo de Seleccion. En este modo puedes seleccionar notas. O también puedes mantener presionado %1 en el modo de dibujo para acceder temporalmente al modo de Seleccion.</translation>
+        <translation>Haz click aquí para activar el modo de Selección. En este modo puedes seleccionar notas. O también puedes mantener presionado %1 en el modo de dibujo para acceder temporalmente al modo de Selección.</translation>
     </message>
     <message>
         <source>Click here and detune mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
-        <translation>Haz click aquí para activar el modo de Cambio de Tono. En esto modo, puedes hacer click en una nota para abrir su ventana de automatización de cambio de tono (detuning). Puedes utilizar este modo para crear &apos;glissandos&apos; (deslizar de una nota hacia otra). Presiona &apos;Shift+T&apos; para activar este modo desde el teclado.</translation>
+        <translation>Haz click aquí para activar el modo de Cambio de Tono. En este modo, puedes hacer click en una nota para abrir su ventana de automatización de cambio de tono (detuning). Puedes utilizar este modo para crear &apos;glissandos&apos; (deslizar de una nota hacia otra). Presiona &apos;Shift+T&apos; para activar este modo desde el teclado.</translation>
     </message>
     <message>
         <source>Cut selected notes (%1+X)</source>
@@ -5529,11 +5569,11 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Click here and the selected notes will be cut into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
-        <translation>Haz click aquí y las notas seleccionadas se-moverán al portapapeles. Puedes pegarlas en cualquier lugar de cualquier patrón haciendo click en el botón &quot;pegar&quot;.</translation>
+        <translation>Haz click aquí y las notas seleccionadas se moverán al portapapeles. Puedes pegarlas en cualquier lugar de cualquier patrón haciendo click en el botón &quot;pegar&quot;.</translation>
     </message>
     <message>
         <source>Click here and the selected notes will be copied into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
-        <translation>Haz click aquí y las notas seleccionadas se-copiarán al portapapeles. Puedes pegarlas en cualquier lugar de cualquier patrón haciendo click en el botón &quot;pegar&quot;.</translation>
+        <translation>Haz click aquí y las notas seleccionadas se copiarán al portapapeles. Puedes pegarlas en cualquier lugar de cualquier patrón haciendo click en el botón &quot;pegar&quot;.</translation>
     </message>
     <message>
         <source>Click here and the notes from the clipboard will be pasted at the first visible measure.</source>
@@ -5545,7 +5585,7 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>The &apos;Q&apos; stands for quantization, and controls the grid size notes and control points snap to. With smaller quantization values, you can draw shorter notes in Piano Roll, and more exact control points in the Automation Editor.</source>
-        <translation>La &apos;Q&apos; se refiere a &apos;Cuantización&apos;, y controla el tamaño de la grilla y los puntos de control a los que se &apos;adhieren&apos; las notas que ingresas. Con valores de cuantizacion más pequeños, puedes dibujar notas más breves en el Piano Roll, y puntos de control más exactos en el Editor de Automatización.</translation>
+        <translation>La &apos;Q&apos; se refiere a &apos;Cuantización&apos;, y controla el tamaño de la grilla y los puntos de control a los que se &apos;adhieren&apos; las notas que ingresas. Con valores de cuantización más pequeños, puedes dibujar notas más breves en el Piano Roll, y puntos de control más exactos en el Editor de Automatización.</translation>
     </message>
     <message>
         <source>This lets you select the length of new notes. &apos;Last Note&apos; means that LMMS will use the note length of the note you last edited</source>
@@ -5557,7 +5597,7 @@ PM significa &apos;modulación de fase&apos;. La fase el oscilador 3 es modulada
     </message>
     <message>
         <source>Let you select a chord which LMMS then can draw or highlight.You can find the most common chords in this drop-down menu. After you have selected a chord, click anywhere to place the chord, and right click on the virtual keyboard to open context menu and highlight the chord. To return to single note placement, you need to choose &apos;No chord&apos; in this drop-down menu.</source>
-        <translation>Te permite elegir un acorde que luego LMMS puede dibujar o resaltar. Puedes encontrar los acordes más usados en este menú desplegable. Luego de elegir una acorde, haz click en cualquier lugar para ingresar el acorde, y haz click derecho en el teclado virtual para abrir el menú contextual y ressaltar el acorde. Para ingresar notas individuales nuevamente, debes elegir &apos;Sin Acorde&apos; en este menú.</translation>
+        <translation>Te permite elegir un acorde que luego LMMS puede dibujar o resaltar. Puedes encontrar los acordes más usados en este menú desplegable. Luego de elegir una acorde, haz click en cualquier lugar para ingresar el acorde, y haz click derecho en el teclado virtual para abrir el menú contextual y resaltar el acorde. Para ingresar notas individuales nuevamente, debes elegir &apos;Sin Acorde&apos; en este menú.</translation>
     </message>
     <message>
         <source>Edit actions</source>
@@ -5613,7 +5653,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Failed to load plugin &quot;%1&quot;!</source>
-        <translation>Falló al cargar el complemento &quot;%1&quot;!</translation>
+        <translation>Falló la carga del complemento &quot;%1&quot;!</translation>
     </message>
 </context>
 <context>
@@ -5654,11 +5694,11 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Edit Actions</source>
-        <translation>Edicion</translation>
+        <translation>Edición</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>&amp;Deshacer</translation>
+        <translation>Deshacer(&amp;U)</translation>
     </message>
     <message>
         <source>%1+Z</source>
@@ -5726,7 +5766,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation>&amp;Izquierda</translation>
+        <translation>Izquierda(&amp;L)</translation>
     </message>
     <message>
         <source>%1+L</source>
@@ -5742,7 +5782,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation>&amp;Derecha</translation>
+        <translation>De&amp;recha</translation>
     </message>
     <message>
         <source>%1+R</source>
@@ -5780,7 +5820,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Maker: </source>
-        <translation>Autor:</translation>
+        <translation>Creador:</translation>
     </message>
     <message>
         <source>Copyright: </source>
@@ -5800,7 +5840,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Real Time Capable: </source>
-        <translation>Apto para Tiempo Real:</translation>
+        <translation>Ejecutable en Tiempo Real:</translation>
     </message>
     <message>
         <source>In Place Broken: </source>
@@ -5850,11 +5890,11 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>FLAC-Files (*.flac)</source>
-        <translation>Archivos-FLAC (*.flac)</translation>
+        <translation>Archivos FLAC (*.flac)</translation>
     </message>
     <message>
         <source>SPEEX-Files (*.spx)</source>
-        <translation>Archivos-SPEEX (*.spx)</translation>
+        <translation>Archivos SPEEX (*.spx)</translation>
     </message>
     <message>
         <source>VOC-Files (*.voc)</source>
@@ -5881,11 +5921,11 @@ Razón: &quot;%2&quot;</translation>
     <name>SampleTCOView</name>
     <message>
         <source>double-click to select sample</source>
-        <translation>doble click para seleccionar muestra</translation>
+        <translation>Haz doble click para seleccionar una muestra</translation>
     </message>
     <message>
         <source>Delete (middle mousebutton)</source>
-        <translation>Borrar (click del medio [rueda])</translation>
+        <translation>Borrar (click del medio)</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -5901,7 +5941,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation>Activar/Desacivar Silencio (&lt;&amp;1&gt; + click del medio)</translation>
+        <translation>Silenciar/Escuchar (&lt;%1&gt; + click del medio)</translation>
     </message>
 </context>
 <context>
@@ -5954,7 +5994,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>General settings</source>
-        <translation>Configuración General</translation>
+        <translation>Configuración general</translation>
     </message>
     <message>
         <source>BUFFER SIZE</source>
@@ -5966,7 +6006,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>MISC</source>
-        <translation>MISCEL</translation>
+        <translation>MISC</translation>
     </message>
     <message>
         <source>Enable tooltips</source>
@@ -5990,7 +6030,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>HQ-mode for output audio-device</source>
-        <translation>modo HQ para el disp. de salida de audio</translation>
+        <translation>modo HQ para el dispositivo de salida de audio</translation>
     </message>
     <message>
         <source>Compact track buttons</source>
@@ -6002,7 +6042,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
-        <translation>Nombres de notas en piano roll</translation>
+        <translation>Nombre de las notas en el piano roll</translation>
     </message>
     <message>
         <source>Enable waveform display by default</source>
@@ -6010,7 +6050,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Keep effects running even without input</source>
-        <translation>Mantener los efectos en proceso aun sin señal de entrada</translation>
+        <translation>Mantener los efectos en proceso aún sin señal de entrada</translation>
     </message>
     <message>
         <source>Create backup file when saving a project</source>
@@ -6034,11 +6074,11 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Background artwork</source>
-        <translation>Imagen de fondo</translation>
+        <translation>Imágenes de fondo</translation>
     </message>
     <message>
         <source>STK rawwave directory</source>
-        <translation>Directorio STK rawwave</translation>
+        <translation>Directorio para STK rawwave</translation>
     </message>
     <message>
         <source>Default Soundfont File</source>
@@ -6054,7 +6094,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Smooth scroll in Song Editor</source>
-        <translation>Avance Suave en Editor de Canción</translation>
+        <translation>Avance suave en Editor de Canción</translation>
     </message>
     <message>
         <source>Enable auto save feature</source>
@@ -6062,7 +6102,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Show playback cursor in AudioFileProcessor</source>
-        <translation>Mostrar cursor de reproducción en AudioFileProcessor</translation>
+        <translation>Mostrar cursor de reproducción en el AudioFileProcessor</translation>
     </message>
     <message>
         <source>Audio settings</source>
@@ -6082,7 +6122,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>De acuerdo</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -6104,7 +6144,7 @@ Latencia: %2 ms</translation>
     </message>
     <message>
         <source>Here you can setup the internal buffer-size used by LMMS. Smaller values result in a lower latency but also may cause unusable sound or bad performance, especially on older computers or systems with a non-realtime kernel.</source>
-        <translation>Aquí puedes definir el tamaño del búfer interno usado por LMMS. Valores pequeños darán como resultado menor latencia pero también pueden provocar sonidos inutilizables o mal rendimiento, sobretodo en computadoras antiguas o en sistemas sin un núcleo con tiempo real (realtime kernel).</translation>
+        <translation>Aquí puedes definir el tamaño del búfer interno usado por LMMS. Valores pequeños darán como resultado menor latencia pero también pueden provocar sonidos inutilizables o mal rendimiento, sobretodo en computadoras antiguas o en sistemas sin un núcleo con tiempo real.</translation>
     </message>
     <message>
         <source>Choose LMMS working directory</source>
@@ -6128,7 +6168,7 @@ Latencia: %2 ms</translation>
     </message>
     <message>
         <source>Choose default SoundFont</source>
-        <translation>Elige la SoundFont por defecto</translation>
+        <translation>Elige una SoundFont por defecto</translation>
     </message>
     <message>
         <source>Choose background artwork</source>
@@ -6140,7 +6180,7 @@ Latencia: %2 ms</translation>
     </message>
     <message>
         <source>Here you can select your preferred MIDI-interface. Depending on the configuration of your system during compilation time you can choose between ALSA, OSS and more. Below you see a box which offers controls to setup the selected MIDI-interface.</source>
-        <translation>Aquí puedes elegir tu interfaz MIDI preferida. Dependiendo de la configuración de tu sistema durante la configuración, puedes elegir entre ALSA, OSS y otros.Debajo verás un cuadro en el que podrás configurar la interfaz MIDI que hayas elegido.</translation>
+        <translation>Aquí puedes elegir tu interfaz MIDI preferida. Dependiendo de la configuración de tu sistema durante la compilación, puedes elegir entre ALSA, OSS y otros.Debajo verás un cuadro en el que podrás configurar la interfaz MIDI que hayas elegido.</translation>
     </message>
     <message>
         <source>Reopen last project on start</source>
@@ -6168,7 +6208,7 @@ Latencia: %2 ms</translation>
     </message>
     <message>
         <source>Auto save</source>
-        <translation>Guardar automáticamente</translation>
+        <translation>Auto guardado</translation>
     </message>
     <message>
         <source>Choose your GIG directory</source>
@@ -6188,7 +6228,7 @@ Latencia: %2 ms</translation>
     </message>
     <message>
         <source>Auto save interval: %1 %2</source>
-        <translation>Guardar automáticamente cada: %1%2</translation>
+        <translation>Guardar automáticamente cada: %1 %2</translation>
     </message>
     <message>
         <source>Set the time between automatic backup to %1.
@@ -6225,7 +6265,7 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>The project %1 was not saved!</source>
-        <translation>¡El proyecto %1 NO ha sido guardado!</translation>
+        <translation>¡El proyecto %1 no ha sido guardado!</translation>
     </message>
     <message>
         <source>Import file</source>
@@ -6253,7 +6293,7 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>Select directory for writing exported tracks...</source>
-        <translation>Elige el directorio en el cual escribir las pistas exportadas...</translation>
+        <translation>Elige en qué directorio se escribirán las pistas exportadas...</translation>
     </message>
     <message>
         <source>untitled</source>
@@ -6261,7 +6301,7 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>Select file for project-export...</source>
-        <translation>Selecciona el archivo para exportar proyecto...</translation>
+        <translation>Selecciona un archivo para exportar proyecto...</translation>
     </message>
     <message>
         <source>The following errors occured while loading: </source>
@@ -6269,7 +6309,7 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>MIDI File (*.mid)</source>
-        <translation>Archivos MISI (*.mid)</translation>
+        <translation>Archivo MIDI (*.mid)</translation>
     </message>
     <message>
         <source>LMMS Error report</source>
@@ -6284,12 +6324,13 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>Could not write file</source>
-        <translation>No se puede escribir en el archivo</translation>
+        <translation>No se puede escribir el archivo</translation>
     </message>
     <message>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
-        <translation>No se puede abrir el archivo %1. Probablemente no tengas permisos para leer este archivo. Asegúrate de tener al menos permisos de lectura sobre este archivo e inténtalo nuevamente.</translation>
+        <translation>No se puede abrir el archivo %1. Probablemente no tengas permisos para leer este archivo.
+Asegúrate de tener al menos permisos de lectura sobre este archivo e inténtalo nuevamente.</translation>
     </message>
     <message>
         <source>Error in file</source>
@@ -6341,11 +6382,11 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>Value: %1 semitones</source>
-        <translation>Valor: %1% semitonos</translation>
+        <translation>Valor: %1 semitonos</translation>
     </message>
     <message>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
-        <translation>No se pudo abrir el archivo %1 para escritura. Probablemente no tienes permisos de escritura sobre este archivo. Asegúrate de tener acceso de escritura a este archivo e inténtalo nuevamente.</translation>
+        <translation>No se pudo abrir el archivo %1 para escritura. Probablemente no tienes permiso de escritura sobre este archivo. Asegúrate de tener acceso de escritura a este archivo e inténtalo nuevamente.</translation>
     </message>
     <message>
         <source>template</source>
@@ -6357,7 +6398,7 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>Version difference</source>
-        <translation>Diferencia de versiones</translation>
+        <translation>Diferencia de versión</translation>
     </message>
     <message>
         <source>This %1 was created with LMMS %2.</source>
@@ -6376,11 +6417,11 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>Record samples from Audio-device</source>
-        <translation>Grabar muesta desde Dispositivo de Audio</translation>
+        <translation>Grabar muestras desde el Dispositivo de Audio</translation>
     </message>
     <message>
         <source>Record samples from Audio-device while playing song or BB track</source>
-        <translation>Grabar muestra desde Dispositivo de Audio escuchando la Canción o el Ritmo+Base</translation>
+        <translation>Grabar muestras desde el Dispositivo de Audio escuchando la Canción o el Ritmo/Bajo</translation>
     </message>
     <message>
         <source>Stop song (Space)</source>
@@ -6392,7 +6433,7 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation>Agregar pista de muestras (samples)</translation>
+        <translation>Agregar pista de muestras</translation>
     </message>
     <message>
         <source>Add automation-track</source>
@@ -6408,11 +6449,11 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>Click here, if you want to play your whole song. Playing will be started at the song-position-marker (green). You can also move it while playing.</source>
-        <translation>Haz click aquí si deseas reproducir la canción completa. La reproducción comenzará en el marcador de posición. Puede mover este marcador incluso durante la reproducción.</translation>
+        <translation>Haz click aquí si deseas reproducir la canción completa. La reproducción comenzará en el marcador de posición de canción. Puedes mover este marcador incluso durante la reproducción.</translation>
     </message>
     <message>
         <source>Click here, if you want to stop playing of your song. The song-position-marker will be set to the start of your song.</source>
-        <translation>Haz click aquí para detener la reproducción de la canción. (El marcador de posición volverá al principio de la canción, o a su posición inicial, o permanecerá en su lugar dependiendo del comportamiento que hayas seleccionado).</translation>
+        <translation>Haz click aquí para detener la reproducción de la canción. El marcador de posición de canción volverá al inicio de tu canción.</translation>
     </message>
     <message>
         <source>Track actions</source>
@@ -6487,7 +6528,7 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     <name>TempoSyncKnob</name>
     <message>
         <source>Tempo Sync</source>
-        <translation>Sincronizar al-Tempo</translation>
+        <translation>Sincronizar al Tempo</translation>
     </message>
     <message>
         <source>No Sync</source>
@@ -6531,31 +6572,31 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>Synced to Eight Beats</source>
-        <translation>Sincro a ocho tiempos</translation>
+        <translation>Sincronizado a ocho tiempos</translation>
     </message>
     <message>
         <source>Synced to Whole Note</source>
-        <translation>Sincro a Redondas</translation>
+        <translation>Sincronizado a Redondas</translation>
     </message>
     <message>
         <source>Synced to Half Note</source>
-        <translation>Sincro a Blancas</translation>
+        <translation>Sincronizado a Blancas</translation>
     </message>
     <message>
         <source>Synced to Quarter Note</source>
-        <translation>Sincro a Negras</translation>
+        <translation>Sincronizado a Negras</translation>
     </message>
     <message>
         <source>Synced to 8th Note</source>
-        <translation>Sincro a Corcheas</translation>
+        <translation>Sincronizado a Corcheas</translation>
     </message>
     <message>
         <source>Synced to 16th Note</source>
-        <translation>Sincro a semicorcheas</translation>
+        <translation>Sincronizado a Semicorcheas</translation>
     </message>
     <message>
         <source>Synced to 32nd Note</source>
-        <translation>Sincro a Fusas</translation>
+        <translation>Sincronizado a Fusas</translation>
     </message>
 </context>
 <context>
@@ -6609,7 +6650,7 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>After stopping keep position</source>
-        <translation>Al detenerse quedarse en esa posición</translation>
+        <translation>Al detenerse mantener la posición final</translation>
     </message>
     <message>
         <source>Hint</source>
@@ -6617,7 +6658,7 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     </message>
     <message>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
-        <translation>Presiona &lt;&amp;1&gt; para desactivar los puntos de bucle magnéticos.</translation>
+        <translation>Presiona &lt;%1&gt; para desactivar los puntos de bucle magnéticos.</translation>
     </message>
     <message>
         <source>Hold &lt;Shift&gt; to move the begin loop point; Press &lt;%1&gt; to disable magnetic loop points.</source>
@@ -6644,7 +6685,7 @@ Recuerda también guardar tu proyecto manualmente.</translation>
     <message>
         <source>Couldn't find a filter for importing file %1.
 You should convert this file into a format supported by LMMS using another software.</source>
-        <translation>No se pudo hallar un filtro para importar %1.
+        <translation>No se pudo hallar un filtro para importar el archivo %1.
 Debes convertir este archivo a un formato soportado por LMMS usando otra aplicación.</translation>
     </message>
     <message>
@@ -6709,7 +6750,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Delete (middle mousebutton)</source>
-        <translation>Borrar (click del medio [rueda])</translation>
+        <translation>Borrar (click del medio )</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -6725,7 +6766,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation>Activar/Desacivar Silencio (&lt;&amp;1&gt; + click del medio)</translation>
+        <translation>Silenciar/Escuchar (&lt;%1&gt; + click del medio)</translation>
     </message>
 </context>
 <context>
@@ -6768,7 +6809,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Turn all recording on</source>
-        <translation>Encender todas las grabacioens</translation>
+        <translation>Activar todas las grabaciones</translation>
     </message>
     <message>
         <source>Turn all recording off</source>
@@ -6783,11 +6824,11 @@ Please make sure you have read-permission to the file and the directory containi
     <name>TripleOscillatorView</name>
     <message>
         <source>Use phase modulation for modulating oscillator 1 with oscillator 2</source>
-        <translation>Usar modulacion de fase para modular el oscilador 1 con el oscilador 2</translation>
+        <translation>Usar modulación de fase para modular el oscilador 1 con el oscilador 2</translation>
     </message>
     <message>
         <source>Use amplitude modulation for modulating oscillator 1 with oscillator 2</source>
-        <translation>Usar modulacion de amplitud para modular el oscilador 1 con el oscilador 2</translation>
+        <translation>Usar modulación de amplitud para modular el oscilador 1 con el oscilador 2</translation>
     </message>
     <message>
         <source>Mix output of oscillator 1 &amp; 2</source>
@@ -6799,15 +6840,15 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Use frequency modulation for modulating oscillator 1 with oscillator 2</source>
-        <translation>Usar modulacion de frecuencia para mudular el oscilador 1 con el oscilador 2</translation>
+        <translation>Usar modulación de frecuencia para modular el oscilador 1 con el oscilador 2</translation>
     </message>
     <message>
         <source>Use phase modulation for modulating oscillator 2 with oscillator 3</source>
-        <translation>Usar modulacion de fase para modular el oscilador 2 con el oscilador 3</translation>
+        <translation>Usar modulación de fase para modular el oscilador 2 con el oscilador 3</translation>
     </message>
     <message>
         <source>Use amplitude modulation for modulating oscillator 2 with oscillator 3</source>
-        <translation>Usar modulacion de amplitud para modular el oscilador 2 con el oscilador 3</translation>
+        <translation>Usar modulación de amplitud para modular el oscilador 2 con el oscilador 3</translation>
     </message>
     <message>
         <source>Mix output of oscillator 2 &amp; 3</source>
@@ -6819,7 +6860,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Use frequency modulation for modulating oscillator 2 with oscillator 3</source>
-        <translation>Usar modulacion de frecuencia para modular el oscilador 2 con el oscilador 3</translation>
+        <translation>Usar modulación de frecuencia para modular el oscilador 2 con el oscilador 3</translation>
     </message>
     <message>
         <source>Osc %1 volume:</source>
@@ -6827,7 +6868,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>With this knob you can set the volume of oscillator %1. When setting a value of 0 the oscillator is turned off. Otherwise you can hear the oscillator as loud as you set it here.</source>
-        <translation>Con este control puedes establecer el volumen del oscilador %1. Al fijar un valor de 0 se apaga. De lo contrario podras oir al oscilador tan alto como lo especifiques aquí.</translation>
+        <translation>Con esta perilla puedes establecer el volumen del oscilador %1. Al fijar un valor de 0 el oscilador se apaga. De lo contrario podrás oír el oscilador tan alto como lo especifiques aquí.</translation>
     </message>
     <message>
         <source>Osc %1 panning:</source>
@@ -6835,11 +6876,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>With this knob you can set the panning of the oscillator %1. A value of -100 means 100% left and a value of 100 moves oscillator-output right.</source>
-        <translation>Con este control puedes establecer el paneo del oscilador %1. Un valor de -100 significa 100% a la izquierda y un valor de 100 mueve el oscilador totalmente a la derecha.</translation>
+        <translation>Con esta perilla puedes establecer el paneo del oscilador %1. Un valor de -100 significa 100% a la izquierda y un valor de 100 mueve el oscilador totalmente a la derecha.</translation>
     </message>
     <message>
         <source>Osc %1 coarse detuning:</source>
-        <translation>Osc %1 desintonización gruesa:</translation>
+        <translation>Osc %1 desafinación gruesa:</translation>
     </message>
     <message>
         <source>semitones</source>
@@ -6847,11 +6888,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>With this knob you can set the coarse detuning of oscillator %1. You can detune the oscillator 24 semitones (2 octaves) up and down. This is useful for creating sounds with a chord.</source>
-        <translation>Con este control usted podrá establecer la desintonización gruesa del oscilador %1. Usted puede desintonizar el oscilador 24 semitonos (2 octavas) arriba y abajo. Esto es útil para la creación de sonidos con un acorde.</translation>
+        <translation>Con este control usted podrá establecer la desafinación gruesa del oscilador %1. Usted puede desafinar el oscilador en 24 semitonos (2 octavas) arriba y abajo. Esto es útil para la creación de sonidos armonizados (acordes).</translation>
     </message>
     <message>
         <source>Osc %1 fine detuning left:</source>
-        <translation>Osc %1 desintonización fina izquierda:</translation>
+        <translation>Osc %1 desafinación fina izquierda:</translation>
     </message>
     <message>
         <source>cents</source>
@@ -6859,15 +6900,15 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>With this knob you can set the fine detuning of oscillator %1 for the left channel. The fine-detuning is ranged between -100 cents and +100 cents. This is useful for creating &quot;fat&quot; sounds.</source>
-        <translation>Esta perilla define la desintonización fina del canal izquierdo del oscilador %1. La extensión es de -100 cents a +100 cents. Util para crear sonidos &apos;gordos&apos;.</translation>
+        <translation>Esta perilla define la desafinación fina del canal izquierdo del oscilador %1. La extensión es de -100 cents a +100 cents. Util para crear sonidos &apos;gordos&apos;.</translation>
     </message>
     <message>
         <source>Osc %1 fine detuning right:</source>
-        <translation>Osc %1 desintonización fina derecha:</translation>
+        <translation>Osc %1 desafinación fina derecha:</translation>
     </message>
     <message>
         <source>With this knob you can set the fine detuning of oscillator %1 for the right channel. The fine-detuning is ranged between -100 cents and +100 cents. This is useful for creating &quot;fat&quot; sounds.</source>
-        <translation>Esta perilla define la desintonización fina del canal derecho del oscilador %1. La extensión es de -100 cents a +100 cents. Util para crear sonidos &apos;gordos&apos;.</translation>
+        <translation>Esta perilla define la desafinación fina del canal derecho del oscilador %1. La extensión es de -100 cents a +100 cents. Util para crear sonidos &apos;gordos&apos;.</translation>
     </message>
     <message>
         <source>Osc %1 phase-offset:</source>
@@ -6883,7 +6924,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Osc %1 stereo phase-detuning:</source>
-        <translation>Osc %1 desintonización de fase estéreo:</translation>
+        <translation>Osc %1 desafinación de fase estéreo:</translation>
     </message>
     <message>
         <source>With this knob you can set the stereo phase-detuning of oscillator %1. The stereo phase-detuning specifies the size of the difference between the phase-offset of left and right channel. This is very good for creating wide stereo sounds.</source>
@@ -6926,11 +6967,11 @@ Please make sure you have read-permission to the file and the directory containi
     <name>VersionedSaveDialog</name>
     <message>
         <source>Increment version number</source>
-        <translation>Usar un número de versión mayor</translation>
+        <translation>Incrementar el número de versión</translation>
     </message>
     <message>
         <source>Decrement version number</source>
-        <translation>Usar un número de versión menor</translation>
+        <translation>Disminuír el número de versión</translation>
     </message>
 </context>
 <context>
@@ -6941,15 +6982,15 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here, if you want to open another VST-plugin. After clicking on this button, a file-open-dialog appears and you can select your file.</source>
-        <translation>Haz click aquí si deseas abrir otro plugin VST. Al hacer click en este botón, se mostrará un diálogo para abrir el archivo y podrás elegir el archivo deseado.</translation>
+        <translation>Haz click aquí si deseas abrir otro complemento VST. Se mostrará un diálogo que te permitirá elegir el archivo que desees.</translation>
     </message>
     <message>
         <source>Show/hide GUI</source>
-        <translation>Mostrar/Ocultar INTERFAZ</translation>
+        <translation>Mostrar/Ocultar IGU</translation>
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of your VST-plugin.</source>
-        <translation>Haz click aquí para mostrar u ocultar la interfaz (GUI) de tu VST.</translation>
+        <translation>Haz click aquí para mostrar u ocultar la interfaz gráfica de usuario (IGU) de tu complemento VST.</translation>
     </message>
     <message>
         <source>Turn off all notes</source>
@@ -6957,7 +6998,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Open VST-plugin</source>
-        <translation>Abrir complemento VST</translation>
+        <translation>Abrir un complemento VST</translation>
     </message>
     <message>
         <source>DLL-files (*.dll)</source>
@@ -6969,15 +7010,15 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>No VST-plugin loaded</source>
-        <translation>Ningún complemento VST cargado</translation>
+        <translation>No se ha cargado ningún complemento VST</translation>
     </message>
     <message>
         <source>Control VST-plugin from LMMS host</source>
-        <translation>Controlar el complemento VST desde anfitrión de LMMS</translation>
+        <translation>Controlar el complemento VST desde el anfitrión LMMS</translation>
     </message>
     <message>
         <source>Click here, if you want to control VST-plugin from host.</source>
-        <translation>Haz click aquí si deseas controlar tu instrumento VST desde el anfitrión.</translation>
+        <translation>Haz click aquí si deseas controlar tu complemento VST desde el anfitrión.</translation>
     </message>
     <message>
         <source>Open VST-plugin preset</source>
@@ -7009,7 +7050,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here to select presets that are currently loaded in VST.</source>
-        <translation>Haz click aquí para elegir preconfiguraciones que están actualmente cargadas en el VST.</translation>
+        <translation>Haz click aquí para elegir preconfiguraciones que estén actualmente cargadas en el VST.</translation>
     </message>
     <message>
         <source>Preset</source>
@@ -7021,14 +7062,14 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source> - VST plugin control</source>
-        <translation>control de complementos VST</translation>
+        <translation>- control de complemento VST</translation>
     </message>
 </context>
 <context>
     <name>VisualizationWidget</name>
     <message>
         <source>click to enable/disable visualization of master-output</source>
-        <translation>Haz clcik aquí para activar o desactivar la visualización de la salida principal</translation>
+        <translation>Haz click aquí para activar o desactivar la visualización de la salida principal</translation>
     </message>
     <message>
         <source>Click to enable</source>
@@ -7043,11 +7084,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Control VST-plugin from LMMS host</source>
-        <translation>Controlar el complemento VST desde anfitrión de LMMS</translation>
+        <translation>Controlar el complemento VST desde el anfitrión LMMS</translation>
     </message>
     <message>
         <source>Click here, if you want to control VST-plugin from host.</source>
-        <translation>Haz click aquí si deseas controlar tu instrumento VST desde el anfitrión.</translation>
+        <translation>Haz click aquí si deseas controlar tu complemento VST desde el anfitrión.</translation>
     </message>
     <message>
         <source>Open VST-plugin preset</source>
@@ -7071,7 +7112,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here to select presets that are currently loaded in VST.</source>
-        <translation>Haz click aquí para elegir preconfiguraciones que están actualmente cargadas en el VST.</translation>
+        <translation>Haz click aquí para elegir preconfiguraciones que estén actualmente cargadas en el VST.</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -7130,7 +7171,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>.FXB</source>
-        <translation>FXB</translation>
+        <translation>.FXB</translation>
     </message>
     <message>
         <source>.fxb</source>
@@ -7138,7 +7179,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Please wait while loading VST plugin...</source>
-        <translation>Por favor espere mientras se carga el complemento VST...</translation>
+        <translation>Por favor espera mientras se carga el complemento VST...</translation>
     </message>
     <message>
         <source>The VST plugin %1 could not be loaded.</source>
@@ -7181,19 +7222,19 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Freq. multiplier A1</source>
-        <translation>A1 frec multip</translation>
+        <translation>A1 multiplicador de frec.</translation>
     </message>
     <message>
         <source>Freq. multiplier A2</source>
-        <translation>A2 frec multip</translation>
+        <translation>A2 multiplicador de frec.</translation>
     </message>
     <message>
         <source>Freq. multiplier B1</source>
-        <translation>B1 frec multip</translation>
+        <translation>B1 multiplicador de frec.</translation>
     </message>
     <message>
         <source>Freq. multiplier B2</source>
-        <translation>B2 frec multip</translation>
+        <translation>B2 multiplicador de frec.</translation>
     </message>
     <message>
         <source>Left detune A1</source>
@@ -7237,15 +7278,15 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>A-B Mix envelope attack</source>
-        <translation>Ataque de envolvente de la mezcla A-B</translation>
+        <translation>Ataque de la envolvente de la mezcla A-B</translation>
     </message>
     <message>
         <source>A-B Mix envelope hold</source>
-        <translation>Sostén de envolvente de la mezcla A-B</translation>
+        <translation>Mantenido de la envolvente de la mezcla A-B</translation>
     </message>
     <message>
         <source>A-B Mix envelope decay</source>
-        <translation>Caída de envolvente de la mezcla A-B</translation>
+        <translation>Caída de la envolvente de la mezcla A-B</translation>
     </message>
     <message>
         <source>A1-B2 Crosstalk</source>
@@ -7292,7 +7333,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Ring-modulate A1 and A2</source>
-        <translation>Modular A1 y A2 en anillo</translation>
+        <translation>Modulación en anillo  A1 y A2</translation>
     </message>
     <message>
         <source>Modulate phase of A1 with output of A2</source>
@@ -7308,7 +7349,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Ring-modulate B1 and B2</source>
-        <translation>Modular B1 y B2 en anillo</translation>
+        <translation>Modulación en anillo B1 y B2</translation>
     </message>
     <message>
         <source>Modulate phase of B1 with output of B2</source>
@@ -7316,7 +7357,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation>Dibuja tu propia onda aquí arrastrando el ratón sobre el gráfico.</translation>
+        <translation>Dibuja tu propia onda arrastrando el puntero sobre el gráfico.</translation>
     </message>
     <message>
         <source>Load waveform</source>
@@ -7324,7 +7365,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click to load a waveform from a sample file</source>
-        <translation>Haz click para cargar una onda de un archivo de muestra</translation>
+        <translation>Haz click aquí para cargar una onda de un archivo de muestra</translation>
     </message>
     <message>
         <source>Phase left</source>
@@ -7372,7 +7413,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click for sine wave</source>
-        <translation>Haz click aquí para elegir una onda-sinusoidal</translation>
+        <translation>Haz click aquí para elegir una onda sinusoidal</translation>
     </message>
     <message>
         <source>Triangle wave</source>
@@ -7380,7 +7421,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click for triangle wave</source>
-        <translation>Haz click aquí para seleccionar una onda triangular</translation>
+        <translation>Haz click aquí para elegir una onda triangular</translation>
     </message>
     <message>
         <source>Click for saw wave</source>
@@ -7392,7 +7433,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click for square wave</source>
-        <translation>Haz click aquí para seleccionar una onda-cuadrada</translation>
+        <translation>Haz click aquí para elegir una onda cuadrada</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -7404,7 +7445,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Freq. multiplier</source>
-        <translation>Multiplicador del frec.</translation>
+        <translation>Multiplicador de frec.</translation>
     </message>
     <message>
         <source>Left detune</source>
@@ -7424,19 +7465,19 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Mix envelope amount</source>
-        <translation>Mezclar cantidad de envolvente</translation>
+        <translation>Cantidad de envolvente de la Mezcla</translation>
     </message>
     <message>
         <source>Mix envelope attack</source>
-        <translation>Mezclar ataque de envolvente</translation>
+        <translation>Ataque de la envolvente de la Mezcla</translation>
     </message>
     <message>
         <source>Mix envelope hold</source>
-        <translation>Mezclar sostén de envolvente</translation>
+        <translation>Mantenido de la envolvente de la Mezcla</translation>
     </message>
     <message>
         <source>Mix envelope decay</source>
-        <translation>Mezclar retraso de envolvente</translation>
+        <translation>Caída de la envolvente de la Mezcla</translation>
     </message>
     <message>
         <source>Crosstalk</source>
@@ -7451,15 +7492,15 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Filter Frequency</source>
-        <translation>Frecuencia de Filtro</translation>
+        <translation>Frecuencia del Filtro</translation>
     </message>
     <message>
         <source>Filter Resonance</source>
-        <translation>Resonancia de Filtro</translation>
+        <translation>Resonancia del Filtro</translation>
     </message>
     <message>
         <source>Bandwidth</source>
-        <translation>AnchoDeBanda</translation>
+        <translation>Ancho De Banda</translation>
     </message>
     <message>
         <source>FM Gain</source>
@@ -7467,7 +7508,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Resonance Center Frequency</source>
-        <translation>Frecuencia Central de Resonncia</translation>
+        <translation>Frecuencia Central de Resonancia</translation>
     </message>
     <message>
         <source>Resonance Bandwidth</source>
@@ -7475,18 +7516,18 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Forward MIDI Control Change Events</source>
-        <translation>Enviar Eventos MIDI de cambios de control</translation>
+        <translation>Enviar Eventos MIDI de Cambio de Control</translation>
     </message>
 </context>
 <context>
     <name>ZynAddSubFxView</name>
     <message>
         <source>Show GUI</source>
-        <translation>Mostrar Interfaz</translation>
+        <translation>Mostrar IGU</translation>
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of ZynAddSubFX.</source>
-        <translation>Haz click aquí para mostrar u ocultar la interfaz gráfica (GUI) de ZynAddSubFX.</translation>
+        <translation>Haz click aquí para mostrar u ocultar la interfaz gráfica de usuario (IGU) de ZynAddSubFX.</translation>
     </message>
     <message>
         <source>Portamento:</source>
@@ -7498,7 +7539,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Filter Frequency:</source>
-        <translation>Frecuencia de Filtro:</translation>
+        <translation>Frecuencia del Filtro:</translation>
     </message>
     <message>
         <source>FREQ</source>
@@ -7506,7 +7547,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Filter Resonance:</source>
-        <translation>Resonancia de Filtro:</translation>
+        <translation>Resonancia del Filtro:</translation>
     </message>
     <message>
         <source>RES</source>
@@ -7514,11 +7555,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Bandwidth:</source>
-        <translation>AnchoDeBanda:</translation>
+        <translation>Ancho De Banda:</translation>
     </message>
     <message>
         <source>BW</source>
-        <translation>AB</translation>
+        <translation>AdB</translation>
     </message>
     <message>
         <source>FM Gain:</source>
@@ -7530,11 +7571,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Resonance center frequency:</source>
-        <translation>Frecuencia Central de Resonncia:</translation>
+        <translation>Frecuencia Central de Resonancia:</translation>
     </message>
     <message>
         <source>RES CF</source>
-        <translation>FC RES</translation>
+        <translation>FCdRES</translation>
     </message>
     <message>
         <source>Resonance bandwidth:</source>
@@ -7542,11 +7583,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>RES BW</source>
-        <translation>AB RES</translation>
+        <translation>AdB RES</translation>
     </message>
     <message>
         <source>Forward MIDI Control Changes</source>
-        <translation>Enviar cambios de Control MIDI</translation>
+        <translation>Enviar Cambios de Control MIDI</translation>
     </message>
 </context>
 <context>
@@ -7573,7 +7614,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Loopback point</source>
-        <translation>Inicio del bucle</translation>
+        <translation>Punto de bucle</translation>
     </message>
     <message>
         <source>Loop mode</source>
@@ -7631,11 +7672,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>White noise wave</source>
-        <translation>Ruido-blanco</translation>
+        <translation>Ruido blanco</translation>
     </message>
     <message>
         <source>User defined wave</source>
-        <translation>onda definida por el usuario</translation>
+        <translation>Onda definida por el usuario</translation>
     </message>
     <message>
         <source>Smooth</source>
@@ -7655,15 +7696,15 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation>Dibuja tu propia onda aquí arrastrando el ratón sobre el gráfico.</translation>
+        <translation>Dibuja tu propia onda arrastrando el puntero sobre el gráfico.</translation>
     </message>
     <message>
         <source>Click for a sine-wave.</source>
-        <translation>Haz click aquí para elegir una onda-sinusoidal.</translation>
+        <translation>Haz click aquí para elegir una onda sinusoidal.</translation>
     </message>
     <message>
         <source>Click here for a triangle-wave.</source>
-        <translation>Haz click aquí para seleccionar una onda triangular.</translation>
+        <translation>Haz click aquí para elegir una onda triangular.</translation>
     </message>
     <message>
         <source>Click here for a saw-wave.</source>
@@ -7675,11 +7716,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here for white-noise.</source>
-        <translation>Haz click aquí para elegir ruido-blanco.</translation>
+        <translation>Haz click aquí para elegir ruido blanco.</translation>
     </message>
     <message>
         <source>Click here for a user-defined shape.</source>
-        <translation>Haz click aquí para elegir una onda-personalizada.</translation>
+        <translation>Haz click aquí para elegir una onda personalizada.</translation>
     </message>
 </context>
 <context>
@@ -7718,7 +7759,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Reset waveform</source>
-        <translation>Restaurar onda</translation>
+        <translation>Restaurar forma de onda</translation>
     </message>
     <message>
         <source>Click here to reset the wavegraph back to default</source>
@@ -7734,54 +7775,54 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Increase wavegraph amplitude by 1dB</source>
-        <translation>Aumentar la amplitud del gráfico 1dB</translation>
+        <translation>Aumentar la amplitud del gráfico de onda en 1dB</translation>
     </message>
     <message>
         <source>Click here to increase wavegraph amplitude by 1dB</source>
-        <translation>Haz click aquí para aumentar la amplitud del gráfico en 1dB</translation>
+        <translation>Haz click aquí para aumentar la amplitud del gráfico de onda en 1dB</translation>
     </message>
     <message>
         <source>Decrease wavegraph amplitude by 1dB</source>
-        <translation>Disminuir la amplitud del gráfico en 1dB</translation>
+        <translation>Disminuir la amplitud del gráfico de onda en 1dB</translation>
     </message>
     <message>
         <source>Click here to decrease wavegraph amplitude by 1dB</source>
-        <translation>Haz click aquí para disminuir la amplitud del gráfico en 1dB</translation>
+        <translation>Haz click aquí para disminuir la amplitud del gráfico de onda en 1dB</translation>
     </message>
     <message>
         <source>Stereomode Maximum</source>
-        <translation>ModoEstéreo Máximo</translation>
+        <translation>Modo Estéreo Máximo</translation>
     </message>
     <message>
         <source>Process based on the maximum of both stereo channels</source>
-        <translation>Proceso basado en el máximo de ambos canales estéreo</translation>
+        <translation>Procesar basado en el máximo de ambos canales estéreo</translation>
     </message>
     <message>
         <source>Stereomode Average</source>
-        <translation>ModoEstéreo Promedio</translation>
+        <translation>Modo Estéreo Promedio</translation>
     </message>
     <message>
         <source>Process based on the average of both stereo channels</source>
-        <translation>Proceso basado en el promedio de ambos canales estéreo</translation>
+        <translation>Procesar basado en el promedio de ambos canales estéreo</translation>
     </message>
     <message>
         <source>Stereomode Unlinked</source>
-        <translation>ModoEstéreo Desenlazado</translation>
+        <translation>Modo Estéreo Desenlazado</translation>
     </message>
     <message>
         <source>Process each stereo channel independently</source>
-        <translation>Procesa cada canal estéreo de manera independiente</translation>
+        <translation>Procesar cada canal estéreo de manera independiente</translation>
     </message>
 </context>
 <context>
     <name>dynProcControls</name>
     <message>
         <source>Input gain</source>
-        <translation>ganancia de entrada</translation>
+        <translation>Ganancia de entrada</translation>
     </message>
     <message>
         <source>Output gain</source>
-        <translation>ganancia de salida</translation>
+        <translation>Ganancia de salida</translation>
     </message>
     <message>
         <source>Attack time</source>
@@ -7842,7 +7883,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Envelope Slope</source>
-        <translation>Inclinación de la Envolvente</translation>
+        <translation>Curvatura de la Envolvente</translation>
     </message>
     <message>
         <source>Noise</source>
@@ -7854,11 +7895,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Frequency Slope</source>
-        <translation>Inclinación de la Frecuencia</translation>
+        <translation>Curvatura de la Frecuencia</translation>
     </message>
     <message>
         <source>Start from note</source>
-        <translation>Empenzar en la nota</translation>
+        <translation>Empezar en la nota</translation>
     </message>
     <message>
         <source>End to note</source>
@@ -7881,7 +7922,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Frequency Slope:</source>
-        <translation>Inclinación de la Frecuencia:</translation>
+        <translation>Curvatura de la Frecuencia:</translation>
     </message>
     <message>
         <source>Envelope Length:</source>
@@ -7889,7 +7930,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Envelope Slope:</source>
-        <translation>Inclinación de la Envolvente:</translation>
+        <translation>Curvatura de la Envolvente:</translation>
     </message>
     <message>
         <source>Click:</source>
@@ -7946,7 +7987,7 @@ Don't Knows are plugins for which no input or output channels were identified.
 Double clicking any of the plugins will bring up information on the ports.</source>
         <translation>Este diálogo muestra información de todos los complementos LADSPA que LMMS pudo encontrar. Se encuentran divididos en cinco (5) categorías basadas en una interpretación de los nombres y los tipos de puertos.
 
-Efectos Disponibles: son aquelos que pueden ser usados por LMMS. Para ello deben, primero y principalmente, ser efectos. O sea que deben tener tanto canales de entrada como de salida. LMMS identifica como caneles de entrada a los puertos de audio que contengan &apos;IN&apos; en el nombre. Los canales de salida se identifican por la palabra &apos;OUT&apos;. Además, el efecto debe tener la misma cantidad de canales de entrada como de salida y ser capaz de ejecutarse en tiempo real.
+Efectos Disponibles: son aquellos que pueden ser usados por LMMS. Para ello deben, primero y por sobre todo, ser efectos. O sea que deben tener tanto canales de entrada como de salida. LMMS identifica como canales de entrada a los puertos de audio que contengan &apos;IN&apos; en su nombre. Los canales de salida se identifican por la palabra &apos;OUT&apos;. Además, el efecto debe tener la misma cantidad de canales de entrada como de salida y ser capaz de ejecutarse en tiempo real.
 
 Efectos No Disponibles: son aquellos que aún siendo identificados como efectos, no tienen el mismo número de entradas que de salidas y/o no pueden ser ejecutados en tiempo real.
 
@@ -7954,9 +7995,9 @@ Instrumentos: son complementos que sólo poseen canales de salida.
 
 Herramientas de Análisis: son complementos que sólo cuentan con canales de entrada.
 
-Desconocido: son complementos en los cuales no se pudo identificar ningún canal ni de entrada ni de salida.
+Desconocido: son complementos en los cuales no se pudo identificar ningún canal de entrada ni de salida.
 
-Haciendo doble click en cualquier complementos mostrará la información de sus puertos. </translation>
+Haciendo doble click en cualquier complemento se mostrará la información de sus puertos. </translation>
     </message>
     <message>
         <source>Type:</source>
@@ -7986,7 +8027,7 @@ Haciendo doble click en cualquier complementos mostrará la información de sus 
     </message>
     <message>
         <source>Rate</source>
-        <translation>Tasa (rate)</translation>
+        <translation>Tasa</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -8085,7 +8126,7 @@ Haciendo doble click en cualquier complementos mostrará la información de sus 
     </message>
     <message>
         <source>24dB/oct Filter</source>
-        <translation>Filtro 24db/oct</translation>
+        <translation>Filtro 24dB/oct</translation>
     </message>
 </context>
 <context>
@@ -8168,7 +8209,7 @@ Haciendo doble click en cualquier complementos mostrará la información de sus 
     </message>
     <message>
         <source>White noise wave</source>
-        <translation>Ruido-blanco</translation>
+        <translation>Ruido blanco</translation>
     </message>
     <message>
         <source>Click here for an exponential wave.</source>
@@ -8176,39 +8217,39 @@ Haciendo doble click en cualquier complementos mostrará la información de sus 
     </message>
     <message>
         <source>Click here for white-noise.</source>
-        <translation>Haz click aquí para elegir ruido-blanco.</translation>
+        <translation>Haz click aquí para elegir ruido blanco.</translation>
     </message>
     <message>
         <source>Bandlimited saw wave</source>
-        <translation>Onda de sierra de bandaLimitada</translation>
+        <translation>Onda de sierra de banda limitada</translation>
     </message>
     <message>
         <source>Click here for bandlimited saw wave.</source>
-        <translation>Haz click aquí para una onda de de sierra de bandaLimitada.</translation>
+        <translation>Haz click aquí para elegir una onda de sierra de banda limitada.</translation>
     </message>
     <message>
         <source>Bandlimited square wave</source>
-        <translation>Onda cuadrada de BandaLimitada</translation>
+        <translation>Onda cuadrada de banda limitada</translation>
     </message>
     <message>
         <source>Click here for bandlimited square wave.</source>
-        <translation>Haz click aquí para una onda cuadrada de bandaLimitada.</translation>
+        <translation>Haz click aquí para elegir una onda cuadrada de banda limitada.</translation>
     </message>
     <message>
         <source>Bandlimited triangle wave</source>
-        <translation>Onda triangular de BandaLimitada</translation>
+        <translation>Onda triangular de banda limitada</translation>
     </message>
     <message>
         <source>Click here for bandlimited triangle wave.</source>
-        <translation>Haz click aquí para una onda triangular de bandaLimitada.</translation>
+        <translation>Haz click aquí para elegir una onda triangular de banda limitada.</translation>
     </message>
     <message>
         <source>Bandlimited moog saw wave</source>
-        <translation>Onda de sierra Moog de banda Limitada</translation>
+        <translation>Onda de sierra Moog de banda limitada</translation>
     </message>
     <message>
         <source>Click here for bandlimited moog saw wave.</source>
-        <translation>Haz click aquí para elegir una onda de sierra tipo Moog de banda Limitada.</translation>
+        <translation>Haz click aquí para elegir una onda de sierra tipo Moog de banda limitada.</translation>
     </message>
 </context>
 <context>
@@ -8239,7 +8280,7 @@ Haciendo doble click en cualquier complementos mostrará la información de sus 
     </message>
     <message>
         <source>Crossfade</source>
-        <translation>Crossfade</translation>
+        <translation>Fundido cruzado</translation>
     </message>
     <message>
         <source>LFO Speed</source>
@@ -8315,7 +8356,7 @@ Haciendo doble click en cualquier complementos mostrará la información de sus 
     </message>
     <message>
         <source>Uniform Bar</source>
-        <translation>Barras uniformes</translation>
+        <translation>Barra uniforme</translation>
     </message>
     <message>
         <source>Tuned Bar</source>
@@ -9005,7 +9046,7 @@ Haciendo doble click en cualquier complementos mostrará la información de sus 
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>De acuerdo</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9445,7 +9486,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>The Coarse detuning allows to detune Voice %1 one octave up or down.</source>
-        <translation>La desafinación gruesa permite desafinar la Voz %1 2 octavas hacia arriba o hacia abajo.</translation>
+        <translation>La desafinación gruesa permite desafinar la Voz %1 una octava hacia arriba o hacia abajo.</translation>
     </message>
     <message>
         <source>Pulse Wave</source>

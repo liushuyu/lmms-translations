@@ -614,6 +614,10 @@ Si vous êtes intéressé par la traduction de LMMS dans une nouvelle langue ou 
         <source>Clone Steps</source>
         <translation>Cloner des pas</translation>
     </message>
+    <message>
+        <source>Add sample-track</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>BBTCOView</name>
@@ -2152,44 +2156,48 @@ Veuillez vérifier que vous avez les droits d&apos;accès en écriture à ce fic
 <context>
     <name>FlangerControlsDialog</name>
     <message>
-        <source>Delay</source>
-        <translation>Délai</translation>
-    </message>
-    <message>
         <source>Delay Time:</source>
         <translation>Temps de délai :</translation>
-    </message>
-    <message>
-        <source>Lfo Hz</source>
-        <translation>LFO Hz</translation>
-    </message>
-    <message>
-        <source>Lfo:</source>
-        <translation>LFO :</translation>
-    </message>
-    <message>
-        <source>Amt</source>
-        <translation>Niv</translation>
-    </message>
-    <message>
-        <source>Amt:</source>
-        <translation>Niv. :</translation>
-    </message>
-    <message>
-        <source>Regen</source>
-        <translation>Régén</translation>
     </message>
     <message>
         <source>Feedback Amount:</source>
         <translation>Niveau de réinjection :</translation>
     </message>
     <message>
-        <source>Noise</source>
-        <translation>Bruit</translation>
-    </message>
-    <message>
         <source>White Noise Amount:</source>
         <translation>Niveau de bruit blanc :</translation>
+    </message>
+    <message>
+        <source>DELAY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NOISE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invert</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2446,6 +2454,14 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
         <source>Down and up</source>
         <translation>Descendant et ascendant</translation>
     </message>
+    <message>
+        <source>Skip rate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Miss rate</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2516,6 +2532,30 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     <message>
         <source>Mode:</source>
         <translation>Mode :</translation>
+    </message>
+    <message>
+        <source>SKIP</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Skip rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The skip function will make the arpeggiator pause one step randomly. From its start in full counter clockwise position and no effect it will gradually progress to full amnesia at maximum setting.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MISS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Miss rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5330,12 +5370,12 @@ PM signifie Modulation de Phase : la phase de l&apos;oscillateur 3 est modulée 
         <translation>DCAY</translation>
     </message>
     <message>
-        <source>TRES</source>
-        <translation>SEUIL</translation>
-    </message>
-    <message>
         <source>Treshold:</source>
         <translation>Seuil :</translation>
+    </message>
+    <message>
+        <source>TRSH</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
