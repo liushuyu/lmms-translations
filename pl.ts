@@ -915,6 +915,10 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
         <source>Re&amp;name this controller</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>LFO</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>CrossoverEQControlDialog</name>
@@ -2936,6 +2940,14 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>5</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Phrygian dominant</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Persian</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6484,10 +6496,6 @@ Upewnij się, że masz przynajmniej uprawnienia odczytu tego pliku a następnie 
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Minimize</source>
         <translation type="unfinished"/>
     </message>
     <message>

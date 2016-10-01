@@ -911,6 +911,10 @@ Se lle interesa traducir o LMMS a outro idioma ou desexa mellorar as traducións
         <source>Re&amp;name this controller</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>LFO</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>CrossoverEQControlDialog</name>
@@ -2932,6 +2936,14 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>5</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Phrygian dominant</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Persian</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6478,10 +6490,6 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Minimize</source>
         <translation type="unfinished"/>
     </message>
     <message>

@@ -616,7 +616,7 @@ Se sei interessato a tradurre LMMS o vuoi migliorare una traduzione esistente, s
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi traccia campione</translation>
     </message>
 </context>
 <context>
@@ -910,6 +910,10 @@ Se sei interessato a tradurre LMMS o vuoi migliorare una traduzione esistente, s
     <message>
         <source>Re&amp;name this controller</source>
         <translation>Ri&amp;nomina questo controller</translation>
+    </message>
+    <message>
+        <source>LFO</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2169,35 +2173,35 @@ Assicurarsi di avere i permessi in scrittura per il file e per la directory cont
     </message>
     <message>
         <source>DELAY</source>
-        <translation type="unfinished"/>
+        <translation>Ritardo</translation>
     </message>
     <message>
         <source>RATE</source>
-        <translation type="unfinished"/>
+        <translation>Frequenza</translation>
     </message>
     <message>
         <source>Rate:</source>
-        <translation type="unfinished"/>
+        <translation>Frequenza:</translation>
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>Q.tà</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>Quantità:</translation>
     </message>
     <message>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>Fdbk</translation>
     </message>
     <message>
         <source>NOISE</source>
-        <translation type="unfinished"/>
+        <translation>Rumore</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Inverti</translation>
     </message>
 </context>
 <context>
@@ -2456,11 +2460,11 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
     </message>
     <message>
         <source>Skip rate</source>
-        <translation type="unfinished"/>
+        <translation>salta la frequenza</translation>
     </message>
     <message>
         <source>Miss rate</source>
-        <translation type="unfinished"/>
+        <translation>perde la frequenza</translation>
     </message>
 </context>
 <context>
@@ -2535,27 +2539,27 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
     </message>
     <message>
         <source>SKIP</source>
-        <translation type="unfinished"/>
+        <translation>salta</translation>
     </message>
     <message>
         <source>Skip rate:</source>
-        <translation type="unfinished"/>
+        <translation>salta la frequenza</translation>
     </message>
     <message>
         <source>The skip function will make the arpeggiator pause one step randomly. From its start in full counter clockwise position and no effect it will gradually progress to full amnesia at maximum setting.</source>
-        <translation type="unfinished"/>
+        <translation>La funzione di salto farà che l&apos;arpeggiatore metterà in pausa un passo in modo casuale. Dal suo inizio nella posizione completamente in senso antiorario e nessun effetto sarà gradualmente aumentato in piena effetto con regolazione al massimo.</translation>
     </message>
     <message>
         <source>MISS</source>
-        <translation type="unfinished"/>
+        <translation>MANCA</translation>
     </message>
     <message>
         <source>Miss rate:</source>
-        <translation type="unfinished"/>
+        <translation>perde la frequenza</translation>
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
-        <translation type="unfinished"/>
+        <translation>La funzione MANCA farà sì che l&apos;arpeggiatore perda la nota voluta.</translation>
     </message>
 </context>
 <context>
@@ -2939,6 +2943,14 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
     <message>
         <source>5</source>
         <translation>Quinta</translation>
+    </message>
+    <message>
+        <source>Phrygian dominant</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Persian</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5375,7 +5387,7 @@ Vi sono due forme speciali: &quot;Random&quot; e &quot;Random morbido&quot; sono
     </message>
     <message>
         <source>TRSH</source>
-        <translation type="unfinished"/>
+        <translation>Da eliminare</translation>
     </message>
 </context>
 <context>
@@ -6506,10 +6518,6 @@ Assicurati di avere almeno i permessi di lettura del file e prova di nuovo.</tra
     <message>
         <source>Maximize</source>
         <translation>Massimizza</translation>
-    </message>
-    <message>
-        <source>Minimize</source>
-        <translation>Minimizza</translation>
     </message>
     <message>
         <source>Restore</source>

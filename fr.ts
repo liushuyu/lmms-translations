@@ -911,6 +911,10 @@ Si vous êtes intéressé par la traduction de LMMS dans une nouvelle langue ou 
         <source>Re&amp;name this controller</source>
         <translation>Re&amp;nommer ce contrôleur</translation>
     </message>
+    <message>
+        <source>LFO</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>CrossoverEQControlDialog</name>
@@ -2939,6 +2943,14 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     <message>
         <source>5</source>
         <translation>5</translation>
+    </message>
+    <message>
+        <source>Phrygian dominant</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Persian</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6506,10 +6518,6 @@ Veuillez vérifier que vous avez au moins les droits en lecture pour ce fichier 
     <message>
         <source>Maximize</source>
         <translation>Maximiser</translation>
-    </message>
-    <message>
-        <source>Minimize</source>
-        <translation>Minimiser</translation>
     </message>
     <message>
         <source>Restore</source>

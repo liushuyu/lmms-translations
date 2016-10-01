@@ -912,6 +912,10 @@ Si te interesa traducir LMMS a otros idiomas o mejorar las traducciones existent
         <source>Re&amp;name this controller</source>
         <translation>Re&amp;nombrar este controlador</translation>
     </message>
+    <message>
+        <source>LFO</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>CrossoverEQControlDialog</name>
@@ -2170,35 +2174,35 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>DELAY</source>
-        <translation type="unfinished"/>
+        <translation>RETRASO</translation>
     </message>
     <message>
         <source>RATE</source>
-        <translation type="unfinished"/>
+        <translation>TASA</translation>
     </message>
     <message>
         <source>Rate:</source>
-        <translation type="unfinished"/>
+        <translation>Tasa:</translation>
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>CANT</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>Cantidad:</translation>
     </message>
     <message>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>RETRO</translation>
     </message>
     <message>
         <source>NOISE</source>
-        <translation type="unfinished"/>
+        <translation>RUIDO</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Invertir</translation>
     </message>
 </context>
 <context>
@@ -2940,6 +2944,14 @@ Puedes quitar y mover los canales FX a través del menú contextual. Accede a es
     <message>
         <source>5</source>
         <translation>5ta</translation>
+    </message>
+    <message>
+        <source>Phrygian dominant</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Persian</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6509,10 +6521,6 @@ Asegúrate de tener al menos permisos de lectura sobre este archivo e inténtalo
         <translation>Maximizar</translation>
     </message>
     <message>
-        <source>Minimize</source>
-        <translation>Minimizar</translation>
-    </message>
-    <message>
         <source>Restore</source>
         <translation>Restaurar</translation>
     </message>
@@ -8340,7 +8348,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Beats</source>
-        <translation>Tiempos</translation>
+        <translation>Latidos</translation>
     </message>
     <message>
         <source>Two Fixed</source>
@@ -8348,7 +8356,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Clump</source>
-        <translation>Grupo</translation>
+        <translation>Golpe seco</translation>
     </message>
     <message>
         <source>Tubular Bells</source>
@@ -8435,11 +8443,11 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Crossfade</source>
-        <translation>Crossfade</translation>
+        <translation>Fundido cruzado</translation>
     </message>
     <message>
         <source>Crossfade:</source>
-        <translation>Crossfade:</translation>
+        <translation>Fundido cruzado:</translation>
     </message>
     <message>
         <source>LFO Speed</source>
@@ -8447,7 +8455,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>LFO Speed:</source>
-        <translation>velocidad del LFO:</translation>
+        <translation>Velocidad del LFO:</translation>
     </message>
     <message>
         <source>LFO Depth</source>
@@ -8487,7 +8495,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Your Stk-installation seems to be incomplete. Please make sure the full Stk-package is installed!</source>
-        <translation>Tu instalación de Stk se encuentra aparentemente incompleta. ¡Por favor asegúrate que el paquete Stk completo esta instalado!</translation>
+        <translation>Parece que tu instalación de Stk está incompleta. Por favor asegúrate que el paquete completo de Stk esté instalado.</translation>
     </message>
 </context>
 <context>
@@ -8506,7 +8514,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Automated</source>
-        <translation>Autimatizado</translation>
+        <translation>Automatizado</translation>
     </message>
     <message>
         <source>Click here if you want to display automated parameters only.</source>
@@ -8518,14 +8526,14 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Close VST effect knob-controller window.</source>
-        <translation>Cerrar ventana de controlador de efecto VST.</translation>
+        <translation>Cerrar la ventana de controles de efecto del VST.</translation>
     </message>
 </context>
 <context>
     <name>manageVestigeInstrumentView</name>
     <message>
         <source> - VST plugin control</source>
-        <translation>control de complementos VST</translation>
+        <translation>- control de complementos VST</translation>
     </message>
     <message>
         <source>VST Sync</source>
@@ -8537,7 +8545,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Automated</source>
-        <translation>Autimatizado</translation>
+        <translation>Automatizado</translation>
     </message>
     <message>
         <source>Click here if you want to display automated parameters only.</source>
@@ -8549,7 +8557,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Close VST plugin knob-controller window.</source>
-        <translation>Cerrar ventana de controlador de efecto VST.</translation>
+        <translation>Cerrar la ventana de controles del complemento VST.</translation>
     </message>
 </context>
 <context>
@@ -8580,7 +8588,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Op 1 Level Scaling</source>
-        <translation>Op 1 Escala de Nivel</translation>
+        <translation>Op 1 Escalado del Nivel</translation>
     </message>
     <message>
         <source>Op 1 Frequency Multiple</source>
@@ -8588,7 +8596,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Op 1 Feedback</source>
-        <translation>Op 1 Feedback</translation>
+        <translation>Op 1 Realimentación</translation>
     </message>
     <message>
         <source>Op 1 Key Scaling Rate</source>
@@ -8596,7 +8604,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Op 1 Percussive Envelope</source>
-        <translation>Op 1 Envolvente Percusiva</translation>
+        <translation>Op 1 Envolvente Percusivo</translation>
     </message>
     <message>
         <source>Op 1 Tremolo</source>
@@ -8632,7 +8640,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Op 2 Level Scaling</source>
-        <translation>Op 2 Escala de Nivel</translation>
+        <translation>Op 2 Escalado del Nivel</translation>
     </message>
     <message>
         <source>Op 2 Frequency Multiple</source>
@@ -8644,7 +8652,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Op 2 Percussive Envelope</source>
-        <translation>Op 2 Envolvente Percusiva</translation>
+        <translation>Op 2 Envolvente Percusivo</translation>
     </message>
     <message>
         <source>Op 2 Tremolo</source>
@@ -8687,7 +8695,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Frequency multiplier</source>
-        <translation>Multiplicador de la frecuencia</translation>
+        <translation>Multiplicador de frecuencia</translation>
     </message>
 </context>
 <context>
@@ -8717,7 +8725,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Osc %1 waveform:</source>
-        <translation>Forma de onda del osc %1:</translation>
+        <translation>Osc %1 forma de onda:</translation>
     </message>
     <message>
         <source>Osc %1 volume:</source>
@@ -8733,15 +8741,15 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>The distortion knob adds distortion to the output of the instrument. </source>
-        <translation>La perilla de distorsión añade distorsión a la salida del instrumento.</translation>
+        <translation>La perilla &quot;distorsión&quot; añade distorsión a la salida del instrumento.</translation>
     </message>
     <message>
         <source>The volume knob controls the volume of the output of the instrument. It is cumulative with the instrument window&apos;s volume control. </source>
-        <translation>La perilla de Volumen controla el volumen de salida del instrumento. Es acumulativo con el control de volumen de la ventana.</translation>
+        <translation>La perilla &quot;volumen&quot; controla el volumen de salida del instrumento. Es acumulativo con el control de volumen de la ventana del instrumento.</translation>
     </message>
     <message>
         <source>The randomize button randomizes all knobs except the harmonics,main volume and distortion knobs. </source>
-        <translation>El botón &apos;Aleatorizar&apos; define valores aleatorios para todas las perillas con excepción de las de armónicos, volumen principal y distorsión.</translation>
+        <translation>El botón &quot;Aleatorizar&quot; define valores aleatorios para todas las perillas con excepción de: armónicos, volumen principal y distorsión.</translation>
     </message>
     <message>
         <source>Osc %1 stereo detuning</source>
@@ -8776,11 +8784,11 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Volume sweep direction</source>
-        <translation>Dirección del barrido de Volumen</translation>
+        <translation>Dirección del barrido de volumen</translation>
     </message>
     <message>
         <source>Length of each step in sweep</source>
-        <translation>Duración de cada etapa en el barrido</translation>
+        <translation>Duración de cada etapa del barrido</translation>
     </message>
     <message>
         <source>Channel 2 volume</source>
@@ -8840,7 +8848,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Bass</source>
-        <translation>Bajos</translation>
+        <translation>Graves</translation>
     </message>
     <message>
         <source>Shift Register width</source>
@@ -8879,11 +8887,11 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Length of each step in sweep:</source>
-        <translation>Duración de cada etapa en el barrido:</translation>
+        <translation>Duración de cada etapa del barrido:</translation>
     </message>
     <message>
         <source>Length of each step in sweep</source>
-        <translation>Duración de cada etapa en el barrido</translation>
+        <translation>Duración de cada etapa del barrido</translation>
     </message>
     <message>
         <source>Wave pattern duty</source>
@@ -8939,11 +8947,11 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Bass:</source>
-        <translation>Bajos:</translation>
+        <translation>Graves:</translation>
     </message>
     <message>
         <source>Bass</source>
-        <translation>Bajos</translation>
+        <translation>Graves</translation>
     </message>
     <message>
         <source>Sweep Direction</source>
@@ -8999,11 +9007,11 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>The rate at which increase or decrease in frequency occurs</source>
-        <translation>La tasa en la que el aumento o disminución de la frecuencia tiene lugar</translation>
+        <translation>La tasa en la que aumenta o disminuye la frecuencia</translation>
     </message>
     <message>
         <source>The duty cycle is the ratio of the duration (time) that a signal is ON versus the total period of the signal.</source>
-        <translation>El &apos;ciclo de trabajo&apos; es la razón entre la duración (tiempo) que la señal esta ON (ENCENDIDA) y el período total de dicha señal.</translation>
+        <translation>El &apos;ciclo de trabajo&apos; es la relación entre el tiempo que la señal se encuentra en estado &quot;ON&quot; (encendida) y el período total de la señal.</translation>
     </message>
     <message>
         <source>Square Channel 1 Volume</source>
@@ -9011,7 +9019,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>The delay between step change</source>
-        <translation>El retraso entre el cambio de etapa</translation>
+        <translation>El retraso entre cada cambio de etapa</translation>
     </message>
     <message>
         <source>Draw the wave here</source>
@@ -9069,7 +9077,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>Plugin for controlling knobs with sound peaks</source>
-        <translation>Complemento para controlar las perillas a través de los picos de sonido</translation>
+        <translation>Complemento para controlar perillas a través de los picos de sonido</translation>
     </message>
     <message>
         <source>Plugin for enhancing stereo separation of a stereo input file</source>
@@ -9081,11 +9089,11 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
     </message>
     <message>
         <source>GUS-compatible patch instrument</source>
-        <translation>Instrumento de patches (*.pat) compatible con GUS</translation>
+        <translation>Instrumento de &quot;patches&quot; compatible con GUS</translation>
     </message>
     <message>
         <source>Additive Synthesizer for organ-like sounds</source>
-        <translation>Sintetizador Aditivo para sonidos de órgano</translation>
+        <translation>Sintetizador Aditivo para crear sonidos estilo órgano</translation>
     </message>
     <message>
         <source>Tuneful things to bang on</source>
@@ -9111,7 +9119,7 @@ Haciendo doble click en cualquier complemento se mostrará la información de su
         <source>Emulation of the MOS6581 and MOS8580 SID.
 This chip was used in the Commodore 64 computer.</source>
         <translation>Emulación del MOS6581 y del MOS8580 SID.
-Este chip se usaba en las computadoras Commodore 64.</translation>
+Este chip fue usado en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Player for SoundFont files</source>
@@ -9119,7 +9127,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Emulation of GameBoy (TM) APU</source>
-        <translation>Emulación del GameBoy (TM) APU</translation>
+        <translation>Emulación del APU de GameBoy (TM)</translation>
     </message>
     <message>
         <source>Customizable wavetable synthesizer</source>
@@ -9155,19 +9163,19 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Carla Rack Instrument</source>
-        <translation>Bandeja de instrumentos Carla</translation>
+        <translation>Bandeja de complementos Carla</translation>
     </message>
     <message>
         <source>4-oscillator modulatable wavetable synth</source>
-        <translation>Sintetizador de 4 osciladores de tablas de modulacion y tablas de ondas</translation>
+        <translation>Sintetizador de tabla de ondas de 4 osciladores modulables</translation>
     </message>
     <message>
         <source>plugin for waveshaping</source>
-        <translation>complemento para modear ondas</translation>
+        <translation>complemento para modelado de ondas</translation>
     </message>
     <message>
         <source>Boost your bass the fast and simple way</source>
-        <translation>Potenciá tus bajos de forma rápida y fácil</translation>
+        <translation>Realza tus graves de forma rápida y fácil</translation>
     </message>
     <message>
         <source>Versatile drum synthesizer</source>
@@ -9175,7 +9183,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Simple sampler with various settings for using samples (e.g. drums) in an instrument-track</source>
-        <translation>Sampler simple con varias configuraciones para usar muestras (por ej percusión) en una pista de instrumento</translation>
+        <translation>Sampler simple con varias configuraciones para usar muestras (por ej. percusión) en una pista de instrumento</translation>
     </message>
     <message>
         <source>plugin for processing dynamics in a flexible way</source>
@@ -9215,7 +9223,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>An oversampling bitcrusher</source>
-        <translation>Un reductor de bits de sobremuestreo (Bitcrusher)</translation>
+        <translation>Un reductor de bits de sobremuestreo</translation>
     </message>
     <message>
         <source>A native eq plugin</source>
@@ -9254,39 +9262,39 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Reverb Roomsize</source>
-        <translation>Aleatorizar reverberancia</translation>
+        <translation>Tamaño del recinto</translation>
     </message>
     <message>
         <source>Reverb Damping</source>
-        <translation>Absorción (reverberancia)</translation>
+        <translation>Absorción </translation>
     </message>
     <message>
         <source>Reverb Width</source>
-        <translation>Amplitud de reverberancia</translation>
+        <translation>Amplitud de la reverberancia</translation>
     </message>
     <message>
         <source>Reverb Level</source>
-        <translation>Nivel de reverberación</translation>
+        <translation>Nivel de reverberancia</translation>
     </message>
     <message>
         <source>Chorus</source>
-        <translation>Coro (chorus)</translation>
+        <translation>Coro</translation>
     </message>
     <message>
         <source>Chorus Lines</source>
-        <translation>Líneas de coro (chorus)</translation>
+        <translation>Líneas de coro </translation>
     </message>
     <message>
         <source>Chorus Level</source>
-        <translation>Nivel de coro (chorus)</translation>
+        <translation>Nivel de coro</translation>
     </message>
     <message>
         <source>Chorus Speed</source>
-        <translation>Velocidad del coro (chorus)</translation>
+        <translation>Velocidad de coro</translation>
     </message>
     <message>
         <source>Chorus Depth</source>
-        <translation>Profundidad del coro (chorus)</translation>
+        <translation>Profundidad de coro</translation>
     </message>
     <message>
         <source>A soundfont %1 could not be loaded.</source>
@@ -9305,7 +9313,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Choose the patch</source>
-        <translation>Elige el lote (patch)</translation>
+        <translation>Elige el lote</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -9313,23 +9321,23 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Apply reverb (if supported)</source>
-        <translation>Aplicar reverberancia (si hay soporte)</translation>
+        <translation>Aplicar reverberancia (si es posible)</translation>
     </message>
     <message>
         <source>This button enables the reverb effect. This is useful for cool effects, but only works on files that support it.</source>
-        <translation>Este botón activa la reverberancia. Útil para lograr buenos efectos, pero sólo funciona en archivos que lo soporten.</translation>
+        <translation>Este botón activa la reverberancia. Sirve para lograr efectos atractivos, pero sólo funciona en archivos que lo soportan.</translation>
     </message>
     <message>
         <source>Reverb Roomsize:</source>
-        <translation>Tamaño de la habitación (reverberancia):</translation>
+        <translation>Tamaño del recinto:</translation>
     </message>
     <message>
         <source>Reverb Damping:</source>
-        <translation>Absorción (reverberancia):</translation>
+        <translation>Absorción:</translation>
     </message>
     <message>
         <source>Reverb Width:</source>
-        <translation>Amplitud de reverberancia:</translation>
+        <translation>Amplitud de la reverberancia:</translation>
     </message>
     <message>
         <source>Reverb Level:</source>
@@ -9337,27 +9345,27 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Apply chorus (if supported)</source>
-        <translation>Aplicar coro (si hay soporte)</translation>
+        <translation>Aplicar coro (si es posible)</translation>
     </message>
     <message>
         <source>This button enables the chorus effect. This is useful for cool echo effects, but only works on files that support it.</source>
-        <translation>Este botón activa el coro (chorus). Útil para buenos efectos de eco, pero sólo funciona en archivos que lo soporten.</translation>
+        <translation>Este botón activa el efecto coro. Sirve para lograr interesantes efectos de eco, pero sólo funciona en archivos que lo soportan.</translation>
     </message>
     <message>
         <source>Chorus Lines:</source>
-        <translation>Líneas de coro (chorus):</translation>
+        <translation>Líneas de coro:</translation>
     </message>
     <message>
         <source>Chorus Level:</source>
-        <translation>Nivel de coro (chorus):</translation>
+        <translation>Nivel de coro:</translation>
     </message>
     <message>
         <source>Chorus Speed:</source>
-        <translation>Velocidad del coro (chorus):</translation>
+        <translation>Velocidad de coro:</translation>
     </message>
     <message>
         <source>Chorus Depth:</source>
-        <translation>Profundidad del coro (chorus):</translation>
+        <translation>Profundidad de coro:</translation>
     </message>
     <message>
         <source>Open SoundFont file</source>
@@ -9365,7 +9373,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>SoundFont2 Files (*.sf2)</source>
-        <translation>Archivo SoundFont2 (*.sf2)</translation>
+        <translation>Archivos SoundFont2 (*.sf2)</translation>
     </message>
 </context>
 <context>
@@ -9391,7 +9399,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Voice 3 off</source>
-        <translation>Voz 3 apagado</translation>
+        <translation>Voz 3 apagada</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -9414,7 +9422,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Cutoff frequency:</source>
-        <translation>frecuencia de corte:</translation>
+        <translation>Frecuencia de corte:</translation>
     </message>
     <message>
         <source>High-Pass filter </source>
@@ -9430,7 +9438,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Voice3 Off </source>
-        <translation>Voz 3 apagado</translation>
+        <translation>Voz 3 apagada</translation>
     </message>
     <message>
         <source>MOS6581 SID </source>
@@ -9462,7 +9470,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Output of Voice %1 will remain at the selected Sustain amplitude as long as the note is held.</source>
-        <translation>La salida de la Voz %1 permanecerá a la amplitud de Sostén elegida mientras se mantenga presionada la tecla.</translation>
+        <translation>La salida de la Voz %1 mantendrá la amplitud de Sostén elegida mientras se mantenga presionada la tecla.</translation>
     </message>
     <message>
         <source>Release:</source>
@@ -9478,7 +9486,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>The Pulse Width resolution allows the width to be smoothly swept with no discernable stepping. The Pulse waveform on Oscillator %1 must be selected to have any audible effect.</source>
-        <translation>La resolusión de la Amplitud del Pulso permite un barrido suave sin saltos audibles. La Onda de Pulso del Oscilador %1 debe estar seleccionada para que el efecto sea audible.</translation>
+        <translation>La resolución de la Amplitud del Pulso permite variar suavemente la amplitud sin que haya variaciones evidentes. La Onda de Pulso del Oscilador %1 debe estar seleccionada para que el efecto sea audible.</translation>
     </message>
     <message>
         <source>Coarse:</source>
@@ -9494,11 +9502,11 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Triangle Wave</source>
-        <translation>Onda triangular</translation>
+        <translation>Onda Triangular</translation>
     </message>
     <message>
         <source>SawTooth</source>
-        <translation>Onda de sierra</translation>
+        <translation>Onda de Sierra</translation>
     </message>
     <message>
         <source>Noise</source>
@@ -9506,11 +9514,11 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Sync</source>
-        <translation>Sincronizado</translation>
+        <translation>Sincro</translation>
     </message>
     <message>
         <source>Sync synchronizes the fundamental frequency of Oscillator %1 with the fundamental frequency of Oscillator %2 producing &quot;Hard Sync&quot; effects.</source>
-        <translation>&apos;Sincro&apos; sincroniza la frecuencia fundamental del Oscilador %1 con la frecuencia fundamental del Oscilador %2 produciendo efectos &apos;Hard-Sync&apos;.</translation>
+        <translation>&apos;Sincro&apos; sincroniza la frecuencia fundamental del Oscilador %1 con la frecuencia fundamental del Oscilador %2 produciendo efectos de &quot;Sincronización Dura&quot;.</translation>
     </message>
     <message>
         <source>Ring-Mod</source>
@@ -9601,7 +9609,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>Please wait while loading VST-plugin...</source>
-        <translation>Por favor espere mientras se carga el complemento VST...</translation>
+        <translation>Por favor espera mientras se carga el complemento VST...</translation>
     </message>
 </context>
 <context>
@@ -9663,7 +9671,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>The &apos;S&apos; knob sets the stiffness of the selected string.  The stiffness of the string affects how long the string will ring out.  The lower the setting, the longer the string will ring.</source>
-        <translation>La perilla &apos;S&apos; define la Rigidez de la cuerda. Esto afecta cuanto tiempo vibrará. A menor rigidez, por más tiempo continuará vibrando la cuerda.</translation>
+        <translation>La perilla &apos;S&apos; define la Rigidez de la cuerda, afectando el tiempo que la cuerda se mantiene vibrando. Una cuerda menos rígida vibrará por más tiempo.</translation>
     </message>
     <message>
         <source>Pick position:</source>
@@ -9671,15 +9679,15 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>The &apos;P&apos; knob sets the position where the selected string will be &apos;picked&apos;.  The lower the setting the closer the pick is to the bridge.</source>
-        <translation>La perilla &apos;P&apos; selecciona el lugar en el que la cuerda será &apos;pulsada&apos;. Cuanto menor sea el valor, más cerca del puente (ej. como en una guitarra).</translation>
+        <translation>La perilla &apos;P&apos; selecciona el lugar en el que la cuerda será &apos;pulsada&apos;. A menor valor, más cerca del puente.</translation>
     </message>
     <message>
         <source>Pickup position:</source>
-        <translation>Posición de micrófono:</translation>
+        <translation>Posición del micrófono:</translation>
     </message>
     <message>
         <source>The &apos;PU&apos; knob sets the position where the vibrations will be monitored for the selected string.  The lower the setting, the closer the pickup is to the bridge.</source>
-        <translation>La perilla &apos;PU&apos; selecciona el lugar en donde se captarán las vibraciones de la cuerda seleccionada. Valores más bajos indican que el micrófono está más cerca del puente (Similar a la llave selectora de una guitarra eléctrica).</translation>
+        <translation>La perilla &apos;PU&apos; selecciona el lugar en donde se captarán las vibraciones de la cuerda seleccionada. Valores más bajos ubican el micrófono más cerca del puente.</translation>
     </message>
     <message>
         <source>Pan:</source>
@@ -9687,7 +9695,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>The Pan knob determines the location of the selected string in the stereo field.</source>
-        <translation>La perilla Pan determina la localización de la cuerda dentro del campo estéreo.</translation>
+        <translation>La perilla &apos;Pan&apos; determina la localización de la cuerda dentro del campo estéreo.</translation>
     </message>
     <message>
         <source>Detune:</source>
@@ -9703,7 +9711,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>The Slap knob adds a bit of fuzz to the selected string which is most apparent during the attack, though it can also be used to make the string sound more &apos;metallic&apos;.</source>
-        <translation>La perilla Slap añade un poco de borrosidad a la cuerda, esto es más aparente durante el ataque, aunque puede usarse par darle a la cuerda un sonido más &apos;metálico&apos;.</translation>
+        <translation>La perilla &apos;Slap&apos; añade un poco de borrosidad a la cuerda. Esto es más aparente durante el ataque, aunque puede usarse par darle a la cuerda un sonido más &apos;metálico&apos;.</translation>
     </message>
     <message>
         <source>Length:</source>
@@ -9711,7 +9719,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>The Length knob sets the length of the selected string.  Longer strings will both ring longer and sound brighter, however, they will also eat up more CPU cycles.</source>
-        <translation>La perilla &apos;Longitud&apos; define el largo de la cuerda elegida. Cuerdas más largas vibrarán más y sonarán más brillantes. Sin embargo, también consumen más CPU.</translation>
+        <translation>La perilla &apos;Longitud&apos; define el largo de la cuerda elegida. Cuerdas más largas vibrarán por más tiempo y sonarán más brillantes. Sin embargo, también consumirán más CPU.</translation>
     </message>
     <message>
         <source>Impulse or initial state</source>
@@ -9727,7 +9735,7 @@ Este chip se usaba en las computadoras Commodore 64.</translation>
     </message>
     <message>
         <source>The Octave selector is used to choose which harmonic of the note the string will ring at.  For example, &apos;-2&apos; means the string will ring two octaves below the fundamental, &apos;F&apos; means the string will ring at the fundamental, and &apos;6&apos; means the string will ring six octaves above the fundamental.</source>
-        <translation>El selector de Octava se usa para definir en qué armónico de la nota la cuerda vibrará. Por ejemplo, &apos;-2&apos; significa que la cuerda vibrará 2 octavas por debajo de la fundamental, &apos;F&apos; significa que la cuerda vibrará en el sonido fundamental, y &apos;6&apos; significa que la cuerda vibrará 6 octabas por encima del sonido fundamental.</translation>
+        <translation>El selector de Octava se usa para definir en qué armónico de la nota la cuerda vibrará. Por ejemplo, &apos;-2&apos; significa que la cuerda vibrará 2 octavas por debajo de la fundamental, &apos;F&apos; significa que la cuerda vibrará en el sonido fundamental, y &apos;6&apos; significa que la cuerda vibrará 6 octavas por encima del sonido fundamental.</translation>
     </message>
     <message>
         <source>Impulse Editor</source>
@@ -9779,7 +9787,7 @@ El indicador LED en la esquina inferior derecha indica si la cuerda está activa
     </message>
     <message>
         <source>Click here to enable/disable waveform.</source>
-        <translation>Haz click aqui para activar o desactivar la onda.</translation>
+        <translation>Haz click aquí para activar o desactivar la onda.</translation>
     </message>
     <message>
         <source>String</source>
@@ -9787,11 +9795,11 @@ El indicador LED en la esquina inferior derecha indica si la cuerda está activa
     </message>
     <message>
         <source>The String selector is used to choose which string the controls are editing.  A Vibed instrument can contain up to nine independently vibrating strings.  The LED in the lower right corner of the waveform editor indicates whether the selected string is active.</source>
-        <translation>El selector de &apos;Cuerda&apos; se usa para elegir la cuerda que quieres editat. Un instrumento Vibed puede estar formado hasta por nueve cuerdas vibrando independientemente. El indicador LED en la esquina inferior derecha indica si la cuerda seleccionada está activa.</translation>
+        <translation>El selector de &apos;Cuerda&apos; se usa para elegir la cuerda que quieres editar. Un instrumento &apos;Vibed&apos; puede estar formado hasta por nueve cuerdas vibrando independientemente. El indicador LED en la esquina inferior derecha indica si la cuerda seleccionada está activa.</translation>
     </message>
     <message>
         <source>Sine wave</source>
-        <translation>Onda Sinusoidal</translation>
+        <translation>Onda sinusoidal</translation>
     </message>
     <message>
         <source>Triangle wave</source>
@@ -9803,15 +9811,15 @@ El indicador LED en la esquina inferior derecha indica si la cuerda está activa
     </message>
     <message>
         <source>Square wave</source>
-        <translation>Onda Cuadrada</translation>
+        <translation>Onda cuadrada</translation>
     </message>
     <message>
         <source>White noise wave</source>
-        <translation>Ruido-blanco</translation>
+        <translation>Ruido blanco</translation>
     </message>
     <message>
         <source>User defined wave</source>
-        <translation>onda definida por el usuario</translation>
+        <translation>Onda definida por el usuario</translation>
     </message>
     <message>
         <source>Smooth</source>
@@ -9831,27 +9839,27 @@ El indicador LED en la esquina inferior derecha indica si la cuerda está activa
     </message>
     <message>
         <source>Use a sine-wave for current oscillator.</source>
-        <translation>Usar una onda sinusoidal para el oscilador actual.</translation>
+        <translation>Usar una onda sinusoidal para este oscilador.</translation>
     </message>
     <message>
         <source>Use a triangle-wave for current oscillator.</source>
-        <translation>Usar una onda triangular para el oscilador actual.</translation>
+        <translation>Usar una onda triangular para este oscilador.</translation>
     </message>
     <message>
         <source>Use a saw-wave for current oscillator.</source>
-        <translation>Usar una onda de sierra para el oscilador actual.</translation>
+        <translation>Usar una onda de sierra para este oscilador.</translation>
     </message>
     <message>
         <source>Use a square-wave for current oscillator.</source>
-        <translation>Usar una onda cuadrada para el oscilador actual.</translation>
+        <translation>Usar una onda cuadrada para este oscilador.</translation>
     </message>
     <message>
         <source>Use white-noise for current oscillator.</source>
-        <translation>Usar ruido-blanco para el oscilador actual.</translation>
+        <translation>Usar ruido blanco para este oscilador.</translation>
     </message>
     <message>
         <source>Use a user-defined waveform for current oscillator.</source>
-        <translation>Usar una onda definida por el usuario para el oscilador actual.</translation>
+        <translation>Usar una onda definida por el usuario para este oscilador.</translation>
     </message>
 </context>
 <context>
@@ -9890,7 +9898,7 @@ El indicador LED en la esquina inferior derecha indica si la cuerda está activa
     </message>
     <message>
         <source>Voice %1 ring modulate</source>
-        <translation>Voz %1 modular en anillo</translation>
+        <translation>Voz %1 modulación en anillo</translation>
     </message>
     <message>
         <source>Voice %1 filtered</source>
@@ -9937,7 +9945,7 @@ El indicador LED en la esquina inferior derecha indica si la cuerda está activa
     </message>
     <message>
         <source>Increase graph amplitude by 1dB</source>
-        <translation>Aumentar la amplitud del gráfico 1dB</translation>
+        <translation>Aumentar la amplitud del gráfico en 1dB</translation>
     </message>
     <message>
         <source>Click here to increase wavegraph amplitude by 1dB</source>
