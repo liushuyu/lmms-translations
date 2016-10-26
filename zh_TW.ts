@@ -233,7 +233,7 @@ BrLi &lt;brli at chakraos.org&gt;
     </message>
     <message>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation>JACK服務好像崩潰了而且未能正常啓動，LMMS不能正常工作，你需要保存你的工作然後重啓JACK和LMMS。</translation>
+        <translation>JACK服務好像崩潰了而且未能正常啓動，LMMS不能正常工作，你需要儲存你的工作然後重啓JACK和LMMS。</translation>
     </message>
     <message>
         <source>CLIENT-NAME</source>
@@ -460,7 +460,7 @@ BrLi &lt;brli at chakraos.org&gt;
     </message>
     <message>
         <source>Paste values from clipboard (%1+V)</source>
-        <translation type="unfinished"/>
+        <translation>從剪貼簿貼上值 (%1+V)</translation>
     </message>
     <message>
         <source>Click here and selected values will be cut into the clipboard.  You can paste them anywhere in any pattern by clicking on the paste button.</source>
@@ -624,7 +624,7 @@ BrLi &lt;brli at chakraos.org&gt;
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>新增採樣音軌</translation>
     </message>
 </context>
 <context>
@@ -1022,7 +1022,7 @@ BrLi &lt;brli at chakraos.org&gt;
     </message>
     <message>
         <source>Delay Time</source>
-        <translation type="unfinished"/>
+        <translation>延遲時間</translation>
     </message>
     <message>
         <source>Regen</source>
@@ -5112,7 +5112,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Master Volume</source>
-        <translation type="unfinished"/>
+        <translation>主音量</translation>
     </message>
     <message>
         <source>Vibrato</source>
@@ -6298,7 +6298,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>LMMS Error report</source>
-        <translation type="unfinished"/>
+        <translation>LMMS錯誤報告</translation>
     </message>
 </context>
 <context>
@@ -7342,7 +7342,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Load waveform</source>
-        <translation type="unfinished"/>
+        <translation>載入波形</translation>
     </message>
     <message>
         <source>Click to load a waveform from a sample file</source>

@@ -913,7 +913,7 @@ Se sei interessato a tradurre LMMS o vuoi migliorare una traduzione esistente, s
     </message>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
 </context>
 <context>
@@ -2173,11 +2173,11 @@ Assicurarsi di avere i permessi in scrittura per il file e per la directory cont
     </message>
     <message>
         <source>DELAY</source>
-        <translation>Ritardo</translation>
+        <translation>RITARDO</translation>
     </message>
     <message>
         <source>RATE</source>
-        <translation>Frequenza</translation>
+        <translation>FREQUENZA</translation>
     </message>
     <message>
         <source>Rate:</source>
@@ -2185,7 +2185,7 @@ Assicurarsi di avere i permessi in scrittura per il file e per la directory cont
     </message>
     <message>
         <source>AMNT</source>
-        <translation>Q.tà</translation>
+        <translation>Q.TÀ</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -2193,15 +2193,15 @@ Assicurarsi di avere i permessi in scrittura per il file e per la directory cont
     </message>
     <message>
         <source>FDBK</source>
-        <translation>Fdbk</translation>
+        <translation>FDBK</translation>
     </message>
     <message>
         <source>NOISE</source>
-        <translation>Rumore</translation>
+        <translation>RUMORE</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation>Inverti</translation>
+        <translation>INVERTI</translation>
     </message>
 </context>
 <context>
@@ -2460,11 +2460,11 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
     </message>
     <message>
         <source>Skip rate</source>
-        <translation>salta la frequenza</translation>
+        <translation>Frequanza di Salto</translation>
     </message>
     <message>
         <source>Miss rate</source>
-        <translation>perde la frequenza</translation>
+        <translation>Frequanza di Sbaglio</translation>
     </message>
 </context>
 <context>
@@ -2539,27 +2539,27 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
     </message>
     <message>
         <source>SKIP</source>
-        <translation>salta</translation>
+        <translation>SALTA</translation>
     </message>
     <message>
         <source>Skip rate:</source>
-        <translation>salta la frequenza</translation>
+        <translation>Frequanza di Salto:</translation>
     </message>
     <message>
         <source>The skip function will make the arpeggiator pause one step randomly. From its start in full counter clockwise position and no effect it will gradually progress to full amnesia at maximum setting.</source>
-        <translation>La funzione di salto farà che l&apos;arpeggiatore metterà in pausa un passo in modo casuale. Dal suo inizio nella posizione completamente in senso antiorario e nessun effetto sarà gradualmente aumentato in piena effetto con regolazione al massimo.</translation>
+        <translation>Con la funzione di salto, l&apos;arpeggiatore metterà in pausa uno step in modo casuale. Alla posizione minima non verrà applicata alcuna variazione. Aumentando il valore, invece, si arriva gradualmente ad una completa casualità dell&apos;effetto.</translation>
     </message>
     <message>
         <source>MISS</source>
-        <translation>MANCA</translation>
+        <translation>SBAGLIA</translation>
     </message>
     <message>
         <source>Miss rate:</source>
-        <translation>perde la frequenza</translation>
+        <translation>Frequanza di Sbaglio:</translation>
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
-        <translation>La funzione MANCA farà sì che l&apos;arpeggiatore perda la nota voluta.</translation>
+        <translation>La funzione di sbaglio farà &quot;sbagliare&quot; l&apos;arpeggiatore, che suonerà un&apos;altra nota rispetto a quella normalmente prevista.</translation>
     </message>
 </context>
 <context>
@@ -2946,11 +2946,11 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
     </message>
     <message>
         <source>Phrygian dominant</source>
-        <translation type="unfinished"/>
+        <translation>Frigia dominante</translation>
     </message>
     <message>
         <source>Persian</source>
-        <translation type="unfinished"/>
+        <translation>Persiana</translation>
     </message>
 </context>
 <context>
@@ -5387,7 +5387,7 @@ Vi sono due forme speciali: &quot;Random&quot; e &quot;Random morbido&quot; sono
     </message>
     <message>
         <source>TRSH</source>
-        <translation>Da eliminare</translation>
+        <translation>SCARTA</translation>
     </message>
 </context>
 <context>

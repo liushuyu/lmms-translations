@@ -68,11 +68,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PANORERA</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panorering:</translation>
     </message>
     <message>
         <source>LEFT</source>
@@ -99,7 +99,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panorering</translation>
     </message>
     <message>
         <source>Left gain</source>
@@ -289,7 +289,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AudioSoundIo::setupWidget</name>
     <message>
         <source>BACKEND</source>
-        <translation type="unfinished"/>
+        <translation>BAKÄNDE</translation>
     </message>
     <message>
         <source>DEVICE</source>
@@ -478,19 +478,19 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Redigera åtgärder</translation>
     </message>
     <message>
         <source>Interpolation controls</source>
-        <translation type="unfinished"/>
+        <translation>Interpoleringskontroller</translation>
     </message>
     <message>
         <source>Timeline controls</source>
-        <translation type="unfinished"/>
+        <translation>Tidslinjekontroller</translation>
     </message>
     <message>
         <source>Zoom controls</source>
-        <translation type="unfinished"/>
+        <translation>Zoomningskontroller</translation>
     </message>
     <message>
         <source>Quantization controls</source>
@@ -498,7 +498,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Modellen är redan ansluten till det här mönstret.</translation>
     </message>
 </context>
 <context>
@@ -552,7 +552,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Modellen är redan ansluten till det här mönstret.</translation>
     </message>
 </context>
 <context>
@@ -602,15 +602,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Beat selector</source>
-        <translation type="unfinished"/>
+        <translation>Taktväljare</translation>
     </message>
     <message>
         <source>Track and step actions</source>
-        <translation type="unfinished"/>
+        <translation>Spår och stegåtgärder</translation>
     </message>
     <message>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>Klona steg</translation>
     </message>
     <message>
         <source>Add sample-track</source>
@@ -713,7 +713,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>NOIS</source>
-        <translation type="unfinished"/>
+        <translation>NOIS</translation>
     </message>
     <message>
         <source>Input Noise:</source>
@@ -725,7 +725,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>CLIP</source>
-        <translation type="unfinished"/>
+        <translation>KLIPP</translation>
     </message>
     <message>
         <source>Output Clip:</source>
@@ -733,7 +733,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Värdera</translation>
     </message>
     <message>
         <source>Rate Enabled</source>
@@ -761,7 +761,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>STD</source>
-        <translation type="unfinished"/>
+        <translation>STD</translation>
     </message>
     <message>
         <source>Stereo difference:</source>
@@ -903,15 +903,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>&amp;Remove this controller</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ta bort den här kontrollen</translation>
     </message>
     <message>
         <source>Re&amp;name this controller</source>
-        <translation type="unfinished"/>
+        <translation>Döp&amp; om den här kontrollern</translation>
     </message>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
 </context>
 <context>
@@ -985,15 +985,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Återkoppling</translation>
     </message>
     <message>
         <source>Lfo Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Lfo-frekvens</translation>
     </message>
     <message>
         <source>Lfo Amount</source>
-        <translation type="unfinished"/>
+        <translation>Lfo-mängd</translation>
     </message>
     <message>
         <source>Output gain</source>
@@ -1004,7 +1004,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>DelayControlsDialog</name>
     <message>
         <source>Delay</source>
-        <translation type="unfinished"/>
+        <translation>Fördröjning</translation>
     </message>
     <message>
         <source>Lfo Amt</source>
@@ -1012,7 +1012,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Delay Time</source>
-        <translation type="unfinished"/>
+        <translation>Tidsfördröjning</translation>
     </message>
     <message>
         <source>Regen</source>
@@ -1024,11 +1024,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Värdera</translation>
     </message>
     <message>
         <source>Lfo</source>
-        <translation type="unfinished"/>
+        <translation>Lfo</translation>
     </message>
     <message>
         <source>Out Gain</source>
@@ -1059,7 +1059,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREK</translation>
     </message>
     <message>
         <source>Cutoff frequency</source>
@@ -1067,7 +1067,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>RESO</translation>
     </message>
     <message>
         <source>Resonance</source>
@@ -1106,7 +1106,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Q/Resonance 1</source>
-        <translation type="unfinished"/>
+        <translation>Q/Resonans 1</translation>
     </message>
     <message>
         <source>Gain 1</source>
@@ -1130,7 +1130,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Q/Resonance 2</source>
-        <translation type="unfinished"/>
+        <translation>Q/Resonans 2</translation>
     </message>
     <message>
         <source>Gain 2</source>
@@ -1237,26 +1237,26 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation>Spela in</translation>
     </message>
     <message>
         <source>Record while playing</source>
-        <translation type="unfinished"/>
+        <translation>Spela in under uppspelningen</translation>
     </message>
     <message>
         <source>Transport controls</source>
-        <translation type="unfinished"/>
+        <translation>Transportkontroller</translation>
     </message>
 </context>
 <context>
     <name>Effect</name>
     <message>
         <source>Effect enabled</source>
-        <translation type="unfinished"/>
+        <translation>Effekt aktiverad</translation>
     </message>
     <message>
         <source>Wet/Dry mix</source>
-        <translation type="unfinished"/>
+        <translation>Blöt/Torr mix</translation>
     </message>
     <message>
         <source>Gate</source>
@@ -1271,7 +1271,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>EffectChain</name>
     <message>
         <source>Effects enabled</source>
-        <translation type="unfinished"/>
+        <translation>Effekter aktiverade</translation>
     </message>
 </context>
 <context>
@@ -1305,7 +1305,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"/>
+        <translation>Författare</translation>
     </message>
 </context>
 <context>
@@ -1320,7 +1320,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>W/D</source>
-        <translation type="unfinished"/>
+        <translation>W/D</translation>
     </message>
     <message>
         <source>Wet Level:</source>
@@ -1376,15 +1376,15 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Move &amp;up</source>
-        <translation type="unfinished"/>
+        <translation>Flytta &amp;upp</translation>
     </message>
     <message>
         <source>Move &amp;down</source>
-        <translation type="unfinished"/>
+        <translation>Flytta &amp;ner</translation>
     </message>
     <message>
         <source>&amp;Remove this plugin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ta bort det här insticksprogrammet</translation>
     </message>
 </context>
 <context>
@@ -1395,11 +1395,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Attack</translation>
     </message>
     <message>
         <source>Hold</source>
-        <translation type="unfinished"/>
+        <translation>Håll</translation>
     </message>
     <message>
         <source>Decay</source>
@@ -1411,11 +1411,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Släpp</translation>
     </message>
     <message>
         <source>Modulation</source>
-        <translation type="unfinished"/>
+        <translation>Modulering</translation>
     </message>
     <message>
         <source>LFO Predelay</source>
@@ -1439,7 +1439,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Freq x 100</source>
-        <translation type="unfinished"/>
+        <translation>Frek x 100</translation>
     </message>
     <message>
         <source>Modulate Env-Amount</source>
@@ -1450,7 +1450,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <name>EnvelopeAndLfoView</name>
     <message>
         <source>DEL</source>
-        <translation type="unfinished"/>
+        <translation>RADERA</translation>
     </message>
     <message>
         <source>Predelay:</source>
@@ -1466,7 +1466,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Attack:</translation>
     </message>
     <message>
         <source>Use this knob for setting attack-time of the current envelope. The bigger this value the longer the envelope needs to increase to attack-level. Choose a small value for instruments like pianos and a big value for strings.</source>
@@ -1474,11 +1474,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>HOLD</source>
-        <translation type="unfinished"/>
+        <translation>HÅLL</translation>
     </message>
     <message>
         <source>Hold:</source>
-        <translation type="unfinished"/>
+        <translation>Håll:</translation>
     </message>
     <message>
         <source>Use this knob for setting hold-time of the current envelope. The bigger this value the longer the envelope holds attack-level before it begins to decrease to sustain-level.</source>
@@ -1486,7 +1486,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>DEC</source>
-        <translation type="unfinished"/>
+        <translation>DEC</translation>
     </message>
     <message>
         <source>Decay:</source>
@@ -1610,7 +1610,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>ms/LFO:</source>
-        <translation type="unfinished"/>
+        <translation>ms/LFO:</translation>
     </message>
     <message>
         <source>Hint</source>
