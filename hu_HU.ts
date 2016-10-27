@@ -663,7 +663,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>ERŐSÍTÉS</translation>
     </message>
     <message>
         <source>Gain:</source>
@@ -780,7 +780,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>CaptionMenu</name>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Súgó</translation>
     </message>
     <message>
         <source>Help (not available)</source>
@@ -997,7 +997,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Kimeneti erősítés</translation>
     </message>
 </context>
 <context>
@@ -1036,7 +1036,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Erősítés</translation>
     </message>
 </context>
 <context>
@@ -1075,11 +1075,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>ERŐSÍTÉS</translation>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Erősítés</translation>
     </message>
     <message>
         <source>MIX</source>
@@ -1293,7 +1293,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Név</translation>
     </message>
     <message>
         <source>Type</source>
@@ -1301,7 +1301,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"/>
+        <translation>Leírás</translation>
     </message>
     <message>
         <source>Author</source>
@@ -1629,11 +1629,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     <name>EqControls</name>
     <message>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Bemeneti erősítés</translation>
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Kimeneti erősítés</translation>
     </message>
     <message>
         <source>Low shelf gain</source>
@@ -1836,7 +1836,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Erősítés</translation>
     </message>
     <message>
         <source>Out Gain</source>
@@ -1852,7 +1852,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Frekvencia:</translation>
     </message>
     <message>
         <source>lp grp</source>
@@ -1868,7 +1868,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frekvencia</translation>
     </message>
     <message>
         <source>Resonance</source>
@@ -2026,7 +2026,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégse</translation>
     </message>
     <message>
         <source>Export as loop (remove end silence)</source>
@@ -2283,7 +2283,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Erősítés</translation>
     </message>
 </context>
 <context>
@@ -2318,7 +2318,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Erősítés</translation>
     </message>
     <message>
         <source>Factor to multiply samples by</source>
@@ -2446,6 +2446,10 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2539,6 +2543,22 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3026,7 +3046,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő</translation>
     </message>
     <message>
         <source>CUTOFF</source>
@@ -3204,7 +3224,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -3243,11 +3263,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentTrackView</name>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő</translation>
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő:</translation>
     </message>
     <message>
         <source>VOL</source>
@@ -3294,7 +3314,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő:</translation>
     </message>
     <message>
         <source>VOL</source>
@@ -4116,7 +4136,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <name>MidiSetupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>ESZKÖZ</translation>
     </message>
 </context>
 <context>
@@ -4503,7 +4523,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Szinuszhullám</translation>
     </message>
     <message>
         <source>Bandlimited Triangle wave</source>
@@ -4563,11 +4583,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Háromszöghullám</translation>
     </message>
     <message>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fűrészfoghullám</translation>
     </message>
     <message>
         <source>Ramp wave</source>
@@ -4575,7 +4595,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Négyszöghullám</translation>
     </message>
     <message>
         <source>Moog saw wave</source>
@@ -4766,7 +4786,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -4995,7 +5015,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>NesInstrumentView</name>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő</translation>
     </message>
     <message>
         <source>Coarse detune</source>
@@ -5177,15 +5197,15 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Név</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégse</translation>
     </message>
 </context>
 <context>
@@ -5900,15 +5920,15 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Kivágás</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Másolás</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Beillesztés</translation>
     </message>
     <message>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
@@ -5923,7 +5943,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -6093,11 +6113,11 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégse</translation>
     </message>
     <message>
         <source>Restart LMMS</source>
@@ -6666,7 +6686,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégse</translation>
     </message>
     <message>
         <source>Please wait...</source>
@@ -7347,7 +7367,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished"/>
+        <translation>Normalizálás</translation>
     </message>
     <message>
         <source>Click to normalize</source>
@@ -7371,7 +7391,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Szinuszhullám</translation>
     </message>
     <message>
         <source>Click for sine wave</source>
@@ -7379,7 +7399,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Háromszöghullám</translation>
     </message>
     <message>
         <source>Click for triangle wave</source>
@@ -7391,7 +7411,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Négyszöghullám</translation>
     </message>
     <message>
         <source>Click for square wave</source>
@@ -7399,7 +7419,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -7618,19 +7638,19 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Szinuszhullám</translation>
     </message>
     <message>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Háromszöghullám</translation>
     </message>
     <message>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fűrészfoghullám</translation>
     </message>
     <message>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Négyszöghullám</translation>
     </message>
     <message>
         <source>White noise wave</source>
@@ -7638,7 +7658,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>User defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Felhasználó által megadott hullám</translation>
     </message>
     <message>
         <source>Smooth</source>
@@ -7654,7 +7674,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished"/>
+        <translation>Normalizálás</translation>
     </message>
     <message>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
@@ -7689,19 +7709,19 @@ Please make sure you have read-permission to the file and the directory containi
     <name>dynProcControlDialog</name>
     <message>
         <source>INPUT</source>
-        <translation type="unfinished"/>
+        <translation>BEMENET</translation>
     </message>
     <message>
         <source>Input gain:</source>
-        <translation type="unfinished"/>
+        <translation>Bemeneti erősítés:</translation>
     </message>
     <message>
         <source>OUTPUT</source>
-        <translation type="unfinished"/>
+        <translation>KIMENET</translation>
     </message>
     <message>
         <source>Output gain:</source>
-        <translation type="unfinished"/>
+        <translation>Kimeneti erősítés:</translation>
     </message>
     <message>
         <source>ATTACK</source>
@@ -7780,11 +7800,11 @@ Please make sure you have read-permission to the file and the directory containi
     <name>dynProcControls</name>
     <message>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Bemeneti erősítés</translation>
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Kimeneti erősítés</translation>
     </message>
     <message>
         <source>Attack time</source>
@@ -7829,7 +7849,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Erősítés</translation>
     </message>
     <message>
         <source>Length</source>
@@ -7880,7 +7900,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Erősítés:</translation>
     </message>
     <message>
         <source>Frequency Slope:</source>
@@ -8111,7 +8131,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fűrészfoghullám</translation>
     </message>
     <message>
         <source>Click here for a saw-wave.</source>
@@ -8119,7 +8139,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Háromszöghullám</translation>
     </message>
     <message>
         <source>Click here for a triangle-wave.</source>
@@ -8127,7 +8147,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Négyszöghullám</translation>
     </message>
     <message>
         <source>Click here for a square-wave.</source>
@@ -8151,7 +8171,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Szinuszhullám</translation>
     </message>
     <message>
         <source>Click for a sine-wave.</source>
@@ -8254,7 +8274,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"/>
+        <translation>Sebesség</translation>
     </message>
     <message>
         <source>Bowed</source>
@@ -8648,7 +8668,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő</translation>
     </message>
 </context>
 <context>
@@ -8659,7 +8679,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő:</translation>
     </message>
     <message>
         <source>Randomise</source>
@@ -8992,15 +9012,15 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Név</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégse</translation>
     </message>
 </context>
 <context>
@@ -9195,7 +9215,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Erősítés</translation>
     </message>
     <message>
         <source>Reverb</source>
@@ -9258,7 +9278,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Erősítés</translation>
     </message>
     <message>
         <source>Apply reverb (if supported)</source>
@@ -9344,7 +9364,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő</translation>
     </message>
     <message>
         <source>Chip model</source>
@@ -9355,7 +9375,7 @@ This chip was used in the Commodore 64 computer.</source>
     <name>sidInstrumentView</name>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő:</translation>
     </message>
     <message>
         <source>Resonance:</source>
@@ -9600,7 +9620,7 @@ This chip was used in the Commodore 64 computer.</source>
     <name>vibedView</name>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Hangerő:</translation>
     </message>
     <message>
         <source>The &apos;V&apos; knob sets the volume of the selected string.</source>

@@ -2467,6 +2467,10 @@ Puedes quitar y mover los canales FX a través del menú contextual. Accede a es
         <source>Miss rate</source>
         <translation>Tasa de omisión</translation>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2561,6 +2565,22 @@ Puedes quitar y mover los canales FX a través del menú contextual. Accede a es
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
         <translation>&quot;Omitir&quot; hace que el arpegiador pase por alto la nota deseada.</translation>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

@@ -388,11 +388,11 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Flip vertically</source>
-        <translation type="unfinished"/>
+        <translation>Převrátit vertikálně</translation>
     </message>
     <message>
         <source>Flip horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Převrátit horizontálně</translation>
     </message>
     <message>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>
@@ -412,7 +412,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Discrete progression</source>
-        <translation>Oddělený vývoj</translation>
+        <translation>Terasovitý vývoj</translation>
     </message>
     <message>
         <source>Linear progression</source>
@@ -432,7 +432,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Click here to choose discrete progressions for this automation pattern.  The value of the connected object will remain constant between control points and be set immediately to the new value when each control point is reached.</source>
-        <translation>Kliknutím sem vyberete oddělený vývoj pro tento automatizační pattern.  Hodnota připojeného objektu zůstane konstantní mezi ovládacími body a okamžitě nastavena na novou hodnotu když se dosáhne každého ovládacího bodu.</translation>
+        <translation>Kliknutím sem vyberete terasovitý vývoj pro tento automatizační pattern.  Hodnota připojeného objektu zůstane konstantní mezi ovládacími body a okamžitě nastavena na novou hodnotu, když se dosáhne dalšího ovládacího bodu.</translation>
     </message>
     <message>
         <source>Click here to choose linear progressions for this automation pattern.  The value of the connected object will change at a steady rate over time between control points to reach the correct value at each control point without a sudden change.</source>
@@ -568,7 +568,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     <name>BBEditor</name>
     <message>
         <source>Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>Beat+Bassline editor</translation>
     </message>
     <message>
         <source>Play/pause current beat/bassline (Space)</source>
@@ -657,11 +657,11 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     <name>BassBoosterControlDialog</name>
     <message>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREKV</translation>
     </message>
     <message>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Frekvence:</translation>
     </message>
     <message>
         <source>GAIN</source>
@@ -669,7 +669,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Zisk:</translation>
     </message>
     <message>
         <source>RATIO</source>
@@ -684,7 +684,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     <name>BassBoosterControls</name>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frekvence</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1061,15 +1061,15 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREKV</translation>
     </message>
     <message>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frekvence seříznutí</translation>
     </message>
     <message>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>REZON</translation>
     </message>
     <message>
         <source>Resonance</source>
@@ -1492,7 +1492,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Doznívání:</translation>
     </message>
     <message>
         <source>Use this knob for setting decay-time of the current envelope. The bigger this value the longer the envelope needs to decrease from attack-level to sustain-level. Choose a small value for instruments like pianos.</source>
@@ -2138,7 +2138,7 @@ Přesvědčte se prosím, že máte právo zápisu do tohoto souboru a příslu�
     </message>
     <message>
         <source>Noise</source>
-        <translation type="unfinished"/>
+        <translation>Šum</translation>
     </message>
     <message>
         <source>Invert</source>
@@ -2173,7 +2173,7 @@ Přesvědčte se prosím, že máte právo zápisu do tohoto souboru a příslu�
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>MNOŽ</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -2449,6 +2449,10 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2544,6 +2548,22 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>The miss function will make the arpeggiator miss the intended note.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionNoteStacking</name>
@@ -2553,291 +2573,291 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Major</source>
-        <translation type="unfinished"/>
+        <translation>dur</translation>
     </message>
     <message>
         <source>Majb5</source>
-        <translation type="unfinished"/>
+        <translation>Maj 5b</translation>
     </message>
     <message>
         <source>minor</source>
-        <translation type="unfinished"/>
+        <translation>moll</translation>
     </message>
     <message>
         <source>minb5</source>
-        <translation type="unfinished"/>
+        <translation>m 5b</translation>
     </message>
     <message>
         <source>sus2</source>
-        <translation type="unfinished"/>
+        <translation>sus2</translation>
     </message>
     <message>
         <source>sus4</source>
-        <translation type="unfinished"/>
+        <translation>sus4</translation>
     </message>
     <message>
         <source>aug</source>
-        <translation type="unfinished"/>
+        <translation>aug</translation>
     </message>
     <message>
         <source>augsus4</source>
-        <translation type="unfinished"/>
+        <translation>aug sus4</translation>
     </message>
     <message>
         <source>tri</source>
-        <translation type="unfinished"/>
+        <translation>tri</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"/>
+        <translation>6</translation>
     </message>
     <message>
         <source>6sus4</source>
-        <translation type="unfinished"/>
+        <translation>6 sus4</translation>
     </message>
     <message>
         <source>6add9</source>
-        <translation type="unfinished"/>
+        <translation>6 add9</translation>
     </message>
     <message>
         <source>m6</source>
-        <translation type="unfinished"/>
+        <translation>m6</translation>
     </message>
     <message>
         <source>m6add9</source>
-        <translation type="unfinished"/>
+        <translation>m6 add9</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"/>
+        <translation>7</translation>
     </message>
     <message>
         <source>7sus4</source>
-        <translation type="unfinished"/>
+        <translation>7 sus4</translation>
     </message>
     <message>
         <source>7#5</source>
-        <translation type="unfinished"/>
+        <translation>7/5#</translation>
     </message>
     <message>
         <source>7b5</source>
-        <translation type="unfinished"/>
+        <translation>7/5b</translation>
     </message>
     <message>
         <source>7#9</source>
-        <translation type="unfinished"/>
+        <translation>7/9#</translation>
     </message>
     <message>
         <source>7b9</source>
-        <translation type="unfinished"/>
+        <translation>7/9b</translation>
     </message>
     <message>
         <source>7#5#9</source>
-        <translation type="unfinished"/>
+        <translation>7/5#/9#</translation>
     </message>
     <message>
         <source>7#5b9</source>
-        <translation type="unfinished"/>
+        <translation>7/5#/9b</translation>
     </message>
     <message>
         <source>7b5b9</source>
-        <translation type="unfinished"/>
+        <translation>7/5b/9b</translation>
     </message>
     <message>
         <source>7add11</source>
-        <translation type="unfinished"/>
+        <translation>7 add11</translation>
     </message>
     <message>
         <source>7add13</source>
-        <translation type="unfinished"/>
+        <translation>7 /add13</translation>
     </message>
     <message>
         <source>7#11</source>
-        <translation type="unfinished"/>
+        <translation>7/11#</translation>
     </message>
     <message>
         <source>Maj7</source>
-        <translation type="unfinished"/>
+        <translation>Maj7</translation>
     </message>
     <message>
         <source>Maj7b5</source>
-        <translation type="unfinished"/>
+        <translation>Maj7/5b</translation>
     </message>
     <message>
         <source>Maj7#5</source>
-        <translation type="unfinished"/>
+        <translation>Maj7/5#</translation>
     </message>
     <message>
         <source>Maj7#11</source>
-        <translation type="unfinished"/>
+        <translation>Maj7/11#</translation>
     </message>
     <message>
         <source>Maj7add13</source>
-        <translation type="unfinished"/>
+        <translation>Maj7 add13</translation>
     </message>
     <message>
         <source>m7</source>
-        <translation type="unfinished"/>
+        <translation>m7</translation>
     </message>
     <message>
         <source>m7b5</source>
-        <translation type="unfinished"/>
+        <translation>m7/5b</translation>
     </message>
     <message>
         <source>m7b9</source>
-        <translation type="unfinished"/>
+        <translation>m7/9b</translation>
     </message>
     <message>
         <source>m7add11</source>
-        <translation type="unfinished"/>
+        <translation>m7 add11 </translation>
     </message>
     <message>
         <source>m7add13</source>
-        <translation type="unfinished"/>
+        <translation>m7 add13</translation>
     </message>
     <message>
         <source>m-Maj7</source>
-        <translation type="unfinished"/>
+        <translation>m/Maj7</translation>
     </message>
     <message>
         <source>m-Maj7add11</source>
-        <translation type="unfinished"/>
+        <translation>m/Maj7 add11</translation>
     </message>
     <message>
         <source>m-Maj7add13</source>
-        <translation type="unfinished"/>
+        <translation>m/Maj7 add13</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"/>
+        <translation>9</translation>
     </message>
     <message>
         <source>9sus4</source>
-        <translation type="unfinished"/>
+        <translation>9 sus4</translation>
     </message>
     <message>
         <source>add9</source>
-        <translation type="unfinished"/>
+        <translation>add9</translation>
     </message>
     <message>
         <source>9#5</source>
-        <translation type="unfinished"/>
+        <translation>9/5#</translation>
     </message>
     <message>
         <source>9b5</source>
-        <translation type="unfinished"/>
+        <translation>9/5b</translation>
     </message>
     <message>
         <source>9#11</source>
-        <translation type="unfinished"/>
+        <translation>9/11#</translation>
     </message>
     <message>
         <source>9b13</source>
-        <translation type="unfinished"/>
+        <translation>9/13b</translation>
     </message>
     <message>
         <source>Maj9</source>
-        <translation type="unfinished"/>
+        <translation>Maj9</translation>
     </message>
     <message>
         <source>Maj9sus4</source>
-        <translation type="unfinished"/>
+        <translation>Maj9 sus4</translation>
     </message>
     <message>
         <source>Maj9#5</source>
-        <translation type="unfinished"/>
+        <translation>Maj9/5#</translation>
     </message>
     <message>
         <source>Maj9#11</source>
-        <translation type="unfinished"/>
+        <translation>Maj9/11#</translation>
     </message>
     <message>
         <source>m9</source>
-        <translation type="unfinished"/>
+        <translation>m9</translation>
     </message>
     <message>
         <source>madd9</source>
-        <translation type="unfinished"/>
+        <translation>m add9</translation>
     </message>
     <message>
         <source>m9b5</source>
-        <translation type="unfinished"/>
+        <translation>m9/5b</translation>
     </message>
     <message>
         <source>m9-Maj7</source>
-        <translation type="unfinished"/>
+        <translation>m9/Maj7</translation>
     </message>
     <message>
         <source>11</source>
-        <translation type="unfinished"/>
+        <translation>11</translation>
     </message>
     <message>
         <source>11b9</source>
-        <translation type="unfinished"/>
+        <translation>11/9b</translation>
     </message>
     <message>
         <source>Maj11</source>
-        <translation type="unfinished"/>
+        <translation>Maj11</translation>
     </message>
     <message>
         <source>m11</source>
-        <translation type="unfinished"/>
+        <translation>m11</translation>
     </message>
     <message>
         <source>m-Maj11</source>
-        <translation type="unfinished"/>
+        <translation>m/Maj11</translation>
     </message>
     <message>
         <source>13</source>
-        <translation type="unfinished"/>
+        <translation>13</translation>
     </message>
     <message>
         <source>13#9</source>
-        <translation type="unfinished"/>
+        <translation>13/9#</translation>
     </message>
     <message>
         <source>13b9</source>
-        <translation type="unfinished"/>
+        <translation>13/9b</translation>
     </message>
     <message>
         <source>13b5b9</source>
-        <translation type="unfinished"/>
+        <translation>13/9b/5b</translation>
     </message>
     <message>
         <source>Maj13</source>
-        <translation type="unfinished"/>
+        <translation>Maj13</translation>
     </message>
     <message>
         <source>m13</source>
-        <translation type="unfinished"/>
+        <translation>m13</translation>
     </message>
     <message>
         <source>m-Maj13</source>
-        <translation type="unfinished"/>
+        <translation>m/Maj13</translation>
     </message>
     <message>
         <source>Harmonic minor</source>
-        <translation type="unfinished"/>
+        <translation>mollová harmonická</translation>
     </message>
     <message>
         <source>Melodic minor</source>
-        <translation type="unfinished"/>
+        <translation>mollová melodická</translation>
     </message>
     <message>
         <source>Whole tone</source>
-        <translation type="unfinished"/>
+        <translation>celotónová stupnice</translation>
     </message>
     <message>
         <source>Diminished</source>
-        <translation type="unfinished"/>
+        <translation>zmenšená</translation>
     </message>
     <message>
         <source>Major pentatonic</source>
-        <translation type="unfinished"/>
+        <translation>durová pentatonika</translation>
     </message>
     <message>
         <source>Minor pentatonic</source>
-        <translation type="unfinished"/>
+        <translation>mollová pentatonika</translation>
     </message>
     <message>
         <source>Jap in sen</source>
@@ -2845,87 +2865,87 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Major bebop</source>
-        <translation type="unfinished"/>
+        <translation>durová bebopová</translation>
     </message>
     <message>
         <source>Dominant bebop</source>
-        <translation type="unfinished"/>
+        <translation>dominantní bebopová</translation>
     </message>
     <message>
         <source>Blues</source>
-        <translation type="unfinished"/>
+        <translation>bluesová stupnice</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>arabská</translation>
     </message>
     <message>
         <source>Enigmatic</source>
-        <translation type="unfinished"/>
+        <translation>enigmatická</translation>
     </message>
     <message>
         <source>Neopolitan</source>
-        <translation type="unfinished"/>
+        <translation>neapolská</translation>
     </message>
     <message>
         <source>Neopolitan minor</source>
-        <translation type="unfinished"/>
+        <translation>mollová neapolská</translation>
     </message>
     <message>
         <source>Hungarian minor</source>
-        <translation type="unfinished"/>
+        <translation>mollová maďarská</translation>
     </message>
     <message>
         <source>Dorian</source>
-        <translation type="unfinished"/>
+        <translation>dórská</translation>
     </message>
     <message>
         <source>Phrygolydian</source>
-        <translation type="unfinished"/>
+        <translation>frygická</translation>
     </message>
     <message>
         <source>Lydian</source>
-        <translation type="unfinished"/>
+        <translation>lydická</translation>
     </message>
     <message>
         <source>Mixolydian</source>
-        <translation type="unfinished"/>
+        <translation>mixolydická</translation>
     </message>
     <message>
         <source>Aeolian</source>
-        <translation type="unfinished"/>
+        <translation>aiolská</translation>
     </message>
     <message>
         <source>Locrian</source>
-        <translation type="unfinished"/>
+        <translation>lokrická</translation>
     </message>
     <message>
         <source>Chords</source>
-        <translation type="unfinished"/>
+        <translation>Akordy</translation>
     </message>
     <message>
         <source>Chord type</source>
-        <translation type="unfinished"/>
+        <translation>Typ akordu</translation>
     </message>
     <message>
         <source>Chord range</source>
-        <translation type="unfinished"/>
+        <translation>Rozsah akordu</translation>
     </message>
     <message>
         <source>Minor</source>
-        <translation type="unfinished"/>
+        <translation>moll</translation>
     </message>
     <message>
         <source>Chromatic</source>
-        <translation type="unfinished"/>
+        <translation>chromatická</translation>
     </message>
     <message>
         <source>Half-Whole Diminished</source>
-        <translation type="unfinished"/>
+        <translation>zmenšená půltón – celý tón</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"/>
+        <translation>5</translation>
     </message>
     <message>
         <source>Phrygian dominant</source>
@@ -2933,7 +2953,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Persian</source>
-        <translation type="unfinished"/>
+        <translation>perská</translation>
     </message>
 </context>
 <context>
@@ -3176,7 +3196,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>REZON</translation>
     </message>
     <message>
         <source>Resonance:</source>
@@ -3325,7 +3345,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>cents</source>
-        <translation type="unfinished"/>
+        <translation>centů</translation>
     </message>
     <message>
         <source>PITCH</source>
@@ -3333,7 +3353,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>FX channel</source>
-        <translation type="unfinished"/>
+        <translation>FX kanál</translation>
     </message>
     <message>
         <source>ENV/LFO</source>
@@ -3832,11 +3852,11 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     </message>
     <message>
         <source>My Presets</source>
-        <translation type="unfinished"/>
+        <translation>Moje šablony</translation>
     </message>
     <message>
         <source>My Home</source>
-        <translation type="unfinished"/>
+        <translation>Domů</translation>
     </message>
     <message>
         <source>My Computer</source>
@@ -4008,11 +4028,11 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     </message>
     <message>
         <source>Smooth scroll</source>
-        <translation type="unfinished"/>
+        <translation>Plynulé posouvání</translation>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Povolit názvy tónů v piano rollu</translation>
     </message>
 </context>
 <context>
@@ -4860,7 +4880,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Doznívání</translation>
     </message>
     <message>
         <source>Sustain</source>
@@ -5210,7 +5230,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Loop mode</source>
-        <translation type="unfinished"/>
+        <translation>Režim smyčky</translation>
     </message>
     <message>
         <source>Here you can toggle the Loop mode. If enabled, PatMan will use the loop information available in the file.</source>
@@ -5314,11 +5334,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Base amount:</source>
-        <translation type="unfinished"/>
+        <translation>Základní míra:</translation>
     </message>
     <message>
         <source>Modulation amount:</source>
-        <translation type="unfinished"/>
+        <translation>Hloubka modulace:</translation>
     </message>
     <message>
         <source>Attack:</source>
@@ -5330,7 +5350,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>MNOŽ</translation>
     </message>
     <message>
         <source>MULT</source>
@@ -5361,11 +5381,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>PeakControllerEffectControls</name>
     <message>
         <source>Base value</source>
-        <translation type="unfinished"/>
+        <translation>Základní hodnota</translation>
     </message>
     <message>
         <source>Modulation amount</source>
-        <translation type="unfinished"/>
+        <translation>Hloubka modulace</translation>
     </message>
     <message>
         <source>Mute output</source>
@@ -5400,43 +5420,43 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Last note</source>
-        <translation>Trvání noty</translation>
+        <translation>Dle poslední noty</translation>
     </message>
     <message>
         <source>Note lock</source>
-        <translation>Zámek noty</translation>
+        <translation>Zamknout notu</translation>
     </message>
     <message>
         <source>Note Velocity</source>
-        <translation type="unfinished"/>
+        <translation>Síla noty</translation>
     </message>
     <message>
         <source>Note Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panoráma noty</translation>
     </message>
     <message>
         <source>Mark/unmark current semitone</source>
-        <translation type="unfinished"/>
+        <translation>Zvýraznit/skrýt zvolený tón</translation>
     </message>
     <message>
         <source>Mark current scale</source>
-        <translation type="unfinished"/>
+        <translation>Zvýraznit zvolenou stupnici</translation>
     </message>
     <message>
         <source>Mark current chord</source>
-        <translation type="unfinished"/>
+        <translation>Zvýraznit zvolený akord</translation>
     </message>
     <message>
         <source>Unmark all</source>
-        <translation type="unfinished"/>
+        <translation>Skrýt vše</translation>
     </message>
     <message>
         <source>No scale</source>
-        <translation type="unfinished"/>
+        <translation>Žádná stupnice</translation>
     </message>
     <message>
         <source>No chord</source>
-        <translation type="unfinished"/>
+        <translation>Žádný akord</translation>
     </message>
     <message>
         <source>Velocity: %1%</source>
@@ -5444,15 +5464,15 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Panning: %1% left</source>
-        <translation type="unfinished"/>
+        <translation>Panoráma: %1% vlevo</translation>
     </message>
     <message>
         <source>Panning: %1% right</source>
-        <translation type="unfinished"/>
+        <translation>Panoráma: %1% vpravo</translation>
     </message>
     <message>
         <source>Panning: center</source>
-        <translation type="unfinished"/>
+        <translation>Panoráma: %1% střed</translation>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
@@ -5460,11 +5480,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Mark/unmark all corresponding octave semitones</source>
-        <translation type="unfinished"/>
+        <translation>Zvýraznit/skrýt zvolený tón ve všech oktávách</translation>
     </message>
     <message>
         <source>Select all notes on this key</source>
-        <translation type="unfinished"/>
+        <translation>Vybrat všechny noty zvolené výšky</translation>
     </message>
 </context>
 <context>
@@ -5475,11 +5495,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Record notes from MIDI-device/channel-piano</source>
-        <translation>Nahrávat noty z MIDI zařízení / kanálu piana</translation>
+        <translation>Nahrávat z MIDI zařízení nebo z virtuální klávesnice</translation>
     </message>
     <message>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
-        <translation>Nahrávat tóny z MIDI zařízení / kanálu piána při přehrávání skladby nebo BB stopy</translation>
+        <translation>Nahrávat z MIDI zařízení nebo z virtuální klávesnice při přehrávání skladby nebo BB stopy</translation>
     </message>
     <message>
         <source>Stop playing of current pattern (Space)</source>
@@ -5491,11 +5511,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you can play and edit them afterwards.</source>
-        <translation>Klikněte sem, pokud chcete nahrávat z MIDI zařízení nebo virtuálního testovacího piána příslušného kanálového okna do aktuálního patternu. Při nahrávání zaznamenáte všechny zahrané noty do tohoto patternu, následně si je můžete přehrát nebo upravit.</translation>
+        <translation>Klikněte sem, pokud chcete nahrávat z MIDI zařízení nebo z virtuální klávesnice příslušného kanálového okna do aktuálního patternu. Při nahrávání se zaznamenají všechny zahrané noty do tohoto patternu, a následně je můžete přehrát nebo upravit.</translation>
     </message>
     <message>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you will hear the song or BB track in the background.</source>
-        <translation>Klikněte sem, pokud chcete nahrávat z MIDI zařízení nebo virtuálního testovacího piána příslušného kanálového okna do aktuálního patternu. Při nahrávání zaznamenáte všechny zahrané noty do tohoto patternu a na pozadí uslyšíte skladbu nebo BB stopu.</translation>
+        <translation>Klikněte sem, pokud chcete nahrávat z MIDI zařízení nebo z virtuální klávesnice příslušného kanálového okna do aktuálního patternu. Při nahrávání se zaznamenají všechny zahrané noty do tohoto patternu a na pozadí uslyšíte skladbu nebo BB stopu.</translation>
     </message>
     <message>
         <source>Click here to stop playback of current pattern.</source>
@@ -5716,7 +5736,7 @@ Důvod: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Format Actions</source>
-        <translation type="unfinished"/>
+        <translation>Formátování</translation>
     </message>
     <message>
         <source>&amp;Bold</source>
@@ -5988,11 +6008,11 @@ Důvod: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Enable tooltips</source>
-        <translation>Aktivovat tipy nástrojů</translation>
+        <translation>Zapnout bublinovou nápovědu</translation>
     </message>
     <message>
         <source>Show restart warning after changing settings</source>
-        <translation>Vyzvat k restartu po změně nastavení</translation>
+        <translation>Zobrazit výzvu k restartu po změně nastavení</translation>
     </message>
     <message>
         <source>Display volume as dBV </source>
@@ -6104,7 +6124,7 @@ Důvod: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>Restart LMMS</source>
@@ -6611,19 +6631,19 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Enable/disable loop-points</source>
-        <translation>Povolit/zakázat body pro přehrávání ve smyčce</translation>
+        <translation>Povolit/zakázat body přehrávání ve smyčce</translation>
     </message>
     <message>
         <source>After stopping go back to begin</source>
-        <translation>Po skončení jít zpět na začátek</translation>
+        <translation>Po skončení přetočit zpět na začátek</translation>
     </message>
     <message>
         <source>After stopping go back to position at which playing was started</source>
-        <translation>Po skončení jít zpět na pozici, ze které přehrávání začalo</translation>
+        <translation>Po skončení přetočit zpět na pozici, ze které přehrávání začalo</translation>
     </message>
     <message>
         <source>After stopping keep position</source>
-        <translation>Po skončení zachovej pozici</translation>
+        <translation>Po skončení zachovat pozici</translation>
     </message>
     <message>
         <source>Hint</source>
@@ -6849,7 +6869,7 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
     </message>
     <message>
         <source>With this knob you can set the panning of the oscillator %1. A value of -100 means 100% left and a value of 100 moves oscillator-output right.</source>
-        <translation type="unfinished"/>
+        <translation>Tímto otočným ovladačem můžete nastavit panoráma oscilátoru %1. Hodnota -100 znamená maximálně doleva, zatímco hodnota 100 přesouvá výstup oscilátoru doprava.</translation>
     </message>
     <message>
         <source>Osc %1 coarse detuning:</source>
@@ -7179,19 +7199,19 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
     </message>
     <message>
         <source>Panning A1</source>
-        <translation type="unfinished"/>
+        <translation>Panoráma A1</translation>
     </message>
     <message>
         <source>Panning A2</source>
-        <translation type="unfinished"/>
+        <translation>Panoráma A2</translation>
     </message>
     <message>
         <source>Panning B1</source>
-        <translation type="unfinished"/>
+        <translation>Panoráma B1</translation>
     </message>
     <message>
         <source>Panning B2</source>
-        <translation type="unfinished"/>
+        <translation>Panoráma B2</translation>
     </message>
     <message>
         <source>Freq. multiplier A1</source>
@@ -7414,7 +7434,7 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panoráma</translation>
     </message>
     <message>
         <source>Freq. multiplier</source>
@@ -7700,7 +7720,7 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
     <name>dynProcControlDialog</name>
     <message>
         <source>INPUT</source>
-        <translation type="unfinished"/>
+        <translation>VSTUP</translation>
     </message>
     <message>
         <source>Input gain:</source>
@@ -7708,7 +7728,7 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
     </message>
     <message>
         <source>OUTPUT</source>
-        <translation type="unfinished"/>
+        <translation>VÝSTUP</translation>
     </message>
     <message>
         <source>Output gain:</source>
@@ -8266,7 +8286,7 @@ Dvojitým kliknutím na kterýkoli z modulů se zobrazí informace o portech.</t
     </message>
     <message>
         <source>ADSR</source>
-        <translation type="unfinished"/>
+        <translation>ADSR</translation>
     </message>
     <message>
         <source>Pressure</source>
@@ -8472,7 +8492,7 @@ Dvojitým kliknutím na kterýkoli z modulů se zobrazí informace o portech.</t
     </message>
     <message>
         <source>VST Sync</source>
-        <translation type="unfinished"/>
+        <translation>VST synch</translation>
     </message>
     <message>
         <source>Click here if you want to synchronize all parameters with VST plugin.</source>
@@ -8484,7 +8504,7 @@ Dvojitým kliknutím na kterýkoli z modulů se zobrazí informace o portech.</t
     </message>
     <message>
         <source>Click here if you want to display automated parameters only.</source>
-        <translation type="unfinished"/>
+        <translation>Klikněte sem, pokud chcete pouze zobrazit automatizační parametry.</translation>
     </message>
     <message>
         <source>    Close    </source>
@@ -8653,7 +8673,7 @@ Dvojitým kliknutím na kterýkoli z modulů se zobrazí informace o portech.</t
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Doznívání</translation>
     </message>
     <message>
         <source>Release</source>
@@ -9423,7 +9443,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Doznívání:</translation>
     </message>
     <message>
         <source>Decay rate determines how rapidly the output falls from the peak amplitude to the selected Sustain level.</source>
@@ -9570,7 +9590,7 @@ This chip was used in the Commodore 64 computer.</source>
     <name>vestigeInstrument</name>
     <message>
         <source>Loading plugin</source>
-        <translation type="unfinished"/>
+        <translation>Načítám plugin</translation>
     </message>
     <message>
         <source>Please wait while loading VST-plugin...</source>
@@ -9796,11 +9816,11 @@ The LED in the lower right corner of the waveform editor determines whether the 
     </message>
     <message>
         <source>Use a saw-wave for current oscillator.</source>
-        <translation type="unfinished"/>
+        <translation>Klikněte sem pro pilovitou vlnu.</translation>
     </message>
     <message>
         <source>Use a square-wave for current oscillator.</source>
-        <translation type="unfinished"/>
+        <translation>Klikněte sem pro pilovitou vlnu.</translation>
     </message>
     <message>
         <source>Use white-noise for current oscillator.</source>

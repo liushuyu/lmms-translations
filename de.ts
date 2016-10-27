@@ -280,7 +280,7 @@ Wenn Sie daran interessiert sind LMMS in eine andere Sprache zu übersetzen oder
     <name>AudioSndio::setupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>GERÄT</translation>
     </message>
     <message>
         <source>CHANNELS</source>
@@ -913,7 +913,7 @@ Wenn Sie daran interessiert sind LMMS in eine andere Sprache zu übersetzen oder
     </message>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
 </context>
 <context>
@@ -1299,7 +1299,7 @@ Wenn Sie daran interessiert sind LMMS in eine andere Sprache zu übersetzen oder
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Description</source>
@@ -2184,7 +2184,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>AMNT</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -2200,7 +2200,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Invertieren</translation>
     </message>
 </context>
 <context>
@@ -2466,6 +2466,10 @@ Sie können FX Kanäle im Kontextmenü entfernen und verschieben, welches durch 
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2559,6 +2563,22 @@ Sie können FX Kanäle im Kontextmenü entfernen und verschieben, welches durch 
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3619,7 +3639,7 @@ Doppelklicken Sie, um eine Datei auszuwählen.</translation>
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>AMNT</translation>
     </message>
 </context>
 <context>

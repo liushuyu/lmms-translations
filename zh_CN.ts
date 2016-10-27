@@ -503,7 +503,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>Quantization controls</source>
-        <translation type="unfinished"/>
+        <translation>量化控制</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
@@ -623,7 +623,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>添加采样轨道</translation>
     </message>
 </context>
 <context>
@@ -920,7 +920,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
 </context>
 <context>
@@ -1033,7 +1033,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>比特率</translation>
     </message>
     <message>
         <source>Lfo</source>
@@ -1076,7 +1076,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>共鸣</translation>
     </message>
     <message>
         <source>Resonance</source>
@@ -2180,7 +2180,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>数量</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -2196,7 +2196,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>反转</translation>
     </message>
 </context>
 <context>
@@ -2462,6 +2462,10 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2555,6 +2559,22 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3154,7 +3174,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Fast Formant</source>
-        <translation type="unfinished"/>
+        <translation>快速共振峰(Formant)</translation>
     </message>
     <message>
         <source>Tripole</source>
@@ -4857,7 +4877,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>比特率</translation>
     </message>
     <message>
         <source>Phase</source>
@@ -5106,7 +5126,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Quantize noise frequency when using note frequency</source>
-        <translation type="unfinished"/>
+        <translation>在使用音符频率时，量化噪音频率</translation>
     </message>
     <message>
         <source>Use note frequency for noise</source>
@@ -5616,7 +5636,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Quantize</source>
-        <translation type="unfinished"/>
+        <translation>量化</translation>
     </message>
 </context>
 <context>
@@ -7344,7 +7364,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation type="unfinished"/>
+        <translation>使用鼠标在此图像上绘制你自己的波形。</translation>
     </message>
     <message>
         <source>Load waveform</source>
@@ -8247,7 +8267,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"/>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Vibrato Gain</source>
@@ -8283,7 +8303,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Pressure</source>
-        <translation type="unfinished"/>
+        <translation>压力</translation>
     </message>
     <message>
         <source>Motion</source>

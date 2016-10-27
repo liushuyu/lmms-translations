@@ -288,11 +288,11 @@ BrLi &lt;brli at chakraos.org&gt;
     <name>AudioSndio::setupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>裝置</translation>
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation type="unfinished"/>
+        <translation>聲道數</translation>
     </message>
 </context>
 <context>
@@ -1307,7 +1307,7 @@ BrLi &lt;brli at chakraos.org&gt;
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Description</source>
@@ -2197,7 +2197,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>反轉</translation>
     </message>
 </context>
 <context>
@@ -2457,6 +2457,10 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2550,6 +2554,22 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>

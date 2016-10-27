@@ -556,7 +556,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Model is reeds verbonden met dit patroon</translation>
     </message>
 </context>
 <context>
@@ -829,7 +829,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Input controller</source>
-        <translation type="unfinished"/>
+        <translation>Ingang besturing</translation>
     </message>
     <message>
         <source>CONTROLLER</source>
@@ -1063,7 +1063,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREQ</translation>
     </message>
     <message>
         <source>Cutoff frequency</source>
@@ -1388,7 +1388,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>&amp;Remove this plugin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Verwijder deze plugin</translation>
     </message>
 </context>
 <context>
@@ -1856,7 +1856,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Frequentie:</translation>
     </message>
     <message>
         <source>lp grp</source>
@@ -1872,15 +1872,15 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frequentie</translation>
     </message>
     <message>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Resonantie</translation>
     </message>
     <message>
         <source>Bandwidth</source>
-        <translation type="unfinished"/>
+        <translation>Bandbreedte</translation>
     </message>
 </context>
 <context>
@@ -2030,7 +2030,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Export as loop (remove end silence)</source>
@@ -2070,7 +2070,7 @@ Please make sure you have write-permission to the file and the directory contain
     <name>Fader</name>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Voer a.u.b. een nieuwe waarde tussen %1 en %2 in:</translation>
     </message>
 </context>
 <context>
@@ -2261,7 +2261,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Solo</translation>
     </message>
     <message>
         <source>Solo FX channel</source>
@@ -2450,6 +2450,10 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2543,6 +2547,22 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3302,7 +3322,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>VOL</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -3350,7 +3370,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -3677,7 +3697,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Help</translation>
     </message>
     <message>
         <source>Help</source>
@@ -3689,7 +3709,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Over</translation>
     </message>
     <message>
         <source>Create new project</source>
@@ -3725,7 +3745,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>Beat+Baslijn Editor</translation>
     </message>
     <message>
         <source>By pressing this button, you can show or hide the Beat+Bassline Editor. The Beat+Bassline Editor is needed for creating beats, and for opening, adding, and removing channels, and for cutting, copying and pasting beat and bassline-patterns, and for other things like that.</source>
@@ -4073,7 +4093,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <name>MidiPort</name>
     <message>
         <source>Input channel</source>
-        <translation type="unfinished"/>
+        <translation>Ingang kanaal</translation>
     </message>
     <message>
         <source>Output channel</source>
@@ -4081,7 +4101,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Input controller</source>
-        <translation type="unfinished"/>
+        <translation>Ingang besturing</translation>
     </message>
     <message>
         <source>Output controller</source>
@@ -4120,7 +4140,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <name>MidiSetupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>APPARAAT</translation>
     </message>
 </context>
 <context>
@@ -4507,7 +4527,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Sinus golf</translation>
     </message>
     <message>
         <source>Bandlimited Triangle wave</source>
@@ -4567,11 +4587,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Driehoeks golf</translation>
     </message>
     <message>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Zaagtand golf</translation>
     </message>
     <message>
         <source>Ramp wave</source>
@@ -4579,7 +4599,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Vierkants golf</translation>
     </message>
     <message>
         <source>Moog saw wave</source>
@@ -4881,7 +4901,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>MultitapEchoControlDialog</name>
     <message>
         <source>Length</source>
-        <translation type="unfinished"/>
+        <translation>Lengte</translation>
     </message>
     <message>
         <source>Step length:</source>
@@ -5454,7 +5474,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Voer a.u.b. een nieuwe waarde tussen %1 en %2 in:</translation>
     </message>
     <message>
         <source>Mark/unmark all corresponding octave semitones</source>
@@ -5469,7 +5489,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>PianoRollWindow</name>
     <message>
         <source>Play/pause current pattern (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Huidige patroon afspelen/pauzeren (Spatie)</translation>
     </message>
     <message>
         <source>Record notes from MIDI-device/channel-piano</source>
@@ -5481,7 +5501,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Stop playing of current pattern (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Afspelen huidige patroon stoppen (Spatie)</translation>
     </message>
     <message>
         <source>Click here to play the current pattern. This is useful while editing it. The pattern is automatically looped when its end is reached.</source>
@@ -5501,11 +5521,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Draw mode (Shift+D)</source>
-        <translation type="unfinished"/>
+        <translation>Teken modus (Shift+D)</translation>
     </message>
     <message>
         <source>Erase mode (Shift+E)</source>
-        <translation type="unfinished"/>
+        <translation>Wis modus (Shift+E)</translation>
     </message>
     <message>
         <source>Select mode (Shift+S)</source>
@@ -5577,7 +5597,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Bewerk acties</translation>
     </message>
     <message>
         <source>Copy paste controls</source>
@@ -5901,23 +5921,23 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Delete (middle mousebutton)</source>
-        <translation type="unfinished"/>
+        <translation>Verwijderen (middelste muisknop)</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Knippen</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopieren</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation type="unfinished"/>
+        <translation>Dempen/geluid aan (&lt;%1&gt; + middelklik)</translation>
     </message>
 </context>
 <context>
@@ -5947,7 +5967,7 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>VOL</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -6098,11 +6118,11 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Restart LMMS</source>
@@ -6754,7 +6774,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Solo</translation>
     </message>
     <message>
         <source>Mute this track</source>
@@ -7378,7 +7398,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Sinus golf</translation>
     </message>
     <message>
         <source>Click for sine wave</source>
@@ -7386,7 +7406,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Driehoeks golf</translation>
     </message>
     <message>
         <source>Click for triangle wave</source>
@@ -7398,7 +7418,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Vierkants golf</translation>
     </message>
     <message>
         <source>Click for square wave</source>
@@ -7512,7 +7532,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREQ</translation>
     </message>
     <message>
         <source>Filter Resonance:</source>
@@ -7587,7 +7607,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Loop mode</source>
-        <translation type="unfinished"/>
+        <translation>Loop modus</translation>
     </message>
     <message>
         <source>Interpolation mode</source>
@@ -7980,7 +8000,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Rate</source>
@@ -8094,7 +8114,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Resonance:</source>
-        <translation type="unfinished"/>
+        <translation>Resonantie:</translation>
     </message>
     <message>
         <source>Env Mod:</source>
@@ -8118,7 +8138,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Zaagtand golf</translation>
     </message>
     <message>
         <source>Click here for a saw-wave.</source>
@@ -8126,7 +8146,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Driehoeks golf</translation>
     </message>
     <message>
         <source>Click here for a triangle-wave.</source>
@@ -8134,7 +8154,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Vierkants golf</translation>
     </message>
     <message>
         <source>Click here for a square-wave.</source>
@@ -8158,7 +8178,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Sinus golf</translation>
     </message>
     <message>
         <source>Click for a sine-wave.</source>
@@ -8471,7 +8491,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>    Close    </source>
-        <translation type="unfinished"/>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Close VST effect knob-controller window.</source>
@@ -8999,15 +9019,15 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -9339,11 +9359,11 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Resonantie</translation>
     </message>
     <message>
         <source>Filter type</source>
-        <translation type="unfinished"/>
+        <translation>Filtersoort</translation>
     </message>
     <message>
         <source>Voice 3 off</source>
@@ -9366,7 +9386,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Resonance:</source>
-        <translation type="unfinished"/>
+        <translation>Resonantie:</translation>
     </message>
     <message>
         <source>Cutoff frequency:</source>

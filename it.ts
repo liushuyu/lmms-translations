@@ -2466,6 +2466,10 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
         <source>Miss rate</source>
         <translation>Frequanza di Sbaglio</translation>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2560,6 +2564,22 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
         <translation>La funzione di sbaglio farà &quot;sbagliare&quot; l&apos;arpeggiatore, che suonerà un&apos;altra nota rispetto a quella normalmente prevista.</translation>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

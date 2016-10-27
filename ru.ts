@@ -620,7 +620,7 @@ Oe Ai &lt;oeai/at/symbiants/dot/com&gt;</translation>
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Добавить дорожку записи</translation>
     </message>
 </context>
 <context>
@@ -917,7 +917,7 @@ Oe Ai &lt;oeai/at/symbiants/dot/com&gt;</translation>
     </message>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
 </context>
 <context>
@@ -1042,7 +1042,7 @@ Oe Ai &lt;oeai/at/symbiants/dot/com&gt;</translation>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление</translation>
     </message>
 </context>
 <context>
@@ -1065,7 +1065,7 @@ Oe Ai &lt;oeai/at/symbiants/dot/com&gt;</translation>
     </message>
     <message>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREQ</translation>
     </message>
     <message>
         <source>Cutoff frequency</source>
@@ -1073,7 +1073,7 @@ Oe Ai &lt;oeai/at/symbiants/dot/com&gt;</translation>
     </message>
     <message>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>RESO</translation>
     </message>
     <message>
         <source>Resonance</source>
@@ -1081,11 +1081,11 @@ Oe Ai &lt;oeai/at/symbiants/dot/com&gt;</translation>
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>МОЩ</translation>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление</translation>
     </message>
     <message>
         <source>MIX</source>
@@ -2190,7 +2190,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>ГЛУБ</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -2470,6 +2470,10 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2563,6 +2567,22 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3024,7 +3044,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Specify the velocity normalization base for MIDI-based instruments at 100% note velocity</source>
-        <translation>Опрделяет базовую скорость нормальизации для MiDi инструментов при громкости ноты 100%</translation>
+        <translation>Определяет базовую скорость нормализации для MiDi инструментов при громкости ноты 100%</translation>
     </message>
     <message>
         <source>BASE VELOCITY</source>
@@ -3304,7 +3324,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>FX %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>ЭФ %1: %2</translation>
     </message>
 </context>
 <context>
@@ -3624,7 +3644,7 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>ГЛУБ</translation>
     </message>
 </context>
 <context>
@@ -4148,7 +4168,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <name>MidiSetupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>УСТРОЙСТВО</translation>
     </message>
 </context>
 <context>
@@ -4822,7 +4842,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Баланс</translation>
     </message>
     <message>
         <source>Coarse detune</source>
@@ -4886,11 +4906,11 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     </message>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Вступление</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Частота выборки</translation>
     </message>
     <message>
         <source>Phase</source>
@@ -4902,19 +4922,19 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     </message>
     <message>
         <source>Hold</source>
-        <translation type="unfinished"/>
+        <translation>Удерживание</translation>
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Затихание</translation>
     </message>
     <message>
         <source>Sustain</source>
-        <translation type="unfinished"/>
+        <translation>Выдержка</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Убывание</translation>
     </message>
     <message>
         <source>Slope</source>
@@ -4922,14 +4942,14 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     </message>
     <message>
         <source>Modulation amount</source>
-        <translation type="unfinished"/>
+        <translation>Глубина модуляции</translation>
     </message>
 </context>
 <context>
     <name>MultitapEchoControlDialog</name>
     <message>
         <source>Length</source>
-        <translation type="unfinished"/>
+        <translation>Длина</translation>
     </message>
     <message>
         <source>Step length:</source>
@@ -5155,7 +5175,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     </message>
     <message>
         <source>Vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Вибрато</translation>
     </message>
 </context>
 <context>
@@ -5217,7 +5237,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     </message>
     <message>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>Банк</translation>
     </message>
     <message>
         <source>Program selector</source>
@@ -5225,7 +5245,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     </message>
     <message>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Патч</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5323,7 +5343,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     </message>
     <message>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>Клонировать такты</translation>
     </message>
 </context>
 <context>
@@ -5626,7 +5646,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Правка:</translation>
     </message>
     <message>
         <source>Copy paste controls</source>
@@ -5642,7 +5662,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     </message>
     <message>
         <source>Piano-Roll - %1</source>
-        <translation type="unfinished"/>
+        <translation>Нотный редактор - %1</translation>
     </message>
     <message>
         <source>Piano-Roll - no pattern</source>
@@ -6486,7 +6506,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Правка:</translation>
     </message>
     <message>
         <source>Timeline controls</source>
@@ -6740,7 +6760,7 @@ Please make sure you have read-permission to the file and the directory containi
     <name>TrackContentObject</name>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Тихо</translation>
     </message>
 </context>
 <context>
@@ -7462,7 +7482,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Баланс</translation>
     </message>
     <message>
         <source>Freq. multiplier</source>
@@ -8696,15 +8716,15 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <name>opl2instrumentView</name>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Вступление</translation>
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Затихание</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Убывание</translation>
     </message>
     <message>
         <source>Frequency multiplier</source>
@@ -9051,7 +9071,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>Банк</translation>
     </message>
     <message>
         <source>Program selector</source>
@@ -9059,7 +9079,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Патч</translation>
     </message>
     <message>
         <source>Name</source>

@@ -1036,7 +1036,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Guany</translation>
     </message>
 </context>
 <context>
@@ -1079,7 +1079,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Guany</translation>
     </message>
     <message>
         <source>MIX</source>
@@ -1293,15 +1293,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipus</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"/>
+        <translation>Descripció</translation>
     </message>
     <message>
         <source>Author</source>
@@ -2446,6 +2446,10 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2539,6 +2543,22 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4766,7 +4786,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Volum</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -4838,7 +4858,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Taxa</translation>
     </message>
     <message>
         <source>Phase</source>
@@ -4995,7 +5015,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>NesInstrumentView</name>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Volum</translation>
     </message>
     <message>
         <source>Coarse detune</source>
@@ -5103,7 +5123,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Vibrat</translation>
     </message>
 </context>
 <context>
@@ -5165,7 +5185,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>Banc</translation>
     </message>
     <message>
         <source>Program selector</source>
@@ -5173,11 +5193,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Pedaç</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>OK</source>
@@ -5589,11 +5609,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Piano-Roll - %1</source>
-        <translation type="unfinished"/>
+        <translation>Rotlle de Piano - %1</translation>
     </message>
     <message>
         <source>Piano-Roll - no pattern</source>
-        <translation type="unfinished"/>
+        <translation>Rotlle de Piano - sense patró</translation>
     </message>
     <message>
         <source>Quantize</source>
@@ -7399,7 +7419,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Volum</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -8992,7 +9012,7 @@ Fent doble clic a qualsevol connector mostrarà informació sobre els ports.</tr
     </message>
     <message>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>Banc</translation>
     </message>
     <message>
         <source>Program selector</source>
@@ -9000,11 +9020,11 @@ Fent doble clic a qualsevol connector mostrarà informació sobre els ports.</tr
     </message>
     <message>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Pedaç</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>OK</source>

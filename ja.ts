@@ -280,11 +280,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AudioSndio::setupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>デバイス</translation>
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation type="unfinished"/>
+        <translation>チャンネル</translation>
     </message>
 </context>
 <context>
@@ -616,7 +616,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>サンプルトラックを追加</translation>
     </message>
 </context>
 <context>
@@ -1061,7 +1061,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>周波数</translation>
     </message>
     <message>
         <source>Cutoff frequency</source>
@@ -1069,7 +1069,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>レゾナンス</translation>
     </message>
     <message>
         <source>Resonance</source>
@@ -1077,7 +1077,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>ゲイン</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1299,7 +1299,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>種類</translation>
     </message>
     <message>
         <source>Description</source>
@@ -1405,7 +1405,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>ディケイ</translation>
     </message>
     <message>
         <source>Sustain</source>
@@ -1870,11 +1870,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>周波数</translation>
     </message>
     <message>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>レゾナンス</translation>
     </message>
     <message>
         <source>Bandwidth</source>
@@ -2107,7 +2107,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>エラー</translation>
     </message>
     <message>
         <source>does not appear to be a valid</source>
@@ -2340,11 +2340,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>GuiApplication</name>
     <message>
         <source>Working directory</source>
-        <translation type="unfinished"/>
+        <translation>作業ディレクトリ</translation>
     </message>
     <message>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
-        <translation type="unfinished"/>
+        <translation>LMMSの作業ディレクトリ %1 は存在しません。作成しますか？編集-&gt;セッティング でこのディレクトリを変更できます。</translation>
     </message>
     <message>
         <source>Preparing UI</source>
@@ -2449,6 +2449,10 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2542,6 +2546,22 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3037,7 +3057,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>カットオフ周波数</translation>
     </message>
     <message>
         <source>RESO</source>
@@ -3061,11 +3081,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>LowPass</source>
-        <translation type="unfinished"/>
+        <translation>ローパス</translation>
     </message>
     <message>
         <source>HiPass</source>
-        <translation type="unfinished"/>
+        <translation>ハイパス</translation>
     </message>
     <message>
         <source>BandPass csg</source>
@@ -4775,7 +4795,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>パニング</translation>
     </message>
     <message>
         <source>Coarse detune</source>
@@ -4859,7 +4879,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>ディケイ</translation>
     </message>
     <message>
         <source>Sustain</source>
@@ -5178,7 +5198,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>パッチ</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5594,11 +5614,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Piano-Roll - %1</source>
-        <translation type="unfinished"/>
+        <translation>ピアノロール - %1</translation>
     </message>
     <message>
         <source>Piano-Roll - no pattern</source>
-        <translation type="unfinished"/>
+        <translation>ピアノロール - パターン無し</translation>
     </message>
     <message>
         <source>Quantize</source>
@@ -6689,7 +6709,7 @@ Please make sure you have read-permission to the file and the directory containi
     <name>TrackContentObject</name>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>ミュート</translation>
     </message>
 </context>
 <context>
@@ -7411,7 +7431,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>パニング</translation>
     </message>
     <message>
         <source>Freq. multiplier</source>
@@ -7576,7 +7596,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Reverse sample</source>
-        <translation type="unfinished"/>
+        <translation>サンプルをリバース</translation>
     </message>
     <message>
         <source>Stutter</source>
@@ -8445,7 +8465,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Your Stk-installation seems to be incomplete. Please make sure the full Stk-package is installed!</source>
-        <translation type="unfinished"/>
+        <translation>Stkのインストールが未完了のようです。Stkパッケージがすべてインストールされていることを確認してください！</translation>
     </message>
 </context>
 <context>
@@ -8637,7 +8657,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>ディケイ</translation>
     </message>
     <message>
         <source>Release</source>
@@ -8996,7 +9016,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>パッチ</translation>
     </message>
     <message>
         <source>Name</source>

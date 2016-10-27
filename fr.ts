@@ -616,7 +616,7 @@ Si vous êtes intéressé par la traduction de LMMS dans une nouvelle langue ou 
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter une piste d&apos;échantillon</translation>
     </message>
 </context>
 <context>
@@ -913,7 +913,7 @@ Si vous êtes intéressé par la traduction de LMMS dans une nouvelle langue ou 
     </message>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
 </context>
 <context>
@@ -2185,7 +2185,7 @@ Veuillez vérifier que vous avez les droits d&apos;accès en écriture à ce fic
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>AMNT</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -2201,7 +2201,7 @@ Veuillez vérifier que vous avez les droits d&apos;accès en écriture à ce fic
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Inverser</translation>
     </message>
 </context>
 <context>
@@ -2466,6 +2466,10 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2559,6 +2563,22 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>

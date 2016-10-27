@@ -915,7 +915,7 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
 </context>
 <context>
@@ -1047,11 +1047,11 @@ Esteban Viveros</translation>
     <name>DualFilterControlDialog</name>
     <message>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filtro 1 habilitado</translation>
     </message>
     <message>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filtro 2 habilitado</translation>
     </message>
     <message>
         <source>Click to enable/disable Filter 1</source>
@@ -1301,7 +1301,7 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Description</source>
@@ -2186,7 +2186,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>QNTD</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -2202,7 +2202,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Inverter</translation>
     </message>
 </context>
 <context>
@@ -2462,6 +2462,10 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2555,6 +2559,22 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3614,7 +3634,7 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>QNTD</translation>
     </message>
 </context>
 <context>
@@ -5599,7 +5619,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Timeline controls</source>
-        <translation type="unfinished"/>
+        <translation>Controles de cronograma</translation>
     </message>
     <message>
         <source>Zoom and note controls</source>
@@ -6425,7 +6445,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>Add automação de faixa</translation>
     </message>
     <message>
         <source>Draw mode</source>

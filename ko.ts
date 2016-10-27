@@ -1036,7 +1036,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>이득</translation>
     </message>
 </context>
 <context>
@@ -1071,7 +1071,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>공명</translation>
     </message>
     <message>
         <source>GAIN</source>
@@ -1079,7 +1079,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>이득</translation>
     </message>
     <message>
         <source>MIX</source>
@@ -1293,15 +1293,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>이름</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>형태</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"/>
+        <translation>요약</translation>
     </message>
     <message>
         <source>Author</source>
@@ -1872,7 +1872,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>공명</translation>
     </message>
     <message>
         <source>Bandwidth</source>
@@ -2446,6 +2446,10 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2539,6 +2543,22 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4766,7 +4786,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>볼륨</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -4838,7 +4858,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>비</translation>
     </message>
     <message>
         <source>Phase</source>
@@ -4995,7 +5015,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>NesInstrumentView</name>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>볼륨</translation>
     </message>
     <message>
         <source>Coarse detune</source>
@@ -5165,7 +5185,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>뱅크</translation>
     </message>
     <message>
         <source>Program selector</source>
@@ -5173,11 +5193,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>패치</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>이름</translation>
     </message>
     <message>
         <source>OK</source>
@@ -5589,11 +5609,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Piano-Roll - %1</source>
-        <translation type="unfinished"/>
+        <translation>피아노-롤 - %1</translation>
     </message>
     <message>
         <source>Piano-Roll - no pattern</source>
-        <translation type="unfinished"/>
+        <translation>피아노-롤 - 패턴 없음</translation>
     </message>
     <message>
         <source>Quantize</source>
@@ -7399,7 +7419,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>볼륨</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -8433,7 +8453,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Missing files</source>
-        <translation type="unfinished"/>
+        <translation>없는 파일</translation>
     </message>
     <message>
         <source>Your Stk-installation seems to be incomplete. Please make sure the full Stk-package is installed!</source>
@@ -8980,7 +9000,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>뱅크</translation>
     </message>
     <message>
         <source>Program selector</source>
@@ -8988,11 +9008,11 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>패치</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>이름</translation>
     </message>
     <message>
         <source>OK</source>

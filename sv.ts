@@ -614,7 +614,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Lägg till ljudfils-spår</translation>
     </message>
 </context>
 <context>
@@ -1036,7 +1036,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Förstärkning</translation>
     </message>
 </context>
 <context>
@@ -1075,11 +1075,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>FÖRST</translation>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Förstärkning</translation>
     </message>
     <message>
         <source>MIX</source>
@@ -1868,7 +1868,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frekvens</translation>
     </message>
     <message>
         <source>Resonance</source>
@@ -2123,7 +2123,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Lfo Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Lfo-frekvens</translation>
     </message>
     <message>
         <source>Seconds</source>
@@ -2186,7 +2186,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Invertera</translation>
     </message>
 </context>
 <context>
@@ -2446,6 +2446,10 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2539,6 +2543,22 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3038,7 +3058,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>RESO</translation>
     </message>
     <message>
         <source>Resonance</source>
@@ -3086,7 +3106,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>2x LowPass</source>
-        <translation type="unfinished"/>
+        <translation>2x Lågpass</translation>
     </message>
     <message>
         <source>RC LowPass 12dB</source>
@@ -3173,7 +3193,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>RESO</translation>
     </message>
     <message>
         <source>Resonance:</source>
@@ -3208,7 +3228,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panorering</translation>
     </message>
     <message>
         <source>Pitch</source>
@@ -3255,15 +3275,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panorering</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panorering:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PANORERA</translation>
     </message>
     <message>
         <source>MIDI</source>
@@ -3302,15 +3322,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panorering</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panorering:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PANORERA</translation>
     </message>
     <message>
         <source>Pitch</source>
@@ -3509,7 +3529,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>LfoControllerDialog</name>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
     <message>
         <source>LFO Controller</source>
@@ -4770,7 +4790,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panorering</translation>
     </message>
     <message>
         <source>Coarse detune</source>
@@ -4834,11 +4854,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Attack</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Värdera</translation>
     </message>
     <message>
         <source>Phase</source>
@@ -4850,7 +4870,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Hold</source>
-        <translation type="unfinished"/>
+        <translation>Håll</translation>
     </message>
     <message>
         <source>Decay</source>
@@ -4862,7 +4882,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Släpp</translation>
     </message>
     <message>
         <source>Slope</source>
@@ -5271,7 +5291,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>Klona steg</translation>
     </message>
 </context>
 <context>
@@ -5316,7 +5336,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Attack:</translation>
     </message>
     <message>
         <source>Release:</source>
@@ -5367,11 +5387,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Attack</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Släpp</translation>
     </message>
     <message>
         <source>Abs Value</source>
@@ -5573,7 +5593,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Redigera åtgärder</translation>
     </message>
     <message>
         <source>Copy paste controls</source>
@@ -5581,7 +5601,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Timeline controls</source>
-        <translation type="unfinished"/>
+        <translation>Tidslinjekontroller</translation>
     </message>
     <message>
         <source>Zoom and note controls</source>
@@ -5927,7 +5947,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panorering</translation>
     </message>
 </context>
 <context>
@@ -5946,15 +5966,15 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panorering</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panorering:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PANORERA</translation>
     </message>
 </context>
 <context>
@@ -6429,15 +6449,15 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Redigera åtgärder</translation>
     </message>
     <message>
         <source>Timeline controls</source>
-        <translation type="unfinished"/>
+        <translation>Tidslinjekontroller</translation>
     </message>
     <message>
         <source>Zoom controls</source>
-        <translation type="unfinished"/>
+        <translation>Zoomningskontroller</translation>
     </message>
 </context>
 <context>
@@ -7403,7 +7423,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panorering</translation>
     </message>
     <message>
         <source>Freq. multiplier</source>
@@ -7977,7 +7997,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Värdera</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -8625,7 +8645,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <name>opl2instrumentView</name>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Attack</translation>
     </message>
     <message>
         <source>Decay</source>
@@ -8633,7 +8653,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Släpp</translation>
     </message>
     <message>
         <source>Frequency multiplier</source>
@@ -9391,7 +9411,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Attack:</translation>
     </message>
     <message>
         <source>Attack rate determines how rapidly the output of Voice %1 rises from zero to peak amplitude.</source>

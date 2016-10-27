@@ -619,7 +619,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Додати доріжку запису</translation>
     </message>
 </context>
 <context>
@@ -916,7 +916,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
 </context>
 <context>
@@ -1302,7 +1302,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Тип</translation>
     </message>
     <message>
         <source>Description</source>
@@ -2189,7 +2189,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>ГЛИБ</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -2205,7 +2205,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Інвертувати</translation>
     </message>
 </context>
 <context>
@@ -2468,6 +2468,10 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cycle steps</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggioView</name>
@@ -2561,6 +2565,22 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CYCLE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cycle notes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>note(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3622,7 +3642,7 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>ГЛИБ</translation>
     </message>
 </context>
 <context>
@@ -5646,7 +5666,7 @@ PM (ФМ) режим означає Фазова Модуляція: Осцил�
     </message>
     <message>
         <source>Quantize</source>
-        <translation type="unfinished"/>
+        <translation>Квантовать</translation>
     </message>
 </context>
 <context>
@@ -6523,15 +6543,15 @@ Remember to also save your project manually.</source>
     <name>SubWindow</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Закрити</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Розгорнути</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"/>
+        <translation>Відновити</translation>
     </message>
 </context>
 <context>
