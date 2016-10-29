@@ -568,27 +568,27 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     <name>BBEditor</name>
     <message>
         <source>Beat+Bassline Editor</source>
-        <translation>Beat+Bassline editor</translation>
+        <translation>Editor bicích + basů</translation>
     </message>
     <message>
         <source>Play/pause current beat/bassline (Space)</source>
-        <translation>Přehrát nebo pozastavit přehrávání (mezerník)</translation>
+        <translation>Přehrát/pozastavit přehrávání aktuálního patternu bicích/basů (mezerník)</translation>
     </message>
     <message>
         <source>Stop playback of current beat/bassline (Space)</source>
-        <translation>Zastavit přehrávání aktuální beat/bassline (mezerník)</translation>
+        <translation>Zastavit přehrávání aktuálního patternu bicích/basů (mezerník)</translation>
     </message>
     <message>
         <source>Click here to play the current beat/bassline.  The beat/bassline is automatically looped when its end is reached.</source>
-        <translation>Klikněte zde, pokud chcete přehrát aktuální beat/baseline. Beat/baseline je automaticky přehráván ve smyčce.</translation>
+        <translation>Klikněte sem, pokud chcete přehrát aktuální pattern bicích/basů. Bicí/basy jsou automaticky přehrávány ve smyčce.</translation>
     </message>
     <message>
         <source>Click here to stop playing of current beat/bassline.</source>
-        <translation>Klikněte zde, pokud chcete zastavit přehrávání aktuální beat/bassline.</translation>
+        <translation>Klikněte sem, pokud chcete zastavit přehrávání aktuálního patternu bicích/basů.</translation>
     </message>
     <message>
         <source>Add beat/bassline</source>
-        <translation type="unfinished"/>
+        <translation>Přidat bicí/basy</translation>
     </message>
     <message>
         <source>Add automation-track</source>
@@ -623,7 +623,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     <name>BBTCOView</name>
     <message>
         <source>Open in Beat+Bassline-Editor</source>
-        <translation>Otevřít v  Beat+Bassline editoru</translation>
+        <translation>Otevřít v editoru bicích + basů</translation>
     </message>
     <message>
         <source>Reset name</source>
@@ -646,7 +646,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     <name>BBTrack</name>
     <message>
         <source>Beat/Bassline %1</source>
-        <translation>Beat/Bassline %1</translation>
+        <translation>Bicí/basy %1</translation>
     </message>
     <message>
         <source>Clone of %1</source>
@@ -1441,7 +1441,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Freq x 100</source>
-        <translation>Frekv x 100</translation>
+        <translation>Frekvence x 100</translation>
     </message>
     <message>
         <source>Modulate Env-Amount</source>
@@ -1588,7 +1588,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>FREQ x 100</source>
-        <translation>FREKV x 100</translation>
+        <translation>FREKVENCE x 100</translation>
     </message>
     <message>
         <source>Click here if the frequency of this LFO should be multiplied by 100.</source>
@@ -2244,7 +2244,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>FxMixerView</name>
     <message>
         <source>FX-Mixer</source>
-        <translation type="unfinished"/>
+        <translation>FX mixážní panel</translation>
     </message>
     <message>
         <source>FX Fader %1</source>
@@ -2348,35 +2348,35 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Preparing UI</source>
-        <translation type="unfinished"/>
+        <translation>Připravuji AI</translation>
     </message>
     <message>
         <source>Preparing song editor</source>
-        <translation type="unfinished"/>
+        <translation>Připravuji editor skladby</translation>
     </message>
     <message>
         <source>Preparing mixer</source>
-        <translation type="unfinished"/>
+        <translation>Připravuji mixážní panel</translation>
     </message>
     <message>
         <source>Preparing controller rack</source>
-        <translation type="unfinished"/>
+        <translation>Připravuji panel kontrolérů</translation>
     </message>
     <message>
         <source>Preparing project notes</source>
-        <translation type="unfinished"/>
+        <translation>Připravuji poznámky k projektu</translation>
     </message>
     <message>
         <source>Preparing beat/bassline editor</source>
-        <translation type="unfinished"/>
+        <translation>Připravuji editor bicích/basů</translation>
     </message>
     <message>
         <source>Preparing piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Připravuji piano roll</translation>
     </message>
     <message>
         <source>Preparing automation editor</source>
-        <translation type="unfinished"/>
+        <translation>Připravuji editor automatizací</translation>
     </message>
 </context>
 <context>
@@ -3038,7 +3038,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Enables the use of Master Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Umožní použití hlavního ladění</translation>
     </message>
 </context>
 <context>
@@ -3172,7 +3172,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentSoundShapingView</name>
     <message>
         <source>TARGET</source>
-        <translation>CÍL</translation>
+        <translation>CÍL:</translation>
     </message>
     <message>
         <source>These tabs contain envelopes. They&apos;re very important for modifying a sound, in that they are almost always necessary for substractive synthesis. For example if you have a volume envelope, you can set when the sound should have a specific volume. If you want to create some soft strings then your sound has to fade in and out very softly. This can be done by setting large attack and release times. It&apos;s the same for other envelope targets like panning, cutoff frequency for the used filter and so on. Just monkey around with it! You can really make cool sounds out of a saw-wave with just some envelopes...!</source>
@@ -3746,11 +3746,11 @@ Ujistěte se prosím, že máte k souboru právo zápisu a zkuste to znovu.</tra
     </message>
     <message>
         <source>Beat+Bassline Editor</source>
-        <translation>Beat+Bassline editor</translation>
+        <translation>Editor bicích + basů</translation>
     </message>
     <message>
         <source>By pressing this button, you can show or hide the Beat+Bassline Editor. The Beat+Bassline Editor is needed for creating beats, and for opening, adding, and removing channels, and for cutting, copying and pasting beat and bassline-patterns, and for other things like that.</source>
-        <translation>Zmačknutím tohoto tlačítka zobrazíte nebo schováte Beat+Bassline editor. Beat+Bassline editor je nezbytný pro tvorbu beatů, pro otevírání, přidávání a odebírání kanálů a dále pro vyjmutí, kopírování a vložení beatů, Beat+Bassline patternů a dalších podobných věcí.</translation>
+        <translation>Stisknutím tohoto tlačítka zobrazíte nebo skryjete editor bicích + basů. Tento editor je nezbytný pro tvorbu beatů, otevírání, přidávání či odebírání kanálů a dále pro vyjímání, kopírování a vkládání beatů, bicích/basových patternů apod.</translation>
     </message>
     <message>
         <source>Piano Roll</source>
@@ -3770,11 +3770,11 @@ Ujistěte se prosím, že máte k souboru právo zápisu a zkuste to znovu.</tra
     </message>
     <message>
         <source>FX Mixer</source>
-        <translation>FX Mixer</translation>
+        <translation>FX mixážní panel</translation>
     </message>
     <message>
         <source>Click here to show or hide the FX Mixer. The FX Mixer is a very powerful tool for managing effects for your song. You can insert effects into different effect-channels.</source>
-        <translation>Klikněte sem, pokud chcete ukázat nebo schovat FX Mixer. FX Mixer je velmi silný nástroj pro správu efektů ve vaší skladbě. Efekty můžete vkládat do různých efektových kanálů.</translation>
+        <translation>Klikněte sem, pokud chcete ukázat nebo skrýt FX mixážní panel. FX mixážní panel je velmi silný nástroj pro správu efektů ve vaší skladbě. Efekty můžete vkládat do různých efektových kanálů.</translation>
     </message>
     <message>
         <source>Project Notes</source>
@@ -3928,11 +3928,11 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     </message>
     <message>
         <source>Preparing plugin browser</source>
-        <translation type="unfinished"/>
+        <translation>Připravuji prohlížeč pluginů</translation>
     </message>
     <message>
         <source>Preparing file browsers</source>
-        <translation type="unfinished"/>
+        <translation>Připravuji prohlížeč souborů</translation>
     </message>
     <message>
         <source>Root directory</source>
@@ -3968,7 +3968,7 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     </message>
     <message>
         <source>Show/hide Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit/skrýt editor bicích + basů</translation>
     </message>
     <message>
         <source>Show/hide Piano-Roll</source>
@@ -6426,7 +6426,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Add beat/bassline</source>
-        <translation type="unfinished"/>
+        <translation>Přidat bicí/basy</translation>
     </message>
     <message>
         <source>Add sample-track</source>

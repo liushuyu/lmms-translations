@@ -2468,7 +2468,7 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
     </message>
     <message>
         <source>Cycle steps</source>
-        <translation type="unfinished"/>
+        <translation>Note ruotate</translation>
     </message>
 </context>
 <context>
@@ -2567,19 +2567,19 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
     </message>
     <message>
         <source>CYCLE</source>
-        <translation type="unfinished"/>
+        <translation>RUOTA</translation>
     </message>
     <message>
         <source>Cycle notes:</source>
-        <translation type="unfinished"/>
+        <translation>Note ruotate:</translation>
     </message>
     <message>
         <source>note(s)</source>
-        <translation type="unfinished"/>
+        <translation>nota(e)</translation>
     </message>
     <message>
         <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
-        <translation type="unfinished"/>
+        <translation>Salta n note dell&apos;arpeggio e torna indietro quando supera l&apos;ampiezza. Se il numero di note totali è divisibile per il numero di note saltate, l&apos;arpeggio risulterà più piccolo, eventualmente di una sola nota.</translation>
     </message>
 </context>
 <context>
