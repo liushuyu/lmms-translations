@@ -2469,7 +2469,7 @@ Puedes quitar y mover los canales FX a través del menú contextual. Accede a es
     </message>
     <message>
         <source>Cycle steps</source>
-        <translation type="unfinished"/>
+        <translation>Ciclar pasos</translation>
     </message>
 </context>
 <context>
@@ -2568,19 +2568,19 @@ Puedes quitar y mover los canales FX a través del menú contextual. Accede a es
     </message>
     <message>
         <source>CYCLE</source>
-        <translation type="unfinished"/>
+        <translation>CICLO</translation>
     </message>
     <message>
         <source>Cycle notes:</source>
-        <translation type="unfinished"/>
+        <translation>Ciclar notas:</translation>
     </message>
     <message>
         <source>note(s)</source>
-        <translation type="unfinished"/>
+        <translation>nota(s)</translation>
     </message>
     <message>
         <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
-        <translation type="unfinished"/>
+        <translation>Salta &quot;n&quot; pasos y circula a través de las notas del arpegio si se encuentra por encima de la extensión dada. Si la extensión es divisible por el número de pasos &apos;saltados&apos; quedarás atascado en un arpegio más corto o incluso en una sola nota.</translation>
     </message>
 </context>
 <context>

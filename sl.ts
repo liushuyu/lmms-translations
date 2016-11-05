@@ -3,11 +3,11 @@
     <name>AboutDialog</name>
     <message>
         <source>About LMMS</source>
-        <translation type="unfinished"/>
+        <translation>Opis LMMS</translation>
     </message>
     <message>
         <source>Version %1 (%2/%3, Qt %4, %5)</source>
-        <translation type="unfinished"/>
+        <translation>Različica %1 (%2/%3, Qt %4, %5)</translation>
     </message>
     <message>
         <source>About</source>
@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>LMMS - easy music production for everyone</source>
-        <translation type="unfinished"/>
+        <translation>LMMS - preprost skladateljski program za vsakogar</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -41,7 +41,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Involved</source>
@@ -53,22 +53,22 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Copyright © %1</source>
-        <translation type="unfinished"/>
+        <translation>Avtorske pravice © %1</translation>
     </message>
 </context>
 <context>
     <name>AmplifierControlDialog</name>
     <message>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>GLS</translation>
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Glasnost:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <source>Panning:</source>
@@ -80,22 +80,22 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Left gain:</source>
-        <translation type="unfinished"/>
+        <translation>Leva glasnost</translation>
     </message>
     <message>
         <source>RIGHT</source>
-        <translation>RIGHT</translation>
+        <translation>DESNO</translation>
     </message>
     <message>
         <source>Right gain:</source>
-        <translation type="unfinished"/>
+        <translation>Desna glasnost</translation>
     </message>
 </context>
 <context>
     <name>AmplifierControls</name>
     <message>
         <source>Volume</source>
-        <translation>Obseg</translation>
+        <translation>Glasnost</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -103,18 +103,18 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Left gain</source>
-        <translation type="unfinished"/>
+        <translation>Leva glasnost</translation>
     </message>
     <message>
         <source>Right gain</source>
-        <translation type="unfinished"/>
+        <translation>Desan glasnost</translation>
     </message>
 </context>
 <context>
     <name>AudioAlsaSetupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation>Naprava</translation>
+        <translation>NAPRAVA</translation>
     </message>
     <message>
         <source>CHANNELS</source>
@@ -566,7 +566,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>BBEditor</name>
     <message>
         <source>Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>Ritem+bas urejevalnik</translation>
     </message>
     <message>
         <source>Play/pause current beat/bassline (Space)</source>
@@ -853,7 +853,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Prekinitev</translation>
+        <translation>Preklic</translation>
     </message>
     <message>
         <source>LMMS</source>
@@ -880,7 +880,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Confirm delete? There are existing connection(s) associated with this controller. There is no way to undo.</source>
-        <translation type="unfinished"/>
+        <translation>Naj res izbrišem? Obstaja(-jo) povezava(-e) v zvezi s tem krmilnikom. Razveljavitve ni.</translation>
     </message>
 </context>
 <context>
@@ -1898,7 +1898,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <name>ExportProjectDialog</name>
     <message>
         <source>Export project</source>
-        <translation type="unfinished"/>
+        <translation>Izvozi projekt</translation>
     </message>
     <message>
         <source>Output</source>
@@ -2026,7 +2026,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Prekinitev</translation>
+        <translation>Preklic</translation>
     </message>
     <message>
         <source>Export as loop (remove end silence)</source>
@@ -2047,7 +2047,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Export project to %1</source>
-        <translation type="unfinished"/>
+        <translation>Izvozi projekt v %1</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2066,7 +2066,7 @@ Please make sure you have write-permission to the file and the directory contain
     <name>Fader</name>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Prosim vpišite novo vrednost med %1 in %2:</translation>
     </message>
 </context>
 <context>
@@ -2349,7 +2349,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Preparing song editor</source>
-        <translation type="unfinished"/>
+        <translation>Pripravljam Urejevalnik skladbe</translation>
     </message>
     <message>
         <source>Preparing mixer</source>
@@ -2369,7 +2369,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Preparing piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Pripravljam Klavirčrtovje</translation>
     </message>
     <message>
         <source>Preparing automation editor</source>
@@ -2942,7 +2942,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"/>
+        <translation>5</translation>
     </message>
     <message>
         <source>Phrygian dominant</source>
@@ -3267,11 +3267,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Glasnost:</translation>
     </message>
     <message>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>GLS</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -3283,7 +3283,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <source>MIDI</source>
@@ -3314,11 +3314,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Glasnost:</translation>
     </message>
     <message>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>GLS</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -3330,7 +3330,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <source>Pitch</source>
@@ -3370,7 +3370,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>Shrani glasbilce</translation>
     </message>
     <message>
         <source>XML preset file (*.xpf)</source>
@@ -3406,7 +3406,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>SAVE</source>
-        <translation type="unfinished"/>
+        <translation>SHRANI</translation>
     </message>
 </context>
 <context>
@@ -3421,11 +3421,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Please enter a new value between -96.0 dBV and 6.0 dBV:</source>
-        <translation type="unfinished"/>
+        <translation>Prosim vpišite novo vrednost med -96.0 dBV in 6.0 dBV:</translation>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Prosim vpišite novo vrednost med %1 in %2:</translation>
     </message>
 </context>
 <context>
@@ -3472,7 +3472,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>LcdSpinBox</name>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Prosim vpišite novo vrednost med %1 in %2:</translation>
     </message>
 </context>
 <context>
@@ -3653,23 +3653,23 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Novo</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Odpri...</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Shrani</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>Shr%Ani kot...</translation>
     </message>
     <message>
         <source>Import...</source>
-        <translation type="unfinished"/>
+        <translation>Uvozi...</translation>
     </message>
     <message>
         <source>E&amp;xport...</source>
@@ -3677,15 +3677,15 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>Izhod</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>Ur&amp;Edi</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavitve</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -3709,31 +3709,31 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Create new project</source>
-        <translation type="unfinished"/>
+        <translation>Ustvari nov projekt</translation>
     </message>
     <message>
         <source>Create new project from template</source>
-        <translation type="unfinished"/>
+        <translation>Ustvari nov projekt iz predloge</translation>
     </message>
     <message>
         <source>Open existing project</source>
-        <translation type="unfinished"/>
+        <translation>Odpri obstoječi projekt</translation>
     </message>
     <message>
         <source>Recently opened projects</source>
-        <translation type="unfinished"/>
+        <translation>Nedavno odprti projekti</translation>
     </message>
     <message>
         <source>Save current project</source>
-        <translation type="unfinished"/>
+        <translation>Shrani trenutni projekt</translation>
     </message>
     <message>
         <source>Export current project</source>
-        <translation type="unfinished"/>
+        <translation>Izvozi trenutni projekt</translation>
     </message>
     <message>
         <source>Song Editor</source>
-        <translation type="unfinished"/>
+        <translation>Urejevalnik skladbe</translation>
     </message>
     <message>
         <source>By pressing this button, you can show or hide the Song-Editor. With the help of the Song-Editor you can edit song-playlist and specify when which track should be played. You can also insert and move samples (e.g. rap samples) directly into the playlist.</source>
@@ -3741,7 +3741,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>Ritem+bas urejevalnik</translation>
     </message>
     <message>
         <source>By pressing this button, you can show or hide the Beat+Bassline Editor. The Beat+Bassline Editor is needed for creating beats, and for opening, adding, and removing channels, and for cutting, copying and pasting beat and bassline-patterns, and for other things like that.</source>
@@ -3749,15 +3749,15 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Piano Roll</source>
-        <translation type="unfinished"/>
+        <translation>Klavirčrtovje</translation>
     </message>
     <message>
         <source>Click here to show or hide the Piano-Roll. With the help of the Piano-Roll you can edit melodies in an easy way.</source>
-        <translation type="unfinished"/>
+        <translation>Kliknite tukaj, da prikažete ali skrijete Klavirčrtovje. S Klavirčrtovjem lahko preprosto ustvarjate melodijo.</translation>
     </message>
     <message>
         <source>Automation Editor</source>
-        <translation type="unfinished"/>
+        <translation>Samodejnik</translation>
     </message>
     <message>
         <source>Click here to show or hide the Automation Editor. With the help of the Automation Editor you can edit dynamic values in an easy way.</source>
@@ -3773,7 +3773,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Project Notes</source>
-        <translation type="unfinished"/>
+        <translation>Zabeležke o projektu</translation>
     </message>
     <message>
         <source>Click here to show or hide the project notes window. In this window you can put down your project notes.</source>
@@ -3793,7 +3793,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Project not saved</source>
-        <translation type="unfinished"/>
+        <translation>Projekt ni shranjen</translation>
     </message>
     <message>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
@@ -3830,15 +3830,15 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Razveljavi</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Uveljavi</translation>
     </message>
     <message>
         <source>My Projects</source>
-        <translation type="unfinished"/>
+        <translation>Moji projekti</translation>
     </message>
     <message>
         <source>My Samples</source>
@@ -3862,11 +3862,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>&amp;Recently Opened Projects</source>
-        <translation type="unfinished"/>
+        <translation>Nedavno odp&amp;Rti projekti</translation>
     </message>
     <message>
         <source>Save as New &amp;Version</source>
-        <translation type="unfinished"/>
+        <translation>Shrani kot no&amp;Vo različico</translation>
     </message>
     <message>
         <source>E&amp;xport Tracks...</source>
@@ -3882,11 +3882,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Open Project</source>
-        <translation type="unfinished"/>
+        <translation>Odpri projekt</translation>
     </message>
     <message>
         <source>Save Project</source>
-        <translation type="unfinished"/>
+        <translation>Shrani projekt</translation>
     </message>
     <message>
         <source>Project recovery</source>
@@ -3942,11 +3942,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Save as default template</source>
-        <translation type="unfinished"/>
+        <translation>Shrani kot privzeto predlogo</translation>
     </message>
     <message>
         <source>Export &amp;MIDI...</source>
-        <translation type="unfinished"/>
+        <translation>Izvoz &amp;MIDI...</translation>
     </message>
     <message>
         <source>&amp;View</source>
@@ -3958,19 +3958,19 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Show/hide Song-Editor</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži/skrij Urejevalnik skladbe</translation>
     </message>
     <message>
         <source>Show/hide Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži/skrij Ritem+bas urejevalnik</translation>
     </message>
     <message>
         <source>Show/hide Piano-Roll</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži/skrij Klavirčrtovje</translation>
     </message>
     <message>
         <source>Show/hide Automation Editor</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži/skrij Samodejnik</translation>
     </message>
     <message>
         <source>Show/hide FX Mixer</source>
@@ -4002,11 +4002,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>LMMS Project</source>
-        <translation type="unfinished"/>
+        <translation>LMMS projekt</translation>
     </message>
     <message>
         <source>LMMS Project Template</source>
-        <translation type="unfinished"/>
+        <translation>Predloga za LMMS projekt</translation>
     </message>
     <message>
         <source>Overwrite default template?</source>
@@ -5205,7 +5205,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Prekinitev</translation>
+        <translation>Preklic</translation>
     </message>
 </context>
 <context>
@@ -5259,7 +5259,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>PatternView</name>
     <message>
         <source>Open in piano-roll</source>
-        <translation type="unfinished"/>
+        <translation>Odpri v Klavirčrtovju</translation>
     </message>
     <message>
         <source>Clear all notes</source>
@@ -5287,7 +5287,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>double-click to open in Piano Roll</source>
-        <translation type="unfinished"/>
+        <translation>Z dvoklikom odprete v Klavirčrtovju</translation>
     </message>
     <message>
         <source>Clone Steps</source>
@@ -5470,7 +5470,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Prosim vpišite novo vrednost med %1 in %2:</translation>
     </message>
     <message>
         <source>Mark/unmark all corresponding octave semitones</source>
@@ -5609,11 +5609,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Piano-Roll - %1</source>
-        <translation type="unfinished"/>
+        <translation>Klavirčrtovje - %1</translation>
     </message>
     <message>
         <source>Piano-Roll - no pattern</source>
-        <translation type="unfinished"/>
+        <translation>Klavirčrtovje - ni šablone</translation>
     </message>
     <message>
         <source>Quantize</source>
@@ -5677,7 +5677,7 @@ Reason: &quot;%2&quot;</source>
     <name>ProjectNotes</name>
     <message>
         <source>Project notes</source>
-        <translation type="unfinished"/>
+        <translation>Zabeležke o projektu</translation>
     </message>
     <message>
         <source>Put down your project notes here.</source>
@@ -5689,7 +5689,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>Razveljavi</translation>
     </message>
     <message>
         <source>%1+Z</source>
@@ -5697,7 +5697,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>Uveljavi</translation>
     </message>
     <message>
         <source>%1+Y</source>
@@ -5962,7 +5962,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>GLS</translation>
     </message>
     <message>
         <source>Panning</source>
@@ -5974,7 +5974,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
 </context>
 <context>
@@ -5985,7 +5985,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>General settings</source>
-        <translation>Glavne Nastavitve</translation>
+        <translation>Glavne nastavitve</translation>
     </message>
     <message>
         <source>BUFFER SIZE</source>
@@ -6117,7 +6117,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Prekinitev</translation>
+        <translation>Preklic</translation>
     </message>
     <message>
         <source>Restart LMMS</source>
@@ -6242,23 +6242,23 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Project saved</source>
-        <translation type="unfinished"/>
+        <translation>Projekt je shranjen</translation>
     </message>
     <message>
         <source>The project %1 is now saved.</source>
-        <translation type="unfinished"/>
+        <translation>Projekt %1 je zdaj shranjen</translation>
     </message>
     <message>
         <source>Project NOT saved.</source>
-        <translation type="unfinished"/>
+        <translation>Projekt NI shranjen</translation>
     </message>
     <message>
         <source>The project %1 was not saved!</source>
-        <translation type="unfinished"/>
+        <translation>Projekt %1 ni bil shranjen</translation>
     </message>
     <message>
         <source>Import file</source>
-        <translation>Uvozi iz datoteke</translation>
+        <translation>Uvozi datoteko</translation>
     </message>
     <message>
         <source>MIDI sequences</source>
@@ -6266,7 +6266,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Hydrogen projects</source>
-        <translation>Hydrogen Projekti</translation>
+        <translation>Hydrogen projekti</translation>
     </message>
     <message>
         <source>All file types</source>
@@ -6274,11 +6274,11 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Empty project</source>
-        <translation>Izkušnje projekta</translation>
+        <translation>Prazen projekt</translation>
     </message>
     <message>
         <source>This project is empty so exporting makes no sense. Please put some items into Song Editor first!</source>
-        <translation type="unfinished"/>
+        <translation>Ta projekt je prazen, zato izvoz ni smiseln. Najprej prosim nekaj vpišite v Urejevalnik skladbe.</translation>
     </message>
     <message>
         <source>Select directory for writing exported tracks...</source>
@@ -6290,7 +6290,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Select file for project-export...</source>
-        <translation type="unfinished"/>
+        <translation>Izberi datoteko za izvoz projekta...</translation>
     </message>
     <message>
         <source>The following errors occured while loading: </source>
@@ -6382,7 +6382,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>project</source>
-        <translation type="unfinished"/>
+        <translation>projekt</translation>
     </message>
     <message>
         <source>Version difference</source>
@@ -6397,7 +6397,7 @@ Remember to also save your project manually.</source>
     <name>SongEditorWindow</name>
     <message>
         <source>Song-Editor</source>
-        <translation type="unfinished"/>
+        <translation>Urejevalnik skladbe</translation>
     </message>
     <message>
         <source>Play song (Space)</source>
@@ -6682,11 +6682,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Loading project...</source>
-        <translation type="unfinished"/>
+        <translation>Nalagam projekt...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Prekinitev</translation>
+        <translation>Preklic</translation>
     </message>
     <message>
         <source>Please wait...</source>
@@ -6694,7 +6694,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Importing MIDI-file...</source>
-        <translation type="unfinished"/>
+        <translation>Uvažam MIDI datoteko...</translation>
     </message>
 </context>
 <context>
@@ -6960,7 +6960,7 @@ Please make sure you have read-permission to the file and the directory containi
     <name>VestigeInstrumentView</name>
     <message>
         <source>Open other VST-plugin</source>
-        <translation type="unfinished"/>
+        <translation>Odpri drugi VST vtičnik</translation>
     </message>
     <message>
         <source>Click here, if you want to open another VST-plugin. After clicking on this button, a file-open-dialog appears and you can select your file.</source>
@@ -6980,7 +6980,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Open VST-plugin</source>
-        <translation type="unfinished"/>
+        <translation>Odpri VST vtičnik</translation>
     </message>
     <message>
         <source>DLL-files (*.dll)</source>
@@ -7020,7 +7020,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>Shrani glasbilce</translation>
     </message>
     <message>
         <source>Click here, if you want to save current VST-plugin preset program.</source>
@@ -7098,7 +7098,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>Shrani glasbilce</translation>
     </message>
     <message>
         <source>Click here, if you want to save current VST-plugin preset program.</source>
@@ -7141,7 +7141,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Save Preset</source>
-        <translation type="unfinished"/>
+        <translation>Shrani glasbilce</translation>
     </message>
     <message>
         <source>.fxp</source>
@@ -8679,7 +8679,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Glasnost:</translation>
     </message>
     <message>
         <source>Randomise</source>
@@ -9020,7 +9020,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Prekinitev</translation>
+        <translation>Preklic</translation>
     </message>
 </context>
 <context>
@@ -9075,7 +9075,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Filter for importing MIDI-files into LMMS</source>
-        <translation type="unfinished"/>
+        <translation>Sito za uvažanje MIDI datotek v LMMS</translation>
     </message>
     <message>
         <source>Emulation of the MOS6581 and MOS8580 SID.
@@ -9104,7 +9104,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Filter for importing Hydrogen files into LMMS</source>
-        <translation type="unfinished"/>
+        <translation>Sito za uvažanje Hydrogen datotek v LMMS</translation>
     </message>
     <message>
         <source>LMMS port of sfxr</source>
@@ -9200,7 +9200,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
-        <translation type="unfinished"/>
+        <translation>Sito za izvažanje MIDI datotek iz LMMS</translation>
     </message>
 </context>
 <context>
@@ -9266,7 +9266,7 @@ This chip was used in the Commodore 64 computer.</source>
     <name>sf2InstrumentView</name>
     <message>
         <source>Open other SoundFont file</source>
-        <translation type="unfinished"/>
+        <translation>Odpri drugo SoundFont datoteko</translation>
     </message>
     <message>
         <source>Click here to open another SF2 file</source>
@@ -9330,7 +9330,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Open SoundFont file</source>
-        <translation type="unfinished"/>
+        <translation>Odpri SoundFont datoteko</translation>
     </message>
     <message>
         <source>SoundFont2 Files (*.sf2)</source>
@@ -9375,7 +9375,7 @@ This chip was used in the Commodore 64 computer.</source>
     <name>sidInstrumentView</name>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Glasnost:</translation>
     </message>
     <message>
         <source>Resonance:</source>
@@ -9620,7 +9620,7 @@ This chip was used in the Commodore 64 computer.</source>
     <name>vibedView</name>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Glasnost:</translation>
     </message>
     <message>
         <source>The &apos;V&apos; knob sets the volume of the selected string.</source>

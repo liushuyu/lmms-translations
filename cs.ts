@@ -51,7 +51,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Contributors ordered by number of commits:</source>
-        <translation type="unfinished"/>
+        <translation>Přispěvovatelé řazeni podle počtu příspěvků</translation>
     </message>
     <message>
         <source>Copyright © %1</source>
@@ -251,7 +251,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     <name>AudioPortAudio::setupWidget</name>
     <message>
         <source>BACKEND</source>
-        <translation type="unfinished"/>
+        <translation>BACKEND</translation>
     </message>
     <message>
         <source>DEVICE</source>
@@ -291,7 +291,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     <name>AudioSoundIo::setupWidget</name>
     <message>
         <source>BACKEND</source>
-        <translation type="unfinished"/>
+        <translation>BACKEND</translation>
     </message>
     <message>
         <source>DEVICE</source>
@@ -302,7 +302,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     <name>AutomatableModel</name>
     <message>
         <source>&amp;Reset (%1%2)</source>
-        <translation>&amp;Vložit hodnoty (%1%2)</translation>
+        <translation>&amp;Resetovat hodnoty (%1%2)</translation>
     </message>
     <message>
         <source>&amp;Copy value (%1%2)</source>
@@ -480,27 +480,27 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Upravit akce</translation>
     </message>
     <message>
         <source>Interpolation controls</source>
-        <translation type="unfinished"/>
+        <translation>Ovládání interpolace</translation>
     </message>
     <message>
         <source>Timeline controls</source>
-        <translation type="unfinished"/>
+        <translation>Ovládání časové osy</translation>
     </message>
     <message>
         <source>Zoom controls</source>
-        <translation type="unfinished"/>
+        <translation>Ovládání zvětšení</translation>
     </message>
     <message>
         <source>Quantization controls</source>
-        <translation type="unfinished"/>
+        <translation>Ovládání kvantizace</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Model je již k tomuto paternu připojen </translation>
     </message>
 </context>
 <context>
@@ -546,15 +546,15 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Flip Vertically (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>Převrátit vertikálně (viditelně)</translation>
     </message>
     <message>
         <source>Flip Horizontally (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>Převrátit horizontálně (viditelně)</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Model je již k tomuto paternu připojen.</translation>
     </message>
 </context>
 <context>
@@ -604,7 +604,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Beat selector</source>
-        <translation type="unfinished"/>
+        <translation>Výběr rytmu</translation>
     </message>
     <message>
         <source>Track and step actions</source>
@@ -639,7 +639,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Reset color to default</source>
-        <translation type="unfinished"/>
+        <translation>REsetovat barvy do základních</translation>
     </message>
 </context>
 <context>
@@ -650,7 +650,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation type="unfinished"/>
+        <translation>Klon z %1</translation>
     </message>
 </context>
 <context>
@@ -665,7 +665,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>ZISK</translation>
     </message>
     <message>
         <source>Gain:</source>
@@ -673,11 +673,11 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>RATIO</source>
-        <translation type="unfinished"/>
+        <translation>POMĚR</translation>
     </message>
     <message>
         <source>Ratio:</source>
-        <translation type="unfinished"/>
+        <translation>Poměr:</translation>
     </message>
 </context>
 <context>
@@ -699,15 +699,15 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     <name>BitcrushControlDialog</name>
     <message>
         <source>IN</source>
-        <translation type="unfinished"/>
+        <translation>IN</translation>
     </message>
     <message>
         <source>OUT</source>
-        <translation type="unfinished"/>
+        <translation>OUT</translation>
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>ZISK</translation>
     </message>
     <message>
         <source>Input Gain:</source>
@@ -715,11 +715,11 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>NOIS</source>
-        <translation type="unfinished"/>
+        <translation>ŠUM</translation>
     </message>
     <message>
         <source>Input Noise:</source>
-        <translation type="unfinished"/>
+        <translation>Vstup šumu:</translation>
     </message>
     <message>
         <source>Output Gain:</source>
@@ -771,11 +771,11 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Levels</source>
-        <translation type="unfinished"/>
+        <translation>Úrovně</translation>
     </message>
     <message>
         <source>Levels:</source>
-        <translation type="unfinished"/>
+        <translation>Úrovně:</translation>
     </message>
 </context>
 <context>
@@ -786,14 +786,14 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Help (not available)</source>
-        <translation type="unfinished"/>
+        <translation>Help (nedostupný)</translation>
     </message>
 </context>
 <context>
     <name>CarlaInstrumentView</name>
     <message>
         <source>Show GUI</source>
-        <translation type="unfinished"/>
+        <translation>Ukázar grafické rozhraní</translation>
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of Carla.</source>
@@ -1077,7 +1077,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>ZISK</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -5599,7 +5599,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Upravit akce</translation>
     </message>
     <message>
         <source>Copy paste controls</source>
@@ -5607,7 +5607,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Timeline controls</source>
-        <translation type="unfinished"/>
+        <translation>Ovládání časové osy</translation>
     </message>
     <message>
         <source>Zoom and note controls</source>
@@ -6458,15 +6458,15 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Upravit akce</translation>
     </message>
     <message>
         <source>Timeline controls</source>
-        <translation type="unfinished"/>
+        <translation>Ovládání časové osy</translation>
     </message>
     <message>
         <source>Zoom controls</source>
-        <translation type="unfinished"/>
+        <translation>Ovládání zvětšení</translation>
     </message>
 </context>
 <context>
@@ -7516,7 +7516,7 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
     <name>ZynAddSubFxView</name>
     <message>
         <source>Show GUI</source>
-        <translation type="unfinished"/>
+        <translation>Ukázar grafické rozhraní</translation>
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of ZynAddSubFX.</source>

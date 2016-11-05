@@ -7,7 +7,7 @@
     </message>
     <message>
         <source>Version %1 (%2/%3, Qt %4, %5)</source>
-        <translation>Version %1 (%2/%3, Qt %4, %5)</translation>
+        <translation>Versie %1 (%2/%3, Qt %4, %5)</translation>
     </message>
     <message>
         <source>About</source>
@@ -29,9 +29,9 @@
         <source>Current language not translated (or native English).
 
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation>Nederlandse vertaling door kstr (Koen Stroobants) en liushuyu011.
+        <translation>Nederlandse vertaling door Koen Stroobants, liushuyu011 en Thomas De Rocker.
 
-Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de bestaande vertalingen wil verbeteren, dan mag u ons zeker helpen! Contacteer de onderhouder!
+Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de bestaande vertalingen wil verbeteren, dan mag u ons zeker helpen! Contacteer de beheerder!
 
 https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
@@ -57,7 +57,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Copyright © %1</source>
-        <translation>Copyright © %1</translation>
+        <translation>Auteursrecht © %1</translation>
     </message>
 </context>
 <context>
@@ -72,11 +72,11 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panning:</translation>
     </message>
     <message>
         <source>LEFT</source>
@@ -84,7 +84,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Left gain:</source>
-        <translation type="unfinished"/>
+        <translation>Linker versterking:</translation>
     </message>
     <message>
         <source>RIGHT</source>
@@ -92,7 +92,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Right gain:</source>
-        <translation type="unfinished"/>
+        <translation>Rechter versterking:</translation>
     </message>
 </context>
 <context>
@@ -103,15 +103,15 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panning</translation>
     </message>
     <message>
         <source>Left gain</source>
-        <translation type="unfinished"/>
+        <translation>Linker versterking</translation>
     </message>
     <message>
         <source>Right gain</source>
-        <translation type="unfinished"/>
+        <translation>Rechter versterking</translation>
     </message>
 </context>
 <context>
@@ -133,7 +133,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Click here, if you want to open another audio-file. A dialog will appear where you can select your file. Settings like looping-mode, start and end-points, amplify-value, and so on are not reset. So, it may not sound like the original sample.</source>
-        <translation>Klik hier als u een ander audio-bestand wilt openen. Er verschijnt een dialoogvenster waarin u het bestand kunt selecteren. Instellingen zoals looping-mode, begin- en eindpunten, versterkerniveau, enzovoort worden niet gereset. Dus, het klinkt misschien niet zoals de originele sample.</translation>
+        <translation>Klik hier als u een ander audiobestand wilt openen. Er verschijnt een dialoogvenster waarin u het bestand kunt selecteren. Instellingen zoals herhaalmodus, begin- en eindpunten, waarde van versterking enzovoort worden niet hersteld. Dus, het klinkt misschien niet zoals de originele sample.</translation>
     </message>
     <message>
         <source>Reverse sample</source>
@@ -141,7 +141,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>If you enable this button, the whole sample is reversed. This is useful for cool effects, e.g. a reversed crash.</source>
-        <translation>Met deze knop word de sample achterstevoren gespeeld. Dit is goed bruikbaar voor leuke effecten, zoals een &apos;reversed crash&apos;.</translation>
+        <translation>Als u deze knop inschakelt, wordt de hele sample omgekeerd. Dit is bruikbaar voor leuke effecten, zoals een &apos;reversed crash&apos;.</translation>
     </message>
     <message>
         <source>Amplify:</source>
@@ -149,7 +149,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>With this knob you can set the amplify ratio. When you set a value of 100% your sample isn&apos;t changed. Otherwise it will be amplified up or down (your actual sample-file isn&apos;t touched!)</source>
-        <translation type="unfinished"/>
+        <translation>Met deze knop kunt u de versterkingsratio instellen. Wanneer u een waarde van 100 % instelt, wordt uw sample niet gewijzigd. Anders wordt hij omhoog of omlaag versterkt (het eigenlijke sample-bestand wordt niet aangeraakt!)</translation>
     </message>
     <message>
         <source>Startpoint:</source>
@@ -161,7 +161,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Continue sample playback across notes</source>
-        <translation type="unfinished"/>
+        <translation>Doorgaan met afspelen van sample tussen noten</translation>
     </message>
     <message>
         <source>Enabling this option makes the sample continue playing across different notes - if you change pitch, or the note length stops before the end of the sample, then the next note played will continue where it left off. To reset the playback to the start of the sample, insert a note at the bottom of the keyboard (&lt; 20 Hz)</source>
@@ -169,7 +169,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Disable loop</source>
-        <translation>Loop uitschakelen</translation>
+        <translation>Herhalen uitschakelen</translation>
     </message>
     <message>
         <source>This button disables looping. The sample plays only once from start to end. </source>
@@ -177,7 +177,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Enable loop</source>
-        <translation>Loop inschakelen</translation>
+        <translation>Herhalen inschakelen</translation>
     </message>
     <message>
         <source>This button enables forwards-looping. The sample loops between the end point and the loop point.</source>
@@ -189,11 +189,11 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>With this knob you can set the point where AudioFileProcessor should begin playing your sample. </source>
-        <translation type="unfinished"/>
+        <translation>Met deze knop kan je instellen wanneer AudioFileProcessor begint met het afspelen van je sample.</translation>
     </message>
     <message>
         <source>With this knob you can set the point where AudioFileProcessor should stop playing your sample. </source>
-        <translation type="unfinished"/>
+        <translation>Met deze knop kan je instellen wanneer AudioFileProcessor stopt met het afspelen van je sample.</translation>
     </message>
     <message>
         <source>Loopback point:</source>
@@ -563,7 +563,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     <name>AutomationTrack</name>
     <message>
         <source>Automation track</source>
-        <translation type="unfinished"/>
+        <translation>Automation track</translation>
     </message>
 </context>
 <context>
@@ -594,7 +594,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>Automation track toevoegen</translation>
     </message>
     <message>
         <source>Remove steps</source>
@@ -1474,7 +1474,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Use this knob for setting attack-time of the current envelope. The bigger this value the longer the envelope needs to increase to attack-level. Choose a small value for instruments like pianos and a big value for strings.</source>
-        <translation type="unfinished"/>
+        <translation>Gebruik deze knop om de attack-tijd van de huidige envelop in te stellen. Hoe hoger deze waarde is, hoe langer het duurt voordat de attack-level omhoog gaat. Kies een lagere waarde voor instrumenten zoals pianos en een hogere waarde voor snaarinstrumenten.</translation>
     </message>
     <message>
         <source>HOLD</source>
@@ -1498,7 +1498,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Use this knob for setting decay-time of the current envelope. The bigger this value the longer the envelope needs to decrease from attack-level to sustain-level. Choose a small value for instruments like pianos.</source>
-        <translation type="unfinished"/>
+        <translation>Gebruik deze knop om de decay-tijd van de huidige envelop in te stellen. Hoe hoger deze waarde is, hoe langer het duurt voor de attack-level om naar de sustain-level te gaan. Kies een lagere waarde voor instrumenten zoals pianos.</translation>
     </message>
     <message>
         <source>SUST</source>
@@ -2373,7 +2373,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Preparing piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Piano roll voorbereiden</translation>
     </message>
     <message>
         <source>Preparing automation editor</source>
@@ -3232,7 +3232,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panning</translation>
     </message>
     <message>
         <source>Pitch</source>
@@ -3279,15 +3279,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panning</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panning:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <source>MIDI</source>
@@ -3326,15 +3326,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panning</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panning:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <source>Pitch</source>
@@ -3753,11 +3753,11 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Piano Roll</source>
-        <translation type="unfinished"/>
+        <translation>Piano Roll</translation>
     </message>
     <message>
         <source>Click here to show or hide the Piano-Roll. With the help of the Piano-Roll you can edit melodies in an easy way.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om de Piano-Roll te tonen of te verbergen. Met behulp van de Piano-Roll kan je op eenvoudige manier melodieen bewerken.</translation>
     </message>
     <message>
         <source>Automation Editor</source>
@@ -3773,7 +3773,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Click here to show or hide the FX Mixer. The FX Mixer is a very powerful tool for managing effects for your song. You can insert effects into different effect-channels.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om de FX Mixer te tonen of te verbergen. De FX Mixer is een krachtig gereedschap om de effecten van je lied te beheren. Je kan effects toevoegen aan verschillende effect-kanalen.</translation>
     </message>
     <message>
         <source>Project Notes</source>
@@ -3970,7 +3970,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Show/hide Piano-Roll</source>
-        <translation type="unfinished"/>
+        <translation>Toon/verberg Piano-Roll</translation>
     </message>
     <message>
         <source>Show/hide Automation Editor</source>
@@ -4030,7 +4030,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Nootlabels in piano roll inschakelen</translation>
     </message>
 </context>
 <context>
@@ -4074,7 +4074,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <name>MidiImport</name>
     <message>
         <source>Setup incomplete</source>
-        <translation type="unfinished"/>
+        <translation>Setup niet compleet</translation>
     </message>
     <message>
         <source>You do not have set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
@@ -4712,31 +4712,34 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
     </message>
     <message>
         <source>The SUB knob changes the mixing ratio of the two sub-oscs of oscillator 3. Each sub-osc can be set to produce a different waveform, and oscillator 3 can smoothly interpolate between them. All incoming modulations to oscillator 3 are applied to both sub-oscs/waveforms in the exact same way. </source>
-        <translation type="unfinished"/>
+        <translation>De SUB knop verandert de mixratio tussen de twee sub-oscs van oscillator 3. Elk sub-osc kan worden ingesteld om een ander waveform te produceren, en oscillator 3 kan ze naadloos interpoleren. Alle binnenkomende modulaties bij oscillator 3 worden op dezelfde manier toegepast op beide sub-oscs/waveforms.</translation>
     </message>
     <message>
         <source>In addition to dedicated modulators, Monstro allows oscillator 3 to be modulated by the output of oscillator 2. 
 
 Mix mode means no modulation: the outputs of the oscillators are simply mixed together. </source>
-        <translation type="unfinished"/>
+        <translation>Behalve toegewijde modulatoren, is het mogelijk om oscillator 3 van Monstro te laten moduleren door de output van oscillator 2.</translation>
     </message>
     <message>
         <source>In addition to dedicated modulators, Monstro allows oscillator 3 to be modulated by the output of oscillator 2. 
 
 AM means amplitude modulation: Oscillator 3&apos;s amplitude (volume) is modulated by oscillator 2. </source>
-        <translation type="unfinished"/>
+        <translation>Behalve toegewijde modulatoren, is het mogelijk om oscillator 3 van Monstro te laten moduleren door de output van oscillator 2.
+AM betekent amplitude modulatie: de amplitude (volume) van oscillator 3 wordt gemoduleerd door oscillator 2.</translation>
     </message>
     <message>
         <source>In addition to dedicated modulators, Monstro allows oscillator 3 to be modulated by the output of oscillator 2. 
 
 FM means frequency modulation: Oscillator 3&apos;s frequency (pitch) is modulated by oscillator 2. The frequency modulation is implemented as phase modulation, which gives a more stable overall pitch than &quot;pure&quot; frequency modulation. </source>
-        <translation type="unfinished"/>
+        <translation>Behalve toegewijde modulatoren, is het mogelijk om oscillator 3 van Monstro te laten moduleren door de output van oscillator 2.
+FM betekent frequentie modulatie: de frequentie (pitch) van oscillator 3 wordt gemoduleerd door oscillator 2. De frequentie modulatie wordt geimplementeerd als phase modulatie, hetgeen een stabieler algeheel pitch produceert dan een &quot;pure&quot; frequentie modulatie.</translation>
     </message>
     <message>
         <source>In addition to dedicated modulators, Monstro allows oscillator 3 to be modulated by the output of oscillator 2. 
 
 PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 2. It differs from frequency modulation in that the phase changes are not cumulative. </source>
-        <translation type="unfinished"/>
+        <translation>Behalve toegewijde modulatoren, is het mogelijk om oscillator 3 van Monstro te laten moduleren door de output van oscillator 2.
+PM betekent phase modulatie: de phase van oscillator 3 wordt gemoduleerd door oscillator 2. Het verschilt van frequentie modulatie omdat de veranderingen in phase niet cumulatief zijn.</translation>
     </message>
     <message>
         <source>Select the waveform for LFO 1. 
@@ -4794,7 +4797,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panning</translation>
     </message>
     <message>
         <source>Coarse detune</source>
@@ -5263,7 +5266,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>PatternView</name>
     <message>
         <source>Open in piano-roll</source>
-        <translation type="unfinished"/>
+        <translation>In piano-roll openen</translation>
     </message>
     <message>
         <source>Clear all notes</source>
@@ -5291,7 +5294,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>double-click to open in Piano Roll</source>
-        <translation type="unfinished"/>
+        <translation>dubbelklik om de Piano Roll te openen</translation>
     </message>
     <message>
         <source>Clone Steps</source>
@@ -5493,11 +5496,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Record notes from MIDI-device/channel-piano</source>
-        <translation type="unfinished"/>
+        <translation>Noten van MIDI-apparaat/kanaal-piano opnemen</translation>
     </message>
     <message>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
-        <translation type="unfinished"/>
+        <translation>Noten van MIDI-apparaat/kanaal-piano opnemen tijdens het afspelen van lied of BB track</translation>
     </message>
     <message>
         <source>Stop playing of current pattern (Space)</source>
@@ -5509,11 +5512,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you can play and edit them afterwards.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om in het huidig patroon noten van een MIDI-apparaat of de virtuele test-piano van de huidige kanaal-window op te nemen. Tijdens het opnemen worden alle noten die je speelt geschreven naar dit patroon en kunnen achteraf worden afgespeeld of bewerkt.</translation>
     </message>
     <message>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you will hear the song or BB track in the background.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om in het huidig patroon noten van een MIDI-apparaat of de virtuele test-piano van de huidige kanaal-window op te nemen. Tijdens het opnemen worden alle noten die je speelt geschreven naar dit patroon terwijl je het lied of de BB track in de achtergrond hoort.</translation>
     </message>
     <message>
         <source>Click here to stop playback of current pattern.</source>
@@ -5581,7 +5584,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>The &apos;Q&apos; stands for quantization, and controls the grid size notes and control points snap to. With smaller quantization values, you can draw shorter notes in Piano Roll, and more exact control points in the Automation Editor.</source>
-        <translation type="unfinished"/>
+        <translation>De &apos;Q&apos; staat voor quantization, en beheert de rastergrootte waar noten en beheerpunten naartoe schuiven. Bij lagere waarden van quantization kan je kortere noten in de Piano Roll tekenen, en meer exacte beheerpunten in de Automation Editor tekenen.</translation>
     </message>
     <message>
         <source>This lets you select the length of new notes. &apos;Last Note&apos; means that LMMS will use the note length of the note you last edited</source>
@@ -5589,7 +5592,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>The feature is directly connected to the context-menu on the virtual keyboard, to the left in Piano Roll. After you have chosen the scale you want in this drop-down menu, you can right click on a desired key in the virtual keyboard, and then choose &apos;Mark current Scale&apos;. LMMS will highlight all notes that belongs to the chosen scale, and in the key you have selected!</source>
-        <translation type="unfinished"/>
+        <translation>De toepassing is direct verbonden aan de context-menu van de virtuele keyboard, links in de Piano Roll. Nadat je een toonladder in dit drop-down menu hebt gekozen, kan je de met de rechtermuisknop op een toets op de virtuele keyboard drukken, en kiezen voor &apos;huidige toonladder markeren&apos;. LMMS zal dan alle noten van de gekozen toonladder volgens de geselecteerde toonaard markeren!</translation>
     </message>
     <message>
         <source>Let you select a chord which LMMS then can draw or highlight.You can find the most common chords in this drop-down menu. After you have selected a chord, click anywhere to place the chord, and right click on the virtual keyboard to open context menu and highlight the chord. To return to single note placement, you need to choose &apos;No chord&apos; in this drop-down menu.</source>
@@ -5613,11 +5616,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Piano-Roll - %1</source>
-        <translation type="unfinished"/>
+        <translation>Piano-Roll - %1</translation>
     </message>
     <message>
         <source>Piano-Roll - no pattern</source>
-        <translation type="unfinished"/>
+        <translation>Piano-Roll - geen patroon</translation>
     </message>
     <message>
         <source>Quantize</source>
@@ -5952,7 +5955,7 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panning</translation>
     </message>
 </context>
 <context>
@@ -5971,22 +5974,22 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panning</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panning:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
 </context>
 <context>
     <name>SetupDialog</name>
     <message>
         <source>Setup LMMS</source>
-        <translation type="unfinished"/>
+        <translation>Setup LMMS</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -6038,7 +6041,7 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Nootlabels in piano roll inschakelen</translation>
     </message>
     <message>
         <source>Enable waveform display by default</source>
@@ -6098,7 +6101,7 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Show playback cursor in AudioFileProcessor</source>
-        <translation type="unfinished"/>
+        <translation>Toon afspeelcursor in AudioFileProcessor</translation>
     </message>
     <message>
         <source>Audio settings</source>
@@ -6139,7 +6142,7 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Here you can setup the internal buffer-size used by LMMS. Smaller values result in a lower latency but also may cause unusable sound or bad performance, especially on older computers or systems with a non-realtime kernel.</source>
-        <translation type="unfinished"/>
+        <translation>Hier kan je de interne buffergrootte instellen die gebruikt wordt door LMMS. Kleinere waarden resulteren in een lagere latentie, maar kan ook onbruikbaar geluid of slechte prestaties veroorzaken, vooral bij oudere computers of bij systemen met een niet-realtime kernel. </translation>
     </message>
     <message>
         <source>Choose LMMS working directory</source>
@@ -6171,11 +6174,11 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Here you can select your preferred audio-interface. Depending on the configuration of your system during compilation time you can choose between ALSA, JACK, OSS and more. Below you see a box which offers controls to setup the selected audio-interface.</source>
-        <translation type="unfinished"/>
+        <translation>Hier kan je je voorkeur voor audio-interface selecteren. Afhankelijk van de configuratie van je system tijdens het compileren kan je kiezen tussen ALSA, JACK, OSS en meer. Hieronder zie je een box met mogelijkheden om de gekozen audio-interface in te stellen.</translation>
     </message>
     <message>
         <source>Here you can select your preferred MIDI-interface. Depending on the configuration of your system during compilation time you can choose between ALSA, OSS and more. Below you see a box which offers controls to setup the selected MIDI-interface.</source>
-        <translation type="unfinished"/>
+        <translation>Hier kan je je voorkeur voor MIDI-interface selecteren. Afhankelijk van de configuratie van je system tijdens het compileren kan je kiezen tussen ALSA, JACK, OSS en meer. Hieronder zie je een box met mogelijkheden om de gekozen MIDI-interface in te stellen.</translation>
     </message>
     <message>
         <source>Reopen last project on start</source>
@@ -6430,7 +6433,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>Automation track toevoegen</translation>
     </message>
     <message>
         <source>Draw mode</source>
@@ -7430,7 +7433,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panning</translation>
     </message>
     <message>
         <source>Freq. multiplier</source>
@@ -9119,7 +9122,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Monstrous 3-oscillator synth with modulation matrix</source>
-        <translation type="unfinished"/>
+        <translation>Monsterlijke 3-oscillator synth met modulatiematrix.</translation>
     </message>
     <message>
         <source>Three powerful oscillators you can modulate in several ways</source>
