@@ -3445,8 +3445,8 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation>Установить логарифмически</translation>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBV and 6.0 dBV:</source>
-        <translation>Введите новое значение от –96,0 дБВ до 6,0 дБВ:</translation>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
@@ -4048,7 +4048,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>Это перезапишет текущий обычный шаблон.</translation>
     </message>
     <message>
-        <source>Volume as dBV</source>
+        <source>Volume as dBFS</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6062,8 +6062,8 @@ Reason: &quot;%2&quot;</source>
         <translation>Показывать предупреждение о перезапуске при изменении настроек</translation>
     </message>
     <message>
-        <source>Display volume as dBV </source>
-        <translation>Отображать громкость в децибелах dBV</translation>
+        <source>Display volume as dBFS </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Compress project files per default</source>

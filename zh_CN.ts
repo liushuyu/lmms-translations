@@ -439,15 +439,15 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>Click here to choose discrete progressions for this automation pattern.  The value of the connected object will remain constant between control points and be set immediately to the new value when each control point is reached.</source>
-        <translation type="unfinished"/>
+        <translation>单击此处为此自动化片段选择离散渐进模式。被连接对象的值在控制点之间将会保持不变，并在达到每个控制点时立即设置为新值。</translation>
     </message>
     <message>
         <source>Click here to choose linear progressions for this automation pattern.  The value of the connected object will change at a steady rate over time between control points to reach the correct value at each control point without a sudden change.</source>
-        <translation type="unfinished"/>
+        <translation>单击此处选择为此自动化片段选择的线性渐进模式。被连接对象的值将在控制点之间随时间以稳定的速率改变，在每个控制点处达到正确的控制值，而不是突然地变化。</translation>
     </message>
     <message>
         <source>Click here to choose cubic hermite progressions for this automation pattern.  The value of the connected object will change in a smooth curve and ease in to the peaks and valleys.</source>
-        <translation type="unfinished"/>
+        <translation>点击这里为此自动化片段选择立方 Hermite 渐进模式。被连接对象的值将以平滑的曲线变化，并会缓和峰值和谷值。</translation>
     </message>
     <message>
         <source>Cut selected values (%1+X)</source>
@@ -912,11 +912,11 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>&amp;Remove this controller</source>
-        <translation type="unfinished"/>
+        <translation>删除此控制器(&amp;R)</translation>
     </message>
     <message>
         <source>Re&amp;name this controller</source>
-        <translation type="unfinished"/>
+        <translation>重命名控制器(&amp;N)</translation>
     </message>
     <message>
         <source>LFO</source>
@@ -994,7 +994,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>反馈</translation>
     </message>
     <message>
         <source>Lfo Frequency</source>
@@ -1041,7 +1041,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>Out Gain</source>
-        <translation type="unfinished"/>
+        <translation>输出增益</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1092,7 +1092,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>MIX</source>
-        <translation type="unfinished"/>
+        <translation>混音</translation>
     </message>
     <message>
         <source>Mix</source>
@@ -1223,7 +1223,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>SV Notch</source>
-        <translation type="unfinished"/>
+        <translation>SV Notch</translation>
     </message>
     <message>
         <source>Fast Formant</source>
@@ -1231,7 +1231,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>Tripole</source>
-        <translation type="unfinished"/>
+        <translation>Tripole</translation>
     </message>
 </context>
 <context>
@@ -1849,7 +1849,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Out Gain</source>
-        <translation type="unfinished"/>
+        <translation>输出增益</translation>
     </message>
     <message>
         <source>Bandwidth: </source>
@@ -2168,7 +2168,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>DELAY</source>
-        <translation type="unfinished"/>
+        <translation>延迟</translation>
     </message>
     <message>
         <source>RATE</source>
@@ -2184,15 +2184,15 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>数量：</translation>
     </message>
     <message>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>反馈</translation>
     </message>
     <message>
         <source>NOISE</source>
-        <translation type="unfinished"/>
+        <translation>噪音</translation>
     </message>
     <message>
         <source>Invert</source>
@@ -2571,7 +2571,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>note(s)</source>
-        <translation type="unfinished"/>
+        <translation>音符</translation>
     </message>
     <message>
         <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
@@ -3170,7 +3170,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>SV Notch</source>
-        <translation type="unfinished"/>
+        <translation>SV Notch</translation>
     </message>
     <message>
         <source>Fast Formant</source>
@@ -3178,7 +3178,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Tripole</source>
-        <translation type="unfinished"/>
+        <translation>Tripole</translation>
     </message>
 </context>
 <context>
@@ -3436,8 +3436,8 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation>设置为对数</translation>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBV and 6.0 dBV:</source>
-        <translation>请输入介于96.0 dBV 和 6.0 dBV之间的值：</translation>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation>请输入介于 -96.0 dBFS 和 6.0 dBFS之间的值：</translation>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
@@ -4036,8 +4036,8 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>这将会覆盖你的当前默认模板。</translation>
     </message>
     <message>
-        <source>Volume as dBV</source>
-        <translation>以 dBV 显示音量</translation>
+        <source>Volume as dBFS</source>
+        <translation>以 dBFS 为单位显示音量</translation>
     </message>
     <message>
         <source>Smooth scroll</source>
@@ -4618,7 +4618,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Moog 锯齿波</translation>
     </message>
     <message>
         <source>Abs. sine wave</source>
@@ -4630,7 +4630,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Random smooth</source>
-        <translation type="unfinished"/>
+        <translation>随机平滑</translation>
     </message>
 </context>
 <context>
@@ -4825,7 +4825,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source> cents</source>
-        <translation type="unfinished"/>
+        <translation>音分</translation>
     </message>
     <message>
         <source>Finetune right</source>
@@ -5520,19 +5520,19 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Click here to play the current pattern. This is useful while editing it. The pattern is automatically looped when its end is reached.</source>
-        <translation type="unfinished"/>
+        <translation>点击这里播放当前的片段。在编辑时，此功能非常有用。在播放到末尾时，将会自动从头再次播放。</translation>
     </message>
     <message>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you can play and edit them afterwards.</source>
-        <translation type="unfinished"/>
+        <translation>点击这里从指定通道的 MIDI 设备或虚拟钢琴录制音符到当前片段。录制时，所有音符都将被添加到此片段，在录制后你就可以自由地编辑它们。</translation>
     </message>
     <message>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you will hear the song or BB track in the background.</source>
-        <translation type="unfinished"/>
+        <translation>点击这里从指定通道的 MIDI 设备或虚拟钢琴录制音符到当前片段。录制时，所有音符都将被添加到此片段，并且你将会听到对应的声音或旋律。</translation>
     </message>
     <message>
         <source>Click here to stop playback of current pattern.</source>
-        <translation type="unfinished"/>
+        <translation>点击这里停止播放当前的片段。</translation>
     </message>
     <message>
         <source>Draw mode (Shift+D)</source>
@@ -5548,11 +5548,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Detune mode (Shift+T)</source>
-        <translation type="unfinished"/>
+        <translation>失谐模式 (Shift+T)</translation>
     </message>
     <message>
         <source>Click here and draw mode will be activated. In this mode you can add, resize and move notes. This is the default mode which is used most of the time. You can also press &apos;Shift+D&apos; on your keyboard to activate this mode. In this mode, hold %1 to temporarily go into select mode.</source>
-        <translation type="unfinished"/>
+        <translation>点击这里将会启用绘制模式。在这个模式下，你可以增加、移动、加长、缩短音符。在大多数情况下，这是默认的模式。你还可以按 &apos;Shift+D&apos; 激活此模式。如果你想暂时切换到选定模式可以按住 %1 。 </translation>
     </message>
     <message>
         <source>Click here and erase mode will be activated. In this mode you can erase notes. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
@@ -5560,7 +5560,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Click here and select mode will be activated. In this mode you can select notes. Alternatively, you can hold %1 in draw mode to temporarily use select mode.</source>
-        <translation type="unfinished"/>
+        <translation>点击这里将会启用选定模式。在这个模式下你可以选定多个音符。你还可以在绘制模式下按住 %1 来暂时切换到选定模式。</translation>
     </message>
     <message>
         <source>Click here and detune mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
@@ -5588,19 +5588,19 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Click here and the notes from the clipboard will be pasted at the first visible measure.</source>
-        <translation type="unfinished"/>
+        <translation>点击这里将会把剪切板里面的音符粘贴到第一个可见的小节。</translation>
     </message>
     <message>
         <source>This controls the magnification of an axis. It can be helpful to choose magnification for a specific task. For ordinary editing, the magnification should be fitted to your smallest notes. </source>
-        <translation type="unfinished"/>
+        <translation>这个选项控制了坐标轴的放大率。在进行某些任务时会很有用。在平常的编辑中，放大率应该根据你的片段中最短的那个音符设定。</translation>
     </message>
     <message>
         <source>The &apos;Q&apos; stands for quantization, and controls the grid size notes and control points snap to. With smaller quantization values, you can draw shorter notes in Piano Roll, and more exact control points in the Automation Editor.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;Q&apos; 的意思是量化 (Quantization)，这个控制了网格的大小，音符和控制点的对齐。量化值越小，你就能在钢琴窗中画出更小的音符，或者在自动控制编辑器中画出更精确的控制点。</translation>
     </message>
     <message>
         <source>This lets you select the length of new notes. &apos;Last Note&apos; means that LMMS will use the note length of the note you last edited</source>
-        <translation type="unfinished"/>
+        <translation>你可以在此选项中选择新音符的长度。“上一个音符”选项表示 LMMS 将会使用你所编辑的上一个音符的长度</translation>
     </message>
     <message>
         <source>The feature is directly connected to the context-menu on the virtual keyboard, to the left in Piano Roll. After you have chosen the scale you want in this drop-down menu, you can right click on a desired key in the virtual keyboard, and then choose &apos;Mark current Scale&apos;. LMMS will highlight all notes that belongs to the chosen scale, and in the key you have selected!</source>
@@ -5855,7 +5855,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>In Place Broken: </source>
-        <translation type="unfinished"/>
+        <translation>被损坏：</translation>
     </message>
     <message>
         <source>Channels In: </source>
@@ -6028,8 +6028,8 @@ Reason: &quot;%2&quot;</source>
         <translation>在改变设置后显示重启警告</translation>
     </message>
     <message>
-        <source>Display volume as dBV </source>
-        <translation>音量显示为dBV</translation>
+        <source>Display volume as dBFS </source>
+        <translation>以 dBFS 为单位显示音量</translation>
     </message>
     <message>
         <source>Compress project files per default</source>
@@ -6413,7 +6413,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>This %1 was created with LMMS %2.</source>
-        <translation type="unfinished"/>
+        <translation>这个%1是由 LMMS 版本 %2 创建的。</translation>
     </message>
 </context>
 <context>
@@ -7460,7 +7460,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source> cents</source>
-        <translation type="unfinished"/>
+        <translation>音分</translation>
     </message>
     <message>
         <source>Right detune</source>
@@ -8054,7 +8054,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>SR Dependent</source>
-        <translation type="unfinished"/>
+        <translation>依赖 SR</translation>
     </message>
     <message>
         <source>Audio</source>

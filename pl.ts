@@ -3438,7 +3438,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBV and 6.0 dBV:</source>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4037,7 +4037,7 @@ Odwiedź witrynę http://lmms.sf.net/wiki for documentation on LMMS.</translatio
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Volume as dBV</source>
+        <source>Volume as dBFS</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6029,7 +6029,7 @@ Powód: &quot;%2&quot;</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Display volume as dBV </source>
+        <source>Display volume as dBFS </source>
         <translation type="unfinished"/>
     </message>
     <message>

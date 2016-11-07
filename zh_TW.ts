@@ -3431,8 +3431,8 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation>設置爲對數</translation>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBV and 6.0 dBV:</source>
-        <translation>請輸入介於96.0 dBV 和 6.0 dBV之間的值：</translation>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
@@ -4030,8 +4030,8 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>這將會覆蓋你的當前默認模板。</translation>
     </message>
     <message>
-        <source>Volume as dBV</source>
-        <translation>以 dBV 顯示音量</translation>
+        <source>Volume as dBFS</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Smooth scroll</source>
@@ -6022,8 +6022,8 @@ Reason: &quot;%2&quot;</source>
         <translation>在改變設置後顯示重啓警告</translation>
     </message>
     <message>
-        <source>Display volume as dBV </source>
-        <translation>音量顯示爲dBV</translation>
+        <source>Display volume as dBFS </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Compress project files per default</source>

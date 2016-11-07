@@ -614,7 +614,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>Stappen Klonen</translation>
     </message>
     <message>
         <source>Add sample-track</source>
@@ -1522,7 +1522,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Use this knob for setting release-time of the current envelope. The bigger this value the longer the envelope needs to decrease from sustain-level to zero. Choose a big value for soft instruments like strings.</source>
-        <translation type="unfinished"/>
+        <translation>Gebruik deze knop om de release-tijd van de huidige envelope in te stellen. Dit is de tijd die de envelope nodig heeft om van sustain-niveau weer naar nul te gaan. Kies een grote waarde voor bijvoorbeeld snaarinstrumenten.</translation>
     </message>
     <message>
         <source>AMT</source>
@@ -2207,7 +2207,13 @@ In order to route the channel to another channel, select the FX channel and clic
 
 You can remove and move FX channels in the context menu, which is accessed by right-clicking the FX channel.
 </source>
-        <translation type="unfinished"/>
+        <translation>Het FX kanaal ontvangt input van een of meerdere instrument tracks.
+Daarna kan het worden doorgestuurd naar andere FX kanalen. LMMS voorkomt automatisch oneindige loops en verbiedt het maken van connecties die resulteren in oneindige loops. 
+
+Om het door te sturen naar een ander kanaal, selecteer het FX kanaal en klik op de &quot;verstuur&quot; knop van het kanaal dat de bestemming is van je signaal. De knop onder de &quot;verstuur&quot; knop bepaalt het niveau van het signaal dat wordt verzonden naar het kanaal. 
+
+Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van een rechtermuisklik op een FX kanaal.
+</translation>
     </message>
     <message>
         <source>Move &amp;left</source>
@@ -2463,7 +2469,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>An arpeggio is a method playing (especially plucked) instruments, which makes the music much livelier. The strings of such instruments (e.g. harps) are plucked like chords. The only difference is that this is done in a sequential order, so the notes are not played at the same time. Typical arpeggios are major or minor triads, but there are a lot of other possible chords, you can select.</source>
-        <translation type="unfinished"/>
+        <translation>Een arpeggio is een methode om (vooral pluk-) instrumenten te bespelen, waardoor de muziek veel levendiger wordt. De snaren van deze instrumenten (bijv. harp) worden geplukt zoals akkoorden. Het enige verschil is dat dit in opeenvolgende manier wordt uitgevoerd, zodat de noten niet tegelijkertijd worden bespeeld. Typische arpeggios zijn major en minor triads, maar er zijn nog veel andere akkoorden waaruit je kan kiezen.</translation>
     </message>
     <message>
         <source>RANGE</source>
@@ -3424,8 +3430,8 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBV and 6.0 dBV:</source>
-        <translation>Voer a.u.b. een nieuwe waarde tussen -96.0 dBV en 6.0 dBV in:</translation>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
@@ -4021,8 +4027,8 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Volume as dBV</source>
-        <translation>Volume als sBV</translation>
+        <source>Volume as dBFS</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Smooth scroll</source>
@@ -5298,7 +5304,7 @@ PM betekent phase modulatie: de phase van oscillator 3 wordt gemoduleerd door os
     </message>
     <message>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>Stappen Klonen</translation>
     </message>
 </context>
 <context>
@@ -6016,8 +6022,8 @@ Reden: &quot;%2&quot;</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Display volume as dBV </source>
-        <translation>Volume in dBV tonen </translation>
+        <source>Display volume as dBFS </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Compress project files per default</source>
@@ -7977,7 +7983,19 @@ Analysis Tools are plugins for which only input channels were identified.
 Don't Knows are plugins for which no input or output channels were identified.
 
 Double clicking any of the plugins will bring up information on the ports.</source>
-        <translation type="unfinished"/>
+        <translation>Dit dialoog vertoont informatie over alle LADSPA plugins die LMMS heeft kunnen vinden. De plugins zijn verdeeld in vijf categorieen, gebaseerd op de interpretatie van porttypes en namen.
+
+Beschikbare Effects zijn degenen die door LMMS te gebruiken zijn. Om LMMS een effect te laten gebruiken, moet het in eerste instantie een effect zijn met kanalen voor zowel input als output. LMMS identificeert een inputkanaal als audioport met &apos;in&apos; in de naam. Outputkanalen worden geidentificeerd door de letters &apos;out&apos;. Bovendien moet het effect dezelfde hoeveelheid inputs als outputs hebben en real time capable zijn.
+
+Onbeschikbare Effects zijn degenen die worden geidentificeerd als effects, maar niet dezelfde hoeveelheid kanalen hebben voor zowel input als output, of niet real time capable zijn.
+
+Instrumenten zijn plugins waarvan alleen outputkanalen zijn geidentificeerd.
+
+Analysis Tools zijn plugins waarvan alleen inputkanalen zijn geidentificeerd.
+
+Don&apos;t Knows zijn plugins waarvan geen inputkanalen of outputkanalen zijn geidentificeerd.
+
+Dubbelklik een van de plugins om informatie te tonen over de ports.</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -9118,7 +9136,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>LMMS port of sfxr</source>
-        <translation type="unfinished"/>
+        <translation>LMMS port van sfxr</translation>
     </message>
     <message>
         <source>Monstrous 3-oscillator synth with modulation matrix</source>

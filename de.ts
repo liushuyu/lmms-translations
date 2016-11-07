@@ -3440,7 +3440,7 @@ Sie können FX Kanäle im Kontextmenü entfernen und verschieben, welches durch 
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBV and 6.0 dBV:</source>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -4040,7 +4040,7 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Volume as dBV</source>
+        <source>Volume as dBFS</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6048,7 +6048,7 @@ Grund: »%2«</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Display volume as dBV </source>
+        <source>Display volume as dBFS </source>
         <translation type="unfinished"/>
     </message>
     <message>

@@ -147,7 +147,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>With this knob you can set the amplify ratio. When you set a value of 100% your sample isn&apos;t changed. Otherwise it will be amplified up or down (your actual sample-file isn&apos;t touched!)</source>
-        <translation type="unfinished"/>
+        <translation>このつまみでは増幅率を設定することができます。この値を100%にするとサンプルは変化しません。そうでないときは増幅率が上下します(実際のサンプルファイルは変更されません!)</translation>
     </message>
     <message>
         <source>Startpoint:</source>
@@ -3423,8 +3423,8 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBV and 6.0 dBV:</source>
-        <translation>-96.0 dBV と6.0 dBV の間に収まる新しい値を入力してください:</translation>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
@@ -4022,8 +4022,8 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Volume as dBV</source>
-        <translation>音量を dBV で表示</translation>
+        <source>Volume as dBFS</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Smooth scroll</source>
@@ -6014,8 +6014,8 @@ Reason: &quot;%2&quot;</source>
         <translation>設定変更後に再起動の警告を表示する</translation>
     </message>
     <message>
-        <source>Display volume as dBV </source>
-        <translation>音量を dBV で表示する</translation>
+        <source>Display volume as dBFS </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Compress project files per default</source>

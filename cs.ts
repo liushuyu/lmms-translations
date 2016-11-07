@@ -70,11 +70,11 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>PAN</source>
-        <translation>PAN</translation>
+        <translation>VYV</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation>Panoráma:</translation>
+        <translation>Vyvážení:</translation>
     </message>
     <message>
         <source>LEFT</source>
@@ -101,7 +101,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panoráma</translation>
+        <translation>Vyvážení</translation>
     </message>
     <message>
         <source>Left gain</source>
@@ -568,7 +568,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     <name>BBEditor</name>
     <message>
         <source>Beat+Bassline Editor</source>
-        <translation>Editor bicích + basů</translation>
+        <translation>Editor bicích/basů</translation>
     </message>
     <message>
         <source>Play/pause current beat/bassline (Space)</source>
@@ -623,7 +623,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     <name>BBTCOView</name>
     <message>
         <source>Open in Beat+Bassline-Editor</source>
-        <translation>Otevřít v editoru bicích + basů</translation>
+        <translation>Otevřít v editoru bicích/basů</translation>
     </message>
     <message>
         <source>Reset name</source>
@@ -2995,7 +2995,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>VELOCITY</source>
-        <translation type="unfinished"/>
+        <translation>DYNAM</translation>
     </message>
     <message>
         <source>ENABLE MIDI OUTPUT</source>
@@ -3007,11 +3007,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>MIDI devices to receive MIDI events from</source>
-        <translation type="unfinished"/>
+        <translation>MIDI zařízení pro přijímání MIDI událostí</translation>
     </message>
     <message>
         <source>MIDI devices to send MIDI events to</source>
-        <translation type="unfinished"/>
+        <translation>MIDI zařízení pro odesílání MIDI událostí</translation>
     </message>
     <message>
         <source>NOTE</source>
@@ -3019,15 +3019,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>CUSTOM BASE VELOCITY</source>
-        <translation type="unfinished"/>
+        <translation>VLASTNÍ VÝCHOZÍ DYNAMIKA</translation>
     </message>
     <message>
         <source>Specify the velocity normalization base for MIDI-based instruments at 100% note velocity</source>
-        <translation type="unfinished"/>
+        <translation>Udává výchozí úroveň dynamiky pro MIDI nástroje při 100 % dynamiky tónu</translation>
     </message>
     <message>
         <source>BASE VELOCITY</source>
-        <translation type="unfinished"/>
+        <translation>VÝCHOZÍ DYNAMIKA</translation>
     </message>
 </context>
 <context>
@@ -3231,7 +3231,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panoráma</translation>
+        <translation>Vyvážení</translation>
     </message>
     <message>
         <source>Pitch</source>
@@ -3278,15 +3278,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panoráma</translation>
+        <translation>Vyvážení</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation>Panoráma:</translation>
+        <translation>Vyvážení:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation>PAN</translation>
+        <translation>VYV</translation>
     </message>
     <message>
         <source>MIDI</source>
@@ -3325,15 +3325,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panoráma</translation>
+        <translation>Vyvážení</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation>Panoráma:</translation>
+        <translation>Vyvážení:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation>PAN</translation>
+        <translation>VYV</translation>
     </message>
     <message>
         <source>Pitch</source>
@@ -3423,8 +3423,8 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBV and 6.0 dBV:</source>
-        <translation>Vložte prosím novou hodnotu mezi -96.0 dBV a 6.0 dBV:</translation>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
@@ -3637,7 +3637,7 @@ Dvojklik pro výběr souboru.</translation>
     </message>
     <message>
         <source>Opening audio and midi devices</source>
-        <translation type="unfinished"/>
+        <translation>Spouštím zvuková a MIDI zařízení</translation>
     </message>
     <message>
         <source>Launching mixer threads</source>
@@ -3746,11 +3746,11 @@ Ujistěte se prosím, že máte k souboru právo zápisu a zkuste to znovu.</tra
     </message>
     <message>
         <source>Beat+Bassline Editor</source>
-        <translation>Editor bicích + basů</translation>
+        <translation>Editor bicích/basů</translation>
     </message>
     <message>
         <source>By pressing this button, you can show or hide the Beat+Bassline Editor. The Beat+Bassline Editor is needed for creating beats, and for opening, adding, and removing channels, and for cutting, copying and pasting beat and bassline-patterns, and for other things like that.</source>
-        <translation>Stisknutím tohoto tlačítka zobrazíte nebo skryjete editor bicích + basů. Tento editor je nezbytný pro tvorbu beatů, otevírání, přidávání či odebírání kanálů a dále pro vyjímání, kopírování a vkládání beatů, bicích/basových patternů apod.</translation>
+        <translation>Stisknutím tohoto tlačítka zobrazíte nebo skryjete editor bicích/basů. Tento editor je nezbytný pro tvorbu beatů, otevírání, přidávání či odebírání kanálů a dále pro vyjímání, kopírování a vkládání beatů, bicích/basových patternů apod.</translation>
     </message>
     <message>
         <source>Piano Roll</source>
@@ -3968,7 +3968,7 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     </message>
     <message>
         <source>Show/hide Beat+Bassline Editor</source>
-        <translation>Zobrazit/skrýt editor bicích + basů</translation>
+        <translation>Zobrazit/skrýt editor bicích/basů</translation>
     </message>
     <message>
         <source>Show/hide Piano-Roll</source>
@@ -4023,8 +4023,8 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Volume as dBV</source>
-        <translation>Hlasitost jako dBV</translation>
+        <source>Volume as dBFS</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Smooth scroll</source>
@@ -4135,7 +4135,7 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     </message>
     <message>
         <source>Base velocity</source>
-        <translation>Základní dynamika</translation>
+        <translation>Výchozí dynamika</translation>
     </message>
 </context>
 <context>
@@ -4153,7 +4153,7 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     </message>
     <message>
         <source>Osc 1 Panning</source>
-        <translation>Osc 1 panorama</translation>
+        <translation>Vyvážení Osc 1</translation>
     </message>
     <message>
         <source>Osc 1 Coarse detune</source>
@@ -4189,7 +4189,7 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     </message>
     <message>
         <source>Osc 2 Panning</source>
-        <translation>Osc 2 panorama</translation>
+        <translation>Vyvážení Osc 2</translation>
     </message>
     <message>
         <source>Osc 2 Coarse detune</source>
@@ -4225,7 +4225,7 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     </message>
     <message>
         <source>Osc 3 Panning</source>
-        <translation>Osc 3 panorama</translation>
+        <translation>Vyvážení Osc 3</translation>
     </message>
     <message>
         <source>Osc 3 Coarse detune</source>
@@ -4796,7 +4796,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panoráma</translation>
+        <translation>Vyvážení</translation>
     </message>
     <message>
         <source>Coarse detune</source>
@@ -5140,7 +5140,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Osc %1 panning</source>
-        <translation>Osc %1 panorama</translation>
+        <translation>Vyvážení Osc %1</translation>
     </message>
     <message>
         <source>Osc %1 coarse detuning</source>
@@ -5269,7 +5269,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Clear all notes</source>
-        <translation>Vyčistit všechny noty</translation>
+        <translation>Vymazat všechny noty</translation>
     </message>
     <message>
         <source>Reset name</source>
@@ -5289,7 +5289,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>use mouse wheel to set velocity of a step</source>
-        <translation type="unfinished"/>
+        <translation>použijte kolečko myši pro nastavení dynamiky kroku</translation>
     </message>
     <message>
         <source>double-click to open in Piano Roll</source>
@@ -5420,7 +5420,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Last note</source>
-        <translation>Dle poslední noty</translation>
+        <translation>Podle poslední noty</translation>
     </message>
     <message>
         <source>Note lock</source>
@@ -5428,11 +5428,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Note Velocity</source>
-        <translation>Síla noty</translation>
+        <translation>Dynamika noty</translation>
     </message>
     <message>
         <source>Note Panning</source>
-        <translation>Panoráma noty</translation>
+        <translation>Vyvážení noty</translation>
     </message>
     <message>
         <source>Mark/unmark current semitone</source>
@@ -5460,19 +5460,19 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Velocity: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Dynamika: %1%</translation>
     </message>
     <message>
         <source>Panning: %1% left</source>
-        <translation>Panoráma: %1% vlevo</translation>
+        <translation>Vyvážení: %1% vlevo</translation>
     </message>
     <message>
         <source>Panning: %1% right</source>
-        <translation>Panoráma: %1% vpravo</translation>
+        <translation>Vyvážení: %1% vpravo</translation>
     </message>
     <message>
         <source>Panning: center</source>
-        <translation>Panoráma: %1% střed</translation>
+        <translation>Vyvážení: %1% střed</translation>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
@@ -5666,7 +5666,7 @@ Důvod: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Drag an instrument into either the Song-Editor, the Beat+Bassline Editor or into an existing instrument track.</source>
-        <translation>Nástroj přetáhněte do Editoru skladby, Beat+Bassline Editoru nebo do existující nástrojové stopy.</translation>
+        <translation>Nástroj přetáhněte do Editoru skladby, Editoru bicích/basů nebo do existující nástrojové stopy.</translation>
     </message>
 </context>
 <context>
@@ -5954,7 +5954,7 @@ Důvod: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panoráma</translation>
+        <translation>Vyvážení</translation>
     </message>
 </context>
 <context>
@@ -5973,15 +5973,15 @@ Důvod: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panoráma</translation>
+        <translation>Vyvážení</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation>Panoráma:</translation>
+        <translation>Vyvážení:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation>PAN</translation>
+        <translation>VYV</translation>
     </message>
 </context>
 <context>
@@ -6015,8 +6015,8 @@ Důvod: &quot;%2&quot;</translation>
         <translation>Zobrazit výzvu k restartu po změně nastavení</translation>
     </message>
     <message>
-        <source>Display volume as dBV </source>
-        <translation>Zobrazovat hlasitost jako dBV</translation>
+        <source>Display volume as dBFS </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Compress project files per default</source>
@@ -6616,7 +6616,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>BEAT</source>
-        <translation type="unfinished"/>
+        <translation>DOBA</translation>
     </message>
     <message>
         <source>TICK</source>
@@ -6865,11 +6865,11 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
     </message>
     <message>
         <source>Osc %1 panning:</source>
-        <translation>Osc %1 panorama:</translation>
+        <translation>Vyvážení Osc %1:</translation>
     </message>
     <message>
         <source>With this knob you can set the panning of the oscillator %1. A value of -100 means 100% left and a value of 100 moves oscillator-output right.</source>
-        <translation>Tímto otočným ovladačem můžete nastavit panoráma oscilátoru %1. Hodnota -100 znamená maximálně doleva, zatímco hodnota 100 přesouvá výstup oscilátoru doprava.</translation>
+        <translation>Tímto otočným ovladačem můžete nastavit vyvážení oscilátoru %1. Hodnota -100 znamená maximálně doleva, zatímco hodnota 100 přesouvá výstup oscilátoru doprava.</translation>
     </message>
     <message>
         <source>Osc %1 coarse detuning:</source>
@@ -7199,19 +7199,19 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
     </message>
     <message>
         <source>Panning A1</source>
-        <translation>Panoráma A1</translation>
+        <translation>Vyvážení A1</translation>
     </message>
     <message>
         <source>Panning A2</source>
-        <translation>Panoráma A2</translation>
+        <translation>Vyvážení A2</translation>
     </message>
     <message>
         <source>Panning B1</source>
-        <translation>Panoráma B1</translation>
+        <translation>Vyvážení B1</translation>
     </message>
     <message>
         <source>Panning B2</source>
-        <translation>Panoráma B2</translation>
+        <translation>Vyvážení B2</translation>
     </message>
     <message>
         <source>Freq. multiplier A1</source>
@@ -7434,7 +7434,7 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panoráma</translation>
+        <translation>Vyvážení</translation>
     </message>
     <message>
         <source>Freq. multiplier</source>
@@ -8334,7 +8334,7 @@ Dvojitým kliknutím na kterýkoli z modulů se zobrazí informace o portech.</t
     </message>
     <message>
         <source>Beats</source>
-        <translation>Doby</translation>
+        <translation>Beats</translation>
     </message>
     <message>
         <source>Two Fixed</source>
@@ -8512,7 +8512,7 @@ Dvojitým kliknutím na kterýkoli z modulů se zobrazí informace o portech.</t
     </message>
     <message>
         <source>Close VST effect knob-controller window.</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít okno otočných ovladačů VST efektu.</translation>
     </message>
 </context>
 <context>
@@ -8543,7 +8543,7 @@ Dvojitým kliknutím na kterýkoli z modulů se zobrazí informace o portech.</t
     </message>
     <message>
         <source>Close VST plugin knob-controller window.</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít okno otočných ovladačů VST pluginu.</translation>
     </message>
 </context>
 <context>
@@ -8719,7 +8719,7 @@ Dvojitým kliknutím na kterýkoli z modulů se zobrazí informace o portech.</t
     </message>
     <message>
         <source>Osc %1 panning:</source>
-        <translation>Osc %1 panorama:</translation>
+        <translation>Vyvážení Osc %1:</translation>
     </message>
     <message>
         <source>cents</source>
@@ -9601,11 +9601,11 @@ This chip was used in the Commodore 64 computer.</source>
     <name>vibed</name>
     <message>
         <source>String %1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Hlasitost struny %1</translation>
     </message>
     <message>
         <source>String %1 stiffness</source>
-        <translation type="unfinished"/>
+        <translation>Tvrdost struny %1</translation>
     </message>
     <message>
         <source>Pick %1 position</source>
@@ -9617,7 +9617,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Pan %1</source>
-        <translation type="unfinished"/>
+        <translation>Vyv %1</translation>
     </message>
     <message>
         <source>Detune %1</source>
@@ -9648,15 +9648,15 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>The &apos;V&apos; knob sets the volume of the selected string.</source>
-        <translation type="unfinished"/>
+        <translation>Otočný ovladač &apos;V&apos; nastavuje hlasitost vybrané struny.</translation>
     </message>
     <message>
         <source>String stiffness:</source>
-        <translation type="unfinished"/>
+        <translation>Tvrdost struny:</translation>
     </message>
     <message>
         <source>The &apos;S&apos; knob sets the stiffness of the selected string.  The stiffness of the string affects how long the string will ring out.  The lower the setting, the longer the string will ring.</source>
-        <translation type="unfinished"/>
+        <translation>Otočný ovladač &apos;S&apos; nastavuje tvrdost vybrané struny. Tvrdost struny ovlivňuje délku doznívání struny. Čím nižší hodnota, tím déle bude struna znít. </translation>
     </message>
     <message>
         <source>Pick position:</source>
@@ -9664,7 +9664,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>The &apos;P&apos; knob sets the position where the selected string will be &apos;picked&apos;.  The lower the setting the closer the pick is to the bridge.</source>
-        <translation>Otočný ovladač &apos;P&apos; nastavuje pozici, na které bude na vybranou strunu drnknuto. Nižší nastavení znamená úhoz blíže ke kobylce.</translation>
+        <translation>Otočný ovladač &apos;P&apos; nastavuje pozici, ze které bude se na vybrané struně drnkne. Nižší nastavení znamená drnknutí blíže ke kobylce.</translation>
     </message>
     <message>
         <source>Pickup position:</source>
@@ -9676,11 +9676,11 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Pan:</source>
-        <translation>Pan:</translation>
+        <translation>Vyv:</translation>
     </message>
     <message>
         <source>The Pan knob determines the location of the selected string in the stereo field.</source>
-        <translation>Otočný ovladač PAN určuje pozici vybrané struny ve stereo prostoru. </translation>
+        <translation>Otočný ovladač &apos;Pan&apos; určuje pozici vybrané struny ve stereo prostoru. </translation>
     </message>
     <message>
         <source>Detune:</source>
@@ -9688,7 +9688,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>The Detune knob modifies the pitch of the selected string.  Settings less than zero will cause the string to sound flat.  Settings greater than zero will cause the string to sound sharp.</source>
-        <translation>Otočný ovladač Rozladění mění ladění vybrané struny. Hodnoty nižší než nula způsobí plochý zvuk, hodnoty vyšší než nula způsobí ostřejší zvuk.</translation>
+        <translation>Otočný ovladač &apos;Detune&apos; mění ladění vybrané struny. Hodnoty nižší než nula způsobí plochý zvuk, hodnoty vyšší než nula způsobí ostřejší zvuk.</translation>
     </message>
     <message>
         <source>Fuzziness:</source>
@@ -9696,7 +9696,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>The Slap knob adds a bit of fuzz to the selected string which is most apparent during the attack, though it can also be used to make the string sound more &apos;metallic&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Otočný ovladač &apos;Slap&apos; přidává k vybrané struně jemné rozostření, které je nejvíce patrné při náběhu tónu, ačkoliv lze také použít pro vytvoření více &apos;kovového&apos; zvuku struny.</translation>
     </message>
     <message>
         <source>Length:</source>
@@ -9704,7 +9704,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>The Length knob sets the length of the selected string.  Longer strings will both ring longer and sound brighter, however, they will also eat up more CPU cycles.</source>
-        <translation>Otočný ovladač Délka nastavuje délku vybrané struny. Delší struny budou znít déle a jasněji, také však spotřebují více CPU cyklů.</translation>
+        <translation>Otočný ovladač &apos;Lenght&apos; nastavuje délku vybrané struny. Delší struny budou znít déle a jasněji, nicméně však spotřebují více CPU cyklů.</translation>
     </message>
     <message>
         <source>Impulse or initial state</source>
@@ -9748,7 +9748,17 @@ The 'V' knob controls the volume.  The 'S' knob controls the string's stiffness.
 The 'Length' knob controls the length of the string.
 
 The LED in the lower right corner of the waveform editor determines whether the string is active in the current instrument.</source>
-        <translation type="unfinished"/>
+        <translation>Vibed simuluje až devět nezávisle vibrujících strun. Volič &apos;String&apos; vám umožní vybrat, kterou strunu budete upravovat. Pomocí voliče &apos;Imp&apos; vyberete, jestli graf představuje impulz nebo výchozí stav struny. Voličem &apos;Octave&apos; vyberete, na kterém harmonickém tónu má struna vibrovat.
+
+Graf vám umožňuje řízení výchozího stavu nebo impulzu použitého pro nastavení pohybu struny.
+
+Otočný ovladač &apos;V&apos; řídí hlasitost. Ovladač &apos;S&apos; nastavuje tvrdost struny. Ovladač &apos;P&apos; určuje pozici drnknutí. Ovladač &apos;PU&apos; nastavuje pozici snímače.
+
+&apos;Pan&apos; a &apos;Detune&apos; snad není třeba vysvětlovat. Ovladač &apos;Slap&apos; přidá ke zvuku struny jemné rozostření.
+
+Ovladač &apos;Lenght&apos; určuje délku struny.
+
+LED v pravém dolním rohu editoru vlny určuje, jestli bude struna v aktuálním nástroji aktivní.</translation>
     </message>
     <message>
         <source>Enable waveform</source>
