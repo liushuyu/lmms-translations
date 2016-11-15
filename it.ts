@@ -3441,7 +3441,7 @@ Puoi rimuovere e muovere i canali con il menù contestuale, cliccando con il tas
     </message>
     <message>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation type="unfinished"/>
+        <translation>Inserire un nuovo valore tra -96.0 dBFS e 6.0 dBFS:</translation>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
@@ -4041,7 +4041,7 @@ Visitare http://lmms.sf.net/wiki  per la documentazione di LMMS.</translation>
     </message>
     <message>
         <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
+        <translation>Volume in dBFS</translation>
     </message>
     <message>
         <source>Smooth scroll</source>
@@ -4106,6 +4106,19 @@ Visitare http://lmms.sf.net/wiki  per la documentazione di LMMS.</translation>
     <message>
         <source>Track</source>
         <translation>Traccia</translation>
+    </message>
+</context>
+<context>
+    <name>MidiJack</name>
+    <message>
+        <source>JACK server down</source>
+        <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (title)</extracomment>
+        <translation>Il server JACK è down</translation>
+    </message>
+    <message>
+        <source>The JACK server seems to be shuted down.</source>
+        <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6049,7 +6062,7 @@ Motivo: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Display volume as dBFS </source>
-        <translation type="unfinished"/>
+        <translation>Mostra il volume in dBFS</translation>
     </message>
     <message>
         <source>Compress project files per default</source>

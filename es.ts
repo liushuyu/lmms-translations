@@ -3442,7 +3442,7 @@ Puedes quitar y mover los canales FX a través del menú contextual. Accede a es
     </message>
     <message>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation type="unfinished"/>
+        <translation>Por favor ingresa un nuevo valor entre -96.0 dBFS y 6.0 dBFS:</translation>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
@@ -4042,7 +4042,7 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
     </message>
     <message>
         <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
+        <translation>Volumen en dBFS</translation>
     </message>
     <message>
         <source>Smooth scroll</source>
@@ -4107,6 +4107,19 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
     <message>
         <source>Track</source>
         <translation>Pista</translation>
+    </message>
+</context>
+<context>
+    <name>MidiJack</name>
+    <message>
+        <source>JACK server down</source>
+        <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (title)</extracomment>
+        <translation>Ha fallado el servidor JACK</translation>
+    </message>
+    <message>
+        <source>The JACK server seems to be shuted down.</source>
+        <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
+        <translation>Parece ser que el servidor JACK está apagado.</translation>
     </message>
 </context>
 <context>
@@ -6050,7 +6063,7 @@ Razón: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Display volume as dBFS </source>
-        <translation type="unfinished"/>
+        <translation>Mostrar volumen en dBFS</translation>
     </message>
     <message>
         <source>Compress project files per default</source>

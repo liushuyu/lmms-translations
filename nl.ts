@@ -29,7 +29,7 @@
         <source>Current language not translated (or native English).
 
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation>Nederlandse vertaling door Koen Stroobants, liushuyu011 en Thomas De Rocker.
+        <translation>Nederlandse vertaling door Koen Stroobants, liushuyu011, Thomas De Rocker, en Carlo Tas.
 
 Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de bestaande vertalingen wil verbeteren, dan mag u ons zeker helpen! Contacteer de beheerder!
 
@@ -165,7 +165,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Enabling this option makes the sample continue playing across different notes - if you change pitch, or the note length stops before the end of the sample, then the next note played will continue where it left off. To reset the playback to the start of the sample, insert a note at the bottom of the keyboard (&lt; 20 Hz)</source>
-        <translation type="unfinished"/>
+        <translation>Inschakelen van deze optie laat de sample doorspelen tussen verschillende noten - als u de toonhoogte wijzigt, of de noot-lengte stopt voor het einde van de sample, dan zal de volgende afgespeelde noot doorgaan waar de vorige gebleven was. Om het afspelen te herstellen naar het begint van de sample, voegt u een noot toe onderaan het toetsenbord (&lt; 20 Hz)</translation>
     </message>
     <message>
         <source>Disable loop</source>
@@ -173,7 +173,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>This button disables looping. The sample plays only once from start to end. </source>
-        <translation>Deze knop schakelt looping uit. De sample speelt slechts één keer van begin tot einde.</translation>
+        <translation>Deze knop schakelt herhalen uit. De sample speelt slechts één keer van begin tot einde.</translation>
     </message>
     <message>
         <source>Enable loop</source>
@@ -181,53 +181,53 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>This button enables forwards-looping. The sample loops between the end point and the loop point.</source>
-        <translation type="unfinished"/>
+        <translation>Deze knop schakelt voorwaarts-herhalen in. De sample herhaalt tussen het eindpunt en het herhaalpunt.</translation>
     </message>
     <message>
         <source>This button enables ping-pong-looping. The sample loops backwards and forwards between the end point and the loop point.</source>
-        <translation type="unfinished"/>
+        <translation>Deze knop schakelt ping-pong-herhalen in. De sample herhaalt achteruit en vooruit tussen het eindpunt en het herhaalpunt.</translation>
     </message>
     <message>
         <source>With this knob you can set the point where AudioFileProcessor should begin playing your sample. </source>
-        <translation>Met deze knop kan je instellen wanneer AudioFileProcessor begint met het afspelen van je sample.</translation>
+        <translation>Met deze knop kunt u het punt instellen waar AudioFileProcessor moet beginnen met het afspelen van uw sample.</translation>
     </message>
     <message>
         <source>With this knob you can set the point where AudioFileProcessor should stop playing your sample. </source>
-        <translation>Met deze knop kan je instellen wanneer AudioFileProcessor stopt met het afspelen van je sample.</translation>
+        <translation>Met deze knop kunt u het punt instellen waar AudioFileProcessor moet stoppen met het afspelen van uw sample.</translation>
     </message>
     <message>
         <source>Loopback point:</source>
-        <translation type="unfinished"/>
+        <translation>Herhaalpunt:</translation>
     </message>
     <message>
         <source>With this knob you can set the point where the loop starts. </source>
-        <translation>Met deze knop kan je het punt instellen waar de loop start.</translation>
+        <translation>Met deze knop kunt u het punt instellen waar de herhaling begint.</translation>
     </message>
 </context>
 <context>
     <name>AudioFileProcessorWaveView</name>
     <message>
         <source>Sample length:</source>
-        <translation>Sample lengte:</translation>
+        <translation>Sample-lengte:</translation>
     </message>
 </context>
 <context>
     <name>AudioJack</name>
     <message>
         <source>JACK client restarted</source>
-        <translation type="unfinished"/>
+        <translation>JACK-client opnieuw gestart</translation>
     </message>
     <message>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS werd er om een of andere reden door JACK afgegooid. Daarom werd de JACK-backend van LMMS opnieuw gestart. U zult manueel verbindingen opnieuw moeten maken.</translation>
     </message>
     <message>
         <source>JACK server down</source>
-        <translation type="unfinished"/>
+        <translation>JACK-server is offline</translation>
     </message>
     <message>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation type="unfinished"/>
+        <translation>De JACK-server lijkt afgesloten te zijn en het starten van een nieuwe instantie is mislukt. Daarom kan LMMS niet doorgaan. U slaat best uw project op en herstart JACK en LMMS.</translation>
     </message>
     <message>
         <source>CLIENT-NAME</source>
@@ -253,7 +253,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     <name>AudioPortAudio::setupWidget</name>
     <message>
         <source>BACKEND</source>
-        <translation type="unfinished"/>
+        <translation>BACKEND</translation>
     </message>
     <message>
         <source>DEVICE</source>
@@ -293,7 +293,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     <name>AudioSoundIo::setupWidget</name>
     <message>
         <source>BACKEND</source>
-        <translation type="unfinished"/>
+        <translation>BACKEND</translation>
     </message>
     <message>
         <source>DEVICE</source>
@@ -308,15 +308,15 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>&amp;Copy value (%1%2)</source>
-        <translation>&amp;Kopieer waarde (%1%2)</translation>
+        <translation>Waarde &amp;kopiëren (%1%2)</translation>
     </message>
     <message>
         <source>&amp;Paste value (%1%2)</source>
-        <translation>&amp;Plak waarde (%1%2)</translation>
+        <translation>Waarde &amp;plakken (%1%2)</translation>
     </message>
     <message>
         <source>Edit song-global automation</source>
-        <translation type="unfinished"/>
+        <translation>Song-globale automatisering bewerken</translation>
     </message>
     <message>
         <source>Connected to %1</source>
@@ -324,15 +324,15 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Connected to controller</source>
-        <translation type="unfinished"/>
+        <translation>Verbonden met controller</translation>
     </message>
     <message>
         <source>Edit connection...</source>
-        <translation>Bewerk verbinding...</translation>
+        <translation>Verbinding bewerken...</translation>
     </message>
     <message>
         <source>Remove connection</source>
-        <translation>Verwijder verbinding</translation>
+        <translation>Verbinding verwijderen</translation>
     </message>
     <message>
         <source>Connect to controller...</source>
@@ -340,22 +340,22 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Remove song-global automation</source>
-        <translation type="unfinished"/>
+        <translation>Song-globale automatisering verwijderen</translation>
     </message>
     <message>
         <source>Remove all linked controls</source>
-        <translation type="unfinished"/>
+        <translation>Alle gelinkte controls verwijderen</translation>
     </message>
 </context>
 <context>
     <name>AutomationEditor</name>
     <message>
         <source>Please open an automation pattern with the context menu of a control!</source>
-        <translation>Open aub een automatiseringspatroon met het contextmenu van een controller!</translation>
+        <translation>Open een automatiseringspatroon met het contextmenu van een control!</translation>
     </message>
     <message>
         <source>Values copied</source>
-        <translation>Gekopieerde waarden</translation>
+        <translation>Waarden gekopieerd</translation>
     </message>
     <message>
         <source>All selected values were copied to the clipboard.</source>
@@ -366,55 +366,55 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     <name>AutomationEditorWindow</name>
     <message>
         <source>Play/pause current pattern (Space)</source>
-        <translation>Huidige patroon afspelen/pauzeren (Spatie)</translation>
+        <translation>Huidig patroon afspelen/pauzeren (Spatie)</translation>
     </message>
     <message>
         <source>Click here if you want to play the current pattern. This is useful while editing it.  The pattern is automatically looped when the end is reached.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier als u het huidige patroon wilt afspelen. Dit is handig tijdens het bewerken. Het patroon wordt automatisch herhaald wanneer het einde bereikt wordt.</translation>
     </message>
     <message>
         <source>Stop playing of current pattern (Space)</source>
-        <translation>Afspelen huidige patroon stoppen (Spatie)</translation>
+        <translation>Stoppen met afspelen van huidig patroon (Spatie)</translation>
     </message>
     <message>
         <source>Click here if you want to stop playing of the current pattern.</source>
-        <translation>Klik hier om het afspelen van het huidige patroon te stoppen.</translation>
+        <translation>Klik hier als u het afspelen van het huidig patroon wilt stoppen.</translation>
     </message>
     <message>
         <source>Draw mode (Shift+D)</source>
-        <translation>Teken modus (Shift+D)</translation>
+        <translation>Tekenmodus (Shift+D)</translation>
     </message>
     <message>
         <source>Erase mode (Shift+E)</source>
-        <translation>Wis modus (Shift+E)</translation>
+        <translation>Wissen-modus (Shift+E)</translation>
     </message>
     <message>
         <source>Flip vertically</source>
-        <translation>Verticaal spiegelen</translation>
+        <translation>Verticaal omdraaien</translation>
     </message>
     <message>
         <source>Flip horizontally</source>
-        <translation>Horizontaal spiegelen</translation>
+        <translation>Horizontaal omdraaien</translation>
     </message>
     <message>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>
-        <translation type="unfinished"/>
+        <translation>Klik hier en het patroon zal geïnverteerd worden. De punten worden in de y-richting omgedraaid.</translation>
     </message>
     <message>
         <source>Click here and the pattern will be reversed. The points are flipped in the x direction.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier en het patroon zal omgedraaid worden. De punten worden in de x-richting omgedraaid.</translation>
     </message>
     <message>
         <source>Click here and draw-mode will be activated. In this mode you can add and move single values.  This is the default mode which is used most of the time.  You can also press &apos;Shift+D&apos; on your keyboard to activate this mode.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier en de tekenmodus zal ingeschakeld worden. In deze modus kunt u enkelvoudige waarden toevoegen en verplaatsen. Dit is de standaardmodus die het merendeel van de tijd gebruikt wordt. U kunt ook &apos;Shift+D&apos; drukken op uw toetsenbord om deze modus in te schakelen.</translation>
     </message>
     <message>
         <source>Click here and erase-mode will be activated. In this mode you can erase single values. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier en de verwijdermodus zal ingeschakeld worden. In deze modus kunt u enkelvoudige waarden verwijderen. U kunt ook &apos;Shift+E&apos; drukken op uw toetsenbord om deze modus in te schakelen.</translation>
     </message>
     <message>
         <source>Discrete progression</source>
-        <translation type="unfinished"/>
+        <translation>Discrete progressie</translation>
     </message>
     <message>
         <source>Linear progression</source>
@@ -422,47 +422,47 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Cubic Hermite progression</source>
-        <translation type="unfinished"/>
+        <translation>Kubische Hermite-progressie</translation>
     </message>
     <message>
         <source>Tension value for spline</source>
-        <translation type="unfinished"/>
+        <translation>Spanningswaarde voor spline</translation>
     </message>
     <message>
         <source>A higher tension value may make a smoother curve but overshoot some values. A low tension value will cause the slope of the curve to level off at each control point.</source>
-        <translation type="unfinished"/>
+        <translation>Een hogere spanningswaarde kan een vlakkere curve maken maar een aantal waarden overschrijden. Een lage spanningswaarde zal de helling van de curve laten afvlakken bij elk controlepunt.</translation>
     </message>
     <message>
         <source>Click here to choose discrete progressions for this automation pattern.  The value of the connected object will remain constant between control points and be set immediately to the new value when each control point is reached.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om discrete progressies te kiezen voor dit automatiseringspatroon. De waarde van het verbonden object zal constant blijven tussen controlepunten en onmiddellijk ingesteld worden op de nieuwe waarde wanneer elk controlepunt bereikt wordt.</translation>
     </message>
     <message>
         <source>Click here to choose linear progressions for this automation pattern.  The value of the connected object will change at a steady rate over time between control points to reach the correct value at each control point without a sudden change.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om lineaire progressies te kiezen voor dit automatiseringspatroon. De waarde van het verbonden object zal gestaag over de tijd veranderen tussen controlepunten om de correcte waarde op elk controlepunt te bereiken zonder plotselinge verandering.</translation>
     </message>
     <message>
         <source>Click here to choose cubic hermite progressions for this automation pattern.  The value of the connected object will change in a smooth curve and ease in to the peaks and valleys.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om kubische hermite-progressies te kiezen voor dit automatiseringspatroon. De waarde van het verbonden object zal wijzigen in een gladde curve en in de pieken en dalen bewegen.</translation>
     </message>
     <message>
         <source>Cut selected values (%1+X)</source>
-        <translation>Knip geselecteerde waardes (%1+X)</translation>
+        <translation>Geselecteerde waardes knippen (%1+X)</translation>
     </message>
     <message>
         <source>Copy selected values (%1+C)</source>
-        <translation>Kopieer geselecteerde waardes (%1+C)</translation>
+        <translation>Geselecteerde waardes kopiëren (%1+C)</translation>
     </message>
     <message>
         <source>Paste values from clipboard (%1+V)</source>
-        <translation>Plak waarden van het klembord (%1+V)</translation>
+        <translation>Waardes van het klembord plakken (%1+V)</translation>
     </message>
     <message>
         <source>Click here and selected values will be cut into the clipboard.  You can paste them anywhere in any pattern by clicking on the paste button.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier en de geselecteerde waarden zullen geplakt worden naar het klembord. U kunt ze overal in om het even welk patroon plakken door te klikken op de &quot;plakken&quot;-knop.</translation>
     </message>
     <message>
         <source>Click here and selected values will be copied into the clipboard.  You can paste them anywhere in any pattern by clicking on the paste button.</source>
-        <translation>Klik hier en geselecteerde waarden zullen naar het klembord worden gekopieerd. U kunt ze overal plakken in een patroon door te klikken op de &apos;plakken&apos; knop.</translation>
+        <translation>Klik hier en geselecteerde waarden zullen gekopieerd worden naar het klembord.  U kunt ze overal in om het even welk patroon plakken door te klikken op de &apos;plakken&apos;-knop.</translation>
     </message>
     <message>
         <source>Click here and the values from the clipboard will be pasted at the first visible measure.</source>
@@ -470,61 +470,61 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Tension: </source>
-        <translation type="unfinished"/>
+        <translation>Spanning:</translation>
     </message>
     <message>
         <source>Automation Editor - no pattern</source>
-        <translation>Automatisatie-editor - geen patroon</translation>
+        <translation>Automatisering-editor - geen patroon</translation>
     </message>
     <message>
         <source>Automation Editor - %1</source>
-        <translation>Automatisatie-editor - %1</translation>
+        <translation>Automatisering-editor - %1</translation>
     </message>
     <message>
         <source>Edit actions</source>
-        <translation>Bewerk acties</translation>
+        <translation>Acties bewerken</translation>
     </message>
     <message>
         <source>Interpolation controls</source>
-        <translation>Interpolatie besturingen</translation>
+        <translation>Interpolatiebediening</translation>
     </message>
     <message>
         <source>Timeline controls</source>
-        <translation>Tijdslijn besturingen</translation>
+        <translation>Tijdlijnbediening</translation>
     </message>
     <message>
         <source>Zoom controls</source>
-        <translation>Zoom besturingen</translation>
+        <translation>Zoombediening</translation>
     </message>
     <message>
         <source>Quantization controls</source>
-        <translation type="unfinished"/>
+        <translation>Kwantisatiebediening</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation>Model is reeds verbonden met dit patroon</translation>
+        <translation>Model is reeds verbonden met dit patroon.</translation>
     </message>
 </context>
 <context>
     <name>AutomationPattern</name>
     <message>
         <source>Drag a control while pressing &lt;%1&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Sleep een bediening tijdens indrukken van &lt;%1&gt;</translation>
     </message>
 </context>
 <context>
     <name>AutomationPatternView</name>
     <message>
         <source>double-click to open this pattern in automation editor</source>
-        <translation type="unfinished"/>
+        <translation>dubbelklikken om dit patroon te openen in automatisering-editor</translation>
     </message>
     <message>
         <source>Open in Automation editor</source>
-        <translation type="unfinished"/>
+        <translation>Openen in automatisering-editor</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Wissen</translation>
     </message>
     <message>
         <source>Reset name</source>
@@ -532,45 +532,45 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Change name</source>
-        <translation>Naam veranderen</translation>
+        <translation>Naam wijzigen</translation>
     </message>
     <message>
         <source>%1 Connections</source>
-        <translation>%1 Verbindingen</translation>
+        <translation>%1 verbindingen</translation>
     </message>
     <message>
         <source>Disconnect &quot;%1&quot;</source>
-        <translation>Verbreek verbinding met &quot;%1&quot;</translation>
+        <translation>Verbinding verbreken met &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Set/clear record</source>
-        <translation type="unfinished"/>
+        <translation>Opnemen instellen/wissen</translation>
     </message>
     <message>
         <source>Flip Vertically (Visible)</source>
-        <translation>Verticaal Spiegelen (Zichtbaar)</translation>
+        <translation>Verticaal omdraaien (zichtbaar)</translation>
     </message>
     <message>
         <source>Flip Horizontally (Visible)</source>
-        <translation>Horizontaal Spiegelen (Zichtbaar)</translation>
+        <translation>Horizontaal omdraaien (zichtbaar)</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation>Model is reeds verbonden met dit patroon</translation>
+        <translation>Model is reeds verbonden met dit patroon.</translation>
     </message>
 </context>
 <context>
     <name>AutomationTrack</name>
     <message>
         <source>Automation track</source>
-        <translation>Automation track</translation>
+        <translation>Automatisering-track</translation>
     </message>
 </context>
 <context>
     <name>BBEditor</name>
     <message>
         <source>Beat+Bassline Editor</source>
-        <translation>Beat+Baslijn Editor</translation>
+        <translation>Beat- en baslijn-editor</translation>
     </message>
     <message>
         <source>Play/pause current beat/bassline (Space)</source>
@@ -582,50 +582,50 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Click here to play the current beat/bassline.  The beat/bassline is automatically looped when its end is reached.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om de huidige beat/baslijn af te spelen. De beat/baslijn wordt automatisch herhaald wanneer het einde bereikt wordt.</translation>
     </message>
     <message>
         <source>Click here to stop playing of current beat/bassline.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om het afspelen van de huidige beat/baslijn te stoppen.</translation>
     </message>
     <message>
         <source>Add beat/bassline</source>
-        <translation>Beat/Baslijn toevoegen</translation>
+        <translation>Beat/baslijn toevoegen</translation>
     </message>
     <message>
         <source>Add automation-track</source>
-        <translation>Automation track toevoegen</translation>
+        <translation>Automatisering-track toevoegen</translation>
     </message>
     <message>
         <source>Remove steps</source>
-        <translation type="unfinished"/>
+        <translation>Stappen verwijderen</translation>
     </message>
     <message>
         <source>Add steps</source>
-        <translation type="unfinished"/>
+        <translation>Stappen toevoegen</translation>
     </message>
     <message>
         <source>Beat selector</source>
-        <translation type="unfinished"/>
+        <translation>Beat-selector</translation>
     </message>
     <message>
         <source>Track and step actions</source>
-        <translation type="unfinished"/>
+        <translation>Track- en stap-acties</translation>
     </message>
     <message>
         <source>Clone Steps</source>
-        <translation>Stappen Klonen</translation>
+        <translation>Stappen klonen</translation>
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Sample-track toevoegen</translation>
     </message>
 </context>
 <context>
     <name>BBTCOView</name>
     <message>
         <source>Open in Beat+Bassline-Editor</source>
-        <translation>In Beat+Bassline-Editor openen</translation>
+        <translation>In beat- en baslijn-editor openen</translation>
     </message>
     <message>
         <source>Reset name</source>
@@ -633,7 +633,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Change name</source>
-        <translation>Naam veranderen</translation>
+        <translation>Naam wijzigen</translation>
     </message>
     <message>
         <source>Change color</source>
@@ -648,7 +648,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     <name>BBTrack</name>
     <message>
         <source>Beat/Bassline %1</source>
-        <translation>Beat/Baslijn %1</translation>
+        <translation>Beat/baslijn %1</translation>
     </message>
     <message>
         <source>Clone of %1</source>
@@ -667,11 +667,11 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>GAIN</translation>
     </message>
     <message>
         <source>Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Gain:</translation>
     </message>
     <message>
         <source>RATIO</source>
@@ -690,7 +690,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Gain</translation>
     </message>
     <message>
         <source>Ratio</source>
@@ -709,75 +709,75 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>GAIN</translation>
     </message>
     <message>
         <source>Input Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Invoer-gain:</translation>
     </message>
     <message>
         <source>NOIS</source>
-        <translation type="unfinished"/>
+        <translation>NOIS</translation>
     </message>
     <message>
         <source>Input Noise:</source>
-        <translation type="unfinished"/>
+        <translation>Invoer-ruis:</translation>
     </message>
     <message>
         <source>Output Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Uitvoer-gain:</translation>
     </message>
     <message>
         <source>CLIP</source>
-        <translation type="unfinished"/>
+        <translation>CLIP</translation>
     </message>
     <message>
         <source>Output Clip:</source>
-        <translation type="unfinished"/>
+        <translation>Uitvoer-clip:</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Ratio</translation>
     </message>
     <message>
         <source>Rate Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Ratio ingeschakeld</translation>
     </message>
     <message>
         <source>Enable samplerate-crushing</source>
-        <translation type="unfinished"/>
+        <translation>Samplerate-crushing inschakelen</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"/>
+        <translation>Diepte</translation>
     </message>
     <message>
         <source>Depth Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Diepte ingeschakeld</translation>
     </message>
     <message>
         <source>Enable bitdepth-crushing</source>
-        <translation type="unfinished"/>
+        <translation>Bitdiepte-crushing inschakelen</translation>
     </message>
     <message>
         <source>Sample rate:</source>
-        <translation type="unfinished"/>
+        <translation>Samplerate:</translation>
     </message>
     <message>
         <source>STD</source>
-        <translation type="unfinished"/>
+        <translation>STD</translation>
     </message>
     <message>
         <source>Stereo difference:</source>
-        <translation>Stereo verschil:</translation>
+        <translation>Stereo-verschil:</translation>
     </message>
     <message>
         <source>Levels</source>
-        <translation type="unfinished"/>
+        <translation>Niveaus</translation>
     </message>
     <message>
         <source>Levels:</source>
-        <translation type="unfinished"/>
+        <translation>Niveaus </translation>
     </message>
 </context>
 <context>
@@ -795,7 +795,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     <name>CarlaInstrumentView</name>
     <message>
         <source>Show GUI</source>
-        <translation>Toon GUI</translation>
+        <translation>GUI weergeven</translation>
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of Carla.</source>
@@ -1028,7 +1028,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Ratio</translation>
     </message>
     <message>
         <source>Lfo</source>
@@ -1040,7 +1040,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Gain</translation>
     </message>
 </context>
 <context>
@@ -1079,11 +1079,11 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>GAIN</translation>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Gain</translation>
     </message>
     <message>
         <source>MIX</source>
@@ -1840,7 +1840,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Gain</translation>
     </message>
     <message>
         <source>Out Gain</source>
@@ -1902,7 +1902,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <name>ExportProjectDialog</name>
     <message>
         <source>Export project</source>
-        <translation type="unfinished"/>
+        <translation>Exporteer project</translation>
     </message>
     <message>
         <source>Output</source>
@@ -2034,11 +2034,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Export as loop (remove end silence)</source>
-        <translation type="unfinished"/>
+        <translation>Exporteer als loop (verwijder stiltle aan einde)</translation>
     </message>
     <message>
         <source>Export between loop markers</source>
-        <translation type="unfinished"/>
+        <translation>Exporteer tussen loop markers</translation>
     </message>
     <message>
         <source>Could not open file</source>
@@ -2051,7 +2051,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Export project to %1</source>
-        <translation type="unfinished"/>
+        <translation>Exporteer project naar %1</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2084,7 +2084,7 @@ Please make sure you have write-permission to the file and the directory contain
     <name>FileBrowserTreeWidget</name>
     <message>
         <source>Send to active instrument-track</source>
-        <translation type="unfinished"/>
+        <translation>Verzend naar actieve instrument-track</translation>
     </message>
     <message>
         <source>Open in new instrument-track/B+B Editor</source>
@@ -2197,7 +2197,7 @@ Please make sure you have write-permission to the file and the directory contain
     <name>FxLine</name>
     <message>
         <source>Channel send amount</source>
-        <translation type="unfinished"/>
+        <translation>Hoeveelheid van verzenden van kanaal</translation>
     </message>
     <message>
         <source>The FX channel receives input from one or more instrument tracks.
@@ -2244,18 +2244,18 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>FX %1</source>
-        <translation type="unfinished"/>
+        <translation>FX %1</translation>
     </message>
 </context>
 <context>
     <name>FxMixerView</name>
     <message>
         <source>FX-Mixer</source>
-        <translation type="unfinished"/>
+        <translation>FX-Mixer</translation>
     </message>
     <message>
         <source>FX Fader %1</source>
-        <translation type="unfinished"/>
+        <translation>FX Fader %1</translation>
     </message>
     <message>
         <source>Mute</source>
@@ -2263,7 +2263,7 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>Mute this FX channel</source>
-        <translation type="unfinished"/>
+        <translation>Dit FX kanaal dempen</translation>
     </message>
     <message>
         <source>Solo</source>
@@ -2271,14 +2271,14 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>Solo FX channel</source>
-        <translation type="unfinished"/>
+        <translation>Solo FX kanaal</translation>
     </message>
 </context>
 <context>
     <name>FxRoute</name>
     <message>
         <source>Amount to send from channel %1 to channel %2</source>
-        <translation type="unfinished"/>
+        <translation>Hoeveelheid van vanzenden van kanaal %1 naar kanaal %2</translation>
     </message>
 </context>
 <context>
@@ -2293,7 +2293,7 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Gain</translation>
     </message>
 </context>
 <context>
@@ -2328,7 +2328,7 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Gain</translation>
     </message>
     <message>
         <source>Factor to multiply samples by</source>
@@ -3018,7 +3018,7 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>MIDI devices to send MIDI events to</source>
-        <translation type="unfinished"/>
+        <translation>MIDI apparaten waartoe MIDI events worden verzonden</translation>
     </message>
     <message>
         <source>NOTE</source>
@@ -3191,7 +3191,7 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>Here you can select the built-in filter you want to use for this instrument-track. Filters are very important for changing the characteristics of a sound.</source>
-        <translation type="unfinished"/>
+        <translation>Hier kan je een ingebouwd filter selecteren die je wilt gebruiken voor deze instrument-track. Filters zijn zeer belangrijk voor het veranderen van het karakter van een geluid.</translation>
     </message>
     <message>
         <source>Hz</source>
@@ -3246,7 +3246,7 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>FX channel</source>
-        <translation type="unfinished"/>
+        <translation>FX kanaal</translation>
     </message>
     <message>
         <source>Default preset</source>
@@ -3309,7 +3309,7 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>FX %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>FX %1: %2</translation>
     </message>
 </context>
 <context>
@@ -3360,7 +3360,7 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>FX channel</source>
-        <translation type="unfinished"/>
+        <translation>FX kanaal</translation>
     </message>
     <message>
         <source>ENV/LFO</source>
@@ -3372,7 +3372,7 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>FX</source>
-        <translation type="unfinished"/>
+        <translation>FX</translation>
     </message>
     <message>
         <source>MIDI</source>
@@ -3679,7 +3679,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Import...</source>
-        <translation type="unfinished"/>
+        <translation>Importeer...</translation>
     </message>
     <message>
         <source>E&amp;xport...</source>
@@ -3739,7 +3739,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Export current project</source>
-        <translation type="unfinished"/>
+        <translation>Exporteer huidig project</translation>
     </message>
     <message>
         <source>Song Editor</source>
@@ -3747,7 +3747,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>By pressing this button, you can show or hide the Song-Editor. With the help of the Song-Editor you can edit song-playlist and specify when which track should be played. You can also insert and move samples (e.g. rap samples) directly into the playlist.</source>
-        <translation type="unfinished"/>
+        <translation>Door deze knop te klikken kan je de Lied-Bewerker tonen of verbergen. Met behulp van de Lied-Bewerker kan je de liedafspeellijst bewerken en aangeven wanneer de track moet worden afgespeeld. Je kan ook direct samples (bijv. rap samples) toevoegen aan de afspeellijst.</translation>
     </message>
     <message>
         <source>Beat+Bassline Editor</source>
@@ -3775,7 +3775,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>FX Mixer</source>
-        <translation type="unfinished"/>
+        <translation>FX Mixer</translation>
     </message>
     <message>
         <source>Click here to show or hide the FX Mixer. The FX Mixer is a very powerful tool for managing effects for your song. You can insert effects into different effect-channels.</source>
@@ -3956,7 +3956,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Export &amp;MIDI...</source>
-        <translation type="unfinished"/>
+        <translation>Exporteer &amp;MIDI...</translation>
     </message>
     <message>
         <source>&amp;View</source>
@@ -3984,7 +3984,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Show/hide FX Mixer</source>
-        <translation type="unfinished"/>
+        <translation>Toon/verberg FX Mixer</translation>
     </message>
     <message>
         <source>Show/hide project notes</source>
@@ -4084,7 +4084,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>You do not have set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Je hebt geen standaard soundfont ingesteld in de instellingen (Bewerk -&gt; Intstellingen). Hierdoor wordt er geen geluid afgespeeld na het importeren van dit MIDI bestand. Download een General MIDI soundfont, selecteer deze in de instellingen probeer opnieuw.</translation>
     </message>
     <message>
         <source>You did not compile LMMS with support for SoundFont2 player, which is used to add default sound to imported MIDI files. Therefore no sound will be played back after importing this MIDI file.</source>
@@ -4093,6 +4093,19 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Track</source>
         <translation>Spoor</translation>
+    </message>
+</context>
+<context>
+    <name>MidiJack</name>
+    <message>
+        <source>JACK server down</source>
+        <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (title)</extracomment>
+        <translation>JACK-server is offline</translation>
+    </message>
+    <message>
+        <source>The JACK server seems to be shuted down.</source>
+        <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4131,7 +4144,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Send MIDI-events</source>
-        <translation type="unfinished"/>
+        <translation>Verzend MIDI-events</translation>
     </message>
     <message>
         <source>Fixed output note</source>
@@ -4181,11 +4194,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Osc 1 Sync send on rise</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 Synchronisatie bij stijging</translation>
     </message>
     <message>
         <source>Osc 1 Sync send on fall</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 Synchronisatie bij daling</translation>
     </message>
     <message>
         <source>Osc 2 Volume</source>
@@ -4690,11 +4703,11 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
     </message>
     <message>
         <source>Send Sync on Rise: When enabled, the Sync signal is sent every time the state of oscillator 1 changes from low to high, ie. when the amplitude changes from -1 to 1. Oscillator 1&apos;s pitch, phase and pulse width may affect the timing of syncs, but its volume has no effect on them. Sync signals are sent independently for both left and right channels. </source>
-        <translation type="unfinished"/>
+        <translation>Verzend Synchronisatie bij Stijging: Indien ingeschakeld, wordt het signaal van Synchronisatie elke keer verzonden wanneer de staat van oscillator 1 verandert van laag naar hoog, bijv. wanneer de amplitude verandert van -1 naar 1.  De pitch, phase en pulse van Oscillator 1 kan de timing van synchronisaties beinvloeden, maar het volume ervan heeft geen invloed. Signalen van synchronisaties voor zowel linker- als rechterkanalen apart verzonden.</translation>
     </message>
     <message>
         <source>Send Sync on Fall: When enabled, the Sync signal is sent every time the state of oscillator 1 changes from high to low, ie. when the amplitude changes from 1 to -1. Oscillator 1&apos;s pitch, phase and pulse width may affect the timing of syncs, but its volume has no effect on them. Sync signals are sent independently for both left and right channels. </source>
-        <translation type="unfinished"/>
+        <translation>Verzend Synchronisatie bij Daling: Indien ingeschakeld, wordt het signaal van Synchronisatie elke keer verzonden wanneer de staat van oscillator 1 verandert van hoog naar laag, bijv. wanneer de amplitude verandert van 1 naar -1.  De pitch, phase en pulse van Oscillator 1 kan de timing van synchronisaties beinvloeden, maar het volume ervan heeft geen invloed. Signalen van synchronisaties voor zowel linker- als rechterkanalen apart verzonden.</translation>
     </message>
     <message>
         <source>Hard sync: Every time the oscillator receives a sync signal from oscillator 1, its phase is reset to 0 + whatever its phase offset is. </source>
@@ -4839,11 +4852,11 @@ PM betekent phase modulatie: de phase van oscillator 3 wordt gemoduleerd door os
     </message>
     <message>
         <source>Send sync on pulse rise</source>
-        <translation type="unfinished"/>
+        <translation>Verzend synchronisatie bij stijging van pulse</translation>
     </message>
     <message>
         <source>Send sync on pulse fall</source>
-        <translation type="unfinished"/>
+        <translation>Verzend synchronisatie bij daling van pulse</translation>
     </message>
     <message>
         <source>Hard sync oscillator 2</source>
@@ -4871,7 +4884,7 @@ PM betekent phase modulatie: de phase van oscillator 3 wordt gemoduleerd door os
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Ratio</translation>
     </message>
     <message>
         <source>Phase</source>
@@ -5288,11 +5301,11 @@ PM betekent phase modulatie: de phase van oscillator 3 wordt gemoduleerd door os
     </message>
     <message>
         <source>Add steps</source>
-        <translation type="unfinished"/>
+        <translation>Stappen toevoegen</translation>
     </message>
     <message>
         <source>Remove steps</source>
-        <translation type="unfinished"/>
+        <translation>Stappen verwijderen</translation>
     </message>
     <message>
         <source>use mouse wheel to set velocity of a step</source>
@@ -5526,7 +5539,7 @@ PM betekent phase modulatie: de phase van oscillator 3 wordt gemoduleerd door os
     </message>
     <message>
         <source>Click here to stop playback of current pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om het afspelen van het huidige patroon te stoppen.</translation>
     </message>
     <message>
         <source>Draw mode (Shift+D)</source>
@@ -6043,7 +6056,7 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Sync VST plugins to host playback</source>
-        <translation type="unfinished"/>
+        <translation>Synchroniseer VST plugins met playback van host</translation>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
@@ -6087,7 +6100,7 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Default Soundfont File</source>
-        <translation type="unfinished"/>
+        <translation>Standaard Soundfont Bestand</translation>
     </message>
     <message>
         <source>Performance settings</source>
@@ -6172,7 +6185,7 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Choose default SoundFont</source>
-        <translation type="unfinished"/>
+        <translation>Kies standaard SoundFont</translation>
     </message>
     <message>
         <source>Choose background artwork</source>
@@ -6204,7 +6217,7 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>SF2 directory</source>
-        <translation type="unfinished"/>
+        <translation>SF2 map</translation>
     </message>
     <message>
         <source>LADSPA plugin directories</source>
@@ -6220,7 +6233,7 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Choose your SF2 directory</source>
-        <translation type="unfinished"/>
+        <translation>Kies je SF2 map</translation>
     </message>
     <message>
         <source>minutes</source>
@@ -6272,7 +6285,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Import file</source>
-        <translation type="unfinished"/>
+        <translation>Importeer bestand</translation>
     </message>
     <message>
         <source>MIDI sequences</source>
@@ -6292,11 +6305,11 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>This project is empty so exporting makes no sense. Please put some items into Song Editor first!</source>
-        <translation type="unfinished"/>
+        <translation>Dit project is leeg, dus exporteren heeft geen zin. Graag eerst wat items in de Lied-Bewerker zetten!</translation>
     </message>
     <message>
         <source>Select directory for writing exported tracks...</source>
-        <translation type="unfinished"/>
+        <translation>Selecteer map voor exporteren van tracks...</translation>
     </message>
     <message>
         <source>untitled</source>
@@ -6304,7 +6317,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Select file for project-export...</source>
-        <translation type="unfinished"/>
+        <translation>Selecteer bestand voor project-export...</translation>
     </message>
     <message>
         <source>The following errors occured while loading: </source>
@@ -6435,7 +6448,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Sample-track toevoegen</translation>
     </message>
     <message>
         <source>Add automation-track</source>
@@ -6803,7 +6816,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>FX %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>FX %1: %2</translation>
     </message>
     <message>
         <source>Turn all recording on</source>
@@ -6815,7 +6828,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Assign to new FX Channel</source>
-        <translation type="unfinished"/>
+        <translation>Aan nieuw FX Kanaal toewijzen</translation>
     </message>
 </context>
 <context>
@@ -7024,7 +7037,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Click here, if you want to open another *.fxp, *.fxb VST-plugin preset.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om een ander *.fxp, *.fxb VST-plugin preset te openen.</translation>
     </message>
     <message>
         <source>Previous (-)</source>
@@ -7094,7 +7107,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Click here, if you want to open another *.fxp, *.fxb VST-plugin preset.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om een ander *.fxp, *.fxb VST-plugin preset te openen.</translation>
     </message>
     <message>
         <source>Previous (-)</source>
@@ -7141,7 +7154,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Vst Plugin Preset (*.fxp *.fxb)</source>
-        <translation type="unfinished"/>
+        <translation>Vst Plugin Preset (*.fxp *.fxb)</translation>
     </message>
     <message>
         <source>: default</source>
@@ -7161,19 +7174,19 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>.fxp</source>
-        <translation type="unfinished"/>
+        <translation>.fxp</translation>
     </message>
     <message>
         <source>.FXP</source>
-        <translation type="unfinished"/>
+        <translation>.FXP</translation>
     </message>
     <message>
         <source>.FXB</source>
-        <translation type="unfinished"/>
+        <translation>.FXB</translation>
     </message>
     <message>
         <source>.fxb</source>
-        <translation type="unfinished"/>
+        <translation>.fxb</translation>
     </message>
     <message>
         <source>Please wait while loading VST plugin...</source>
@@ -7525,7 +7538,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of ZynAddSubFX.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hier om de grafische gebruikersinterface (GUI) van ZynAddSubFX te tonen of te verbergen.</translation>
     </message>
     <message>
         <source>Portamento:</source>
@@ -7843,7 +7856,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>New FX Channel</source>
-        <translation type="unfinished"/>
+        <translation>Nieuw FX Kanaal</translation>
     </message>
 </context>
 <context>
@@ -7865,7 +7878,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Gain</translation>
     </message>
     <message>
         <source>Length</source>
@@ -7916,7 +7929,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Gain</translation>
     </message>
     <message>
         <source>Frequency Slope:</source>
@@ -8025,7 +8038,7 @@ Dubbelklik een van de plugins om informatie te tonen over de ports.</translation
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Ratio</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -9112,7 +9125,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Player for SoundFont files</source>
-        <translation type="unfinished"/>
+        <translation>Speler voor SoundFont Bestanden</translation>
     </message>
     <message>
         <source>Emulation of GameBoy (TM) APU</source>
@@ -9124,7 +9137,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Embedded ZynAddSubFX</source>
-        <translation type="unfinished"/>
+        <translation>Ingebed ZynAddSubFX</translation>
     </message>
     <message>
         <source>2-operator FM Synth</source>
@@ -9132,7 +9145,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Filter for importing Hydrogen files into LMMS</source>
-        <translation type="unfinished"/>
+        <translation>Filter voor importeren van Hydrogen bestanden in LMMS</translation>
     </message>
     <message>
         <source>LMMS port of sfxr</source>
@@ -9228,7 +9241,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
-        <translation type="unfinished"/>
+        <translation>Filter voor exporteren van MIDI-bestanden van LMMS</translation>
     </message>
 </context>
 <context>
@@ -9243,7 +9256,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Gain</translation>
     </message>
     <message>
         <source>Reverb</source>
@@ -9287,14 +9300,14 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>A soundfont %1 could not be loaded.</source>
-        <translation type="unfinished"/>
+        <translation>Een soundfont &amp;1 kon niet worden geladen.</translation>
     </message>
 </context>
 <context>
     <name>sf2InstrumentView</name>
     <message>
         <source>Open other SoundFont file</source>
-        <translation type="unfinished"/>
+        <translation>Open ander SoundFont bestand</translation>
     </message>
     <message>
         <source>Click here to open another SF2 file</source>
@@ -9306,7 +9319,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Gain</translation>
     </message>
     <message>
         <source>Apply reverb (if supported)</source>
@@ -9358,11 +9371,11 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Open SoundFont file</source>
-        <translation type="unfinished"/>
+        <translation>Open SoundFont bestand</translation>
     </message>
     <message>
         <source>SoundFont2 Files (*.sf2)</source>
-        <translation type="unfinished"/>
+        <translation>SoundFont2 Bestanden (*.sf2)</translation>
     </message>
 </context>
 <context>

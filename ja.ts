@@ -217,7 +217,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS は何らかの理由で JACK からキックされました。そのため、LMMS の JACKバックエンドが再起動されています。あなたは、手動で接続しなおす必要があります。</translation>
     </message>
     <message>
         <source>JACK server down</source>
@@ -225,7 +225,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation type="unfinished"/>
+        <translation>JACK サーバーがシャットダウンし、新しいインスタンスの開始に失敗したようです。そのため、LMMS は続行できません。あなたはプロジェクトを保存し、JACK と LMMS を再起動する必要があります。</translation>
     </message>
     <message>
         <source>CLIENT-NAME</source>
@@ -251,7 +251,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AudioPortAudio::setupWidget</name>
     <message>
         <source>BACKEND</source>
-        <translation type="unfinished"/>
+        <translation>バックエンド</translation>
     </message>
     <message>
         <source>DEVICE</source>
@@ -291,7 +291,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AudioSoundIo::setupWidget</name>
     <message>
         <source>BACKEND</source>
-        <translation type="unfinished"/>
+        <translation>バックエンド</translation>
     </message>
     <message>
         <source>DEVICE</source>
@@ -368,7 +368,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Click here if you want to play the current pattern. This is useful while editing it.  The pattern is automatically looped when the end is reached.</source>
-        <translation type="unfinished"/>
+        <translation>クリックすると現在のパターンを再生します。これはパターン編集中に便利です。終了位置にくるとパターンは自動的にループされます。</translation>
     </message>
     <message>
         <source>Stop playing of current pattern (Space)</source>
@@ -388,19 +388,19 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Flip vertically</source>
-        <translation type="unfinished"/>
+        <translation>垂直フリップ</translation>
     </message>
     <message>
         <source>Flip horizontally</source>
-        <translation type="unfinished"/>
+        <translation>水平フリップ</translation>
     </message>
     <message>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>
-        <translation type="unfinished"/>
+        <translation>ここをクリックすると、パターンが反転されます。y 方向に反転されます。</translation>
     </message>
     <message>
         <source>Click here and the pattern will be reversed. The points are flipped in the x direction.</source>
-        <translation type="unfinished"/>
+        <translation>ここをクリックすると、パターンが反転されます。x 方向に反転されます。</translation>
     </message>
     <message>
         <source>Click here and draw-mode will be activated. In this mode you can add and move single values.  This is the default mode which is used most of the time.  You can also press &apos;Shift+D&apos; on your keyboard to activate this mode.</source>
@@ -456,15 +456,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Click here and selected values will be cut into the clipboard.  You can paste them anywhere in any pattern by clicking on the paste button.</source>
-        <translation type="unfinished"/>
+        <translation>クリックすると選択した値をクリップボードにカットします。その値はペーストボタンを押すと任意のパターンの任意の場所にペーストできます。</translation>
     </message>
     <message>
         <source>Click here and selected values will be copied into the clipboard.  You can paste them anywhere in any pattern by clicking on the paste button.</source>
-        <translation type="unfinished"/>
+        <translation>クリックすると選択した値をクリップボードにコピーします。その値はペーストボタンを押すと任意のパターンの任意の場所にペーストできます。</translation>
     </message>
     <message>
         <source>Click here and the values from the clipboard will be pasted at the first visible measure.</source>
-        <translation type="unfinished"/>
+        <translation>クリックするとクリップボードの値が、最初の可視小節にペーストされます。</translation>
     </message>
     <message>
         <source>Tension: </source>
@@ -484,23 +484,23 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Interpolation controls</source>
-        <translation type="unfinished"/>
+        <translation>補間コントロール</translation>
     </message>
     <message>
         <source>Timeline controls</source>
-        <translation type="unfinished"/>
+        <translation>タイムライン コントロール</translation>
     </message>
     <message>
         <source>Zoom controls</source>
-        <translation type="unfinished"/>
+        <translation>ズーム コントロール</translation>
     </message>
     <message>
         <source>Quantization controls</source>
-        <translation type="unfinished"/>
+        <translation>クオンタイゼーション コントロール</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>モデルは、すでにこのパターンに接続されています。</translation>
     </message>
 </context>
 <context>
@@ -514,7 +514,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AutomationPatternView</name>
     <message>
         <source>double-click to open this pattern in automation editor</source>
-        <translation type="unfinished"/>
+        <translation>オートメーション エディタでこのパターンを開くにはダブルクリックしてください</translation>
     </message>
     <message>
         <source>Open in Automation editor</source>
@@ -542,7 +542,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Set/clear record</source>
-        <translation type="unfinished"/>
+        <translation>録音をセット/クリア</translation>
     </message>
     <message>
         <source>Flip Vertically (Visible)</source>
@@ -554,7 +554,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>モデルは、すでにこのパターンに接続されています。</translation>
     </message>
 </context>
 <context>
@@ -572,19 +572,19 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Play/pause current beat/bassline (Space)</source>
-        <translation type="unfinished"/>
+        <translation>現在のビート/ベースラインの再生/一時停止 (Space)</translation>
     </message>
     <message>
         <source>Stop playback of current beat/bassline (Space)</source>
-        <translation type="unfinished"/>
+        <translation>現在のビート/ベースラインの再生を停止 (Space)</translation>
     </message>
     <message>
         <source>Click here to play the current beat/bassline.  The beat/bassline is automatically looped when its end is reached.</source>
-        <translation type="unfinished"/>
+        <translation>現在のビート/ベースラインを再生するには、ここをクリックしてください。終了位置にくるとビート/ベースラインは自動的にループされます。</translation>
     </message>
     <message>
         <source>Click here to stop playing of current beat/bassline.</source>
-        <translation type="unfinished"/>
+        <translation>現在のビート/ベースラインの再生を停止するには、ここをクリックしてください。</translation>
     </message>
     <message>
         <source>Add beat/bassline</source>
@@ -592,7 +592,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>オートメーション トラックを追加</translation>
     </message>
     <message>
         <source>Remove steps</source>
@@ -612,7 +612,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>ステップを複製</translation>
     </message>
     <message>
         <source>Add sample-track</source>
@@ -735,7 +735,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>レート</translation>
     </message>
     <message>
         <source>Rate Enabled</source>
@@ -815,7 +815,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>MIDI CONTROLLER</source>
-        <translation type="unfinished"/>
+        <translation>MIDI コントローラ</translation>
     </message>
     <message>
         <source>Input channel</source>
@@ -839,15 +839,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>MIDI-devices to receive MIDI-events from</source>
-        <translation type="unfinished"/>
+        <translation>MIDI イベントを受信するための MIDI デバイス</translation>
     </message>
     <message>
         <source>USER CONTROLLER</source>
-        <translation type="unfinished"/>
+        <translation>ユーザー コントローラー</translation>
     </message>
     <message>
         <source>MAPPING FUNCTION</source>
-        <translation type="unfinished"/>
+        <translation>マッピング機能</translation>
     </message>
     <message>
         <source>OK</source>
@@ -870,7 +870,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>ControllerRackView</name>
     <message>
         <source>Controller Rack</source>
-        <translation>コントローラートラック</translation>
+        <translation>コントローラー ラック</translation>
     </message>
     <message>
         <source>Add</source>
@@ -882,7 +882,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Confirm delete? There are existing connection(s) associated with this controller. There is no way to undo.</source>
-        <translation type="unfinished"/>
+        <translation>削除してもよいですか？ このコントローラーに関連付けられた接続があります。削除すると元に戻す方法はありません。</translation>
     </message>
 </context>
 <context>
@@ -905,15 +905,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>&amp;Remove this controller</source>
-        <translation type="unfinished"/>
+        <translation>このコントローラーを取り外す (&amp;R)</translation>
     </message>
     <message>
         <source>Re&amp;name this controller</source>
-        <translation type="unfinished"/>
+        <translation>このコントローラー名を変更 (&amp;n)</translation>
     </message>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
 </context>
 <context>
@@ -991,11 +991,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Lfo Frequency</source>
-        <translation type="unfinished"/>
+        <translation>LFO 周波数</translation>
     </message>
     <message>
         <source>Lfo Amount</source>
-        <translation type="unfinished"/>
+        <translation>LFO 量</translation>
     </message>
     <message>
         <source>Output gain</source>
@@ -1010,11 +1010,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Lfo Amt</source>
-        <translation type="unfinished"/>
+        <translation>LFO 量</translation>
     </message>
     <message>
         <source>Delay Time</source>
-        <translation type="unfinished"/>
+        <translation>ディレイ タイム</translation>
     </message>
     <message>
         <source>Regen</source>
@@ -1022,11 +1022,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Feedback Amount</source>
-        <translation type="unfinished"/>
+        <translation>フィードバック量</translation>
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>レート</translation>
     </message>
     <message>
         <source>Lfo</source>
@@ -1034,7 +1034,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Out Gain</source>
-        <translation type="unfinished"/>
+        <translation>出力ゲイン</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1085,7 +1085,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>MIX</source>
-        <translation type="unfinished"/>
+        <translation>ミックス</translation>
     </message>
     <message>
         <source>Mix</source>
@@ -1842,7 +1842,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Out Gain</source>
-        <translation type="unfinished"/>
+        <translation>出力ゲイン</translation>
     </message>
     <message>
         <source>Bandwidth: </source>
@@ -2126,7 +2126,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Lfo Frequency</source>
-        <translation type="unfinished"/>
+        <translation>LFO 周波数</translation>
     </message>
     <message>
         <source>Seconds</source>
@@ -3532,7 +3532,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>LfoControllerDialog</name>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
     <message>
         <source>LFO Controller</source>
@@ -4087,6 +4087,19 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Track</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MidiJack</name>
+    <message>
+        <source>JACK server down</source>
+        <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (title)</extracomment>
+        <translation>JACK サーバーダウン</translation>
+    </message>
+    <message>
+        <source>The JACK server seems to be shuted down.</source>
+        <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4863,7 +4876,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>レート</translation>
     </message>
     <message>
         <source>Phase</source>
@@ -5296,7 +5309,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>ステップを複製</translation>
     </message>
 </context>
 <context>
@@ -5506,7 +5519,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Click here to play the current pattern. This is useful while editing it. The pattern is automatically looped when its end is reached.</source>
-        <translation type="unfinished"/>
+        <translation>現在のパターンを再生するには、ここをクリックしてください。これはパターン編集中に便利です。終了位置にくるとパターンは自動的にループされます。</translation>
     </message>
     <message>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you can play and edit them afterwards.</source>
@@ -5606,7 +5619,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Timeline controls</source>
-        <translation type="unfinished"/>
+        <translation>タイムラインコントロール</translation>
     </message>
     <message>
         <source>Zoom and note controls</source>
@@ -6431,7 +6444,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>オートメーション トラックを追加</translation>
     </message>
     <message>
         <source>Draw mode</source>
@@ -6459,11 +6472,11 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Timeline controls</source>
-        <translation type="unfinished"/>
+        <translation>タイムラインコントロール</translation>
     </message>
     <message>
         <source>Zoom controls</source>
-        <translation type="unfinished"/>
+        <translation>ズームコントロール</translation>
     </message>
 </context>
 <context>
@@ -8005,7 +8018,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>レート</translation>
     </message>
     <message>
         <source>Direction</source>

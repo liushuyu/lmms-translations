@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="fr">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="fr" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -1367,13 +1365,13 @@ Si vous êtes intéressé par la traduction de LMMS dans une nouvelle langue ou 
 
 The On/Off switch allows you to bypass a given plugin at any point in time.
 
-The Wet/Dry knob controls the balance between the input signal and the effected signal that is the resulting output from the effect.  The input for the stage is the output from the previous stage. So, the &apos;dry&apos; signal for effects lower in the chain contains all of the previous effects.
+The Wet/Dry knob controls the balance between the input signal and the effected signal that is the resulting output from the effect.  The input for the stage is the output from the previous stage. So, the 'dry' signal for effects lower in the chain contains all of the previous effects.
 
-The Decay knob controls how long the signal will continue to be processed after the notes have been released.  The effect will stop processing signals when the volume has dropped below a given threshold for a given length of time.  This knob sets the &apos;given length of time&apos;.  Longer times will require more CPU, so this number should be set low for most effects.  It needs to be bumped up for effects that produce lengthy periods of silence, e.g. delays.
+The Decay knob controls how long the signal will continue to be processed after the notes have been released.  The effect will stop processing signals when the volume has dropped below a given threshold for a given length of time.  This knob sets the 'given length of time'.  Longer times will require more CPU, so this number should be set low for most effects.  It needs to be bumped up for effects that produce lengthy periods of silence, e.g. delays.
 
-The Gate knob controls the &apos;given threshold&apos; for the effect&apos;s auto shutdown.  The clock for the &apos;given length of time&apos; will begin as soon as the processed signal level drops below the level specified with this knob.
+The Gate knob controls the 'given threshold' for the effect's auto shutdown.  The clock for the 'given length of time' will begin as soon as the processed signal level drops below the level specified with this knob.
 
-The Controls button opens a dialog for editing the effect&apos;s parameters.
+The Controls button opens a dialog for editing the effect's parameters.
 
 Right clicking will bring up a context menu where you can change the order in which the effects are processed or delete an effect altogether.</source>
         <translation>Les greffons d&apos;effet agissent comme une série d&apos;effets enchaînés dans laquelle le signal sera traité du haut vers le bas.
@@ -2183,7 +2181,7 @@ Veuillez vérifier que vous avez les droits d&apos;accès en écriture à ce fic
     </message>
     <message>
         <source>Rate:</source>
-        <translation type="unfinished">Taux:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AMNT</source>
@@ -2214,7 +2212,7 @@ Veuillez vérifier que vous avez les droits d&apos;accès en écriture à ce fic
     </message>
     <message>
         <source>The FX channel receives input from one or more instrument tracks.
- It in turn can be routed to multiple other FX channels. LMMS automatically takes care of preventing infinite loops for you and doesn&apos;t allow making a connection that would result in an infinite loop.
+ It in turn can be routed to multiple other FX channels. LMMS automatically takes care of preventing infinite loops for you and doesn't allow making a connection that would result in an infinite loop.
 
 In order to route the channel to another channel, select the FX channel and click on the &quot;send&quot; button on the channel you want to send to. The knob under the send button controls the level of signal that is sent to the channel.
 
@@ -2462,15 +2460,15 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>Skip rate</source>
-        <translation type="unfinished">Ignorer</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Miss rate</source>
-        <translation type="unfinished">Mademoiselle</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cycle steps</source>
-        <translation type="unfinished">Étapes du cycle</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2545,27 +2543,27 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>SKIP</source>
-        <translation type="unfinished">PASSER</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skip rate:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The skip function will make the arpeggiator pause one step randomly. From its start in full counter clockwise position and no effect it will gradually progress to full amnesia at maximum setting.</source>
-        <translation type="unfinished">La fonction skip fera l’arpégiateur pause un peu au hasard. Depuis ses débuts dans les aiguilles de compteur complet et aucun effet il évoluera progressivement à l’amnésie complète au réglage maximal.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MISS</source>
-        <translation type="unfinished">MLLE</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Miss rate:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
-        <translation type="unfinished">La fonction de miss fera l’arpégiateur manquer la note prévue.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CYCLE</source>
@@ -2573,15 +2571,15 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>Cycle notes:</source>
-        <translation type="unfinished">Notes de cycle :</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>note(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
-        <translation type="unfinished">Sauter les étapes n dans l’arpège et cycles autour si nous sommes sur la plage de remarque. Si la note totale est divisible par le nombre de pas sauté par-dessus vous sera coincé dans un arpège plus court ou même sur une seule note.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2968,11 +2966,11 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>Phrygian dominant</source>
-        <translation type="unfinished">Phrygien sur-augmenté</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Persian</source>
-        <translation type="unfinished">Chat persan</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3670,7 +3668,7 @@ Double-cliquez pour choisir un fichier.</translation>
         <translation>Le fichier de configuration n&apos;a pas pu être enregistré</translation>
     </message>
     <message>
-        <source>Could not save configuration file %1. You&apos;re probably not permitted to write to this file.
+        <source>Could not save configuration file %1. You're probably not permitted to write to this file.
 Please make sure you have write-access to the file and try again.</source>
         <translation>Le fichier de configuration %1 n&apos;a pas pu être écrit. Vous n&apos;avez probablement pas le droit d&apos;écrire dans ce fichier.
 Veuillez vérifier que vous avez les droits d&apos;accès en écriture pour ce fichier et le répertoire qui le contient et réessayez.</translation>
@@ -3828,7 +3826,7 @@ Veuillez vérifier que vous avez les droits d&apos;accès en écriture pour ce f
         <translation>L&apos;aide n&apos;est pas disponible</translation>
     </message>
     <message>
-        <source>Currently there&apos;s no help available in LMMS.
+        <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>Il n&apos;y a pour l&apos;instant pas de d&apos;aide dans LMMS.
 Veuillez visiter http://lmms.sf.net/wiki pour la documentation de LMMS.</translation>
@@ -4108,6 +4106,19 @@ Veuillez visiter http://lmms.sf.net/wiki pour la documentation de LMMS.</transla
     <message>
         <source>Track</source>
         <translation>Piste</translation>
+    </message>
+</context>
+<context>
+    <name>MidiJack</name>
+    <message>
+        <source>JACK server down</source>
+        <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (title)</extracomment>
+        <translation>Le serveur JACK est arrêté</translation>
+    </message>
+    <message>
+        <source>The JACK server seems to be shuted down.</source>
+        <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5675,7 +5686,7 @@ PM signifie Modulation de Phase : la phase de l&apos;oscillateur 3 est modulée 
         <translation>Le greffon n&apos;a pas été trouvé</translation>
     </message>
     <message>
-        <source>The plugin &quot;%1&quot; wasn&apos;t found or could not be loaded!
+        <source>The plugin &quot;%1&quot; wasn't found or could not be loaded!
 Reason: &quot;%2&quot;</source>
         <translation>Le greffon &quot;%1&quot; n&apos;a pas été trouvé ou n&apos;a pas pu être chargé !
 Raison : &quot;%2&quot;</translation>
@@ -6712,7 +6723,7 @@ Veuillez vérifier que vous avez au moins les droits en lecture pour ce fichier 
         <translation>Le fichier n&apos;a pas pu être importé</translation>
     </message>
     <message>
-        <source>Couldn&apos;t find a filter for importing file %1.
+        <source>Couldn't find a filter for importing file %1.
 You should convert this file into a format supported by LMMS using another software.</source>
         <translation>Aucun filtre n&apos;a pu être trouvé pour importer le fichier %1.
 Vous devriez convertir ce fichier dans un format pris en charge par LMMS en utilisant un autre logiciel.</translation>
@@ -6722,7 +6733,7 @@ Vous devriez convertir ce fichier dans un format pris en charge par LMMS en util
         <translation>Le fichier n&apos;a pas pu être ouvert</translation>
     </message>
     <message>
-        <source>Couldn&apos;t open file %1 for reading.
+        <source>Couldn't open file %1 for reading.
 Please make sure you have read-permission to the file and the directory containing the file and try again!</source>
         <translation>Le fichier %1 n&apos;a pas pu être ouvert en lecture.
 Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le répertoire qui contient ce fichier et réessayez !</translation>
@@ -8003,15 +8014,15 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     <message>
         <source>This dialog displays information on all of the LADSPA plugins LMMS was able to locate. The plugins are divided into five categories based upon an interpretation of the port types and names.
 
-Available Effects are those that can be used by LMMS. In order for LMMS to be able to use an effect, it must, first and foremost, be an effect, which is to say, it has to have both input channels and output channels. LMMS identifies an input channel as an audio rate port containing &apos;in&apos; in the name. Output channels are identified by the letters &apos;out&apos;. Furthermore, the effect must have the same number of inputs and outputs and be real time capable.
+Available Effects are those that can be used by LMMS. In order for LMMS to be able to use an effect, it must, first and foremost, be an effect, which is to say, it has to have both input channels and output channels. LMMS identifies an input channel as an audio rate port containing 'in' in the name. Output channels are identified by the letters 'out'. Furthermore, the effect must have the same number of inputs and outputs and be real time capable.
 
-Unavailable Effects are those that were identified as effects, but either didn&apos;t have the same number of input and output channels or weren&apos;t real time capable.
+Unavailable Effects are those that were identified as effects, but either didn't have the same number of input and output channels or weren't real time capable.
 
 Instruments are plugins for which only output channels were identified.
 
 Analysis Tools are plugins for which only input channels were identified.
 
-Don&apos;t Knows are plugins for which no input or output channels were identified.
+Don't Knows are plugins for which no input or output channels were identified.
 
 Double clicking any of the plugins will bring up information on the ports.</source>
         <translation>Cette boîte de dialogue affiche des informations sur tous les greffons LADSPA que LMMS a pu localiser. Ces greffons sont répartis en cinq catégories en fonction de l&apos;interprétation des types et des noms de port.
@@ -9763,11 +9774,11 @@ Cette puce était utilisée dans l&apos;ordinateur Commodore 64.</translation>
         <translation>Éditeur d&apos;impulsion</translation>
     </message>
     <message>
-        <source>The waveform editor provides control over the initial state or impulse that is used to start the string vibrating.  The buttons to the right of the graph will initialize the waveform to the selected type.  The &apos;?&apos; button will load a waveform from a file--only the first 128 samples will be loaded.
+        <source>The waveform editor provides control over the initial state or impulse that is used to start the string vibrating.  The buttons to the right of the graph will initialize the waveform to the selected type.  The '?' button will load a waveform from a file--only the first 128 samples will be loaded.
 
 The waveform can also be drawn in the graph.
 
-The &apos;S&apos; button will smooth the waveform.
+The 'S' button will smooth the waveform.
 
 The &apos;N&apos; button will normalize the waveform.</source>
         <translation>L&apos;éditeur de forme d&apos;onde permet de contrôler l&apos;état initial ou l&apos;impulsion qui sera utilisé pour commencer à faire vibrer la corde. Les boutons situés à droite du graphique initialiseront la forme d&apos;onde en fonction du type choisi. Le bouton « ? » chargera la forme d&apos;onde à partir d&apos;un fichier - seuls les 128 premiers échantillons seront chargés.
@@ -9779,15 +9790,15 @@ Le bouton « S » lissera la forme d&apos;onde.
 Le bouton « N » normalisera la forme d&apos;onde.</translation>
     </message>
     <message>
-        <source>Vibed models up to nine independently vibrating strings.  The &apos;String&apos; selector allows you to choose which string is being edited.  The &apos;Imp&apos; selector chooses whether the graph represents an impulse or the initial state of the string.  The &apos;Octave&apos; selector chooses which harmonic the string should vibrate at.
+        <source>Vibed models up to nine independently vibrating strings.  The 'String' selector allows you to choose which string is being edited.  The 'Imp' selector chooses whether the graph represents an impulse or the initial state of the string.  The 'Octave' selector chooses which harmonic the string should vibrate at.
 
 The graph allows you to control the initial state or impulse used to set the string in motion.
 
-The &apos;V&apos; knob controls the volume.  The &apos;S&apos; knob controls the string&apos;s stiffness.  The &apos;P&apos; knob controls the pick position.  The &apos;PU&apos; knob controls the pickup position.
+The 'V' knob controls the volume.  The 'S' knob controls the string's stiffness.  The 'P' knob controls the pick position.  The 'PU' knob controls the pickup position.
 
-&apos;Pan&apos; and &apos;Detune&apos; hopefully don&apos;t need explanation.  The &apos;Slap&apos; knob adds a bit of fuzz to the sound of the string.
+'Pan' and 'Detune' hopefully don't need explanation.  The 'Slap' knob adds a bit of fuzz to the sound of the string.
 
-The &apos;Length&apos; knob controls the length of the string.
+The 'Length' knob controls the length of the string.
 
 The LED in the lower right corner of the waveform editor determines whether the string is active in the current instrument.</source>
         <translation>Vibed modélise jusqu&apos;à neuf cordes vibrant indépendamment. Le sélecteur « Corde » vous permet de choisir la corde à éditer. Le sélecteur « Imp » choisi si le graphique représente une impulsion ou l&apos;état initial de la corde. Le sélecteur « Octave » choisi à quelle harmonique la corde devra vibrer.

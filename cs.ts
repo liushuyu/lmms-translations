@@ -1334,7 +1334,7 @@ Máte-li zájem o překlad LMMS do jiného jazyka, nebo chcete-li vylepšit exis
     </message>
     <message>
         <source>DECAY</source>
-        <translation>DOZNÍVÁNÍ</translation>
+        <translation>DOZNÍ</translation>
     </message>
     <message>
         <source>Time:</source>
@@ -3786,7 +3786,7 @@ Ujistěte se prosím, že máte k souboru právo zápisu a zkuste to znovu.</tra
     </message>
     <message>
         <source>Controller Rack</source>
-        <translation>Kontrolér rack</translation>
+        <translation>Panel kontrolérů</translation>
     </message>
     <message>
         <source>Untitled</source>
@@ -4089,6 +4089,19 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     <message>
         <source>Track</source>
         <translation>Stopa</translation>
+    </message>
+</context>
+<context>
+    <name>MidiJack</name>
+    <message>
+        <source>JACK server down</source>
+        <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (title)</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The JACK server seems to be shuted down.</source>
+        <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
