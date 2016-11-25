@@ -4118,7 +4118,7 @@ Veuillez visiter http://lmms.sf.net/wiki pour la documentation de LMMS.</transla
     <message>
         <source>The JACK server seems to be shuted down.</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
-        <translation>Quand JACK(JACK Audio Connection Kit) se déconnecte, il affichera le message suivant (message de dialogue)</translation>
+        <translation>Le serveur JACK semble avoir été coupé</translation>
     </message>
 </context>
 <context>
