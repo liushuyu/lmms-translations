@@ -2181,7 +2181,7 @@ Veuillez vérifier que vous avez les droits d&apos;accès en écriture à ce fic
     </message>
     <message>
         <source>Rate:</source>
-        <translation type="unfinished"/>
+        <translation>Taux :</translation>
     </message>
     <message>
         <source>AMNT</source>
@@ -2460,15 +2460,15 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>Skip rate</source>
-        <translation type="unfinished"/>
+        <translation>Saut de taux</translation>
     </message>
     <message>
         <source>Miss rate</source>
-        <translation type="unfinished"/>
+        <translation>Manque de saut</translation>
     </message>
     <message>
         <source>Cycle steps</source>
-        <translation type="unfinished"/>
+        <translation>Pas de cycle</translation>
     </message>
 </context>
 <context>
@@ -2543,27 +2543,27 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>SKIP</source>
-        <translation type="unfinished"/>
+        <translation>SAUT</translation>
     </message>
     <message>
         <source>Skip rate:</source>
-        <translation type="unfinished"/>
+        <translation>Saut de taux :</translation>
     </message>
     <message>
         <source>The skip function will make the arpeggiator pause one step randomly. From its start in full counter clockwise position and no effect it will gradually progress to full amnesia at maximum setting.</source>
-        <translation type="unfinished"/>
+        <translation>La fonction de saut fera que l&apos;arpéggiateur mettra un pas en pause au hasard. Il commencera en position anti-horaire complète et, sans effet, il progressera graduellement vers une amnésie complète à son paramétrage maximum.</translation>
     </message>
     <message>
         <source>MISS</source>
-        <translation type="unfinished"/>
+        <translation>MANQUE</translation>
     </message>
     <message>
         <source>Miss rate:</source>
-        <translation type="unfinished"/>
+        <translation>Taux du manque :</translation>
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
-        <translation type="unfinished"/>
+        <translation>La fonction manque fera que l&apos;arpégiateur manquera la note attendue.</translation>
     </message>
     <message>
         <source>CYCLE</source>
@@ -2571,15 +2571,15 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>Cycle notes:</source>
-        <translation type="unfinished"/>
+        <translation>Notes de cycle :</translation>
     </message>
     <message>
         <source>note(s)</source>
-        <translation type="unfinished"/>
+        <translation>note(s)</translation>
     </message>
     <message>
         <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
-        <translation type="unfinished"/>
+        <translation>Saute de n pas dans l&apos;arpège et les cycles si nous sommes au délà de la gamme de note. Si la gamme de note totale est divisible en parts égales par le nombre de pas au dessus desquels on saute, vous serez coincé dans un arpège plus court ou bien même dans une note.</translation>
     </message>
 </context>
 <context>
@@ -2966,11 +2966,11 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>Phrygian dominant</source>
-        <translation type="unfinished"/>
+        <translation>Phrygien dominant</translation>
     </message>
     <message>
         <source>Persian</source>
-        <translation type="unfinished"/>
+        <translation>Persien</translation>
     </message>
 </context>
 <context>
@@ -4118,7 +4118,7 @@ Veuillez visiter http://lmms.sf.net/wiki pour la documentation de LMMS.</transla
     <message>
         <source>The JACK server seems to be shuted down.</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
-        <translation type="unfinished"/>
+        <translation>Quand JACK(JACK Audio Connection Kit) se déconnecte, il affichera le message suivant (message de dialogue)</translation>
     </message>
 </context>
 <context>
