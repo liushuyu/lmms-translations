@@ -2460,11 +2460,11 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>Skip rate</source>
-        <translation>Saut de taux</translation>
+        <translation>Taux de saut</translation>
     </message>
     <message>
         <source>Miss rate</source>
-        <translation>Manque de saut</translation>
+        <translation>Taux de manqué</translation>
     </message>
     <message>
         <source>Cycle steps</source>
@@ -2547,7 +2547,7 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>Skip rate:</source>
-        <translation>Saut de taux :</translation>
+        <translation>Taux de saut :</translation>
     </message>
     <message>
         <source>The skip function will make the arpeggiator pause one step randomly. From its start in full counter clockwise position and no effect it will gradually progress to full amnesia at maximum setting.</source>
@@ -2555,15 +2555,15 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>MISS</source>
-        <translation>MANQUE</translation>
+        <translation>MANQUÉ</translation>
     </message>
     <message>
         <source>Miss rate:</source>
-        <translation>Taux du manque :</translation>
+        <translation>Taux de manqué :</translation>
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
-        <translation>La fonction manque fera que l&apos;arpégiateur manquera la note attendue.</translation>
+        <translation>La fonction manqué fera que l&apos;arpégiateur manquera la note attendue.</translation>
     </message>
     <message>
         <source>CYCLE</source>
