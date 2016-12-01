@@ -47,11 +47,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Involved</source>
-        <translation type="unfinished"/>
+        <translation>Zaangażowani</translation>
     </message>
     <message>
         <source>Contributors ordered by number of commits:</source>
@@ -59,7 +59,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Copyright © %1</source>
-        <translation type="unfinished"/>
+        <translation>Prawa autorskie © %1</translation>
     </message>
 </context>
 <context>
@@ -171,7 +171,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Disable loop</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz zapętlanie</translation>
     </message>
     <message>
         <source>This button disables looping. The sample plays only once from start to end. </source>
@@ -3962,10 +3962,6 @@ Odwiedź witrynę http://lmms.sf.net/wiki for documentation on LMMS.</translatio
     </message>
     <message>
         <source>Save as default template</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export &amp;MIDI...</source>
         <translation type="unfinished"/>
     </message>
     <message>

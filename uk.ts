@@ -908,11 +908,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>&amp;Remove this controller</source>
-        <translation type="unfinished"/>
+        <translation>&amp;R Видалити цей контролер</translation>
     </message>
     <message>
         <source>Re&amp;name this controller</source>
-        <translation type="unfinished"/>
+        <translation>&amp;N Перейменувати цей контролер</translation>
     </message>
     <message>
         <source>LFO</source>
@@ -3444,7 +3444,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation type="unfinished"/>
+        <translation>Введіть нове значення від -96,0 дБFS до 6,0 дБFS:</translation>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
@@ -3972,10 +3972,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>Зберегти як шаблон за замовчуванням</translation>
     </message>
     <message>
-        <source>Export &amp;MIDI...</source>
-        <translation>Експорт в &amp;MIDI ...</translation>
-    </message>
-    <message>
         <source>&amp;View</source>
         <translation>&amp;V Перегляд</translation>
     </message>
@@ -4045,7 +4041,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
+        <translation>Відображати гучність в децибелах </translation>
     </message>
     <message>
         <source>Smooth scroll</source>
@@ -6072,7 +6068,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Display volume as dBFS </source>
-        <translation type="unfinished"/>
+        <translation>Відображати гучність в децибелах  </translation>
     </message>
     <message>
         <source>Compress project files per default</source>
@@ -6456,7 +6452,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>This %1 was created with LMMS %2.</source>
-        <translation type="unfinished"/>
+        <translation>Цей %1 було створено в LMMS версії %2</translation>
     </message>
 </context>
 <context>

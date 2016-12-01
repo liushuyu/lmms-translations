@@ -1892,7 +1892,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <name>EqHandle</name>
     <message>
         <source>Reso: </source>
-        <translation type="unfinished"/>
+        <translation>共鸣:</translation>
     </message>
     <message>
         <source>BW: </source>
@@ -2396,31 +2396,31 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentFunctionArpeggio</name>
     <message>
         <source>Arpeggio</source>
-        <translation type="unfinished"/>
+        <translation>琶音</translation>
     </message>
     <message>
         <source>Arpeggio type</source>
-        <translation type="unfinished"/>
+        <translation>琶音类型</translation>
     </message>
     <message>
         <source>Arpeggio range</source>
-        <translation type="unfinished"/>
+        <translation>琶音范围</translation>
     </message>
     <message>
         <source>Arpeggio time</source>
-        <translation type="unfinished"/>
+        <translation>琶音时间</translation>
     </message>
     <message>
         <source>Arpeggio gate</source>
-        <translation type="unfinished"/>
+        <translation>琶音门限</translation>
     </message>
     <message>
         <source>Arpeggio direction</source>
-        <translation type="unfinished"/>
+        <translation>琶音方向</translation>
     </message>
     <message>
         <source>Arpeggio mode</source>
-        <translation type="unfinished"/>
+        <translation>琶音模式</translation>
     </message>
     <message>
         <source>Up</source>
@@ -2456,11 +2456,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Skip rate</source>
-        <translation type="unfinished"/>
+        <translation>跳过率</translation>
     </message>
     <message>
         <source>Miss rate</source>
-        <translation type="unfinished"/>
+        <translation>丢失率</translation>
     </message>
     <message>
         <source>Cycle steps</source>
@@ -2515,7 +2515,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Arpeggio gate:</source>
-        <translation type="unfinished"/>
+        <translation>琶音门限:</translation>
     </message>
     <message>
         <source>%</source>
@@ -2539,11 +2539,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>SKIP</source>
-        <translation type="unfinished"/>
+        <translation>跳过</translation>
     </message>
     <message>
         <source>Skip rate:</source>
-        <translation type="unfinished"/>
+        <translation>跳过率：</translation>
     </message>
     <message>
         <source>The skip function will make the arpeggiator pause one step randomly. From its start in full counter clockwise position and no effect it will gradually progress to full amnesia at maximum setting.</source>
@@ -2551,23 +2551,23 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>MISS</source>
-        <translation type="unfinished"/>
+        <translation>丢失</translation>
     </message>
     <message>
         <source>Miss rate:</source>
-        <translation type="unfinished"/>
+        <translation>丢失率：</translation>
     </message>
     <message>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
-        <translation type="unfinished"/>
+        <translation>丢失功能将会使琶音器故意丢掉你想要其丢掉的音符。</translation>
     </message>
     <message>
         <source>CYCLE</source>
-        <translation type="unfinished"/>
+        <translation>循环</translation>
     </message>
     <message>
         <source>Cycle notes:</source>
-        <translation type="unfinished"/>
+        <translation>循环音符:</translation>
     </message>
     <message>
         <source>note(s)</source>
@@ -3036,7 +3036,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Specify the velocity normalization base for MIDI-based instruments at 100% note velocity</source>
-        <translation type="unfinished"/>
+        <translation>设定基于 MIDI 的乐器在 100% 音符力度下的正常化基准值</translation>
     </message>
     <message>
         <source>BASE VELOCITY</source>
@@ -3197,7 +3197,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Here you can select the built-in filter you want to use for this instrument-track. Filters are very important for changing the characteristics of a sound.</source>
-        <translation type="unfinished"/>
+        <translation>你可以在这里选择对此乐器轨道要使用的内建过滤器。如果你想要改变声音的特征的话，过滤器就是不可或缺的工具。</translation>
     </message>
     <message>
         <source>Hz</source>
@@ -3962,10 +3962,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Save as default template</source>
         <translation>保存为默认模板</translation>
-    </message>
-    <message>
-        <source>Export &amp;MIDI...</source>
-        <translation>导出 MIDI (&amp;M)...</translation>
     </message>
     <message>
         <source>&amp;View</source>
@@ -4898,7 +4894,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>预延迟</translation>
     </message>
     <message>
         <source>Hold</source>

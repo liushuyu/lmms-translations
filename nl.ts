@@ -817,11 +817,11 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>MIDI CONTROLLER</source>
-        <translation>MIDI CONTROLLER</translation>
+        <translation>MIDI-CONTROLLER</translation>
     </message>
     <message>
         <source>Input channel</source>
-        <translation>Ingang kanaal</translation>
+        <translation>Invoerkanaal</translation>
     </message>
     <message>
         <source>CHANNEL</source>
@@ -829,7 +829,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Input controller</source>
-        <translation>Ingang besturing</translation>
+        <translation>Invoercontroller</translation>
     </message>
     <message>
         <source>CONTROLLER</source>
@@ -837,23 +837,23 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Auto Detect</source>
-        <translation type="unfinished"/>
+        <translation>Automatisch detecteren</translation>
     </message>
     <message>
         <source>MIDI-devices to receive MIDI-events from</source>
-        <translation type="unfinished"/>
+        <translation>MIDI-apparaten om MIDI-events van te ontvangen</translation>
     </message>
     <message>
         <source>USER CONTROLLER</source>
-        <translation type="unfinished"/>
+        <translation>GEBRUIKER CONTROLLER</translation>
     </message>
     <message>
         <source>MAPPING FUNCTION</source>
-        <translation type="unfinished"/>
+        <translation>MAPPING-FUNCTIE</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -872,19 +872,19 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     <name>ControllerRackView</name>
     <message>
         <source>Controller Rack</source>
-        <translation type="unfinished"/>
+        <translation>Controller-rack</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Voeg toe</translation>
+        <translation>Toevoegen</translation>
     </message>
     <message>
         <source>Confirm Delete</source>
-        <translation>Bevestig verwijderen</translation>
+        <translation>Verwijderen bevestigen</translation>
     </message>
     <message>
         <source>Confirm delete? There are existing connection(s) associated with this controller. There is no way to undo.</source>
-        <translation type="unfinished"/>
+        <translation>Verwijderen bevestigen? Er zijn bestaande verbindingen geassocieerd met deze controller. Er is geen manier om dit ongedaan te maken.</translation>
     </message>
 </context>
 <context>
@@ -895,136 +895,136 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Controllers are able to automate the value of a knob, slider, and other controls.</source>
-        <translation type="unfinished"/>
+        <translation>Controllers kunnen de waarde van een knop of schuif en andere bedieningen automatiseren.</translation>
     </message>
     <message>
         <source>Rename controller</source>
-        <translation>Controller hernoemen</translation>
+        <translation>Naam controller wijzigen</translation>
     </message>
     <message>
         <source>Enter the new name for this controller</source>
-        <translation>Geef de nieuwe naam voor deze controller in</translation>
+        <translation>Nieuwe naam voor deze controller opgeven</translation>
     </message>
     <message>
         <source>&amp;Remove this controller</source>
-        <translation type="unfinished"/>
+        <translation>Deze controller ve&amp;rwijderen</translation>
     </message>
     <message>
         <source>Re&amp;name this controller</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Naam van deze controller wijzigen</translation>
     </message>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
 </context>
 <context>
     <name>CrossoverEQControlDialog</name>
     <message>
         <source>Band 1/2 Crossover:</source>
-        <translation type="unfinished"/>
+        <translation>Band 1/2 crossover:</translation>
     </message>
     <message>
         <source>Band 2/3 Crossover:</source>
-        <translation type="unfinished"/>
+        <translation>Band 2/3 crossover:</translation>
     </message>
     <message>
         <source>Band 3/4 Crossover:</source>
-        <translation type="unfinished"/>
+        <translation>Band 3/4 crossover:</translation>
     </message>
     <message>
         <source>Band 1 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Band 1 gain:</translation>
     </message>
     <message>
         <source>Band 2 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Band 2 gain:</translation>
     </message>
     <message>
         <source>Band 3 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Band 3 gain:</translation>
     </message>
     <message>
         <source>Band 4 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Band 4 gain:</translation>
     </message>
     <message>
         <source>Band 1 Mute</source>
-        <translation>Band 1 Gedempt</translation>
+        <translation>Band 1 gedempt</translation>
     </message>
     <message>
         <source>Mute Band 1</source>
-        <translation>Band 1 Dempen</translation>
+        <translation>Band 1 dempen</translation>
     </message>
     <message>
         <source>Band 2 Mute</source>
-        <translation>Band 2 Gedempt</translation>
+        <translation>Band 2 gedempt</translation>
     </message>
     <message>
         <source>Mute Band 2</source>
-        <translation>Band 2 Dempen</translation>
+        <translation>Band 2 dempen</translation>
     </message>
     <message>
         <source>Band 3 Mute</source>
-        <translation>Band 3 Gedempt</translation>
+        <translation>Band 3 gedempt</translation>
     </message>
     <message>
         <source>Mute Band 3</source>
-        <translation>Band 3 Dempen</translation>
+        <translation>Band 3 dempen</translation>
     </message>
     <message>
         <source>Band 4 Mute</source>
-        <translation>Band 4 Gedempt</translation>
+        <translation>Band 4 gedempt</translation>
     </message>
     <message>
         <source>Mute Band 4</source>
-        <translation>Band 4 Dempen</translation>
+        <translation>Band 4 dempen</translation>
     </message>
 </context>
 <context>
     <name>DelayControls</name>
     <message>
         <source>Delay Samples</source>
-        <translation type="unfinished"/>
+        <translation>Samples vertragen</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>Lfo Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Lfo-frequentie</translation>
     </message>
     <message>
         <source>Lfo Amount</source>
-        <translation type="unfinished"/>
+        <translation>Lfo-hoeveelheid</translation>
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Uitvoer-gain</translation>
     </message>
 </context>
 <context>
     <name>DelayControlsDialog</name>
     <message>
         <source>Delay</source>
-        <translation type="unfinished"/>
+        <translation>Delay</translation>
     </message>
     <message>
         <source>Lfo Amt</source>
-        <translation type="unfinished"/>
+        <translation>Lfo hvh</translation>
     </message>
     <message>
         <source>Delay Time</source>
-        <translation type="unfinished"/>
+        <translation>Delay-tijd</translation>
     </message>
     <message>
         <source>Regen</source>
-        <translation type="unfinished"/>
+        <translation>Regen</translation>
     </message>
     <message>
         <source>Feedback Amount</source>
-        <translation type="unfinished"/>
+        <translation>Feedback-hoeveelheid</translation>
     </message>
     <message>
         <source>Rate</source>
@@ -1032,11 +1032,11 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Lfo</source>
-        <translation type="unfinished"/>
+        <translation>Lfo</translation>
     </message>
     <message>
         <source>Out Gain</source>
-        <translation type="unfinished"/>
+        <translation>Uitvoer-gain</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1055,11 +1055,11 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Click to enable/disable Filter 1</source>
-        <translation>Klik om Filter 1 in- of uit te schakelen</translation>
+        <translation>Klikken om filter 1 in/uit te schakelen</translation>
     </message>
     <message>
         <source>Click to enable/disable Filter 2</source>
-        <translation>Klik om Filter 2 in- of uit te schakelen</translation>
+        <translation>Klikken om filter 2 in/uit te schakelen</translation>
     </message>
     <message>
         <source>FREQ</source>
@@ -1067,11 +1067,11 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Cutoff-frequentie</translation>
     </message>
     <message>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>RESO</translation>
     </message>
     <message>
         <source>Resonance</source>
@@ -1087,11 +1087,11 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>MIX</source>
-        <translation type="unfinished"/>
+        <translation>MIX</translation>
     </message>
     <message>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Mix</translation>
     </message>
 </context>
 <context>
@@ -1102,23 +1102,23 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Filter 1 type</source>
-        <translation type="unfinished"/>
+        <translation>Filter 1 type</translation>
     </message>
     <message>
         <source>Cutoff 1 frequency</source>
-        <translation type="unfinished"/>
+        <translation>Cutoff-frequentie 1</translation>
     </message>
     <message>
         <source>Q/Resonance 1</source>
-        <translation type="unfinished"/>
+        <translation>Q/Resonantie 1</translation>
     </message>
     <message>
         <source>Gain 1</source>
-        <translation type="unfinished"/>
+        <translation>Gain 1</translation>
     </message>
     <message>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Mix</translation>
     </message>
     <message>
         <source>Filter 2 enabled</source>
@@ -1126,118 +1126,118 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Filter 2 type</source>
-        <translation type="unfinished"/>
+        <translation>Filter 2 type</translation>
     </message>
     <message>
         <source>Cutoff 2 frequency</source>
-        <translation type="unfinished"/>
+        <translation>Cutoff-frequentie 2</translation>
     </message>
     <message>
         <source>Q/Resonance 2</source>
-        <translation type="unfinished"/>
+        <translation>Q/Resonantie 2</translation>
     </message>
     <message>
         <source>Gain 2</source>
-        <translation type="unfinished"/>
+        <translation>Gain 2</translation>
     </message>
     <message>
         <source>LowPass</source>
-        <translation type="unfinished"/>
+        <translation>LowPass</translation>
     </message>
     <message>
         <source>HiPass</source>
-        <translation type="unfinished"/>
+        <translation>HiPass</translation>
     </message>
     <message>
         <source>BandPass csg</source>
-        <translation type="unfinished"/>
+        <translation>BandPass csg</translation>
     </message>
     <message>
         <source>BandPass czpg</source>
-        <translation type="unfinished"/>
+        <translation>Bandpass czpg</translation>
     </message>
     <message>
         <source>Notch</source>
-        <translation type="unfinished"/>
+        <translation>Notch</translation>
     </message>
     <message>
         <source>Allpass</source>
-        <translation type="unfinished"/>
+        <translation>Allpass</translation>
     </message>
     <message>
         <source>Moog</source>
-        <translation type="unfinished"/>
+        <translation>Moog</translation>
     </message>
     <message>
         <source>2x LowPass</source>
-        <translation type="unfinished"/>
+        <translation>2 x LowPass</translation>
     </message>
     <message>
         <source>RC LowPass 12dB</source>
-        <translation type="unfinished"/>
+        <translation>RC LowPass 12 dB</translation>
     </message>
     <message>
         <source>RC BandPass 12dB</source>
-        <translation type="unfinished"/>
+        <translation>RC BandPass 12dB</translation>
     </message>
     <message>
         <source>RC HighPass 12dB</source>
-        <translation type="unfinished"/>
+        <translation>RC HighPass 12 dB</translation>
     </message>
     <message>
         <source>RC LowPass 24dB</source>
-        <translation type="unfinished"/>
+        <translation>RC LowPass 24 dB</translation>
     </message>
     <message>
         <source>RC BandPass 24dB</source>
-        <translation type="unfinished"/>
+        <translation>RC BandPass 24 dB</translation>
     </message>
     <message>
         <source>RC HighPass 24dB</source>
-        <translation type="unfinished"/>
+        <translation>RC HighPass 24 dB</translation>
     </message>
     <message>
         <source>Vocal Formant Filter</source>
-        <translation type="unfinished"/>
+        <translation>Stemvormingsfilter</translation>
     </message>
     <message>
         <source>2x Moog</source>
-        <translation type="unfinished"/>
+        <translation>2 x Moog</translation>
     </message>
     <message>
         <source>SV LowPass</source>
-        <translation type="unfinished"/>
+        <translation>SV LowPass</translation>
     </message>
     <message>
         <source>SV BandPass</source>
-        <translation type="unfinished"/>
+        <translation>SV BandPass</translation>
     </message>
     <message>
         <source>SV HighPass</source>
-        <translation type="unfinished"/>
+        <translation>SV HighPass</translation>
     </message>
     <message>
         <source>SV Notch</source>
-        <translation type="unfinished"/>
+        <translation>SV Notch</translation>
     </message>
     <message>
         <source>Fast Formant</source>
-        <translation type="unfinished"/>
+        <translation>Snel vormend</translation>
     </message>
     <message>
         <source>Tripole</source>
-        <translation type="unfinished"/>
+        <translation>Tripole</translation>
     </message>
 </context>
 <context>
     <name>Editor</name>
     <message>
         <source>Play (Space)</source>
-        <translation>Afspelen (Spatie)</translation>
+        <translation>Afspelen (spatie)</translation>
     </message>
     <message>
         <source>Stop (Space)</source>
-        <translation>Stop (Spatie)</translation>
+        <translation>Stoppen (spatie)</translation>
     </message>
     <message>
         <source>Record</source>
@@ -1245,11 +1245,11 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Record while playing</source>
-        <translation>Opnemen tijdens het spelen</translation>
+        <translation>Opnemen tijdens afspelen</translation>
     </message>
     <message>
         <source>Transport controls</source>
-        <translation type="unfinished"/>
+        <translation>Afspeelbediening</translation>
     </message>
 </context>
 <context>
@@ -1260,15 +1260,15 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Wet/Dry mix</source>
-        <translation type="unfinished"/>
+        <translation>Wet/dry-mix</translation>
     </message>
     <message>
         <source>Gate</source>
-        <translation type="unfinished"/>
+        <translation>Gate</translation>
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Decay</translation>
     </message>
 </context>
 <context>
@@ -1282,7 +1282,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     <name>EffectRackView</name>
     <message>
         <source>EFFECTS CHAIN</source>
-        <translation type="unfinished"/>
+        <translation>EFFECT-CHAIN</translation>
     </message>
     <message>
         <source>Add effect</source>
@@ -1301,7 +1301,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Description</source>
@@ -1316,47 +1316,47 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     <name>EffectView</name>
     <message>
         <source>Toggles the effect on or off.</source>
-        <translation type="unfinished"/>
+        <translation>Schakelt het effect in of uit.</translation>
     </message>
     <message>
         <source>On/Off</source>
-        <translation type="unfinished"/>
+        <translation>Aan/uit</translation>
     </message>
     <message>
         <source>W/D</source>
-        <translation type="unfinished"/>
+        <translation>W/D</translation>
     </message>
     <message>
         <source>Wet Level:</source>
-        <translation type="unfinished"/>
+        <translation>Wet-niveau:</translation>
     </message>
     <message>
         <source>The Wet/Dry knob sets the ratio between the input signal and the effect signal that forms the output.</source>
-        <translation type="unfinished"/>
+        <translation>De wet/dry-knop stelt de ratio tussen het invoersignaal en het effectsignaal in die de uitvoer vormen.</translation>
     </message>
     <message>
         <source>DECAY</source>
-        <translation type="unfinished"/>
+        <translation>DECAY</translation>
     </message>
     <message>
         <source>Time:</source>
-        <translation type="unfinished"/>
+        <translation>Tijd:</translation>
     </message>
     <message>
         <source>The Decay knob controls how many buffers of silence must pass before the plugin stops processing.  Smaller values will reduce the CPU overhead but run the risk of clipping the tail on delay and reverb effects.</source>
-        <translation type="unfinished"/>
+        <translation>De decay-knop regelt hoeveel stilte-buffers moeten passeren voordat de plugin stopt met verwerken. Kleinere waarden zullen de cpu-overhead verminderen maar lopen het risico van het afknippen van de staart van delay- en reverb-effecten.</translation>
     </message>
     <message>
         <source>GATE</source>
-        <translation type="unfinished"/>
+        <translation>GATE</translation>
     </message>
     <message>
         <source>Gate:</source>
-        <translation type="unfinished"/>
+        <translation>Gate:</translation>
     </message>
     <message>
         <source>The Gate knob controls the signal level that is considered to be &apos;silence&apos; while deciding when to stop processing signals.</source>
-        <translation type="unfinished"/>
+        <translation>De gate-knop bedient het signaalniveau dat beschouwd wordt als &apos;stilte&apos; tijdens het beslissen van wanneer te stoppen met verwerken van signalen.</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -1376,66 +1376,78 @@ The Gate knob controls the 'given threshold' for the effect's auto shutdown.  Th
 The Controls button opens a dialog for editing the effect's parameters.
 
 Right clicking will bring up a context menu where you can change the order in which the effects are processed or delete an effect altogether.</source>
-        <translation type="unfinished"/>
+        <translation>Effect-plugins functioneren als een ketting van effecten waar het signaal verwerkt zal worden van boven naar onder.
+
+De aan/uit-schakelaar laat u toe om een bepaalde plugin op elk moment te omzeilen (bypass).
+
+De wet/dry-knop bedient de balans tussen het invoersignaal en het effectsignaal dat de resulterende uitvoer is van het effect. De invoer voor het stadium is de uitvoer van het vorige stadium. Dus, het droog (&apos;dry&apos;) signaal voor effecten lager in de ketting bevat alle vorige effecten.
+
+De decay-knop bedient hoe lang het signaal zal blijven verwerkt worden nadat de noten vrijgelaten zijn. Het effect zal stoppen met verwerken van signalen wanneer het volume onder een bepaalde grens gezakt is voor een bepaalde tijd. Deze knop stelt de &apos;bepaalde tijd&apos; in. Langere tijden zullen meer cpu vereisen, dus dit getal wordt voor de meeste effecten best laag ingesteld. Het moet verhoogd worden voor effecten die lange periodes van stilte produceren, bijvoorbeeld delays. 
+
+De gate-knop bedient de &apos;bepaalde grens&apos; voor het automatisch afsluiten van het effect. De klok voor de &apos;bepaalde tijd&apos; zal beginnen zodra het niveau van het verwerkte signaal onder het niveau komt dat opgegeven wordt met deze knop.
+
+De bedieningen-knop opent een dialoog voor het bewerken van de parameters van het effect.
+
+Rechtsklikken zal een contextmenu laten verschijnen waar u de volgorde kunt wijzigen waarin de effecten verwerkt worden of een effect kunt verwijderen.</translation>
     </message>
     <message>
         <source>Move &amp;up</source>
-        <translation type="unfinished"/>
+        <translation>Om&amp;hoog verplaatsen</translation>
     </message>
     <message>
         <source>Move &amp;down</source>
-        <translation type="unfinished"/>
+        <translation>Om&amp;laag verplaatsen</translation>
     </message>
     <message>
         <source>&amp;Remove this plugin</source>
-        <translation>&amp;Verwijder deze plugin</translation>
+        <translation>Deze plugin ve&amp;rwijderen</translation>
     </message>
 </context>
 <context>
     <name>EnvelopeAndLfoParameters</name>
     <message>
         <source>Predelay</source>
-        <translation type="unfinished"/>
+        <translation>Predelay</translation>
     </message>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Attack</translation>
     </message>
     <message>
         <source>Hold</source>
-        <translation type="unfinished"/>
+        <translation>Hold</translation>
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Decay</translation>
     </message>
     <message>
         <source>Sustain</source>
-        <translation type="unfinished"/>
+        <translation>Sustain</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Release</translation>
     </message>
     <message>
         <source>Modulation</source>
-        <translation type="unfinished"/>
+        <translation>Modulation</translation>
     </message>
     <message>
         <source>LFO Predelay</source>
-        <translation type="unfinished"/>
+        <translation>LFO Predelay</translation>
     </message>
     <message>
         <source>LFO Attack</source>
-        <translation type="unfinished"/>
+        <translation>LFO Attack</translation>
     </message>
     <message>
         <source>LFO speed</source>
-        <translation type="unfinished"/>
+        <translation>LFO-snelheid</translation>
     </message>
     <message>
         <source>LFO Modulation</source>
-        <translation type="unfinished"/>
+        <translation>LFO-modulatie</translation>
     </message>
     <message>
         <source>LFO Wave Shape</source>
@@ -1637,7 +1649,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Uitvoer-gain</translation>
     </message>
     <message>
         <source>Low shelf gain</source>
@@ -1844,7 +1856,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Out Gain</source>
-        <translation type="unfinished"/>
+        <translation>Uitvoer-gain</translation>
     </message>
     <message>
         <source>Bandwidth: </source>
@@ -2123,11 +2135,11 @@ Please make sure you have write-permission to the file and the directory contain
     <name>FlangerControls</name>
     <message>
         <source>Delay Samples</source>
-        <translation type="unfinished"/>
+        <translation>Samples vertragen</translation>
     </message>
     <message>
         <source>Lfo Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Lfo-frequentie</translation>
     </message>
     <message>
         <source>Seconds</source>
@@ -2135,7 +2147,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Regen</source>
-        <translation type="unfinished"/>
+        <translation>Regen</translation>
     </message>
     <message>
         <source>Noise</source>
@@ -2505,7 +2517,7 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>GATE</source>
-        <translation type="unfinished"/>
+        <translation>GATE</translation>
     </message>
     <message>
         <source>Arpeggio gate:</source>
@@ -3064,11 +3076,11 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Cutoff-frequentie</translation>
     </message>
     <message>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>RESO</translation>
     </message>
     <message>
         <source>Resonance</source>
@@ -3088,91 +3100,91 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>LowPass</source>
-        <translation type="unfinished"/>
+        <translation>Lowpass</translation>
     </message>
     <message>
         <source>HiPass</source>
-        <translation type="unfinished"/>
+        <translation>Hipass</translation>
     </message>
     <message>
         <source>BandPass csg</source>
-        <translation type="unfinished"/>
+        <translation>BandPass csg</translation>
     </message>
     <message>
         <source>BandPass czpg</source>
-        <translation type="unfinished"/>
+        <translation>Bandpass czpg</translation>
     </message>
     <message>
         <source>Notch</source>
-        <translation type="unfinished"/>
+        <translation>Notch</translation>
     </message>
     <message>
         <source>Allpass</source>
-        <translation type="unfinished"/>
+        <translation>Allpass</translation>
     </message>
     <message>
         <source>Moog</source>
-        <translation type="unfinished"/>
+        <translation>Moog</translation>
     </message>
     <message>
         <source>2x LowPass</source>
-        <translation type="unfinished"/>
+        <translation>2 x LowPass</translation>
     </message>
     <message>
         <source>RC LowPass 12dB</source>
-        <translation type="unfinished"/>
+        <translation>RC LowPass 12dB</translation>
     </message>
     <message>
         <source>RC BandPass 12dB</source>
-        <translation type="unfinished"/>
+        <translation>RC BandPass 12dB</translation>
     </message>
     <message>
         <source>RC HighPass 12dB</source>
-        <translation type="unfinished"/>
+        <translation>RC HighPass 12 dB</translation>
     </message>
     <message>
         <source>RC LowPass 24dB</source>
-        <translation type="unfinished"/>
+        <translation>RC LowPass 24 dB</translation>
     </message>
     <message>
         <source>RC BandPass 24dB</source>
-        <translation type="unfinished"/>
+        <translation>RC BandPass 24 dB</translation>
     </message>
     <message>
         <source>RC HighPass 24dB</source>
-        <translation type="unfinished"/>
+        <translation>RC HighPass 24 dB</translation>
     </message>
     <message>
         <source>Vocal Formant Filter</source>
-        <translation type="unfinished"/>
+        <translation>Stemvormingsfilter</translation>
     </message>
     <message>
         <source>2x Moog</source>
-        <translation type="unfinished"/>
+        <translation>2 x Moog</translation>
     </message>
     <message>
         <source>SV LowPass</source>
-        <translation type="unfinished"/>
+        <translation>SV LowPass</translation>
     </message>
     <message>
         <source>SV BandPass</source>
-        <translation type="unfinished"/>
+        <translation>SV BandPass</translation>
     </message>
     <message>
         <source>SV HighPass</source>
-        <translation type="unfinished"/>
+        <translation>SV HighPass</translation>
     </message>
     <message>
         <source>SV Notch</source>
-        <translation type="unfinished"/>
+        <translation>SV Notch</translation>
     </message>
     <message>
         <source>Fast Formant</source>
-        <translation type="unfinished"/>
+        <translation>Snel vormend</translation>
     </message>
     <message>
         <source>Tripole</source>
-        <translation type="unfinished"/>
+        <translation>Tripole</translation>
     </message>
 </context>
 <context>
@@ -3203,7 +3215,7 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     </message>
     <message>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>RESO</translation>
     </message>
     <message>
         <source>Resonance:</source>
@@ -3539,7 +3551,7 @@ Je kan in de contextmenu FX kanalen verwijderen en verplaatsen door middel van e
     <name>LfoControllerDialog</name>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
     <message>
         <source>LFO Controller</source>
@@ -3791,7 +3803,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Controller Rack</source>
-        <translation type="unfinished"/>
+        <translation>Controller-rack</translation>
     </message>
     <message>
         <source>Untitled</source>
@@ -3953,10 +3965,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Save as default template</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export &amp;MIDI...</source>
-        <translation>Exporteer &amp;MIDI...</translation>
     </message>
     <message>
         <source>&amp;View</source>
@@ -4880,7 +4888,7 @@ PM betekent phase modulatie: de phase van oscillator 3 wordt gemoduleerd door os
     </message>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Attack</translation>
     </message>
     <message>
         <source>Rate</source>
@@ -4896,19 +4904,19 @@ PM betekent phase modulatie: de phase van oscillator 3 wordt gemoduleerd door os
     </message>
     <message>
         <source>Hold</source>
-        <translation type="unfinished"/>
+        <translation>Hold</translation>
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Decay</translation>
     </message>
     <message>
         <source>Sustain</source>
-        <translation type="unfinished"/>
+        <translation>Sustain</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Release</translation>
     </message>
     <message>
         <source>Slope</source>
@@ -5413,11 +5421,11 @@ PM betekent phase modulatie: de phase van oscillator 3 wordt gemoduleerd door os
     </message>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Attack</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Release</translation>
     </message>
     <message>
         <source>Abs Value</source>
@@ -7833,7 +7841,7 @@ Zorg ervoor dat je lees-bevoegdheid hebt voor deze bestanden en mappen en probee
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Uitvoer-gain</translation>
     </message>
     <message>
         <source>Attack time</source>
@@ -8046,7 +8054,7 @@ Dubbelklik een van de plugins om informatie te tonen over de ports.</translation
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Min &lt; Default &lt; Max</source>
@@ -8686,15 +8694,15 @@ Dubbelklik een van de plugins om informatie te tonen over de ports.</translation
     <name>opl2instrumentView</name>
     <message>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Attack</translation>
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Decay</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Release</translation>
     </message>
     <message>
         <source>Frequency multiplier</source>
@@ -9962,7 +9970,7 @@ The LED in the lower right corner of the waveform editor determines whether the 
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Uitvoer-gain</translation>
     </message>
 </context>
 </TS>
