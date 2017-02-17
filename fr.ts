@@ -6278,7 +6278,7 @@ Latence : %2 ms</translation>
         <source>Set the time between automatic backup to %1.
 Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
         <translation>Paramétrer le temps entre les sauvegardes automatiques à %1.
-Souvenez-vous de sauvegarder aussi votre projet manuellement. Vous pouvez choisir de séactiver la sauvegarde pendant la lecture, c'est quelque chose qui peut être difficile sur d'anciens systèmes.</translation>
+Souvenez-vous de sauvegarder aussi votre projet manuellement. Vous pouvez choisir de désactiver la sauvegarde pendant la lecture, c'est quelque chose qui peut être difficile sur d'anciens systèmes.</translation>
     </message>
 </context>
 <context>
