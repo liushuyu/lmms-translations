@@ -50,10 +50,6 @@ BrLi &lt;brli at chakraos.org&gt;
         <translation>LMMS</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <source>Involved</source>
         <translation>參與者</translation>
     </message>
@@ -64,6 +60,10 @@ BrLi &lt;brli at chakraos.org&gt;
     <message>
         <source>Copyright © %1</source>
         <translation>版權所有 © %1</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -233,7 +233,7 @@ BrLi &lt;brli at chakraos.org&gt;
     </message>
     <message>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation>JACK服務好像崩潰了而且未能正常啓動，LMMS不能正常工作，你需要儲存你的工作然後重啓JACK和LMMS。</translation>
+        <translation>JACK服務好像崩潰了而重開也失敗了，因此LMMS無法繼續執行。你需要儲存你的工作然後重啓JACK和LMMS。</translation>
     </message>
     <message>
         <source>CLIENT-NAME</source>
@@ -318,11 +318,11 @@ BrLi &lt;brli at chakraos.org&gt;
     </message>
     <message>
         <source>&amp;Paste value (%1%2)</source>
-        <translation>粘貼值（%1%2）(&amp;P)</translation>
+        <translation>貼上值（%1%2）(&amp;P)</translation>
     </message>
     <message>
         <source>Edit song-global automation</source>
-        <translation>編輯歌曲全局自動控制</translation>
+        <translation>編輯歌曲全局的自動控制裝置</translation>
     </message>
     <message>
         <source>Connected to %1</source>
@@ -346,7 +346,7 @@ BrLi &lt;brli at chakraos.org&gt;
     </message>
     <message>
         <source>Remove song-global automation</source>
-        <translation>刪除歌曲全局自動控制</translation>
+        <translation>刪除歌曲全局的自動控制裝置</translation>
     </message>
     <message>
         <source>Remove all linked controls</source>
@@ -404,11 +404,11 @@ BrLi &lt;brli at chakraos.org&gt;
     </message>
     <message>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡來翻轉圖形 (pattern)。圖上的點會隨y軸翻轉。</translation>
     </message>
     <message>
         <source>Click here and the pattern will be reversed. The points are flipped in the x direction.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡來翻轉圖形 (pattern)。圖上的點會隨x軸翻轉。</translation>
     </message>
     <message>
         <source>Click here and draw-mode will be activated. In this mode you can add and move single values.  This is the default mode which is used most of the time.  You can also press &apos;Shift+D&apos; on your keyboard to activate this mode.</source>
@@ -420,11 +420,11 @@ BrLi &lt;brli at chakraos.org&gt;
     </message>
     <message>
         <source>Discrete progression</source>
-        <translation type="unfinished"/>
+        <translation>區間進程 (Discrete progression)</translation>
     </message>
     <message>
         <source>Linear progression</source>
-        <translation type="unfinished"/>
+        <translation>線性進程 (Linear progression)</translation>
     </message>
     <message>
         <source>Cubic Hermite progression</source>
@@ -1013,10 +1013,6 @@ BrLi &lt;brli at chakraos.org&gt;
 <context>
     <name>DelayControlsDialog</name>
     <message>
-        <source>Delay</source>
-        <translation>延遲</translation>
-    </message>
-    <message>
         <source>Lfo Amt</source>
         <translation type="unfinished"/>
     </message>
@@ -1025,15 +1021,7 @@ BrLi &lt;brli at chakraos.org&gt;
         <translation>延遲時間</translation>
     </message>
     <message>
-        <source>Regen</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Feedback Amount</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rate</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1047,6 +1035,22 @@ BrLi &lt;brli at chakraos.org&gt;
     <message>
         <source>Gain</source>
         <translation>增益</translation>
+    </message>
+    <message>
+        <source>DELAY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1576,31 +1580,31 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Click here for a sine-wave.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用正弦波。</translation>
     </message>
     <message>
         <source>Click here for a triangle-wave.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用三角波。</translation>
     </message>
     <message>
         <source>Click here for a saw-wave for current.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用鋸齒波。</translation>
     </message>
     <message>
         <source>Click here for a square-wave.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用方形波。</translation>
     </message>
     <message>
         <source>Click here for a user-defined wave. Afterwards, drag an according sample-file onto the LFO graph.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用自訂波形。之後請把所用波形的樣本檔案拖到LFO Graph上。</translation>
     </message>
     <message>
         <source>FREQ x 100</source>
-        <translation type="unfinished"/>
+        <translation>頻率 x 100</translation>
     </message>
     <message>
         <source>Click here if the frequency of this LFO should be multiplied by 100.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡把這個LFO的頻率乘以100。</translation>
     </message>
     <message>
         <source>multiply LFO-frequency by 100</source>
@@ -1628,11 +1632,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Drag a sample from somewhere and drop it in this window.</source>
-        <translation type="unfinished"/>
+        <translation>把樣本檔案拖到這個視窗上放開。</translation>
     </message>
     <message>
         <source>Click here for random wave.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用隨機波形。</translation>
     </message>
 </context>
 <context>
@@ -1876,18 +1880,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <source> Octave</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Frequency</source>
-        <translation>頻率</translation>
-    </message>
-    <message>
-        <source>Resonance</source>
-        <translation>共鳴</translation>
-    </message>
-    <message>
-        <source>Bandwidth</source>
-        <translation>帶寬</translation>
-    </message>
 </context>
 <context>
     <name>EqHandle</name>
@@ -2051,12 +2043,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <translation>無法打開文件</translation>
     </message>
     <message>
-        <source>Could not open file %1 for writing.
-Please make sure you have write-permission to the file and the directory containing the file and try again!</source>
-        <translation>無法打開文件 %1 寫入數據。
-請確保你擁有對文件以及存儲文件的目錄的寫權限，然後重試！</translation>
-    </message>
-    <message>
         <source>Export project to %1</source>
         <translation>導出項目到 %1</translation>
     </message>
@@ -2071,6 +2057,11 @@ Please make sure you have write-permission to the file and the directory contain
     <message>
         <source>Rendering: %1%</source>
         <translation>渲染中:%1%</translation>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3596,11 +3587,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Click here for a sine-wave.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用正弦波。</translation>
     </message>
     <message>
         <source>Click here for a triangle-wave.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用三角波。</translation>
     </message>
     <message>
         <source>Click here for a saw-wave.</source>
@@ -3608,7 +3599,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Click here for a square-wave.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用方形波。</translation>
     </message>
     <message>
         <source>Click here for an exponential wave.</source>
@@ -3958,10 +3949,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>保存爲默認模板</translation>
     </message>
     <message>
-        <source>Export &amp;MIDI...</source>
-        <translation>導出 MIDI (&amp;M)...</translation>
-    </message>
-    <message>
         <source>&amp;View</source>
         <translation>視圖 (&amp;V)</translation>
     </message>
@@ -4040,6 +4027,10 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Enable note labels in piano roll</source>
         <translation>在鋼琴窗中顯示音號</translation>
+    </message>
+    <message>
+        <source>Save project template</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5677,16 +5668,16 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>PluginBrowser</name>
     <message>
-        <source>Instrument plugins</source>
-        <translation>樂器插件</translation>
-    </message>
-    <message>
         <source>Instrument browser</source>
         <translation>樂器瀏覽器</translation>
     </message>
     <message>
         <source>Drag an instrument into either the Song-Editor, the Beat+Bassline Editor or into an existing instrument track.</source>
         <translation>將樂器插件拖入歌曲編輯器, 節拍低音線編輯器, 或者現有的樂器軌道。</translation>
+    </message>
+    <message>
+        <source>Instrument Plugins</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6115,10 +6106,6 @@ Reason: &quot;%2&quot;</source>
         <translation>歌曲編輯器中啓用平滑滾動</translation>
     </message>
     <message>
-        <source>Enable auto save feature</source>
-        <translation>啓用自動保存功能</translation>
-    </message>
-    <message>
         <source>Show playback cursor in AudioFileProcessor</source>
         <translation>在 AudioFileProcessor 中顯示回放光標</translation>
     </message>
@@ -6245,14 +6232,25 @@ Latency: %2 ms</source>
         <translation>分鐘</translation>
     </message>
     <message>
-        <source>Auto save interval: %1 %2</source>
-        <translation>自動保存間隔: %1 %2</translation>
+        <source>Enable auto-save</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow auto-save while playing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto-save interval: %1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set the time between automatic backup to %1.
-Remember to also save your project manually.</source>
-        <translation>設置自動備份到 %1 的保存時間間隔。
-不過, 請你還是記得時常手動保存你的項目喲。</translation>
+Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6332,6 +6330,10 @@ Remember to also save your project manually.</source>
     <message>
         <source>LMMS Error report</source>
         <translation>LMMS錯誤報告</translation>
+    </message>
+    <message>
+        <source>Save project</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6986,6 +6988,10 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <source>Decrement version number</source>
         <translation>遞減版本號</translation>
+    </message>
+    <message>
+        <source> already exists. Do you want to replace it?</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7718,7 +7724,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here for a triangle-wave.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用三角波。</translation>
     </message>
     <message>
         <source>Click here for a saw-wave.</source>
@@ -7726,7 +7732,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here for a square-wave.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用方形波。</translation>
     </message>
     <message>
         <source>Click here for white-noise.</source>
@@ -8187,7 +8193,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Click here for a triangle-wave.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用三角波。</translation>
     </message>
     <message>
         <source>Square wave</source>
@@ -8195,7 +8201,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Click here for a square-wave.</source>
-        <translation type="unfinished"/>
+        <translation>點擊這裡使用方形波。</translation>
     </message>
     <message>
         <source>Rounded square wave</source>

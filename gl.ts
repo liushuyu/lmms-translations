@@ -42,10 +42,6 @@ Se lle interesa traducir o LMMS a outro idioma ou desexa mellorar as traducións
         <translation>LMMS</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Involved</source>
         <translation type="unfinished"/>
     </message>
@@ -55,6 +51,10 @@ Se lle interesa traducir o LMMS a outro idioma ou desexa mellorar as traducións
     </message>
     <message>
         <source>Copyright © %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1005,10 +1005,6 @@ Se lle interesa traducir o LMMS a outro idioma ou desexa mellorar as traducións
 <context>
     <name>DelayControlsDialog</name>
     <message>
-        <source>Delay</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Lfo Amt</source>
         <translation type="unfinished"/>
     </message>
@@ -1017,16 +1013,8 @@ Se lle interesa traducir o LMMS a outro idioma ou desexa mellorar as traducións
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Regen</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Feedback Amount</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rate</source>
-        <translation>Taxa</translation>
     </message>
     <message>
         <source>Lfo</source>
@@ -1039,6 +1027,22 @@ Se lle interesa traducir o LMMS a outro idioma ou desexa mellorar as traducións
     <message>
         <source>Gain</source>
         <translation>Ganancia</translation>
+    </message>
+    <message>
+        <source>DELAY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1880,18 +1884,6 @@ Ao premer co botón dereito aparece un menú de contexto no que se pode cambiar 
         <source> Octave</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Frequency</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Resonance</source>
-        <translation>Resonancia</translation>
-    </message>
-    <message>
-        <source>Bandwidth</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>EqHandle</name>
@@ -2055,11 +2047,6 @@ Ao premer co botón dereito aparece un menú de contexto no que se pode cambiar 
         <translation>Non foi posíbel abrir o ficheiro</translation>
     </message>
     <message>
-        <source>Could not open file %1 for writing.
-Please make sure you have write-permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Export project to %1</source>
         <translation type="unfinished"/>
     </message>
@@ -2073,6 +2060,11 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Rendering: %1%</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3960,10 +3952,6 @@ Visitehttp://lmms.sf.net/wiki para documentación sobre o LMMS.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Export &amp;MIDI...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>&amp;View</source>
         <translation type="unfinished"/>
     </message>
@@ -4041,6 +4029,10 @@ Visitehttp://lmms.sf.net/wiki para documentación sobre o LMMS.</translation>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save project template</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5679,15 +5671,15 @@ Razón: «%2»</translation>
 <context>
     <name>PluginBrowser</name>
     <message>
-        <source>Instrument plugins</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Instrument browser</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Drag an instrument into either the Song-Editor, the Beat+Bassline Editor or into an existing instrument track.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instrument Plugins</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6117,10 +6109,6 @@ Razón: «%2»</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enable auto save feature</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Show playback cursor in AudioFileProcessor</source>
         <translation type="unfinished"/>
     </message>
@@ -6246,12 +6234,24 @@ Latency: %2 ms</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Auto save interval: %1 %2</source>
+        <source>Enable auto-save</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow auto-save while playing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto-save interval: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Set the time between automatic backup to %1.
-Remember to also save your project manually.</source>
+Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6331,6 +6331,10 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>LMMS Error report</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save project</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6982,6 +6986,10 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Decrement version number</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> already exists. Do you want to replace it?</source>
         <translation type="unfinished"/>
     </message>
 </context>

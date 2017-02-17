@@ -44,10 +44,6 @@ Esteban Viveros</translation>
         <translation>LMMS</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <source>Involved</source>
         <translation>Envolvidos</translation>
     </message>
@@ -58,6 +54,10 @@ Esteban Viveros</translation>
     <message>
         <source>Copyright © %1</source>
         <translation>Direitos autorais © %1</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1007,10 +1007,6 @@ Esteban Viveros</translation>
 <context>
     <name>DelayControlsDialog</name>
     <message>
-        <source>Delay</source>
-        <translation>Atraso</translation>
-    </message>
-    <message>
         <source>Lfo Amt</source>
         <translation type="unfinished"/>
     </message>
@@ -1019,16 +1015,8 @@ Esteban Viveros</translation>
         <translation>Tempo de atraso</translation>
     </message>
     <message>
-        <source>Regen</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Feedback Amount</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rate</source>
-        <translation>Taxa</translation>
     </message>
     <message>
         <source>Lfo</source>
@@ -1041,6 +1029,22 @@ Esteban Viveros</translation>
     <message>
         <source>Gain</source>
         <translation>Ganho</translation>
+    </message>
+    <message>
+        <source>DELAY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation>QNTD</translation>
     </message>
 </context>
 <context>
@@ -1882,18 +1886,6 @@ Clicar com o botão direito no mouse irá exibir um menu de contexto onde você 
         <source> Octave</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Frequency</source>
-        <translation>Frequência</translation>
-    </message>
-    <message>
-        <source>Resonance</source>
-        <translation>Ressonância</translation>
-    </message>
-    <message>
-        <source>Bandwidth</source>
-        <translation>Largura da Banda</translation>
-    </message>
 </context>
 <context>
     <name>EqHandle</name>
@@ -2057,11 +2049,6 @@ Clicar com o botão direito no mouse irá exibir um menu de contexto onde você 
         <translation>Não é possível abrir o arquivo</translation>
     </message>
     <message>
-        <source>Could not open file %1 for writing.
-Please make sure you have write-permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Export project to %1</source>
         <translation>Exportar projeto para %1</translation>
     </message>
@@ -2076,6 +2063,11 @@ Please make sure you have write-permission to the file and the directory contain
     <message>
         <source>Rendering: %1%</source>
         <translation>Renderizando: %1%</translation>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2190,7 +2182,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>Quantidade:</translation>
     </message>
     <message>
         <source>FDBK</source>
@@ -2571,7 +2563,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>note(s)</source>
-        <translation type="unfinished"/>
+        <translation>nota(s)</translation>
     </message>
     <message>
         <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
@@ -2966,7 +2958,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Persian</source>
-        <translation type="unfinished"/>
+        <translation>Persa</translation>
     </message>
 </context>
 <context>
@@ -3474,7 +3466,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Sorry, no help available.</source>
-        <translation>Desculpe, ajuda indisponível... :(.</translation>
+        <translation>Desculpe, ajuda indisponível.</translation>
     </message>
 </context>
 <context>
@@ -3864,7 +3856,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>My Presets</source>
-        <translation type="unfinished"/>
+        <translation>Minhas predefinições</translation>
     </message>
     <message>
         <source>My Home</source>
@@ -3963,12 +3955,8 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
         <translation>Salvar como modelo padrão</translation>
     </message>
     <message>
-        <source>Export &amp;MIDI...</source>
-        <translation>Exportar &amp;MIDI...</translation>
-    </message>
-    <message>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ver</translation>
     </message>
     <message>
         <source>Toggle metronome</source>
@@ -3976,7 +3964,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Show/hide Song-Editor</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/esconder editor de arranjo</translation>
     </message>
     <message>
         <source>Show/hide Beat+Bassline Editor</source>
@@ -4046,6 +4034,10 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
         <source>Enable note labels in piano roll</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Save project template</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>MeterDialog</name>
@@ -4113,7 +4105,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     <message>
         <source>The JACK server seems to be shuted down.</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
-        <translation type="unfinished"/>
+        <translation>O servidor JACK parece estar encerrado.</translation>
     </message>
 </context>
 <context>
@@ -4174,7 +4166,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     <name>MonstroInstrument</name>
     <message>
         <source>Osc 1 Volume</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 Volume</translation>
     </message>
     <message>
         <source>Osc 1 Panning</source>
@@ -4182,7 +4174,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Osc 1 Coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 Ajuste bruto</translation>
     </message>
     <message>
         <source>Osc 1 Fine detune left</source>
@@ -4210,7 +4202,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Osc 2 Volume</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 Volume</translation>
     </message>
     <message>
         <source>Osc 2 Panning</source>
@@ -4246,7 +4238,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Osc 3 Volume</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 Volume</translation>
     </message>
     <message>
         <source>Osc 3 Panning</source>
@@ -4286,7 +4278,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>LFO 1 Attack</source>
-        <translation type="unfinished"/>
+        <translation>LFO 1 Ataque</translation>
     </message>
     <message>
         <source>LFO 1 Rate</source>
@@ -4302,7 +4294,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>LFO 2 Attack</source>
-        <translation type="unfinished"/>
+        <translation>LFO 2 Ataque</translation>
     </message>
     <message>
         <source>LFO 2 Rate</source>
@@ -4374,7 +4366,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Selected view</source>
-        <translation type="unfinished"/>
+        <translation>Vista selecionada</translation>
     </message>
     <message>
         <source>Vol1-Env1</source>
@@ -4386,11 +4378,11 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Vol1-LFO1</source>
-        <translation type="unfinished"/>
+        <translation>Vol1-LFO1</translation>
     </message>
     <message>
         <source>Vol1-LFO2</source>
-        <translation type="unfinished"/>
+        <translation>Vol1-LFO2</translation>
     </message>
     <message>
         <source>Vol2-Env1</source>
@@ -4402,11 +4394,11 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Vol2-LFO1</source>
-        <translation type="unfinished"/>
+        <translation>Vol2-LFO1</translation>
     </message>
     <message>
         <source>Vol2-LFO2</source>
-        <translation type="unfinished"/>
+        <translation>Vol2-LFO2</translation>
     </message>
     <message>
         <source>Vol3-Env1</source>
@@ -4418,11 +4410,11 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Vol3-LFO1</source>
-        <translation type="unfinished"/>
+        <translation>Vol3-LFO1</translation>
     </message>
     <message>
         <source>Vol3-LFO2</source>
-        <translation type="unfinished"/>
+        <translation>Vol3-LFO2</translation>
     </message>
     <message>
         <source>Phs1-Env1</source>
@@ -4586,7 +4578,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Exponential wave</source>
-        <translation type="unfinished"/>
+        <translation>Onda exponencial</translation>
     </message>
     <message>
         <source>White noise</source>
@@ -4622,7 +4614,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Ramp wave</source>
-        <translation type="unfinished"/>
+        <translation>Onda de rampa</translation>
     </message>
     <message>
         <source>Square wave</source>
@@ -4928,7 +4920,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>MultitapEchoControlDialog</name>
     <message>
         <source>Length</source>
-        <translation type="unfinished"/>
+        <translation>Comprimento</translation>
     </message>
     <message>
         <source>Step length:</source>
@@ -5648,7 +5640,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Quantize</source>
-        <translation type="unfinished"/>
+        <translation>Quantizar</translation>
     </message>
 </context>
 <context>
@@ -5682,15 +5674,15 @@ Motivo: &quot;%2&quot;</translation>
 <context>
     <name>PluginBrowser</name>
     <message>
-        <source>Instrument plugins</source>
-        <translation>Plugins de Instrumentos</translation>
-    </message>
-    <message>
         <source>Instrument browser</source>
         <translation>Navegador de Instrumento</translation>
     </message>
     <message>
         <source>Drag an instrument into either the Song-Editor, the Beat+Bassline Editor or into an existing instrument track.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instrument Plugins</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6120,10 +6112,6 @@ Motivo: &quot;%2&quot;</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enable auto save feature</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Show playback cursor in AudioFileProcessor</source>
         <translation type="unfinished"/>
     </message>
@@ -6249,12 +6237,24 @@ Latency: %2 ms</source>
         <translation>minuto</translation>
     </message>
     <message>
-        <source>Auto save interval: %1 %2</source>
-        <translation>Intervalo de Auto salvar: %1 %2</translation>
+        <source>Enable auto-save</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow auto-save while playing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto-save interval: %1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set the time between automatic backup to %1.
-Remember to also save your project manually.</source>
+Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6335,6 +6335,10 @@ Remember to also save your project manually.</source>
     <message>
         <source>LMMS Error report</source>
         <translation>Reportar erro LMMS</translation>
+    </message>
+    <message>
+        <source>Save project</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6497,7 +6501,7 @@ Remember to also save your project manually.</source>
     <name>SpectrumAnalyzerControlDialog</name>
     <message>
         <source>Linear spectrum</source>
-        <translation type="unfinished"/>
+        <translation>Espectro linear</translation>
     </message>
     <message>
         <source>Linear Y axis</source>
@@ -6508,7 +6512,7 @@ Remember to also save your project manually.</source>
     <name>SpectrumAnalyzerControls</name>
     <message>
         <source>Linear spectrum</source>
-        <translation type="unfinished"/>
+        <translation>Espectro linear</translation>
     </message>
     <message>
         <source>Linear Y axis</source>
@@ -6523,15 +6527,15 @@ Remember to also save your project manually.</source>
     <name>SubWindow</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Maximizar</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"/>
+        <translation>Restaurar</translation>
     </message>
 </context>
 <context>
@@ -6989,6 +6993,10 @@ Por favor certifique-se que você tem permissões de leitura para o arquivo e pa
     <message>
         <source>Decrement version number</source>
         <translation>Decrementar número da versão</translation>
+    </message>
+    <message>
+        <source> already exists. Do you want to replace it?</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7888,7 +7896,7 @@ Por favor certifique-se que você tem permissões de leitura para o arquivo e pa
     </message>
     <message>
         <source>Length</source>
-        <translation type="unfinished"/>
+        <translation>Comprimento</translation>
     </message>
     <message>
         <source>Distortion Start</source>

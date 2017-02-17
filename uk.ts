@@ -43,10 +43,6 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>LMMS</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <source>Involved</source>
         <translation>Учасники</translation>
     </message>
@@ -57,6 +53,10 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <source>Copyright © %1</source>
         <translation>Авторське право © %1</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1008,10 +1008,6 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>DelayControlsDialog</name>
     <message>
-        <source>Delay</source>
-        <translation>Затримка</translation>
-    </message>
-    <message>
         <source>Lfo Amt</source>
         <translation>Вел LFO</translation>
     </message>
@@ -1020,16 +1016,8 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>Час затримки</translation>
     </message>
     <message>
-        <source>Regen</source>
-        <translation>Перегенерувати</translation>
-    </message>
-    <message>
         <source>Feedback Amount</source>
         <translation>Величина повернення</translation>
-    </message>
-    <message>
-        <source>Rate</source>
-        <translation>Частота вибірки</translation>
     </message>
     <message>
         <source>Lfo</source>
@@ -1042,6 +1030,22 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <source>Gain</source>
         <translation>Підсилення</translation>
+    </message>
+    <message>
+        <source>DELAY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation>ГЛИБ</translation>
     </message>
 </context>
 <context>
@@ -1884,18 +1888,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <source> Octave</source>
         <translation> Октава</translation>
     </message>
-    <message>
-        <source>Frequency</source>
-        <translation>Частота</translation>
-    </message>
-    <message>
-        <source>Resonance</source>
-        <translation>Резонанс</translation>
-    </message>
-    <message>
-        <source>Bandwidth</source>
-        <translation>Ширина смуги</translation>
-    </message>
 </context>
 <context>
     <name>EqHandle</name>
@@ -2059,12 +2051,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <translation>Не можу відкрити файл</translation>
     </message>
     <message>
-        <source>Could not open file %1 for writing.
-Please make sure you have write-permission to the file and the directory containing the file and try again!</source>
-        <translation>Не можу відкрити файл %1 для запису.
-Перевірте, чи володієте ви правами на запис в обраний файл і каталог що його містить і спробуйте знову!</translation>
-    </message>
-    <message>
         <source>Export project to %1</source>
         <translation>Експорт проекту в %1</translation>
     </message>
@@ -2079,6 +2065,11 @@ Please make sure you have write-permission to the file and the directory contain
     <message>
         <source>Rendering: %1%</source>
         <translation>Обробка: %1%</translation>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4051,6 +4042,10 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <source>Enable note labels in piano roll</source>
         <translation>Включити позначення нот у музичному редакторі</translation>
     </message>
+    <message>
+        <source>Save project template</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>MeterDialog</name>
@@ -5709,16 +5704,16 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>PluginBrowser</name>
     <message>
-        <source>Instrument plugins</source>
-        <translation>Інструменти</translation>
-    </message>
-    <message>
         <source>Instrument browser</source>
         <translation>Огляд інструментів</translation>
     </message>
     <message>
         <source>Drag an instrument into either the Song-Editor, the Beat+Bassline Editor or into an existing instrument track.</source>
         <translation>Ви можете переносити потрібні вам інструменти з цієї панелі в музичний, ритм-бас редактор або в існуючу доріжку інструменту.</translation>
+    </message>
+    <message>
+        <source>Instrument Plugins</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6147,10 +6142,6 @@ Reason: &quot;%2&quot;</source>
         <translation>Плавне прокручування в музичному редакторі</translation>
     </message>
     <message>
-        <source>Enable auto save feature</source>
-        <translation>Включити функцію авто-збереження</translation>
-    </message>
-    <message>
         <source>Show playback cursor in AudioFileProcessor</source>
         <translation>Показувати покажчик відтворення в процесорі аудіо файлів</translation>
     </message>
@@ -6277,14 +6268,25 @@ Latency: %2 ms</source>
         <translation>хвилина</translation>
     </message>
     <message>
-        <source>Auto save interval: %1 %2</source>
-        <translation>Інтервал автоматичного збереження: %1 %2</translation>
+        <source>Enable auto-save</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow auto-save while playing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto-save interval: %1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set the time between automatic backup to %1.
-Remember to also save your project manually.</source>
-        <translation>Встановіть проміжок часу автоматичного резервного копіювання в %1.
-Не забудьте також зберегти проект вручну.</translation>
+Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6364,6 +6366,10 @@ Remember to also save your project manually.</source>
     <message>
         <source>LMMS Error report</source>
         <translation>Повідомлення про помилку в LMMS</translation>
+    </message>
+    <message>
+        <source>Save project</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7018,6 +7024,10 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <source>Decrement version number</source>
         <translation>Зменшуючийся номер версії</translation>
+    </message>
+    <message>
+        <source> already exists. Do you want to replace it?</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

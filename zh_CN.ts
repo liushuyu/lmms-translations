@@ -49,10 +49,6 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
         <translation>LMMS</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <source>Involved</source>
         <translation>参与者</translation>
     </message>
@@ -63,6 +59,10 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     <message>
         <source>Copyright © %1</source>
         <translation>版权所有 © %1</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1012,10 +1012,6 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
 <context>
     <name>DelayControlsDialog</name>
     <message>
-        <source>Delay</source>
-        <translation>延迟</translation>
-    </message>
-    <message>
         <source>Lfo Amt</source>
         <translation>Lfo 数量</translation>
     </message>
@@ -1024,16 +1020,8 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
         <translation>延迟时间</translation>
     </message>
     <message>
-        <source>Regen</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Feedback Amount</source>
         <translation>反馈数量</translation>
-    </message>
-    <message>
-        <source>Rate</source>
-        <translation>比特率</translation>
     </message>
     <message>
         <source>Lfo</source>
@@ -1046,6 +1034,22 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     <message>
         <source>Gain</source>
         <translation>增益</translation>
+    </message>
+    <message>
+        <source>DELAY</source>
+        <translation>延迟</translation>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation>反馈</translation>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation>数量</translation>
     </message>
 </context>
 <context>
@@ -1875,18 +1879,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <source> Octave</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Frequency</source>
-        <translation>频率</translation>
-    </message>
-    <message>
-        <source>Resonance</source>
-        <translation>共鸣</translation>
-    </message>
-    <message>
-        <source>Bandwidth</source>
-        <translation>带宽</translation>
-    </message>
 </context>
 <context>
     <name>EqHandle</name>
@@ -2050,12 +2042,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <translation>无法打开文件</translation>
     </message>
     <message>
-        <source>Could not open file %1 for writing.
-Please make sure you have write-permission to the file and the directory containing the file and try again!</source>
-        <translation>无法打开文件 %1 写入数据。
-请确保你拥有对文件以及存储文件的目录的写权限，然后重试！</translation>
-    </message>
-    <message>
         <source>Export project to %1</source>
         <translation>导出项目到 %1</translation>
     </message>
@@ -2070,6 +2056,11 @@ Please make sure you have write-permission to the file and the directory contain
     <message>
         <source>Rendering: %1%</source>
         <translation>渲染中:%1%</translation>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4043,6 +4034,10 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <source>Enable note labels in piano roll</source>
         <translation>在钢琴窗中显示音号</translation>
     </message>
+    <message>
+        <source>Save project template</source>
+        <translation>保存工程模板</translation>
+    </message>
 </context>
 <context>
     <name>MeterDialog</name>
@@ -4724,7 +4719,7 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
     </message>
     <message>
         <source>Choose waveform for oscillator 2. </source>
-        <translation type="unfinished"/>
+        <translation>为振荡器2选择波形</translation>
     </message>
     <message>
         <source>Choose waveform for oscillator 3&apos;s first sub-osc. Oscillator 3 can smoothly interpolate between two different waveforms. </source>
@@ -4964,15 +4959,15 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Channel 1 Volume</source>
-        <translation type="unfinished"/>
+        <translation>通道 1 音量</translation>
     </message>
     <message>
         <source>Channel 1 Envelope length</source>
-        <translation type="unfinished"/>
+        <translation>通道 1 包络长度</translation>
     </message>
     <message>
         <source>Channel 1 Duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>通道 1 占空比</translation>
     </message>
     <message>
         <source>Channel 1 Sweep amount</source>
@@ -4988,15 +4983,15 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Channel 2 Volume</source>
-        <translation type="unfinished"/>
+        <translation>通道 2 音量</translation>
     </message>
     <message>
         <source>Channel 2 Envelope length</source>
-        <translation type="unfinished"/>
+        <translation>通道 2 包络长度</translation>
     </message>
     <message>
         <source>Channel 2 Duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>通道 2 占空比</translation>
     </message>
     <message>
         <source>Channel 2 Sweep amount</source>
@@ -5012,19 +5007,19 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Channel 3 Volume</source>
-        <translation type="unfinished"/>
+        <translation>通道 3 音量</translation>
     </message>
     <message>
         <source>Channel 4 Volume</source>
-        <translation type="unfinished"/>
+        <translation>通道 4 音量</translation>
     </message>
     <message>
         <source>Channel 4 Envelope length</source>
-        <translation type="unfinished"/>
+        <translation>通道 4 包络长度</translation>
     </message>
     <message>
         <source>Channel 4 Noise frequency</source>
-        <translation type="unfinished"/>
+        <translation>通道 4 噪音频率</translation>
     </message>
     <message>
         <source>Channel 4 Noise frequency sweep</source>
@@ -5055,15 +5050,15 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Enable channel 1</source>
-        <translation type="unfinished"/>
+        <translation>启用通道 1</translation>
     </message>
     <message>
         <source>Enable envelope 1</source>
-        <translation type="unfinished"/>
+        <translation>启用包络 1</translation>
     </message>
     <message>
         <source>Enable envelope 1 loop</source>
-        <translation type="unfinished"/>
+        <translation>启用包络 1 循环</translation>
     </message>
     <message>
         <source>Enable sweep 1</source>
@@ -5079,31 +5074,31 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>12.5% Duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>12.5% 占空比</translation>
     </message>
     <message>
         <source>25% Duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>25% 占空比</translation>
     </message>
     <message>
         <source>50% Duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>50% 占空比</translation>
     </message>
     <message>
         <source>75% Duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>75% 占空比</translation>
     </message>
     <message>
         <source>Enable channel 2</source>
-        <translation type="unfinished"/>
+        <translation>启用通道 2</translation>
     </message>
     <message>
         <source>Enable envelope 2</source>
-        <translation type="unfinished"/>
+        <translation>启用包络 2</translation>
     </message>
     <message>
         <source>Enable envelope 2 loop</source>
-        <translation type="unfinished"/>
+        <translation>启用包络 2 循环</translation>
     </message>
     <message>
         <source>Enable sweep 2</source>
@@ -5111,7 +5106,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Enable channel 3</source>
-        <translation type="unfinished"/>
+        <translation>启用通道 3</translation>
     </message>
     <message>
         <source>Noise Frequency</source>
@@ -5123,15 +5118,15 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Enable channel 4</source>
-        <translation type="unfinished"/>
+        <translation>启用通道 4</translation>
     </message>
     <message>
         <source>Enable envelope 4</source>
-        <translation type="unfinished"/>
+        <translation>启用包络 4</translation>
     </message>
     <message>
         <source>Enable envelope 4 loop</source>
-        <translation type="unfinished"/>
+        <translation>启用包络 4 循环</translation>
     </message>
     <message>
         <source>Quantize noise frequency when using note frequency</source>
@@ -5190,7 +5185,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Modulation type %1</source>
-        <translation type="unfinished"/>
+        <translation>调制类型 %1</translation>
     </message>
     <message>
         <source>Osc %1 waveform</source>
@@ -5679,16 +5674,16 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>PluginBrowser</name>
     <message>
-        <source>Instrument plugins</source>
-        <translation>乐器插件</translation>
-    </message>
-    <message>
         <source>Instrument browser</source>
         <translation>乐器浏览器</translation>
     </message>
     <message>
         <source>Drag an instrument into either the Song-Editor, the Beat+Bassline Editor or into an existing instrument track.</source>
         <translation>将乐器插件拖入歌曲编辑器, 节拍低音线编辑器, 或者现有的乐器轨道。</translation>
+    </message>
+    <message>
+        <source>Instrument Plugins</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6117,10 +6112,6 @@ Reason: &quot;%2&quot;</source>
         <translation>歌曲编辑器中启用平滑滚动</translation>
     </message>
     <message>
-        <source>Enable auto save feature</source>
-        <translation>启用自动保存功能</translation>
-    </message>
-    <message>
         <source>Show playback cursor in AudioFileProcessor</source>
         <translation>在 AudioFileProcessor 中显示回放光标</translation>
     </message>
@@ -6247,14 +6238,26 @@ Latency: %2 ms</source>
         <translation>分钟</translation>
     </message>
     <message>
-        <source>Auto save interval: %1 %2</source>
-        <translation>自动保存间隔: %1 %2</translation>
+        <source>Enable auto-save</source>
+        <translation>启用自动保存</translation>
+    </message>
+    <message>
+        <source>Allow auto-save while playing</source>
+        <translation>允许在播放时自动保存</translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto-save interval: %1</source>
+        <translation>自动保存间隔：%1</translation>
     </message>
     <message>
         <source>Set the time between automatic backup to %1.
-Remember to also save your project manually.</source>
-        <translation>设置自动备份到 %1 的保存时间间隔。
-不过, 请你还是记得时常手动保存你的项目哟。</translation>
+Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
+        <translation>设置自动保存时间间隔为 %1。
+请您也时常手动保存您的项目。如果您的设备较旧，您可以选择禁用“允许在播放时自动保存”这个选项。</translation>
     </message>
 </context>
 <context>
@@ -6334,6 +6337,10 @@ Remember to also save your project manually.</source>
     <message>
         <source>LMMS Error report</source>
         <translation>LMMS 错误报告</translation>
+    </message>
+    <message>
+        <source>Save project</source>
+        <translation>保存工程</translation>
     </message>
 </context>
 <context>
@@ -6852,11 +6859,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Synchronize oscillator 1 with oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>同步振荡器 1 和振荡器 2</translation>
     </message>
     <message>
         <source>Use frequency modulation for modulating oscillator 1 with oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>将振荡器 1 的频率调制应用给振荡器 2</translation>
     </message>
     <message>
         <source>Use phase modulation for modulating oscillator 2 with oscillator 3</source>
@@ -6872,11 +6879,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Synchronize oscillator 2 with oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>同步振荡器 2 和振荡器 3</translation>
     </message>
     <message>
         <source>Use frequency modulation for modulating oscillator 2 with oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>将振荡器 2 的频率调制应用给振荡器 3</translation>
     </message>
     <message>
         <source>Osc %1 volume:</source>
@@ -6988,6 +6995,10 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <source>Decrement version number</source>
         <translation>递减版本号</translation>
+    </message>
+    <message>
+        <source> already exists. Do you want to replace it?</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7206,83 +7217,83 @@ Please make sure you have read-permission to the file and the directory containi
     <name>WatsynInstrument</name>
     <message>
         <source>Volume A1</source>
-        <translation type="unfinished"/>
+        <translation>音量 A1</translation>
     </message>
     <message>
         <source>Volume A2</source>
-        <translation type="unfinished"/>
+        <translation>音量 A2</translation>
     </message>
     <message>
         <source>Volume B1</source>
-        <translation type="unfinished"/>
+        <translation>音量 B1</translation>
     </message>
     <message>
         <source>Volume B2</source>
-        <translation type="unfinished"/>
+        <translation>音量 B2</translation>
     </message>
     <message>
         <source>Panning A1</source>
-        <translation type="unfinished"/>
+        <translation>声相 A1</translation>
     </message>
     <message>
         <source>Panning A2</source>
-        <translation type="unfinished"/>
+        <translation>声相 A2</translation>
     </message>
     <message>
         <source>Panning B1</source>
-        <translation type="unfinished"/>
+        <translation>声相 B1</translation>
     </message>
     <message>
         <source>Panning B2</source>
-        <translation type="unfinished"/>
+        <translation>声相 B2</translation>
     </message>
     <message>
         <source>Freq. multiplier A1</source>
-        <translation type="unfinished"/>
+        <translation>频率加倍器 A1</translation>
     </message>
     <message>
         <source>Freq. multiplier A2</source>
-        <translation type="unfinished"/>
+        <translation>频率加倍器 A2</translation>
     </message>
     <message>
         <source>Freq. multiplier B1</source>
-        <translation type="unfinished"/>
+        <translation>频率加倍器 B1</translation>
     </message>
     <message>
         <source>Freq. multiplier B2</source>
-        <translation type="unfinished"/>
+        <translation>频率加倍器 B2</translation>
     </message>
     <message>
         <source>Left detune A1</source>
-        <translation type="unfinished"/>
+        <translation>左失谐 A1</translation>
     </message>
     <message>
         <source>Left detune A2</source>
-        <translation type="unfinished"/>
+        <translation>左失谐 A2</translation>
     </message>
     <message>
         <source>Left detune B1</source>
-        <translation type="unfinished"/>
+        <translation>左失谐 B1</translation>
     </message>
     <message>
         <source>Left detune B2</source>
-        <translation type="unfinished"/>
+        <translation>左失谐 B2</translation>
     </message>
     <message>
         <source>Right detune A1</source>
-        <translation type="unfinished"/>
+        <translation>右失谐 A1</translation>
     </message>
     <message>
         <source>Right detune A2</source>
-        <translation type="unfinished"/>
+        <translation>右失谐 A2</translation>
     </message>
     <message>
         <source>Right detune B1</source>
-        <translation type="unfinished"/>
+        <translation>右失谐 B1</translation>
     </message>
     <message>
         <source>Right detune B2</source>
-        <translation type="unfinished"/>
+        <translation>右失谐 B2</translation>
     </message>
     <message>
         <source>A-B Mix</source>
@@ -7325,19 +7336,19 @@ Please make sure you have read-permission to the file and the directory containi
     <name>WatsynView</name>
     <message>
         <source>Select oscillator A1</source>
-        <translation type="unfinished"/>
+        <translation>选择振荡器 A1</translation>
     </message>
     <message>
         <source>Select oscillator A2</source>
-        <translation type="unfinished"/>
+        <translation>选择振荡器 A2</translation>
     </message>
     <message>
         <source>Select oscillator B1</source>
-        <translation type="unfinished"/>
+        <translation>选择振荡器 B1</translation>
     </message>
     <message>
         <source>Select oscillator B2</source>
-        <translation type="unfinished"/>
+        <translation>选择振荡器 B2</translation>
     </message>
     <message>
         <source>Mix output of A2 to A1</source>
@@ -7779,7 +7790,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here to reset the wavegraph back to default</source>
-        <translation type="unfinished"/>
+        <translation>点击这里重置波形为默认状态</translation>
     </message>
     <message>
         <source>Smooth waveform</source>
@@ -7795,7 +7806,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here to increase wavegraph amplitude by 1dB</source>
-        <translation type="unfinished"/>
+        <translation>点击这里将波形增益值增加 1dB</translation>
     </message>
     <message>
         <source>Decrease wavegraph amplitude by 1dB</source>
@@ -7803,7 +7814,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here to decrease wavegraph amplitude by 1dB</source>
-        <translation type="unfinished"/>
+        <translation>点击这里将波形增益值减少 1dB</translation>
     </message>
     <message>
         <source>Stereomode Maximum</source>
@@ -8380,11 +8391,11 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Glass</source>
-        <translation type="unfinished"/>
+        <translation>玻璃</translation>
     </message>
     <message>
         <source>Tibetan Bowl</source>
-        <translation type="unfinished"/>
+        <translation>藏缽</translation>
     </message>
 </context>
 <context>
@@ -9159,7 +9170,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Monstrous 3-oscillator synth with modulation matrix</source>
-        <translation type="unfinished"/>
+        <translation>带 3 个振荡器和调制矩阵的能发出像怪兽一样声音的合成器</translation>
     </message>
     <message>
         <source>Three powerful oscillators you can modulate in several ways</source>
@@ -9925,7 +9936,7 @@ The LED in the lower right corner of the waveform editor determines whether the 
     </message>
     <message>
         <source>Click here to reset the wavegraph back to default</source>
-        <translation type="unfinished"/>
+        <translation>点击这里重置波形为默认状态</translation>
     </message>
     <message>
         <source>Smooth waveform</source>
@@ -9941,15 +9952,15 @@ The LED in the lower right corner of the waveform editor determines whether the 
     </message>
     <message>
         <source>Click here to increase wavegraph amplitude by 1dB</source>
-        <translation type="unfinished"/>
+        <translation>点击这里将波形增益值增加 1dB</translation>
     </message>
     <message>
         <source>Decrease graph amplitude by 1dB</source>
-        <translation type="unfinished"/>
+        <translation>将图像的增益值减少 1dB</translation>
     </message>
     <message>
         <source>Click here to decrease wavegraph amplitude by 1dB</source>
-        <translation type="unfinished"/>
+        <translation>点击这里将波形增益值减少 1dB</translation>
     </message>
     <message>
         <source>Clip input</source>

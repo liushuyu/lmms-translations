@@ -40,10 +40,6 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Involved</source>
         <translation type="unfinished"/>
     </message>
@@ -53,6 +49,10 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Copyright © %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -528,7 +528,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Change name</source>
-        <translation>이름 변경</translation>
+        <translation>이름 바꾸기</translation>
     </message>
     <message>
         <source>%1 Connections</source>
@@ -566,7 +566,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>BBEditor</name>
     <message>
         <source>Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>비트/베이스 라인 편집기</translation>
     </message>
     <message>
         <source>Play/pause current beat/bassline (Space)</source>
@@ -621,7 +621,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>BBTCOView</name>
     <message>
         <source>Open in Beat+Bassline-Editor</source>
-        <translation type="unfinished"/>
+        <translation>비트/베이스 라인 편집기에서 열기</translation>
     </message>
     <message>
         <source>Reset name</source>
@@ -629,15 +629,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Change name</source>
-        <translation>이름 변경</translation>
+        <translation>이름 바꾸기</translation>
     </message>
     <message>
         <source>Change color</source>
-        <translation type="unfinished"/>
+        <translation>색상 바꾸기</translation>
     </message>
     <message>
         <source>Reset color to default</source>
-        <translation type="unfinished"/>
+        <translation>색상을 기본값으로 되돌리기</translation>
     </message>
 </context>
 <context>
@@ -1003,10 +1003,6 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>DelayControlsDialog</name>
     <message>
-        <source>Delay</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Lfo Amt</source>
         <translation type="unfinished"/>
     </message>
@@ -1015,16 +1011,8 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Regen</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Feedback Amount</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rate</source>
-        <translation>비</translation>
     </message>
     <message>
         <source>Lfo</source>
@@ -1037,6 +1025,22 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <source>Gain</source>
         <translation>이득</translation>
+    </message>
+    <message>
+        <source>DELAY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1866,18 +1870,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <source> Octave</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Frequency</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Resonance</source>
-        <translation>공명</translation>
-    </message>
-    <message>
-        <source>Bandwidth</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>EqHandle</name>
@@ -2041,11 +2033,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <translation>파일을 열 수 없음</translation>
     </message>
     <message>
-        <source>Could not open file %1 for writing.
-Please make sure you have write-permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Export project to %1</source>
         <translation type="unfinished"/>
     </message>
@@ -2059,6 +2046,11 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Rendering: %1%</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2345,35 +2337,35 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Preparing UI</source>
-        <translation type="unfinished"/>
+        <translation>UI 준비</translation>
     </message>
     <message>
         <source>Preparing song editor</source>
-        <translation type="unfinished"/>
+        <translation>노래 편집기 준비</translation>
     </message>
     <message>
         <source>Preparing mixer</source>
-        <translation type="unfinished"/>
+        <translation>믹서 준비</translation>
     </message>
     <message>
         <source>Preparing controller rack</source>
-        <translation type="unfinished"/>
+        <translation>제어기 랙 준비</translation>
     </message>
     <message>
         <source>Preparing project notes</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 노트 준비</translation>
     </message>
     <message>
         <source>Preparing beat/bassline editor</source>
-        <translation type="unfinished"/>
+        <translation>비트/베이스 라인 편집기 준비</translation>
     </message>
     <message>
         <source>Preparing piano roll</source>
-        <translation type="unfinished"/>
+        <translation>피아노 롤 준비</translation>
     </message>
     <message>
         <source>Preparing automation editor</source>
-        <translation type="unfinished"/>
+        <translation>오토메이션 편집기 준비</translation>
     </message>
 </context>
 <context>
@@ -3741,7 +3733,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>비트/베이스 라인 편집기</translation>
     </message>
     <message>
         <source>By pressing this button, you can show or hide the Beat+Bassline Editor. The Beat+Bassline Editor is needed for creating beats, and for opening, adding, and removing channels, and for cutting, copying and pasting beat and bassline-patterns, and for other things like that.</source>
@@ -3773,7 +3765,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Project Notes</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 노트</translation>
     </message>
     <message>
         <source>Click here to show or hide the project notes window. In this window you can put down your project notes.</source>
@@ -3838,23 +3830,23 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>My Projects</source>
-        <translation type="unfinished"/>
+        <translation>내 프로젝트</translation>
     </message>
     <message>
         <source>My Samples</source>
-        <translation type="unfinished"/>
+        <translation>내 샘플</translation>
     </message>
     <message>
         <source>My Presets</source>
-        <translation type="unfinished"/>
+        <translation>내 사전 설정</translation>
     </message>
     <message>
         <source>My Home</source>
-        <translation type="unfinished"/>
+        <translation>내 홈 디렉터리</translation>
     </message>
     <message>
         <source>My Computer</source>
-        <translation type="unfinished"/>
+        <translation>내 컴퓨터</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -3922,11 +3914,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Preparing plugin browser</source>
-        <translation type="unfinished"/>
+        <translation>플러그인 탐색기 준비</translation>
     </message>
     <message>
         <source>Preparing file browsers</source>
-        <translation type="unfinished"/>
+        <translation>파일 탐색기 준비</translation>
     </message>
     <message>
         <source>Root directory</source>
@@ -3945,10 +3937,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Export &amp;MIDI...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>&amp;View</source>
         <translation type="unfinished"/>
     </message>
@@ -3962,7 +3950,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Show/hide Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>비트/베이스 라인 편집기 보이기/숨기기</translation>
     </message>
     <message>
         <source>Show/hide Piano-Roll</source>
@@ -3978,7 +3966,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Show/hide project notes</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 노트 보이기/숨기기</translation>
     </message>
     <message>
         <source>Show/hide controller rack</source>
@@ -4026,6 +4014,10 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save project template</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5284,7 +5276,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Change name</source>
-        <translation>이름 변경</translation>
+        <translation>이름 바꾸기</translation>
     </message>
     <message>
         <source>Add steps</source>
@@ -5663,15 +5655,15 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>PluginBrowser</name>
     <message>
-        <source>Instrument plugins</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Instrument browser</source>
-        <translation type="unfinished"/>
+        <translation>악기 탐색기</translation>
     </message>
     <message>
         <source>Drag an instrument into either the Song-Editor, the Beat+Bassline Editor or into an existing instrument track.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instrument Plugins</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5690,11 +5682,11 @@ Reason: &quot;%2&quot;</source>
     <name>ProjectNotes</name>
     <message>
         <source>Project notes</source>
-        <translation type="unfinished"/>
+        <translation>프로젝트 노트</translation>
     </message>
     <message>
         <source>Put down your project notes here.</source>
-        <translation type="unfinished"/>
+        <translation>여기에 프로젝트 노트를 작성하세요.</translation>
     </message>
     <message>
         <source>Edit Actions</source>
@@ -6101,10 +6093,6 @@ Reason: &quot;%2&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enable auto save feature</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Show playback cursor in AudioFileProcessor</source>
         <translation type="unfinished"/>
     </message>
@@ -6230,12 +6218,24 @@ Latency: %2 ms</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Auto save interval: %1 %2</source>
+        <source>Enable auto-save</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow auto-save while playing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto-save interval: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Set the time between automatic backup to %1.
-Remember to also save your project manually.</source>
+Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6315,6 +6315,10 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>LMMS Error report</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save project</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6966,6 +6970,10 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Decrement version number</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> already exists. Do you want to replace it?</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -7956,7 +7964,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Instruments</source>
-        <translation>기기</translation>
+        <translation>악기</translation>
     </message>
     <message>
         <source>Analysis Tools</source>
@@ -8358,7 +8366,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <name>malletsInstrumentView</name>
     <message>
         <source>Instrument</source>
-        <translation>기기</translation>
+        <translation>악기</translation>
     </message>
     <message>
         <source>Spread</source>

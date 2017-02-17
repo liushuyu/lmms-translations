@@ -40,10 +40,6 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>LMMS</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <source>Involved</source>
         <translation>Involverad</translation>
     </message>
@@ -54,6 +50,10 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <source>Copyright © %1</source>
         <translation>Copyright © %1</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -125,7 +125,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AudioFileProcessorView</name>
     <message>
         <source>Open other sample</source>
-        <translation>Oppna annan ljudfil</translation>
+        <translation>Öppna annan ljudfil</translation>
     </message>
     <message>
         <source>Click here, if you want to open another audio-file. A dialog will appear where you can select your file. Settings like looping-mode, start and end-points, amplify-value, and so on are not reset. So, it may not sound like the original sample.</source>
@@ -219,11 +219,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>JACK server down</source>
-        <translation>JACK server nerstängd</translation>
+        <translation>JACK-server nerstängd</translation>
     </message>
     <message>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation>JACK servern stängde av och det gick inte starta en ny. LMMS kan inte fortsätta. Du bör spara ditt projekt och starta om både JACK och LMMS.</translation>
+        <translation>JACK-servern stängdes ned och det gick inte starta en ny. LMMS kan inte fortsätta. Du bör spara ditt projekt och starta om både JACK och LMMS.</translation>
     </message>
     <message>
         <source>CLIENT-NAME</source>
@@ -366,7 +366,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Click here if you want to play the current pattern. This is useful while editing it.  The pattern is automatically looped when the end is reached.</source>
-        <translation>Clicka här för att spela det aktuella mönstret. Det här är hjälpsamt när man redigerar. Mönstret spelas från början igen när de nått sitt slut.</translation>
+        <translation>Klicka här för att spela det aktuella mönstret, detta är användbart när man redigerar. Mönstret spelas från början igen när det nått sitt slut.</translation>
     </message>
     <message>
         <source>Stop playing of current pattern (Space)</source>
@@ -795,7 +795,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of Carla.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för att visa eller gömma användargränssnittet för Carla.</translation>
     </message>
 </context>
 <context>
@@ -813,7 +813,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>MIDI CONTROLLER</source>
-        <translation>MIDI KONTROLLER</translation>
+        <translation>MIDI-KONTROLLER</translation>
     </message>
     <message>
         <source>Input channel</source>
@@ -837,7 +837,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>MIDI-devices to receive MIDI-events from</source>
-        <translation type="unfinished"/>
+        <translation>MIDI-enheter att ta emot MIDI-events från</translation>
     </message>
     <message>
         <source>USER CONTROLLER</source>
@@ -868,7 +868,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>ControllerRackView</name>
     <message>
         <source>Controller Rack</source>
-        <translation type="unfinished"/>
+        <translation>Kontrollrack</translation>
     </message>
     <message>
         <source>Add</source>
@@ -880,7 +880,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Confirm delete? There are existing connection(s) associated with this controller. There is no way to undo.</source>
-        <translation type="unfinished"/>
+        <translation>Vill du verkligen ta bort? Det finns kopplingar till den här kontrollern, och operationen går inte ångra.</translation>
     </message>
 </context>
 <context>
@@ -930,58 +930,58 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Band 1 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Band 1 Förstärkn.:</translation>
     </message>
     <message>
         <source>Band 2 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Band 2 Förstärkn.:</translation>
     </message>
     <message>
         <source>Band 3 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Band 3 Förstärkn.:</translation>
     </message>
     <message>
         <source>Band 4 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Band 4 Förstärkn.:</translation>
     </message>
     <message>
         <source>Band 1 Mute</source>
-        <translation type="unfinished"/>
+        <translation>Band 1 Tyst</translation>
     </message>
     <message>
         <source>Mute Band 1</source>
-        <translation type="unfinished"/>
+        <translation>Tysta Band 1</translation>
     </message>
     <message>
         <source>Band 2 Mute</source>
-        <translation type="unfinished"/>
+        <translation>Band 2 Tyst</translation>
     </message>
     <message>
         <source>Mute Band 2</source>
-        <translation type="unfinished"/>
+        <translation>Tysta Band 2</translation>
     </message>
     <message>
         <source>Band 3 Mute</source>
-        <translation type="unfinished"/>
+        <translation>Band 3 Tyst</translation>
     </message>
     <message>
         <source>Mute Band 3</source>
-        <translation type="unfinished"/>
+        <translation>Tysta Band 3</translation>
     </message>
     <message>
         <source>Band 4 Mute</source>
-        <translation type="unfinished"/>
+        <translation>Band 4 Tyst</translation>
     </message>
     <message>
         <source>Mute Band 4</source>
-        <translation type="unfinished"/>
+        <translation>Tysta Band 4</translation>
     </message>
 </context>
 <context>
     <name>DelayControls</name>
     <message>
         <source>Delay Samples</source>
-        <translation type="unfinished"/>
+        <translation>Fördröj Samplingar</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -997,15 +997,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Utgångsförstärkning</translation>
     </message>
 </context>
 <context>
     <name>DelayControlsDialog</name>
-    <message>
-        <source>Delay</source>
-        <translation>Fördröjning</translation>
-    </message>
     <message>
         <source>Lfo Amt</source>
         <translation type="unfinished"/>
@@ -1015,16 +1011,8 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>Tidsfördröjning</translation>
     </message>
     <message>
-        <source>Regen</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Feedback Amount</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rate</source>
-        <translation>Värdera</translation>
+        <translation>Återgivningsmängd</translation>
     </message>
     <message>
         <source>Lfo</source>
@@ -1032,38 +1020,54 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Out Gain</source>
-        <translation type="unfinished"/>
+        <translation>Ut-förstärkning</translation>
     </message>
     <message>
         <source>Gain</source>
         <translation>Förstärkning</translation>
+    </message>
+    <message>
+        <source>DELAY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>DualFilterControlDialog</name>
     <message>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filter 1 aktiverat</translation>
     </message>
     <message>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filter 2 aktiverat</translation>
     </message>
     <message>
         <source>Click to enable/disable Filter 1</source>
-        <translation type="unfinished"/>
+        <translation>Klicka för att aktivera/inaktivera Filter 1</translation>
     </message>
     <message>
         <source>Click to enable/disable Filter 2</source>
-        <translation type="unfinished"/>
+        <translation>Klicka för att aktivera/inaktivera Filter 2</translation>
     </message>
     <message>
         <source>FREQ</source>
-        <translation>FREK</translation>
+        <translation>FREKV.</translation>
     </message>
     <message>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Cutoff frekvens</translation>
     </message>
     <message>
         <source>RESO</source>
@@ -1075,7 +1079,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>GAIN</source>
-        <translation>FÖRST</translation>
+        <translation>FÖRST.</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1094,15 +1098,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>DualFilterControls</name>
     <message>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filter 1 aktiverat</translation>
     </message>
     <message>
         <source>Filter 1 type</source>
-        <translation type="unfinished"/>
+        <translation>Filter 1 typ</translation>
     </message>
     <message>
         <source>Cutoff 1 frequency</source>
-        <translation type="unfinished"/>
+        <translation>Cutoff 1 frekvens</translation>
     </message>
     <message>
         <source>Q/Resonance 1</source>
@@ -1110,7 +1114,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Gain 1</source>
-        <translation type="unfinished"/>
+        <translation>Förstärkning 1</translation>
     </message>
     <message>
         <source>Mix</source>
@@ -1118,15 +1122,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filter 2 aktiverat</translation>
     </message>
     <message>
         <source>Filter 2 type</source>
-        <translation type="unfinished"/>
+        <translation>Filter 2 typ</translation>
     </message>
     <message>
         <source>Cutoff 2 frequency</source>
-        <translation type="unfinished"/>
+        <translation>Cutoff 2 frekvens</translation>
     </message>
     <message>
         <source>Q/Resonance 2</source>
@@ -1134,7 +1138,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Gain 2</source>
-        <translation type="unfinished"/>
+        <translation>Förstärkning 2</translation>
     </message>
     <message>
         <source>LowPass</source>
@@ -1170,27 +1174,27 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>RC LowPass 12dB</source>
-        <translation type="unfinished"/>
+        <translation>RC Lågpass 12dB</translation>
     </message>
     <message>
         <source>RC BandPass 12dB</source>
-        <translation type="unfinished"/>
+        <translation>RC BandPass 12dB</translation>
     </message>
     <message>
         <source>RC HighPass 12dB</source>
-        <translation type="unfinished"/>
+        <translation>RC Högpass 12dB</translation>
     </message>
     <message>
         <source>RC LowPass 24dB</source>
-        <translation type="unfinished"/>
+        <translation>RC Lågpass 24dB</translation>
     </message>
     <message>
         <source>RC BandPass 24dB</source>
-        <translation type="unfinished"/>
+        <translation>RC BandPass 24dB</translation>
     </message>
     <message>
         <source>RC HighPass 24dB</source>
-        <translation type="unfinished"/>
+        <translation>RC Högpass 24dB</translation>
     </message>
     <message>
         <source>Vocal Formant Filter</source>
@@ -1202,15 +1206,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>SV LowPass</source>
-        <translation type="unfinished"/>
+        <translation>SV Lågpass</translation>
     </message>
     <message>
         <source>SV BandPass</source>
-        <translation type="unfinished"/>
+        <translation>SV BandPass</translation>
     </message>
     <message>
         <source>SV HighPass</source>
-        <translation type="unfinished"/>
+        <translation>SV Högpass</translation>
     </message>
     <message>
         <source>SV Notch</source>
@@ -1229,11 +1233,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>Editor</name>
     <message>
         <source>Play (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Play (Mellanslag)</translation>
     </message>
     <message>
         <source>Stop (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Stop (Mellanslag)</translation>
     </message>
     <message>
         <source>Record</source>
@@ -1264,7 +1268,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Decay</translation>
     </message>
 </context>
 <context>
@@ -1278,7 +1282,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>EffectRackView</name>
     <message>
         <source>EFFECTS CHAIN</source>
-        <translation type="unfinished"/>
+        <translation>EFFEKTKEDJA</translation>
     </message>
     <message>
         <source>Add effect</source>
@@ -1312,7 +1316,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>EffectView</name>
     <message>
         <source>Toggles the effect on or off.</source>
-        <translation type="unfinished"/>
+        <translation>Slår på eller av effekten.</translation>
     </message>
     <message>
         <source>On/Off</source>
@@ -1332,7 +1336,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>DECAY</source>
-        <translation type="unfinished"/>
+        <translation>DECAY</translation>
     </message>
     <message>
         <source>Time:</source>
@@ -1344,11 +1348,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>GATE</source>
-        <translation type="unfinished"/>
+        <translation>GATE</translation>
     </message>
     <message>
         <source>Gate:</source>
-        <translation type="unfinished"/>
+        <translation>Gate:</translation>
     </message>
     <message>
         <source>The Gate knob controls the signal level that is considered to be &apos;silence&apos; while deciding when to stop processing signals.</source>
@@ -1391,7 +1395,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <name>EnvelopeAndLfoParameters</name>
     <message>
         <source>Predelay</source>
-        <translation type="unfinished"/>
+        <translation>För-fördröjning</translation>
     </message>
     <message>
         <source>Attack</source>
@@ -1399,19 +1403,19 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Hold</source>
-        <translation>Håll</translation>
+        <translation>Hold</translation>
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Decay</translation>
     </message>
     <message>
         <source>Sustain</source>
-        <translation type="unfinished"/>
+        <translation>Sustain</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation>Släpp</translation>
+        <translation>Release</translation>
     </message>
     <message>
         <source>Modulation</source>
@@ -1423,27 +1427,27 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>LFO Attack</source>
-        <translation type="unfinished"/>
+        <translation>LFO-Attack</translation>
     </message>
     <message>
         <source>LFO speed</source>
-        <translation type="unfinished"/>
+        <translation>LFO-hastighet</translation>
     </message>
     <message>
         <source>LFO Modulation</source>
-        <translation type="unfinished"/>
+        <translation>LFO-Modulering</translation>
     </message>
     <message>
         <source>LFO Wave Shape</source>
-        <translation type="unfinished"/>
+        <translation>LFO-vågform</translation>
     </message>
     <message>
         <source>Freq x 100</source>
-        <translation>Frek x 100</translation>
+        <translation>Frekv. x 100</translation>
     </message>
     <message>
         <source>Modulate Env-Amount</source>
-        <translation type="unfinished"/>
+        <translation>Modulera Env-mängd</translation>
     </message>
 </context>
 <context>
@@ -1454,7 +1458,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Predelay:</source>
-        <translation type="unfinished"/>
+        <translation>För-fördröjning:</translation>
     </message>
     <message>
         <source>Use this knob for setting predelay of the current envelope. The bigger this value the longer the time before start of actual envelope.</source>
@@ -1462,7 +1466,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>ATT</source>
-        <translation type="unfinished"/>
+        <translation>ATT</translation>
     </message>
     <message>
         <source>Attack:</source>
@@ -1474,11 +1478,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>HOLD</source>
-        <translation>HÅLL</translation>
+        <translation>HOLD</translation>
     </message>
     <message>
         <source>Hold:</source>
-        <translation>Håll:</translation>
+        <translation>Hold:</translation>
     </message>
     <message>
         <source>Use this knob for setting hold-time of the current envelope. The bigger this value the longer the envelope holds attack-level before it begins to decrease to sustain-level.</source>
@@ -1490,7 +1494,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Decay:</translation>
     </message>
     <message>
         <source>Use this knob for setting decay-time of the current envelope. The bigger this value the longer the envelope needs to decrease from attack-level to sustain-level. Choose a small value for instruments like pianos.</source>
@@ -1498,11 +1502,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>SUST</source>
-        <translation type="unfinished"/>
+        <translation>SUST</translation>
     </message>
     <message>
         <source>Sustain:</source>
-        <translation type="unfinished"/>
+        <translation>Sustain:</translation>
     </message>
     <message>
         <source>Use this knob for setting sustain-level of the current envelope. The bigger this value the higher the level on which the envelope stays before going down to zero.</source>
@@ -1510,11 +1514,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>REL</source>
-        <translation type="unfinished"/>
+        <translation>REL</translation>
     </message>
     <message>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>Release:</translation>
     </message>
     <message>
         <source>Use this knob for setting release-time of the current envelope. The bigger this value the longer the envelope needs to decrease from sustain-level to zero. Choose a big value for soft instruments like strings.</source>
@@ -1522,11 +1526,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>AMT</source>
-        <translation type="unfinished"/>
+        <translation>MÄNGD</translation>
     </message>
     <message>
         <source>Modulation amount:</source>
-        <translation type="unfinished"/>
+        <translation>Moduleringsmängd:</translation>
     </message>
     <message>
         <source>Use this knob for setting modulation amount of the current envelope. The bigger this value the more the according size (e.g. volume or cutoff-frequency) will be influenced by this envelope.</source>
@@ -1534,19 +1538,19 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>LFO predelay:</source>
-        <translation type="unfinished"/>
+        <translation>LFO-för-fördröjning:</translation>
     </message>
     <message>
         <source>Use this knob for setting predelay-time of the current LFO. The bigger this value the the time until the LFO starts to oscillate.</source>
-        <translation type="unfinished"/>
+        <translation>Använd denna ratt för att ställa för-fördröjningen för aktuell LFO. Ju högre värdet är desto längre tid tar det innan LFO&apos;n börjar oscillera.</translation>
     </message>
     <message>
         <source>LFO- attack:</source>
-        <translation type="unfinished"/>
+        <translation>LFO-attack:</translation>
     </message>
     <message>
         <source>Use this knob for setting attack-time of the current LFO. The bigger this value the longer the LFO needs to increase its amplitude to maximum.</source>
-        <translation type="unfinished"/>
+        <translation>Använd denna ratt för att ställa attack-tiden för aktuell LFO. Ju högre värdet är desto längre tid tar det för LFO&apos;n att nå sin maximala amplitud.</translation>
     </message>
     <message>
         <source>SPD</source>
@@ -1558,23 +1562,23 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Use this knob for setting speed of the current LFO. The bigger this value the faster the LFO oscillates and the faster will be your effect.</source>
-        <translation type="unfinished"/>
+        <translation>Använd denna ratt för att ställa hastigheten för aktuell LFO. Ju högre värdet är desto snabbare oscillerar LFO&apos;n och desto snabbare är effekten.</translation>
     </message>
     <message>
         <source>Use this knob for setting modulation amount of the current LFO. The bigger this value the more the selected size (e.g. volume or cutoff-frequency) will be influenced by this LFO.</source>
-        <translation type="unfinished"/>
+        <translation>Använd denna ratt för att ställa mängden modulering för aktuell LFO. Ju högre värdet är desto större valt värde (volym eller cutoff-frekvens) kommer influeras av denna LFO.</translation>
     </message>
     <message>
         <source>Click here for a sine-wave.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för sinusvåg.</translation>
     </message>
     <message>
         <source>Click here for a triangle-wave.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för triangelvåg.</translation>
     </message>
     <message>
         <source>Click here for a saw-wave for current.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för sågtandsvåg för aktuell.</translation>
     </message>
     <message>
         <source>Click here for a square-wave.</source>
@@ -1586,15 +1590,15 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>FREQ x 100</source>
-        <translation type="unfinished"/>
+        <translation>FREKV. x 100</translation>
     </message>
     <message>
         <source>Click here if the frequency of this LFO should be multiplied by 100.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för att multiplicera frekvensen för denna LFO med 100.</translation>
     </message>
     <message>
         <source>multiply LFO-frequency by 100</source>
-        <translation type="unfinished"/>
+        <translation>multiplicera LFO-frekvensen med 100</translation>
     </message>
     <message>
         <source>MODULATE ENV-AMOUNT</source>
@@ -1618,22 +1622,22 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Drag a sample from somewhere and drop it in this window.</source>
-        <translation type="unfinished"/>
+        <translation>Dra en ljudfil till det här fönstret.</translation>
     </message>
     <message>
         <source>Click here for random wave.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för en slumpmässig vågform.</translation>
     </message>
 </context>
 <context>
     <name>EqControls</name>
     <message>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Ingångsförstärkning</translation>
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Utgångsförstärkning</translation>
     </message>
     <message>
         <source>Low shelf gain</source>
@@ -1781,19 +1785,19 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>low pass type</source>
-        <translation type="unfinished"/>
+        <translation>Lågpass-typ</translation>
     </message>
     <message>
         <source>high pass type</source>
-        <translation type="unfinished"/>
+        <translation>Högpass-typ</translation>
     </message>
     <message>
         <source>Analyse IN</source>
-        <translation type="unfinished"/>
+        <translation>Analysera IN</translation>
     </message>
     <message>
         <source>Analyse OUT</source>
-        <translation type="unfinished"/>
+        <translation>Analysera UT</translation>
     </message>
 </context>
 <context>
@@ -1832,7 +1836,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>In Gain</source>
-        <translation type="unfinished"/>
+        <translation>In-förstärkning</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1840,15 +1844,15 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Out Gain</source>
-        <translation type="unfinished"/>
+        <translation>Ut-förstärkning</translation>
     </message>
     <message>
         <source>Bandwidth: </source>
-        <translation type="unfinished"/>
+        <translation>Bandbredd:</translation>
     </message>
     <message>
         <source>Resonance : </source>
-        <translation type="unfinished"/>
+        <translation>Resonans:</translation>
     </message>
     <message>
         <source>Frequency:</source>
@@ -1864,26 +1868,14 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source> Octave</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Frequency</source>
-        <translation>Frekvens</translation>
-    </message>
-    <message>
-        <source>Resonance</source>
-        <translation>Resonans</translation>
-    </message>
-    <message>
-        <source>Bandwidth</source>
-        <translation>Bandbredd</translation>
+        <translation>Oktav</translation>
     </message>
 </context>
 <context>
     <name>EqHandle</name>
     <message>
         <source>Reso: </source>
-        <translation type="unfinished"/>
+        <translation>Reso.:</translation>
     </message>
     <message>
         <source>BW: </source>
@@ -1891,78 +1883,78 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Freq: </source>
-        <translation type="unfinished"/>
+        <translation>Frekv.:</translation>
     </message>
 </context>
 <context>
     <name>ExportProjectDialog</name>
     <message>
         <source>Export project</source>
-        <translation type="unfinished"/>
+        <translation>Exportera projekt</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Utgång</translation>
     </message>
     <message>
         <source>File format:</source>
-        <translation type="unfinished"/>
+        <translation>Fil-format:</translation>
     </message>
     <message>
         <source>Samplerate:</source>
-        <translation type="unfinished"/>
+        <translation>Samplingshastighet:</translation>
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"/>
+        <translation>44100 Hz</translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished"/>
+        <translation>48000 Hz</translation>
     </message>
     <message>
         <source>88200 Hz</source>
-        <translation type="unfinished"/>
+        <translation>88200 Hz</translation>
     </message>
     <message>
         <source>96000 Hz</source>
-        <translation type="unfinished"/>
+        <translation>96000 Hz</translation>
     </message>
     <message>
         <source>192000 Hz</source>
-        <translation type="unfinished"/>
+        <translation>192000 Hz</translation>
     </message>
     <message>
         <source>Bitrate:</source>
-        <translation type="unfinished"/>
+        <translation>Bit-hastighet:</translation>
     </message>
     <message>
         <source>64 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>64 KBit/s</translation>
     </message>
     <message>
         <source>128 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>128 KBit/s</translation>
     </message>
     <message>
         <source>160 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>160 KBit/s</translation>
     </message>
     <message>
         <source>192 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>192 KBit/s</translation>
     </message>
     <message>
         <source>256 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>256 KBit/s</translation>
     </message>
     <message>
         <source>320 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>320 KBit/s</translation>
     </message>
     <message>
         <source>Depth:</source>
-        <translation type="unfinished"/>
+        <translation>Djup:</translation>
     </message>
     <message>
         <source>16 Bit Integer</source>
@@ -1974,15 +1966,15 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Please note that not all of the parameters above apply for all file formats.</source>
-        <translation type="unfinished"/>
+        <translation>Alla inställningar ovan gäller för samtliga filformat</translation>
     </message>
     <message>
         <source>Quality settings</source>
-        <translation type="unfinished"/>
+        <translation>Kvalitetsinställningar</translation>
     </message>
     <message>
         <source>Interpolation:</source>
-        <translation type="unfinished"/>
+        <translation>Interpolering:</translation>
     </message>
     <message>
         <source>Zero Order Hold</source>
@@ -2002,27 +1994,27 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Oversampling (use with care!):</source>
-        <translation type="unfinished"/>
+        <translation>Översampling (använd varsamt!):</translation>
     </message>
     <message>
         <source>1x (None)</source>
-        <translation type="unfinished"/>
+        <translation>1x (Ingen)</translation>
     </message>
     <message>
         <source>2x</source>
-        <translation type="unfinished"/>
+        <translation>2x</translation>
     </message>
     <message>
         <source>4x</source>
-        <translation type="unfinished"/>
+        <translation>4x</translation>
     </message>
     <message>
         <source>8x</source>
-        <translation type="unfinished"/>
+        <translation>8x</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Starta</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2030,28 +2022,23 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Export as loop (remove end silence)</source>
-        <translation type="unfinished"/>
+        <translation>Exportera som loop (ta bort slut-tystnad)</translation>
     </message>
     <message>
         <source>Export between loop markers</source>
-        <translation type="unfinished"/>
+        <translation>Exportera mellan loop-markeringar</translation>
     </message>
     <message>
         <source>Could not open file</source>
-        <translation>kunde inte öppna fil</translation>
-    </message>
-    <message>
-        <source>Could not open file %1 for writing.
-Please make sure you have write-permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
+        <translation>Kunde inte öppna fil</translation>
     </message>
     <message>
         <source>Export project to %1</source>
-        <translation type="unfinished"/>
+        <translation>Exportera projekt till %1</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Fel</translation>
     </message>
     <message>
         <source>Error while determining file-encoder device. Please try to choose a different output format.</source>
@@ -2059,6 +2046,11 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Rendering: %1%</source>
+        <translation>Renderar: %1%</translation>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2066,7 +2058,7 @@ Please make sure you have write-permission to the file and the directory contain
     <name>Fader</name>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Ange ett nytt värde mellan %1 och %2:</translation>
     </message>
 </context>
 <context>
@@ -2080,7 +2072,7 @@ Please make sure you have write-permission to the file and the directory contain
     <name>FileBrowserTreeWidget</name>
     <message>
         <source>Send to active instrument-track</source>
-        <translation type="unfinished"/>
+        <translation>Skicka till aktivt instrument-spår</translation>
     </message>
     <message>
         <source>Open in new instrument-track/B+B Editor</source>
@@ -2088,38 +2080,38 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Loading sample</source>
-        <translation type="unfinished"/>
+        <translation>Laddar ljudfil</translation>
     </message>
     <message>
         <source>Please wait, loading sample for preview...</source>
-        <translation type="unfinished"/>
+        <translation>Ljudfilen laddas för förhandslyssning...</translation>
     </message>
     <message>
         <source>--- Factory files ---</source>
-        <translation type="unfinished"/>
+        <translation>--- Grundfiler ---</translation>
     </message>
     <message>
         <source>Open in new instrument-track/Song Editor</source>
-        <translation type="unfinished"/>
+        <translation>Öppna i nytt instrument-spår/Sång Editor</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Fel</translation>
     </message>
     <message>
         <source>does not appear to be a valid</source>
-        <translation type="unfinished"/>
+        <translation>verkar inte vara en giltig</translation>
     </message>
     <message>
         <source>file</source>
-        <translation type="unfinished"/>
+        <translation>fil</translation>
     </message>
 </context>
 <context>
     <name>FlangerControls</name>
     <message>
         <source>Delay Samples</source>
-        <translation type="unfinished"/>
+        <translation>Fördröj Samplingar</translation>
     </message>
     <message>
         <source>Lfo Frequency</source>
@@ -2127,7 +2119,7 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"/>
+        <translation>Sekunder</translation>
     </message>
     <message>
         <source>Regen</source>
@@ -2207,68 +2199,68 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Move &amp;left</source>
-        <translation type="unfinished"/>
+        <translation>Flytta &amp;vänster</translation>
     </message>
     <message>
         <source>Move &amp;right</source>
-        <translation type="unfinished"/>
+        <translation>Flytta &amp;höger</translation>
     </message>
     <message>
         <source>Rename &amp;channel</source>
-        <translation type="unfinished"/>
+        <translation>Byt namn på &amp;kanal</translation>
     </message>
     <message>
         <source>R&amp;emove channel</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;a bort kanal</translation>
     </message>
     <message>
         <source>Remove &amp;unused channels</source>
-        <translation type="unfinished"/>
+        <translation>Ta bort &amp;oanvända kanaler</translation>
     </message>
 </context>
 <context>
     <name>FxMixer</name>
     <message>
         <source>Master</source>
-        <translation type="unfinished"/>
+        <translation>Master</translation>
     </message>
     <message>
         <source>FX %1</source>
-        <translation type="unfinished"/>
+        <translation>FX %1</translation>
     </message>
 </context>
 <context>
     <name>FxMixerView</name>
     <message>
         <source>FX-Mixer</source>
-        <translation type="unfinished"/>
+        <translation>FX-Mixer</translation>
     </message>
     <message>
         <source>FX Fader %1</source>
-        <translation type="unfinished"/>
+        <translation>FX Fader %1</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Tysta</translation>
     </message>
     <message>
         <source>Mute this FX channel</source>
-        <translation type="unfinished"/>
+        <translation>Tysta denna FX-kanal</translation>
     </message>
     <message>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Solo</translation>
     </message>
     <message>
         <source>Solo FX channel</source>
-        <translation type="unfinished"/>
+        <translation>FX-kanal Solo</translation>
     </message>
 </context>
 <context>
     <name>FxRoute</name>
     <message>
         <source>Amount to send from channel %1 to channel %2</source>
-        <translation type="unfinished"/>
+        <translation>Mängd att skicka från kanal %1 till kanal %2</translation>
     </message>
 </context>
 <context>
@@ -2290,11 +2282,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>GigInstrumentView</name>
     <message>
         <source>Open other GIG file</source>
-        <translation type="unfinished"/>
+        <translation>Öppna en annan GIG-fil</translation>
     </message>
     <message>
         <source>Click here to open another GIG file</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för att öppna en annan GIG-fil</translation>
     </message>
     <message>
         <source>Choose the patch</source>
@@ -2306,15 +2298,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Change which instrument of the GIG file is being played</source>
-        <translation type="unfinished"/>
+        <translation>Välj vilket instrument i GIG-filen som ska spelas</translation>
     </message>
     <message>
         <source>Which GIG file is currently being used</source>
-        <translation type="unfinished"/>
+        <translation>Vilken GIG-fil används för närvarande</translation>
     </message>
     <message>
         <source>Which patch of the GIG file is currently being used</source>
-        <translation type="unfinished"/>
+        <translation>Vilken del av GIG-filen används för närvarande</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -2322,77 +2314,77 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Factor to multiply samples by</source>
-        <translation type="unfinished"/>
+        <translation>Faktor att multiplicera samplingar med</translation>
     </message>
     <message>
         <source>Open GIG file</source>
-        <translation type="unfinished"/>
+        <translation>Öppna GIG-fil</translation>
     </message>
     <message>
         <source>GIG Files (*.gig)</source>
-        <translation type="unfinished"/>
+        <translation>GIG-filer (*.gig)</translation>
     </message>
 </context>
 <context>
     <name>GuiApplication</name>
     <message>
         <source>Working directory</source>
-        <translation type="unfinished"/>
+        <translation>Arbetskatalog</translation>
     </message>
     <message>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
-        <translation type="unfinished"/>
+        <translation>Arbetskatalogen %1 för LMMS existerar inte. Vill du skapa detta nu? Du kan ändra katalog senare under Redigera -&gt; Inställningar.</translation>
     </message>
     <message>
         <source>Preparing UI</source>
-        <translation type="unfinished"/>
+        <translation>Förbereder användargränssnitt</translation>
     </message>
     <message>
         <source>Preparing song editor</source>
-        <translation type="unfinished"/>
+        <translation>Förbereder sång-editor</translation>
     </message>
     <message>
         <source>Preparing mixer</source>
-        <translation type="unfinished"/>
+        <translation>Förbereder mixer</translation>
     </message>
     <message>
         <source>Preparing controller rack</source>
-        <translation type="unfinished"/>
+        <translation>Förbereder kontrollrack</translation>
     </message>
     <message>
         <source>Preparing project notes</source>
-        <translation type="unfinished"/>
+        <translation>Förbereder projektanteckningar</translation>
     </message>
     <message>
         <source>Preparing beat/bassline editor</source>
-        <translation type="unfinished"/>
+        <translation>Förbereder Takt/Bas-editor</translation>
     </message>
     <message>
         <source>Preparing piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Förbereder pianorulle</translation>
     </message>
     <message>
         <source>Preparing automation editor</source>
-        <translation type="unfinished"/>
+        <translation>Förbereder automations-editor</translation>
     </message>
 </context>
 <context>
     <name>InstrumentFunctionArpeggio</name>
     <message>
         <source>Arpeggio</source>
-        <translation type="unfinished"/>
+        <translation>Arpeggio</translation>
     </message>
     <message>
         <source>Arpeggio type</source>
-        <translation type="unfinished"/>
+        <translation>Arpeggio-typ</translation>
     </message>
     <message>
         <source>Arpeggio range</source>
-        <translation type="unfinished"/>
+        <translation>Arpeggio-omfång</translation>
     </message>
     <message>
         <source>Arpeggio time</source>
-        <translation type="unfinished"/>
+        <translation>Arpeggio-tid</translation>
     </message>
     <message>
         <source>Arpeggio gate</source>
@@ -2400,27 +2392,27 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Arpeggio direction</source>
-        <translation type="unfinished"/>
+        <translation>Arpeggio-riktning</translation>
     </message>
     <message>
         <source>Arpeggio mode</source>
-        <translation type="unfinished"/>
+        <translation>Arpeggio-typ</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation>Upp</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"/>
+        <translation>Ner</translation>
     </message>
     <message>
         <source>Up and down</source>
-        <translation type="unfinished"/>
+        <translation>Upp och ner</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation type="unfinished"/>
+        <translation>Slumpmässig</translation>
     </message>
     <message>
         <source>Free</source>
@@ -2436,7 +2428,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Down and up</source>
-        <translation type="unfinished"/>
+        <translation>Ner och upp</translation>
     </message>
     <message>
         <source>Skip rate</source>
@@ -2455,7 +2447,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentFunctionArpeggioView</name>
     <message>
         <source>ARPEGGIO</source>
-        <translation type="unfinished"/>
+        <translation>ARPEGGIO</translation>
     </message>
     <message>
         <source>An arpeggio is a method playing (especially plucked) instruments, which makes the music much livelier. The strings of such instruments (e.g. harps) are plucked like chords. The only difference is that this is done in a sequential order, so the notes are not played at the same time. Typical arpeggios are major or minor triads, but there are a lot of other possible chords, you can select.</source>
@@ -2463,15 +2455,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>RANGE</source>
-        <translation type="unfinished"/>
+        <translation>OMFÅNG</translation>
     </message>
     <message>
         <source>Arpeggio range:</source>
-        <translation type="unfinished"/>
+        <translation>Arpeggio-omfång:</translation>
     </message>
     <message>
         <source>octave(s)</source>
-        <translation type="unfinished"/>
+        <translation>oktav(er)</translation>
     </message>
     <message>
         <source>Use this knob for setting the arpeggio range in octaves. The selected arpeggio will be played within specified number of octaves.</source>
@@ -2479,23 +2471,23 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>TIME</source>
-        <translation type="unfinished"/>
+        <translation>TID</translation>
     </message>
     <message>
         <source>Arpeggio time:</source>
-        <translation type="unfinished"/>
+        <translation>Arpeggio-tid:</translation>
     </message>
     <message>
         <source>ms</source>
-        <translation type="unfinished"/>
+        <translation>ms</translation>
     </message>
     <message>
         <source>Use this knob for setting the arpeggio time in milliseconds. The arpeggio time specifies how long each arpeggio-tone should be played.</source>
-        <translation type="unfinished"/>
+        <translation>Använd denna ratt för att ställa arpeggio-tiden i millisekunder. Arpeggio-tiden anger hur länge varje arpeggio-ton ska spelas.</translation>
     </message>
     <message>
         <source>GATE</source>
-        <translation type="unfinished"/>
+        <translation>GATE</translation>
     </message>
     <message>
         <source>Arpeggio gate:</source>
@@ -2503,7 +2495,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"/>
+        <translation>%</translation>
     </message>
     <message>
         <source>Use this knob for setting the arpeggio gate. The arpeggio gate specifies the percent of a whole arpeggio-tone that should be played. With this you can make cool staccato arpeggios.</source>
@@ -2511,15 +2503,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Chord:</source>
-        <translation type="unfinished"/>
+        <translation>Ackord:</translation>
     </message>
     <message>
         <source>Direction:</source>
-        <translation type="unfinished"/>
+        <translation>Riktning:</translation>
     </message>
     <message>
         <source>Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Läge:</translation>
     </message>
     <message>
         <source>SKIP</source>
@@ -2555,7 +2547,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>note(s)</source>
-        <translation type="unfinished"/>
+        <translation>not(er)</translation>
     </message>
     <message>
         <source>Jumps over n steps in the arpeggio and cycles around if we&apos;re over the note range. If the total note range is evenly divisible by the number of steps jumped over you will get stuck in a shorter arpeggio or even on one note.</source>
@@ -2566,7 +2558,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentFunctionNoteStacking</name>
     <message>
         <source>octave</source>
-        <translation type="unfinished"/>
+        <translation>oktav</translation>
     </message>
     <message>
         <source>Major</source>
@@ -2918,11 +2910,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Chords</source>
-        <translation type="unfinished"/>
+        <translation>Ackord</translation>
     </message>
     <message>
         <source>Chord type</source>
-        <translation type="unfinished"/>
+        <translation>Ackord-typ</translation>
     </message>
     <message>
         <source>Chord range</source>
@@ -2957,7 +2949,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentFunctionNoteStackingView</name>
     <message>
         <source>RANGE</source>
-        <translation type="unfinished"/>
+        <translation>OMFÅNG</translation>
     </message>
     <message>
         <source>Chord range:</source>
@@ -2965,7 +2957,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>octave(s)</source>
-        <translation type="unfinished"/>
+        <translation>oktav(er)</translation>
     </message>
     <message>
         <source>Use this knob for setting the chord range in octaves. The selected chord will be played within specified number of octaves.</source>
@@ -2977,14 +2969,14 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Chord:</source>
-        <translation type="unfinished"/>
+        <translation>Ackord:</translation>
     </message>
 </context>
 <context>
     <name>InstrumentMidiIOView</name>
     <message>
         <source>ENABLE MIDI INPUT</source>
-        <translation type="unfinished"/>
+        <translation>AKTIVERA MIDI-INMATNING</translation>
     </message>
     <message>
         <source>CHANNEL</source>
@@ -3042,7 +3034,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentSoundShaping</name>
     <message>
         <source>VOLUME</source>
-        <translation type="unfinished"/>
+        <translation>VOLYM</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -3054,7 +3046,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Cutoff frekvens</translation>
     </message>
     <message>
         <source>RESO</source>
@@ -3074,7 +3066,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Q/Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Q/Resonans</translation>
     </message>
     <message>
         <source>LowPass</source>
@@ -3110,27 +3102,27 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>RC LowPass 12dB</source>
-        <translation type="unfinished"/>
+        <translation>RC Lågpass 12dB</translation>
     </message>
     <message>
         <source>RC BandPass 12dB</source>
-        <translation type="unfinished"/>
+        <translation>RC BandPass 12dB</translation>
     </message>
     <message>
         <source>RC HighPass 12dB</source>
-        <translation type="unfinished"/>
+        <translation>RC Högpass 12dB</translation>
     </message>
     <message>
         <source>RC LowPass 24dB</source>
-        <translation type="unfinished"/>
+        <translation>RC Lågpass 24dB</translation>
     </message>
     <message>
         <source>RC BandPass 24dB</source>
-        <translation type="unfinished"/>
+        <translation>RC BandPass 24dB</translation>
     </message>
     <message>
         <source>RC HighPass 24dB</source>
-        <translation type="unfinished"/>
+        <translation>RC Högpass 24dB</translation>
     </message>
     <message>
         <source>Vocal Formant Filter</source>
@@ -3142,15 +3134,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>SV LowPass</source>
-        <translation type="unfinished"/>
+        <translation>SV Lågpass</translation>
     </message>
     <message>
         <source>SV BandPass</source>
-        <translation type="unfinished"/>
+        <translation>SV BandPass</translation>
     </message>
     <message>
         <source>SV HighPass</source>
-        <translation type="unfinished"/>
+        <translation>SV Högpass</translation>
     </message>
     <message>
         <source>SV Notch</source>
@@ -3169,7 +3161,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentSoundShapingView</name>
     <message>
         <source>TARGET</source>
-        <translation type="unfinished"/>
+        <translation>MÅL</translation>
     </message>
     <message>
         <source>These tabs contain envelopes. They&apos;re very important for modifying a sound, in that they are almost always necessary for substractive synthesis. For example if you have a volume envelope, you can set when the sound should have a specific volume. If you want to create some soft strings then your sound has to fade in and out very softly. This can be done by setting large attack and release times. It&apos;s the same for other envelope targets like panning, cutoff frequency for the used filter and so on. Just monkey around with it! You can really make cool sounds out of a saw-wave with just some envelopes...!</source>
@@ -3181,7 +3173,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Here you can select the built-in filter you want to use for this instrument-track. Filters are very important for changing the characteristics of a sound.</source>
-        <translation type="unfinished"/>
+        <translation>Här kan du välja vilket inbyggt filter du vill använda för detta instrument-spår. Filter är väldigt viktiga om man vill ändra karaktäristiken på ett ljud.</translation>
     </message>
     <message>
         <source>Hz</source>
@@ -3205,11 +3197,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>FREQ</source>
-        <translation>FREQ</translation>
+        <translation>FREKV.</translation>
     </message>
     <message>
         <source>cutoff frequency:</source>
-        <translation type="unfinished"/>
+        <translation>cutoff-frekvens:</translation>
     </message>
     <message>
         <source>Envelopes, LFOs and filters are not supported by the current instrument.</source>
@@ -3220,7 +3212,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentTrack</name>
     <message>
         <source>unnamed_track</source>
-        <translation type="unfinished"/>
+        <translation>namnlöst_spår</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -3232,27 +3224,27 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Tonhöjd</translation>
     </message>
     <message>
         <source>FX channel</source>
-        <translation type="unfinished"/>
+        <translation>FX-kanal</translation>
     </message>
     <message>
         <source>Default preset</source>
-        <translation type="unfinished"/>
+        <translation>Standardinställning</translation>
     </message>
     <message>
         <source>With this knob you can set the volume of the opened channel.</source>
-        <translation type="unfinished"/>
+        <translation>Med denna ratt ställer du volymen för den öppnade kanalen.</translation>
     </message>
     <message>
         <source>Base note</source>
-        <translation type="unfinished"/>
+        <translation>Grundton</translation>
     </message>
     <message>
         <source>Pitch range</source>
-        <translation type="unfinished"/>
+        <translation>Tonhöjdsomfång</translation>
     </message>
     <message>
         <source>Master Pitch</source>
@@ -3291,11 +3283,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Ingång</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Utgång</translation>
     </message>
     <message>
         <source>FX %1: %2</source>
@@ -3306,11 +3298,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentTrackWindow</name>
     <message>
         <source>GENERAL SETTINGS</source>
-        <translation type="unfinished"/>
+        <translation>ÖVERGRIPANDE INSTÄLLNINGAR</translation>
     </message>
     <message>
         <source>Instrument volume</source>
-        <translation type="unfinished"/>
+        <translation>Instrument-volym</translation>
     </message>
     <message>
         <source>Volume:</source>
@@ -3334,11 +3326,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Tonhöjd</translation>
     </message>
     <message>
         <source>Pitch:</source>
-        <translation type="unfinished"/>
+        <translation>Tonhöjd:</translation>
     </message>
     <message>
         <source>cents</source>
@@ -3350,7 +3342,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>FX channel</source>
-        <translation type="unfinished"/>
+        <translation>FX-kanal</translation>
     </message>
     <message>
         <source>ENV/LFO</source>
@@ -3374,7 +3366,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>XML preset file (*.xpf)</source>
-        <translation type="unfinished"/>
+        <translation>XML förinställnings-fil (*.xpf)</translation>
     </message>
     <message>
         <source>PLUGIN</source>
@@ -3386,7 +3378,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>RANGE</source>
-        <translation type="unfinished"/>
+        <translation>OMFÅNG</translation>
     </message>
     <message>
         <source>Save current instrument track settings in a preset file</source>
@@ -3425,7 +3417,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Ange ett nytt värde mellan %1 och %2:</translation>
     </message>
 </context>
 <context>
@@ -3439,7 +3431,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>LadspaControlDialog</name>
     <message>
         <source>Link Channels</source>
-        <translation>Länka kanaler</translation>
+        <translation>Länka Kanaler</translation>
     </message>
     <message>
         <source>Channel </source>
@@ -3458,7 +3450,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Sorry, no help available.</source>
-        <translation type="unfinished"/>
+        <translation>Ledsen, ingen hjälp är tillgänglig.</translation>
     </message>
 </context>
 <context>
@@ -3472,7 +3464,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>LcdSpinBox</name>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Ange ett nytt värde mellan %1 och %2:</translation>
     </message>
 </context>
 <context>
@@ -3502,7 +3494,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Base value</source>
-        <translation type="unfinished"/>
+        <translation>Basvärde</translation>
     </message>
     <message>
         <source>Oscillator speed</source>
@@ -3561,7 +3553,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Modulation amount:</source>
-        <translation type="unfinished"/>
+        <translation>Moduleringsmängd:</translation>
     </message>
     <message>
         <source>Use this knob for setting modulation amount of the LFO. The bigger this value, the more the connected control (e.g. volume or cutoff-frequency) will be influenced by the LFO.</source>
@@ -3585,11 +3577,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Click here for a sine-wave.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för sinusvåg.</translation>
     </message>
     <message>
         <source>Click here for a triangle-wave.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för triangelvåg.</translation>
     </message>
     <message>
         <source>Click here for a saw-wave.</source>
@@ -3669,7 +3661,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Import...</source>
-        <translation>Import...</translation>
+        <translation>Importera...</translation>
     </message>
     <message>
         <source>E&amp;xport...</source>
@@ -3733,7 +3725,7 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Song Editor</source>
-        <translation type="unfinished"/>
+        <translation>Sång-editor</translation>
     </message>
     <message>
         <source>By pressing this button, you can show or hide the Song-Editor. With the help of the Song-Editor you can edit song-playlist and specify when which track should be played. You can also insert and move samples (e.g. rap samples) directly into the playlist.</source>
@@ -3749,15 +3741,15 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Piano Roll</source>
-        <translation type="unfinished"/>
+        <translation>Pianorulle</translation>
     </message>
     <message>
         <source>Click here to show or hide the Piano-Roll. With the help of the Piano-Roll you can edit melodies in an easy way.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för att visa eller dölja pianorullen. Med hjälp av pianorullen kan du skapa melodier på ett enkelt sätt.</translation>
     </message>
     <message>
         <source>Automation Editor</source>
-        <translation type="unfinished"/>
+        <translation>Automations-editor</translation>
     </message>
     <message>
         <source>Click here to show or hide the Automation Editor. With the help of the Automation Editor you can edit dynamic values in an easy way.</source>
@@ -3773,40 +3765,41 @@ Please make sure you have write-access to the file and try again.</source>
     </message>
     <message>
         <source>Project Notes</source>
-        <translation type="unfinished"/>
+        <translation>Projektanteckningar</translation>
     </message>
     <message>
         <source>Click here to show or hide the project notes window. In this window you can put down your project notes.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för att visa eller dölja fönstret för projektanteckningar. I detta fönster kan du göra noteringar om ditt projekt,</translation>
     </message>
     <message>
         <source>Controller Rack</source>
-        <translation type="unfinished"/>
+        <translation>Kontrollrack</translation>
     </message>
     <message>
         <source>Untitled</source>
-        <translation type="unfinished"/>
+        <translation>Namnlös</translation>
     </message>
     <message>
         <source>LMMS %1</source>
-        <translation type="unfinished"/>
+        <translation>LMMS %1</translation>
     </message>
     <message>
         <source>Project not saved</source>
-        <translation type="unfinished"/>
+        <translation>Projekt inte sparat</translation>
     </message>
     <message>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
-        <translation type="unfinished"/>
+        <translation>Projektet har ändrats sedan det sparades senast. Vill du spara nu?</translation>
     </message>
     <message>
         <source>Help not available</source>
-        <translation type="unfinished"/>
+        <translation>Hjälp inte tillgänglig</translation>
     </message>
     <message>
         <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
-        <translation type="unfinished"/>
+        <translation>Just nu finns ingen hjälp tillgänglig i LMMS
+Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translation>
     </message>
     <message>
         <source>LMMS (*.mmp *.mmpz)</source>
@@ -3818,11 +3811,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Configuration file</source>
-        <translation type="unfinished"/>
+        <translation>Konfigurationsfil</translation>
     </message>
     <message>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
-        <translation type="unfinished"/>
+        <translation>Fel vid inläsning av konfigurationsfil på rad %1:%2: %3</translation>
     </message>
     <message>
         <source>Volumes</source>
@@ -3830,11 +3823,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Ångra</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Gör om</translation>
     </message>
     <message>
         <source>My Projects</source>
@@ -3866,7 +3859,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Save as New &amp;Version</source>
-        <translation type="unfinished"/>
+        <translation>Spara som Ny &amp;Version</translation>
     </message>
     <message>
         <source>E&amp;xport Tracks...</source>
@@ -3874,7 +3867,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Online Help</source>
-        <translation type="unfinished"/>
+        <translation>Online-hjälp</translation>
     </message>
     <message>
         <source>What&apos;s This?</source>
@@ -3882,19 +3875,19 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Open Project</source>
-        <translation type="unfinished"/>
+        <translation>Öppna Projekt</translation>
     </message>
     <message>
         <source>Save Project</source>
-        <translation type="unfinished"/>
+        <translation>Spara Projekt</translation>
     </message>
     <message>
         <source>Project recovery</source>
-        <translation type="unfinished"/>
+        <translation>Projektåterställning</translation>
     </message>
     <message>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
-        <translation type="unfinished"/>
+        <translation>Det finns en återställningsfil tillgänglig. Det verkar som om programmet inte avslutades korrekt senast, eller så körs redan LMMS. Vill du återställa detta projekt?</translation>
     </message>
     <message>
         <source>Recover</source>
@@ -3902,7 +3895,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
-        <translation type="unfinished"/>
+        <translation>Återställ filen. Se till att du bara har en instans av LMMS igång när du gör detta.</translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -3910,7 +3903,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Launch LMMS as usual but with automatic backup disabled to prevent the present recover file from being overwritten.</source>
-        <translation type="unfinished"/>
+        <translation>Starta LMMS som vanligt men med automatisk backup avstängt för att förhindra att den nuvarande återställningsfilen blir överskriven.</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -3918,23 +3911,23 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
-        <translation type="unfinished"/>
+        <translation>Starta en standard-session och ta bort den återskapade filen. Detta går inte ångra.</translation>
     </message>
     <message>
         <source>Preparing plugin browser</source>
-        <translation type="unfinished"/>
+        <translation>Förbereder plugin-browser</translation>
     </message>
     <message>
         <source>Preparing file browsers</source>
-        <translation type="unfinished"/>
+        <translation>Förbereder fil-browser</translation>
     </message>
     <message>
         <source>Root directory</source>
-        <translation type="unfinished"/>
+        <translation>Rotkatalog</translation>
     </message>
     <message>
         <source>Loading background artwork</source>
-        <translation type="unfinished"/>
+        <translation>Laddar bakgrunds-grafik</translation>
     </message>
     <message>
         <source>New from template</source>
@@ -3942,15 +3935,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Save as default template</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export &amp;MIDI...</source>
-        <translation>Exportera &amp;MIDI...</translation>
+        <translation>Spara som standard-mall</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>%Visa</translation>
     </message>
     <message>
         <source>Toggle metronome</source>
@@ -3958,74 +3947,78 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Show/hide Song-Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visa/dölj Sång-editor</translation>
     </message>
     <message>
         <source>Show/hide Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visa/dölj Takt+Bas-editor</translation>
     </message>
     <message>
         <source>Show/hide Piano-Roll</source>
-        <translation type="unfinished"/>
+        <translation>Visa/dölj pianorulle</translation>
     </message>
     <message>
         <source>Show/hide Automation Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visa/dölj Automations-editor</translation>
     </message>
     <message>
         <source>Show/hide FX Mixer</source>
-        <translation type="unfinished"/>
+        <translation>Visa/dölj FX Mixer</translation>
     </message>
     <message>
         <source>Show/hide project notes</source>
-        <translation type="unfinished"/>
+        <translation>Visa/dölj projektanteckningar</translation>
     </message>
     <message>
         <source>Show/hide controller rack</source>
-        <translation type="unfinished"/>
+        <translation>Visa/dölj kontrollrack</translation>
     </message>
     <message>
         <source>Recover session. Please save your work!</source>
-        <translation type="unfinished"/>
+        <translation>Återställnings-session. Spara ditt arbete!</translation>
     </message>
     <message>
         <source>Automatic backup disabled. Remember to save your work!</source>
-        <translation type="unfinished"/>
+        <translation>Automatisk backup avstängd. Kom ihåg att spara ditt arbete!</translation>
     </message>
     <message>
         <source>Recovered project not saved</source>
-        <translation type="unfinished"/>
+        <translation>Återställt projekt inte sparat</translation>
     </message>
     <message>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
-        <translation type="unfinished"/>
+        <translation>Projektet återställdes från den senaste sessionen. Det kommer försvinna om du inte sparar det. Vill du spara projektet nu?</translation>
     </message>
     <message>
         <source>LMMS Project</source>
-        <translation type="unfinished"/>
+        <translation>LMMS-Projekt</translation>
     </message>
     <message>
         <source>LMMS Project Template</source>
-        <translation type="unfinished"/>
+        <translation>LMMS-Projektmall</translation>
     </message>
     <message>
         <source>Overwrite default template?</source>
-        <translation type="unfinished"/>
+        <translation>Vill du skriva över standardmallen?</translation>
     </message>
     <message>
         <source>This will overwrite your current default template.</source>
-        <translation type="unfinished"/>
+        <translation>Detta kommer skriva över din nuvarande standardmall.</translation>
     </message>
     <message>
         <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
+        <translation>Volym som dBFS</translation>
     </message>
     <message>
         <source>Smooth scroll</source>
-        <translation type="unfinished"/>
+        <translation>Mjuk rullning</translation>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
+        <translation>Visa noter i pianorulle</translation>
+    </message>
+    <message>
+        <source>Save project template</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4070,7 +4063,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <name>MidiImport</name>
     <message>
         <source>Setup incomplete</source>
-        <translation type="unfinished"/>
+        <translation>Installation ofullständig</translation>
     </message>
     <message>
         <source>You do not have set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
@@ -4102,19 +4095,19 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <name>MidiPort</name>
     <message>
         <source>Input channel</source>
-        <translation>Inputkanal</translation>
+        <translation>Ingångskanal</translation>
     </message>
     <message>
         <source>Output channel</source>
-        <translation type="unfinished"/>
+        <translation>Utgångskanal</translation>
     </message>
     <message>
         <source>Input controller</source>
-        <translation>Inputkontroller</translation>
+        <translation>Ingångskontroller</translation>
     </message>
     <message>
         <source>Output controller</source>
-        <translation type="unfinished"/>
+        <translation>Utgångskontroller</translation>
     </message>
     <message>
         <source>Fixed input velocity</source>
@@ -4130,15 +4123,15 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Receive MIDI-events</source>
-        <translation type="unfinished"/>
+        <translation>Ta emot MIDI-event</translation>
     </message>
     <message>
         <source>Send MIDI-events</source>
-        <translation type="unfinished"/>
+        <translation>Skicka MIDI-event</translation>
     </message>
     <message>
         <source>Fixed output note</source>
-        <translation type="unfinished"/>
+        <translation>Fast utgångs-not</translation>
     </message>
     <message>
         <source>Base velocity</source>
@@ -4156,11 +4149,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <name>MonstroInstrument</name>
     <message>
         <source>Osc 1 Volume</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 Volym</translation>
     </message>
     <message>
         <source>Osc 1 Panning</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 Panorering</translation>
     </message>
     <message>
         <source>Osc 1 Coarse detune</source>
@@ -4356,7 +4349,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Selected view</source>
-        <translation type="unfinished"/>
+        <translation>Vald vy</translation>
     </message>
     <message>
         <source>Vol1-Env1</source>
@@ -4612,15 +4605,15 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Moog sågtandsvåg</translation>
     </message>
     <message>
         <source>Abs. sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Abs. sinusvåg</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation type="unfinished"/>
+        <translation>Slumpmässig</translation>
     </message>
     <message>
         <source>Random smooth</source>
@@ -4653,19 +4646,19 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
     </message>
     <message>
         <source>Mix Osc2 with Osc3</source>
-        <translation type="unfinished"/>
+        <translation>Mixa Osc2 med Osc3</translation>
     </message>
     <message>
         <source>Modulate amplitude of Osc3 with Osc2</source>
-        <translation type="unfinished"/>
+        <translation>Modulera amplituden för Osc3 med Osc2</translation>
     </message>
     <message>
         <source>Modulate frequency of Osc3 with Osc2</source>
-        <translation type="unfinished"/>
+        <translation>Modulera frekvensen för Osc3 med Osc2</translation>
     </message>
     <message>
         <source>Modulate phase of Osc3 with Osc2</source>
-        <translation type="unfinished"/>
+        <translation>Modulera fasen för Osc3 med Osc2</translation>
     </message>
     <message>
         <source>The CRS knob changes the tuning of oscillator 1 in semitone steps. </source>
@@ -4709,7 +4702,7 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
     </message>
     <message>
         <source>Choose waveform for oscillator 2. </source>
-        <translation type="unfinished"/>
+        <translation>Välj vågform för oscillator 2.</translation>
     </message>
     <message>
         <source>Choose waveform for oscillator 3&apos;s first sub-osc. Oscillator 3 can smoothly interpolate between two different waveforms. </source>
@@ -4811,7 +4804,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source> semitones</source>
-        <translation type="unfinished"/>
+        <translation>halvtoner</translation>
     </message>
     <message>
         <source>Finetune left</source>
@@ -4887,11 +4880,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Decay</translation>
     </message>
     <message>
         <source>Sustain</source>
-        <translation type="unfinished"/>
+        <translation>Sustain</translation>
     </message>
     <message>
         <source>Release</source>
@@ -4903,7 +4896,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Modulation amount</source>
-        <translation type="unfinished"/>
+        <translation>Moduleringsmängd</translation>
     </message>
 </context>
 <context>
@@ -5017,7 +5010,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>Huvudvolym</translation>
     </message>
     <message>
         <source>Vibrato</source>
@@ -5257,26 +5250,26 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>No file selected</source>
-        <translation type="unfinished"/>
+        <translation>Ingen fil vald</translation>
     </message>
     <message>
         <source>Open patch file</source>
-        <translation type="unfinished"/>
+        <translation>Öppna patch-fil</translation>
     </message>
     <message>
         <source>Patch-Files (*.pat)</source>
-        <translation type="unfinished"/>
+        <translation>Patch-filer (*.pat)</translation>
     </message>
 </context>
 <context>
     <name>PatternView</name>
     <message>
         <source>Open in piano-roll</source>
-        <translation type="unfinished"/>
+        <translation>Öppna i pianorulle</translation>
     </message>
     <message>
         <source>Clear all notes</source>
-        <translation type="unfinished"/>
+        <translation>Rensa alla noter</translation>
     </message>
     <message>
         <source>Reset name</source>
@@ -5300,7 +5293,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>double-click to open in Piano Roll</source>
-        <translation type="unfinished"/>
+        <translation>Dubbelklicka för att öppna i Pianorulle</translation>
     </message>
     <message>
         <source>Clone Steps</source>
@@ -5345,7 +5338,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Modulation amount:</source>
-        <translation type="unfinished"/>
+        <translation>Moduleringsmängd:</translation>
     </message>
     <message>
         <source>Attack:</source>
@@ -5353,7 +5346,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>Release:</translation>
     </message>
     <message>
         <source>AMNT</source>
@@ -5388,15 +5381,15 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>PeakControllerEffectControls</name>
     <message>
         <source>Base value</source>
-        <translation type="unfinished"/>
+        <translation>Basvärde</translation>
     </message>
     <message>
         <source>Modulation amount</source>
-        <translation type="unfinished"/>
+        <translation>Moduleringsmängd</translation>
     </message>
     <message>
         <source>Mute output</source>
-        <translation type="unfinished"/>
+        <translation>Tysta utgångs-ljud</translation>
     </message>
     <message>
         <source>Attack</source>
@@ -5408,7 +5401,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Abs Value</source>
-        <translation type="unfinished"/>
+        <translation>Abs-värde</translation>
     </message>
     <message>
         <source>Amount Multiplicator</source>
@@ -5423,7 +5416,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>PianoRoll</name>
     <message>
         <source>Please open a pattern by double-clicking on it!</source>
-        <translation type="unfinished"/>
+        <translation>Dubbelklicka för att öppna ett mönster!</translation>
     </message>
     <message>
         <source>Last note</source>
@@ -5439,31 +5432,31 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Note Panning</source>
-        <translation type="unfinished"/>
+        <translation>Not-panorering</translation>
     </message>
     <message>
         <source>Mark/unmark current semitone</source>
-        <translation type="unfinished"/>
+        <translation>Markera/avmarkera nuvarande halvton</translation>
     </message>
     <message>
         <source>Mark current scale</source>
-        <translation type="unfinished"/>
+        <translation>Markera nuvarande skala</translation>
     </message>
     <message>
         <source>Mark current chord</source>
-        <translation type="unfinished"/>
+        <translation>Markera nuvarande ackord</translation>
     </message>
     <message>
         <source>Unmark all</source>
-        <translation type="unfinished"/>
+        <translation>Avmarkera allt</translation>
     </message>
     <message>
         <source>No scale</source>
-        <translation type="unfinished"/>
+        <translation>Ingen skala</translation>
     </message>
     <message>
         <source>No chord</source>
-        <translation type="unfinished"/>
+        <translation>Inget ackord</translation>
     </message>
     <message>
         <source>Velocity: %1%</source>
@@ -5471,19 +5464,19 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Panning: %1% left</source>
-        <translation type="unfinished"/>
+        <translation>Panorering: %1% vänster</translation>
     </message>
     <message>
         <source>Panning: %1% right</source>
-        <translation type="unfinished"/>
+        <translation>Panorering: %1% höger</translation>
     </message>
     <message>
         <source>Panning: center</source>
-        <translation type="unfinished"/>
+        <translation>Panorering: center</translation>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Ange ett nytt värde mellan %1 och %2:</translation>
     </message>
     <message>
         <source>Mark/unmark all corresponding octave semitones</source>
@@ -5491,7 +5484,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Select all notes on this key</source>
-        <translation type="unfinished"/>
+        <translation>Välj alla noter på denna tangent</translation>
     </message>
 </context>
 <context>
@@ -5502,11 +5495,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Record notes from MIDI-device/channel-piano</source>
-        <translation type="unfinished"/>
+        <translation>Spela in noter från MIDI-enhet/kanal-piano</translation>
     </message>
     <message>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
-        <translation type="unfinished"/>
+        <translation>Spela in noter från MIDI-enhet/kanal-piano medan sång eller BB-spår spelas</translation>
     </message>
     <message>
         <source>Stop playing of current pattern (Space)</source>
@@ -5514,7 +5507,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Click here to play the current pattern. This is useful while editing it. The pattern is automatically looped when its end is reached.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för att spela det aktuella mönstret, detta är användbart när man redigerar. Mönstret spelas från början igen när det nått sitt slut.</translation>
     </message>
     <message>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you can play and edit them afterwards.</source>
@@ -5526,7 +5519,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Click here to stop playback of current pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för att stoppa uppspelning av de aktuella mönstret.</translation>
     </message>
     <message>
         <source>Draw mode (Shift+D)</source>
@@ -5538,7 +5531,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Select mode (Shift+S)</source>
-        <translation type="unfinished"/>
+        <translation>Markeringsläge (Shift+S)</translation>
     </message>
     <message>
         <source>Detune mode (Shift+T)</source>
@@ -5562,15 +5555,15 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Cut selected notes (%1+X)</source>
-        <translation type="unfinished"/>
+        <translation>Klipp ut valda noter (%1+X)</translation>
     </message>
     <message>
         <source>Copy selected notes (%1+C)</source>
-        <translation type="unfinished"/>
+        <translation>Kopiera valda noter (%1+C)</translation>
     </message>
     <message>
         <source>Paste notes from clipboard (%1+V)</source>
-        <translation type="unfinished"/>
+        <translation>Klistra in noter (%1+V)</translation>
     </message>
     <message>
         <source>Click here and the selected notes will be cut into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
@@ -5622,11 +5615,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Piano-Roll - %1</source>
-        <translation type="unfinished"/>
+        <translation>Pianorulle - %1</translation>
     </message>
     <message>
         <source>Piano-Roll - no pattern</source>
-        <translation type="unfinished"/>
+        <translation>Pianorulle - inget mönster</translation>
     </message>
     <message>
         <source>Quantize</source>
@@ -5637,35 +5630,32 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>PianoView</name>
     <message>
         <source>Base note</source>
-        <translation type="unfinished"/>
+        <translation>Bas-not</translation>
     </message>
 </context>
 <context>
     <name>Plugin</name>
     <message>
         <source>Plugin not found</source>
-        <translation type="unfinished"/>
+        <translation>Plugin hittades inte</translation>
     </message>
     <message>
         <source>The plugin &quot;%1&quot; wasn't found or could not be loaded!
 Reason: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Pluginet &quot;%1&quot; hittades inte eller kunde inte laddas!
+Orsak: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Error while loading plugin</source>
-        <translation type="unfinished"/>
+        <translation>Fel vid inläsning av plugin</translation>
     </message>
     <message>
         <source>Failed to load plugin &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Misslyckades att läsa in plugin &quot;%1&quot;!</translation>
     </message>
 </context>
 <context>
     <name>PluginBrowser</name>
-    <message>
-        <source>Instrument plugins</source>
-        <translation type="unfinished"/>
-    </message>
     <message>
         <source>Instrument browser</source>
         <translation type="unfinished"/>
@@ -5674,12 +5664,16 @@ Reason: &quot;%2&quot;</source>
         <source>Drag an instrument into either the Song-Editor, the Beat+Bassline Editor or into an existing instrument track.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Instrument Plugins</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>PluginFactory</name>
     <message>
         <source>Plugin not found.</source>
-        <translation type="unfinished"/>
+        <translation>Plugin hittades inte.</translation>
     </message>
     <message>
         <source>LMMS plugin %1 does not have a plugin descriptor named %2!</source>
@@ -5690,19 +5684,19 @@ Reason: &quot;%2&quot;</source>
     <name>ProjectNotes</name>
     <message>
         <source>Project notes</source>
-        <translation type="unfinished"/>
+        <translation>Projektanteckningar</translation>
     </message>
     <message>
         <source>Put down your project notes here.</source>
-        <translation type="unfinished"/>
+        <translation>Skriv ner dina anteckningar för projektet här.</translation>
     </message>
     <message>
         <source>Edit Actions</source>
-        <translation type="unfinished"/>
+        <translation>Redigera Händelser</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ångra</translation>
     </message>
     <message>
         <source>%1+Z</source>
@@ -5710,7 +5704,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gör om</translation>
     </message>
     <message>
         <source>%1+Y</source>
@@ -5718,7 +5712,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kopiera</translation>
     </message>
     <message>
         <source>%1+C</source>
@@ -5726,7 +5720,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Klipp u&amp;t</translation>
     </message>
     <message>
         <source>%1+X</source>
@@ -5734,11 +5728,11 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Klistra in</translation>
     </message>
     <message>
         <source>%1+V</source>
-        <translation type="unfinished"/>
+        <translation>%1+V</translation>
     </message>
     <message>
         <source>Format Actions</source>
@@ -5746,51 +5740,51 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>&amp;Bold</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Fet</translation>
     </message>
     <message>
         <source>%1+B</source>
-        <translation type="unfinished"/>
+        <translation>%1+B</translation>
     </message>
     <message>
         <source>&amp;Italic</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kursiv</translation>
     </message>
     <message>
         <source>%1+I</source>
-        <translation type="unfinished"/>
+        <translation>%1+I</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Understruken</translation>
     </message>
     <message>
         <source>%1+U</source>
-        <translation type="unfinished"/>
+        <translation>%1+U</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Vänster</translation>
     </message>
     <message>
         <source>%1+L</source>
-        <translation type="unfinished"/>
+        <translation>%1+L</translation>
     </message>
     <message>
         <source>C&amp;enter</source>
-        <translation type="unfinished"/>
+        <translation>C&amp;entrera</translation>
     </message>
     <message>
         <source>%1+E</source>
-        <translation type="unfinished"/>
+        <translation>%1+E</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Höger</translation>
     </message>
     <message>
         <source>%1+R</source>
-        <translation type="unfinished"/>
+        <translation>%1+R</translation>
     </message>
     <message>
         <source>&amp;Justify</source>
@@ -5798,37 +5792,37 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>%1+J</source>
-        <translation type="unfinished"/>
+        <translation>%1+J</translation>
     </message>
     <message>
         <source>&amp;Color...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Färg...</translation>
     </message>
 </context>
 <context>
     <name>ProjectRenderer</name>
     <message>
         <source>WAV-File (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>WAV-Fil (*.wav)</translation>
     </message>
     <message>
         <source>Compressed OGG-File (*.ogg)</source>
-        <translation type="unfinished"/>
+        <translation>Komprimerad OGG-Fil (*.ogg)</translation>
     </message>
 </context>
 <context>
     <name>QWidget</name>
     <message>
         <source>Name: </source>
-        <translation type="unfinished"/>
+        <translation>Namn:</translation>
     </message>
     <message>
         <source>Maker: </source>
-        <translation type="unfinished"/>
+        <translation>Skapare:</translation>
     </message>
     <message>
         <source>Copyright: </source>
-        <translation type="unfinished"/>
+        <translation>Copyright: </translation>
     </message>
     <message>
         <source>Requires Real Time: </source>
@@ -5840,7 +5834,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nej</translation>
     </message>
     <message>
         <source>Real Time Capable: </source>
@@ -5852,41 +5846,41 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Channels In: </source>
-        <translation type="unfinished"/>
+        <translation>Kanaler In:</translation>
     </message>
     <message>
         <source>Channels Out: </source>
-        <translation type="unfinished"/>
+        <translation>Kanaler Ut:</translation>
     </message>
     <message>
         <source>File: </source>
-        <translation type="unfinished"/>
+        <translation>Fil:</translation>
     </message>
     <message>
         <source>File: %1</source>
-        <translation type="unfinished"/>
+        <translation>Fil: %1</translation>
     </message>
 </context>
 <context>
     <name>RenameDialog</name>
     <message>
         <source>Rename...</source>
-        <translation type="unfinished"/>
+        <translation>Byt namn...</translation>
     </message>
 </context>
 <context>
     <name>SampleBuffer</name>
     <message>
         <source>Open audio file</source>
-        <translation type="unfinished"/>
+        <translation>Öppna ljudfil</translation>
     </message>
     <message>
         <source>Wave-Files (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Wave-Filer (*.wav)</translation>
     </message>
     <message>
         <source>OGG-Files (*.ogg)</source>
-        <translation type="unfinished"/>
+        <translation>OGG-Filer (*.ogg)</translation>
     </message>
     <message>
         <source>DrumSynth-Files (*.ds)</source>
@@ -5894,7 +5888,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>FLAC-Files (*.flac)</source>
-        <translation type="unfinished"/>
+        <translation>FLAC-Filer (*.flac)</translation>
     </message>
     <message>
         <source>SPEEX-Files (*.spx)</source>
@@ -5902,34 +5896,35 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>VOC-Files (*.voc)</source>
-        <translation type="unfinished"/>
+        <translation>VOC-Filer
+ (*.voc)</translation>
     </message>
     <message>
         <source>AIFF-Files (*.aif *.aiff)</source>
-        <translation type="unfinished"/>
+        <translation>AIFF-Filer (*.aif *.aiff)</translation>
     </message>
     <message>
         <source>AU-Files (*.au)</source>
-        <translation type="unfinished"/>
+        <translation>AU-Filer (*.au)</translation>
     </message>
     <message>
         <source>RAW-Files (*.raw)</source>
-        <translation type="unfinished"/>
+        <translation>RAW-Filer (*.raw)</translation>
     </message>
     <message>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
-        <translation type="unfinished"/>
+        <translation>Alla Ljudfiler (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
 </context>
 <context>
     <name>SampleTCOView</name>
     <message>
         <source>double-click to select sample</source>
-        <translation type="unfinished"/>
+        <translation>dubbelklicka för att välja ljudfil</translation>
     </message>
     <message>
         <source>Delete (middle mousebutton)</source>
-        <translation type="unfinished"/>
+        <translation>Ta bort (musens mitt-knapp)</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -5952,7 +5947,7 @@ Reason: &quot;%2&quot;</source>
     <name>SampleTrack</name>
     <message>
         <source>Sample track</source>
-        <translation type="unfinished"/>
+        <translation>Ljudfils-spår</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -5994,7 +5989,7 @@ Reason: &quot;%2&quot;</source>
     <name>SetupDialog</name>
     <message>
         <source>Setup LMMS</source>
-        <translation type="unfinished"/>
+        <translation>Ställ in LMMS</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -6006,7 +6001,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Reset to default-value</source>
-        <translation type="unfinished"/>
+        <translation>Återställ till standardvärde</translation>
     </message>
     <message>
         <source>MISC</source>
@@ -6014,7 +6009,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Enable tooltips</source>
-        <translation type="unfinished"/>
+        <translation>Aktivera verktygs-tips</translation>
     </message>
     <message>
         <source>Show restart warning after changing settings</source>
@@ -6022,11 +6017,11 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Display volume as dBFS </source>
-        <translation type="unfinished"/>
+        <translation>Visa volym som dBFS</translation>
     </message>
     <message>
         <source>Compress project files per default</source>
-        <translation type="unfinished"/>
+        <translation>Komprimera projektfiler som standard</translation>
     </message>
     <message>
         <source>One instrument track window mode</source>
@@ -6046,7 +6041,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Visa noter i pianorulle</translation>
     </message>
     <message>
         <source>Enable waveform display by default</source>
@@ -6058,23 +6053,23 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Create backup file when saving a project</source>
-        <translation type="unfinished"/>
+        <translation>Skapa en backup-fil när ett projekt sparas</translation>
     </message>
     <message>
         <source>LANGUAGE</source>
-        <translation type="unfinished"/>
+        <translation>SPRÅK</translation>
     </message>
     <message>
         <source>Paths</source>
-        <translation type="unfinished"/>
+        <translation>Sökvägar</translation>
     </message>
     <message>
         <source>LMMS working directory</source>
-        <translation type="unfinished"/>
+        <translation>LMMS arbetskatalog</translation>
     </message>
     <message>
         <source>VST-plugin directory</source>
-        <translation type="unfinished"/>
+        <translation>Katalog för VST-plugin</translation>
     </message>
     <message>
         <source>Background artwork</source>
@@ -6082,7 +6077,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>STK rawwave directory</source>
-        <translation type="unfinished"/>
+        <translation>Katalog för STK rå-vågform</translation>
     </message>
     <message>
         <source>Default Soundfont File</source>
@@ -6098,11 +6093,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Smooth scroll in Song Editor</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Enable auto save feature</source>
-        <translation type="unfinished"/>
+        <translation>Mjuk rullning i Sång-editorn</translation>
     </message>
     <message>
         <source>Show playback cursor in AudioFileProcessor</source>
@@ -6118,7 +6109,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>MIDI settings</source>
-        <translation type="unfinished"/>
+        <translation>MIDI-inställningar</translation>
     </message>
     <message>
         <source>MIDI INTERFACE</source>
@@ -6134,11 +6125,11 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Restart LMMS</source>
-        <translation type="unfinished"/>
+        <translation>Starta om LMMS</translation>
     </message>
     <message>
         <source>Please note that most changes won&apos;t take effect until you restart LMMS!</source>
-        <translation type="unfinished"/>
+        <translation>Många av ändringarna kommer inte gälla förrän LMMS startats om!</translation>
     </message>
     <message>
         <source>Frames: %1
@@ -6151,31 +6142,31 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Choose LMMS working directory</source>
-        <translation type="unfinished"/>
+        <translation>Välj arbetskatalog för LMMS</translation>
     </message>
     <message>
         <source>Choose your VST-plugin directory</source>
-        <translation type="unfinished"/>
+        <translation>Välj katalog för dina VST-plugin</translation>
     </message>
     <message>
         <source>Choose artwork-theme directory</source>
-        <translation type="unfinished"/>
+        <translation>Välj katalog för gränssnitts-tema</translation>
     </message>
     <message>
         <source>Choose LADSPA plugin directory</source>
-        <translation type="unfinished"/>
+        <translation>Välj katalog för LADSPA-plugin</translation>
     </message>
     <message>
         <source>Choose STK rawwave directory</source>
-        <translation type="unfinished"/>
+        <translation>Välj katalog för STK-råfiler</translation>
     </message>
     <message>
         <source>Choose default SoundFont</source>
-        <translation type="unfinished"/>
+        <translation>Välj standard-SoundFont</translation>
     </message>
     <message>
         <source>Choose background artwork</source>
-        <translation type="unfinished"/>
+        <translation>Välj bakgrunds-grafik</translation>
     </message>
     <message>
         <source>Here you can select your preferred audio-interface. Depending on the configuration of your system during compilation time you can choose between ALSA, JACK, OSS and more. Below you see a box which offers controls to setup the selected audio-interface.</source>
@@ -6191,51 +6182,63 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Directories</source>
-        <translation type="unfinished"/>
+        <translation>Kataloger</translation>
     </message>
     <message>
         <source>Themes directory</source>
-        <translation type="unfinished"/>
+        <translation>Katalog för teman</translation>
     </message>
     <message>
         <source>GIG directory</source>
-        <translation type="unfinished"/>
+        <translation>Katalog för GIG-filer</translation>
     </message>
     <message>
         <source>SF2 directory</source>
-        <translation type="unfinished"/>
+        <translation>Katalog för SF2-filer</translation>
     </message>
     <message>
         <source>LADSPA plugin directories</source>
-        <translation type="unfinished"/>
+        <translation>Katalog för LADSPA-plugins</translation>
     </message>
     <message>
         <source>Auto save</source>
-        <translation type="unfinished"/>
+        <translation>Autospara</translation>
     </message>
     <message>
         <source>Choose your GIG directory</source>
-        <translation type="unfinished"/>
+        <translation>Välj din GIG-katalog</translation>
     </message>
     <message>
         <source>Choose your SF2 directory</source>
-        <translation type="unfinished"/>
+        <translation>Välj din SF2-katalog</translation>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"/>
+        <translation>minuter</translation>
     </message>
     <message>
         <source>minute</source>
+        <translation>minut</translation>
+    </message>
+    <message>
+        <source>Enable auto-save</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Auto save interval: %1 %2</source>
+        <source>Allow auto-save while playing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto-save interval: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Set the time between automatic backup to %1.
-Remember to also save your project manually.</source>
+Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6243,11 +6246,11 @@ Remember to also save your project manually.</source>
     <name>Song</name>
     <message>
         <source>Tempo</source>
-        <translation type="unfinished"/>
+        <translation>Tempo</translation>
     </message>
     <message>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>Huvudvolym</translation>
     </message>
     <message>
         <source>Master pitch</source>
@@ -6255,27 +6258,27 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Project saved</source>
-        <translation type="unfinished"/>
+        <translation>Projekt sparat</translation>
     </message>
     <message>
         <source>The project %1 is now saved.</source>
-        <translation type="unfinished"/>
+        <translation>Projektet %1 är nu sparat.</translation>
     </message>
     <message>
         <source>Project NOT saved.</source>
-        <translation type="unfinished"/>
+        <translation>Projektet är INTE sparat.</translation>
     </message>
     <message>
         <source>The project %1 was not saved!</source>
-        <translation type="unfinished"/>
+        <translation>Projektet %1 sparades inte!</translation>
     </message>
     <message>
         <source>Import file</source>
-        <translation type="unfinished"/>
+        <translation>Importera fil</translation>
     </message>
     <message>
         <source>MIDI sequences</source>
-        <translation type="unfinished"/>
+        <translation>MIDI-sekvenser</translation>
     </message>
     <message>
         <source>Hydrogen projects</source>
@@ -6283,15 +6286,15 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>All file types</source>
-        <translation type="unfinished"/>
+        <translation>Alla filtyper</translation>
     </message>
     <message>
         <source>Empty project</source>
-        <translation type="unfinished"/>
+        <translation>Tomt projekt</translation>
     </message>
     <message>
         <source>This project is empty so exporting makes no sense. Please put some items into Song Editor first!</source>
-        <translation type="unfinished"/>
+        <translation>Projektet är tomt, export är meningslöst. Skapa något i Sång-editorn innan du exporterar!</translation>
     </message>
     <message>
         <source>Select directory for writing exported tracks...</source>
@@ -6299,7 +6302,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>untitled</source>
-        <translation type="unfinished"/>
+        <translation>namnlös</translation>
     </message>
     <message>
         <source>Select file for project-export...</source>
@@ -6311,10 +6314,14 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>MIDI File (*.mid)</source>
-        <translation type="unfinished"/>
+        <translation>MIDI-fil (*.mid)</translation>
     </message>
     <message>
         <source>LMMS Error report</source>
+        <translation>LMMS Felrapport</translation>
+    </message>
+    <message>
+        <source>Save project</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6326,7 +6333,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Could not write file</source>
-        <translation type="unfinished"/>
+        <translation>Kunde inte skriva fil</translation>
     </message>
     <message>
         <source>Could not open file %1. You probably have no permissions to read this file.
@@ -6335,7 +6342,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Error in file</source>
-        <translation type="unfinished"/>
+        <translation>Fil-fel</translation>
     </message>
     <message>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
@@ -6343,15 +6350,15 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Tempo</source>
-        <translation type="unfinished"/>
+        <translation>Tempo</translation>
     </message>
     <message>
         <source>TEMPO/BPM</source>
-        <translation type="unfinished"/>
+        <translation>TEMPO/BPM</translation>
     </message>
     <message>
         <source>tempo of song</source>
-        <translation type="unfinished"/>
+        <translation>Sångtempo</translation>
     </message>
     <message>
         <source>The tempo of a song is specified in beats per minute (BPM). If you want to change the tempo of your song, change this value. Every measure has four beats, so the tempo in BPM specifies, how many measures / 4 should be played within a minute (or how many measures should be played within four minutes).</source>
@@ -6363,11 +6370,11 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>Huvudvolym</translation>
     </message>
     <message>
         <source>master volume</source>
-        <translation type="unfinished"/>
+        <translation>huvudvolym</translation>
     </message>
     <message>
         <source>Master pitch</source>
@@ -6379,11 +6386,11 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Value: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Värde: %1%</translation>
     </message>
     <message>
         <source>Value: %1 semitones</source>
-        <translation type="unfinished"/>
+        <translation>Värde: %1 halvtoner</translation>
     </message>
     <message>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
@@ -6391,15 +6398,15 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>template</source>
-        <translation type="unfinished"/>
+        <translation>mall</translation>
     </message>
     <message>
         <source>project</source>
-        <translation type="unfinished"/>
+        <translation>projekt</translation>
     </message>
     <message>
         <source>Version difference</source>
-        <translation type="unfinished"/>
+        <translation>Versions-skillnad</translation>
     </message>
     <message>
         <source>This %1 was created with LMMS %2.</source>
@@ -6410,11 +6417,11 @@ Remember to also save your project manually.</source>
     <name>SongEditorWindow</name>
     <message>
         <source>Song-Editor</source>
-        <translation type="unfinished"/>
+        <translation>Sång-Editor</translation>
     </message>
     <message>
         <source>Play song (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Spela sång (Mellanslag)</translation>
     </message>
     <message>
         <source>Record samples from Audio-device</source>
@@ -6426,7 +6433,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Stop song (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Sluta spela sång (Mellanslag)</translation>
     </message>
     <message>
         <source>Add beat/bassline</source>
@@ -6442,11 +6449,11 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Draw mode</source>
-        <translation type="unfinished"/>
+        <translation>Ritläge</translation>
     </message>
     <message>
         <source>Edit mode (select and move)</source>
-        <translation type="unfinished"/>
+        <translation>Redigeringsläge (välj och flytta)</translation>
     </message>
     <message>
         <source>Click here, if you want to play your whole song. Playing will be started at the song-position-marker (green). You can also move it while playing.</source>
@@ -6481,7 +6488,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Linear Y axis</source>
-        <translation type="unfinished"/>
+        <translation>Linjär Y-axel</translation>
     </message>
 </context>
 <context>
@@ -6492,7 +6499,7 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Linear Y axis</source>
-        <translation type="unfinished"/>
+        <translation>Linjär Y-axel</translation>
     </message>
     <message>
         <source>Channel mode</source>
@@ -6503,22 +6510,22 @@ Remember to also save your project manually.</source>
     <name>SubWindow</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Maximera</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"/>
+        <translation>Återställ</translation>
     </message>
 </context>
 <context>
     <name>TabWidget</name>
     <message>
         <source>Settings for %1</source>
-        <translation type="unfinished"/>
+        <translation>Inställningar för %1</translation>
     </message>
 </context>
 <context>
@@ -6533,15 +6540,15 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>Eight beats</source>
-        <translation type="unfinished"/>
+        <translation>Åtta takter</translation>
     </message>
     <message>
         <source>Whole note</source>
-        <translation type="unfinished"/>
+        <translation>Hel-not</translation>
     </message>
     <message>
         <source>Half note</source>
-        <translation type="unfinished"/>
+        <translation>Halvnot</translation>
     </message>
     <message>
         <source>Quarter note</source>
@@ -6600,19 +6607,19 @@ Remember to also save your project manually.</source>
     <name>TimeDisplayWidget</name>
     <message>
         <source>click to change time units</source>
-        <translation type="unfinished"/>
+        <translation>Klicka för att ändra tidsenheter</translation>
     </message>
     <message>
         <source>MIN</source>
-        <translation type="unfinished"/>
+        <translation>MIN</translation>
     </message>
     <message>
         <source>SEC</source>
-        <translation type="unfinished"/>
+        <translation>SEK</translation>
     </message>
     <message>
         <source>MSEC</source>
-        <translation type="unfinished"/>
+        <translation>MSEK</translation>
     </message>
     <message>
         <source>BAR</source>
@@ -6620,11 +6627,11 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>BEAT</source>
-        <translation type="unfinished"/>
+        <translation>TAKT</translation>
     </message>
     <message>
         <source>TICK</source>
-        <translation type="unfinished"/>
+        <translation>TICK</translation>
     </message>
 </context>
 <context>
@@ -6666,11 +6673,11 @@ Remember to also save your project manually.</source>
     <name>Track</name>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Tysta</translation>
     </message>
     <message>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Solo</translation>
     </message>
 </context>
 <context>
@@ -6682,7 +6689,8 @@ Remember to also save your project manually.</source>
     <message>
         <source>Couldn't find a filter for importing file %1.
 You should convert this file into a format supported by LMMS using another software.</source>
-        <translation type="unfinished"/>
+        <translation>Kunde inte hitta ett filter för att importera filen %1.
+Du bör konvertera filen till ett format som stöd av LMMS genom att använda ett annat program.</translation>
     </message>
     <message>
         <source>Couldn&apos;t open file</source>
@@ -6691,11 +6699,12 @@ You should convert this file into a format supported by LMMS using another softw
     <message>
         <source>Couldn't open file %1 for reading.
 Please make sure you have read-permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
+        <translation>Kunde inte öppna filen %1 för läsning.
+Se till att du har läsrättigheter för filen och katalogen som innehåller filen och försök igen!</translation>
     </message>
     <message>
         <source>Loading project...</source>
-        <translation type="unfinished"/>
+        <translation>Läser in projekt...</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -6707,21 +6716,21 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Importing MIDI-file...</source>
-        <translation type="unfinished"/>
+        <translation>Importerar MIDI-fil...</translation>
     </message>
 </context>
 <context>
     <name>TrackContentObject</name>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Tysta</translation>
     </message>
 </context>
 <context>
     <name>TrackContentObjectView</name>
     <message>
         <source>Current position</source>
-        <translation type="unfinished"/>
+        <translation>Aktuell position</translation>
     </message>
     <message>
         <source>Hint</source>
@@ -6729,11 +6738,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
-        <translation type="unfinished"/>
+        <translation>Håll nere &lt;%1&gt; och dra för att kopiera.</translation>
     </message>
     <message>
         <source>Current length</source>
-        <translation type="unfinished"/>
+        <translation>Aktuell längd</translation>
     </message>
     <message>
         <source>Press &lt;%1&gt; for free resizing.</source>
@@ -6741,11 +6750,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2 (%3:%4 till %5:%6)</translation>
     </message>
     <message>
         <source>Delete (middle mousebutton)</source>
-        <translation type="unfinished"/>
+        <translation>Ta bort (musens mitt-knapp)</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -6776,27 +6785,27 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Tysta</translation>
     </message>
     <message>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Solo</translation>
     </message>
     <message>
         <source>Mute this track</source>
-        <translation type="unfinished"/>
+        <translation>Tysta detta spår</translation>
     </message>
     <message>
         <source>Clone this track</source>
-        <translation type="unfinished"/>
+        <translation>Klona detta spår</translation>
     </message>
     <message>
         <source>Remove this track</source>
-        <translation type="unfinished"/>
+        <translation>Ta bort detta spår</translation>
     </message>
     <message>
         <source>Clear this track</source>
-        <translation type="unfinished"/>
+        <translation>Rensa detta spår</translation>
     </message>
     <message>
         <source>FX %1: %2</source>
@@ -6812,7 +6821,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Assign to new FX Channel</source>
-        <translation type="unfinished"/>
+        <translation>Koppla till ny FX-kanal</translation>
     </message>
 </context>
 <context>
@@ -6879,7 +6888,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>semitones</source>
-        <translation type="unfinished"/>
+        <translation>halvtoner</translation>
     </message>
     <message>
         <source>With this knob you can set the coarse detuning of oscillator %1. You can detune the oscillator 24 semitones (2 octaves) up and down. This is useful for creating sounds with a chord.</source>
@@ -6968,6 +6977,10 @@ Please make sure you have read-permission to the file and the directory containi
         <source>Decrement version number</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source> already exists. Do you want to replace it?</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>VestigeInstrumentView</name>
@@ -7009,7 +7022,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Control VST-plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>Kontrollera VST-plugin från LMMS-värd</translation>
     </message>
     <message>
         <source>Click here, if you want to control VST-plugin from host.</source>
@@ -7068,7 +7081,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click to enable</source>
-        <translation type="unfinished"/>
+        <translation>Klicka för att aktivera</translation>
     </message>
 </context>
 <context>
@@ -7079,7 +7092,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Control VST-plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>Kontrollera VST-plugin från LMMS-värd</translation>
     </message>
     <message>
         <source>Click here, if you want to control VST-plugin from host.</source>
@@ -7119,11 +7132,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Effect by: </source>
-        <translation type="unfinished"/>
+        <translation>Effekt skapad av:</translation>
     </message>
     <message>
         <source>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</translation>
     </message>
 </context>
 <context>
@@ -7134,7 +7147,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Open Preset</source>
-        <translation type="unfinished"/>
+        <translation>Öppna Förinställning</translation>
     </message>
     <message>
         <source>Vst Plugin Preset (*.fxp *.fxb)</source>
@@ -7142,7 +7155,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>: default</source>
-        <translation type="unfinished"/>
+        <translation>: standard</translation>
     </message>
     <message>
         <source>&quot;</source>
@@ -7154,7 +7167,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Save Preset</source>
-        <translation type="unfinished"/>
+        <translation>Spara Förinställning</translation>
     </message>
     <message>
         <source>.fxp</source>
@@ -7174,7 +7187,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Please wait while loading VST plugin...</source>
-        <translation type="unfinished"/>
+        <translation>Vänta medan VST-plugin läses in...</translation>
     </message>
     <message>
         <source>The VST plugin %1 could not be loaded.</source>
@@ -7499,7 +7512,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>FM Gain</source>
-        <translation type="unfinished"/>
+        <translation>FM-Förstärkning</translation>
     </message>
     <message>
         <source>Resonance Center Frequency</source>
@@ -7522,7 +7535,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of ZynAddSubFX.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för att visa eller dölja användargränssnittet för ZynAddSubFX.</translation>
     </message>
     <message>
         <source>Portamento:</source>
@@ -7534,7 +7547,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Filter Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Filter-frekvens:</translation>
     </message>
     <message>
         <source>FREQ</source>
@@ -7542,7 +7555,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Filter Resonance:</source>
-        <translation type="unfinished"/>
+        <translation>Filter-resonans:</translation>
     </message>
     <message>
         <source>RES</source>
@@ -7550,7 +7563,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Bandwidth:</source>
-        <translation type="unfinished"/>
+        <translation>Bandbredd:</translation>
     </message>
     <message>
         <source>BW</source>
@@ -7558,7 +7571,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>FM Gain:</source>
-        <translation type="unfinished"/>
+        <translation>FM-Förstärkning:</translation>
     </message>
     <message>
         <source>FM GAIN</source>
@@ -7640,14 +7653,14 @@ Please make sure you have read-permission to the file and the directory containi
     <name>bitInvader</name>
     <message>
         <source>Samplelength</source>
-        <translation type="unfinished"/>
+        <translation>Ljudfilslängd</translation>
     </message>
 </context>
 <context>
     <name>bitInvaderView</name>
     <message>
         <source>Sample Length</source>
-        <translation type="unfinished"/>
+        <translation>Ljudfilens Längd</translation>
     </message>
     <message>
         <source>Sine wave</source>
@@ -7671,7 +7684,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>User defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Användardefinierad vågform</translation>
     </message>
     <message>
         <source>Smooth</source>
@@ -7683,7 +7696,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Interpolation</source>
-        <translation type="unfinished"/>
+        <translation>Interpolering</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -7699,7 +7712,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here for a triangle-wave.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för triangelvåg.</translation>
     </message>
     <message>
         <source>Click here for a saw-wave.</source>
@@ -7715,26 +7728,26 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here for a user-defined shape.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för en användardefinierad kurva.</translation>
     </message>
 </context>
 <context>
     <name>dynProcControlDialog</name>
     <message>
         <source>INPUT</source>
-        <translation type="unfinished"/>
+        <translation>INGÅNG</translation>
     </message>
     <message>
         <source>Input gain:</source>
-        <translation type="unfinished"/>
+        <translation>Ingångsförstärkning:</translation>
     </message>
     <message>
         <source>OUTPUT</source>
-        <translation type="unfinished"/>
+        <translation>UTGÅNG</translation>
     </message>
     <message>
         <source>Output gain:</source>
-        <translation type="unfinished"/>
+        <translation>Utgångsförstärkning:</translation>
     </message>
     <message>
         <source>ATTACK</source>
@@ -7754,7 +7767,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Reset waveform</source>
-        <translation type="unfinished"/>
+        <translation>Återställ vågform</translation>
     </message>
     <message>
         <source>Click here to reset the wavegraph back to default</source>
@@ -7762,7 +7775,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Smooth waveform</source>
-        <translation type="unfinished"/>
+        <translation>Mjuk vågform</translation>
     </message>
     <message>
         <source>Click here to apply smoothing to wavegraph</source>
@@ -7813,11 +7826,11 @@ Please make sure you have read-permission to the file and the directory containi
     <name>dynProcControls</name>
     <message>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Ingångsförstärkning</translation>
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Utgångsförstärkning</translation>
     </message>
     <message>
         <source>Attack time</source>
@@ -7829,18 +7842,18 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Stereo mode</source>
-        <translation type="unfinished"/>
+        <translation>Stereo-läge</translation>
     </message>
 </context>
 <context>
     <name>fxLineLcdSpinBox</name>
     <message>
         <source>Assign to:</source>
-        <translation type="unfinished"/>
+        <translation>Tilldela till:</translation>
     </message>
     <message>
         <source>New FX Channel</source>
-        <translation type="unfinished"/>
+        <translation>Ny FX-Kanal</translation>
     </message>
 </context>
 <context>
@@ -7960,7 +7973,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Analysis Tools</source>
-        <translation type="unfinished"/>
+        <translation>Analysverktyg</translation>
     </message>
     <message>
         <source>Don&apos;t know</source>
@@ -7984,7 +7997,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Typ:</translation>
     </message>
 </context>
 <context>
@@ -8002,7 +8015,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <name>ladspaPortDialog</name>
     <message>
         <source>Ports</source>
-        <translation type="unfinished"/>
+        <translation>Portar</translation>
     </message>
     <message>
         <source>Name</source>
@@ -8022,7 +8035,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Min &lt; Default &lt; Max</source>
-        <translation type="unfinished"/>
+        <translation>Min &lt; Standard &lt; Max</translation>
     </message>
     <message>
         <source>Logarithmic</source>
@@ -8042,11 +8055,11 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Ingång</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Utgång</translation>
     </message>
     <message>
         <source>Toggled</source>
@@ -8089,7 +8102,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Waveform</source>
-        <translation type="unfinished"/>
+        <translation>Vågform</translation>
     </message>
     <message>
         <source>Slide Decay</source>
@@ -8128,7 +8141,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Decay:</translation>
     </message>
     <message>
         <source>303-es-que, 24dB/octave, 3 pole filter</source>
@@ -8156,7 +8169,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Click here for a triangle-wave.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för triangelvåg.</translation>
     </message>
     <message>
         <source>Square wave</source>
@@ -8489,7 +8502,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Automated</source>
-        <translation type="unfinished"/>
+        <translation>Automatiserad</translation>
     </message>
     <message>
         <source>Click here if you want to display automated parameters only.</source>
@@ -8520,7 +8533,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Automated</source>
-        <translation type="unfinished"/>
+        <translation>Automatiserad</translation>
     </message>
     <message>
         <source>Click here if you want to display automated parameters only.</source>
@@ -8662,7 +8675,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Decay</translation>
     </message>
     <message>
         <source>Release</source>
@@ -8696,7 +8709,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Randomise</source>
-        <translation type="unfinished"/>
+        <translation>Slumpa</translation>
     </message>
     <message>
         <source>Osc %1 waveform:</source>
@@ -9088,7 +9101,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Filter for importing MIDI-files into LMMS</source>
-        <translation type="unfinished"/>
+        <translation>Filter för att importera MIDI-filer till LMMS</translation>
     </message>
     <message>
         <source>Emulation of the MOS6581 and MOS8580 SID.
@@ -9097,11 +9110,11 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Player for SoundFont files</source>
-        <translation type="unfinished"/>
+        <translation>Spelare för SoundFont-filer</translation>
     </message>
     <message>
         <source>Emulation of GameBoy (TM) APU</source>
-        <translation type="unfinished"/>
+        <translation>Emulering av GameBoy (TM) APU</translation>
     </message>
     <message>
         <source>Customizable wavetable synthesizer</source>
@@ -9117,7 +9130,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Filter for importing Hydrogen files into LMMS</source>
-        <translation type="unfinished"/>
+        <translation>Filter för att importera Hydrogen-filer till LMMS</translation>
     </message>
     <message>
         <source>LMMS port of sfxr</source>
@@ -9153,7 +9166,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Versatile drum synthesizer</source>
-        <translation type="unfinished"/>
+        <translation>Mångsidig trum-synth</translation>
     </message>
     <message>
         <source>Simple sampler with various settings for using samples (e.g. drums) in an instrument-track</source>
@@ -9185,7 +9198,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Player for GIG files</source>
-        <translation type="unfinished"/>
+        <translation>Spelare för GIG-filer</translation>
     </message>
     <message>
         <source>A multitap echo delay plugin</source>
@@ -9272,18 +9285,18 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>A soundfont %1 could not be loaded.</source>
-        <translation type="unfinished"/>
+        <translation>SoundFont %1 kunde inte läsas in.</translation>
     </message>
 </context>
 <context>
     <name>sf2InstrumentView</name>
     <message>
         <source>Open other SoundFont file</source>
-        <translation type="unfinished"/>
+        <translation>Öppna en annan SoundFont-fil</translation>
     </message>
     <message>
         <source>Click here to open another SF2 file</source>
-        <translation type="unfinished"/>
+        <translation>Klicka här för att öppna en annan SF2-fil</translation>
     </message>
     <message>
         <source>Choose the patch</source>
@@ -9347,7 +9360,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>SoundFont2 Files (*.sf2)</source>
-        <translation type="unfinished"/>
+        <translation>SoundFont2-filer (*.sf2)</translation>
     </message>
 </context>
 <context>
@@ -9432,7 +9445,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Decay:</translation>
     </message>
     <message>
         <source>Decay rate determines how rapidly the output falls from the peak amplitude to the selected Sustain level.</source>
@@ -9440,7 +9453,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Sustain:</source>
-        <translation type="unfinished"/>
+        <translation>Sustain:</translation>
     </message>
     <message>
         <source>Output of Voice %1 will remain at the selected Sustain amplitude as long as the note is held.</source>
@@ -9448,7 +9461,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>Release:</translation>
     </message>
     <message>
         <source>The output of of Voice %1 will fall from Sustain amplitude to zero amplitude at the selected Release rate.</source>
@@ -9541,15 +9554,15 @@ This chip was used in the Commodore 64 computer.</source>
     <name>stereoMatrixControlDialog</name>
     <message>
         <source>Left to Left Vol:</source>
-        <translation type="unfinished"/>
+        <translation>Vänster till Vänster Vol.:</translation>
     </message>
     <message>
         <source>Left to Right Vol:</source>
-        <translation type="unfinished"/>
+        <translation>Vänster till Höger Vol.:</translation>
     </message>
     <message>
         <source>Right to Left Vol:</source>
-        <translation type="unfinished"/>
+        <translation>Höger till Vänster Vol.:</translation>
     </message>
     <message>
         <source>Right to Right Vol:</source>
@@ -9777,7 +9790,7 @@ The LED in the lower right corner of the waveform editor determines whether the 
     </message>
     <message>
         <source>User defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Användardefinierad vågform</translation>
     </message>
     <message>
         <source>Smooth</source>
@@ -9871,23 +9884,23 @@ The LED in the lower right corner of the waveform editor determines whether the 
     <name>waveShaperControlDialog</name>
     <message>
         <source>INPUT</source>
-        <translation type="unfinished"/>
+        <translation>INGÅNG</translation>
     </message>
     <message>
         <source>Input gain:</source>
-        <translation type="unfinished"/>
+        <translation>Ingångsförstärkning:</translation>
     </message>
     <message>
         <source>OUTPUT</source>
-        <translation type="unfinished"/>
+        <translation>UTGÅNG</translation>
     </message>
     <message>
         <source>Output gain:</source>
-        <translation type="unfinished"/>
+        <translation>Utgångsförstärkning:</translation>
     </message>
     <message>
         <source>Reset waveform</source>
-        <translation type="unfinished"/>
+        <translation>Återställ vågform</translation>
     </message>
     <message>
         <source>Click here to reset the wavegraph back to default</source>
@@ -9895,7 +9908,7 @@ The LED in the lower right corner of the waveform editor determines whether the 
     </message>
     <message>
         <source>Smooth waveform</source>
-        <translation type="unfinished"/>
+        <translation>Mjuk vågform</translation>
     </message>
     <message>
         <source>Click here to apply smoothing to wavegraph</source>
@@ -9930,11 +9943,11 @@ The LED in the lower right corner of the waveform editor determines whether the 
     <name>waveShaperControls</name>
     <message>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Ingångsförstärkning</translation>
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Utgångsförstärkning</translation>
     </message>
 </context>
 </TS>

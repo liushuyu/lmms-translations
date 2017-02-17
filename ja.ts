@@ -42,10 +42,6 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>LMMS</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <source>Involved</source>
         <translation>関係者</translation>
     </message>
@@ -56,6 +52,10 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <source>Copyright © %1</source>
         <translation>Copyright © %1</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -719,7 +719,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Input Noise:</source>
-        <translation type="unfinished"/>
+        <translation>入力ノイズ:</translation>
     </message>
     <message>
         <source>Output Gain:</source>
@@ -759,7 +759,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Sample rate:</source>
-        <translation type="unfinished"/>
+        <translation>サンプルレート:</translation>
     </message>
     <message>
         <source>STD</source>
@@ -775,7 +775,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Levels:</source>
-        <translation type="unfinished"/>
+        <translation>レベル:</translation>
     </message>
 </context>
 <context>
@@ -1005,10 +1005,6 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>DelayControlsDialog</name>
     <message>
-        <source>Delay</source>
-        <translation>ディレイ</translation>
-    </message>
-    <message>
         <source>Lfo Amt</source>
         <translation>LFO 量</translation>
     </message>
@@ -1017,16 +1013,8 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>ディレイ タイム</translation>
     </message>
     <message>
-        <source>Regen</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Feedback Amount</source>
         <translation>フィードバック量</translation>
-    </message>
-    <message>
-        <source>Rate</source>
-        <translation>レート</translation>
     </message>
     <message>
         <source>Lfo</source>
@@ -1039,6 +1027,22 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <source>Gain</source>
         <translation>ゲイン</translation>
+    </message>
+    <message>
+        <source>DELAY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FDBK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RATE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AMNT</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1307,7 +1311,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"/>
+        <translation>製作者</translation>
     </message>
 </context>
 <context>
@@ -1350,7 +1354,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Gate:</source>
-        <translation type="unfinished"/>
+        <translation>ゲート:</translation>
     </message>
     <message>
         <source>The Gate knob controls the signal level that is considered to be &apos;silence&apos; while deciding when to stop processing signals.</source>
@@ -1468,7 +1472,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>アタック:</translation>
     </message>
     <message>
         <source>Use this knob for setting attack-time of the current envelope. The bigger this value the longer the envelope needs to increase to attack-level. Choose a small value for instruments like pianos and a big value for strings.</source>
@@ -1492,7 +1496,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>ディケイ:</translation>
     </message>
     <message>
         <source>Use this knob for setting decay-time of the current envelope. The bigger this value the longer the envelope needs to decrease from attack-level to sustain-level. Choose a small value for instruments like pianos.</source>
@@ -1504,7 +1508,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Sustain:</source>
-        <translation type="unfinished"/>
+        <translation>サスティン:</translation>
     </message>
     <message>
         <source>Use this knob for setting sustain-level of the current envelope. The bigger this value the higher the level on which the envelope stays before going down to zero.</source>
@@ -1516,7 +1520,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>リリース:</translation>
     </message>
     <message>
         <source>Use this knob for setting release-time of the current envelope. The bigger this value the longer the envelope needs to decrease from sustain-level to zero. Choose a big value for soft instruments like strings.</source>
@@ -1868,18 +1872,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <source> Octave</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Frequency</source>
-        <translation>周波数</translation>
-    </message>
-    <message>
-        <source>Resonance</source>
-        <translation>レゾナンス</translation>
-    </message>
-    <message>
-        <source>Bandwidth</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>EqHandle</name>
@@ -2043,12 +2035,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <translation>ファイルを開けません</translation>
     </message>
     <message>
-        <source>Could not open file %1 for writing.
-Please make sure you have write-permission to the file and the directory containing the file and try again!</source>
-        <translation>ファイル %1 を書き込み用に開くことができませんでした。
-このファイルとファイルのディレクトリへの書き込み権限があるかを確認してから再度書き込んでください！</translation>
-    </message>
-    <message>
         <source>Export project to %1</source>
         <translation type="unfinished"/>
     </message>
@@ -2062,6 +2048,11 @@ Please make sure you have write-permission to the file and the directory contain
     </message>
     <message>
         <source>Rendering: %1%</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3950,10 +3941,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Export &amp;MIDI...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>&amp;View</source>
         <translation type="unfinished"/>
     </message>
@@ -4031,6 +4018,10 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save project template</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5354,11 +5345,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>アタック:</translation>
     </message>
     <message>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>リリース:</translation>
     </message>
     <message>
         <source>AMNT</source>
@@ -5669,16 +5660,16 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>PluginBrowser</name>
     <message>
-        <source>Instrument plugins</source>
-        <translation>楽器プラグイン</translation>
-    </message>
-    <message>
         <source>Instrument browser</source>
         <translation>楽器ブラウザ</translation>
     </message>
     <message>
         <source>Drag an instrument into either the Song-Editor, the Beat+Bassline Editor or into an existing instrument track.</source>
         <translation>楽器をソング エディターやビート+ベースライン エディターまたは存在する楽器トラックにドラッグしてください。</translation>
+    </message>
+    <message>
+        <source>Instrument Plugins</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5904,7 +5895,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>SPEEX-Files (*.spx)</source>
-        <translation>SPEEXファイル (*.spx)</translation>
+        <translation>SPEEX ファイル (*.spx)</translation>
     </message>
     <message>
         <source>VOC-Files (*.voc)</source>
@@ -5912,15 +5903,15 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>AIFF-Files (*.aif *.aiff)</source>
-        <translation>AIFFファイル (*.aif *.aiff)</translation>
+        <translation>AIFF ファイル (*.aif *.aiff)</translation>
     </message>
     <message>
         <source>AU-Files (*.au)</source>
-        <translation>AUファイル (*.au)</translation>
+        <translation>AU ファイル (*.au)</translation>
     </message>
     <message>
         <source>RAW-Files (*.raw)</source>
-        <translation>RAWファイル (*.raw)</translation>
+        <translation>RAW ファイル (*.raw)</translation>
     </message>
     <message>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
@@ -5951,7 +5942,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation>ミュート/ミュート解除(&lt;%1&gt; + 中ボタンクリック）</translation>
+        <translation>ミュート/ミュート解除 (&lt;%1&gt; + 中ボタンクリック）</translation>
     </message>
 </context>
 <context>
@@ -6000,7 +5991,7 @@ Reason: &quot;%2&quot;</source>
     <name>SetupDialog</name>
     <message>
         <source>Setup LMMS</source>
-        <translation>LMMS設定</translation>
+        <translation>LMMS 設定</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -6105,10 +6096,6 @@ Reason: &quot;%2&quot;</source>
     <message>
         <source>Smooth scroll in Song Editor</source>
         <translation>ソング エディターでスムーススクロールする</translation>
-    </message>
-    <message>
-        <source>Enable auto save feature</source>
-        <translation>自動保存機能を有効にする</translation>
     </message>
     <message>
         <source>Show playback cursor in AudioFileProcessor</source>
@@ -6236,12 +6223,24 @@ Latency: %2 ms</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Auto save interval: %1 %2</source>
+        <source>Enable auto-save</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow auto-save while playing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto-save interval: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Set the time between automatic backup to %1.
-Remember to also save your project manually.</source>
+Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6321,6 +6320,10 @@ Remember to also save your project manually.</source>
     </message>
     <message>
         <source>LMMS Error report</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save project</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6975,6 +6978,10 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <source>Decrement version number</source>
         <translation>バージョン番号を小さくする</translation>
+    </message>
+    <message>
+        <source> already exists. Do you want to replace it?</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8136,7 +8143,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>ディケイ:</translation>
     </message>
     <message>
         <source>303-es-que, 24dB/octave, 3 pole filter</source>
@@ -8307,15 +8314,15 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Marimba</source>
-        <translation type="unfinished"/>
+        <translation>マリンバ</translation>
     </message>
     <message>
         <source>Vibraphone</source>
-        <translation type="unfinished"/>
+        <translation>ビブラフォン</translation>
     </message>
     <message>
         <source>Agogo</source>
-        <translation type="unfinished"/>
+        <translation>アゴゴ</translation>
     </message>
     <message>
         <source>Wood1</source>
@@ -9424,15 +9431,15 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>MOS6581 SID </source>
-        <translation type="unfinished"/>
+        <translation>MOS6581 SID </translation>
     </message>
     <message>
         <source>MOS8580 SID </source>
-        <translation type="unfinished"/>
+        <translation>MOS8580 SID </translation>
     </message>
     <message>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>アタック:</translation>
     </message>
     <message>
         <source>Attack rate determines how rapidly the output of Voice %1 rises from zero to peak amplitude.</source>
@@ -9440,7 +9447,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>ディケイ:</translation>
     </message>
     <message>
         <source>Decay rate determines how rapidly the output falls from the peak amplitude to the selected Sustain level.</source>
@@ -9448,7 +9455,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Sustain:</source>
-        <translation type="unfinished"/>
+        <translation>サスティン:</translation>
     </message>
     <message>
         <source>Output of Voice %1 will remain at the selected Sustain amplitude as long as the note is held.</source>
@@ -9456,7 +9463,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>リリース:</translation>
     </message>
     <message>
         <source>The output of of Voice %1 will fall from Sustain amplitude to zero amplitude at the selected Release rate.</source>
