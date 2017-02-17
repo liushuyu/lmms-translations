@@ -55,7 +55,7 @@ Si vous êtes intéressé par la traduction de LMMS dans une nouvelle langue ou 
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2065,7 +2065,8 @@ Un clic-droit fera apparaître un menu contextuel où vous pourrez changer l&apo
     <message>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
+        <translation>Impossible d&apos;ouvrir le fichier %1 en écriture.
+Veuillez vous assurez que vous avez les droits d&apos;écriture sur le fichier et le dossier contenant le fichier, et essayez à nouveau !</translation>
     </message>
 </context>
 <context>
@@ -4040,7 +4041,7 @@ Veuillez visiter http://lmms.sf.net/wiki pour la documentation de LMMS.</transla
     </message>
     <message>
         <source>Save project template</source>
-        <translation type="unfinished"/>
+        <translation>Sauvegarder le modèle de projet</translation>
     </message>
 </context>
 <context>
@@ -5703,7 +5704,7 @@ Raison : &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Instrument Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Greffons d&apos;instrument</translation>
     </message>
 </context>
 <context>
@@ -6259,24 +6260,25 @@ Latence : %2 ms</translation>
     </message>
     <message>
         <source>Enable auto-save</source>
-        <translation type="unfinished"/>
+        <translation>Activer la sauvegarde automatique</translation>
     </message>
     <message>
         <source>Allow auto-save while playing</source>
-        <translation type="unfinished"/>
+        <translation>Permettre la sauvegarde automatique pendant la lecture</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"/>
+        <translation>Désactivé</translation>
     </message>
     <message>
         <source>Auto-save interval: %1</source>
-        <translation type="unfinished"/>
+        <translation>Intervalle de sauvegarde automatique : %1</translation>
     </message>
     <message>
         <source>Set the time between automatic backup to %1.
 Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
-        <translation type="unfinished"/>
+        <translation>Paramétrer le temps entre les sauvegardes automatiques à %1.
+Souvenez-vous de sauvegarder aussi votre projet manuellement. Vous pouvez choisir de séactiver la sauvegarde pendant la lecture, c'est quelque chose qui peut être difficile sur d'anciens systèmes.</translation>
     </message>
 </context>
 <context>
@@ -6359,7 +6361,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Save project</source>
-        <translation type="unfinished"/>
+        <translation>Sauvegarder le projet</translation>
     </message>
 </context>
 <context>
@@ -7017,7 +7019,7 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source> already exists. Do you want to replace it?</source>
-        <translation type="unfinished"/>
+        <translation> existe déjà. Souhaitez-vous le remplacer ?</translation>
     </message>
 </context>
 <context>
