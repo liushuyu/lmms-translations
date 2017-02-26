@@ -3412,12 +3412,12 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Ange ett nytt värde mellan %1 och %2:</translation>
+    </message>
+    <message>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4006,10 +4006,6 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
         <translation>Detta kommer skriva över din nuvarande standardmall.</translation>
     </message>
     <message>
-        <source>Volume as dBFS</source>
-        <translation>Volym som dBFS</translation>
-    </message>
-    <message>
         <source>Smooth scroll</source>
         <translation>Mjuk rullning</translation>
     </message>
@@ -4020,6 +4016,10 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <source>Save project template</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume as dBFS</source>
+        <translation>Volym som dBFS</translation>
     </message>
 </context>
 <context>
@@ -4083,7 +4083,7 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <source>JACK server down</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (title)</extracomment>
-        <translation>JACK server nerstängd</translation>
+        <translation>JACK-server nerstängd</translation>
     </message>
     <message>
         <source>The JACK server seems to be shuted down.</source>
@@ -5869,6 +5869,60 @@ Orsak: &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
+    <name>ReverbSCControlDialog</name>
+    <message>
+        <source>Input</source>
+        <translation>Ingång</translation>
+    </message>
+    <message>
+        <source>Input Gain:</source>
+        <translation>Input Förstärkning:</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation>Utgång</translation>
+    </message>
+    <message>
+        <source>Output Gain:</source>
+        <translation>Output Förstärkning</translation>
+    </message>
+</context>
+<context>
+    <name>ReverbSCControls</name>
+    <message>
+        <source>Input Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output Gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SampleBuffer</name>
     <message>
         <source>Open audio file</source>
@@ -6014,10 +6068,6 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <source>Show restart warning after changing settings</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Display volume as dBFS </source>
-        <translation>Visa volym som dBFS</translation>
     </message>
     <message>
         <source>Compress project files per default</source>
@@ -6219,6 +6269,10 @@ Latency: %2 ms</source>
     <message>
         <source>minute</source>
         <translation>minut</translation>
+    </message>
+    <message>
+        <source>Display volume as dBFS </source>
+        <translation>Visa volym som dBFS</translation>
     </message>
     <message>
         <source>Enable auto-save</source>
@@ -9226,6 +9280,10 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reverb algorithm by Sean Costello</source>
         <translation type="unfinished"/>
     </message>
 </context>

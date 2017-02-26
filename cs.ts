@@ -3414,12 +3414,12 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation>Logaritmické zobrazení</translation>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation>Zadejte prosím novou hodnotu mezi -96.0 dBFS a 6.0 dBFS:</translation>
-    </message>
-    <message>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Vložte prosím novou hodnotu mezi %1 a %2:</translation>
+    </message>
+    <message>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation>Zadejte prosím novou hodnotu mezi -96.0 dBFS a 6.0 dBFS:</translation>
     </message>
 </context>
 <context>
@@ -4010,10 +4010,6 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Volume as dBFS</source>
-        <translation>Hlasitost jako dBFS</translation>
-    </message>
-    <message>
         <source>Smooth scroll</source>
         <translation>Plynulé posouvání</translation>
     </message>
@@ -4024,6 +4020,10 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     <message>
         <source>Save project template</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume as dBFS</source>
+        <translation>Hlasitost jako dBFS</translation>
     </message>
 </context>
 <context>
@@ -5873,6 +5873,60 @@ Důvod: &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
+    <name>ReverbSCControlDialog</name>
+    <message>
+        <source>Input</source>
+        <translation>Vstup</translation>
+    </message>
+    <message>
+        <source>Input Gain:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation>Výstup</translation>
+    </message>
+    <message>
+        <source>Output Gain:</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ReverbSCControls</name>
+    <message>
+        <source>Input Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output Gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SampleBuffer</name>
     <message>
         <source>Open audio file</source>
@@ -6017,10 +6071,6 @@ Důvod: &quot;%2&quot;</translation>
     <message>
         <source>Show restart warning after changing settings</source>
         <translation>Zobrazit výzvu k restartu po změně nastavení</translation>
-    </message>
-    <message>
-        <source>Display volume as dBFS </source>
-        <translation>Zobrazit hlasitost jako dBFS</translation>
     </message>
     <message>
         <source>Compress project files per default</source>
@@ -6223,6 +6273,10 @@ Zpoždění %2 ms</translation>
     <message>
         <source>minute</source>
         <translation>minuta</translation>
+    </message>
+    <message>
+        <source>Display volume as dBFS </source>
+        <translation>Zobrazit hlasitost jako dBFS</translation>
     </message>
     <message>
         <source>Enable auto-save</source>
@@ -9244,6 +9298,10 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reverb algorithm by Sean Costello</source>
         <translation type="unfinished"/>
     </message>
 </context>

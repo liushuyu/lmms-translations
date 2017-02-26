@@ -3434,12 +3434,12 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation>Встановити логарифмічний</translation>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation>Введіть нове значення від -96,0 дБFS до 6,0 дБFS:</translation>
-    </message>
-    <message>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Введіть нове значення від %1 до %2:</translation>
+    </message>
+    <message>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation>Введіть нове значення від -96,0 дБFS до 6,0 дБFS:</translation>
     </message>
 </context>
 <context>
@@ -4031,10 +4031,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>Це перезапише поточний шаблон за замовчуванням.</translation>
     </message>
     <message>
-        <source>Volume as dBFS</source>
-        <translation>Відображати гучність в децибелах </translation>
-    </message>
-    <message>
         <source>Smooth scroll</source>
         <translation>Плавне прокручування</translation>
     </message>
@@ -4045,6 +4041,10 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Save project template</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume as dBFS</source>
+        <translation>Відображати гучність в децибелах </translation>
     </message>
 </context>
 <context>
@@ -5916,6 +5916,60 @@ Reason: &quot;%2&quot;</source>
     </message>
 </context>
 <context>
+    <name>ReverbSCControlDialog</name>
+    <message>
+        <source>Input</source>
+        <translation>Ввід</translation>
+    </message>
+    <message>
+        <source>Input Gain:</source>
+        <translation>Вхідне підсилення: </translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation>Вивід</translation>
+    </message>
+    <message>
+        <source>Output Gain:</source>
+        <translation>Вихідне підсилення: </translation>
+    </message>
+</context>
+<context>
+    <name>ReverbSCControls</name>
+    <message>
+        <source>Input Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output Gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SampleBuffer</name>
     <message>
         <source>Open audio file</source>
@@ -6060,10 +6114,6 @@ Reason: &quot;%2&quot;</source>
     <message>
         <source>Show restart warning after changing settings</source>
         <translation>Показувати попередження про перезапуск при зміні налаштувань</translation>
-    </message>
-    <message>
-        <source>Display volume as dBFS </source>
-        <translation>Відображати гучність в децибелах  </translation>
     </message>
     <message>
         <source>Compress project files per default</source>
@@ -6266,6 +6316,10 @@ Latency: %2 ms</source>
     <message>
         <source>minute</source>
         <translation>хвилина</translation>
+    </message>
+    <message>
+        <source>Display volume as dBFS </source>
+        <translation>Відображати гучність в децибелах  </translation>
     </message>
     <message>
         <source>Enable auto-save</source>
@@ -9288,6 +9342,10 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
         <translation>Фільтри для експорту MIDI-файлів з LMMS</translation>
+    </message>
+    <message>
+        <source>Reverb algorithm by Sean Costello</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

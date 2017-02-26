@@ -3428,12 +3428,12 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Por favor coloque um novo valor entre %1 e %2:</translation>
+    </message>
+    <message>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4023,10 +4023,6 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Smooth scroll</source>
         <translation>Rolagem suave</translation>
     </message>
@@ -4036,6 +4032,10 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Save project template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume as dBFS</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5886,6 +5886,60 @@ Motivo: &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
+    <name>ReverbSCControlDialog</name>
+    <message>
+        <source>Input</source>
+        <translation>Entradas</translation>
+    </message>
+    <message>
+        <source>Input Gain:</source>
+        <translation>Ganho da entrada:</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation>Saídas</translation>
+    </message>
+    <message>
+        <source>Output Gain:</source>
+        <translation>Ganho de saída:</translation>
+    </message>
+</context>
+<context>
+    <name>ReverbSCControls</name>
+    <message>
+        <source>Input Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output Gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SampleBuffer</name>
     <message>
         <source>Open audio file</source>
@@ -6029,10 +6083,6 @@ Motivo: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Show restart warning after changing settings</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Display volume as dBFS </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6235,6 +6285,10 @@ Latency: %2 ms</source>
     <message>
         <source>minute</source>
         <translation>minuto</translation>
+    </message>
+    <message>
+        <source>Display volume as dBFS </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable auto-save</source>
@@ -9256,6 +9310,10 @@ Este chip foi utilizado no computador Commodore 64.</translation>
     </message>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reverb algorithm by Sean Costello</source>
         <translation type="unfinished"/>
     </message>
 </context>

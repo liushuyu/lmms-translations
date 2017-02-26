@@ -3432,12 +3432,12 @@ Puedes quitar y mover los canales FX a través del menú contextual. Accede a es
         <translation>Establecer como Logarítmico</translation>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation>Por favor ingresa un nuevo valor entre -96.0 dBFS y 6.0 dBFS:</translation>
-    </message>
-    <message>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Por favor ingresa un nuevo valor entre %1 y %2:</translation>
+    </message>
+    <message>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation>Por favor ingresa un nuevo valor entre -96.0 dBFS y 6.0 dBFS:</translation>
     </message>
 </context>
 <context>
@@ -4028,10 +4028,6 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
         <translation>Esta acción sobreescribirá tu actual plantilla por defecto.</translation>
     </message>
     <message>
-        <source>Volume as dBFS</source>
-        <translation>Volumen en dBFS</translation>
-    </message>
-    <message>
         <source>Smooth scroll</source>
         <translation>Desplazamiento suave</translation>
     </message>
@@ -4042,6 +4038,10 @@ Por favor visita http://lmms.sf.net/wiki para obtener documentación acerca de L
     <message>
         <source>Save project template</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume as dBFS</source>
+        <translation>Volumen en dBFS</translation>
     </message>
 </context>
 <context>
@@ -5907,6 +5907,60 @@ Razón: &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
+    <name>ReverbSCControlDialog</name>
+    <message>
+        <source>Input</source>
+        <translation>Entrada</translation>
+    </message>
+    <message>
+        <source>Input Gain:</source>
+        <translation>Ganancia de Entrada:</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation>Salida</translation>
+    </message>
+    <message>
+        <source>Output Gain:</source>
+        <translation>Ganancia de Salida:</translation>
+    </message>
+</context>
+<context>
+    <name>ReverbSCControls</name>
+    <message>
+        <source>Input Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output Gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SampleBuffer</name>
     <message>
         <source>Open audio file</source>
@@ -6051,10 +6105,6 @@ Razón: &quot;%2&quot;</translation>
     <message>
         <source>Show restart warning after changing settings</source>
         <translation>Mostrar advertencia de reinicio luego de cambiar la configuración</translation>
-    </message>
-    <message>
-        <source>Display volume as dBFS </source>
-        <translation>Mostrar volumen en dBFS</translation>
     </message>
     <message>
         <source>Compress project files per default</source>
@@ -6257,6 +6307,10 @@ Latencia: %2 ms</translation>
     <message>
         <source>minute</source>
         <translation>minuto</translation>
+    </message>
+    <message>
+        <source>Display volume as dBFS </source>
+        <translation>Mostrar volumen en dBFS</translation>
     </message>
     <message>
         <source>Enable auto-save</source>
@@ -9279,6 +9333,10 @@ Este chip fue usado en las computadoras Commodore 64.</translation>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
         <translation>Filtro para exportar archivos MIDI desde LMMS</translation>
+    </message>
+    <message>
+        <source>Reverb algorithm by Sean Costello</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

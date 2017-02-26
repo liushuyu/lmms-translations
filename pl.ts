@@ -59,7 +59,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -82,7 +82,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>LEFT</source>
-        <translation type="unfinished"/>
+        <translation>LEWO</translation>
     </message>
     <message>
         <source>Left gain:</source>
@@ -90,7 +90,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>RIGHT</source>
-        <translation type="unfinished"/>
+        <translation>PRAWO</translation>
     </message>
     <message>
         <source>Right gain:</source>
@@ -175,11 +175,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>This button disables looping. The sample plays only once from start to end. </source>
-        <translation type="unfinished"/>
+        <translation>Ten przycisk wyłącza zapętlanie. Próbka odtwarza się raz od początku do końca.</translation>
     </message>
     <message>
         <source>Enable loop</source>
-        <translation type="unfinished"/>
+        <translation>Włącz zapętlanie</translation>
     </message>
     <message>
         <source>This button enables forwards-looping. The sample loops between the end point and the loop point.</source>
@@ -203,14 +203,14 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>With this knob you can set the point where the loop starts. </source>
-        <translation type="unfinished"/>
+        <translation>Za pomocą tego pokrętła możesz określić moment rozpoczęcia pętli.</translation>
     </message>
 </context>
 <context>
     <name>AudioFileProcessorWaveView</name>
     <message>
         <source>Sample length:</source>
-        <translation type="unfinished"/>
+        <translation>Długość próbki:</translation>
     </message>
 </context>
 <context>
@@ -233,7 +233,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>CLIENT-NAME</source>
-        <translation type="unfinished"/>
+        <translation>NAZWA-KLIENTA</translation>
     </message>
     <message>
         <source>CHANNELS</source>
@@ -368,15 +368,15 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     <name>AutomationEditorWindow</name>
     <message>
         <source>Play/pause current pattern (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Odtwórz/pauzuj obecny pattern (spacja)</translation>
     </message>
     <message>
         <source>Click here if you want to play the current pattern. This is useful while editing it.  The pattern is automatically looped when the end is reached.</source>
-        <translation type="unfinished"/>
+        <translation>Naciśnij tutaj jeśli chcesz otworzyć obecny pattern. Jest to przydatne podczas jego edycji. Pattern jest automatycznie zapętlony kiedy kończy się.</translation>
     </message>
     <message>
         <source>Stop playing of current pattern (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Zatrzymaj odtwarzanie obecnego patternu (spacja)</translation>
     </message>
     <message>
         <source>Click here if you want to stop playing of the current pattern.</source>
@@ -384,19 +384,19 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Draw mode (Shift+D)</source>
-        <translation type="unfinished"/>
+        <translation>Tryb rysowania (Shift+D)</translation>
     </message>
     <message>
         <source>Erase mode (Shift+E)</source>
-        <translation type="unfinished"/>
+        <translation>Tryb wymazywania (Shift+E)</translation>
     </message>
     <message>
         <source>Flip vertically</source>
-        <translation type="unfinished"/>
+        <translation>Przerzuć w pionie</translation>
     </message>
     <message>
         <source>Flip horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Przerzuć w poziomie</translation>
     </message>
     <message>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>
@@ -456,7 +456,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Paste values from clipboard (%1+V)</source>
-        <translation type="unfinished"/>
+        <translation>Wklej wartości ze schowka (%1+V)</translation>
     </message>
     <message>
         <source>Click here and selected values will be cut into the clipboard.  You can paste them anywhere in any pattern by clicking on the paste button.</source>
@@ -476,7 +476,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Automation Editor - no pattern</source>
-        <translation type="unfinished"/>
+        <translation>Edytor automatyki - brak patternu</translation>
     </message>
     <message>
         <source>Automation Editor - %1</source>
@@ -484,7 +484,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj akcje</translation>
     </message>
     <message>
         <source>Interpolation controls</source>
@@ -3430,11 +3430,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <source>Please enter a new value between %1 and %2:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter a new value between %1 and %2:</source>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4025,10 +4025,6 @@ Odwiedź witrynę http://lmms.sf.net/wiki for documentation on LMMS.</translatio
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Smooth scroll</source>
         <translation type="unfinished"/>
     </message>
@@ -4038,6 +4034,10 @@ Odwiedź witrynę http://lmms.sf.net/wiki for documentation on LMMS.</translatio
     </message>
     <message>
         <source>Save project template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume as dBFS</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5510,7 +5510,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>PianoRollWindow</name>
     <message>
         <source>Play/pause current pattern (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Odtwórz/pauzuj obecny pattern (spacja)</translation>
     </message>
     <message>
         <source>Record notes from MIDI-device/channel-piano</source>
@@ -5522,7 +5522,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Stop playing of current pattern (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Zatrzymaj odtwarzanie obecnego patternu (spacja)</translation>
     </message>
     <message>
         <source>Click here to play the current pattern. This is useful while editing it. The pattern is automatically looped when its end is reached.</source>
@@ -5542,11 +5542,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Draw mode (Shift+D)</source>
-        <translation type="unfinished"/>
+        <translation>Tryb rysowania (Shift+D)</translation>
     </message>
     <message>
         <source>Erase mode (Shift+E)</source>
-        <translation type="unfinished"/>
+        <translation>Tryb wymazywania (Shift+E)</translation>
     </message>
     <message>
         <source>Select mode (Shift+S)</source>
@@ -5618,7 +5618,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj akcje</translation>
     </message>
     <message>
         <source>Copy paste controls</source>
@@ -5888,6 +5888,60 @@ Powód: &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
+    <name>ReverbSCControlDialog</name>
+    <message>
+        <source>Input</source>
+        <translation>Wejście</translation>
+    </message>
+    <message>
+        <source>Input Gain:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation>Wyjście</translation>
+    </message>
+    <message>
+        <source>Output Gain:</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ReverbSCControls</name>
+    <message>
+        <source>Input Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output Gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SampleBuffer</name>
     <message>
         <source>Open audio file</source>
@@ -6031,10 +6085,6 @@ Powód: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Show restart warning after changing settings</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Display volume as dBFS </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6236,6 +6286,10 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>minute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Display volume as dBFS </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6488,7 +6542,7 @@ Upewnij się, że masz przynajmniej uprawnienia odczytu tego pliku a następnie 
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj akcje</translation>
     </message>
     <message>
         <source>Timeline controls</source>
@@ -9256,6 +9310,10 @@ Te układy scalone były stosowane w komputerach Commodore 64.</translation>
     </message>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reverb algorithm by Sean Costello</source>
         <translation type="unfinished"/>
     </message>
 </context>

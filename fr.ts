@@ -3432,12 +3432,12 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
         <translation>Mode logarithmique</translation>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation>Veuillez entrer une valeur entre -96,0 dBV et 6,0 dBFS:</translation>
-    </message>
-    <message>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Veuillez entrer une valeur entre %1 et %2 :</translation>
+    </message>
+    <message>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation>Veuillez entrer une valeur entre -96,0 dBV et 6,0 dBFS:</translation>
     </message>
 </context>
 <context>
@@ -4028,10 +4028,6 @@ Veuillez visiter http://lmms.sf.net/wiki pour la documentation de LMMS.</transla
         <translation>Ceci ré-écrira votre modèle par défaut actuel.</translation>
     </message>
     <message>
-        <source>Volume as dBFS</source>
-        <translation>Volume en dBFS</translation>
-    </message>
-    <message>
         <source>Smooth scroll</source>
         <translation>Déplacement fluide</translation>
     </message>
@@ -4042,6 +4038,10 @@ Veuillez visiter http://lmms.sf.net/wiki pour la documentation de LMMS.</transla
     <message>
         <source>Save project template</source>
         <translation>Sauvegarder le modèle de projet</translation>
+    </message>
+    <message>
+        <source>Volume as dBFS</source>
+        <translation>Volume en dBFS</translation>
     </message>
 </context>
 <context>
@@ -5907,6 +5907,60 @@ Raison : &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
+    <name>ReverbSCControlDialog</name>
+    <message>
+        <source>Input</source>
+        <translation>Entrée</translation>
+    </message>
+    <message>
+        <source>Input Gain:</source>
+        <translation>Gain en entrée :</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation>Sortie</translation>
+    </message>
+    <message>
+        <source>Output Gain:</source>
+        <translation>Gain en sortie :</translation>
+    </message>
+</context>
+<context>
+    <name>ReverbSCControls</name>
+    <message>
+        <source>Input Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output Gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SampleBuffer</name>
     <message>
         <source>Open audio file</source>
@@ -6051,10 +6105,6 @@ Raison : &quot;%2&quot;</translation>
     <message>
         <source>Show restart warning after changing settings</source>
         <translation>Invitation à redémarrer après modification de la configuration</translation>
-    </message>
-    <message>
-        <source>Display volume as dBFS </source>
-        <translation>Afficher le volume en dBFS</translation>
     </message>
     <message>
         <source>Compress project files per default</source>
@@ -6259,6 +6309,10 @@ Latence : %2 ms</translation>
         <translation>minute</translation>
     </message>
     <message>
+        <source>Display volume as dBFS </source>
+        <translation>Afficher le volume en dBFS</translation>
+    </message>
+    <message>
         <source>Enable auto-save</source>
         <translation>Activer la sauvegarde automatique</translation>
     </message>
@@ -6278,7 +6332,7 @@ Latence : %2 ms</translation>
         <source>Set the time between automatic backup to %1.
 Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
         <translation>Paramétrer le temps entre les sauvegardes automatiques à %1.
-Souvenez-vous de sauvegarder aussi votre projet manuellement. Vous pouvez choisir de désactiver la sauvegarde pendant la lecture, c'est quelque chose qui peut être difficile sur d'anciens systèmes.</translation>
+Souvenez-vous de sauvegarder aussi votre projet manuellement. Vous pouvez choisir de désactiver la sauvegarde pendant la lecture, c&apos;est quelque chose qui peut être difficile sur d&apos;anciens systèmes.</translation>
     </message>
 </context>
 <context>
@@ -9280,6 +9334,10 @@ Cette puce était utilisée dans l&apos;ordinateur Commodore 64.</translation>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
         <translation>Filtre pour l&apos;exportation de fichiers MIDI depuis LMMS</translation>
+    </message>
+    <message>
+        <source>Reverb algorithm by Sean Costello</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

@@ -3422,12 +3422,12 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation>設置爲對數</translation>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>請輸入一個介於%1和%2之間的數值：</translation>
+    </message>
+    <message>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4017,10 +4017,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>這將會覆蓋你的當前默認模板。</translation>
     </message>
     <message>
-        <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Smooth scroll</source>
         <translation>平滑滾動</translation>
     </message>
@@ -4030,6 +4026,10 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Save project template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume as dBFS</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5880,6 +5880,60 @@ Reason: &quot;%2&quot;</source>
     </message>
 </context>
 <context>
+    <name>ReverbSCControlDialog</name>
+    <message>
+        <source>Input</source>
+        <translation>輸入</translation>
+    </message>
+    <message>
+        <source>Input Gain:</source>
+        <translation>輸入增益:</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation>輸出</translation>
+    </message>
+    <message>
+        <source>Output Gain:</source>
+        <translation>輸出增益:</translation>
+    </message>
+</context>
+<context>
+    <name>ReverbSCControls</name>
+    <message>
+        <source>Input Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output Gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SampleBuffer</name>
     <message>
         <source>Open audio file</source>
@@ -6024,10 +6078,6 @@ Reason: &quot;%2&quot;</source>
     <message>
         <source>Show restart warning after changing settings</source>
         <translation>在改變設置後顯示重啓警告</translation>
-    </message>
-    <message>
-        <source>Display volume as dBFS </source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Compress project files per default</source>
@@ -6230,6 +6280,10 @@ Latency: %2 ms</source>
     <message>
         <source>minute</source>
         <translation>分鐘</translation>
+    </message>
+    <message>
+        <source>Display volume as dBFS </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable auto-save</source>
@@ -9251,6 +9305,10 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reverb algorithm by Sean Costello</source>
         <translation type="unfinished"/>
     </message>
 </context>

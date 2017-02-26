@@ -3432,12 +3432,12 @@ Sie können FX Kanäle im Kontextmenü entfernen und verschieben, welches durch 
         <translation>Logarithmisch einstellen</translation>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation>Bitte geben Sie einen neuen Wert zwischen -96.0 dBFS und 6.0 dBFS: ein:</translation>
-    </message>
-    <message>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Bitte geben Sie einen neuen Wert zwischen %1 und %2 ein:</translation>
+    </message>
+    <message>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation>Bitte geben Sie einen neuen Wert zwischen -96.0 dBFS und 6.0 dBFS: ein:</translation>
     </message>
 </context>
 <context>
@@ -4028,10 +4028,6 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Smooth scroll</source>
         <translation type="unfinished"/>
     </message>
@@ -4041,6 +4037,10 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     </message>
     <message>
         <source>Save project template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume as dBFS</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5907,6 +5907,60 @@ Grund: »%2«</translation>
     </message>
 </context>
 <context>
+    <name>ReverbSCControlDialog</name>
+    <message>
+        <source>Input</source>
+        <translation>Eingang</translation>
+    </message>
+    <message>
+        <source>Input Gain:</source>
+        <translation>Eingangsverstärkung:</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation>Ausgang</translation>
+    </message>
+    <message>
+        <source>Output Gain:</source>
+        <translation>Ausgabeverstärkung:</translation>
+    </message>
+</context>
+<context>
+    <name>ReverbSCControls</name>
+    <message>
+        <source>Input Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output Gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SampleBuffer</name>
     <message>
         <source>Open audio file</source>
@@ -6050,10 +6104,6 @@ Grund: »%2«</translation>
     </message>
     <message>
         <source>Show restart warning after changing settings</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Display volume as dBFS </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6256,6 +6306,10 @@ Latenz: %2 ms</translation>
     </message>
     <message>
         <source>minute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Display volume as dBFS </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9277,6 +9331,10 @@ Dieser Chip wurde in Commodore 64 Computern genutzt.</translation>
     </message>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reverb algorithm by Sean Costello</source>
         <translation type="unfinished"/>
     </message>
 </context>

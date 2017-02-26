@@ -3412,11 +3412,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <source>Please enter a new value between %1 and %2:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please enter a new value between %1 and %2:</source>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4005,10 +4005,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Smooth scroll</source>
         <translation type="unfinished"/>
     </message>
@@ -4018,6 +4014,10 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Save project template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume as dBFS</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5867,6 +5867,60 @@ Reason: &quot;%2&quot;</source>
     </message>
 </context>
 <context>
+    <name>ReverbSCControlDialog</name>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input Gain:</source>
+        <translation>Bemeneti erősítés:</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output Gain:</source>
+        <translation>Kimeneti erősítés:</translation>
+    </message>
+</context>
+<context>
+    <name>ReverbSCControls</name>
+    <message>
+        <source>Input Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output Gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SampleBuffer</name>
     <message>
         <source>Open audio file</source>
@@ -6010,10 +6064,6 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Show restart warning after changing settings</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Display volume as dBFS </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6215,6 +6265,10 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>minute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Display volume as dBFS </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9221,6 +9275,10 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reverb algorithm by Sean Costello</source>
         <translation type="unfinished"/>
     </message>
 </context>

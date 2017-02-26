@@ -240,7 +240,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation>声道数</translation>
+        <translation>通道数</translation>
     </message>
 </context>
 <context>
@@ -3427,12 +3427,12 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation>设置为对数</translation>
     </message>
     <message>
-        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation>请输入介于 -96.0 dBFS 和 6.0 dBFS之间的值：</translation>
-    </message>
-    <message>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>请输入一个介于%1和%2之间的数值：</translation>
+    </message>
+    <message>
+        <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
+        <translation>请输入介于 -96.0 dBFS 和 6.0 dBFS之间的值：</translation>
     </message>
 </context>
 <context>
@@ -4023,10 +4023,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>这将会覆盖你的当前默认模板。</translation>
     </message>
     <message>
-        <source>Volume as dBFS</source>
-        <translation>以 dBFS 为单位显示音量</translation>
-    </message>
-    <message>
         <source>Smooth scroll</source>
         <translation>平滑滚动</translation>
     </message>
@@ -4037,6 +4033,10 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Save project template</source>
         <translation>保存工程模板</translation>
+    </message>
+    <message>
+        <source>Volume as dBFS</source>
+        <translation>以 dBFS 为单位显示音量</translation>
     </message>
 </context>
 <context>
@@ -5886,6 +5886,60 @@ Reason: &quot;%2&quot;</source>
     </message>
 </context>
 <context>
+    <name>ReverbSCControlDialog</name>
+    <message>
+        <source>Input</source>
+        <translation>输入</translation>
+    </message>
+    <message>
+        <source>Input Gain:</source>
+        <translation>输入增益:</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation>输出</translation>
+    </message>
+    <message>
+        <source>Output Gain:</source>
+        <translation>输出增益:</translation>
+    </message>
+</context>
+<context>
+    <name>ReverbSCControls</name>
+    <message>
+        <source>Input Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output Gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SampleBuffer</name>
     <message>
         <source>Open audio file</source>
@@ -6030,10 +6084,6 @@ Reason: &quot;%2&quot;</source>
     <message>
         <source>Show restart warning after changing settings</source>
         <translation>在改变设置后显示重启警告</translation>
-    </message>
-    <message>
-        <source>Display volume as dBFS </source>
-        <translation>以 dBFS 为单位显示音量</translation>
     </message>
     <message>
         <source>Compress project files per default</source>
@@ -6236,6 +6286,10 @@ Latency: %2 ms</source>
     <message>
         <source>minute</source>
         <translation>分钟</translation>
+    </message>
+    <message>
+        <source>Display volume as dBFS </source>
+        <translation>以 dBFS 为单位显示音量</translation>
     </message>
     <message>
         <source>Enable auto-save</source>
@@ -9259,6 +9313,10 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <source>Filter for exporting MIDI-files from LMMS</source>
         <translation> 从 LMMS 导出 MIDI 文件的生成器</translation>
+    </message>
+    <message>
+        <source>Reverb algorithm by Sean Costello</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
