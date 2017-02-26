@@ -5918,19 +5918,19 @@ Raison : &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Taille</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Taille :</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Couleur</translation>
     </message>
     <message>
         <source>Color:</source>
-        <translation type="unfinished"/>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <source>Output</source>
@@ -5945,19 +5945,19 @@ Raison : &quot;%2&quot;</translation>
     <name>ReverbSCControls</name>
     <message>
         <source>Input Gain</source>
-        <translation type="unfinished"/>
+        <translation>Gain en entrée</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Taille</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Couleur</translation>
     </message>
     <message>
         <source>Output Gain</source>
-        <translation type="unfinished"/>
+        <translation>Gain en sortie</translation>
     </message>
 </context>
 <context>
@@ -7833,7 +7833,7 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Input gain:</source>
-        <translation>Gain d&apos;entrée :</translation>
+        <translation>Gain en entrée :</translation>
     </message>
     <message>
         <source>OUTPUT</source>
@@ -7841,7 +7841,7 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Output gain:</source>
-        <translation>Gain de sortie :</translation>
+        <translation>Gain en sortie :</translation>
     </message>
     <message>
         <source>ATTACK</source>
@@ -7920,11 +7920,11 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     <name>dynProcControls</name>
     <message>
         <source>Input gain</source>
-        <translation>Gain d&apos;entrée</translation>
+        <translation>Gain en entrée</translation>
     </message>
     <message>
         <source>Output gain</source>
-        <translation>Gain de sortie</translation>
+        <translation>Gain en sortie</translation>
     </message>
     <message>
         <source>Attack time</source>
@@ -9337,7 +9337,7 @@ Cette puce était utilisée dans l&apos;ordinateur Commodore 64.</translation>
     </message>
     <message>
         <source>Reverb algorithm by Sean Costello</source>
-        <translation type="unfinished"/>
+        <translation>Algorithme de réverbération par Sean Costello</translation>
     </message>
 </context>
 <context>
@@ -10015,7 +10015,7 @@ Le LED situé dans le coin en bas à droite de l&apos;éditeur de forme d&apos;o
     </message>
     <message>
         <source>Input gain:</source>
-        <translation>Gain d&apos;entrée :</translation>
+        <translation>Gain en entrée :</translation>
     </message>
     <message>
         <source>OUTPUT</source>
@@ -10023,7 +10023,7 @@ Le LED situé dans le coin en bas à droite de l&apos;éditeur de forme d&apos;o
     </message>
     <message>
         <source>Output gain:</source>
-        <translation>Gain de sortie :</translation>
+        <translation>Gain en sortie :</translation>
     </message>
     <message>
         <source>Reset waveform</source>
@@ -10070,11 +10070,11 @@ Le LED situé dans le coin en bas à droite de l&apos;éditeur de forme d&apos;o
     <name>waveShaperControls</name>
     <message>
         <source>Input gain</source>
-        <translation>Gain d&apos;entrée</translation>
+        <translation>Gain en entrée</translation>
     </message>
     <message>
         <source>Output gain</source>
-        <translation>Gain de sortie</translation>
+        <translation>Gain en sortie</translation>
     </message>
 </context>
 </TS>
