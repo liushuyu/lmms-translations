@@ -504,11 +504,11 @@ Si vous êtes intéressé par la traduction de LMMS dans une nouvelle langue ou 
     </message>
     <message>
         <source>Quantization</source>
-        <translation type="unfinished"/>
+        <translation>Quantification</translation>
     </message>
     <message>
         <source>Quantization. Sets the smallest step size for the Automation Point. By default this also sets the length, clearing out other points in the range. Press &lt;Ctrl&gt; to override this behaviour.</source>
-        <translation type="unfinished"/>
+        <translation>Quantification. Paramètre la taille de pas la plus petite pour le point d'automation. Par défaut, ceci paramètre également la longueur, nettoyant les autres points dans la gamme. Pressez &lt;Ctrl&gt; pour écraser ce comportement.</translation>
     </message>
 </context>
 <context>
@@ -2074,11 +2074,11 @@ Veuillez vous assurez que vous avez les droits d&apos;écriture sur le fichier e
     </message>
     <message>
         <source>24 Bit Integer</source>
-        <translation type="unfinished"/>
+        <translation>Entier 24 bits</translation>
     </message>
     <message>
         <source>Use variable bitrate</source>
-        <translation type="unfinished"/>
+        <translation>Utiliser un taux variable</translation>
     </message>
 </context>
 <context>
@@ -6032,11 +6032,11 @@ Raison : &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Fail to open file</source>
-        <translation type="unfinished"/>
+        <translation>Échec à l'ouverture du fichier</translation>
     </message>
     <message>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
-        <translation type="unfinished"/>
+        <translation>Les fichiers audio sont limités à une taille de %1 MB et %2 minutes de temps de lecture</translation>
     </message>
 </context>
 <context>
