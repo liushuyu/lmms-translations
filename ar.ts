@@ -502,6 +502,14 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <source>Model is already connected to this pattern.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Quantization</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Quantization. Sets the smallest step size for the Automation Point. By default this also sets the length, clearing out other points in the range. Press &lt;Ctrl&gt; to override this behaviour.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>AutomationPattern</name>
@@ -1967,10 +1975,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please note that not all of the parameters above apply for all file formats.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Quality settings</source>
         <translation type="unfinished"/>
     </message>
@@ -2053,6 +2057,14 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>24 Bit Integer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use variable bitrate</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2228,6 +2240,18 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>FX %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Solo</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3637,15 +3661,6 @@ Double click to pick a file.</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <source>Could not save config-file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Could not save configuration file %1. You're probably not permitted to write to this file.
-Please make sure you have write-access to the file and try again.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>&amp;New</source>
         <translation type="unfinished"/>
     </message>
@@ -4020,6 +4035,15 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Volume as dBFS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Could not open file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5966,6 +5990,14 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fail to open file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
         <translation type="unfinished"/>
     </message>
 </context>

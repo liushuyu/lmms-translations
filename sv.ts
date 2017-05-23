@@ -53,7 +53,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -211,7 +211,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AudioJack</name>
     <message>
         <source>JACK client restarted</source>
-        <translation>JACK klienten omstartades</translation>
+        <translation>JACK-klienten omstartad</translation>
     </message>
     <message>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
@@ -494,11 +494,19 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Quantization controls</source>
-        <translation type="unfinished"/>
+        <translation>Kvantiseringskontroller</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
         <translation>Modellen är redan ansluten till det här mönstret.</translation>
+    </message>
+    <message>
+        <source>Quantization</source>
+        <translation>Kvantisering</translation>
+    </message>
+    <message>
+        <source>Quantization. Sets the smallest step size for the Automation Point. By default this also sets the length, clearing out other points in the range. Press &lt;Ctrl&gt; to override this behaviour.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -536,7 +544,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Disconnect &quot;%1&quot;</source>
-        <translation>Avkoppla &quot;%1&quot;</translation>
+        <translation>Koppla bort &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Set/clear record</source>
@@ -1150,11 +1158,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>BandPass csg</source>
-        <translation type="unfinished"/>
+        <translation>BandPass csg</translation>
     </message>
     <message>
         <source>BandPass czpg</source>
-        <translation type="unfinished"/>
+        <translation>BandPass czpg</translation>
     </message>
     <message>
         <source>Notch</source>
@@ -1162,7 +1170,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Allpass</source>
-        <translation type="unfinished"/>
+        <translation>Allpass</translation>
     </message>
     <message>
         <source>Moog</source>
@@ -1202,7 +1210,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>2x Moog</source>
-        <translation type="unfinished"/>
+        <translation>2x Moog</translation>
     </message>
     <message>
         <source>SV LowPass</source>
@@ -1264,7 +1272,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Gate</source>
-        <translation type="unfinished"/>
+        <translation>Gate</translation>
     </message>
     <message>
         <source>Decay</source>
@@ -1558,7 +1566,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>LFO speed:</source>
-        <translation type="unfinished"/>
+        <translation>LFO-hastighet:</translation>
     </message>
     <message>
         <source>Use this knob for setting speed of the current LFO. The bigger this value the faster the LFO oscillates and the faster will be your effect.</source>
@@ -1965,10 +1973,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Please note that not all of the parameters above apply for all file formats.</source>
-        <translation>Alla inställningar ovan gäller för samtliga filformat</translation>
-    </message>
-    <message>
         <source>Quality settings</source>
         <translation>Kvalitetsinställningar</translation>
     </message>
@@ -2051,6 +2055,14 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>24 Bit Integer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use variable bitrate</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2228,6 +2240,18 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <source>FX %1</source>
         <translation>FX %1</translation>
     </message>
+    <message>
+        <source>Volume</source>
+        <translation>Volym</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Tysta</translation>
+    </message>
+    <message>
+        <source>Solo</source>
+        <translation>Solo</translation>
+    </message>
 </context>
 <context>
     <name>FxMixerView</name>
@@ -2333,7 +2357,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
-        <translation>Arbetskatalogen %1 för LMMS existerar inte. Vill du skapa detta nu? Du kan ändra katalog senare under Redigera -&gt; Inställningar.</translation>
+        <translation>Arbetskatalogen %1 för LMMS existerar inte. Vill du skapa denna nu? Du kan ändra katalog senare under Redigera -&gt; Inställningar.</translation>
     </message>
     <message>
         <source>Preparing UI</source>
@@ -3078,11 +3102,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>BandPass csg</source>
-        <translation type="unfinished"/>
+        <translation>BandPass csg</translation>
     </message>
     <message>
         <source>BandPass czpg</source>
-        <translation type="unfinished"/>
+        <translation>BandPass czpg</translation>
     </message>
     <message>
         <source>Notch</source>
@@ -3090,7 +3114,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Allpass</source>
-        <translation type="unfinished"/>
+        <translation>Allpass</translation>
     </message>
     <message>
         <source>Moog</source>
@@ -3130,7 +3154,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>2x Moog</source>
-        <translation type="unfinished"/>
+        <translation>2x Moog</translation>
     </message>
     <message>
         <source>SV LowPass</source>
@@ -3635,15 +3659,6 @@ Double click to pick a file.</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <source>Could not save config-file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Could not save configuration file %1. You're probably not permitted to write to this file.
-Please make sure you have write-access to the file and try again.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>&amp;New</source>
         <translation>&amp;Ny</translation>
     </message>
@@ -4020,6 +4035,15 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <source>Volume as dBFS</source>
         <translation>Volym som dBFS</translation>
+    </message>
+    <message>
+        <source>Could not open file</source>
+        <translation>Kunde inte öppna fil</translation>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5968,6 +5992,14 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Alla Ljudfiler (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
+    </message>
+    <message>
+        <source>Fail to open file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

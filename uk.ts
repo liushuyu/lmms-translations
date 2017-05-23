@@ -505,6 +505,14 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <source>Model is already connected to this pattern.</source>
         <translation>Модель вже підключена до цього шаблону.</translation>
     </message>
+    <message>
+        <source>Quantization</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Quantization. Sets the smallest step size for the Automation Point. By default this also sets the length, clearing out other points in the range. Press &lt;Ctrl&gt; to override this behaviour.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>AutomationPattern</name>
@@ -1983,10 +1991,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <translation>32 Біт плаваюча </translation>
     </message>
     <message>
-        <source>Please note that not all of the parameters above apply for all file formats.</source>
-        <translation>Зауважте, що не всі параметри нижче будуть застосовані для всіх форматів файлів.</translation>
-    </message>
-    <message>
         <source>Quality settings</source>
         <translation>Налаштування якості</translation>
     </message>
@@ -2069,6 +2073,14 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>24 Bit Integer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use variable bitrate</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2248,6 +2260,18 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <source>FX %1</source>
         <translation>Ефект %1</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Гучність</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Тиша</translation>
+    </message>
+    <message>
+        <source>Solo</source>
+        <translation>Соло</translation>
     </message>
 </context>
 <context>
@@ -3658,16 +3682,6 @@ Double click to pick a file.</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <source>Could not save config-file</source>
-        <translation>Не можу зберегти налаштування</translation>
-    </message>
-    <message>
-        <source>Could not save configuration file %1. You're probably not permitted to write to this file.
-Please make sure you have write-access to the file and try again.</source>
-        <translation>Не можу записати налаштування в файл %1. Можливо, ви не володієте правами на запис в нього.
-Будь ласка, перевірте свої права і спробуйте знову.</translation>
-    </message>
-    <message>
         <source>&amp;New</source>
         <translation>&amp;N Новий</translation>
     </message>
@@ -4045,6 +4059,15 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Volume as dBFS</source>
         <translation>Відображати гучність в децибелах </translation>
+    </message>
+    <message>
+        <source>Could not open file</source>
+        <translation>Не можу відкрити файл</translation>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6014,6 +6037,14 @@ Reason: &quot;%2&quot;</source>
     <message>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Всі Аудіо-файли (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
+    </message>
+    <message>
+        <source>Fail to open file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

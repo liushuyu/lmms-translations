@@ -508,6 +508,14 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
         <source>Model is already connected to this pattern.</source>
         <translation>Model is reeds verbonden met dit patroon.</translation>
     </message>
+    <message>
+        <source>Quantization</source>
+        <translation>Kwantisatie</translation>
+    </message>
+    <message>
+        <source>Quantization. Sets the smallest step size for the Automation Point. By default this also sets the length, clearing out other points in the range. Press &lt;Ctrl&gt; to override this behaviour.</source>
+        <translation>Kwantisatie. Stelt de kleinste stap in voor het automatiseringspunt. Standaard stelt dit ook de lengte in; andere punten in het bereik worden gewist. Druk op &lt;Ctrl&gt; om dit gedrag te overriden.</translation>
+    </message>
 </context>
 <context>
     <name>AutomationPattern</name>
@@ -1985,10 +1993,6 @@ Rechtsklikken zal een contextmenu laten verschijnen waar u de volgorde kunt wijz
         <translation>32-bit float</translation>
     </message>
     <message>
-        <source>Please note that not all of the parameters above apply for all file formats.</source>
-        <translation>Merk op dat niet alle bovenstaande parameters op alle bestandsformaten van toepassing zijn.</translation>
-    </message>
-    <message>
         <source>Quality settings</source>
         <translation>Kwaliteitsinstellingen</translation>
     </message>
@@ -2073,6 +2077,14 @@ Rechtsklikken zal een contextmenu laten verschijnen waar u de volgorde kunt wijz
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>Kon bestand %1 niet openen om te schrijven.
 Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die het bestand bevat en probeer het opnieuw!</translation>
+    </message>
+    <message>
+        <source>24 Bit Integer</source>
+        <translation>24-bit integer</translation>
+    </message>
+    <message>
+        <source>Use variable bitrate</source>
+        <translation>Variabele bitrate gebruiken</translation>
     </message>
 </context>
 <context>
@@ -2254,6 +2266,18 @@ U kunt FX-kanalen verwijderen en verplaatsen in het contextmenu, dat toegankelij
     <message>
         <source>FX %1</source>
         <translation>FX %1</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Volume</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Dempen</translation>
+    </message>
+    <message>
+        <source>Solo</source>
+        <translation>Solo</translation>
     </message>
 </context>
 <context>
@@ -3663,16 +3687,6 @@ Dubbelklikken om een bestand te selecteren.</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <source>Could not save config-file</source>
-        <translation>Kon config-bestand niet opslaan</translation>
-    </message>
-    <message>
-        <source>Could not save configuration file %1. You're probably not permitted to write to this file.
-Please make sure you have write-access to the file and try again.</source>
-        <translation>Kon configuratiebestand %1 niet opslaan. U heeft waarschijnlijk geen toestemming om naar dit bestand te schrijven.
-Verzeker u ervan dat u schrijfbevoegdheid heeft voor het bestand en probeer het opnieuw.</translation>
-    </message>
-    <message>
         <source>&amp;New</source>
         <translation>&amp;Nieuw</translation>
     </message>
@@ -4049,6 +4063,16 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
     <message>
         <source>Volume as dBFS</source>
         <translation>Volume als dBFS</translation>
+    </message>
+    <message>
+        <source>Could not open file</source>
+        <translation>Kan bestand niet openen</translation>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation>Kon bestand %1 niet openen om te schrijven.
+Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die het bestand bevat en probeer het opnieuw!</translation>
     </message>
 </context>
 <context>
@@ -5927,19 +5951,19 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Grootte</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Grootte:</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Kleur</translation>
     </message>
     <message>
         <source>Color:</source>
-        <translation type="unfinished"/>
+        <translation>Kleur:</translation>
     </message>
     <message>
         <source>Output</source>
@@ -5954,19 +5978,19 @@ Reden: &quot;%2&quot;</translation>
     <name>ReverbSCControls</name>
     <message>
         <source>Input Gain</source>
-        <translation type="unfinished"/>
+        <translation>Invoer-gain</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Grootte</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Kleur</translation>
     </message>
     <message>
         <source>Output Gain</source>
-        <translation type="unfinished"/>
+        <translation>Uitvoer-gain</translation>
     </message>
 </context>
 <context>
@@ -6014,6 +6038,14 @@ Reden: &quot;%2&quot;</translation>
     <message>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Alle audiobestanden (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
+    </message>
+    <message>
+        <source>Fail to open file</source>
+        <translation>Bestand openen mislukt</translation>
+    </message>
+    <message>
+        <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
+        <translation>Audiobestanden zijn beperkt tot %1 MB in grootte en %2 minuten speeltijd</translation>
     </message>
 </context>
 <context>
@@ -9346,7 +9378,7 @@ Deze chip werd gebruikt in de Commodore 64 computer.</translation>
     </message>
     <message>
         <source>Reverb algorithm by Sean Costello</source>
-        <translation type="unfinished"/>
+        <translation>Reverb-algoritme door Sean Costello</translation>
     </message>
 </context>
 <context>

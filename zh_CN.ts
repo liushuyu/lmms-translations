@@ -509,6 +509,14 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
         <source>Model is already connected to this pattern.</source>
         <translation>模型已连接到此片段。</translation>
     </message>
+    <message>
+        <source>Quantization</source>
+        <translation>量化控制</translation>
+    </message>
+    <message>
+        <source>Quantization. Sets the smallest step size for the Automation Point. By default this also sets the length, clearing out other points in the range. Press &lt;Ctrl&gt; to override this behaviour.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>AutomationPattern</name>
@@ -1974,10 +1982,6 @@ Right clicking will bring up a context menu where you can change the order in wh
         <translation>32 位浮点型</translation>
     </message>
     <message>
-        <source>Please note that not all of the parameters above apply for all file formats.</source>
-        <translation>请注意上面的参数不一定适用于所有文件格式。</translation>
-    </message>
-    <message>
         <source>Quality settings</source>
         <translation>质量设置</translation>
     </message>
@@ -2060,6 +2064,15 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation>无法写入文件 %1
+请确保您有对该文件以及包含该文件目录的写入权限！</translation>
+    </message>
+    <message>
+        <source>24 Bit Integer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use variable bitrate</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2242,6 +2255,18 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <source>FX %1</source>
         <translation>FX %1</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>音量</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>静音</translation>
+    </message>
+    <message>
+        <source>Solo</source>
+        <translation>独奏</translation>
     </message>
 </context>
 <context>
@@ -3651,16 +3676,6 @@ Double click to pick a file.</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <source>Could not save config-file</source>
-        <translation>不能保存配置文件</translation>
-    </message>
-    <message>
-        <source>Could not save configuration file %1. You're probably not permitted to write to this file.
-Please make sure you have write-access to the file and try again.</source>
-        <translation>不能保存配置文件%1，你可能没有写权限。
-请确保你可以写入这个文件并重试。</translation>
-    </message>
-    <message>
         <source>&amp;New</source>
         <translation>新建(&amp;N)</translation>
     </message>
@@ -4037,6 +4052,16 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Volume as dBFS</source>
         <translation>以 dBFS 为单位显示音量</translation>
+    </message>
+    <message>
+        <source>Could not open file</source>
+        <translation>无法打开文件</translation>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation>无法写入文件 %1
+请确保您有对该文件以及包含该文件目录的写入权限！</translation>
     </message>
 </context>
 <context>
@@ -5984,6 +6009,14 @@ Reason: &quot;%2&quot;</source>
     <message>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>所有音频文件 (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
+    </message>
+    <message>
+        <source>Fail to open file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9316,7 +9349,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Reverb algorithm by Sean Costello</source>
-        <translation type="unfinished"/>
+        <translation>Sean Costello 发明的混响算法</translation>
     </message>
 </context>
 <context>

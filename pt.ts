@@ -57,7 +57,7 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -503,6 +503,14 @@ Esteban Viveros</translation>
     <message>
         <source>Model is already connected to this pattern.</source>
         <translation>O modelo já está conectado para este padrão.</translation>
+    </message>
+    <message>
+        <source>Quantization</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Quantization. Sets the smallest step size for the Automation Point. By default this also sets the length, clearing out other points in the range. Press &lt;Ctrl&gt; to override this behaviour.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1024,7 +1032,7 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>Out Gain</source>
-        <translation type="unfinished"/>
+        <translation>Ganho</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1860,7 +1868,7 @@ Clicar com o botão direito no mouse irá exibir um menu de contexto onde você 
     </message>
     <message>
         <source>Out Gain</source>
-        <translation type="unfinished"/>
+        <translation>Ganho</translation>
     </message>
     <message>
         <source>Bandwidth: </source>
@@ -1884,7 +1892,7 @@ Clicar com o botão direito no mouse irá exibir um menu de contexto onde você 
     </message>
     <message>
         <source> Octave</source>
-        <translation type="unfinished"/>
+        <translation>Oitava</translation>
     </message>
 </context>
 <context>
@@ -1981,10 +1989,6 @@ Clicar com o botão direito no mouse irá exibir um menu de contexto onde você 
         <translation>32 Bits Decimal</translation>
     </message>
     <message>
-        <source>Please note that not all of the parameters above apply for all file formats.</source>
-        <translation>Por favor, note que os parâmetros acima se aplicam para todos os tipos de arquivos.</translation>
-    </message>
-    <message>
         <source>Quality settings</source>
         <translation>Configurações de qualidade</translation>
     </message>
@@ -2067,6 +2071,14 @@ Clicar com o botão direito no mouse irá exibir um menu de contexto onde você 
     <message>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>24 Bit Integer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use variable bitrate</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2190,7 +2202,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>NOISE</source>
-        <translation type="unfinished"/>
+        <translation>RUÍDO</translation>
     </message>
     <message>
         <source>Invert</source>
@@ -2243,6 +2255,18 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <source>FX %1</source>
         <translation>FX %1</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Volume</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Mudo</translation>
+    </message>
+    <message>
+        <source>Solo</source>
+        <translation>Solo</translation>
     </message>
 </context>
 <context>
@@ -3651,16 +3675,6 @@ Double click to pick a file.</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <source>Could not save config-file</source>
-        <translation>O arquivo de configuração não pode ser salvo</translation>
-    </message>
-    <message>
-        <source>Could not save configuration file %1. You're probably not permitted to write to this file.
-Please make sure you have write-access to the file and try again.</source>
-        <translation>O arquivo de configuração %1 não pode ser salvo. Provavelmente voc6e não tem permissão de escrita para este arquivo.
-Por favor certifique-se que você tem permissão de escrita para este arquivo e tente novamente.</translation>
-    </message>
-    <message>
         <source>&amp;New</source>
         <translation>&amp;Novo</translation>
     </message>
@@ -4036,6 +4050,15 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Volume as dBFS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Could not open file</source>
+        <translation>Não é possível abrir o arquivo</translation>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5984,6 +6007,14 @@ Motivo: &quot;%2&quot;</translation>
     <message>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Todos Arquivos de Áudio (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
+    </message>
+    <message>
+        <source>Fail to open file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

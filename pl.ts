@@ -51,7 +51,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Contributors ordered by number of commits:</source>
-        <translation type="unfinished"/>
+        <translation>Twórcy programu posortowani podług aktywności:</translation>
     </message>
     <message>
         <source>Copyright © %1</source>
@@ -86,7 +86,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Left gain:</source>
-        <translation type="unfinished"/>
+        <translation>L wzm:</translation>
     </message>
     <message>
         <source>RIGHT</source>
@@ -94,7 +94,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Right gain:</source>
-        <translation type="unfinished"/>
+        <translation>P wzm:</translation>
     </message>
 </context>
 <context>
@@ -109,11 +109,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Left gain</source>
-        <translation type="unfinished"/>
+        <translation>L wzm:</translation>
     </message>
     <message>
         <source>Right gain</source>
-        <translation type="unfinished"/>
+        <translation>P wzm:</translation>
     </message>
 </context>
 <context>
@@ -163,7 +163,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Continue sample playback across notes</source>
-        <translation type="unfinished"/>
+        <translation>Kontunuuj odtwarzanie sampla w następnych nutach</translation>
     </message>
     <message>
         <source>Enabling this option makes the sample continue playing across different notes - if you change pitch, or the note length stops before the end of the sample, then the next note played will continue where it left off. To reset the playback to the start of the sample, insert a note at the bottom of the keyboard (&lt; 20 Hz)</source>
@@ -187,19 +187,19 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>This button enables ping-pong-looping. The sample loops backwards and forwards between the end point and the loop point.</source>
-        <translation type="unfinished"/>
+        <translation>Ten przycisk włącza zapętlanie &quot;ping-pong&quot;. Próbka będzie odtwarzana w obydwu kierunkach pomiędzy punktem końcowym i zapętlenia.</translation>
     </message>
     <message>
         <source>With this knob you can set the point where AudioFileProcessor should begin playing your sample. </source>
-        <translation type="unfinished"/>
+        <translation>Tą gałką możesz ustawić punkt od którego AudioFileProcessor rozpocznie odtwarzanie próbki.</translation>
     </message>
     <message>
         <source>With this knob you can set the point where AudioFileProcessor should stop playing your sample. </source>
-        <translation type="unfinished"/>
+        <translation>Tą gałką możesz ustawić punkt w którym AudioFileProcessor zatrzyma odtwarzanie próbki.</translation>
     </message>
     <message>
         <source>Loopback point:</source>
-        <translation type="unfinished"/>
+        <translation>Znacznik zapętlenia:</translation>
     </message>
     <message>
         <source>With this knob you can set the point where the loop starts. </source>
@@ -342,11 +342,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Remove song-global automation</source>
-        <translation type="unfinished"/>
+        <translation>Usuń globalną automatykę utworu</translation>
     </message>
     <message>
         <source>Remove all linked controls</source>
-        <translation type="unfinished"/>
+        <translation>Usuń wszystkie podłączone kontrolery</translation>
     </message>
 </context>
 <context>
@@ -380,7 +380,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Click here if you want to stop playing of the current pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Kliknij tutaj, jeśli chcesz zatrzymać odtwarzanie aktualnego patternu.</translation>
     </message>
     <message>
         <source>Draw mode (Shift+D)</source>
@@ -400,11 +400,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>
-        <translation type="unfinished"/>
+        <translation>Kliknij tu, by odwrócić pattern. Punkty zostaną odwrócone w osi Y.</translation>
     </message>
     <message>
         <source>Click here and the pattern will be reversed. The points are flipped in the x direction.</source>
-        <translation type="unfinished"/>
+        <translation>Kliknij tu, by odwrócić pattern. Punkty zostaną odwrócone w osi X.</translation>
     </message>
     <message>
         <source>Click here and draw-mode will be activated. In this mode you can add and move single values.  This is the default mode which is used most of the time.  You can also press &apos;Shift+D&apos; on your keyboard to activate this mode.</source>
@@ -448,11 +448,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Cut selected values (%1+X)</source>
-        <translation type="unfinished"/>
+        <translation>Wytnij wybrane wartości (%1+X)</translation>
     </message>
     <message>
         <source>Copy selected values (%1+C)</source>
-        <translation type="unfinished"/>
+        <translation>Kopiuj wybrane wartości (%1+C)</translation>
     </message>
     <message>
         <source>Paste values from clipboard (%1+V)</source>
@@ -480,7 +480,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Automation Editor - %1</source>
-        <translation type="unfinished"/>
+        <translation>Edytor automatyki - %1</translation>
     </message>
     <message>
         <source>Edit actions</source>
@@ -504,6 +504,14 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Quantization</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Quantization. Sets the smallest step size for the Automation Point. By default this also sets the length, clearing out other points in the range. Press &lt;Ctrl&gt; to override this behaviour.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -550,11 +558,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Flip Vertically (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>Odwróć w pionie (widoczne)</translation>
     </message>
     <message>
         <source>Flip Horizontally (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>Odwróć w poziomie (widoczne)</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
@@ -596,7 +604,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj ścieżkę automatyki</translation>
     </message>
     <message>
         <source>Remove steps</source>
@@ -639,11 +647,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Change color</source>
-        <translation type="unfinished"/>
+        <translation>Zmień kolor</translation>
     </message>
     <message>
         <source>Reset color to default</source>
-        <translation type="unfinished"/>
+        <translation>Ustaw kolor domyślny</translation>
     </message>
 </context>
 <context>
@@ -654,7 +662,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation type="unfinished"/>
+        <translation>Kopia %1</translation>
     </message>
 </context>
 <context>
@@ -665,11 +673,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość:</translation>
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>WZMC</translation>
     </message>
     <message>
         <source>Gain:</source>
@@ -688,7 +696,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     <name>BassBoosterControls</name>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -711,11 +719,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>WZMC</translation>
     </message>
     <message>
         <source>Input Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie wejścia:</translation>
     </message>
     <message>
         <source>NOIS</source>
@@ -727,7 +735,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Output Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie wyjścia:</translation>
     </message>
     <message>
         <source>CLIP</source>
@@ -775,11 +783,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Levels</source>
-        <translation type="unfinished"/>
+        <translation>Poziomy</translation>
     </message>
     <message>
         <source>Levels:</source>
-        <translation type="unfinished"/>
+        <translation>Poziomy:</translation>
     </message>
 </context>
 <context>
@@ -790,7 +798,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Help (not available)</source>
-        <translation type="unfinished"/>
+        <translation>Pomoc (niedostępna)</translation>
     </message>
 </context>
 <context>
@@ -801,7 +809,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of Carla.</source>
-        <translation type="unfinished"/>
+        <translation>Kliknij tu, by pokazać lub ukryć interfejs graficzny wtyczki Carla.</translation>
     </message>
 </context>
 <context>
@@ -882,11 +890,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Confirm Delete</source>
-        <translation type="unfinished"/>
+        <translation>Potwierdź usunięcie</translation>
     </message>
     <message>
         <source>Confirm delete? There are existing connection(s) associated with this controller. There is no way to undo.</source>
-        <translation type="unfinished"/>
+        <translation>Na pewno? Do tego kontrolera podłączone są połączenia. Tej operacji nie da się cofnąć.</translation>
     </message>
 </context>
 <context>
@@ -909,11 +917,11 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>&amp;Remove this controller</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Usuń ten kontroler</translation>
     </message>
     <message>
         <source>Re&amp;name this controller</source>
-        <translation type="unfinished"/>
+        <translation>Zmień &amp;nazwę tego kontrolera</translation>
     </message>
     <message>
         <source>LFO</source>
@@ -936,19 +944,19 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Band 1 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Kanał 1 wzm:</translation>
     </message>
     <message>
         <source>Band 2 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Kanał 2 wzm:</translation>
     </message>
     <message>
         <source>Band 3 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Kanał 3 wzm:</translation>
     </message>
     <message>
         <source>Band 4 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Kanał 4 wzm:</translation>
     </message>
     <message>
         <source>Band 1 Mute</source>
@@ -995,7 +1003,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Lfo Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość LFO</translation>
     </message>
     <message>
         <source>Lfo Amount</source>
@@ -1022,7 +1030,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Lfo</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
     <message>
         <source>Out Gain</source>
@@ -1053,19 +1061,19 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     <name>DualFilterControlDialog</name>
     <message>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Włączono filtr 1</translation>
     </message>
     <message>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Włączono filtr 2</translation>
     </message>
     <message>
         <source>Click to enable/disable Filter 1</source>
-        <translation type="unfinished"/>
+        <translation>Naciśnij, aby włączyć/wyłączyć filtr 1</translation>
     </message>
     <message>
         <source>Click to enable/disable Filter 2</source>
-        <translation type="unfinished"/>
+        <translation>Naciśnij, aby włączyć/wyłączyć filtr 2</translation>
     </message>
     <message>
         <source>FREQ</source>
@@ -1085,7 +1093,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>WZMC</translation>
     </message>
     <message>
         <source>Gain</source>
@@ -1097,18 +1105,18 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Miks</translation>
     </message>
 </context>
 <context>
     <name>DualFilterControls</name>
     <message>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Włączono filtr 1</translation>
     </message>
     <message>
         <source>Filter 1 type</source>
-        <translation type="unfinished"/>
+        <translation>Rodzaj filtru 1</translation>
     </message>
     <message>
         <source>Cutoff 1 frequency</source>
@@ -1120,19 +1128,19 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Gain 1</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie 1</translation>
     </message>
     <message>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Miks</translation>
     </message>
     <message>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Włączono filtr 2</translation>
     </message>
     <message>
         <source>Filter 2 type</source>
-        <translation type="unfinished"/>
+        <translation>Rodzaj filtru 2</translation>
     </message>
     <message>
         <source>Cutoff 2 frequency</source>
@@ -1144,7 +1152,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Gain 2</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie 2</translation>
     </message>
     <message>
         <source>LowPass</source>
@@ -1239,19 +1247,19 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     <name>Editor</name>
     <message>
         <source>Play (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Odtwarzaj (spacja)</translation>
     </message>
     <message>
         <source>Stop (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Zatrzymaj (spacja)</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation>Nagrywaj</translation>
     </message>
     <message>
         <source>Record while playing</source>
-        <translation type="unfinished"/>
+        <translation>Nagrywaj podczas odtwarzania</translation>
     </message>
     <message>
         <source>Transport controls</source>
@@ -1315,7 +1323,7 @@ Zauważone błędy i propozycje zmian tłumaczenia proszę zgłaszać na e-mail:
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"/>
+        <translation>Autor</translation>
     </message>
 </context>
 <context>
@@ -1644,7 +1652,7 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     </message>
     <message>
         <source>Click here for random wave.</source>
-        <translation type="unfinished"/>
+        <translation>Naciśnij, aby uzyskać losową falę.</translation>
     </message>
 </context>
 <context>
@@ -1803,11 +1811,11 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     </message>
     <message>
         <source>low pass type</source>
-        <translation type="unfinished"/>
+        <translation>rodzaj filtru dolnoprzepustowego </translation>
     </message>
     <message>
         <source>high pass type</source>
-        <translation type="unfinished"/>
+        <translation>rodzaj filtru wysokoprzepustowego</translation>
     </message>
     <message>
         <source>Analyse IN</source>
@@ -1822,7 +1830,7 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     <name>EqControlsDialog</name>
     <message>
         <source>HP</source>
-        <translation type="unfinished"/>
+        <translation>HP</translation>
     </message>
     <message>
         <source>Low Shelf</source>
@@ -1850,7 +1858,7 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     </message>
     <message>
         <source>LP</source>
-        <translation type="unfinished"/>
+        <translation>LP</translation>
     </message>
     <message>
         <source>In Gain</source>
@@ -1874,7 +1882,7 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     </message>
     <message>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość:</translation>
     </message>
     <message>
         <source>lp grp</source>
@@ -1886,7 +1894,7 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     </message>
     <message>
         <source> Octave</source>
-        <translation type="unfinished"/>
+        <translation>Oktawa</translation>
     </message>
 </context>
 <context>
@@ -1901,7 +1909,7 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     </message>
     <message>
         <source>Freq: </source>
-        <translation type="unfinished"/>
+        <translation>Częst:</translation>
     </message>
 </context>
 <context>
@@ -1983,10 +1991,6 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
         <translation>32 Bit Float</translation>
     </message>
     <message>
-        <source>Please note that not all of the parameters above apply for all file formats.</source>
-        <translation>Zauważ, że nie wszystkie powyższe parametry odnoszą się do wszystkich formatów zapisu.</translation>
-    </message>
-    <message>
         <source>Quality settings</source>
         <translation>Ustawienia jakości</translation>
     </message>
@@ -2040,11 +2044,11 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     </message>
     <message>
         <source>Export as loop (remove end silence)</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj jako pętla (usuń ciszę na końcu)</translation>
     </message>
     <message>
         <source>Export between loop markers</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj pomiędzy znacznikami pętli</translation>
     </message>
     <message>
         <source>Could not open file</source>
@@ -2052,11 +2056,11 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     </message>
     <message>
         <source>Export project to %1</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj projekt do %11</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Error while determining file-encoder device. Please try to choose a different output format.</source>
@@ -2064,11 +2068,19 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     </message>
     <message>
         <source>Rendering: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Renderowanie: %1%</translation>
     </message>
     <message>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>24 Bit Integer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use variable bitrate</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2076,21 +2088,21 @@ Please make sure you have write permission to the file and the directory contain
     <name>Fader</name>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź nową wartość pomiędzy %1 a %2:</translation>
     </message>
 </context>
 <context>
     <name>FileBrowser</name>
     <message>
         <source>Browser</source>
-        <translation type="unfinished"/>
+        <translation>Przeglądarka</translation>
     </message>
 </context>
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
         <source>Send to active instrument-track</source>
-        <translation type="unfinished"/>
+        <translation>Wyślij do aktywnej ścieżki instrumentu</translation>
     </message>
     <message>
         <source>Open in new instrument-track/B+B Editor</source>
@@ -2098,7 +2110,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Loading sample</source>
-        <translation type="unfinished"/>
+        <translation>Ładowanie sampla </translation>
     </message>
     <message>
         <source>Please wait, loading sample for preview...</source>
@@ -2106,7 +2118,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>--- Factory files ---</source>
-        <translation type="unfinished"/>
+        <translation>--- Pliki fabryczne ---</translation>
     </message>
     <message>
         <source>Open in new instrument-track/Song Editor</source>
@@ -2114,15 +2126,15 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>BłądBłą</translation>
     </message>
     <message>
         <source>does not appear to be a valid</source>
-        <translation type="unfinished"/>
+        <translation>nie wydaje się być prawidłowy</translation>
     </message>
     <message>
         <source>file</source>
-        <translation type="unfinished"/>
+        <translation>plik</translation>
     </message>
 </context>
 <context>
@@ -2133,11 +2145,11 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Lfo Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość LFOczę</translation>
     </message>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"/>
+        <translation>Sekundy</translation>
     </message>
     <message>
         <source>Regen</source>
@@ -2149,7 +2161,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Odwróć</translation>
     </message>
 </context>
 <context>
@@ -2164,7 +2176,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>White Noise Amount:</source>
-        <translation type="unfinished"/>
+        <translation>Ilość białego szumu:</translation>
     </message>
     <message>
         <source>DELAY</source>
@@ -2184,7 +2196,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>Ilość:</translation>
     </message>
     <message>
         <source>FDBK</source>
@@ -2196,7 +2208,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>OdwróćOd</translation>
     </message>
 </context>
 <context>
@@ -2217,23 +2229,23 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Move &amp;left</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń w &amp;lewo</translation>
     </message>
     <message>
         <source>Move &amp;right</source>
-        <translation type="unfinished"/>
+        <translation>Przesuń w p&amp;rawo</translation>
     </message>
     <message>
         <source>Rename &amp;channel</source>
-        <translation type="unfinished"/>
+        <translation>Zmień nazwę &amp;kanału</translation>
     </message>
     <message>
         <source>R&amp;emove channel</source>
-        <translation type="unfinished"/>
+        <translation>Usuń k&amp;anał</translation>
     </message>
     <message>
         <source>Remove &amp;unused channels</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Usuń nieużywane kanały</translation>
     </message>
 </context>
 <context>
@@ -2245,6 +2257,18 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <source>FX %1</source>
         <translation>FX %1</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Głośność</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Wycisz</translation>
+    </message>
+    <message>
+        <source>Solo</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2259,11 +2283,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Wycisz</translation>
     </message>
     <message>
         <source>Mute this FX channel</source>
-        <translation type="unfinished"/>
+        <translation>Wycisz ten kanał FX</translation>
     </message>
     <message>
         <source>Solo</source>
@@ -2300,11 +2324,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>GigInstrumentView</name>
     <message>
         <source>Open other GIG file</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz inny plik GIG</translation>
     </message>
     <message>
         <source>Click here to open another GIG file</source>
-        <translation type="unfinished"/>
+        <translation>Naciśnij tutaj, aby otworzyć inny plik GIG</translation>
     </message>
     <message>
         <source>Choose the patch</source>
@@ -2336,34 +2360,34 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Open GIG file</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz plik GIG</translation>
     </message>
     <message>
         <source>GIG Files (*.gig)</source>
-        <translation type="unfinished"/>
+        <translation>Pliki GIG (*.gig)</translation>
     </message>
 </context>
 <context>
     <name>GuiApplication</name>
     <message>
         <source>Working directory</source>
-        <translation type="unfinished"/>
+        <translation>Katalog roboczy</translation>
     </message>
     <message>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
-        <translation type="unfinished"/>
+        <translation>Katalog roboczy LMMS %1 nie istnieje. Czy chcesz go utworzyć? Możesz zmienić katalog później w ustawieniach.</translation>
     </message>
     <message>
         <source>Preparing UI</source>
-        <translation type="unfinished"/>
+        <translation>Przygotowywanie interfejsu</translation>
     </message>
     <message>
         <source>Preparing song editor</source>
-        <translation type="unfinished"/>
+        <translation>Przygotowywanie edytora utworu</translation>
     </message>
     <message>
         <source>Preparing mixer</source>
-        <translation type="unfinished"/>
+        <translation>Przygotowywanie miksera</translation>
     </message>
     <message>
         <source>Preparing controller rack</source>
@@ -2390,55 +2414,55 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentFunctionArpeggio</name>
     <message>
         <source>Arpeggio</source>
-        <translation type="unfinished"/>
+        <translation>Arpeggio</translation>
     </message>
     <message>
         <source>Arpeggio type</source>
-        <translation type="unfinished"/>
+        <translation>Rodzaj arpeggio</translation>
     </message>
     <message>
         <source>Arpeggio range</source>
-        <translation type="unfinished"/>
+        <translation>Zakres arpeggio</translation>
     </message>
     <message>
         <source>Arpeggio time</source>
-        <translation type="unfinished"/>
+        <translation>Okres arpeggio</translation>
     </message>
     <message>
         <source>Arpeggio gate</source>
-        <translation type="unfinished"/>
+        <translation>Bramkowanie arpeggio</translation>
     </message>
     <message>
         <source>Arpeggio direction</source>
-        <translation type="unfinished"/>
+        <translation>Kierunek arpeggio</translation>
     </message>
     <message>
         <source>Arpeggio mode</source>
-        <translation type="unfinished"/>
+        <translation>Tryb arpeggio</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation>W górę</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"/>
+        <translation>W dół</translation>
     </message>
     <message>
         <source>Up and down</source>
-        <translation type="unfinished"/>
+        <translation>W górę i w dół</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation type="unfinished"/>
+        <translation>Losowo</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"/>
+        <translation>Dowolnie</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"/>
+        <translation>Posortowany</translation>
     </message>
     <message>
         <source>Sync</source>
@@ -2446,7 +2470,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Down and up</source>
-        <translation type="unfinished"/>
+        <translation>W dół i w górę</translation>
     </message>
     <message>
         <source>Skip rate</source>
@@ -2465,7 +2489,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentFunctionArpeggioView</name>
     <message>
         <source>ARPEGGIO</source>
-        <translation type="unfinished"/>
+        <translation>ARPEGGIO</translation>
     </message>
     <message>
         <source>An arpeggio is a method playing (especially plucked) instruments, which makes the music much livelier. The strings of such instruments (e.g. harps) are plucked like chords. The only difference is that this is done in a sequential order, so the notes are not played at the same time. Typical arpeggios are major or minor triads, but there are a lot of other possible chords, you can select.</source>
@@ -2489,15 +2513,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>TIME</source>
-        <translation type="unfinished"/>
+        <translation>OKRES</translation>
     </message>
     <message>
         <source>Arpeggio time:</source>
-        <translation type="unfinished"/>
+        <translation>Okres arpeggio:</translation>
     </message>
     <message>
         <source>ms</source>
-        <translation type="unfinished"/>
+        <translation>ms</translation>
     </message>
     <message>
         <source>Use this knob for setting the arpeggio time in milliseconds. The arpeggio time specifies how long each arpeggio-tone should be played.</source>
@@ -2509,7 +2533,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Arpeggio gate:</source>
-        <translation type="unfinished"/>
+        <translation>Bramkowanie arpeggio:</translation>
     </message>
     <message>
         <source>%</source>
@@ -3431,7 +3455,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź nową wartość pomiędzy %1 a %2:</translation>
     </message>
     <message>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
@@ -3482,7 +3506,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>LcdSpinBox</name>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź nową wartość pomiędzy %1 a %2:</translation>
     </message>
 </context>
 <context>
@@ -3652,16 +3676,6 @@ Double click to pick a file.</source>
 </context>
 <context>
     <name>MainWindow</name>
-    <message>
-        <source>Could not save config-file</source>
-        <translation>Nie można zapisać pliku konfiguracyjnego</translation>
-    </message>
-    <message>
-        <source>Could not save configuration file %1. You're probably not permitted to write to this file.
-Please make sure you have write-access to the file and try again.</source>
-        <translation>Nie można zapisać pliku konfiguracyjnego %1. Prawdopodobnie nie masz uprawnień zapisu do tego pliku.
-Upewnij się, że masz prawo zapisu do tego pliku i spróbuj ponownie.</translation>
-    </message>
     <message>
         <source>&amp;New</source>
         <translation>&amp;Nowy</translation>
@@ -4038,6 +4052,15 @@ Odwiedź witrynę http://lmms.sf.net/wiki for documentation on LMMS.</translatio
     </message>
     <message>
         <source>Volume as dBFS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Could not open file</source>
+        <translation>Nie można otworzyć pliku</translation>
+    </message>
+    <message>
+        <source>Could not open file %1 for writing.
+Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4632,7 +4655,7 @@ Odwiedź witrynę http://lmms.sf.net/wiki for documentation on LMMS.</translatio
     </message>
     <message>
         <source>Random</source>
-        <translation type="unfinished"/>
+        <translation>Losowo</translation>
     </message>
     <message>
         <source>Random smooth</source>
@@ -5495,7 +5518,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź nową wartość pomiędzy %1 a %2:</translation>
     </message>
     <message>
         <source>Mark/unmark all corresponding octave semitones</source>
@@ -5895,7 +5918,7 @@ Powód: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Input Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie wejścia:</translation>
     </message>
     <message>
         <source>Size</source>
@@ -5919,7 +5942,7 @@ Powód: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Output Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie wyjścia:</translation>
     </message>
 </context>
 <context>
@@ -5985,6 +6008,14 @@ Powód: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fail to open file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6518,7 +6549,7 @@ Upewnij się, że masz przynajmniej uprawnienia odczytu tego pliku a następnie 
     </message>
     <message>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj ścieżkę automatyki</translation>
     </message>
     <message>
         <source>Draw mode</source>
@@ -6746,7 +6777,7 @@ Upewnij się, że masz przynajmniej uprawnienia odczytu tego pliku a następnie 
     <name>Track</name>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Wycisz</translation>
     </message>
     <message>
         <source>Solo</source>
@@ -6794,7 +6825,7 @@ Please make sure you have read-permission to the file and the directory containi
     <name>TrackContentObject</name>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Wycisz</translation>
     </message>
 </context>
 <context>
@@ -6856,7 +6887,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Wycisz</translation>
     </message>
     <message>
         <source>Solo</source>
@@ -7472,7 +7503,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Odwróć</translation>
     </message>
     <message>
         <source>Click to invert</source>
@@ -7810,7 +7841,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Input gain:</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie wejścia:</translation>
     </message>
     <message>
         <source>OUTPUT</source>
@@ -9992,7 +10023,7 @@ Kontrolka LED w prawym dolnym rogu edytora kształtu fali pokazuje, czy wybrana 
     </message>
     <message>
         <source>Input gain:</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie wejścia:</translation>
     </message>
     <message>
         <source>OUTPUT</source>
