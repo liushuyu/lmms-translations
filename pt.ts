@@ -3,7 +3,7 @@
     <name>AboutDialog</name>
     <message>
         <source>About LMMS</source>
-        <translation>Sobre LMMS</translation>
+        <translation>Sobre o LMMS</translation>
     </message>
     <message>
         <source>Version %1 (%2/%3, Qt %4, %5)</source>
@@ -181,23 +181,23 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>This button enables forwards-looping. The sample loops between the end point and the loop point.</source>
-        <translation type="unfinished"/>
+        <translation>Este botão ativa o looping progressivo. A amostra circula entre o ponto final e o ponto do ciclo.</translation>
     </message>
     <message>
         <source>This button enables ping-pong-looping. The sample loops backwards and forwards between the end point and the loop point.</source>
-        <translation type="unfinished"/>
+        <translation>Este botão ativa o looping em ping-pong. A amostra circula para trás e para frente entre o ponto final e o ponto do ciclo.</translation>
     </message>
     <message>
         <source>With this knob you can set the point where AudioFileProcessor should begin playing your sample. </source>
-        <translation type="unfinished"/>
+        <translation>Com este botão você pode definir aonde o AudioFileProcesor deve começar a tocar sua amostra.</translation>
     </message>
     <message>
         <source>With this knob you can set the point where AudioFileProcessor should stop playing your sample. </source>
-        <translation type="unfinished"/>
+        <translation>Com este botão você pode definir aonde o AudioFileProcessor deve parar de tocar sua amostra.</translation>
     </message>
     <message>
         <source>Loopback point:</source>
-        <translation type="unfinished"/>
+        <translation>Ponto de auto-retorno:</translation>
     </message>
     <message>
         <source>With this knob you can set the point where the loop starts. </source>
@@ -370,7 +370,7 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>Click here if you want to play the current pattern. This is useful while editing it.  The pattern is automatically looped when the end is reached.</source>
-        <translation type="unfinished"/>
+        <translation>Clique aqui se você quiser tocar a sequência atual. Isto é útil enquanto se está editando. A sequência entra em loop automaticamente quando chega ao fim.</translation>
     </message>
     <message>
         <source>Stop playing of current pattern (Space)</source>
@@ -422,27 +422,27 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>Cubic Hermite progression</source>
-        <translation type="unfinished"/>
+        <translation>Progressão Cúbica de Hermite</translation>
     </message>
     <message>
         <source>Tension value for spline</source>
-        <translation type="unfinished"/>
+        <translation>Valor de tensão para a curva</translation>
     </message>
     <message>
         <source>A higher tension value may make a smoother curve but overshoot some values. A low tension value will cause the slope of the curve to level off at each control point.</source>
-        <translation type="unfinished"/>
+        <translation>Um valor de tensão maior pode suavizar mais uma curva, porém pode exagerar alguns valores. Um valor de tensão baixo fará com que a inclinação da curva seja nivelada em cada ponto de controle.</translation>
     </message>
     <message>
         <source>Click here to choose discrete progressions for this automation pattern.  The value of the connected object will remain constant between control points and be set immediately to the new value when each control point is reached.</source>
-        <translation type="unfinished"/>
+        <translation>Clique aqui para escolher progressões discretas para esta sequência de automação. O valor do objeto conectado permanecerá constante entre os pontos de controle e será substituído imediatamente pelo novo valor quando cada ponto de controle for alcançado.</translation>
     </message>
     <message>
         <source>Click here to choose linear progressions for this automation pattern.  The value of the connected object will change at a steady rate over time between control points to reach the correct value at each control point without a sudden change.</source>
-        <translation type="unfinished"/>
+        <translation>Clique aqui para escolher as progressões lineares para esta sequência de automação. O valor do objeto conectado irá variar constantemente ao longo do tempo entre os pontos de controle para alcançar o valor correto em cada ponto sem uma mudança brusca.</translation>
     </message>
     <message>
         <source>Click here to choose cubic hermite progressions for this automation pattern.  The value of the connected object will change in a smooth curve and ease in to the peaks and valleys.</source>
-        <translation type="unfinished"/>
+        <translation>Clique aqui para escolher as progressões cúbicas de hermite para esta sequência de automação. O valor do objeto conectado se tornará uma curva suave e facilitará as coisas.</translation>
     </message>
     <message>
         <source>Cut selected values (%1+X)</source>
@@ -506,11 +506,11 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>Quantization</source>
-        <translation type="unfinished"/>
+        <translation>Quantização</translation>
     </message>
     <message>
         <source>Quantization. Sets the smallest step size for the Automation Point. By default this also sets the length, clearing out other points in the range. Press &lt;Ctrl&gt; to override this behaviour.</source>
-        <translation type="unfinished"/>
+        <translation>Quantização. Define o menor tamanho da etapa possível para o Ponto de Automação. Por padrão, isto também define a largura, limpando outros pontos do intervalo. Pressione &lt;Ctrl&gt; para sobrepor este comportamento.</translation>
     </message>
 </context>
 <context>
@@ -522,10 +522,6 @@ Esteban Viveros</translation>
 </context>
 <context>
     <name>AutomationPatternView</name>
-    <message>
-        <source>double-click to open this pattern in automation editor</source>
-        <translation>dois cliques para abrir esta sequência no editor de automação</translation>
-    </message>
     <message>
         <source>Open in Automation editor</source>
         <translation>Abra dentro do Editor de Automação</translation>
@@ -618,22 +614,22 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>Track and step actions</source>
-        <translation type="unfinished"/>
+        <translation>Faixa e ações da etapa</translation>
     </message>
     <message>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>Clonar Etapas</translation>
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar faixa de amostra</translation>
     </message>
 </context>
 <context>
     <name>BBTCOView</name>
     <message>
         <source>Open in Beat+Bassline-Editor</source>
-        <translation type="unfinished"/>
+        <translation>Abrir Editor de Bases</translation>
     </message>
     <message>
         <source>Reset name</source>
@@ -724,10 +720,6 @@ Esteban Viveros</translation>
         <translation>Ganho da entrada:</translation>
     </message>
     <message>
-        <source>NOIS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Input Noise:</source>
         <translation>Ruído de entrada:</translation>
     </message>
@@ -741,23 +733,15 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>Output Clip:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rate</source>
-        <translation>Taxa</translation>
+        <translation>Clipe de Saída:</translation>
     </message>
     <message>
         <source>Rate Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Taxa Habilitada</translation>
     </message>
     <message>
         <source>Enable samplerate-crushing</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Depth</source>
-        <translation>Profundidade</translation>
+        <translation>Ativar compressor de amostragem</translation>
     </message>
     <message>
         <source>Depth Enabled</source>
@@ -765,27 +749,35 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>Enable bitdepth-crushing</source>
-        <translation type="unfinished"/>
+        <translation>Ativar compressor de bitdepth</translation>
     </message>
     <message>
         <source>Sample rate:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>STD</source>
-        <translation>STD</translation>
+        <translation>Taxa de amostragem:</translation>
     </message>
     <message>
         <source>Stereo difference:</source>
         <translation>Diferença de Stereo:</translation>
     </message>
     <message>
-        <source>Levels</source>
-        <translation>Níveis</translation>
-    </message>
-    <message>
         <source>Levels:</source>
         <translation>Níveis:</translation>
+    </message>
+    <message>
+        <source>NOISE</source>
+        <translation>RUÍDO</translation>
+    </message>
+    <message>
+        <source>FREQ</source>
+        <translation>FREQ</translation>
+    </message>
+    <message>
+        <source>STEREO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>QUANT</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -915,11 +907,11 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>&amp;Remove this controller</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Remover este controlador</translation>
     </message>
     <message>
         <source>Re&amp;name this controller</source>
-        <translation type="unfinished"/>
+        <translation>Re&amp;nomear este controlador</translation>
     </message>
     <message>
         <source>LFO</source>
@@ -930,63 +922,63 @@ Esteban Viveros</translation>
     <name>CrossoverEQControlDialog</name>
     <message>
         <source>Band 1/2 Crossover:</source>
-        <translation type="unfinished"/>
+        <translation>1/2 Cruzamento de Banda:</translation>
     </message>
     <message>
         <source>Band 2/3 Crossover:</source>
-        <translation type="unfinished"/>
+        <translation>2/3 Cruzamento de Banda:</translation>
     </message>
     <message>
         <source>Band 3/4 Crossover:</source>
-        <translation type="unfinished"/>
+        <translation>3/4 Cruzamento de Banda:</translation>
     </message>
     <message>
         <source>Band 1 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Banda 1 Ganho:</translation>
     </message>
     <message>
         <source>Band 2 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Banda 2 Ganho:</translation>
     </message>
     <message>
         <source>Band 3 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Banda 3 Ganho:</translation>
     </message>
     <message>
         <source>Band 4 Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Banda 4 Ganho:</translation>
     </message>
     <message>
         <source>Band 1 Mute</source>
-        <translation type="unfinished"/>
+        <translation>Banda 1 Mudo</translation>
     </message>
     <message>
         <source>Mute Band 1</source>
-        <translation type="unfinished"/>
+        <translation>Silenciar Banda 1</translation>
     </message>
     <message>
         <source>Band 2 Mute</source>
-        <translation type="unfinished"/>
+        <translation>Banda 2 Mudo</translation>
     </message>
     <message>
         <source>Mute Band 2</source>
-        <translation type="unfinished"/>
+        <translation>Silenciar Banda 2</translation>
     </message>
     <message>
         <source>Band 3 Mute</source>
-        <translation type="unfinished"/>
+        <translation>Banda 3 Mudo</translation>
     </message>
     <message>
         <source>Mute Band 3</source>
-        <translation type="unfinished"/>
+        <translation>Silenciar Banda 3</translation>
     </message>
     <message>
         <source>Band 4 Mute</source>
-        <translation type="unfinished"/>
+        <translation>Banda 4 Mudo</translation>
     </message>
     <message>
         <source>Mute Band 4</source>
-        <translation type="unfinished"/>
+        <translation>Silenciar Banda 4</translation>
     </message>
 </context>
 <context>
@@ -1024,7 +1016,7 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>Feedback Amount</source>
-        <translation type="unfinished"/>
+        <translation>Quantidade de Retorno</translation>
     </message>
     <message>
         <source>Lfo</source>
@@ -1040,15 +1032,15 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>DELAY</source>
-        <translation type="unfinished"/>
+        <translation>ATRASO</translation>
     </message>
     <message>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>RTRN</translation>
     </message>
     <message>
         <source>RATE</source>
-        <translation type="unfinished"/>
+        <translation>TAXA</translation>
     </message>
     <message>
         <source>AMNT</source>
@@ -1122,7 +1114,7 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>Q/Resonance 1</source>
-        <translation type="unfinished"/>
+        <translation>Q/Ressonância 1</translation>
     </message>
     <message>
         <source>Gain 1</source>
@@ -1146,7 +1138,7 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>Q/Resonance 2</source>
-        <translation type="unfinished"/>
+        <translation>Q/Ressonância 2</translation>
     </message>
     <message>
         <source>Gain 2</source>
@@ -1257,7 +1249,7 @@ Esteban Viveros</translation>
     </message>
     <message>
         <source>Record while playing</source>
-        <translation type="unfinished"/>
+        <translation>Gravar enquanto toca</translation>
     </message>
     <message>
         <source>Transport controls</source>
@@ -1872,7 +1864,7 @@ Clicar com o botão direito no mouse irá exibir um menu de contexto onde você 
     </message>
     <message>
         <source>Bandwidth: </source>
-        <translation type="unfinished"/>
+        <translation>Largura de Banda:</translation>
     </message>
     <message>
         <source>Resonance : </source>
@@ -2046,7 +2038,7 @@ Clicar com o botão direito no mouse irá exibir um menu de contexto onde você 
     </message>
     <message>
         <source>Export between loop markers</source>
-        <translation type="unfinished"/>
+        <translation>Exportar entre os marcadores de repetição</translation>
     </message>
     <message>
         <source>Could not open file</source>
@@ -2062,7 +2054,7 @@ Clicar com o botão direito no mouse irá exibir um menu de contexto onde você 
     </message>
     <message>
         <source>Error while determining file-encoder device. Please try to choose a different output format.</source>
-        <translation type="unfinished"/>
+        <translation>Erro ao determinar o aparelho codificador de arquivos. Por favor, tente escolher um formato de saída diferente.</translation>
     </message>
     <message>
         <source>Rendering: %1%</source>
@@ -2081,6 +2073,81 @@ Please make sure you have write permission to the file and the directory contain
         <source>Use variable bitrate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Stereo mode:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stereo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Joint Stereo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mono</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Compression level:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(fastest)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(smallest)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Expressive</name>
+    <message>
+        <source>Selected graph</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W1 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W2 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W3 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PAN1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PAN2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>REL TRANS</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>Fader</name>
@@ -2095,12 +2162,20 @@ Please make sure you have write permission to the file and the directory contain
         <source>Browser</source>
         <translation>Navegador</translation>
     </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Refresh list</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
         <source>Send to active instrument-track</source>
-        <translation type="unfinished"/>
+        <translation>Enviar para a faixa de instrumento ativa</translation>
     </message>
     <message>
         <source>Open in new instrument-track/B+B Editor</source>
@@ -2178,15 +2253,11 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>DELAY</source>
-        <translation type="unfinished"/>
+        <translation>ATRASO</translation>
     </message>
     <message>
         <source>RATE</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rate:</source>
-        <translation type="unfinished"/>
+        <translation>TAXA</translation>
     </message>
     <message>
         <source>AMNT</source>
@@ -2198,7 +2269,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>RTRN</translation>
     </message>
     <message>
         <source>NOISE</source>
@@ -2207,6 +2278,10 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <source>Invert</source>
         <translation>Inverter</translation>
+    </message>
+    <message>
+        <source>Period:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3385,20 +3460,8 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation>Canal de Efeitos</translation>
     </message>
     <message>
-        <source>ENV/LFO</source>
-        <translation>ENV/LFO</translation>
-    </message>
-    <message>
-        <source>FUNC</source>
-        <translation>RECURSOS</translation>
-    </message>
-    <message>
         <source>FX</source>
         <translation>EFEITOS</translation>
-    </message>
-    <message>
-        <source>MIDI</source>
-        <translation>MIDI</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -3407,10 +3470,6 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <source>XML preset file (*.xpf)</source>
         <translation>Arquivo de pré definições XML (*.xpf)</translation>
-    </message>
-    <message>
-        <source>PLUGIN</source>
-        <translation>PLUGIN</translation>
     </message>
     <message>
         <source>Pitch range (semitones)</source>
@@ -3426,11 +3485,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Click here, if you want to save current instrument track settings in a preset file. Later you can load this preset by double-clicking it in the preset-browser.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MISC</source>
-        <translation type="unfinished"/>
+        <translation>Clique aqui, se deseja salvar as definições de faixa de instrumento atuais em um arquivo predefinido. Você pode carregar essa predefinição ao clicar duas vezes nele no buscador de predefinições.</translation>
     </message>
     <message>
         <source>Use these controls to view and edit the next/previous track in the song editor.</source>
@@ -3439,6 +3494,30 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <source>SAVE</source>
         <translation>SALVAR</translation>
+    </message>
+    <message>
+        <source>Envelope, filter &amp; LFO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chord stacking &amp; arpeggio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MIDI settings</source>
+        <translation>Configurações MIDI</translation>
+    </message>
+    <message>
+        <source>Miscellaneous</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Plugin</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3929,14 +4008,6 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Ignore</source>
-        <translation>Ignorar</translation>
-    </message>
-    <message>
-        <source>Launch LMMS as usual but with automatic backup disabled to prevent the present recover file from being overwritten.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Discard</source>
         <translation>Descartar</translation>
     </message>
@@ -3982,15 +4053,15 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Show/hide Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Esconder Editor de Bases</translation>
     </message>
     <message>
         <source>Show/hide Piano-Roll</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Esconder Piano-Roll</translation>
     </message>
     <message>
         <source>Show/hide Automation Editor</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Esconder Pista de Automação</translation>
     </message>
     <message>
         <source>Show/hide FX Mixer</source>
@@ -4006,10 +4077,6 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     </message>
     <message>
         <source>Recover session. Please save your work!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Automatic backup disabled. Remember to save your work!</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -5328,16 +5395,8 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
         <translation>Remover passo</translation>
     </message>
     <message>
-        <source>use mouse wheel to set velocity of a step</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>double-click to open in Piano Roll</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>Clonar Etapas</translation>
     </message>
 </context>
 <context>
@@ -5723,14 +5782,6 @@ Motivo: &quot;%2&quot;</translation>
 <context>
     <name>ProjectNotes</name>
     <message>
-        <source>Project notes</source>
-        <translation>Notas do projeto</translation>
-    </message>
-    <message>
-        <source>Put down your project notes here.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Edit Actions</source>
         <translation>Editar ações</translation>
     </message>
@@ -5838,6 +5889,14 @@ Motivo: &quot;%2&quot;</translation>
         <source>&amp;Color...</source>
         <translation>&amp;Cor...</translation>
     </message>
+    <message>
+        <source>Project Notes</source>
+        <translation>Mostrar/esconder comentários do projeto</translation>
+    </message>
+    <message>
+        <source>Enter project notes here</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ProjectRenderer</name>
@@ -5848,6 +5907,14 @@ Motivo: &quot;%2&quot;</translation>
     <message>
         <source>Compressed OGG-File (*.ogg)</source>
         <translation>Arquivo OGG compactado (*.ogg)</translation>
+    </message>
+    <message>
+        <source>FLAC-File (*.flac)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Compressed MP3-File (*.mp3)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5920,19 +5987,19 @@ Motivo: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Tamanho:</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Color:</source>
-        <translation type="unfinished"/>
+        <translation>Cor:</translation>
     </message>
     <message>
         <source>Output</source>
@@ -5951,11 +6018,11 @@ Motivo: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Output Gain</source>
@@ -6331,7 +6398,7 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"/>
+        <translation>Desativado</translation>
     </message>
     <message>
         <source>Auto-save interval: %1</source>
@@ -6403,7 +6470,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>untitled</source>
-        <translation type="unfinished"/>
+        <translation>sem título</translation>
     </message>
     <message>
         <source>Select file for project-export...</source>
@@ -6423,7 +6490,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Save project</source>
-        <translation type="unfinished"/>
+        <translation>Guardar projeto</translation>
     </message>
 </context>
 <context>
@@ -6543,7 +6610,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar faixa de amostra</translation>
     </message>
     <message>
         <source>Add automation-track</source>
@@ -6819,6 +6886,10 @@ Por favor certifique-se que você tem permissões de leitura para o arquivo e pa
     <message>
         <source>Importing MIDI-file...</source>
         <translation>Importando arquivo MIDI...</translation>
+    </message>
+    <message>
+        <source>Loading Track %1 (%2/Total %3)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7945,6 +8016,133 @@ Por favor certifique-se que você tem permissões de leitura para o arquivo e pa
     <message>
         <source>Stereo mode</source>
         <translation>Modo Estéreo</translation>
+    </message>
+</context>
+<context>
+    <name>expressiveView</name>
+    <message>
+        <source>Select oscillator W1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select oscillator W2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select oscillator W3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select OUTPUT 1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select OUTPUT 2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open help window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sine wave</source>
+        <translation>Onda senoidal</translation>
+    </message>
+    <message>
+        <source>Click for a sine-wave.</source>
+        <translation>Clique aqui para usar uma onda senoidal.</translation>
+    </message>
+    <message>
+        <source>Moog-Saw wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click for a Moog-Saw-wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exponential wave</source>
+        <translation>Onda exponencial</translation>
+    </message>
+    <message>
+        <source>Click for an exponential wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Saw wave</source>
+        <translation>Onda dente de serra</translation>
+    </message>
+    <message>
+        <source>Click here for a saw-wave.</source>
+        <translation>Clique aqui para usar uma onda dente de serra.</translation>
+    </message>
+    <message>
+        <source>User defined wave</source>
+        <translation>Onda definida pelo usuário</translation>
+    </message>
+    <message>
+        <source>Click here for a user-defined shape.</source>
+        <translation>Clique aqui para usar uma onda definida pelo usuário.</translation>
+    </message>
+    <message>
+        <source>Triangle wave</source>
+        <translation>Onda triangular</translation>
+    </message>
+    <message>
+        <source>Click here for a triangle-wave.</source>
+        <translation>Clique aqui para usar uma onda triangular.</translation>
+    </message>
+    <message>
+        <source>Square wave</source>
+        <translation>Onda quadrada</translation>
+    </message>
+    <message>
+        <source>Click here for a square-wave.</source>
+        <translation>Clique aqui para usar uma onda quadrada.</translation>
+    </message>
+    <message>
+        <source>White noise wave</source>
+        <translation>Ruído branco</translation>
+    </message>
+    <message>
+        <source>Click here for white-noise.</source>
+        <translation>Clique aqui para usar um ruído branco.</translation>
+    </message>
+    <message>
+        <source>WaveInterpolate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ExpressionValid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 1:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 2:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 3:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>O1 panning:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>O2 panning:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Release transition:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Smoothness</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9345,6 +9543,10 @@ Este chip foi utilizado no computador Commodore 64.</translation>
     </message>
     <message>
         <source>Reverb algorithm by Sean Costello</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mathematical expression parser</source>
         <translation type="unfinished"/>
     </message>
 </context>

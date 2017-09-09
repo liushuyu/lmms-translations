@@ -529,10 +529,6 @@ BrLi &lt;brli at chakraos.org&gt;
 <context>
     <name>AutomationPatternView</name>
     <message>
-        <source>double-click to open this pattern in automation editor</source>
-        <translation>雙擊在自動編輯器中打開此片段</translation>
-    </message>
-    <message>
         <source>Open in Automation editor</source>
         <translation>在自動編輯器（Automation editor）中打開</translation>
     </message>
@@ -730,10 +726,6 @@ BrLi &lt;brli at chakraos.org&gt;
         <translation>輸入增益:</translation>
     </message>
     <message>
-        <source>NOIS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Input Noise:</source>
         <translation>輸入噪音:</translation>
     </message>
@@ -750,20 +742,12 @@ BrLi &lt;brli at chakraos.org&gt;
         <translation>輸出壓限:</translation>
     </message>
     <message>
-        <source>Rate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Rate Enabled</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable samplerate-crushing</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Depth</source>
-        <translation>位深</translation>
     </message>
     <message>
         <source>Depth Enabled</source>
@@ -778,20 +762,28 @@ BrLi &lt;brli at chakraos.org&gt;
         <translation>採樣率:</translation>
     </message>
     <message>
-        <source>STD</source>
-        <translation>STD</translation>
-    </message>
-    <message>
         <source>Stereo difference:</source>
         <translation>雙聲道差異:</translation>
     </message>
     <message>
-        <source>Levels</source>
-        <translation>級別</translation>
-    </message>
-    <message>
         <source>Levels:</source>
         <translation>級別:</translation>
+    </message>
+    <message>
+        <source>NOISE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FREQ</source>
+        <translation>頻率</translation>
+    </message>
+    <message>
+        <source>STEREO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>QUANT</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2069,10 +2061,85 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>24 Bit Integer</source>
-        <translation type="unfinished"/>
+        <translation>24 位元整數</translation>
     </message>
     <message>
         <source>Use variable bitrate</source>
+        <translation>使用可變位元率</translation>
+    </message>
+    <message>
+        <source>Stereo mode:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stereo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Joint Stereo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mono</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Compression level:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(fastest)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(smallest)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Expressive</name>
+    <message>
+        <source>Selected graph</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W1 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W2 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W3 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PAN1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PAN2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>REL TRANS</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2088,6 +2155,14 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <source>Browser</source>
         <translation>瀏覽器</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Refresh list</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2179,10 +2254,6 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Rate:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>AMNT</source>
         <translation type="unfinished"/>
     </message>
@@ -2201,6 +2272,10 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <source>Invert</source>
         <translation>反轉</translation>
+    </message>
+    <message>
+        <source>Period:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3379,20 +3454,8 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation>效果通道</translation>
     </message>
     <message>
-        <source>ENV/LFO</source>
-        <translation>包絡/低振</translation>
-    </message>
-    <message>
-        <source>FUNC</source>
-        <translation>功能</translation>
-    </message>
-    <message>
         <source>FX</source>
         <translation>效果</translation>
-    </message>
-    <message>
-        <source>MIDI</source>
-        <translation>MIDI</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -3401,10 +3464,6 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <source>XML preset file (*.xpf)</source>
         <translation>XML 預設文件 (*.xpf)</translation>
-    </message>
-    <message>
-        <source>PLUGIN</source>
-        <translation>插件</translation>
     </message>
     <message>
         <source>Pitch range (semitones)</source>
@@ -3423,16 +3482,36 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation>如果你想保存當前樂器軌道設置到預設文件, 請點擊這裏。稍後你可以在預設瀏覽器中雙擊以使用它。</translation>
     </message>
     <message>
-        <source>MISC</source>
-        <translation>雜項</translation>
-    </message>
-    <message>
         <source>Use these controls to view and edit the next/previous track in the song editor.</source>
         <translation>使用這些控制選項來查看和編輯在歌曲編輯器中的上個/下個軌道。</translation>
     </message>
     <message>
         <source>SAVE</source>
         <translation>保存</translation>
+    </message>
+    <message>
+        <source>Envelope, filter &amp; LFO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chord stacking &amp; arpeggio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MIDI settings</source>
+        <translation>MIDI設置</translation>
+    </message>
+    <message>
+        <source>Miscellaneous</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Plugin</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3923,14 +4002,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>恢復文件。請不要在恢復文件時運行多個 LMMS 程序。</translation>
     </message>
     <message>
-        <source>Ignore</source>
-        <translation>忽略</translation>
-    </message>
-    <message>
-        <source>Launch LMMS as usual but with automatic backup disabled to prevent the present recover file from being overwritten.</source>
-        <translation>正常啓動 LMMS 但是關閉自動備份來防止備份文件被覆蓋。</translation>
-    </message>
-    <message>
         <source>Discard</source>
         <translation>丟棄</translation>
     </message>
@@ -4001,10 +4072,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Recover session. Please save your work!</source>
         <translation>恢復會話。請保存你的工作!</translation>
-    </message>
-    <message>
-        <source>Automatic backup disabled. Remember to save your work!</source>
-        <translation>自動備份已禁用。記得保存你的作品喲!</translation>
     </message>
     <message>
         <source>Recovered project not saved</source>
@@ -5322,14 +5389,6 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
         <translation>移除音階</translation>
     </message>
     <message>
-        <source>use mouse wheel to set velocity of a step</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>double-click to open in Piano Roll</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Clone Steps</source>
         <translation type="unfinished"/>
     </message>
@@ -5717,14 +5776,6 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>ProjectNotes</name>
     <message>
-        <source>Project notes</source>
-        <translation>工程註釋</translation>
-    </message>
-    <message>
-        <source>Put down your project notes here.</source>
-        <translation>在這裏寫下你的工程註釋。</translation>
-    </message>
-    <message>
         <source>Edit Actions</source>
         <translation>編輯功能</translation>
     </message>
@@ -5832,6 +5883,14 @@ Reason: &quot;%2&quot;</source>
         <source>&amp;Color...</source>
         <translation>顏色(&amp;C)...</translation>
     </message>
+    <message>
+        <source>Project Notes</source>
+        <translation>顯示/隱藏工程註釋</translation>
+    </message>
+    <message>
+        <source>Enter project notes here</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ProjectRenderer</name>
@@ -5842,6 +5901,14 @@ Reason: &quot;%2&quot;</source>
     <message>
         <source>Compressed OGG-File (*.ogg)</source>
         <translation>壓縮的 OGG 文件(*.ogg)</translation>
+    </message>
+    <message>
+        <source>FLAC-File (*.flac)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Compressed MP3-File (*.mp3)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6814,6 +6881,10 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <source>Importing MIDI-file...</source>
         <translation>正在導入 MIDI-文件...</translation>
+    </message>
+    <message>
+        <source>Loading Track %1 (%2/Total %3)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7939,6 +8010,133 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Stereo mode</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>expressiveView</name>
+    <message>
+        <source>Select oscillator W1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select oscillator W2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select oscillator W3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select OUTPUT 1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select OUTPUT 2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open help window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sine wave</source>
+        <translation>正弦波</translation>
+    </message>
+    <message>
+        <source>Click for a sine-wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Moog-Saw wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click for a Moog-Saw-wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exponential wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click for an exponential wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Saw wave</source>
+        <translation>鋸齒波</translation>
+    </message>
+    <message>
+        <source>Click here for a saw-wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User defined wave</source>
+        <translation>用戶自定義波形</translation>
+    </message>
+    <message>
+        <source>Click here for a user-defined shape.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Triangle wave</source>
+        <translation>三角波</translation>
+    </message>
+    <message>
+        <source>Click here for a triangle-wave.</source>
+        <translation>點擊這裡使用三角波。</translation>
+    </message>
+    <message>
+        <source>Square wave</source>
+        <translation>方波</translation>
+    </message>
+    <message>
+        <source>Click here for a square-wave.</source>
+        <translation>點擊這裡使用方形波。</translation>
+    </message>
+    <message>
+        <source>White noise wave</source>
+        <translation>白噪音</translation>
+    </message>
+    <message>
+        <source>Click here for white-noise.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WaveInterpolate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ExpressionValid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 1:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 2:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 3:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>O1 panning:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>O2 panning:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Release transition:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Smoothness</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -9340,6 +9538,10 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Reverb algorithm by Sean Costello</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mathematical expression parser</source>
         <translation type="unfinished"/>
     </message>
 </context>

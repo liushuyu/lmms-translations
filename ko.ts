@@ -15,11 +15,11 @@
     </message>
     <message>
         <source>LMMS - easy music production for everyone</source>
-        <translation type="unfinished"/>
+        <translation>LMMS - 누구나 쉽게 할 수 있는 음악 제작</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished"/>
+        <translation>개발자</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -29,7 +29,10 @@
         <source>Current language not translated (or native English).
 
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation type="unfinished"/>
+        <translation>송현진 (Hyunjin Song) &lt;PhysSong@users.noreply.github.com&gt;
+방성범 (Bang Seongbeom) &lt;bangseongbeom@gmail.com&gt;
+
+LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고 싶다면 저희를 도와주세요! LMMS 관리자와의 연락을 통해 참여하실 수 있습니다.</translation>
     </message>
     <message>
         <source>License</source>
@@ -41,7 +44,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Involved</source>
-        <translation type="unfinished"/>
+        <translation>기여자</translation>
     </message>
     <message>
         <source>Contributors ordered by number of commits:</source>
@@ -49,7 +52,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Copyright © %1</source>
-        <translation type="unfinished"/>
+        <translation>Copyright © %1</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -215,15 +218,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation type="unfinished"/>
+        <translation>알 수 없는 이유로 인해 LMMS와 JACK과의 연결이 끊겼습니다. LMMS의 JACK 드라이버를 다시 시작합니다. 수동으로 연결을 시도할 수도 있습니다.</translation>
     </message>
     <message>
         <source>JACK server down</source>
-        <translation type="unfinished"/>
+        <translation>JACK 서버 다운됨</translation>
     </message>
     <message>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation type="unfinished"/>
+        <translation>JACK 서버가 종료된 것 같습니다. 더 이상 작업을 진행할 수 없습니다. 프로젝트를 저장한 뒤 JACK과 LMMS를 다시 시작하세요.</translation>
     </message>
     <message>
         <source>CLIENT-NAME</source>
@@ -249,7 +252,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AudioPortAudio::setupWidget</name>
     <message>
         <source>BACKEND</source>
-        <translation type="unfinished"/>
+        <translation>드라이버</translation>
     </message>
     <message>
         <source>DEVICE</source>
@@ -289,7 +292,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AudioSoundIo::setupWidget</name>
     <message>
         <source>BACKEND</source>
-        <translation type="unfinished"/>
+        <translation>드라이버</translation>
     </message>
     <message>
         <source>DEVICE</source>
@@ -402,23 +405,23 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Click here and draw-mode will be activated. In this mode you can add and move single values.  This is the default mode which is used most of the time.  You can also press &apos;Shift+D&apos; on your keyboard to activate this mode.</source>
-        <translation type="unfinished"/>
+        <translation>여기를 클릭하면 그리기 모드가 활성화됩니다. 그리기 모드에서는 값을 추가하거나 이동할 수 있습니다. 이 모드는 대부분의 경우에 사용되는 기본 모드입니다. &apos;Shift+D&apos; 키를 눌러 이 모드를 활성화할 수도 있습니다.</translation>
     </message>
     <message>
         <source>Click here and erase-mode will be activated. In this mode you can erase single values. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
-        <translation type="unfinished"/>
+        <translation>여기를 클릭하면 지우기 모드가 활성화됩니다. 지우기 모드에서는 값을 삭제할 수 있습니다. &apos;Shift+E&apos; 키를 눌러 이 모드를 활성화할 수도 있습니다.</translation>
     </message>
     <message>
         <source>Discrete progression</source>
-        <translation type="unfinished"/>
+        <translation>이산적 진행</translation>
     </message>
     <message>
         <source>Linear progression</source>
-        <translation type="unfinished"/>
+        <translation>선형 진행</translation>
     </message>
     <message>
         <source>Cubic Hermite progression</source>
-        <translation type="unfinished"/>
+        <translation>3차 에르미트 진행</translation>
     </message>
     <message>
         <source>Tension value for spline</source>
@@ -430,15 +433,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Click here to choose discrete progressions for this automation pattern.  The value of the connected object will remain constant between control points and be set immediately to the new value when each control point is reached.</source>
-        <translation type="unfinished"/>
+        <translation>클릭하여 이 패턴을 이산적 진행으로 설정합니다. 각 점 사이에서 값은 상수로 유지되며 새 점에 도달하는 순간 값이 갱신됩니다.</translation>
     </message>
     <message>
         <source>Click here to choose linear progressions for this automation pattern.  The value of the connected object will change at a steady rate over time between control points to reach the correct value at each control point without a sudden change.</source>
-        <translation type="unfinished"/>
+        <translation>클릭하여 이 패턴을 선형 진행으로 설정합니다. 각 점 사이에서 값은 일정한 비율로 변화하며 새 점에 도달하는 순간에 불연속적 값 변화가 없습니다.</translation>
     </message>
     <message>
         <source>Click here to choose cubic hermite progressions for this automation pattern.  The value of the connected object will change in a smooth curve and ease in to the peaks and valleys.</source>
-        <translation type="unfinished"/>
+        <translation>클릭하여 이 패턴을 3차 에르미트 진행으로 설정합니다. 각 점 사이에서 값은 매끄러운 곡선의 형태로 변화합니다.Save</translation>
     </message>
     <message>
         <source>Cut selected values (%1+X)</source>
@@ -466,7 +469,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Tension: </source>
-        <translation type="unfinished"/>
+        <translation>장력:</translation>
     </message>
     <message>
         <source>Automation Editor - no pattern</source>
@@ -478,7 +481,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>편집 동작</translation>
     </message>
     <message>
         <source>Interpolation controls</source>
@@ -498,7 +501,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>대상이 이미 패턴에 연결되어 있습니다.</translation>
     </message>
     <message>
         <source>Quantization</source>
@@ -519,16 +522,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomationPatternView</name>
     <message>
-        <source>double-click to open this pattern in automation editor</source>
-        <translation>더블클릭하여 오토메이션 편집기에서 이 패턴 열기</translation>
-    </message>
-    <message>
         <source>Open in Automation editor</source>
         <translation>오토메이션 편집기에서 열기</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>지우기</translation>
     </message>
     <message>
         <source>Reset name</source>
@@ -560,7 +559,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>대상이 이미 패턴과 연결되어 있습니다.</translation>
     </message>
 </context>
 <context>
@@ -720,16 +719,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>입력 이득:</translation>
     </message>
     <message>
-        <source>NOIS</source>
-        <translation>잡음</translation>
-    </message>
-    <message>
         <source>Input Noise:</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Output Gain:</source>
-        <translation type="unfinished"/>
+        <translation>출력 이득:</translation>
     </message>
     <message>
         <source>CLIP</source>
@@ -740,19 +735,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Rate</source>
-        <translation>비</translation>
-    </message>
-    <message>
         <source>Rate Enabled</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable samplerate-crushing</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Depth</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -768,19 +755,27 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>샘플 레이트:</translation>
     </message>
     <message>
-        <source>STD</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Stereo difference:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Levels</source>
+        <source>Levels:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Levels:</source>
+        <source>NOISE</source>
+        <translation>잡음</translation>
+    </message>
+    <message>
+        <source>FREQ</source>
+        <translation>주파수</translation>
+    </message>
+    <message>
+        <source>STEREO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>QUANT</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1110,7 +1105,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Filter 1 type</source>
-        <translation type="unfinished"/>
+        <translation>필터 1 종류</translation>
     </message>
     <message>
         <source>Cutoff 1 frequency</source>
@@ -1134,7 +1129,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Filter 2 type</source>
-        <translation type="unfinished"/>
+        <translation>필터 2 종류</translation>
     </message>
     <message>
         <source>Cutoff 2 frequency</source>
@@ -1264,7 +1259,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>Effect</name>
     <message>
         <source>Effect enabled</source>
-        <translation>효과 활성</translation>
+        <translation>효과 활성화됨</translation>
     </message>
     <message>
         <source>Wet/Dry mix</source>
@@ -1324,7 +1319,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>EffectView</name>
     <message>
         <source>Toggles the effect on or off.</source>
-        <translation type="unfinished"/>
+        <translation>효과를 켜거나 끕니다.</translation>
     </message>
     <message>
         <source>On/Off</source>
@@ -1447,7 +1442,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>LFO Wave Shape</source>
-        <translation type="unfinished"/>
+        <translation>LFO 파형</translation>
     </message>
     <message>
         <source>Freq x 100</source>
@@ -1498,7 +1493,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>DEC</source>
-        <translation type="unfinished"/>
+        <translation>감쇄</translation>
     </message>
     <message>
         <source>Decay:</source>
@@ -1566,11 +1561,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>LFO speed:</source>
-        <translation type="unfinished"/>
+        <translation>LFO 속도:</translation>
     </message>
     <message>
         <source>Use this knob for setting speed of the current LFO. The bigger this value the faster the LFO oscillates and the faster will be your effect.</source>
-        <translation type="unfinished"/>
+        <translation> 이 노브를 사용하여 LFO의 속도를 설정합니다. 값이 클수록 LFO 진동이 빨라지게 됩니다.</translation>
     </message>
     <message>
         <source>Use this knob for setting modulation amount of the current LFO. The bigger this value the more the selected size (e.g. volume or cutoff-frequency) will be influenced by this LFO.</source>
@@ -1801,11 +1796,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Analyse IN</source>
-        <translation type="unfinished"/>
+        <translation>입력 신호 분석</translation>
     </message>
     <message>
         <source>Analyse OUT</source>
-        <translation type="unfinished"/>
+        <translation>출력 신호 분석</translation>
     </message>
 </context>
 <context>
@@ -2002,19 +1997,19 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>1x (None)</source>
-        <translation type="unfinished"/>
+        <translation>1x (사용하지 않음)</translation>
     </message>
     <message>
         <source>2x</source>
-        <translation type="unfinished"/>
+        <translation>2x</translation>
     </message>
     <message>
         <source>4x</source>
-        <translation type="unfinished"/>
+        <translation>4x</translation>
     </message>
     <message>
         <source>8x</source>
-        <translation type="unfinished"/>
+        <translation>8x</translation>
     </message>
     <message>
         <source>Start</source>
@@ -2026,11 +2021,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Export as loop (remove end silence)</source>
-        <translation type="unfinished"/>
+        <translation>루프 곡처럼 내보내기 (후반부 여백 제거)</translation>
     </message>
     <message>
         <source>Export between loop markers</source>
-        <translation type="unfinished"/>
+        <translation>반복 마커 사이 구간만 내보내기</translation>
     </message>
     <message>
         <source>Could not open file</source>
@@ -2046,7 +2041,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Error while determining file-encoder device. Please try to choose a different output format.</source>
-        <translation type="unfinished"/>
+        <translation>파일 인코더를 결정하는 중 오류가 발생하였습니다. 다른 포맷을 선택하여 다시 시도해 보세요.</translation>
     </message>
     <message>
         <source>Rendering: %1%</source>
@@ -2064,6 +2059,81 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Use variable bitrate</source>
+        <translation>가변 비트레이트 사용</translation>
+    </message>
+    <message>
+        <source>Stereo mode:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stereo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Joint Stereo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mono</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Compression level:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(fastest)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(smallest)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Expressive</name>
+    <message>
+        <source>Selected graph</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W1 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W2 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W3 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PAN1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PAN2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>REL TRANS</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2079,6 +2149,14 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <source>Browser</source>
         <translation>탐색기</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Refresh list</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2132,7 +2210,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Seconds</source>
-        <translation type="unfinished"/>
+        <translation>초</translation>
     </message>
     <message>
         <source>Regen</source>
@@ -2170,10 +2248,6 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Rate:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>AMNT</source>
         <translation type="unfinished"/>
     </message>
@@ -2192,6 +2266,10 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <source>Invert</source>
         <translation>파형 반전</translation>
+    </message>
+    <message>
+        <source>Period:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2414,7 +2492,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     </message>
     <message>
         <source>Arpeggio time</source>
-        <translation>아프페지오 시간</translation>
+        <translation>아르페지오 시간</translation>
     </message>
     <message>
         <source>Arpeggio gate</source>
@@ -2497,7 +2575,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     </message>
     <message>
         <source>Use this knob for setting the arpeggio range in octaves. The selected arpeggio will be played within specified number of octaves.</source>
-        <translation type="unfinished"/>
+        <translation>이 노브를 사용하여 아르페지오 범위를 옥타브 단위로 설정합니다. 아르페지오는 설정된 옥타브 범위 내에서 재생됩니다.</translation>
     </message>
     <message>
         <source>TIME</source>
@@ -2505,7 +2583,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     </message>
     <message>
         <source>Arpeggio time:</source>
-        <translation>아프페지오 시간:</translation>
+        <translation>아르페지오 시간:</translation>
     </message>
     <message>
         <source>ms</source>
@@ -2513,7 +2591,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     </message>
     <message>
         <source>Use this knob for setting the arpeggio time in milliseconds. The arpeggio time specifies how long each arpeggio-tone should be played.</source>
-        <translation type="unfinished"/>
+        <translation>이 노브를 사용하여 아르페지오 시간을 밀리초 단위로 지정합니다. 아르페지오 시간은 각각의 아르페지오 음이 재생되는 길이를 결정합니다.</translation>
     </message>
     <message>
         <source>GATE</source>
@@ -2991,7 +3069,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     </message>
     <message>
         <source>Use this knob for setting the chord range in octaves. The selected chord will be played within specified number of octaves.</source>
-        <translation type="unfinished"/>
+        <translation>이 노브를 사용하여 코드 범위를 옥타브 단위로 설정합니다. 코드는 설정된 옥타브만큼 재생됩니다.</translation>
     </message>
     <message>
         <source>STACKING</source>
@@ -3092,7 +3170,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     </message>
     <message>
         <source>Filter type</source>
-        <translation>필터 형태</translation>
+        <translation>필터 종류</translation>
     </message>
     <message>
         <source>Q/Resonance</source>
@@ -3375,20 +3453,8 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
         <translation>FX 채널</translation>
     </message>
     <message>
-        <source>ENV/LFO</source>
-        <translation>엔벨로프/LFO</translation>
-    </message>
-    <message>
-        <source>FUNC</source>
-        <translation>기능</translation>
-    </message>
-    <message>
         <source>FX</source>
         <translation>FX</translation>
-    </message>
-    <message>
-        <source>MIDI</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save preset</source>
@@ -3397,10 +3463,6 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <source>XML preset file (*.xpf)</source>
         <translation>XML 프리셋 파일 (*.xpf)</translation>
-    </message>
-    <message>
-        <source>PLUGIN</source>
-        <translation>플러그인</translation>
     </message>
     <message>
         <source>Pitch range (semitones)</source>
@@ -3419,16 +3481,36 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
         <translation>클릭하여 설정을 프리셋 파일에 저장합니다. 나중에 프리셋 탐색기에서 더블클릭하여 다시 불러올 수 있습니다.</translation>
     </message>
     <message>
-        <source>MISC</source>
-        <translation>기타</translation>
-    </message>
-    <message>
         <source>Use these controls to view and edit the next/previous track in the song editor.</source>
         <translation>이 컨트롤을 이용하여 노래 편집기의 이전/다음 트랙을 보고 편집합니다.</translation>
     </message>
     <message>
         <source>SAVE</source>
         <translation>저장</translation>
+    </message>
+    <message>
+        <source>Envelope, filter &amp; LFO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chord stacking &amp; arpeggio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MIDI settings</source>
+        <translation>MIDI 설정</translation>
+    </message>
+    <message>
+        <source>Miscellaneous</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Plugin</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3461,7 +3543,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <name>LadspaControlDialog</name>
     <message>
         <source>Link Channels</source>
-        <translation type="unfinished"/>
+        <translation>채널 링크</translation>
     </message>
     <message>
         <source>Channel </source>
@@ -3536,7 +3618,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     </message>
     <message>
         <source>Oscillator phase</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 위상</translation>
     </message>
     <message>
         <source>Oscillator waveform</source>
@@ -3579,7 +3661,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     </message>
     <message>
         <source>Use this knob for setting speed of the LFO. The bigger this value the faster the LFO oscillates and the faster the effect.</source>
-        <translation type="unfinished"/>
+        <translation> 이 노브를 사용하여 LFO의 속도를 설정합니다. 값이 클수록 LFO 진동이 빨라지게 됩니다.</translation>
     </message>
     <message>
         <source>Modulation amount:</source>
@@ -3599,7 +3681,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     </message>
     <message>
         <source>degrees</source>
-        <translation type="unfinished"/>
+        <translation>도</translation>
     </message>
     <message>
         <source>With this knob you can set the phase offset of the LFO. That means you can move the point within an oscillation where the oscillator begins to oscillate. For example if you have a sine-wave and have a phase-offset of 180 degrees the wave will first go down. It&apos;s the same with a square-wave.</source>
@@ -3652,7 +3734,7 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>Initializing data structures</source>
-        <translation type="unfinished"/>
+        <translation>자료 구조 초기화 중</translation>
     </message>
     <message>
         <source>Opening audio and midi devices</source>
@@ -3803,7 +3885,7 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>LMMS %1</source>
-        <translation type="unfinished"/>
+        <translation>LMMS %1</translation>
     </message>
     <message>
         <source>Project not saved</source>
@@ -3824,7 +3906,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>LMMS (*.mmp *.mmpz)</source>
-        <translation type="unfinished"/>
+        <translation>LMMS (*.mmp *.mmpz)</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3836,7 +3918,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
-        <translation type="unfinished"/>
+        <translation>설정 파일 분석 중 오류 발생 (행 %1:%2: %3)</translation>
     </message>
     <message>
         <source>Volumes</source>
@@ -3919,14 +4001,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Ignore</source>
-        <translation>무시</translation>
-    </message>
-    <message>
-        <source>Launch LMMS as usual but with automatic backup disabled to prevent the present recover file from being overwritten.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Discard</source>
         <translation>저장하지 않음</translation>
     </message>
@@ -3964,7 +4038,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Toggle metronome</source>
-        <translation type="unfinished"/>
+        <translation>메트로놈 토글</translation>
     </message>
     <message>
         <source>Show/hide Song-Editor</source>
@@ -3999,16 +4073,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatic backup disabled. Remember to save your work!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Recovered project not saved</source>
-        <translation type="unfinished"/>
+        <translation>복구된 프로젝트가 저장되지 않음</translation>
     </message>
     <message>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
-        <translation type="unfinished"/>
+        <translation>이 프로젝트는 이전 세션으로부터 복구되었지만 아직 저장되지 않았습니다. 저장하지 않을 경우 지금까지의 작업을 잃게 될 것입니다. 지금 저장하시겠습니까?</translation>
     </message>
     <message>
         <source>LMMS Project</source>
@@ -4065,7 +4135,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>TIME SIG</source>
-        <translation type="unfinished"/>
+        <translation>박자</translation>
     </message>
 </context>
 <context>
@@ -4114,7 +4184,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <source>JACK server down</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (title)</extracomment>
-        <translation type="unfinished"/>
+        <translation>JAK 서버 종료</translation>
     </message>
     <message>
         <source>The JACK server seems to be shuted down.</source>
@@ -4180,11 +4250,11 @@ Please make sure you have write permission to the file and the directory contain
     <name>MonstroInstrument</name>
     <message>
         <source>Osc 1 Volume</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 1 볼륨</translation>
     </message>
     <message>
         <source>Osc 1 Panning</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 1 패닝</translation>
     </message>
     <message>
         <source>Osc 1 Coarse detune</source>
@@ -4204,7 +4274,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Osc 1 Pulse width</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 1 펄스 폭</translation>
     </message>
     <message>
         <source>Osc 1 Sync send on rise</source>
@@ -4216,11 +4286,11 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Osc 2 Volume</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 2 볼륨</translation>
     </message>
     <message>
         <source>Osc 2 Panning</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 2 패닝</translation>
     </message>
     <message>
         <source>Osc 2 Coarse detune</source>
@@ -4240,7 +4310,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Osc 2 Waveform</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 2 파형</translation>
     </message>
     <message>
         <source>Osc 2 Sync Hard</source>
@@ -4252,11 +4322,11 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Osc 3 Volume</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 3 볼륨</translation>
     </message>
     <message>
         <source>Osc 3 Panning</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 3 패닝</translation>
     </message>
     <message>
         <source>Osc 3 Coarse detune</source>
@@ -4272,11 +4342,11 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Osc 3 Waveform 1</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 3 파형 1</translation>
     </message>
     <message>
         <source>Osc 3 Waveform 2</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 3 파형 2</translation>
     </message>
     <message>
         <source>Osc 3 Sync Hard</source>
@@ -4288,7 +4358,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>LFO 1 Waveform</source>
-        <translation type="unfinished"/>
+        <translation>LFO 1 파형</translation>
     </message>
     <message>
         <source>LFO 1 Attack</source>
@@ -4304,7 +4374,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>LFO 2 Waveform</source>
-        <translation type="unfinished"/>
+        <translation>LFO 2 파형</translation>
     </message>
     <message>
         <source>LFO 2 Attack</source>
@@ -4596,23 +4666,23 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>화이트 노이즈</translation>
     </message>
     <message>
         <source>Digital Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>삼각파</translation>
     </message>
     <message>
         <source>Digital Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>톱니파</translation>
     </message>
     <message>
         <source>Digital Ramp wave</source>
-        <translation type="unfinished"/>
+        <translation>역톱니파</translation>
     </message>
     <message>
         <source>Digital Square wave</source>
-        <translation type="unfinished"/>
+        <translation>사각파</translation>
     </message>
     <message>
         <source>Digital Moog saw wave</source>
@@ -4681,15 +4751,15 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
     </message>
     <message>
         <source>Modulate amplitude of Osc3 with Osc2</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 2로 오실레이터 3의 진폭 변조</translation>
     </message>
     <message>
         <source>Modulate frequency of Osc3 with Osc2</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 2로 오실레이터 3의 주파수 변조</translation>
     </message>
     <message>
         <source>Modulate phase of Osc3 with Osc2</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 2로 오실레이터 3의 위상 변조</translation>
     </message>
     <message>
         <source>The CRS knob changes the tuning of oscillator 1 in semitone steps. </source>
@@ -4733,7 +4803,7 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
     </message>
     <message>
         <source>Choose waveform for oscillator 2. </source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 2에 사용할 파형을 선택하세요.</translation>
     </message>
     <message>
         <source>Choose waveform for oscillator 3&apos;s first sub-osc. Oscillator 3 can smoothly interpolate between two different waveforms. </source>
@@ -5203,7 +5273,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Osc %1 waveform</source>
-        <translation type="unfinished"/>
+        <translation>오실레이터 %1 파형</translation>
     </message>
     <message>
         <source>Osc %1 harmonic</source>
@@ -5317,14 +5387,6 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <source>Remove steps</source>
         <translation>단계 제거</translation>
-    </message>
-    <message>
-        <source>use mouse wheel to set velocity of a step</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>double-click to open in Piano Roll</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clone Steps</source>
@@ -5562,15 +5624,15 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Select mode (Shift+S)</source>
-        <translation type="unfinished"/>
+        <translation>선택 모드 (Shift+S)</translation>
     </message>
     <message>
         <source>Detune mode (Shift+T)</source>
-        <translation type="unfinished"/>
+        <translation>피치 조절 모드(Shift+T)</translation>
     </message>
     <message>
         <source>Click here and draw mode will be activated. In this mode you can add, resize and move notes. This is the default mode which is used most of the time. You can also press &apos;Shift+D&apos; on your keyboard to activate this mode. In this mode, hold %1 to temporarily go into select mode.</source>
-        <translation type="unfinished"/>
+        <translation>여기를 클릭하면 그리기 모드가 활성화됩니다. 그리기 모드에서는 음표를 추가, 이동할 수 있으며 길이를 조절할 수도 있습니다. 이 모드는 대부분의 경우에 사용되는 기본 모드입니다. &apos;Shift+D&apos; 키를 눌러 이 모드를 활성화할 수도 있습니다. 이 모드에서 %1키를 누르면 일시적으로 선택 모드로 전환됩니다.</translation>
     </message>
     <message>
         <source>Click here and erase mode will be activated. In this mode you can erase notes. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
@@ -5578,11 +5640,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Click here and select mode will be activated. In this mode you can select notes. Alternatively, you can hold %1 in draw mode to temporarily use select mode.</source>
-        <translation type="unfinished"/>
+        <translation>여기를 클릭하면 선택 모드가 활성화됩니다. 선택 모드에서는 음표를 선택할 수 있습니다. 그리기 모드에서 %1키를 누르면 일시적으로 선택 모드로 전환됩니다.</translation>
     </message>
     <message>
         <source>Click here and detune mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
-        <translation type="unfinished"/>
+        <translation>여기를 클릭하면 피치 조절 모드가 활성화됩니다. 피치 조절 모드에서 음표를 클릭하면 해당 음표의 피치 오토메이션 편집 창을 열 수 있습니다. 이 모드를 이용하여 음표 간 피치 슬라이드를 구현할 수 있습니다. &apos;Shift+T&apos; 키를 눌러 이 모드를 활성화할 수도 있습니다.</translation>
     </message>
     <message>
         <source>Cut selected notes (%1+X)</source>
@@ -5598,11 +5660,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Click here and the selected notes will be cut into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
-        <translation type="unfinished"/>
+        <translation>여기를 클릭하면 선택한 음표를 클립보드로 잘라낼 수 있습니다. 붙여넣기 버튼을 이용하여 다시 붙여넣을 수 있습니다.</translation>
     </message>
     <message>
         <source>Click here and the selected notes will be copied into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
-        <translation type="unfinished"/>
+        <translation>여기를 클릭하면 선택한 음표를 클립보드로 복사할 수 있습니다. 붙여넣기 버튼을 이용하여 다시 붙여넣을 수 있습니다.</translation>
     </message>
     <message>
         <source>Click here and the notes from the clipboard will be pasted at the first visible measure.</source>
@@ -5630,11 +5692,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>편집 동작</translation>
     </message>
     <message>
         <source>Copy paste controls</source>
-        <translation type="unfinished"/>
+        <translation>복사/붙여넣기 컨트롤</translation>
     </message>
     <message>
         <source>Timeline controls</source>
@@ -5668,20 +5730,21 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>Plugin</name>
     <message>
         <source>Plugin not found</source>
-        <translation type="unfinished"/>
+        <translation>플러그인을 찾을 수 없음</translation>
     </message>
     <message>
         <source>The plugin &quot;%1&quot; wasn't found or could not be loaded!
 Reason: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>플러그인 &quot;%1&quot;을(를) 찾을 수 없거나 읽어올 수 없습니다.
+이유: %2</translation>
     </message>
     <message>
         <source>Error while loading plugin</source>
-        <translation type="unfinished"/>
+        <translation>플러그인 로딩 오류</translation>
     </message>
     <message>
         <source>Failed to load plugin &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>플러그인 &quot;%1&quot;을(를) 로딩할 수 없습니다!</translation>
     </message>
 </context>
 <context>
@@ -5707,19 +5770,11 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>LMMS plugin %1 does not have a plugin descriptor named %2!</source>
-        <translation type="unfinished"/>
+        <translation>LMMS 플러그인 %1은(는) 이름이 %2인 플러그인 디스크립터를 가지고 있지 않습니다!</translation>
     </message>
 </context>
 <context>
     <name>ProjectNotes</name>
-    <message>
-        <source>Project notes</source>
-        <translation>프로젝트 노트</translation>
-    </message>
-    <message>
-        <source>Put down your project notes here.</source>
-        <translation>여기에 프로젝트 노트를 작성하세요.</translation>
-    </message>
     <message>
         <source>Edit Actions</source>
         <translation type="unfinished"/>
@@ -5828,6 +5883,14 @@ Reason: &quot;%2&quot;</source>
         <source>&amp;Color...</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Project Notes</source>
+        <translation>프로젝트 노트</translation>
+    </message>
+    <message>
+        <source>Enter project notes here</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ProjectRenderer</name>
@@ -5838,6 +5901,14 @@ Reason: &quot;%2&quot;</source>
     <message>
         <source>Compressed OGG-File (*.ogg)</source>
         <translation>압축 OGG 파일(*.ogg)</translation>
+    </message>
+    <message>
+        <source>FLAC-File (*.flac)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Compressed MP3-File (*.mp3)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5856,7 +5927,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Requires Real Time: </source>
-        <translation>실제 시간 필요: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yes</source>
@@ -5930,14 +6001,14 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Output Gain:</source>
-        <translation type="unfinished"/>
+        <translation>출력 이득:</translation>
     </message>
 </context>
 <context>
     <name>ReverbSCControls</name>
     <message>
         <source>Input Gain</source>
-        <translation type="unfinished"/>
+        <translation>입력 이득</translation>
     </message>
     <message>
         <source>Size</source>
@@ -5949,7 +6020,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Output Gain</source>
-        <translation type="unfinished"/>
+        <translation>출력 이득</translation>
     </message>
 </context>
 <context>
@@ -6000,18 +6071,18 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Fail to open file</source>
-        <translation type="unfinished"/>
+        <translation>파일을 열 수 없음</translation>
     </message>
     <message>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
-        <translation type="unfinished"/>
+        <translation>오디오 파일은 %1MB보다 작고 %2분보다 짧아야 합니다</translation>
     </message>
 </context>
 <context>
     <name>SampleTCOView</name>
     <message>
         <source>double-click to select sample</source>
-        <translation type="unfinished"/>
+        <translation>더블클릭하여 샘플 선택</translation>
     </message>
     <message>
         <source>Delete (middle mousebutton)</source>
@@ -6057,7 +6128,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Channel volume:</source>
-        <translation type="unfinished"/>
+        <translation>채널 볼륨:</translation>
     </message>
     <message>
         <source>VOL</source>
@@ -6100,11 +6171,11 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Enable tooltips</source>
-        <translation type="unfinished"/>
+        <translation>툴팁 활성화</translation>
     </message>
     <message>
         <source>Show restart warning after changing settings</source>
-        <translation type="unfinished"/>
+        <translation>설정을 변경했을 때 다시 시작 경고 표시</translation>
     </message>
     <message>
         <source>Compress project files per default</source>
@@ -6278,11 +6349,11 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>GIG directory</source>
-        <translation type="unfinished"/>
+        <translation>GIG 경로</translation>
     </message>
     <message>
         <source>SF2 directory</source>
-        <translation type="unfinished"/>
+        <translation>SF2 경로</translation>
     </message>
     <message>
         <source>LADSPA plugin directories</source>
@@ -6294,11 +6365,11 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Choose your GIG directory</source>
-        <translation type="unfinished"/>
+        <translation>GIG 경로 선택</translation>
     </message>
     <message>
         <source>Choose your SF2 directory</source>
-        <translation type="unfinished"/>
+        <translation>SF2 경로 선택</translation>
     </message>
     <message>
         <source>minutes</source>
@@ -6435,7 +6506,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Error in file</source>
-        <translation type="unfinished"/>
+        <translation>파일 오류</translation>
     </message>
     <message>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
@@ -6455,11 +6526,11 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>The tempo of a song is specified in beats per minute (BPM). If you want to change the tempo of your song, change this value. Every measure has four beats, so the tempo in BPM specifies, how many measures / 4 should be played within a minute (or how many measures should be played within four minutes).</source>
-        <translation type="unfinished"/>
+        <translation>곡의 템포는 분당 박자 수(BPM) 단위로 설정할 수 있습니다. 이 값을 바꾸면 곡의 템포를 바꿀 수 있습니다. 한 마디가 4박자인 일반적인 경우 BPM 단위의 템포는 분당 재생되는 1 / 4 마디의 수(4분당 재생되는 마디의 수)와 같습니다.</translation>
     </message>
     <message>
         <source>High quality mode</source>
-        <translation type="unfinished"/>
+        <translation>고음질 모드</translation>
     </message>
     <message>
         <source>Master volume</source>
@@ -6542,11 +6613,11 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Draw mode</source>
-        <translation type="unfinished"/>
+        <translation>그리기 모드</translation>
     </message>
     <message>
         <source>Edit mode (select and move)</source>
-        <translation type="unfinished"/>
+        <translation>편집 모드 (선택 및 이동)</translation>
     </message>
     <message>
         <source>Click here, if you want to play your whole song. Playing will be started at the song-position-marker (green). You can also move it while playing.</source>
@@ -6562,7 +6633,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>편집 동작</translation>
     </message>
     <message>
         <source>Timeline controls</source>
@@ -6704,27 +6775,27 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>MIN</source>
-        <translation type="unfinished"/>
+        <translation>분</translation>
     </message>
     <message>
         <source>SEC</source>
-        <translation type="unfinished"/>
+        <translation>초</translation>
     </message>
     <message>
         <source>MSEC</source>
-        <translation type="unfinished"/>
+        <translation>밀리초</translation>
     </message>
     <message>
         <source>BAR</source>
-        <translation type="unfinished"/>
+        <translation>마디</translation>
     </message>
     <message>
         <source>BEAT</source>
-        <translation type="unfinished"/>
+        <translation>박</translation>
     </message>
     <message>
         <source>TICK</source>
-        <translation type="unfinished"/>
+        <translation>틱</translation>
     </message>
 </context>
 <context>
@@ -6809,6 +6880,10 @@ Please make sure you have read-permission to the file and the directory containi
         <source>Importing MIDI-file...</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Loading Track %1 (%2/Total %3)</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>TrackContentObject</name>
@@ -6829,7 +6904,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;%1&gt; 키를 누른 채 드래그하여 복사합니다.</translation>
     </message>
     <message>
         <source>Current length</source>
@@ -6837,11 +6912,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Press &lt;%1&gt; for free resizing.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;%1&gt; 키를 눌러 크기를 자유롭게 조절할 수 있습니다.</translation>
     </message>
     <message>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2 (%3:%4부터 %5:%6까지) </translation>
     </message>
     <message>
         <source>Delete (middle mousebutton)</source>
@@ -6896,7 +6971,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Clear this track</source>
-        <translation type="unfinished"/>
+        <translation>트랙 초기화</translation>
     </message>
     <message>
         <source>FX %1: %2</source>
@@ -6983,7 +7058,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>With this knob you can set the coarse detuning of oscillator %1. You can detune the oscillator 24 semitones (2 octaves) up and down. This is useful for creating sounds with a chord.</source>
-        <translation type="unfinished"/>
+        <translation>이 노브를 사용하여 오실레이터 %1의 피치를 조절할 수 있습니다. 24반음(두 옥타브) 범위 내에서 조절이 가능합니다. 이 기능은 화음을 가지는 소리를 합성할 때 유용하게 사용될 수 있습니다.</translation>
     </message>
     <message>
         <source>Osc %1 fine detuning left:</source>
@@ -6995,7 +7070,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>With this knob you can set the fine detuning of oscillator %1 for the left channel. The fine-detuning is ranged between -100 cents and +100 cents. This is useful for creating &quot;fat&quot; sounds.</source>
-        <translation type="unfinished"/>
+        <translation>이 노브를 사용하여 오실레이터 %1의 왼쪽 채널 음정을 미세 조절할 수 있습니다. -100센트부터 +100센트까지의 범위 내에서 조절이 가능합니다. 이 기능은 풍성한 소리를 합성할 때 유용하게 사용될 수 있습니다.</translation>
     </message>
     <message>
         <source>Osc %1 fine detuning right:</source>
@@ -7003,7 +7078,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>With this knob you can set the fine detuning of oscillator %1 for the right channel. The fine-detuning is ranged between -100 cents and +100 cents. This is useful for creating &quot;fat&quot; sounds.</source>
-        <translation type="unfinished"/>
+        <translation>이 노브를 사용하여 오실레이터 %1의 오른쪽 채널 음정을 미세 조절할 수 있습니다. -100센트부터 +100센트까지의 범위 내에서 조절이 가능합니다. 이 기능은 풍성한 소리를 합성할 때 유용하게 사용될 수 있습니다.</translation>
     </message>
     <message>
         <source>Osc %1 phase-offset:</source>
@@ -7011,7 +7086,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>degrees</source>
-        <translation type="unfinished"/>
+        <translation>도</translation>
     </message>
     <message>
         <source>With this knob you can set the phase-offset of oscillator %1. That means you can move the point within an oscillation where the oscillator begins to oscillate. For example if you have a sine-wave and have a phase-offset of 180 degrees the wave will first go down. It&apos;s the same with a square-wave.</source>
@@ -7062,22 +7137,22 @@ Please make sure you have read-permission to the file and the directory containi
     <name>VersionedSaveDialog</name>
     <message>
         <source>Increment version number</source>
-        <translation type="unfinished"/>
+        <translation>버전 증가</translation>
     </message>
     <message>
         <source>Decrement version number</source>
-        <translation type="unfinished"/>
+        <translation>버전 감소</translation>
     </message>
     <message>
         <source> already exists. Do you want to replace it?</source>
-        <translation type="unfinished"/>
+        <translation>파일이 이미 존재합니다. 덮어쓰시겠습니까?</translation>
     </message>
 </context>
 <context>
     <name>VestigeInstrumentView</name>
     <message>
         <source>Open other VST-plugin</source>
-        <translation type="unfinished"/>
+        <translation>다른 VST 플러그인 열기</translation>
     </message>
     <message>
         <source>Click here, if you want to open another VST-plugin. After clicking on this button, a file-open-dialog appears and you can select your file.</source>
@@ -7085,7 +7160,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Show/hide GUI</source>
-        <translation type="unfinished"/>
+        <translation>GUI 보이기/숨기기</translation>
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of your VST-plugin.</source>
@@ -7093,31 +7168,31 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Turn off all notes</source>
-        <translation type="unfinished"/>
+        <translation>모든 음 끄기</translation>
     </message>
     <message>
         <source>Open VST-plugin</source>
-        <translation type="unfinished"/>
+        <translation>VST 플러그인 열기</translation>
     </message>
     <message>
         <source>DLL-files (*.dll)</source>
-        <translation type="unfinished"/>
+        <translation>DLL 파일 (*.dll)</translation>
     </message>
     <message>
         <source>EXE-files (*.exe)</source>
-        <translation type="unfinished"/>
+        <translation>EXE 파일 (*.exe)</translation>
     </message>
     <message>
         <source>No VST-plugin loaded</source>
-        <translation type="unfinished"/>
+        <translation>VST 플러그인이 로딩되지 않음</translation>
     </message>
     <message>
         <source>Control VST-plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>LMMS에서 VST 플러그인 제어</translation>
     </message>
     <message>
         <source>Click here, if you want to control VST-plugin from host.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS에서 VST 플러그인을 제어하려면 여기를 클릭하세요.</translation>
     </message>
     <message>
         <source>Open VST-plugin preset</source>
@@ -7153,7 +7228,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"/>
+        <translation>프리셋</translation>
     </message>
     <message>
         <source>by </source>
@@ -7183,11 +7258,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Control VST-plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>LMMS에서 VST 플러그인 제어</translation>
     </message>
     <message>
         <source>Click here, if you want to control VST-plugin from host.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS에서 VST 플러그인을 제어하려면 여기를 클릭하세요.</translation>
     </message>
     <message>
         <source>Open VST-plugin preset</source>
@@ -7227,7 +7302,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</translation>
     </message>
 </context>
 <context>
@@ -7242,7 +7317,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Vst Plugin Preset (*.fxp *.fxb)</source>
-        <translation type="unfinished"/>
+        <translation>VST 플러그인 프리셋 (*.fxp *.fxb)</translation>
     </message>
     <message>
         <source>: default</source>
@@ -7262,19 +7337,19 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>.fxp</source>
-        <translation type="unfinished"/>
+        <translation>.fxp</translation>
     </message>
     <message>
         <source>.FXP</source>
-        <translation type="unfinished"/>
+        <translation>.FXP</translation>
     </message>
     <message>
         <source>.FXB</source>
-        <translation type="unfinished"/>
+        <translation>.FXB</translation>
     </message>
     <message>
         <source>.fxb</source>
-        <translation type="unfinished"/>
+        <translation>.fxb</translation>
     </message>
     <message>
         <source>Please wait while loading VST plugin...</source>
@@ -7289,35 +7364,35 @@ Please make sure you have read-permission to the file and the directory containi
     <name>WatsynInstrument</name>
     <message>
         <source>Volume A1</source>
-        <translation type="unfinished"/>
+        <translation>A1 볼륨</translation>
     </message>
     <message>
         <source>Volume A2</source>
-        <translation type="unfinished"/>
+        <translation>A2 볼륨</translation>
     </message>
     <message>
         <source>Volume B1</source>
-        <translation type="unfinished"/>
+        <translation>B1 볼륨</translation>
     </message>
     <message>
         <source>Volume B2</source>
-        <translation type="unfinished"/>
+        <translation>B2 볼륨</translation>
     </message>
     <message>
         <source>Panning A1</source>
-        <translation type="unfinished"/>
+        <translation>A1 패닝</translation>
     </message>
     <message>
         <source>Panning A2</source>
-        <translation type="unfinished"/>
+        <translation>A2 패닝</translation>
     </message>
     <message>
         <source>Panning B1</source>
-        <translation type="unfinished"/>
+        <translation>B1 패닝</translation>
     </message>
     <message>
         <source>Panning B2</source>
-        <translation type="unfinished"/>
+        <translation>B2 패닝</translation>
     </message>
     <message>
         <source>Freq. multiplier A1</source>
@@ -7456,11 +7531,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation>드래그하여 원하는 파형 그리기</translation>
+        <translation>드래그하여 원하는 파형을 그리세요.</translation>
     </message>
     <message>
         <source>Load waveform</source>
-        <translation type="unfinished"/>
+        <translation>파형 불러오기</translation>
     </message>
     <message>
         <source>Click to load a waveform from a sample file</source>
@@ -7504,7 +7579,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click to smooth</source>
-        <translation type="unfinished"/>
+        <translation>클릭하여 파형을 부드럽게</translation>
     </message>
     <message>
         <source>Sine wave</source>
@@ -7662,11 +7737,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>FM Gain:</source>
-        <translation type="unfinished"/>
+        <translation>FM 이득:</translation>
     </message>
     <message>
         <source>FM GAIN</source>
-        <translation type="unfinished"/>
+        <translation>FM 이득</translation>
     </message>
     <message>
         <source>Resonance center frequency:</source>
@@ -7729,7 +7804,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"/>
+        <translation>선형</translation>
     </message>
     <message>
         <source>Sinc</source>
@@ -7795,7 +7870,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation>드래그하여 원하는파 그리기</translation>
+        <translation>드래그하여 원하는 파형을 그리세요.</translation>
     </message>
     <message>
         <source>Click for a sine-wave.</source>
@@ -7937,6 +8012,133 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
 </context>
 <context>
+    <name>expressiveView</name>
+    <message>
+        <source>Select oscillator W1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select oscillator W2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select oscillator W3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select OUTPUT 1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select OUTPUT 2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open help window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sine wave</source>
+        <translation>사인파</translation>
+    </message>
+    <message>
+        <source>Click for a sine-wave.</source>
+        <translation>클릭하여 사인파를 선택합니다.</translation>
+    </message>
+    <message>
+        <source>Moog-Saw wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click for a Moog-Saw-wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exponential wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click for an exponential wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Saw wave</source>
+        <translation>톱니파</translation>
+    </message>
+    <message>
+        <source>Click here for a saw-wave.</source>
+        <translation>클릭하여 톱니파를 선택합니다.</translation>
+    </message>
+    <message>
+        <source>User defined wave</source>
+        <translation>사용자 정의 파형</translation>
+    </message>
+    <message>
+        <source>Click here for a user-defined shape.</source>
+        <translation>클릭하여 사용자 지정 파형을 선택합니다.</translation>
+    </message>
+    <message>
+        <source>Triangle wave</source>
+        <translation>삼각파</translation>
+    </message>
+    <message>
+        <source>Click here for a triangle-wave.</source>
+        <translation>클릭하여 삼각파를 선택합니다.</translation>
+    </message>
+    <message>
+        <source>Square wave</source>
+        <translation>사각파</translation>
+    </message>
+    <message>
+        <source>Click here for a square-wave.</source>
+        <translation>클릭하여 사각파를 선택합니다.</translation>
+    </message>
+    <message>
+        <source>White noise wave</source>
+        <translation>화이트 노이즈</translation>
+    </message>
+    <message>
+        <source>Click here for white-noise.</source>
+        <translation>클릭하여 화이트 노이즈를 선택합니다.</translation>
+    </message>
+    <message>
+        <source>WaveInterpolate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ExpressionValid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 1:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 2:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 3:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>O1 panning:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>O2 panning:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Release transition:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Smoothness</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>fxLineLcdSpinBox</name>
     <message>
         <source>Assign to:</source>
@@ -7974,11 +8176,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Distortion Start</source>
-        <translation type="unfinished"/>
+        <translation>디스토션 시작 값</translation>
     </message>
     <message>
         <source>Distortion End</source>
-        <translation type="unfinished"/>
+        <translation>디스토션 끝 값</translation>
     </message>
     <message>
         <source>Envelope Slope</source>
@@ -8025,7 +8227,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Envelope Length:</source>
-        <translation type="unfinished"/>
+        <translation>엔벨로프 길이:</translation>
     </message>
     <message>
         <source>Envelope Slope:</source>
@@ -8375,11 +8577,11 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>LFO Depth</source>
-        <translation type="unfinished"/>
+        <translation>LFO 깊이</translation>
     </message>
     <message>
         <source>ADSR</source>
-        <translation type="unfinished"/>
+        <translation>ADSR</translation>
     </message>
     <message>
         <source>Pressure</source>
@@ -8407,11 +8609,11 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Vibraphone</source>
-        <translation type="unfinished"/>
+        <translation>비브라폰</translation>
     </message>
     <message>
         <source>Agogo</source>
-        <translation type="unfinished"/>
+        <translation>아고고</translation>
     </message>
     <message>
         <source>Wood1</source>
@@ -8538,7 +8740,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>LFO Depth</source>
-        <translation type="unfinished"/>
+        <translation>LFO 깊이</translation>
     </message>
     <message>
         <source>LFO Depth:</source>
@@ -8546,7 +8748,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>ADSR</source>
-        <translation type="unfinished"/>
+        <translation>ADSR</translation>
     </message>
     <message>
         <source>ADSR:</source>
@@ -8574,7 +8776,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Your Stk-installation seems to be incomplete. Please make sure the full Stk-package is installed!</source>
-        <translation type="unfinished"/>
+        <translation>Stk 설치가 불완전한 것 같습니다. 완전한 Stk 패키지가 설치되었는지 확인하시기 바랍니다!</translation>
     </message>
 </context>
 <context>
@@ -9201,7 +9403,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Player for SoundFont files</source>
-        <translation>소리 글꼴 파일을 위한 재생기</translation>
+        <translation>사운드폰트 파일 플레이어</translation>
     </message>
     <message>
         <source>Emulation of GameBoy (TM) APU</source>
@@ -9305,7 +9507,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>A native eq plugin</source>
-        <translation type="unfinished"/>
+        <translation>내장 EQ 플러그인</translation>
     </message>
     <message>
         <source>A 4-band Crossover Equalizer</source>
@@ -9321,6 +9523,10 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Reverb algorithm by Sean Costello</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mathematical expression parser</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -9477,7 +9683,7 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Filter type</source>
-        <translation>필터 형태</translation>
+        <translation>필터 종류</translation>
     </message>
     <message>
         <source>Voice 3 off</source>

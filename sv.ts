@@ -137,7 +137,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>If you enable this button, the whole sample is reversed. This is useful for cool effects, e.g. a reversed crash.</source>
-        <translation>Den här knappen gör att ljudfilen spelas baklänges. Den kan användas för intressanta effeker t.ex. en baklänges cymbal.</translation>
+        <translation>Den här knappen gör att ljudfilen spelas baklänges. Den kan användas för intressanta effekter t.ex. en baklänges cymbal.</translation>
     </message>
     <message>
         <source>Amplify:</source>
@@ -157,11 +157,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Continue sample playback across notes</source>
-        <translation>Forsätt spela ljudfil över noter</translation>
+        <translation>Fortsätt spela ljudfil över noter</translation>
     </message>
     <message>
         <source>Enabling this option makes the sample continue playing across different notes - if you change pitch, or the note length stops before the end of the sample, then the next note played will continue where it left off. To reset the playback to the start of the sample, insert a note at the bottom of the keyboard (&lt; 20 Hz)</source>
-        <translation>Denna inställningen gör att ljudfilen förtsätter spela över noter. Om en not avslutas före ljudfilen är slut fortsätter nästa not där den förra slutade. Om du vill starta från början av ljudfilen innan den spelat färdigt, placera en not på botten av pianot (vid 20Hz)</translation>
+        <translation>Denna inställningen gör att ljudfilen fortsätter spela över noter. Om en not avslutas före ljudfilen är slut fortsätter nästa not där den förra slutade. Om du vill starta från början av ljudfilen innan den spelat färdigt, placera en not på botten av pianot (vid 20Hz)</translation>
     </message>
     <message>
         <source>Disable loop</source>
@@ -181,7 +181,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>This button enables ping-pong-looping. The sample loops backwards and forwards between the end point and the loop point.</source>
-        <translation>Den här knappen aktiverar &quot;ping-pong&quot; looping. Ljudfilen spelar från start till slut, och sen tilbaks, och fortsäter så.</translation>
+        <translation>Den här knappen aktiverar &quot;ping-pong&quot; looping. Ljudfilen spelar från start till slut, och sen tillbaka, och fortsätter så.</translation>
     </message>
     <message>
         <source>With this knob you can set the point where AudioFileProcessor should begin playing your sample. </source>
@@ -347,7 +347,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AutomationEditor</name>
     <message>
         <source>Please open an automation pattern with the context menu of a control!</source>
-        <translation>Öppna ett automationsmönster ifrån en kontrollers kontextmeny!</translation>
+        <translation>Öppna ett automationsmönster från en kontrollers kontextmeny!</translation>
     </message>
     <message>
         <source>Values copied</source>
@@ -402,11 +402,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Click here and draw-mode will be activated. In this mode you can add and move single values.  This is the default mode which is used most of the time.  You can also press &apos;Shift+D&apos; on your keyboard to activate this mode.</source>
-        <translation>Klicka här för att aktivera ritläget. I detta läget kan du lägga till och förflytta individuella värden. Det här är standardläget. Det går också att trycka &apos;Shift+D&apos; på tangentborded för att aktivera detta läget.</translation>
+        <translation>Klicka här för att aktivera ritläget. I detta läget kan du lägga till och förflytta individuella värden. Det här är standardläget. Det går också att trycka &apos;Shift+D&apos; på tangentbordet för att aktivera detta läget.</translation>
     </message>
     <message>
         <source>Click here and erase-mode will be activated. In this mode you can erase single values. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
-        <translation>Klicka här för att aktivera suddläget. I detta läget kan du ta bort individuella värden. Det går också att trycka &apos;Shift+E&apos; på tangentborded för att aktivera detta läget.</translation>
+        <translation>Klicka här för att aktivera suddläget. I detta läget kan du ta bort individuella värden. Det går också att trycka &apos;Shift+E&apos; på tangentbordet för att aktivera detta läget.</translation>
     </message>
     <message>
         <source>Discrete progression</source>
@@ -518,10 +518,6 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 </context>
 <context>
     <name>AutomationPatternView</name>
-    <message>
-        <source>double-click to open this pattern in automation editor</source>
-        <translation>dubbelklicka för att öppna det här automationsmönstret för redigering</translation>
-    </message>
     <message>
         <source>Open in Automation editor</source>
         <translation>Redigera automationsmönster</translation>
@@ -720,10 +716,6 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>Input Förstärkning:</translation>
     </message>
     <message>
-        <source>NOIS</source>
-        <translation>NOIS</translation>
-    </message>
-    <message>
         <source>Input Noise:</source>
         <translation type="unfinished"/>
     </message>
@@ -740,20 +732,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Rate</source>
-        <translation>Värdera</translation>
-    </message>
-    <message>
         <source>Rate Enabled</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable samplerate-crushing</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Depth</source>
-        <translation>Djup</translation>
     </message>
     <message>
         <source>Depth Enabled</source>
@@ -768,20 +752,28 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>STD</source>
-        <translation>STD</translation>
-    </message>
-    <message>
         <source>Stereo difference:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Levels</source>
-        <translation>Nivåer</translation>
-    </message>
-    <message>
         <source>Levels:</source>
         <translation>Nivåer:</translation>
+    </message>
+    <message>
+        <source>NOISE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FREQ</source>
+        <translation>FREKV.</translation>
+    </message>
+    <message>
+        <source>STEREO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>QUANT</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2065,6 +2057,81 @@ Please make sure you have write permission to the file and the directory contain
         <source>Use variable bitrate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Stereo mode:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stereo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Joint Stereo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mono</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Compression level:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(fastest)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(smallest)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Expressive</name>
+    <message>
+        <source>Selected graph</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W1 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W2 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W3 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PAN1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PAN2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>REL TRANS</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>Fader</name>
@@ -2077,6 +2144,14 @@ Please make sure you have write permission to the file and the directory contain
     <name>FileBrowser</name>
     <message>
         <source>Browser</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Refresh list</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2169,10 +2244,6 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Rate:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>AMNT</source>
         <translation type="unfinished"/>
     </message>
@@ -2191,6 +2262,10 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <source>Invert</source>
         <translation>Invertera</translation>
+    </message>
+    <message>
+        <source>Period:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3369,20 +3444,8 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation>FX-kanal</translation>
     </message>
     <message>
-        <source>ENV/LFO</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>FUNC</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>FX</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MIDI</source>
-        <translation>MIDI</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -3391,10 +3454,6 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <source>XML preset file (*.xpf)</source>
         <translation>XML förinställnings-fil (*.xpf)</translation>
-    </message>
-    <message>
-        <source>PLUGIN</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pitch range (semitones)</source>
@@ -3413,16 +3472,36 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>MISC</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Use these controls to view and edit the next/previous track in the song editor.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>SAVE</source>
         <translation>SPARA</translation>
+    </message>
+    <message>
+        <source>Envelope, filter &amp; LFO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chord stacking &amp; arpeggio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MIDI settings</source>
+        <translation>MIDI-inställningar</translation>
+    </message>
+    <message>
+        <source>Miscellaneous</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Plugin</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3609,11 +3688,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Click here for a saw-wave.</source>
-        <translation>Klicka här för sågtandvåg</translation>
+        <translation>Klicka här för sågtandvåg.</translation>
     </message>
     <message>
         <source>Click here for a square-wave.</source>
-        <translation>Klicka här för fyrkantvåg</translation>
+        <translation>Klicka här för fyrkantvåg.</translation>
     </message>
     <message>
         <source>Click here for an exponential wave.</source>
@@ -3672,7 +3751,7 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation>Spara &amp;som...</translation>
+        <translation>Spara &amp;Som...</translation>
     </message>
     <message>
         <source>Import...</source>
@@ -3850,11 +3929,11 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     </message>
     <message>
         <source>My Samples</source>
-        <translation type="unfinished"/>
+        <translation>Mina samplingar</translation>
     </message>
     <message>
         <source>My Presets</source>
-        <translation type="unfinished"/>
+        <translation>Mina förinställningar</translation>
     </message>
     <message>
         <source>My Home</source>
@@ -3911,14 +3990,6 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Återställ filen. Se till att du bara har en instans av LMMS igång när du gör detta.</translation>
-    </message>
-    <message>
-        <source>Ignore</source>
-        <translation>Ignorera</translation>
-    </message>
-    <message>
-        <source>Launch LMMS as usual but with automatic backup disabled to prevent the present recover file from being overwritten.</source>
-        <translation>Starta LMMS som vanligt men med automatisk backup avstängt för att förhindra att den nuvarande återställningsfilen blir överskriven.</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -3991,10 +4062,6 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <source>Recover session. Please save your work!</source>
         <translation>Återställnings-session. Spara ditt arbete!</translation>
-    </message>
-    <message>
-        <source>Automatic backup disabled. Remember to save your work!</source>
-        <translation>Automatisk backup avstängd. Kom ihåg att spara ditt arbete!</translation>
     </message>
     <message>
         <source>Recovered project not saved</source>
@@ -5312,16 +5379,8 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
         <translation>Ta bort steg</translation>
     </message>
     <message>
-        <source>use mouse wheel to set velocity of a step</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>double-click to open in Piano Roll</source>
-        <translation>Dubbelklicka för att öppna i Pianorulle</translation>
-    </message>
-    <message>
         <source>Clone Steps</source>
-        <translation>Klona steg</translation>
+        <translation>Klona Steg</translation>
     </message>
 </context>
 <context>
@@ -5707,14 +5766,6 @@ Orsak: &quot;%2&quot;</translation>
 <context>
     <name>ProjectNotes</name>
     <message>
-        <source>Project notes</source>
-        <translation>Projektanteckningar</translation>
-    </message>
-    <message>
-        <source>Put down your project notes here.</source>
-        <translation>Skriv ner dina anteckningar för projektet här.</translation>
-    </message>
-    <message>
         <source>Edit Actions</source>
         <translation>Redigera Händelser</translation>
     </message>
@@ -5822,6 +5873,14 @@ Orsak: &quot;%2&quot;</translation>
         <source>&amp;Color...</source>
         <translation>&amp;Färg...</translation>
     </message>
+    <message>
+        <source>Project Notes</source>
+        <translation>Projektanteckningar</translation>
+    </message>
+    <message>
+        <source>Enter project notes here</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ProjectRenderer</name>
@@ -5832,6 +5891,14 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <source>Compressed OGG-File (*.ogg)</source>
         <translation>Komprimerad OGG-Fil (*.ogg)</translation>
+    </message>
+    <message>
+        <source>FLAC-File (*.flac)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Compressed MP3-File (*.mp3)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5974,8 +6041,7 @@ Orsak: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>VOC-Files (*.voc)</source>
-        <translation>VOC-Filer
- (*.voc)</translation>
+        <translation>VOC-Filer (*.voc)</translation>
     </message>
     <message>
         <source>AIFF-Files (*.aif *.aiff)</source>
@@ -6415,7 +6481,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     <name>SongEditor</name>
     <message>
         <source>Could not open file</source>
-        <translation>kunde inte öppna fil</translation>
+        <translation>Kunde inte öppna fil</translation>
     </message>
     <message>
         <source>Could not write file</source>
@@ -6776,7 +6842,7 @@ Remember to also save your project manually. You can choose to disable saving wh
         <source>Couldn't find a filter for importing file %1.
 You should convert this file into a format supported by LMMS using another software.</source>
         <translation>Kunde inte hitta ett filter för att importera filen %1.
-Du bör konvertera filen till ett format som stöd av LMMS genom att använda ett annat program.</translation>
+Du bör konvertera filen till ett format som stöds av LMMS genom att använda ett annat program.</translation>
     </message>
     <message>
         <source>Couldn&apos;t open file</source>
@@ -6803,6 +6869,10 @@ Se till att du har läsrättigheter för filen och katalogen som innehåller fil
     <message>
         <source>Importing MIDI-file...</source>
         <translation>Importerar MIDI-fil...</translation>
+    </message>
+    <message>
+        <source>Loading Track %1 (%2/Total %3)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7519,7 +7589,7 @@ Se till att du har läsrättigheter för filen och katalogen som innehåller fil
     </message>
     <message>
         <source>Click for saw wave</source>
-        <translation>Klicka för sågtandvåg</translation>
+        <translation>Klicka för sågtandsvåg</translation>
     </message>
     <message>
         <source>Square wave</source>
@@ -7802,7 +7872,7 @@ Se till att du har läsrättigheter för filen och katalogen som innehåller fil
     </message>
     <message>
         <source>Click here for a saw-wave.</source>
-        <translation>Klicka här för sågtandvåg</translation>
+        <translation>Klicka här för sågtandsvåg</translation>
     </message>
     <message>
         <source>Click here for a square-wave.</source>
@@ -7929,6 +7999,133 @@ Se till att du har läsrättigheter för filen och katalogen som innehåller fil
     <message>
         <source>Stereo mode</source>
         <translation>Stereo-läge</translation>
+    </message>
+</context>
+<context>
+    <name>expressiveView</name>
+    <message>
+        <source>Select oscillator W1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select oscillator W2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select oscillator W3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select OUTPUT 1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select OUTPUT 2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open help window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sine wave</source>
+        <translation>Sinusvåg</translation>
+    </message>
+    <message>
+        <source>Click for a sine-wave.</source>
+        <translation>Klicka för sinusvåg</translation>
+    </message>
+    <message>
+        <source>Moog-Saw wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click for a Moog-Saw-wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exponential wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click for an exponential wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Saw wave</source>
+        <translation>Sågtandsvåg</translation>
+    </message>
+    <message>
+        <source>Click here for a saw-wave.</source>
+        <translation>Klicka här för sågtandsvåg</translation>
+    </message>
+    <message>
+        <source>User defined wave</source>
+        <translation>Användardefinierad vågform</translation>
+    </message>
+    <message>
+        <source>Click here for a user-defined shape.</source>
+        <translation>Klicka här för en användardefinierad kurva.</translation>
+    </message>
+    <message>
+        <source>Triangle wave</source>
+        <translation>Triangelvåg</translation>
+    </message>
+    <message>
+        <source>Click here for a triangle-wave.</source>
+        <translation>Klicka här för triangelvåg.</translation>
+    </message>
+    <message>
+        <source>Square wave</source>
+        <translation>Fyrkantvåg</translation>
+    </message>
+    <message>
+        <source>Click here for a square-wave.</source>
+        <translation>Klicka här för fyrkantvåg.</translation>
+    </message>
+    <message>
+        <source>White noise wave</source>
+        <translation>Vitt brus-våg</translation>
+    </message>
+    <message>
+        <source>Click here for white-noise.</source>
+        <translation>Klicka här för vitt brus.</translation>
+    </message>
+    <message>
+        <source>WaveInterpolate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ExpressionValid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 1:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 2:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 3:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>O1 panning:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>O2 panning:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Release transition:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Smoothness</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8247,7 +8444,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Click here for a saw-wave.</source>
-        <translation>Klicka här för sågtandvåg</translation>
+        <translation>Klicka här för sågtandsvåg</translation>
     </message>
     <message>
         <source>Triangle wave</source>
@@ -9316,6 +9513,10 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Reverb algorithm by Sean Costello</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mathematical expression parser</source>
         <translation type="unfinished"/>
     </message>
 </context>

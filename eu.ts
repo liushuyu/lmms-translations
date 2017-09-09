@@ -29,7 +29,9 @@
         <source>Current language not translated (or native English).
 
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation type="unfinished"/>
+        <translation>Uneko hizkuntza ez dago itzulita (edo jatorrizko ingelesa da).
+
+LMMS beste hizkuntza batera itzultzeko interesa baduzu edo lehendik dauden itzulpenak hobetu nahi badituzu, ongi etorri guri laguntzera! Jarri harremanetan itzulpenaren arduradunarekin!</translation>
     </message>
     <message>
         <source>License</source>
@@ -60,35 +62,35 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AmplifierControlDialog</name>
     <message>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>BOL</translation>
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Bolumena:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panoramika:</translation>
     </message>
     <message>
         <source>LEFT</source>
-        <translation type="unfinished"/>
+        <translation>EZKERRA</translation>
     </message>
     <message>
         <source>Left gain:</source>
-        <translation type="unfinished"/>
+        <translation>Ezkerreko irabazia:</translation>
     </message>
     <message>
         <source>RIGHT</source>
-        <translation type="unfinished"/>
+        <translation>ESKUINA</translation>
     </message>
     <message>
         <source>Right gain:</source>
-        <translation type="unfinished"/>
+        <translation>Eskuineko irabazia:</translation>
     </message>
 </context>
 <context>
@@ -99,26 +101,26 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panoramika</translation>
     </message>
     <message>
         <source>Left gain</source>
-        <translation type="unfinished"/>
+        <translation>Ezkerreko irabazia</translation>
     </message>
     <message>
         <source>Right gain</source>
-        <translation type="unfinished"/>
+        <translation>Eskuineko irabazia</translation>
     </message>
 </context>
 <context>
     <name>AudioAlsaSetupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>GAILUA</translation>
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation type="unfinished"/>
+        <translation>KANALAK</translation>
     </message>
 </context>
 <context>
@@ -193,11 +195,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Loopback point:</source>
-        <translation type="unfinished"/>
+        <translation>Atzera-begiztaren puntua:</translation>
     </message>
     <message>
         <source>With this knob you can set the point where the loop starts. </source>
-        <translation type="unfinished"/>
+        <translation>Botoi honen bidez, begizta hasiko den puntua ezar dezakezu.</translation>
     </message>
 </context>
 <context>
@@ -219,7 +221,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>JACK server down</source>
-        <translation type="unfinished"/>
+        <translation>JACK zerbitzaria erorita</translation>
     </message>
     <message>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
@@ -231,18 +233,18 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation type="unfinished"/>
+        <translation>KANALAK</translation>
     </message>
 </context>
 <context>
     <name>AudioOss::setupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>GAILUA</translation>
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation type="unfinished"/>
+        <translation>KANALAK</translation>
     </message>
 </context>
 <context>
@@ -253,36 +255,36 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>GAILUA</translation>
     </message>
 </context>
 <context>
     <name>AudioPulseAudio::setupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>GAILUA</translation>
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation type="unfinished"/>
+        <translation>KANALAK</translation>
     </message>
 </context>
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>GAILUA</translation>
     </message>
 </context>
 <context>
     <name>AudioSndio::setupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>GAILUA</translation>
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation type="unfinished"/>
+        <translation>KANALAK</translation>
     </message>
 </context>
 <context>
@@ -293,22 +295,22 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>GAILUA</translation>
     </message>
 </context>
 <context>
     <name>AutomatableModel</name>
     <message>
         <source>&amp;Reset (%1%2)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Berrezarr (%1%2)</translation>
     </message>
     <message>
         <source>&amp;Copy value (%1%2)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kopiatu balioa (%1%2)</translation>
     </message>
     <message>
         <source>&amp;Paste value (%1%2)</source>
-        <translation type="unfinished"/>
+        <translation>I&amp;tsatsi balioa (%1%2)</translation>
     </message>
     <message>
         <source>Edit song-global automation</source>
@@ -320,7 +322,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Connected to controller</source>
-        <translation type="unfinished"/>
+        <translation>Kontrolagailuarekin konektatua</translation>
     </message>
     <message>
         <source>Edit connection...</source>
@@ -378,11 +380,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Draw mode (Shift+D)</source>
-        <translation type="unfinished"/>
+        <translation>Marrazte modua (Shift+D)</translation>
     </message>
     <message>
         <source>Erase mode (Shift+E)</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatze modua (Shift+E)</translation>
     </message>
     <message>
         <source>Flip vertically</source>
@@ -394,15 +396,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>
-        <translation type="unfinished"/>
+        <translation>Sakatu hemen eta eredua alderantzikatu egingo da. Puntuak irauli egingo dira Y norabidean.</translation>
     </message>
     <message>
         <source>Click here and the pattern will be reversed. The points are flipped in the x direction.</source>
-        <translation type="unfinished"/>
+        <translation>Sakatu hemen eta eredua alderantzikatu egingo da. Puntuak irauli egingo dira X norabidean.</translation>
     </message>
     <message>
         <source>Click here and draw-mode will be activated. In this mode you can add and move single values.  This is the default mode which is used most of the time.  You can also press &apos;Shift+D&apos; on your keyboard to activate this mode.</source>
-        <translation type="unfinished"/>
+        <translation>Sakatu hemen eta marrazte modua aktibatuko da. Modu horretan, balio bakanak gehitu eta mugitu ditzakezu. Modu lehenetsia, denborarik gehienean erabiltzen dena. Modu hori aktibatzeko beste era bat, teklatuan &apos;Shift+D&apos; sakatzea da.</translation>
     </message>
     <message>
         <source>Click here and erase-mode will be activated. In this mode you can erase single values. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
@@ -466,15 +468,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Tension: </source>
-        <translation type="unfinished"/>
+        <translation>Tentsioa:</translation>
     </message>
     <message>
         <source>Automation Editor - no pattern</source>
-        <translation type="unfinished"/>
+        <translation>Automatizazio-editorea - patroirik ez</translation>
     </message>
     <message>
         <source>Automation Editor - %1</source>
-        <translation type="unfinished"/>
+        <translation>Automatizazio-editorea - %1</translation>
     </message>
     <message>
         <source>Edit actions</source>
@@ -494,15 +496,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Quantization controls</source>
-        <translation type="unfinished"/>
+        <translation>Kuantifikazio-kontrolak</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Eredua dagoeneko konektatuta dago patroi honekin</translation>
     </message>
     <message>
         <source>Quantization</source>
-        <translation type="unfinished"/>
+        <translation>Kuantifikazioa</translation>
     </message>
     <message>
         <source>Quantization. Sets the smallest step size for the Automation Point. By default this also sets the length, clearing out other points in the range. Press &lt;Ctrl&gt; to override this behaviour.</source>
@@ -513,18 +515,14 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AutomationPattern</name>
     <message>
         <source>Drag a control while pressing &lt;%1&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Arrastatu kontrol bat &lt;%1&gt; sakatzen ari zaren bitartean</translation>
     </message>
 </context>
 <context>
     <name>AutomationPatternView</name>
     <message>
-        <source>double-click to open this pattern in automation editor</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Open in Automation editor</source>
-        <translation type="unfinished"/>
+        <translation>Ireki automatizazio-editorean</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -548,26 +546,26 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Set/clear record</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri/garbitu grabazioa</translation>
     </message>
     <message>
         <source>Flip Vertically (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>Irauli bertikalean (ikusgai)</translation>
     </message>
     <message>
         <source>Flip Horizontally (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>Irauli horizontalean (ikusgai)</translation>
     </message>
     <message>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Eredua dagoeneko konektatuta dago patroi honekin</translation>
     </message>
 </context>
 <context>
     <name>AutomationTrack</name>
     <message>
         <source>Automation track</source>
-        <translation type="unfinished"/>
+        <translation>Automatizazio-pista</translation>
     </message>
 </context>
 <context>
@@ -675,7 +673,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Irabazia:</translation>
     </message>
     <message>
         <source>RATIO</source>
@@ -720,10 +718,6 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>NOIS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Input Noise:</source>
         <translation type="unfinished"/>
     </message>
@@ -740,20 +734,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Rate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Rate Enabled</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable samplerate-crushing</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Depth</source>
-        <translation>Sakonera</translation>
     </message>
     <message>
         <source>Depth Enabled</source>
@@ -768,20 +754,28 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>STD</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Stereo difference:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Levels</source>
-        <translation>Maila</translation>
-    </message>
-    <message>
         <source>Levels:</source>
         <translation>Mailak:</translation>
+    </message>
+    <message>
+        <source>NOISE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FREQ</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>STEREO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>QUANT</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -825,7 +819,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Input channel</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako kanala</translation>
     </message>
     <message>
         <source>CHANNEL</source>
@@ -833,7 +827,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Input controller</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako kontrolatzailea</translation>
     </message>
     <message>
         <source>CONTROLLER</source>
@@ -1005,7 +999,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako irabazia</translation>
     </message>
 </context>
 <context>
@@ -1249,11 +1243,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation>Grabatu</translation>
     </message>
     <message>
         <source>Record while playing</source>
-        <translation type="unfinished"/>
+        <translation>Grabatu erreproduzitzean</translation>
     </message>
     <message>
         <source>Transport controls</source>
@@ -1641,11 +1635,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     <name>EqControls</name>
     <message>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako irabazia</translation>
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako irabazia</translation>
     </message>
     <message>
         <source>Low shelf gain</source>
@@ -1914,23 +1908,23 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>44100 Hz</source>
-        <translation type="unfinished"/>
+        <translation>44.100 Hz</translation>
     </message>
     <message>
         <source>48000 Hz</source>
-        <translation type="unfinished"/>
+        <translation>48.000 Hz</translation>
     </message>
     <message>
         <source>88200 Hz</source>
-        <translation type="unfinished"/>
+        <translation>88.200 Hz</translation>
     </message>
     <message>
         <source>96000 Hz</source>
-        <translation type="unfinished"/>
+        <translation>96.000 Hz</translation>
     </message>
     <message>
         <source>192000 Hz</source>
-        <translation type="unfinished"/>
+        <translation>192.000 Hz</translation>
     </message>
     <message>
         <source>Bitrate:</source>
@@ -1938,31 +1932,31 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>64 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>64 KBit/s</translation>
     </message>
     <message>
         <source>128 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>128 KBit/s</translation>
     </message>
     <message>
         <source>160 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>160 KBit/s</translation>
     </message>
     <message>
         <source>192 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>192 KBit/s</translation>
     </message>
     <message>
         <source>256 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>256 KBit/s</translation>
     </message>
     <message>
         <source>320 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>320 KBit/s</translation>
     </message>
     <message>
         <source>Depth:</source>
-        <translation type="unfinished"/>
+        <translation>Sakonera:</translation>
     </message>
     <message>
         <source>16 Bit Integer</source>
@@ -1974,11 +1968,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Quality settings</source>
-        <translation type="unfinished"/>
+        <translation>Kalitate-ezarpenak</translation>
     </message>
     <message>
         <source>Interpolation:</source>
-        <translation type="unfinished"/>
+        <translation>Interpolazioa:</translation>
     </message>
     <message>
         <source>Zero Order Hold</source>
@@ -2002,23 +1996,23 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>1x (None)</source>
-        <translation type="unfinished"/>
+        <translation>1x (bat ere ez)</translation>
     </message>
     <message>
         <source>2x</source>
-        <translation type="unfinished"/>
+        <translation>2x</translation>
     </message>
     <message>
         <source>4x</source>
-        <translation type="unfinished"/>
+        <translation>4x</translation>
     </message>
     <message>
         <source>8x</source>
-        <translation type="unfinished"/>
+        <translation>8x</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Hasiera</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2034,7 +2028,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da fitxategia irek</translation>
     </message>
     <message>
         <source>Export project to %1</source>
@@ -2042,7 +2036,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Error while determining file-encoder device. Please try to choose a different output format.</source>
@@ -2065,6 +2059,81 @@ Please make sure you have write permission to the file and the directory contain
         <source>Use variable bitrate</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Stereo mode:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stereo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Joint Stereo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mono</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Compression level:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(fastest)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(smallest)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Expressive</name>
+    <message>
+        <source>Selected graph</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W1 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W2 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W3 smoothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PAN1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PAN2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>REL TRANS</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>Fader</name>
@@ -2077,6 +2146,14 @@ Please make sure you have write permission to the file and the directory contain
     <name>FileBrowser</name>
     <message>
         <source>Browser</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Refresh list</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2108,15 +2185,15 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>does not appear to be a valid</source>
-        <translation type="unfinished"/>
+        <translation>ez dirudi baliozko</translation>
     </message>
     <message>
         <source>file</source>
-        <translation type="unfinished"/>
+        <translation>fitxategia</translation>
     </message>
 </context>
 <context>
@@ -2169,10 +2246,6 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Rate:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>AMNT</source>
         <translation type="unfinished"/>
     </message>
@@ -2190,6 +2263,10 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Invert</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Period:</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2306,11 +2383,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>GigInstrumentView</name>
     <message>
         <source>Open other GIG file</source>
-        <translation type="unfinished"/>
+        <translation>Ireki beste GIG fitxategi bat</translation>
     </message>
     <message>
         <source>Click here to open another GIG file</source>
-        <translation type="unfinished"/>
+        <translation>Sakatu hemen beste GIG fitxategi bat irekitzeko</translation>
     </message>
     <message>
         <source>Choose the patch</source>
@@ -2342,18 +2419,18 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Open GIG file</source>
-        <translation type="unfinished"/>
+        <translation>Ireki GIG fitxategia</translation>
     </message>
     <message>
         <source>GIG Files (*.gig)</source>
-        <translation type="unfinished"/>
+        <translation>GIG fitxategiak (*.gig)</translation>
     </message>
 </context>
 <context>
     <name>GuiApplication</name>
     <message>
         <source>Working directory</source>
-        <translation type="unfinished"/>
+        <translation>Laneko direktorioa</translation>
     </message>
     <message>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
@@ -2361,15 +2438,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Preparing UI</source>
-        <translation type="unfinished"/>
+        <translation>Interfazea prestatzen</translation>
     </message>
     <message>
         <source>Preparing song editor</source>
-        <translation type="unfinished"/>
+        <translation>Abesti-editorea prestatzen</translation>
     </message>
     <message>
         <source>Preparing mixer</source>
-        <translation type="unfinished"/>
+        <translation>Nahasgailua prestatzen</translation>
     </message>
     <message>
         <source>Preparing controller rack</source>
@@ -3244,7 +3321,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panoramika</translation>
     </message>
     <message>
         <source>Pitch</source>
@@ -3283,23 +3360,23 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Bolumena:</translation>
     </message>
     <message>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>VOL</translation>
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panoramika</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panoramika:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <source>MIDI</source>
@@ -3307,7 +3384,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Sarrera</translation>
     </message>
     <message>
         <source>Output</source>
@@ -3330,23 +3407,23 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Bolumena:</translation>
     </message>
     <message>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>VOL</translation>
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panoramika</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panoramika:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <source>Pitch</source>
@@ -3369,19 +3446,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>ENV/LFO</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>FUNC</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>FX</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MIDI</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3390,10 +3455,6 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>XML preset file (*.xpf)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PLUGIN</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3413,15 +3474,35 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>MISC</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Use these controls to view and edit the next/previous track in the song editor.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>SAVE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Envelope, filter &amp; LFO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chord stacking &amp; arpeggio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MIDI settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Miscellaneous</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Plugin</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -3912,14 +3993,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Ignore</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Launch LMMS as usual but with automatic backup disabled to prevent the present recover file from being overwritten.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Discard</source>
         <translation type="unfinished"/>
     </message>
@@ -3992,10 +4065,6 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatic backup disabled. Remember to save your work!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Recovered project not saved</source>
         <translation type="unfinished"/>
     </message>
@@ -4005,23 +4074,23 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>LMMS Project</source>
-        <translation type="unfinished"/>
+        <translation>LMMS proiektua</translation>
     </message>
     <message>
         <source>LMMS Project Template</source>
-        <translation type="unfinished"/>
+        <translation>LMMS proiektu-txantiloia</translation>
     </message>
     <message>
         <source>Overwrite default template?</source>
-        <translation type="unfinished"/>
+        <translation>Gainidatzi txantiloi lehenetsia?</translation>
     </message>
     <message>
         <source>This will overwrite your current default template.</source>
-        <translation type="unfinished"/>
+        <translation>Horrek zure uneko txantiloi lehenetsia gainidatziko du.</translation>
     </message>
     <message>
         <source>Smooth scroll</source>
-        <translation type="unfinished"/>
+        <translation>Korritze leuna</translation>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
@@ -4029,7 +4098,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Save project template</source>
-        <translation type="unfinished"/>
+        <translation>Gorde proiektu-txantiloia</translation>
     </message>
     <message>
         <source>Volume as dBFS</source>
@@ -4037,7 +4106,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da fitxategia irek</translation>
     </message>
     <message>
         <source>Could not open file %1 for writing.
@@ -4064,18 +4133,18 @@ Please make sure you have write permission to the file and the directory contain
     <name>MeterModel</name>
     <message>
         <source>Numerator</source>
-        <translation type="unfinished"/>
+        <translation>Zenbakitzailea</translation>
     </message>
     <message>
         <source>Denominator</source>
-        <translation type="unfinished"/>
+        <translation>Izendatzailea</translation>
     </message>
 </context>
 <context>
     <name>MidiController</name>
     <message>
         <source>MIDI Controller</source>
-        <translation type="unfinished"/>
+        <translation>MIDI kontrolatzailea</translation>
     </message>
     <message>
         <source>unnamed_midi_controller</source>
@@ -4098,7 +4167,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Track</source>
-        <translation type="unfinished"/>
+        <translation>Pista</translation>
     </message>
 </context>
 <context>
@@ -4106,51 +4175,51 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <source>JACK server down</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (title)</extracomment>
-        <translation type="unfinished"/>
+        <translation>JACK zerbitzaria erorita</translation>
     </message>
     <message>
         <source>The JACK server seems to be shuted down.</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
-        <translation type="unfinished"/>
+        <translation>Badirudi JACK zerbitzaria itxi egin dela.</translation>
     </message>
 </context>
 <context>
     <name>MidiPort</name>
     <message>
         <source>Input channel</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako kanala</translation>
     </message>
     <message>
         <source>Output channel</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako kanala</translation>
     </message>
     <message>
         <source>Input controller</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako kontrolatzailea</translation>
     </message>
     <message>
         <source>Output controller</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako kontrolatzailea</translation>
     </message>
     <message>
         <source>Fixed input velocity</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako abiadura finkoa</translation>
     </message>
     <message>
         <source>Fixed output velocity</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako abiadura finkoa</translation>
     </message>
     <message>
         <source>Output MIDI program</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako MIDI programa</translation>
     </message>
     <message>
         <source>Receive MIDI-events</source>
-        <translation type="unfinished"/>
+        <translation>Jaso MIDI-events</translation>
     </message>
     <message>
         <source>Send MIDI-events</source>
-        <translation type="unfinished"/>
+        <translation>Bidali MIDI-events</translation>
     </message>
     <message>
         <source>Fixed output note</source>
@@ -4165,7 +4234,7 @@ Please make sure you have write permission to the file and the directory contain
     <name>MidiSetupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>DEVICE</translation>
     </message>
 </context>
 <context>
@@ -4372,7 +4441,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Selected view</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako bista</translation>
     </message>
     <message>
         <source>Vol1-Env1</source>
@@ -4819,7 +4888,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panoramika</translation>
     </message>
     <message>
         <source>Coarse detune</source>
@@ -5311,14 +5380,6 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
         <translation>Kendu urratsak</translation>
     </message>
     <message>
-        <source>use mouse wheel to set velocity of a step</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>double-click to open in Piano Roll</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Clone Steps</source>
         <translation>Klonatu urratsak</translation>
     </message>
@@ -5546,11 +5607,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Draw mode (Shift+D)</source>
-        <translation type="unfinished"/>
+        <translation>Marrazte modua (Shift+D)</translation>
     </message>
     <message>
         <source>Erase mode (Shift+E)</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatze modua (Shift+E)</translation>
     </message>
     <message>
         <source>Select mode (Shift+S)</source>
@@ -5578,27 +5639,27 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Cut selected notes (%1+X)</source>
-        <translation type="unfinished"/>
+        <translation>Moztu hautatutako notak (%1+X)</translation>
     </message>
     <message>
         <source>Copy selected notes (%1+C)</source>
-        <translation type="unfinished"/>
+        <translation>Kopiatu hautatutako notak (%1+C)</translation>
     </message>
     <message>
         <source>Paste notes from clipboard (%1+V)</source>
-        <translation type="unfinished"/>
+        <translation>Itsatsi notak arbeleti (%1+V)</translation>
     </message>
     <message>
         <source>Click here and the selected notes will be cut into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
-        <translation type="unfinished"/>
+        <translation>Sakatu hemen eta hautatutako notak arbelera moztuko dira. Haiek edozein eredutako edozein tokitan itsats daitezke, itsasteko botoian sakatuta.</translation>
     </message>
     <message>
         <source>Click here and the selected notes will be copied into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
-        <translation type="unfinished"/>
+        <translation>Sakatu hemen eta hautatutako notak arbelera kopiatuko dira. Haiek edozein eredutako edozein tokitan itsats daitezke, itsasteko botoian sakatuta.</translation>
     </message>
     <message>
         <source>Click here and the notes from the clipboard will be pasted at the first visible measure.</source>
-        <translation type="unfinished"/>
+        <translation>Sakatu hemen eta arbeleko notak lehen neurri ikusgaian itsatsiko dira.</translation>
     </message>
     <message>
         <source>This controls the magnification of an axis. It can be helpful to choose magnification for a specific task. For ordinary editing, the magnification should be fitted to your smallest notes. </source>
@@ -5704,14 +5765,6 @@ Reason: &quot;%2&quot;</source>
 </context>
 <context>
     <name>ProjectNotes</name>
-    <message>
-        <source>Project notes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Put down your project notes here.</source>
-        <translation type="unfinished"/>
-    </message>
     <message>
         <source>Edit Actions</source>
         <translation type="unfinished"/>
@@ -5820,6 +5873,14 @@ Reason: &quot;%2&quot;</source>
         <source>&amp;Color...</source>
         <translation>&amp;Kolorea...</translation>
     </message>
+    <message>
+        <source>Project Notes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter project notes here</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ProjectRenderer</name>
@@ -5830,6 +5891,14 @@ Reason: &quot;%2&quot;</source>
     <message>
         <source>Compressed OGG-File (*.ogg)</source>
         <translation>Konprimitutako OGG fitxategia (*.ogg)</translation>
+    </message>
+    <message>
+        <source>FLAC-File (*.flac)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Compressed MP3-File (*.mp3)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5876,25 +5945,25 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>File: </source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia:</translation>
     </message>
     <message>
         <source>File: %1</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia: %1</translation>
     </message>
 </context>
 <context>
     <name>RenameDialog</name>
     <message>
         <source>Rename...</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu izena...</translation>
     </message>
 </context>
 <context>
     <name>ReverbSCControlDialog</name>
     <message>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Sarrera</translation>
     </message>
     <message>
         <source>Input Gain:</source>
@@ -5952,47 +6021,47 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Wave-Files (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Wave fitxategiak (*.wav)</translation>
     </message>
     <message>
         <source>OGG-Files (*.ogg)</source>
-        <translation type="unfinished"/>
+        <translation>OGG fitxategiak (*.ogg)</translation>
     </message>
     <message>
         <source>DrumSynth-Files (*.ds)</source>
-        <translation type="unfinished"/>
+        <translation>DrumSynth fitxategia (*.ds)</translation>
     </message>
     <message>
         <source>FLAC-Files (*.flac)</source>
-        <translation type="unfinished"/>
+        <translation>FLAC fitxategiak (*.flac)</translation>
     </message>
     <message>
         <source>SPEEX-Files (*.spx)</source>
-        <translation type="unfinished"/>
+        <translation>SPEEX fitxategiak (*.spx)</translation>
     </message>
     <message>
         <source>VOC-Files (*.voc)</source>
-        <translation type="unfinished"/>
+        <translation>VOC fitxategiak (*.voc)</translation>
     </message>
     <message>
         <source>AIFF-Files (*.aif *.aiff)</source>
-        <translation type="unfinished"/>
+        <translation>AIFF fitxategiak (*.aif *.aiff)</translation>
     </message>
     <message>
         <source>AU-Files (*.au)</source>
-        <translation type="unfinished"/>
+        <translation>AU fitxategiak (*.au)</translation>
     </message>
     <message>
         <source>RAW-Files (*.raw)</source>
-        <translation type="unfinished"/>
+        <translation>RAW fitxategiak (*.raw)</translation>
     </message>
     <message>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
-        <translation type="unfinished"/>
+        <translation>Audio-fitxategi guztiak (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
         <source>Fail to open file</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da fitxategia ireki</translation>
     </message>
     <message>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
@@ -6038,7 +6107,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panoramika</translation>
     </message>
 </context>
 <context>
@@ -6053,19 +6122,19 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>VOL</translation>
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panoramika</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panoramika:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
 </context>
 <context>
@@ -6076,7 +6145,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished"/>
+        <translation>Ezarpen orokorrak</translation>
     </message>
     <message>
         <source>BUFFER SIZE</source>
@@ -6261,35 +6330,35 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Directories</source>
-        <translation type="unfinished"/>
+        <translation>Direktorioak</translation>
     </message>
     <message>
         <source>Themes directory</source>
-        <translation type="unfinished"/>
+        <translation>Gaien direktorioak</translation>
     </message>
     <message>
         <source>GIG directory</source>
-        <translation type="unfinished"/>
+        <translation>GIG direktorioa</translation>
     </message>
     <message>
         <source>SF2 directory</source>
-        <translation type="unfinished"/>
+        <translation>SF2 direktorioa</translation>
     </message>
     <message>
         <source>LADSPA plugin directories</source>
-        <translation type="unfinished"/>
+        <translation>LADSPA pluginen direktorioak</translation>
     </message>
     <message>
         <source>Auto save</source>
-        <translation type="unfinished"/>
+        <translation>Gorde automatikok</translation>
     </message>
     <message>
         <source>Choose your GIG directory</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu zure GIG direktorioa</translation>
     </message>
     <message>
         <source>Choose your SF2 directory</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu zure SF2 direktorioa</translation>
     </message>
     <message>
         <source>minutes</source>
@@ -6341,27 +6410,27 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Project saved</source>
-        <translation type="unfinished"/>
+        <translation>Proiektua gorde da</translation>
     </message>
     <message>
         <source>The project %1 is now saved.</source>
-        <translation type="unfinished"/>
+        <translation>%1 proiektua gorde da.</translation>
     </message>
     <message>
         <source>Project NOT saved.</source>
-        <translation type="unfinished"/>
+        <translation>Proiektua EZ da gorde.</translation>
     </message>
     <message>
         <source>The project %1 was not saved!</source>
-        <translation type="unfinished"/>
+        <translation>%1 proiektua ez da gorde!</translation>
     </message>
     <message>
         <source>Import file</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu fitxategia</translation>
     </message>
     <message>
         <source>MIDI sequences</source>
-        <translation type="unfinished"/>
+        <translation>MIDI sekuentziak</translation>
     </message>
     <message>
         <source>Hydrogen projects</source>
@@ -6369,11 +6438,11 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>All file types</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi mota guztiak</translation>
     </message>
     <message>
         <source>Empty project</source>
-        <translation type="unfinished"/>
+        <translation>Proiektu hutsa</translation>
     </message>
     <message>
         <source>This project is empty so exporting makes no sense. Please put some items into Song Editor first!</source>
@@ -6397,26 +6466,26 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>MIDI File (*.mid)</source>
-        <translation type="unfinished"/>
+        <translation>MIDI fitxategia (*.mid)</translation>
     </message>
     <message>
         <source>LMMS Error report</source>
-        <translation type="unfinished"/>
+        <translation>LMMS errore-txostena</translation>
     </message>
     <message>
         <source>Save project</source>
-        <translation type="unfinished"/>
+        <translation>Gorde proiektua</translation>
     </message>
 </context>
 <context>
     <name>SongEditor</name>
     <message>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da fitxategia irek</translation>
     </message>
     <message>
         <source>Could not write file</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da fitxategia idatzi</translation>
     </message>
     <message>
         <source>Could not open file %1. You probably have no permissions to read this file.
@@ -6651,11 +6720,11 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Custom...</source>
-        <translation type="unfinished"/>
+        <translation>Pertsonalizatua...</translation>
     </message>
     <message>
         <source>Custom </source>
-        <translation type="unfinished"/>
+        <translation>Pertsonalizatua</translation>
     </message>
     <message>
         <source>Synced to Eight Beats</source>
@@ -6767,7 +6836,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     <name>TrackContainer</name>
     <message>
         <source>Couldn&apos;t import file</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da fitxategia inportatu</translation>
     </message>
     <message>
         <source>Couldn't find a filter for importing file %1.
@@ -6776,7 +6845,7 @@ You should convert this file into a format supported by LMMS using another softw
     </message>
     <message>
         <source>Couldn&apos;t open file</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da fitxategia ireki</translation>
     </message>
     <message>
         <source>Couldn't open file %1 for reading.
@@ -6785,7 +6854,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Loading project...</source>
-        <translation type="unfinished"/>
+        <translation>Proiektua kargatzen...</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -6793,10 +6862,14 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Itxaron...</translation>
     </message>
     <message>
         <source>Importing MIDI-file...</source>
+        <translation>MIDI fitxategia inportatzen...</translation>
+    </message>
+    <message>
+        <source>Loading Track %1 (%2/Total %3)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6894,11 +6967,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Turn all recording on</source>
-        <translation type="unfinished"/>
+        <translation>Aktibatu grabazio guztiak</translation>
     </message>
     <message>
         <source>Turn all recording off</source>
-        <translation type="unfinished"/>
+        <translation>Desaktibatu grabazio guztiak</translation>
     </message>
     <message>
         <source>Assign to new FX Channel</source>
@@ -7530,7 +7603,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panoramika</translation>
     </message>
     <message>
         <source>Freq. multiplier</source>
@@ -7711,15 +7784,15 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Interpolation mode</source>
-        <translation type="unfinished"/>
+        <translation>Interpolazio modua</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Bat ere ez</translation>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"/>
+        <translation>Lineala</translation>
     </message>
     <message>
         <source>Sinc</source>
@@ -7820,7 +7893,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Input gain:</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako irabazia:</translation>
     </message>
     <message>
         <source>OUTPUT</source>
@@ -7828,7 +7901,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Output gain:</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako irabazia:</translation>
     </message>
     <message>
         <source>ATTACK</source>
@@ -7848,7 +7921,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Reset waveform</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri uhin-forma</translation>
     </message>
     <message>
         <source>Click here to reset the wavegraph back to default</source>
@@ -7907,11 +7980,11 @@ Please make sure you have read-permission to the file and the directory containi
     <name>dynProcControls</name>
     <message>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako irabazia</translation>
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako irabazia</translation>
     </message>
     <message>
         <source>Attack time</source>
@@ -7923,6 +7996,133 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Stereo mode</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>expressiveView</name>
+    <message>
+        <source>Select oscillator W1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select oscillator W2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select oscillator W3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select OUTPUT 1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select OUTPUT 2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open help window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sine wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click for a sine-wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Moog-Saw wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click for a Moog-Saw-wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exponential wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click for an exponential wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Saw wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click here for a saw-wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User defined wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click here for a user-defined shape.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Triangle wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click here for a triangle-wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Square wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click here for a square-wave.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>White noise wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click here for white-noise.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WaveInterpolate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ExpressionValid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 1:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 2:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General purpose 3:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>O1 panning:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>O2 panning:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Release transition:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Smoothness</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -8007,7 +8207,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Irabazia:</translation>
     </message>
     <message>
         <source>Frequency Slope:</source>
@@ -8054,11 +8254,11 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Analysis Tools</source>
-        <translation type="unfinished"/>
+        <translation>Analisi-tresnak</translation>
     </message>
     <message>
         <source>Don&apos;t know</source>
-        <translation type="unfinished"/>
+        <translation>Ezezaguna</translation>
     </message>
     <message>
         <source>This dialog displays information on all of the LADSPA plugins LMMS was able to locate. The plugins are divided into five categories based upon an interpretation of the port types and names.
@@ -8078,14 +8278,14 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Mota:</translation>
     </message>
 </context>
 <context>
     <name>ladspaDescription</name>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Pluginak</translation>
     </message>
     <message>
         <source>Description</source>
@@ -8120,7 +8320,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Logarithmic</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmikoa</translation>
     </message>
     <message>
         <source>SR Dependent</source>
@@ -8136,7 +8336,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Sarrera</translation>
     </message>
     <message>
         <source>Output</source>
@@ -8786,7 +8986,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Bolumena:</translation>
     </message>
     <message>
         <source>Randomise</source>
@@ -9313,6 +9513,10 @@ This chip was used in the Commodore 64 computer.</source>
         <source>Reverb algorithm by Sean Costello</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Mathematical expression parser</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>sf2Instrument</name>
@@ -9486,7 +9690,7 @@ This chip was used in the Commodore 64 computer.</source>
     <name>sidInstrumentView</name>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Bolumena:</translation>
     </message>
     <message>
         <source>Resonance:</source>
@@ -9625,14 +9829,14 @@ This chip was used in the Commodore 64 computer.</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"/>
+        <translation>Zabalera:</translation>
     </message>
 </context>
 <context>
     <name>stereoEnhancerControls</name>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Zabalera</translation>
     </message>
 </context>
 <context>
@@ -9731,7 +9935,7 @@ This chip was used in the Commodore 64 computer.</source>
     <name>vibedView</name>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Bolumena:</translation>
     </message>
     <message>
         <source>The &apos;V&apos; knob sets the volume of the selected string.</source>
@@ -9973,7 +10177,7 @@ The LED in the lower right corner of the waveform editor determines whether the 
     </message>
     <message>
         <source>Input gain:</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako irabazia:</translation>
     </message>
     <message>
         <source>OUTPUT</source>
@@ -9981,11 +10185,11 @@ The LED in the lower right corner of the waveform editor determines whether the 
     </message>
     <message>
         <source>Output gain:</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako irabazia:</translation>
     </message>
     <message>
         <source>Reset waveform</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri uhin-forma</translation>
     </message>
     <message>
         <source>Click here to reset the wavegraph back to default</source>
@@ -10028,11 +10232,11 @@ The LED in the lower right corner of the waveform editor determines whether the 
     <name>waveShaperControls</name>
     <message>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako irabazia</translation>
     </message>
     <message>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako irabazia</translation>
     </message>
 </context>
 </TS>
