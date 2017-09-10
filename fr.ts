@@ -2074,7 +2074,7 @@ Veuillez vous assurez que vous avez les droits d&apos;écriture sur le fichier e
     </message>
     <message>
         <source>Stereo mode:</source>
-        <translation>mODE STÉRÉO : </translation>
+        <translation>Mode stéréo : </translation>
     </message>
     <message>
         <source>Stereo</source>
@@ -8066,7 +8066,7 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Open help window</source>
-        <translation>Ouvrir la fentre d&apos;aide</translation>
+        <translation>Ouvrir la fenêtre d&apos;aide</translation>
     </message>
     <message>
         <source>Sine wave</source>
@@ -8078,11 +8078,11 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Moog-Saw wave</source>
-        <translation>Onde en dents-de-scie Moog</translation>
+        <translation>Onde en dents-de-scie-Moog</translation>
     </message>
     <message>
         <source>Click for a Moog-Saw-wave.</source>
-        <translation>Cliquez pour une onde-dents-de-scie-Moog.</translation>
+        <translation>Cliquez pour une onde-en-dents-de-scie-Moog.</translation>
     </message>
     <message>
         <source>Exponential wave</source>
@@ -8090,7 +8090,7 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Click for an exponential wave.</source>
-        <translation>Cliquez pour une onde expontentielle.</translation>
+        <translation>Cliquez pour une onde exponentielle.</translation>
     </message>
     <message>
         <source>Saw wave</source>
