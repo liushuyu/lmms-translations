@@ -62,7 +62,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AmplifierControlDialog</name>
     <message>
         <source>VOL</source>
-        <translation>الحجم</translation>
+        <translation>حجم</translation>
     </message>
     <message>
         <source>Volume:</source>
@@ -70,7 +70,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>PAN</source>
-        <translation>التوزيع</translation>
+        <translation>توزيع</translation>
     </message>
     <message>
         <source>Panning:</source>
@@ -116,11 +116,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AudioAlsaSetupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation>جهاز</translation>
+        <translation>الجهاز</translation>
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation>قنوات</translation>
+        <translation>القنوات</translation>
     </message>
 </context>
 <context>
@@ -206,7 +206,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AudioFileProcessorWaveView</name>
     <message>
         <source>Sample length:</source>
-        <translation type="unfinished"/>
+        <translation>طول العينة:</translation>
     </message>
 </context>
 <context>
@@ -233,18 +233,18 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation>قنوات</translation>
+        <translation>تاقنوات</translation>
     </message>
 </context>
 <context>
     <name>AudioOss::setupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation>جهاز</translation>
+        <translation>الجهاز</translation>
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation>قنوات</translation>
+        <translation>القنوات</translation>
     </message>
 </context>
 <context>
@@ -255,36 +255,36 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>DEVICE</source>
-        <translation>جهاز</translation>
+        <translation>الجهاز</translation>
     </message>
 </context>
 <context>
     <name>AudioPulseAudio::setupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation>جهاز</translation>
+        <translation>الجهاز</translation>
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation>قنوات</translation>
+        <translation>القنوات</translation>
     </message>
 </context>
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation>جهاز</translation>
+        <translation>الجهاز</translation>
     </message>
 </context>
 <context>
     <name>AudioSndio::setupWidget</name>
     <message>
         <source>DEVICE</source>
-        <translation>جهاز</translation>
+        <translation>الجهاز</translation>
     </message>
     <message>
         <source>CHANNELS</source>
-        <translation>قنوات</translation>
+        <translation>القنوات</translation>
     </message>
 </context>
 <context>
@@ -295,7 +295,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>DEVICE</source>
-        <translation>جهاز</translation>
+        <translation>الجهاز</translation>
     </message>
 </context>
 <context>
@@ -306,11 +306,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>&amp;Copy value (%1%2)</source>
-        <translation type="unfinished"/>
+        <translation>الصق القيمة (%1%2)</translation>
     </message>
     <message>
         <source>&amp;Paste value (%1%2)</source>
-        <translation type="unfinished"/>
+        <translation>الصق القيمة (%1%2)</translation>
     </message>
     <message>
         <source>Edit song-global automation</source>

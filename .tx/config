@@ -4,8 +4,13 @@ minimum_perc = 1
 #Need to finish at least 1% before merging back
 
 [lmms.lmms]
-file_filter = <lang>.ts
-source_file = en.ts
+file_filter = lmms/<lang>.ts
+source_file = lmms/en.ts
 source_lang = en
 type = QT
 
+[lmms.lmmsio]
+file_filter = lmms.io/<lang>.po
+source_file = lmms.io/lmms.io.pot
+source_lang = en
+type = PO
