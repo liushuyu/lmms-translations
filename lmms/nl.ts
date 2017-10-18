@@ -76,11 +76,11 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation>PAN</translation>
+        <translation>BAL</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation>Panning:</translation>
+        <translation>Balans:</translation>
     </message>
     <message>
         <source>LEFT</source>
@@ -107,7 +107,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panning</translation>
+        <translation>Balans</translation>
     </message>
     <message>
         <source>Left gain</source>
@@ -777,11 +777,11 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     </message>
     <message>
         <source>STEREO</source>
-        <translation type="unfinished"/>
+        <translation>STEREO</translation>
     </message>
     <message>
         <source>QUANT</source>
-        <translation type="unfinished"/>
+        <translation>QUANT</translation>
     </message>
 </context>
 <context>
@@ -2080,35 +2080,35 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
     </message>
     <message>
         <source>Stereo mode:</source>
-        <translation type="unfinished"/>
+        <translation>Stereomodus:</translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation type="unfinished"/>
+        <translation>Stereo</translation>
     </message>
     <message>
         <source>Joint Stereo</source>
-        <translation type="unfinished"/>
+        <translation>Joint stereo</translation>
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished"/>
+        <translation>Mono</translation>
     </message>
     <message>
         <source>Compression level:</source>
-        <translation type="unfinished"/>
+        <translation>Compressieniveau:</translation>
     </message>
     <message>
         <source>(fastest)</source>
-        <translation type="unfinished"/>
+        <translation>(snelste)</translation>
     </message>
     <message>
         <source>(default)</source>
-        <translation type="unfinished"/>
+        <translation>(standaard)</translation>
     </message>
     <message>
         <source>(smallest)</source>
-        <translation type="unfinished"/>
+        <translation>(kleinste)</translation>
     </message>
 </context>
 <context>
@@ -2119,39 +2119,39 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
     </message>
     <message>
         <source>A1</source>
-        <translation type="unfinished"/>
+        <translation>A1</translation>
     </message>
     <message>
         <source>A2</source>
-        <translation type="unfinished"/>
+        <translation>A2</translation>
     </message>
     <message>
         <source>A3</source>
-        <translation type="unfinished"/>
+        <translation>A3</translation>
     </message>
     <message>
         <source>W1 smoothing</source>
-        <translation type="unfinished"/>
+        <translation>W1 afvlakken</translation>
     </message>
     <message>
         <source>W2 smoothing</source>
-        <translation type="unfinished"/>
+        <translation>W2 afvlakken</translation>
     </message>
     <message>
         <source>W3 smoothing</source>
-        <translation type="unfinished"/>
+        <translation>W3 afvlakken</translation>
     </message>
     <message>
         <source>PAN1</source>
-        <translation type="unfinished"/>
+        <translation>BAL1</translation>
     </message>
     <message>
         <source>PAN2</source>
-        <translation type="unfinished"/>
+        <translation>BAL2</translation>
     </message>
     <message>
         <source>REL TRANS</source>
-        <translation type="unfinished"/>
+        <translation>REL TRANS</translation>
     </message>
 </context>
 <context>
@@ -2169,11 +2169,11 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <source>Refresh list</source>
-        <translation type="unfinished"/>
+        <translation>Lijst verversen</translation>
     </message>
 </context>
 <context>
@@ -2286,7 +2286,7 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
     </message>
     <message>
         <source>Period:</source>
-        <translation type="unfinished"/>
+        <translation>Periode:</translation>
     </message>
 </context>
 <context>
@@ -3346,7 +3346,7 @@ U kunt FX-kanalen verwijderen en verplaatsen in het contextmenu, dat toegankelij
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panning</translation>
+        <translation>Balans</translation>
     </message>
     <message>
         <source>Pitch</source>
@@ -3393,15 +3393,15 @@ U kunt FX-kanalen verwijderen en verplaatsen in het contextmenu, dat toegankelij
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panning</translation>
+        <translation>Balans</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation>Panning:</translation>
+        <translation>Balans:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation>PAN</translation>
+        <translation>BAL</translation>
     </message>
     <message>
         <source>MIDI</source>
@@ -3440,15 +3440,15 @@ U kunt FX-kanalen verwijderen en verplaatsen in het contextmenu, dat toegankelij
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panning</translation>
+        <translation>Balans</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation>Panning:</translation>
+        <translation>Balans:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation>PAN</translation>
+        <translation>BAL</translation>
     </message>
     <message>
         <source>Pitch</source>
@@ -3508,15 +3508,15 @@ U kunt FX-kanalen verwijderen en verplaatsen in het contextmenu, dat toegankelij
     </message>
     <message>
         <source>Envelope, filter &amp; LFO</source>
-        <translation type="unfinished"/>
+        <translation>Envelope, filter en LFO</translation>
     </message>
     <message>
         <source>Chord stacking &amp; arpeggio</source>
-        <translation type="unfinished"/>
+        <translation>Akkoorden opeenstapelen &amp; arpeggio</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>Effecten</translation>
     </message>
     <message>
         <source>MIDI settings</source>
@@ -3524,11 +3524,11 @@ U kunt FX-kanalen verwijderen en verplaatsen in het contextmenu, dat toegankelij
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished"/>
+        <translation>Overige</translation>
     </message>
     <message>
         <source>Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Plug-in</translation>
     </message>
 </context>
 <context>
@@ -4141,6 +4141,10 @@ Please make sure you have write permission to the file and the directory contain
         <translation>Kon bestand %1 niet openen om te schrijven.
 Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die het bestand bevat en probeer het opnieuw!</translation>
     </message>
+    <message>
+        <source>Export &amp;MIDI...</source>
+        <translation>Exporteer &amp;MIDI...</translation>
+    </message>
 </context>
 <context>
     <name>MeterDialog</name>
@@ -4273,7 +4277,7 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
     </message>
     <message>
         <source>Osc 1 Panning</source>
-        <translation>Osc 1 panning</translation>
+        <translation>Balans osc 1</translation>
     </message>
     <message>
         <source>Osc 1 Coarse detune</source>
@@ -4309,7 +4313,7 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
     </message>
     <message>
         <source>Osc 2 Panning</source>
-        <translation>Osc 2 panning</translation>
+        <translation>Balans osc 2</translation>
     </message>
     <message>
         <source>Osc 2 Coarse detune</source>
@@ -4345,7 +4349,7 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
     </message>
     <message>
         <source>Osc 3 Panning</source>
-        <translation>Osc 3 panning</translation>
+        <translation>Balans osc 3</translation>
     </message>
     <message>
         <source>Osc 3 Coarse detune</source>
@@ -4934,7 +4938,7 @@ PM betekent fasemodulatie: de fase van oscillator 3 wordt gemoduleerd door oscil
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panning</translation>
+        <translation>Balans</translation>
     </message>
     <message>
         <source>Coarse detune</source>
@@ -5278,7 +5282,7 @@ PM betekent fasemodulatie: de fase van oscillator 3 wordt gemoduleerd door oscil
     </message>
     <message>
         <source>Osc %1 panning</source>
-        <translation>Osc %1 panning</translation>
+        <translation>Balans osc %1</translation>
     </message>
     <message>
         <source>Osc %1 coarse detuning</source>
@@ -5562,7 +5566,7 @@ PM betekent fasemodulatie: de fase van oscillator 3 wordt gemoduleerd door oscil
     </message>
     <message>
         <source>Note Panning</source>
-        <translation>Noot-panning</translation>
+        <translation>Noot-balans</translation>
     </message>
     <message>
         <source>Mark/unmark current semitone</source>
@@ -5594,15 +5598,15 @@ PM betekent fasemodulatie: de fase van oscillator 3 wordt gemoduleerd door oscil
     </message>
     <message>
         <source>Panning: %1% left</source>
-        <translation>Panning: %1 % links</translation>
+        <translation>Balans: %1 % links</translation>
     </message>
     <message>
         <source>Panning: %1% right</source>
-        <translation>Panning: %1 % rechts</translation>
+        <translation>Balans: %1 % rechts</translation>
     </message>
     <message>
         <source>Panning: center</source>
-        <translation>Panning: midden</translation>
+        <translation>Balans: midden</translation>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
@@ -5926,7 +5930,7 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Enter project notes here</source>
-        <translation type="unfinished"/>
+        <translation>Geef hier uw projectnotities in</translation>
     </message>
 </context>
 <context>
@@ -5941,11 +5945,11 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>FLAC-File (*.flac)</source>
-        <translation type="unfinished"/>
+        <translation>FLAC-bestand (*.flac)</translation>
     </message>
     <message>
         <source>Compressed MP3-File (*.mp3)</source>
-        <translation type="unfinished"/>
+        <translation>Gecomprimeerd MP3-bestand (*.mp3)</translation>
     </message>
 </context>
 <context>
@@ -6154,7 +6158,7 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panning</translation>
+        <translation>Balans</translation>
     </message>
 </context>
 <context>
@@ -6173,15 +6177,15 @@ Reden: &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panning</translation>
+        <translation>Balans</translation>
     </message>
     <message>
         <source>Panning:</source>
-        <translation>Panning:</translation>
+        <translation>Balans:</translation>
     </message>
     <message>
         <source>PAN</source>
-        <translation>PAN</translation>
+        <translation>BAL</translation>
     </message>
 </context>
 <context>
@@ -6922,7 +6926,7 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
     </message>
     <message>
         <source>Loading Track %1 (%2/Total %3)</source>
-        <translation type="unfinished"/>
+        <translation>Track %1 laden (%2/totaal %3)</translation>
     </message>
 </context>
 <context>
@@ -7082,11 +7086,11 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
     </message>
     <message>
         <source>Osc %1 panning:</source>
-        <translation>Osc %1 panning:</translation>
+        <translation>Balans osc %1:</translation>
     </message>
     <message>
         <source>With this knob you can set the panning of the oscillator %1. A value of -100 means 100% left and a value of 100 moves oscillator-output right.</source>
-        <translation>Met deze knop kunt u de panning voor oscillator %1 instellen. Een waarde van -100 betekent 100 % links en een waarde van 100 verplaatst de oscillator-uitvoer naar rechts.</translation>
+        <translation>Met deze knop kunt u de balans voor oscillator %1 instellen. Een waarde van -100 betekent 100 % links en een waarde van 100 verplaatst de oscillator-uitvoer naar rechts.</translation>
     </message>
     <message>
         <source>Osc %1 coarse detuning:</source>
@@ -7420,19 +7424,19 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
     </message>
     <message>
         <source>Panning A1</source>
-        <translation>Panning A1</translation>
+        <translation>Balans A1</translation>
     </message>
     <message>
         <source>Panning A2</source>
-        <translation>Panning A2</translation>
+        <translation>Balans A2</translation>
     </message>
     <message>
         <source>Panning B1</source>
-        <translation>Panning B1</translation>
+        <translation>Balans B1</translation>
     </message>
     <message>
         <source>Panning B2</source>
-        <translation>Panning B2</translation>
+        <translation>Balans B2</translation>
     </message>
     <message>
         <source>Freq. multiplier A1</source>
@@ -7655,7 +7659,7 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
     </message>
     <message>
         <source>Panning</source>
-        <translation>Panning</translation>
+        <translation>Balans</translation>
     </message>
     <message>
         <source>Freq. multiplier</source>
@@ -8055,27 +8059,27 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
     <name>expressiveView</name>
     <message>
         <source>Select oscillator W1</source>
-        <translation type="unfinished"/>
+        <translation>Oscillator W1 selecteren</translation>
     </message>
     <message>
         <source>Select oscillator W2</source>
-        <translation type="unfinished"/>
+        <translation>Oscillator W2 selecteren</translation>
     </message>
     <message>
         <source>Select oscillator W3</source>
-        <translation type="unfinished"/>
+        <translation>Oscillator W3 selecteren</translation>
     </message>
     <message>
         <source>Select OUTPUT 1</source>
-        <translation type="unfinished"/>
+        <translation>UITVOER 1 selecteren</translation>
     </message>
     <message>
         <source>Select OUTPUT 2</source>
-        <translation type="unfinished"/>
+        <translation>UITVOER 2 selecteren</translation>
     </message>
     <message>
         <source>Open help window</source>
-        <translation type="unfinished"/>
+        <translation>Help-venster openen</translation>
     </message>
     <message>
         <source>Sine wave</source>
@@ -8087,11 +8091,11 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
     </message>
     <message>
         <source>Moog-Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Moog-zaagtandgolf</translation>
     </message>
     <message>
         <source>Click for a Moog-Saw-wave.</source>
-        <translation type="unfinished"/>
+        <translation>Klikken voor een moog-zaagtandgolf.</translation>
     </message>
     <message>
         <source>Exponential wave</source>
@@ -8099,7 +8103,7 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
     </message>
     <message>
         <source>Click for an exponential wave.</source>
-        <translation type="unfinished"/>
+        <translation>Klikken voor een exponentiële golf.</translation>
     </message>
     <message>
         <source>Saw wave</source>
@@ -8143,39 +8147,39 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
     </message>
     <message>
         <source>WaveInterpolate</source>
-        <translation type="unfinished"/>
+        <translation>GolfInterpoleren</translation>
     </message>
     <message>
         <source>ExpressionValid</source>
-        <translation type="unfinished"/>
+        <translation>ExpressieGeldig</translation>
     </message>
     <message>
         <source>General purpose 1:</source>
-        <translation type="unfinished"/>
+        <translation>Algemeen doel 1:</translation>
     </message>
     <message>
         <source>General purpose 2:</source>
-        <translation type="unfinished"/>
+        <translation>Algemeen doel 2:</translation>
     </message>
     <message>
         <source>General purpose 3:</source>
-        <translation type="unfinished"/>
+        <translation>Algemeen doel 3:</translation>
     </message>
     <message>
         <source>O1 panning:</source>
-        <translation type="unfinished"/>
+        <translation>Balans O1:</translation>
     </message>
     <message>
         <source>O2 panning:</source>
-        <translation type="unfinished"/>
+        <translation>Balans O2:</translation>
     </message>
     <message>
         <source>Release transition:</source>
-        <translation type="unfinished"/>
+        <translation>Release-overgang:</translation>
     </message>
     <message>
         <source>Smoothness</source>
-        <translation type="unfinished"/>
+        <translation>Gladheid</translation>
     </message>
 </context>
 <context>
@@ -9066,7 +9070,7 @@ Dubbelklikken op om het even welke plugins zal informatie geven over de poorten.
     </message>
     <message>
         <source>Osc %1 panning:</source>
-        <translation>Osc %1 panning:</translation>
+        <translation>Balans osc %1:</translation>
     </message>
     <message>
         <source>cents</source>
@@ -9580,7 +9584,7 @@ Deze chip werd gebruikt in de Commodore 64 computer.</translation>
     </message>
     <message>
         <source>Mathematical expression parser</source>
-        <translation type="unfinished"/>
+        <translation>Wiskundige uitdrukking-verwerker</translation>
     </message>
 </context>
 <context>
@@ -9973,7 +9977,7 @@ Deze chip werd gebruikt in de Commodore 64 computer.</translation>
     </message>
     <message>
         <source>Pan %1</source>
-        <translation>Pan %1</translation>
+        <translation>Bal %1</translation>
     </message>
     <message>
         <source>Detune %1</source>
@@ -10032,11 +10036,11 @@ Deze chip werd gebruikt in de Commodore 64 computer.</translation>
     </message>
     <message>
         <source>Pan:</source>
-        <translation>Pan:</translation>
+        <translation>Bal:</translation>
     </message>
     <message>
         <source>The Pan knob determines the location of the selected string in the stereo field.</source>
-        <translation>De pan-knop bepaalt de locatie van de geselecteerde snaar in het stereo-veld.</translation>
+        <translation>De bal-knop bepaalt de locatie van de geselecteerde snaar in het stereo-veld.</translation>
     </message>
     <message>
         <source>Detune:</source>
@@ -10110,13 +10114,13 @@ The 'V' knob controls the volume.  The 'S' knob controls the string's stiffness.
 The 'Length' knob controls the length of the string.
 
 The LED in the lower right corner of the waveform editor determines whether the string is active in the current instrument.</source>
-        <translation>Vibed modelleert to negen onafhankelijk trillende snaren. De &apos;snaar&apos;-selector laat u toe om te kiezen welke snaar bewerkt wordt. De &apos;imp&apos;-selector kiest of de grafiek een impuls of de initiële status van de snaar weergeeft. De &apos;octaaf&apos;-selector kiest op welke harmonische de snaar moet trilen.
+        <translation>Vibed modelleert tot negen onafhankelijk trillende snaren. De &apos;snaar&apos;-selector laat u toe om te kiezen welke snaar bewerkt wordt. De &apos;imp&apos;-selector kiest of de grafiek een impuls of de initiële status van de snaar weergeeft. De &apos;octaaf&apos;-selector kiest op welke harmonische de snaar moet trillen.
 
 De grafiek laat u toe om de initiële status of impuls gebruikt om de snaar te laten bewegen, in te stellen.
 
-De &apos;V&apos;-knop bedient het vollume. De &apos;S&apos;-knop bedient de hardheid van de snaar. De &apos;P&apos;-knop bedient de aanslagpositie. De &apos;PU&apos;-knop bedient de pickup-positie.
+De &apos;V&apos;-knop bedient het volume. De &apos;S&apos;-knop bedient de hardheid van de snaar. De &apos;P&apos;-knop bedient de aanslagpositie. De &apos;PU&apos;-knop bedient de pickup-positie.
 
-&apos;Pan&apos; en &apos;ontstemmen&apos; hebben hopelijk geen uitleg nodig.  De &apos;slap&apos;-knop voegt wat ruigheid toe aan het geluid van de snaar.
+&apos;Balans&apos; en &apos;ontstemmen&apos; hebben hopelijk geen uitleg nodig.  De &apos;slap&apos;-knop voegt wat ruigheid toe aan het geluid van de snaar.
 
 De &apos;lengte&apos;-knop bedient de lengte van de snaar.
 

@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>LMMS - easy music production for everyone</source>
-        <translation>LMMMS - إنتاج موسيقى سهل للجميع</translation>
+        <translation>LMMS - إنتاج موسيقى سهل للجميع</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -31,7 +31,7 @@
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
         <translation>اللغة الحالية غير مترجمة (أو الإنجليزية الأصلية)
 
-إذا كنت مهتما بترجمة LMMS في لغة أخرى أو ترغب بتحسين ترجمات موجودة مسبقا، أنت مرحب بك لكي تساعدنا! ببساطة تواصل مع الصائن!</translation>
+إذا كنت مهتما بترجمة LMMS في لغة أخرى أو ترغب بتحسين ترجمات موجودة، أنت مرحب بك لكي تساعدنا! ببساطة تواصل مع الصائن!</translation>
     </message>
     <message>
         <source>License</source>
@@ -47,7 +47,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Contributors ordered by number of commits:</source>
-        <translation>المساهمون مرتبون وفقا لعدد المشاركات:</translation>
+        <translation>المساهمون مرتبين وفقا لعدد المشاركات:</translation>
     </message>
     <message>
         <source>Copyright © %1</source>
@@ -229,7 +229,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>CLIENT-NAME</source>
-        <translation type="unfinished"/>
+        <translation>اسم الموكل</translation>
     </message>
     <message>
         <source>CHANNELS</source>
@@ -251,7 +251,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AudioPortAudio::setupWidget</name>
     <message>
         <source>BACKEND</source>
-        <translation type="unfinished"/>
+        <translation>الطرف الخلفي</translation>
     </message>
     <message>
         <source>DEVICE</source>
@@ -291,7 +291,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AudioSoundIo::setupWidget</name>
     <message>
         <source>BACKEND</source>
-        <translation type="unfinished"/>
+        <translation>الطرف الخلفي</translation>
     </message>
     <message>
         <source>DEVICE</source>
@@ -302,11 +302,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AutomatableModel</name>
     <message>
         <source>&amp;Reset (%1%2)</source>
-        <translation type="unfinished"/>
+        <translation>عين من جديد (%1%2)</translation>
     </message>
     <message>
         <source>&amp;Copy value (%1%2)</source>
-        <translation>الصق القيمة (%1%2)</translation>
+        <translation>انسخ القيمة (%1%2)</translation>
     </message>
     <message>
         <source>&amp;Paste value (%1%2)</source>
@@ -314,42 +314,42 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Edit song-global automation</source>
-        <translation type="unfinished"/>
+        <translation>حرر الأتمتة الشاملة للأغنية.</translation>
     </message>
     <message>
         <source>Connected to %1</source>
-        <translation type="unfinished"/>
+        <translation>مرتبط ب %1</translation>
     </message>
     <message>
         <source>Connected to controller</source>
-        <translation>متصل إلى المتحكم</translation>
+        <translation>مرتبط بالمتحكم</translation>
     </message>
     <message>
         <source>Edit connection...</source>
-        <translation>حرر الاتصال...</translation>
+        <translation>حرر الارتباط...</translation>
     </message>
     <message>
         <source>Remove connection</source>
-        <translation>أزل الاتصال</translation>
+        <translation>أزل الارتباط</translation>
     </message>
     <message>
         <source>Connect to controller...</source>
-        <translation>اتصل إلى المتحكم...</translation>
+        <translation>ارتبط بالمتحكم...</translation>
     </message>
     <message>
         <source>Remove song-global automation</source>
-        <translation type="unfinished"/>
+        <translation>أزل الأتمتة الشاملة للأغنية.</translation>
     </message>
     <message>
         <source>Remove all linked controls</source>
-        <translation type="unfinished"/>
+        <translation>أ</translation>
     </message>
 </context>
 <context>
     <name>AutomationEditor</name>
     <message>
         <source>Please open an automation pattern with the context menu of a control!</source>
-        <translation type="unfinished"/>
+        <translation>من فضلك افتح نمط أتمتة من قائمة سياق متحكم.</translation>
     </message>
     <message>
         <source>Values copied</source>
@@ -472,11 +472,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Automation Editor - no pattern</source>
-        <translation type="unfinished"/>
+        <translation>محرر الأتمتة - لا نمط</translation>
     </message>
     <message>
         <source>Automation Editor - %1</source>
-        <translation type="unfinished"/>
+        <translation>محرر الأنماط - 1%</translation>
     </message>
     <message>
         <source>Edit actions</source>
@@ -522,7 +522,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AutomationPatternView</name>
     <message>
         <source>Open in Automation editor</source>
-        <translation type="unfinished"/>
+        <translation>افتح في محرر الأتمتة</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -565,7 +565,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>AutomationTrack</name>
     <message>
         <source>Automation track</source>
-        <translation type="unfinished"/>
+        <translation>مقطع أتمتة</translation>
     </message>
 </context>
 <context>
@@ -596,15 +596,15 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>أضف مقطع أتمتة</translation>
     </message>
     <message>
         <source>Remove steps</source>
-        <translation type="unfinished"/>
+        <translation>أزل خطوات</translation>
     </message>
     <message>
         <source>Add steps</source>
-        <translation type="unfinished"/>
+        <translation>أضف خطوات</translation>
     </message>
     <message>
         <source>Beat selector</source>
@@ -616,7 +616,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>استنسخ الخطوات</translation>
     </message>
     <message>
         <source>Add sample-track</source>
@@ -654,7 +654,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation type="unfinished"/>
+        <translation>مستنسخ %1</translation>
     </message>
 </context>
 <context>
@@ -874,7 +874,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>أضف</translation>
     </message>
     <message>
         <source>Confirm Delete</source>
@@ -1284,18 +1284,18 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <name>EffectRackView</name>
     <message>
         <source>EFFECTS CHAIN</source>
-        <translation type="unfinished"/>
+        <translation>سلسلة التأثيرات</translation>
     </message>
     <message>
         <source>Add effect</source>
-        <translation type="unfinished"/>
+        <translation>أضف تأثيرا</translation>
     </message>
 </context>
 <context>
     <name>EffectSelectDialog</name>
     <message>
         <source>Add effect</source>
-        <translation type="unfinished"/>
+        <translation>أضف تأثيرا</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1382,11 +1382,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Move &amp;up</source>
-        <translation type="unfinished"/>
+        <translation>حرك لأعلى</translation>
     </message>
     <message>
         <source>Move &amp;down</source>
-        <translation type="unfinished"/>
+        <translation>حرك لأسفل</translation>
     </message>
     <message>
         <source>&amp;Remove this plugin</source>
@@ -1892,7 +1892,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <name>ExportProjectDialog</name>
     <message>
         <source>Export project</source>
-        <translation type="unfinished"/>
+        <translation>صدر المشروع</translation>
     </message>
     <message>
         <source>Output</source>
@@ -2032,7 +2032,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Export project to %1</source>
-        <translation type="unfinished"/>
+        <translation>صدر المشروع إلى %1</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2150,11 +2150,11 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>ابحث</translation>
     </message>
     <message>
         <source>Refresh list</source>
-        <translation type="unfinished"/>
+        <translation>جدد القائمة</translation>
     </message>
 </context>
 <context>
@@ -2181,7 +2181,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Open in new instrument-track/Song Editor</source>
-        <translation type="unfinished"/>
+        <translation>افتح في مقطع آلة جديد أو محرر الأغنية</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2311,7 +2311,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>FxMixer</name>
     <message>
         <source>Master</source>
-        <translation type="unfinished"/>
+        <translation>الرئيسية</translation>
     </message>
     <message>
         <source>FX %1</source>
@@ -2334,7 +2334,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>FxMixerView</name>
     <message>
         <source>FX-Mixer</source>
-        <translation type="unfinished"/>
+        <translation>المازج</translation>
     </message>
     <message>
         <source>FX Fader %1</source>
@@ -2442,11 +2442,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Preparing song editor</source>
-        <translation type="unfinished"/>
+        <translation>إعداد محرر الإغنية</translation>
     </message>
     <message>
         <source>Preparing mixer</source>
-        <translation type="unfinished"/>
+        <translation>إعداد المازج</translation>
     </message>
     <message>
         <source>Preparing controller rack</source>
@@ -2466,7 +2466,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Preparing automation editor</source>
-        <translation type="unfinished"/>
+        <translation>إعداد محرر الأتمتة</translation>
     </message>
 </context>
 <context>
@@ -2501,15 +2501,15 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation>أعلى</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"/>
+        <translation>أسفل</translation>
     </message>
     <message>
         <source>Up and down</source>
-        <translation type="unfinished"/>
+        <translation>أعلى و أسفل</translation>
     </message>
     <message>
         <source>Random</source>
@@ -2529,7 +2529,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Down and up</source>
-        <translation type="unfinished"/>
+        <translation>أسفل و أعلى</translation>
     </message>
     <message>
         <source>Skip rate</source>
@@ -3124,11 +3124,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>InstrumentMiscView</name>
     <message>
         <source>MASTER PITCH</source>
-        <translation type="unfinished"/>
+        <translation>الطبقة الرئيسية</translation>
     </message>
     <message>
         <source>Enables the use of Master Pitch</source>
-        <translation type="unfinished"/>
+        <translation>مكن استخدام الطبقة الرئيسية</translation>
     </message>
 </context>
 <context>
@@ -3349,7 +3349,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Master Pitch</source>
-        <translation type="unfinished"/>
+        <translation>الطبقة الرئيسية</translation>
     </message>
 </context>
 <context>
@@ -3734,50 +3734,50 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>Launching mixer threads</source>
-        <translation type="unfinished"/>
+        <translation>بدأ خيوط المازج</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>جديد</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>افتح...</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>احفظ</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>احفظ ك...</translation>
     </message>
     <message>
         <source>Import...</source>
-        <translation type="unfinished"/>
+        <translation>استورد...</translation>
     </message>
     <message>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"/>
+        <translation>صدر...</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>توقف</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>حرر</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>الأوضاع</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished"/>
+        <translation>أدوات</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -3789,7 +3789,7 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>What&apos;s this?</source>
-        <translation type="unfinished"/>
+        <translation>ما هذا؟</translation>
     </message>
     <message>
         <source>About</source>
@@ -3797,31 +3797,31 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>Create new project</source>
-        <translation type="unfinished"/>
+        <translation>أنشئ مشروعا جديدا</translation>
     </message>
     <message>
         <source>Create new project from template</source>
-        <translation type="unfinished"/>
+        <translation>أنشئ مشروعا جديدا من قالب</translation>
     </message>
     <message>
         <source>Open existing project</source>
-        <translation type="unfinished"/>
+        <translation>افتح مشروعا موجودا</translation>
     </message>
     <message>
         <source>Recently opened projects</source>
-        <translation type="unfinished"/>
+        <translation>مشاريع مفتوحة حديثا</translation>
     </message>
     <message>
         <source>Save current project</source>
-        <translation type="unfinished"/>
+        <translation>احفظ المشروع الحالي</translation>
     </message>
     <message>
         <source>Export current project</source>
-        <translation type="unfinished"/>
+        <translation>صدر المشروع الحالي</translation>
     </message>
     <message>
         <source>Song Editor</source>
-        <translation type="unfinished"/>
+        <translation>محرر الأغنية</translation>
     </message>
     <message>
         <source>By pressing this button, you can show or hide the Song-Editor. With the help of the Song-Editor you can edit song-playlist and specify when which track should be played. You can also insert and move samples (e.g. rap samples) directly into the playlist.</source>
@@ -3845,19 +3845,19 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>Automation Editor</source>
-        <translation type="unfinished"/>
+        <translation>محرر الأتمتة</translation>
     </message>
     <message>
         <source>Click here to show or hide the Automation Editor. With the help of the Automation Editor you can edit dynamic values in an easy way.</source>
-        <translation type="unfinished"/>
+        <translation>انقر هنا لتظهر أو تخفي محرر الأتمتة. بمساعدة محرر الأتمتة يمكنك تحرير القيم الديناميكية بطريقة سهلة.</translation>
     </message>
     <message>
         <source>FX Mixer</source>
-        <translation type="unfinished"/>
+        <translation>المازج</translation>
     </message>
     <message>
         <source>Click here to show or hide the FX Mixer. The FX Mixer is a very powerful tool for managing effects for your song. You can insert effects into different effect-channels.</source>
-        <translation type="unfinished"/>
+        <translation>انقر هنا لتظهر أو تخف المازج. المازج أداة فعالة لإدارة التأثيرات لأغنيتك. يمكنك إدراج التأثيرات في قنوات مختلفة.</translation>
     </message>
     <message>
         <source>Project Notes</source>
@@ -3881,7 +3881,7 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>Project not saved</source>
-        <translation type="unfinished"/>
+        <translation>لم يحفظ المشروع</translation>
     </message>
     <message>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
@@ -3926,55 +3926,55 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>My Projects</source>
-        <translation type="unfinished"/>
+        <translation>مشاريعي</translation>
     </message>
     <message>
         <source>My Samples</source>
-        <translation type="unfinished"/>
+        <translation>عيناتي</translation>
     </message>
     <message>
         <source>My Presets</source>
-        <translation type="unfinished"/>
+        <translation>سبقياتي</translation>
     </message>
     <message>
         <source>My Home</source>
-        <translation type="unfinished"/>
+        <translation>بيتي</translation>
     </message>
     <message>
         <source>My Computer</source>
-        <translation type="unfinished"/>
+        <translation>حاسوبي</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>ملف</translation>
     </message>
     <message>
         <source>&amp;Recently Opened Projects</source>
-        <translation type="unfinished"/>
+        <translation>مشاريع مفتوحة حديثا</translation>
     </message>
     <message>
         <source>Save as New &amp;Version</source>
-        <translation type="unfinished"/>
+        <translation>احفظ كإصدار جديد</translation>
     </message>
     <message>
         <source>E&amp;xport Tracks...</source>
-        <translation type="unfinished"/>
+        <translation>صدر المقاطع...</translation>
     </message>
     <message>
         <source>Online Help</source>
-        <translation type="unfinished"/>
+        <translation>مساعدة على الشبكة العالمية</translation>
     </message>
     <message>
         <source>What&apos;s This?</source>
-        <translation type="unfinished"/>
+        <translation>ما هذا؟</translation>
     </message>
     <message>
         <source>Open Project</source>
-        <translation type="unfinished"/>
+        <translation>افتح مشروعا</translation>
     </message>
     <message>
         <source>Save Project</source>
-        <translation type="unfinished"/>
+        <translation>احفظ المشروع</translation>
     </message>
     <message>
         <source>Project recovery</source>
@@ -4018,23 +4018,23 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>New from template</source>
-        <translation type="unfinished"/>
+        <translation>جديد من قالب</translation>
     </message>
     <message>
         <source>Save as default template</source>
-        <translation type="unfinished"/>
+        <translation>احفظ كالقالب الافتراضي</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>عرض</translation>
     </message>
     <message>
         <source>Toggle metronome</source>
-        <translation type="unfinished"/>
+        <translation>شغل المسرع</translation>
     </message>
     <message>
         <source>Show/hide Song-Editor</source>
-        <translation type="unfinished"/>
+        <translation>أظهر/أخف محرر الأغنية</translation>
     </message>
     <message>
         <source>Show/hide Beat+Bassline Editor</source>
@@ -4042,23 +4042,23 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Show/hide Piano-Roll</source>
-        <translation type="unfinished"/>
+        <translation>أظهر/أخف محرر البيان</translation>
     </message>
     <message>
         <source>Show/hide Automation Editor</source>
-        <translation type="unfinished"/>
+        <translation>أظهر/أخف محرر الأتمتة</translation>
     </message>
     <message>
         <source>Show/hide FX Mixer</source>
-        <translation type="unfinished"/>
+        <translation>أظهر/أخف المازج</translation>
     </message>
     <message>
         <source>Show/hide project notes</source>
-        <translation type="unfinished"/>
+        <translation>أظهر/أخف ملاحظات المشروع</translation>
     </message>
     <message>
         <source>Show/hide controller rack</source>
-        <translation type="unfinished"/>
+        <translation>أظهر/أخف حامل المضبطات</translation>
     </message>
     <message>
         <source>Recover session. Please save your work!</source>
@@ -4066,7 +4066,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Recovered project not saved</source>
-        <translation type="unfinished"/>
+        <translation>لم يحفظ المشروع المستعاد</translation>
     </message>
     <message>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
@@ -4090,19 +4090,19 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Smooth scroll</source>
-        <translation type="unfinished"/>
+        <translation>تمرير رفيق</translation>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
-        <translation type="unfinished"/>
+        <translation>مكن رقع العلامات في مخطوطة البيان</translation>
     </message>
     <message>
         <source>Save project template</source>
-        <translation type="unfinished"/>
+        <translation>احفظ قالب المشروع</translation>
     </message>
     <message>
         <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
+        <translation>الحجم ك dBFS</translation>
     </message>
     <message>
         <source>Could not open file</source>
@@ -4111,6 +4111,10 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export &amp;MIDI...</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4126,7 +4130,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>TIME SIG</source>
-        <translation type="unfinished"/>
+        <translation>دليل الوقت</translation>
     </message>
 </context>
 <context>
@@ -4155,7 +4159,7 @@ Please make sure you have write permission to the file and the directory contain
     <name>MidiImport</name>
     <message>
         <source>Setup incomplete</source>
-        <translation type="unfinished"/>
+        <translation>لم يكتمل التركيب</translation>
     </message>
     <message>
         <source>You do not have set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
@@ -5102,7 +5106,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>الحجم الرئيسي</translation>
     </message>
     <message>
         <source>Vibrato</source>
@@ -5217,7 +5221,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Master Volume</source>
-        <translation type="unfinished"/>
+        <translation>الحجم الرئيسي</translation>
     </message>
     <message>
         <source>Vibrato</source>
@@ -5373,15 +5377,15 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Add steps</source>
-        <translation type="unfinished"/>
+        <translation>أضف خطوات</translation>
     </message>
     <message>
         <source>Remove steps</source>
-        <translation type="unfinished"/>
+        <translation>أزل خطوات</translation>
     </message>
     <message>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>استنسخ الخطوات</translation>
     </message>
 </context>
 <context>
@@ -5749,7 +5753,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Instrument Plugins</source>
-        <translation type="unfinished"/>
+        <translation>موصلات الآلات</translation>
     </message>
 </context>
 <context>
@@ -5771,7 +5775,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>تراجع</translation>
     </message>
     <message>
         <source>%1+Z</source>
@@ -5779,7 +5783,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>تقدم</translation>
     </message>
     <message>
         <source>%1+Y</source>
@@ -6141,7 +6145,7 @@ Reason: &quot;%2&quot;</source>
     <name>SetupDialog</name>
     <message>
         <source>Setup LMMS</source>
-        <translation type="unfinished"/>
+        <translation>ركب LMMS</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -6189,7 +6193,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Enable note labels in piano roll</source>
-        <translation type="unfinished"/>
+        <translation>مكن رقع العلامات في مخطوطة البيان</translation>
     </message>
     <message>
         <source>Enable waveform display by default</source>
@@ -6241,7 +6245,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Smooth scroll in Song Editor</source>
-        <translation type="unfinished"/>
+        <translation>تمرير رفيق في محرر الأغنية</translation>
     </message>
     <message>
         <source>Show playback cursor in AudioFileProcessor</source>
@@ -6326,7 +6330,7 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Reopen last project on start</source>
-        <translation type="unfinished"/>
+        <translation>افتح المشروع السابق عند البدء</translation>
     </message>
     <message>
         <source>Directories</source>
@@ -6398,31 +6402,31 @@ Remember to also save your project manually. You can choose to disable saving wh
     <name>Song</name>
     <message>
         <source>Tempo</source>
-        <translation type="unfinished"/>
+        <translation>درجة السرعة</translation>
     </message>
     <message>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>الحجم الرئيسي</translation>
     </message>
     <message>
         <source>Master pitch</source>
-        <translation type="unfinished"/>
+        <translation>الطبقة الرئيسية</translation>
     </message>
     <message>
         <source>Project saved</source>
-        <translation type="unfinished"/>
+        <translation>حفظ المشروع</translation>
     </message>
     <message>
         <source>The project %1 is now saved.</source>
-        <translation type="unfinished"/>
+        <translation>حفظ المشروع %1.</translation>
     </message>
     <message>
         <source>Project NOT saved.</source>
-        <translation type="unfinished"/>
+        <translation>لم يحفظ المشروع</translation>
     </message>
     <message>
         <source>The project %1 was not saved!</source>
-        <translation type="unfinished"/>
+        <translation>لم يحفظ المشروع %1!</translation>
     </message>
     <message>
         <source>Import file</source>
@@ -6458,7 +6462,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Select file for project-export...</source>
-        <translation type="unfinished"/>
+        <translation>اختر ملفا لتصدير المشروع...</translation>
     </message>
     <message>
         <source>The following errors occured while loading: </source>
@@ -6474,7 +6478,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Save project</source>
-        <translation type="unfinished"/>
+        <translation>احفظ المشروع</translation>
     </message>
 </context>
 <context>
@@ -6502,15 +6506,15 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Tempo</source>
-        <translation type="unfinished"/>
+        <translation>درجة السرعة</translation>
     </message>
     <message>
         <source>TEMPO/BPM</source>
-        <translation type="unfinished"/>
+        <translation>درجة السرعة</translation>
     </message>
     <message>
         <source>tempo of song</source>
-        <translation type="unfinished"/>
+        <translation>درجة سرعة الأغنية</translation>
     </message>
     <message>
         <source>The tempo of a song is specified in beats per minute (BPM). If you want to change the tempo of your song, change this value. Every measure has four beats, so the tempo in BPM specifies, how many measures / 4 should be played within a minute (or how many measures should be played within four minutes).</source>
@@ -6522,19 +6526,19 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>الحجم الرئيسي</translation>
     </message>
     <message>
         <source>master volume</source>
-        <translation type="unfinished"/>
+        <translation>الحجم الرئيسي</translation>
     </message>
     <message>
         <source>Master pitch</source>
-        <translation type="unfinished"/>
+        <translation>الطبقة الرئيسية</translation>
     </message>
     <message>
         <source>master pitch</source>
-        <translation type="unfinished"/>
+        <translation>الطبقة الرئيسية</translation>
     </message>
     <message>
         <source>Value: %1%</source>
@@ -6569,7 +6573,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     <name>SongEditorWindow</name>
     <message>
         <source>Song-Editor</source>
-        <translation type="unfinished"/>
+        <translation>محرر الأغنية</translation>
     </message>
     <message>
         <source>Play song (Space)</source>
@@ -6597,7 +6601,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>أضف مقطع أتمتة</translation>
     </message>
     <message>
         <source>Draw mode</source>
@@ -6684,7 +6688,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     <name>TempoSyncKnob</name>
     <message>
         <source>Tempo Sync</source>
-        <translation type="unfinished"/>
+        <translation>تزامن درجة السرعة</translation>
     </message>
     <message>
         <source>No Sync</source>
@@ -6763,15 +6767,15 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>MIN</source>
-        <translation type="unfinished"/>
+        <translation>دقائق</translation>
     </message>
     <message>
         <source>SEC</source>
-        <translation type="unfinished"/>
+        <translation>ثواني</translation>
     </message>
     <message>
         <source>MSEC</source>
-        <translation type="unfinished"/>
+        <translation>مليثواني</translation>
     </message>
     <message>
         <source>BAR</source>
@@ -6951,7 +6955,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Clone this track</source>
-        <translation type="unfinished"/>
+        <translation>استنسخ هذا المقطع</translation>
     </message>
     <message>
         <source>Remove this track</source>
@@ -7148,7 +7152,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Show/hide GUI</source>
-        <translation type="unfinished"/>
+        <translation>أظهر/أخف و.م.ر</translation>
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of your VST-plugin.</source>
@@ -7242,7 +7246,7 @@ Please make sure you have read-permission to the file and the directory containi
     <name>VstEffectControlDialog</name>
     <message>
         <source>Show/hide</source>
-        <translation type="unfinished"/>
+        <translation>أظهر/أخف</translation>
     </message>
     <message>
         <source>Control VST-plugin from LMMS host</source>

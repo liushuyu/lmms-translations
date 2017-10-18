@@ -10,30 +10,30 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-18 14:14-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: 방성범 (Bang Seongbeom) <bangseongbeom@gmail.com>, 2017\n"
-"Language-Team: Korean (https://www.transifex.com/lmms/teams/61632/ko/)\n"
+"Last-Translator: Hussam Eddin Alhomsi <hussameddin.alhomsi@gmail.com>, 2017\n"
+"Language-Team: Arabic (https://www.transifex.com/lmms/teams/61632/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ko\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
 #: competitions.twig:10
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:13
 msgid "Competitions"
-msgstr ""
+msgstr "المنافسات"
 
 #: competitions.twig:10
 msgid "Official competitions organised by LMMS and its community members"
-msgstr ""
+msgstr "المنافسات الرسمية المنظمة من قبل LMMS و أعضاء مشتركه"
 
 #: competitions.twig:15
 msgid "Past competitions:"
-msgstr ""
+msgstr "المنافسات المنصرمة:"
 
 #: competitions.twig:18
 msgid "The Best of LMMS vol. IV"
-msgstr ""
+msgstr "الأفضل من LMMS الرابعة"
 
 #: /tmp/cache/twig/lmms.io/08/08a5fe4671d394faeee72e72a7e0ae6796acedc57ee19ce6aa561168a081d296.php:73
 msgid ""
@@ -74,10 +74,46 @@ msgid ""
 "\t\t\t  - The 25 highest scoring songs will be released as an album on Bandcamp with the price of \"Pay what you want\".\n"
 "\t\t\t\t\tAll the received funds will be donated for further development of LMMS, the program that we love."
 msgstr ""
+"####انتهت المسابقة في **السادس عشر من أبريل، 2017.**\n"
+"\t\t\tادعم LMMS و اشتر المجموعة على [صفحة bandcamp](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4) خاصتنا.\n"
+"\n"
+"\t\t\tأصغ إلى جميع المشاركات [هنا.](https://docs.google.com/spreadsheets/d/1pPoM7CQIg5C4uzgOrlRnytJiAsOD5K6jxitF-SIjXRQ/pubhtml?gid=975440614&single=true)\n"
+"\n"
+"\t\t\tالفائزون:\n"
+"\t\t\t<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/321234884&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false\"></iframe>\n"
+"\t\t\t####الوصف الأصلي:\n"
+"\t\t\tنحن مبتهجون لتقدمة مسابقة الأفضل من LMMS الرابعة لكم!\n"
+"\t\t\tتهدف المسابقة إلى إلهاب المشترك لإبداع و مشاركة موسيقاهم. قدم مقطعك عند الرابط أدناه قبل منتصف الليل (23:59:59)\n"
+"  \t\tفي السادس عشر من أبريل بالتوقيت العالمي المنسق لفرصة لتبرز في ألبوم الأفضل من LMMS الإصدار الرابع. ستحمل المجموعة إلى Bandcamp،\n"
+"\t\t\tمع كل العائدات ذاهبة إلى التطوير الإضافي لأجل LMMS.\n"
+"\t\t\tستعامل تقدمات هذه السنة بوسطة استمارات Google. نحن نقبل تقدمات مستضافة على YouTube, Souncloud و Clyp. للقوانين الكاملة تحقق من استمارة التقدمة:\n"
+"\t\t\thttps://goo.gl/forms/cifEliOViOXTSc8H2\n"
+"\t\t\t####قواعد المنافسة:\n"
+"\t\t\t1. **الموعد الأخير**\n"
+"\t\t\tيجب أن تقدم المقاطع قبل السادس عشر من أبريل عند 23:59.59 بالتوقيت العالمي المنسق باستخدام [هذه الاستمارة](https://goo.gl/forms/cifEliOViOXTSc8H2).\n"
+"\t\t\t2. **المقاطع**\n"
+"\t\t\t  -يجب أن تنتج في LMMS.\n"
+"\t\t\t\t- يمكنك استخدام برامج أخرى للأستذة و المعالجة البعدية.\n"
+"\t\t\t\t- يجب أن تكون أقل من 10 دقائق.\n"
+"\t\t\t\t- لا يجاز بمقاطع فائزة من ألبومات الأفضل من LMMS السابقة.\n"
+"\t\t\t\t- لا يجاز بمقاطع مزجت من جديد.\n"
+"\t\t\t3. **التقدمات**\n"
+"\t\t\t  - يجب أن تقدم باستخدام هذه الاستمارة فقط.\n"
+"\t\t\t\t- لا يجاز بأكثر من مشاركتين لكل فنان.\n"
+"\t\t\t\t- تعتبر الاشتراكات كمشاركة **واحدة** لكل فنان متورط.\n"
+"\t\t\t\t لا يجاز إلا بالتقدمات المستضافة على Soundcloud أو YouTube أو Clyp.\n"
+"\t\t\t\t- يجب أن تكون مشاركتك متوفرة للإصغاء إلى نهاية عملية التحكيم. إذا لم تكن كذلك، ستحرم مشاركتك من الاشتراك.\n"
+"\t\t\t4. **الحكام**\n"
+"\t\t\t  - يتألف المحكمون من: Greippi و Jacoby Davis و Spekular و Stakeout Punch و Squatro.\n"
+"\t\t\t5. **عملية التحكيم**\n"
+"\t\t\t  بعد الموعد الأخير، سيقرر الحكام و ينشروا النتائج في أقل من 14 يوما.\n"
+"\t\t\t6. ** الإصدار**\n"
+"\t\t\t  - الأغاني الخمس و عشرون الأعلى تسجيلا ستنشر كألبوم على Bandcamp مع سعر \"ادفع ما تشاء\".\n"
+"\t\t\t\t\tستمنح كل الموارد المالية المستلمة للتطوير الإضافي لأجل LMMS، البرنامج الذي نحبه."
 
 #: competitions.twig:66
 msgid "The Best of LMMS vol. III"
-msgstr ""
+msgstr "الأفضل من LMMS الثالثة"
 
 #: /tmp/cache/twig/lmms.io/08/08a5fe4671d394faeee72e72a7e0ae6796acedc57ee19ce6aa561168a081d296.php:134
 msgid ""
@@ -106,10 +142,33 @@ msgid ""
 "\t\t\t5. Release. The compilation will be released on a dedicated LMMS artists Bandcamp with the price of “Pay what you want”. All the received funds\n"
 "\t\t\t\twill be donated for further development of LMMS, the program that we love."
 msgstr ""
+"####انتهت المنافسة في **السادس عشر من مارس، 2016.**\n"
+"\t\t\tادعم LMMS و اشتر المجموعة على [صفحة bandcamp](https://lmmsartists.bandcamp.com/) خاصتنا.\n"
+"\n"
+"\t\t\tأصغ إلى جميع المشاركات [هنا.](https://soundcloud.com/groups/the-best-of-lmms-competition-v3)\n"
+"\n"
+"\t\t\tالفائزون:\n"
+"\t\t\t<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/211975750&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false\"></iframe>\n"
+"\t\t\t####الوصف الأصلي:\n"
+"\n"
+"\t\t\tإنه ذلك الوقت من السنة من جديد: إذا صنعت أغان مذهلة بواسطة LMMS لدينا مسابقة لك! \n"
+"\t\t\tعادت مسابقة الأفضل من LMMS! تهدف المجموعة إلى إلهاب المستخدمين الجدد و الجميع لإبداع الموسيقى.\n"
+"\t\t\tستحمل المجموعة إلى Bandcamp و ستمنح كل العائدات للتطوير الإضافي لأجل LMMS.\n"
+"\t\t\tقدم مقاطعك قبل منتصف الليل في السادس عشر من مارس (الوقت العالمي المنسق)، و جد تفاصيل عن المسابقة على [مجموعة Soundcloud.](https://soundcloud.com/groups/the-best-of-lmms-competition-v3)\n"
+"\n"
+"\t\t\t####قواعد المسابقة:\n"
+"\n"
+"\t\t\t1. الموعد الأخير. يجب أن تقدم المقاطع قبل منتصف ليل السادس عشر من مارس بالتوقيت العالمي المنسق. يمكن للمقاطع أن يكونوا من أي نوع، يفضل أن يكونوا تحت 10 دقائق.\n"
+"\t\t\t\tيجب أن تنتج المقاطع في أغلبها في LMMS، لكن يجوز استخدام بعض البرمجيات الأخرى (Audacity, Ardour إلخ.) للمزج/للأستذة التاليين.\n"
+"\t\t\t2. المقاطع. ستعامل جميع التقدمت عبر Soundcloud باستخدام المجموعة المخصصة. يمكنك تقدمة مقطعين كحد أقصى.\n"
+"\t\t\t\tيمكنك تقدمة مقاطع منشورة سابقا، لكن ليس مقاطع كانت في ألبومات الأفضل من LMMS السابقة. لا يجاز بمقاطع مزجت من جديد. لا يجاز باشتراك بين حكم و بينك.\n"
+"\t\t\t3. الحكام. يتألف المحكمون من: Zach Henderson و Second Flight و Umcaruje و Greippi و Tres Finnochiaro و Abludo.\n"
+"\t\t\t4. عملية التحكيم. بعد الموعد الأخير، سيقرر الحكام و ينشروا النتائج في أقل من الأيام الأربعة عشر التالية.\n"
+"\t\t\t5. النشر. ستنشر المجموعة على Bandcamp فناني LMMS مخصص مع سعر \"ادفع ما تشاء\". ستمنح كل الموارد المالية المستلمة للتطوير الإضافي لأجل LMMS، البرنامج الذي نحبه."
 
 #: competitions.twig:102
 msgid "The Best of LMMS vol. II"
-msgstr ""
+msgstr "الأفضل من LMMS الثانية"
 
 #: /tmp/cache/twig/lmms.io/08/08a5fe4671d394faeee72e72a7e0ae6796acedc57ee19ce6aa561168a081d296.php:183
 msgid ""
@@ -137,10 +196,33 @@ msgid ""
 "\t\t\ttext so you won't know from who or how many the feedback is. Note that you aren't guaranteed any feedback, it depends on how much time the judges have.\n"
 "\t\t\tAlso note that the judges are just regular LMMS artists and no matter what feedback you get the judges' decision for album songs is final."
 msgstr ""
+"####انتهت المنافسة في **الأول من أبريل، 2015.**\n"
+"\n"
+"\t\t\tادعم LMMS و اشتر المجموعة على [صفحة bandcamp](https://lmmsartists.bandcamp.com/) خاصتنا\n"
+"\n"
+"\t\t\tأصغ إلى جميع المشاركات [هنا.](https://soundcloud.com/groups/the-best-of-lmms-competition-v2)\n"
+"\n"
+"\t\t\tالفائزون:\n"
+"\t\t\t<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/103762698&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false\"></iframe>\n"
+"\t\t\t#### الوصف الأصلي:\n"
+"\t\t\t1. الموعد الأخير. يجب أن تقدم الأغاني قبل منتصف ليل الأول من أبريل بالتوقيت العالمي المنسق. يمكن للأغاني أن يكونوا من أي نوع، يفضل أن يكونوا تحت 10 دقائق.\n"
+"\t\t\t\tيجب أن تصنع الأغنية في أغلبها في LMMS، لكن يجوز استخدام بعض البرمجيات الأخرى (Audacity, Ardour إلخ.) للمزج/للأستذة التاليين.\n"
+"\t\t\t2. الأغاني. ستعامل جميع التقدمات بواسطة Soundcloud باستخدام المجموعة المخصصة. يمكن للمستخدم تقديم أغنيتين كحد أقصى.\n"
+"\t\t\t\tيمكن للمستخدم تقدمة أغان منشورة سابقا، لكن ليس أغان مقدمة لمنافسات الأفضل من LMMS السابقة. لا يجاز بأغان مزجت من جديد.\n"
+"\t\t\t\tلا يجاز بتعاون في أغنية بين حكم و بينك.\n"
+"\t\t\t3. الحكام و النشر. يتألف الحكام من Stian Jørgensrud (Sti-Jay) و Ian Letarte و Hashhakaj kamaluden و Fastigium, artlu و TRonix و Jernemies.\n"
+"\t\t\t\tستنشر المجموعة على Bandcamp فناني LMMS المخصص مع سعر \"ادفع ما تشاء\". ستمنح كل الموارد المالية المستلمة للتطوير الإضافي لأجل LMMS\n"
+"\t\t\t\tأو لتغطية تكاليف أخرى متصلة بالبرنامج.\n"
+"\n"
+"\t\t\tأشياء إضافية:\n"
+"\n"
+"\t\t\tبتعليم أغنيتك بالتعبير \"أريد تغذية استرجاعية\" يمكنك الحصول على تغذية استرجاعية من الحكام. ستجمع ملاحظات أو انتقادات من حكام مختلفين في\n"
+"\t\t\tنص واحد لكي لا تعلم مِن مَن أو كم التغذية الاسترجاعية. لاحظ أنك لست ضامنا أي تغذية استرجاعية، هي تتوقف على كم من الوقت لدى الحكام.\n"
+"\t\t\tلاحظ أيضا أن الحكام هم مجرد فناني LMMS اعتياديين و مهما تكون التغذية الاسترجاعية التي تحصل عليها فإن قرار الحكام لأغاني الألبوم نهائي."
 
 #: competitions.twig:137
 msgid "The Best of LMMS vol. I"
-msgstr ""
+msgstr "الأفضل من LMMS الأولى"
 
 #: /tmp/cache/twig/lmms.io/08/08a5fe4671d394faeee72e72a7e0ae6796acedc57ee19ce6aa561168a081d296.php:231
 msgid ""
@@ -169,30 +251,53 @@ msgid ""
 "\t\t\t4. Release. The compilation will be released on a dedicated LMMS artists Bandcamp with the price of “Pay what you want”. All the received funds\n"
 "\t\t\t\twill be donated for further development of LMMS, the program that we love."
 msgstr ""
+"####انتهت المنافسة في **الخامس عشر من فبراير، 2014.**\n"
+"\n"
+"\t\t\tادعم LMMS و اشتر المجموعة على [صفحة bandcamp](https://lmmsartists.bandcamp.com/) خاصتنا\n"
+"\n"
+"\t\t\tأصغ إلى جميع المشاركات [هنا.](https://soundcloud.com/groups/lmms-top-songs-compilation)\n"
+"\n"
+"\t\t\tالفائزون:\n"
+"\t\t\t<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/27083727&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false\"></iframe>\n"
+"\t\t\t####الوصف الأصلي:\n"
+"\n"
+"\t\t\tإذا صنعت أغان مذهلة بواسطة LMMS لدينا مسابقة لك! مسابقة صفوة أغاني LMMS.\n"
+"تسعى المجموعة إلى إلهاب و دفع المستخدمين المستجدين و جلب منتجين جدد ليستخدموا البرنامج بالإضافة إلى تقدمة شكر جزيل لمطوري LMMS.\n"
+"ستحمل المجموعة إلى Bandcamp و سيتبرع بجميع الأرباح للتطوير الإضافي لأجل LMMS. قدم أغانيك قبل منتصف الليل في الخامس عشر من فبراير،\n"
+"\t\t\tو جد تفاصيل عن هذه المسابقة على موقع Soundcloud.\n"
+"\n"
+"\t\t\t#### قواعد المسابقة:\n"
+"\t\t\t1. الموعد الأخير. يجب أن تقدم الأغاني قبل الخامس عشر من فبراير ب.ظ بتوقيت غرينتش. يمكن للمستخدم تقدمة أغنيتين كحد أقصى. يمكن للأغنيتين أن يكونا من أي نوع،\n"
+"\t\t\t\tيفضل أن يكونا تحت 10 دقائق. ستعامل جميع التقدمات بواسطة Soundcloud باستخدام المجموعة المخصصة. يمكن للمستخدم تقدمة أغان منشورة سابقا.\n"
+"\t\t\t\tلا يجاز بأغان مزجت من جديد. يجب أن تصنع الأغنية في أغلبها في LMMS، لكن يجوز استخدام بعض البرمجيات الأخرى (Audacity, Ardour إلخ.) للمزج/للأستذة التاليين.\n"
+"\t\t\t2.الحكام. يتألف الحكام من المجموعة Avelocity و التي تتألف من: Brian Amin (Maniarib) و Joshua Wade (Second Flight) و Uroš Maravić (Umcaruje)\n"
+"\t\t\t\tو Evan Roberts (Stakeout Punch) و Joshua Flynn (Raptor980) و Jan Heemstra (Combustible Lemonade)\n"
+"\t\t\t3. عملية التحكيم. بعد الموعد الأخير، سيقرر الحكام و ينشروا النتائج في أقل من الأيام السبع التالية.\n"
+"\t\t\t4. النشر. ستنشر المجموعة على Bandcamp فناني LMMS مخصص مع سعر \"ادفع ما تشاء\". ستمنح كل الموارد المالية المستلمة للتطوير الإضافي لأجل LMMS، البرنامج الذي نحبه."
 
 #: branding.twig:6 /home/liushuyu/Development/lmms.io/public/navbar.php:14
 msgid "Branding"
-msgstr ""
+msgstr "التسويق"
 
 #: branding.twig:6
 msgid "Download LMMS Artwork"
-msgstr "LMMS 아트워크 다운로드"
+msgstr "حمل عمل LMMS الفني"
 
 #: branding.twig:8
 msgid "LMMS Logo"
-msgstr "LMMS 로고"
+msgstr "شعار LMMS"
 
 #: branding.twig:8 branding.twig:17
 msgid "LMMS Development Team"
-msgstr "LMMS 개발 팀"
+msgstr "فريق تطوير LMMS"
 
 #: branding.twig:17
 msgid "LMMS Project Icon"
-msgstr "LMMS 프로젝트 아이콘"
+msgstr "أيقونة مشروع LMMS"
 
 #: get-involved.twig:6 /home/liushuyu/Development/lmms.io/public/navbar.php:7
 msgid "Get Involved"
-msgstr "참여하기"
+msgstr "تورط"
 
 #: get-involved.twig:6
 msgid ""
@@ -201,18 +306,22 @@ msgid ""
 "\tnumber to grow. So if you feel like giving something back to the community,\n"
 "\tjoin us in making LMMS better!"
 msgstr ""
+"LMMS هو برنامج مفتوح المصدر و مجاني مبني كليا من قبل عدد صغير من\n"
+"\tالمتطوعين في وقتهم الفارغ. لكن لنبقي المشروع موجودا، نحتاج إلى أن\n"
+"\tبكير هذا العدد. و هكذا إذا كنت ترغب في إعادة شيء ما إلى المشترك،\n"
+"\tالتحق بنا في جعل LMMS أفضل!"
 
 #: get-involved.twig:11
 msgid "What you can do"
-msgstr "무엇을 할 수 있을까요?"
+msgstr "ما يمكنك فعله"
 
 #: get-involved.twig:12
 msgid "There are multiple ways of contributing:"
-msgstr "기여할 수 있는 다양한 방법이 있습니다:"
+msgstr "هناك عدة طرق للمشاركة:"
 
 #: get-involved.twig:18
 msgid "Join Development"
-msgstr "개발에 참여하기"
+msgstr "التحق بالتطوير"
 
 #: get-involved.twig:21
 msgid ""
@@ -220,6 +329,9 @@ msgid ""
 "\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
 "\t\t\t\t\t   coding!"
 msgstr ""
+"نحن في حاجة شديدة لمطورين جدد للالتحاق بفريقنا. LMMS مكتوب في ++C باستخدام إطار عمل Qt،\n"
+"\t\t\t\t\t   و هكذا إذا كنت تعلم شيئا أو اثنين عن هذين، لا تتردد في\n"
+"\t\t\t\t\t   البرمجة!"
 
 #: get-involved.twig:24
 msgid ""
@@ -228,10 +340,12 @@ msgid ""
 "\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
 "\t\t\t\t\t   to introduce yourself."
 msgstr ""
+"انظر<a href=\"//github.com/LMMS/lmms/wiki\">ويكي GitHub</a> خاصتنا و\n"
+"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">مراقب الأخطاء</a> خاصتنا لتبدأ."
 
 #: get-involved.twig:35
 msgid "Website & Docs"
-msgstr "웹 사이트 및 문서"
+msgstr "موقع الويب و الوثائق"
 
 #: get-involved.twig:38
 msgid ""
@@ -239,6 +353,9 @@ msgid ""
 "\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, our documentation is hosted using a\n"
 "\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki instance</a>."
 msgstr ""
+"يمكنك مساعدتنا بتحسين هذا الموقع أو توثيق البرمجيات. مصادر موقع الويب موجودة في\n"
+"\t\t\t\t\t   مخزن GitHub خاصتنا <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>، توثيقنا مستضاف باستخدام\n"
+"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">مرحلة MediaWiki </a>."
 
 #: get-involved.twig:41
 msgid ""
@@ -246,24 +363,29 @@ msgid ""
 "\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> if you're\n"
 "\t\t\t\t\t   interested in helping out with the documentation!"
 msgstr ""
+"التسجيل العام على ويكينا معطل بسبب قضايا منشورات و رسائل لا علاقية أو غير ملائمة. من فضلك، انشر إلى \n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">قائمة البريد</a> إذا أنت\n"
+"\t\t\t\t\t   مهتم في المساعدة في التوثيق!"
 
 #: get-involved.twig:53
 msgid "Donate"
-msgstr "기부"
+msgstr "تبرع"
 
 #: get-involved.twig:56
 msgid ""
 "Even though donations are not the thing we need the most (that'd be developers), they help us pay\n"
 "\t\t\t\t\t   our bills, for our domain lmms.io for instance."
 msgstr ""
+"حتى و لو أن التبرعات ليست أكثر شيء نحتاجه (هذا سيكون المطورين)، هي تساعدنا في دفع\n"
+"ضرائبنا، لملكنا lmms.io مثلا."
 
 #: get-involved.twig:59
 msgid "Donate via PayPal"
-msgstr "PayPal로 기부"
+msgstr "تبرع بواسطة PayPal"
 
 #: get-involved.twig:68
 msgid "Translations"
-msgstr "번역"
+msgstr "الترجمات"
 
 #: get-involved.twig:71
 msgid ""
@@ -272,29 +394,35 @@ msgid ""
 "\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
 "\t\t\t\t\t   GitHub Wiki."
 msgstr ""
+"إذا كانت لغتك مفقودة في LMMS، أفد المشروع و المستخدمين الآخرين الذين يتكلمون اللغة نفسها\n"
+"\t\t\t\t\t   بترجمة البرمجيات. يمكنك أن تجد التعليمات على الصفحة\n"
+"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">إنشاء مركزة</a>\" في\n"
+"\t\t\t\t\t   ويكي GitHub خاصتنا."
 
 #: get-involved.twig:80
 msgid "How to get in touch"
-msgstr "연락하는 법"
+msgstr "كيف تتواصل"
 
 #: get-involved.twig:86
 msgid "Mailing List"
-msgstr "메일링 리스트"
+msgstr "قائمة البريد"
 
 #: get-involved.twig:89
 msgid ""
 "Posting to the mailing list is the best way to reach out to our developers:"
-msgstr ""
+msgstr "النشر إلى قائمة البريد هو أفضل طريقة للاتصال بمطورينا:"
 
 #: get-involved.twig:90
 msgid "Subscribe to LMMS-Devel mailing list"
-msgstr ""
+msgstr "اشترك بقائمة بريد مطوري-LMMS"
 
 #: get-involved.twig:101
 msgid ""
 "Our IRC channel is <a href=\"irc://chat.freenode.net/#lmms\">#lmms</a> on\n"
 "\t\t\t\t\t<a href=\"https://freenode.net/irc_servers.shtml\">Freenode</a>"
 msgstr ""
+"فناة IRC خاصتنا هي <a href=\"irc://chat.freenode.net/#lmms\">#lmms</a> على\n"
+"\t\t\t\t\t<a href=\"https://freenode.net/irc_servers.shtml\">Freenode</a>"
 
 #: get-involved.twig:103
 msgid ""
@@ -306,57 +434,63 @@ msgstr ""
 #: get-involved.twig:116
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:9
 msgid "Forum"
-msgstr "포럼"
+msgstr "المنتدى"
 
 #: get-involved.twig:119
 msgid "We host a forum for our users here on this website:"
-msgstr ""
+msgstr "نحن نستضيف منتدى لأعضائنا هنا على موقع الويب هذا:"
 
 #: get-involved.twig:131
 msgid ""
 "For reporting a bug or suggesting a new feature, please use the GitHub issue"
 " tracker:"
 msgstr ""
+"لتقدمة تقرير عن خطأ أو اقتراح ميزة بارزة جديدة، من فضلك استخدم مراقب قضايا "
+"GitHub:"
 
 #: errorpage.twig:8
 msgid ""
 "If you followed a valid link on this site, please contact us\n"
 "      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
 msgstr ""
+"إذا اتبعت رابطا فعالا على هذا الموقع، من فضلك، تواصل معنا عنه\n"
+"و <a href=\"//github.com/LMMS/lmms.io/issues/new\">أنشئ قضية</a> على GitHub."
 
 #: foot.twig:14
 msgid "Powered by"
-msgstr "제공"
+msgstr "ممد بواسطة"
 
 #: download/index.twig:32
 msgid "Download LMMS"
-msgstr "LMMS 다운로드"
+msgstr "حمل LMMS"
 
 #: download/index.twig:32
 msgid ""
 "Downloading and using LMMS is free! Just choose the operating system you "
 "want to run LMMS on:"
-msgstr "LMMS는 무료로 사용할 수 있습니다! LMMS를 실행할 운영 체제를 선택하세요:"
+msgstr ""
+"تحميل و استخدام LMMS مجاني! فقط اختر نظام التشغيل الذي تريد أن تشغل LMMS "
+"عليه:"
 
 #: download/index.twig:55
 msgid "Install LMMS on Windows"
-msgstr "Windows에서 LMMS 설치하기"
+msgstr "ركب LMMS على Windows"
 
 #: download/index.twig:56
 msgid ""
 "Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
 "Windows"
-msgstr "아래의 버튼(32비트 또는 64비트)을 클릭하여 LMMS의 Windows 버전을 다운로드하시기 바랍니다."
+msgstr "انقر أحد الأزرار أدناه (إما 32-بت أو 64-بت) لتحمل لأجل Windows"
 
 #: download/index.twig:57
 #: /tmp/cache/twig/lmms.io/73/73e267c5f92f918eb282bdac38fc48f8b1ad1b8f06ed43c8dc117ae24298c196.php:129
 msgid "Stable Versions"
-msgstr "안정 버전"
+msgstr "الإصدارات المستقرة"
 
 #: /tmp/cache/twig/lmms.io/73/73e267c5f92f918eb282bdac38fc48f8b1ad1b8f06ed43c8dc117ae24298c196.php:95
 #: /tmp/cache/twig/lmms.io/73/73e267c5f92f918eb282bdac38fc48f8b1ad1b8f06ed43c8dc117ae24298c196.php:156
 msgid "Beta Versions"
-msgstr "베타 버전"
+msgstr "الإصدارات البائية"
 
 #: download/index.twig:73
 msgid "Install LMMS on macOS"
@@ -368,67 +502,71 @@ msgstr ""
 
 #: download/index.twig:91
 msgid "Downloads labeled Beta are pre-release software, stability may suffer."
-msgstr ""
+msgstr "التحميلات المصنفة \"بائية\" هي يرمجيات قبل إصدارية، قد يعاني الاستقرار."
 
 #: download/index.twig:92
 msgid "Previous releases"
-msgstr ""
+msgstr "الإصدارات السابقة"
 
 #: download/index.twig:10
 msgid "Free Download"
-msgstr ""
+msgstr "تحميل مجاني"
 
 #: /tmp/cache/twig/lmms.io/73/73e267c5f92f918eb282bdac38fc48f8b1ad1b8f06ed43c8dc117ae24298c196.php:351
 msgid "Show release notes"
-msgstr ""
+msgstr "أظهر ملاحظات الإصدار"
 
 #: showcase.twig:6 /home/liushuyu/Development/lmms.io/public/navbar.php:12
 msgid "Showcase"
-msgstr ""
+msgstr "خزانة العرض"
 
 #: showcase.twig:6
 msgid "Tracks made with LMMS"
-msgstr ""
+msgstr "مقاطع مصنوعة باستخدام LMMS"
 
 #: showcase.twig:12
 msgid "The Best of LMMS Vol.3 by LMMS Artists"
-msgstr ""
+msgstr "الأفضل من LMMS الثالثة بواسطة فناني LMMS"
 
 #: showcase.twig:20
 msgid "The Best of LMMS Vol.2 by LMMS Artists"
-msgstr ""
+msgstr "الأفضل من LMMS الثانية بواسطة فناني LMMS"
 
 #: showcase.twig:28
 msgid "The Best of LMMS Vol.1 by LMMS Artists"
-msgstr ""
+msgstr "الأفضل من LMMS الأولى بواسطة فناني LMMS"
 
 #: download/linux.twig:6
 msgid "Install LMMS on Linux"
-msgstr "리눅스에서 LMMS 설치하기"
+msgstr "ركب LMMS على Linux"
 
 #: download/linux.twig:8
 msgid ""
 "LMMS is included in most major Linux distribution's package repositories.<br>\n"
 "\tPlease <a href=\"/community/\">contact us</a> if your distribution is not listed here."
 msgstr ""
+"LMMS متضمن في معظم مستودعات رزم موزعات Linux البارزة.<br>\n"
+"\tمن فضلك <a href=\"/community/\">تواصل معنا</a> إذا كان موزعك غير مدرج هنا."
 
 #: download/linux.twig:51
 msgid ""
 "For installing LMMS on Debian based distributions such as Debian itself, "
 "Ubuntu or Linux Mint, just click the button below."
 msgstr ""
+"لتركيب LMMS على موزعات مبنية على Debian مثل Debian في حد ذاته، Ubuntu أو "
+"Linux Mint، فقط انقر على الزر أدناه."
 
 #: download/linux.twig:54
 msgid "Install Now"
-msgstr "지금 설치"
+msgstr "ركب الآن"
 
 #: /tmp/cache/twig/lmms.io/cf/cffd2710715f60e964f092fc008e5dd43c7ef64789164e706d246c1169928575.php:86
 msgid "(From Package Manager)"
-msgstr ""
+msgstr "(من مدير الرزم)"
 
 #: download/linux.twig:56
 msgid "If this doesn't work for you, run this command in a terminal."
-msgstr ""
+msgstr "إذا لم يعمل هذا لأجلك، شغل هذا الأمر في نهاية."
 
 #: download/linux.twig:58
 msgid ""
@@ -436,10 +574,13 @@ msgid ""
 "href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
 "repository</a>."
 msgstr ""
+"إذا تخلفت المستودعات التقليدية عن الإصدارات، جرب <a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">مستودع "
+"KXStudio</a>."
 
 #: download/linux.twig:59 download/linux.twig:80
 msgid "VST Support"
-msgstr "VST 지원"
+msgstr "دعم VST"
 
 #: download/linux.twig:60
 msgid ""
@@ -448,14 +589,18 @@ msgid ""
 "href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
 "repository</a>, run this command in a terminal."
 msgstr ""
+"إذا كان موزعك يقدم دعم VST (يتطلب تركيب Wine) فهو يقدم عموما في رزمة منفصلة."
+" مثلا، مستخدما <a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">مستودع "
+"KXStudio</a>، شغل هذا الأمر في نهاية."
 
 #: download/linux.twig:66 download/linux.twig:72
 msgid "Run the following command as root in a terminal:"
-msgstr "터미널에서 다음 명령어를 루트 권한으로 실행하세요:"
+msgstr "شغل الأمر التالي كأصل في نهاية:"
 
 #: download/linux.twig:78 download/linux.twig:92
 msgid "Run the following command in a terminal:"
-msgstr "터미널에서 다음 명령어를 실행하세요:"
+msgstr "شغل الأمر التالي في نهاية:"
 
 #: download/linux.twig:81
 msgid ""
@@ -463,28 +608,32 @@ msgid ""
 "href=\"https://wiki.archlinux.org/index.php/LMMS\" target=\"_blank\">Arch "
 "LMMS wiki page</a>"
 msgstr ""
+"لدعم VST، من فضلك انظر <a href=\"https://wiki.archlinux.org/index.php/LMMS\""
+" target=\"_blank\">صفحة ويكي LMMS Arch</a>"
 
 #: download/linux.twig:98
 msgid ""
 "AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and "
 "more to come in the future), with VST support enabled by default on AMD64."
 msgstr ""
+"AOSC OS يرسل LMMS على منافذ معمارية متنوعة (AMD64/x86_64, ARMv7، و سيأتي "
+"المزيد في المستقبل)، مع دعم VST ممكن افتراضيا على AMD64."
 
 #: download/linux.twig:99
 msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
-msgstr ""
+msgstr "لكي تركب LMMS على AOSC OS بواسطة PackageKit (موصى به):"
 
 #: download/linux.twig:101
 msgid "To install LMMS on AOSC OS with DPKG:"
-msgstr ""
+msgstr "لكي تركب LMMS على AOSC OS بواسطة RPM:"
 
 #: download/linux.twig:103
 msgid "To install LMMS on AOSC OS with RPM:"
-msgstr ""
+msgstr "لكي تركب LMMS على AOSC OS بواسطة RPM:"
 
 #: download/linux.twig:109
 msgid "Build LMMS from source"
-msgstr "소스 코드로부터 LMMS 빌드하기"
+msgstr "ابن LMMS من المصدر"
 
 #: download/linux.twig:110
 msgid ""
@@ -493,9 +642,10 @@ msgid ""
 "href=\"https://github.com/LMMS/lmms/wiki/Compiling-lmms\">LMMS development "
 "wiki on GitHub</a> for instructions on how to compile LMMS for Linux."
 msgstr ""
-"만약 사용 중인 리눅스 배포판이 LMMS 패키지를 제공하지 않거나 오래된 패키지만을 제공할 경우, LMMS를 소스 코드로부터 빌드할 수 "
-"있습니다. 컴파일 방법은 <a href=\"https://github.com/LMMS/lmms/wiki/Compiling-"
-"lmms\">GitHub의 LMMS 위키 페이지</a>를 참고하여 주시기 바랍니다."
+"إذا كان موزعك من Linux لا يوفر رزمة LMMS (أو واحدة مماتة فقط)، لا يزال يمكنك"
+" بناء LMMS من المصدر. زر <a href=\"https://github.com/LMMS/lmms/wiki"
+"/Compiling-lmms\">ويكي تطوير LMMS على GitHub</a> لتعليمات على كيفية تجميع "
+"LMMS لأجل Linux."
 
 #: /tmp/cache/twig/lmms.io/e4/e4b52be3c3e53a4e6f07b7ccbc91665e4753775702fa0f9dc7385301b629ba26.php:32
 msgid ""
@@ -503,321 +653,330 @@ msgid ""
 "still download releases on <a "
 "href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 msgstr ""
-"최신 배포판 정보를 가져오는 데 실패하였습니다. <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>에서 배포판을 다운로드하실 수 있습니다."
+"نحن آسفون، حدث خطأ أثناء جلب معلومات آخر إصدار. لا يزال بإمكانك تحميل "
+"إصدارات على <a href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 
 #: home.twig:11
 msgid "Let's make music"
-msgstr "음악을 만들어 봅시다"
+msgstr "دعنا نصنع موسيقى"
 
 #: home.twig:12
 msgid "with a free, cross-platform tool for your computer."
-msgstr "LMMS는 완전 무료에다가 리눅스, 윈도우, 맥 어디서나 동작합니다."
+msgstr "مع أداة مجانية و متعددة-المنصات لحاسوبك."
 
 #: home.twig:14
 msgid "Download now"
-msgstr "지금 다운로드"
+msgstr "حمل الآن"
 
 #: home.twig:15 home.twig:109
 msgid "Get involved"
-msgstr "참여하기"
+msgstr "تورط"
 
 #: home.twig:27
 msgid "Making beats has never been easier."
-msgstr "음악을 만드는 게 이보다 더 쉬울 수는 없을 겁니다."
+msgstr "صناعة الموسيقى لم تكن أسهل."
 
 #: home.twig:32
 msgid "Produce music with your computer"
-msgstr "컴퓨터로 음악 작곡"
+msgstr "أنتج الموسيقى بحاسوبك"
 
 #: home.twig:33
 msgid ""
 "by creating melodies and beats, synthesizing and mixing sounds, arranging "
 "samples and much more."
-msgstr "멜로디 및 비트 제작, 음원 합성, 믹싱, 편곡 등 다양한 작업을 할 수 있습니다."
+msgstr ""
+"بإبداع الإيقاعات و الألحان، تركيب و مزج الأصوات، تنظيم العينات و أكثر بكثير."
 
 #: home.twig:37
 msgid "Playback instruments, samples and plugins"
-msgstr "악기, 샘플, 플러그인 연주"
+msgstr "شغل آلات و موصلات و عينات"
 
 #: home.twig:38
 msgid ""
 "with a typing or MIDI keyboard in a user-friendly and modern interface."
-msgstr "키보드 또는 전자 피아노를 사용해 연주를 기록하세요. LMMS는 사용자 친화적이고 현대적인 디자인을 바탕으로 구성되었습니다."
+msgstr "مع لوحة مفاتيح كتابة أو MIDI في واجهة صديقة للمستخدم و عصرية."
 
 #: home.twig:42
 msgid "Bundled with ready-to-use stuff"
-msgstr "충실한 기본 기능"
+msgstr "محزوم مع أشياء جاهزة للاستخدام"
 
 #: home.twig:43
 msgid ""
 "from an assortment of instrument and effect plugins, presets and samples to "
 "VST and SoundFont support."
 msgstr ""
-"다양한 전자 악기와 이펙트 플러그인, 프리셋, 샘플을 기본으로 제공하며 VST 및 SountFont 지원까지 여러 종류의 편리한 기능이 "
-"탑재되어 있습니다."
+"من تشكيلة من موصلات الآلات و التأثيرات، السبقيات و العينات إلى دعم VST و "
+"SoundFont."
 
 #: home.twig:52
 msgid "Made by musicians, for musicians."
-msgstr "음악인에 의한, 음악인을 위한."
+msgstr "مصنوع من قبل موسيقيين، لموسيقيين."
 
 #: home.twig:56
 msgid "Download for Linux"
-msgstr "Linux 용 다운로드"
+msgstr "حمل لأجل Linux"
 
 #: home.twig:57
 msgid "Download for Windows"
-msgstr "Windows 용 다운로드"
+msgstr "حمل لأجل Windows"
 
 #: home.twig:58
 msgid "Download for macOS"
-msgstr "macOS 용 다운로드"
+msgstr "حمل لأجل macOS"
 
 #: home.twig:59
 msgid "Pick your flavour"
-msgstr "취향 대로 선택하세요"
+msgstr "انتقي نكهتك"
 
 #: home.twig:60
 msgid "Linux, Windows or macOS."
-msgstr "Linux, Windows, macOS"
+msgstr "Linux أو Windows أو macOS."
 
 #: home.twig:69
 msgid "Houston, we've had a problem."
-msgstr "이런, 문제가 생겼어요."
+msgstr "لدي مشكلة."
 
 #: home.twig:70
 msgid "Standby, we've got you covered."
-msgstr "언제든지 저희가 도와드리겠습니다."
+msgstr "لا تقلق، سنساعدك."
 
 #: home.twig:74
 msgid "Visit our forum"
-msgstr "포럼 방문하기"
+msgstr "زر منتدانا"
 
 #: home.twig:75
 msgid "Visit our Facebook page"
-msgstr "Facebook 페이지 방문하기"
+msgstr "زر صفحة Facebook خاصتنا"
 
 #: home.twig:77
 msgid "Visit our Google+ page"
-msgstr "Google+ 페이지 방문하기"
+msgstr "زر صفحة Google+ خاصتنا"
 
 #: home.twig:78
 msgid "Visit our GitHub page"
-msgstr "GitHub 페이지 방문하기"
+msgstr "زر صفحة GitHub خاصتنا"
 
 #: home.twig:79
 msgid "Ask your questions here"
-msgstr "무엇이든지 물어보세요"
+msgstr "اسأل سؤالك هنا"
 
 #: home.twig:80
 msgid "and answer a few questions while you're waiting."
-msgstr "답변을 기다리는 동안 다른 질문을 해결해 주는 건 어때요?"
+msgstr "و جاوب بعض الأسئلة بينما تنتظر."
 
 #: home.twig:87
 msgid "Sharing means caring."
-msgstr "공유는 소통입니다."
+msgstr "المشاركة تعني العناية."
 
 #: home.twig:92
 msgid "Visit our Soundcloud group"
-msgstr "Soundcloud LMMS 그룹 방문"
+msgstr "زر مجموعة Souncloud خاصتنا"
 
 #: home.twig:93
 msgid "Visit the LMMS Sharing Platform (LSP)"
-msgstr "LMMS 공유 마당 (LSP) 방문"
+msgstr "زر منصة مشاركة LMMS (LSP)"
 
 #: home.twig:94
 msgid "Don't be modest,"
-msgstr "겸손할 필요 없습니다."
+msgstr "لا تكن متواضعا،"
 
 #: home.twig:95
 msgid "show us your creations."
-msgstr "여러분의 재능을 마음껏 발휘하세요."
+msgstr "أرنا إبداعاتك."
 
 #: home.twig:103
 msgid "We <3 Open Source."
-msgstr "LMMS ❤ 오픈 소스"
+msgstr "نحن 3> البرمجيات مفتوحة المصدر."
 
 #: home.twig:108
 msgid "Fork us on Github"
-msgstr "GitHub에서 포크"
+msgstr "شعبنا على GitHub"
 
 #: home.twig:110
 #, php-format
 msgid "LMMS is a 100% free, open source, community driven project,"
-msgstr "LMMS는 100% 무료로 사용 가능한 오픈 소스 및 공동체 중심의 프로젝트입니다."
+msgstr "LMMS مشروع مجاني، مفتوح المصدر، مدفوع من قبل المشترك 100%،"
 
 #: home.twig:111
 msgid "proudly hosted on Github"
-msgstr "GitHub를 통해 운영하고 있습니다."
+msgstr "مستضاف بفخر على GitHub"
 
 #: home.twig:126
 msgid "Take a peek"
-msgstr "둘러보기"
+msgstr "خذ نظرة خاطفة"
 
 #: home.twig:129
 msgid "Watch our promo video."
-msgstr "프로모션 동영상을 시청합니다."
+msgstr "شاهد ڤ‍يديو الترويج خاصتنا."
 
 #: home.twig:151
 msgid "Featuring"
-msgstr "특징"
+msgstr "مبرزا"
 
 #: home.twig:155
 msgid "Core Functionality"
-msgstr "핵심 기능"
+msgstr "الوظائف الجوهرية"
 
 #: home.twig:159
 msgid "Compose music on Windows, Linux and Apple OS&nbsp;X"
-msgstr ""
+msgstr "ألف الموسيقى على Windows و Linux و macOS"
 
 #: home.twig:160
 msgid "Sequence, compose, mix and automate songs in one simple interface"
-msgstr ""
+msgstr "سلسل، ألف، امزج و أتمت أغانيك في واجهة بسيطة واحدة"
 
 #: home.twig:161
 msgid "Note playback via MIDI or typing keyboard"
-msgstr ""
+msgstr "تشغيل العلامات عبر لوحة مفاتيح كتابة أو MIDI"
 
 #: home.twig:162
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
-msgstr ""
+msgstr "ادمج مسارات الآلات مستخدما محرر الأنماط"
 
 #: home.twig:163
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr ""
+"ناغم الأنماط، العلامات، مجموعات العلامات المتآلفة و الألحان مستخدما محرر  "
+"البيان"
 
 #: home.twig:164
 msgid ""
 "Full user-defined track-based automation and computer-controlled automation "
 "sources"
 msgstr ""
+"أتمتة كاملة مبنية على أساس المسار و محددة بواسطة المستخدم و مصادر أتمتة "
+"متحكم بها حاسوبيا"
 
 #: home.twig:165
 msgid "Import of MIDI files and Hydrogen project files"
-msgstr ""
+msgstr "استيراد ملفات MIDI و ملفات مشاريع Hydrogen"
 
 #: home.twig:175
 msgid "Musical Instruments"
-msgstr "가상 악기"
+msgstr "الآلات الموسيقية"
 
 #: home.twig:179
 msgid "Built-in 32-bit VST instrument support"
-msgstr ""
+msgstr "دعم آلات VST ذات 32-بت مبني داخليا"
 
 #: home.twig:180
 msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
 msgstr ""
+"دعم آلات VST ذات 64-بت مبني-داخليا مع جسر VST ذو 32-بت (Windows ذو 64-بت)"
 
 #: home.twig:181
 msgid "Roland ® TB-303 style monophonic bass synthesizer"
-msgstr ""
+msgstr "مركب أصوات جهيرة أحادي النغمة بأسلوب Roland ® TB-303"
 
 #: home.twig:182
 msgid ""
 "Embedded ZynAddSubFx:  Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
 msgstr ""
+"ZynAddSubFx مطمور: متعدد الأصوات، كثير طوابع الصوت، صغير النغمية، تركيبات "
+"جمعية و طرحية و صوتية خافتة جميعها في plugin فعالة واحدة"
 
 #: home.twig:183
 msgid "Native Commodore 64 ® SID microchip/instrument emulation"
-msgstr ""
+msgstr "محاكاة محلية لرقاقة-صغيرة/آلة لجهاز السطح البيني للصوت Commodore 64 ®"
 
 #: home.twig:184
 msgid ""
 "Native SoundFont ® support (SF2), the industry standard for high quality "
 "instrument patches and banks"
 msgstr ""
+"دعم SoundFont ® (SF2) محلي، مقياس الصناعة لرقع و بنوك الآلات عالية الجودة"
 
 #: home.twig:185
 msgid "Nintendo ®, GameBoy ® and game sound effect emulation"
-msgstr ""
+msgstr "Nintendo ® و  GameBoy ® و محاكاة تأثيرات-صوت الألعاب"
 
 #: home.twig:186
 msgid "2 built-in oscillator-based synthesizers"
-msgstr ""
+msgstr "مركبان مبنيان على أساس المذبذبات مبنيان داخليا"
 
 #: home.twig:187
 msgid "2 built-in wavetable-based synthesizers"
-msgstr ""
+msgstr "مركبان مبنيان على أساس جدول الموجة مبنيان داخليا"
 
 #: home.twig:188
 msgid "Gravis UltraSound ® GUS Patch support"
-msgstr "Gravis UltraSound ® GUS 패치 지원"
+msgstr "دعم رقعة Gravis UltraSound ® GUS"
 
 #: home.twig:198
 msgid "Effects Mixing"
-msgstr "믹싱"
+msgstr "مزج باستخدام التأثيرات"
 
 #: home.twig:202
 msgid "Drop-in LADSPA plug-in support"
-msgstr ""
+msgstr "دعم موصلات LADSPA القابلة للإسقاط"
 
 #: home.twig:203
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
-msgstr ""
+msgstr "دعم موصلات تأثيرات VST ® القابلة للإسقاط (Linux و Windows)"
 
 #: home.twig:204
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion, EQ, bass-enhancer"
-msgstr ""
+msgstr "ضاغط و حادد و تأخير و ترجيع و تشويه و مسو و معزز جهارة مبنيون-داخليا"
 
 #: home.twig:205
 msgid "Bundled graphic and parametric equalizers"
-msgstr ""
+msgstr "مسويات رسومية و معاملية محزومة"
 
 #: home.twig:206
 msgid "Built-in visualization/spectrum analyser"
-msgstr ""
+msgstr "مرسمة ذبذبات و محللة طيف مبنيتان-داخليا"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:18
 msgid "Author:"
-msgstr "저자:"
+msgstr "المؤلف:"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:24
 msgid "Modified/Themed By:"
-msgstr "수정:"
+msgstr "معدل من قبل:"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:56
 msgid "Scalable Vector Format"
-msgstr "SVG 형식"
+msgstr "بنية الرسوميات المتجهة المتغيرة"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:57
 msgid "Gimp Image Editor Format"
-msgstr "Gimp 이미지 편집기 형식"
+msgstr "بنية محرر الصور GIMP"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:58
 msgid "Portable Document Format"
-msgstr "PDF 형식"
+msgstr "بنية الوثيقة القابلة للنقل"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:59
 msgid "Adobe Photoshop Format"
-msgstr "Adobe Photoshop 형식"
+msgstr "بنية Adobe Photoshop"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:60
 msgid "PNG Format"
-msgstr "PNG 형식"
+msgstr "بنية رسوميات الشبكة المحمولة"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:62
 msgid "JPEG Format"
-msgstr "JPEG 형식"
+msgstr "بنية مجموعة مؤسسة المحترفين الضوئيين"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:63
 msgid "Bitmap Format"
-msgstr "비트맵 형식"
+msgstr "بنية خريطة البت"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:64
 msgid "Windows Icon Format"
-msgstr "Windows 아이콘 형식"
+msgstr "بنية أيقونات Windows"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:65
 msgid "Apple Icon Format"
-msgstr "Apple 아이콘 형식"
+msgstr "بنية أيقونات Apple"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:66
 msgid "Unknown File"
-msgstr "알려지지 않은 파일"
+msgstr "ملف مجهول"
 
 #: /home/liushuyu/Development/lmms.io/public/index.php:37
 msgid "You seem to have taken a wrong turn."
@@ -829,28 +988,28 @@ msgstr ""
 
 #: /home/liushuyu/Development/lmms.io/public/index.php:43
 msgid "Yuck, an error!"
-msgstr "으악, 오류가 발생했어요!"
+msgstr "خطأ!"
 
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:6
 msgid "Download"
-msgstr "다운로드"
+msgstr "حمل"
 
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:8
 msgid "Documentation"
-msgstr "문서"
+msgstr "التوثيق"
 
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:8
 msgid "Docs"
-msgstr "문서"
+msgstr "الوثائق"
 
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:10
 msgid "Sharing Platform"
-msgstr "공유 마당"
+msgstr "منصة المشاركة"
 
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:10
 msgid "Share"
-msgstr "공유"
+msgstr "شارك"
 
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:11
 msgid "More"
-msgstr "더 보기"
+msgstr "المزيد"

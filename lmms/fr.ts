@@ -4134,6 +4134,10 @@ Please make sure you have write permission to the file and the directory contain
         <translation>Impossible d&apos;ouvrir le fichier %1 en écriture.
 Veuillez vous assurez que vous avez les droits d&apos;écriture sur le fichier et le dossier contenant le fichier, et essayez à nouveau !</translation>
     </message>
+    <message>
+        <source>Export &amp;MIDI...</source>
+        <translation>Exporter en &amp;MIDI...</translation>
+    </message>
 </context>
 <context>
     <name>MeterDialog</name>

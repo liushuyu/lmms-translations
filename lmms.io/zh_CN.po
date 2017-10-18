@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-18 15:58+0800\n"
+"POT-Creation-Date: 2017-10-18 14:14-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: liushuyu011 <liushuyu011@gmail.com>, 2017\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/lmms/teams/61632/zh_CN/)\n"
@@ -275,22 +275,18 @@ msgid "Branding"
 msgstr "品牌"
 
 #: branding.twig:6
-msgid "Baa Baa Black Sheep"
-msgstr "黑绵羊咩咩叫"
-
-#: branding.twig:9
 msgid "Download LMMS Artwork"
 msgstr "下载 LMMS 艺术作品"
 
-#: branding.twig:12
+#: branding.twig:8
 msgid "LMMS Logo"
 msgstr "LMMS 徽标"
 
-#: branding.twig:12 branding.twig:21
+#: branding.twig:8 branding.twig:17
 msgid "LMMS Development Team"
 msgstr "LMMS 开发团队"
 
-#: branding.twig:21
+#: branding.twig:17
 msgid "LMMS Project Icon"
 msgstr "LMMS 项目图标"
 
@@ -423,10 +419,10 @@ msgstr ""
 msgid ""
 "<a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a>\n"
 "\t\t\t\t\tis a more modern alternative to IRC. Join our server\n"
-"\t\t\t\t\t<a href=\"https://discord.gg/5kSc32Z\">by clicking here</a>"
+"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>"
 msgstr ""
 "<a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a>\n"
-"\t\t\t\t\t是一个更为现代化的 IRC 替代。<a href=\"https://discord.gg/5kSc32Z\">点击此处加入我们的房间</a>"
+"\t\t\t\t\t是一个更为现代化的 IRC 替代。<a href=\"/chat/\">点击此处加入我们的房间</a>"
 
 #: get-involved.twig:116
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:9
@@ -443,11 +439,7 @@ msgid ""
 " tracker:"
 msgstr "如果您要报告 bug 或者建议加入新的功能，请使用 GitHub 的问题追踪系统："
 
-#: errorpage.twig:6
-msgid "That's a %code%"
-msgstr "这是个 %code% 错误"
-
-#: errorpage.twig:7
+#: errorpage.twig:8
 msgid ""
 "If you followed a valid link on this site, please contact us\n"
 "      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
@@ -490,12 +482,12 @@ msgid "Beta Versions"
 msgstr "测试版本"
 
 #: download/index.twig:73
-msgid "Install LMMS on Apple OS&nbsp;X"
-msgstr "在 Apple OS&nbsp;X 下安装 LMMS"
+msgid "Install LMMS on macOS"
+msgstr "在 macOS 下安装 LMMS"
 
 #: download/index.twig:74
-msgid "Click one of the buttons below to download LMMS for Apple"
-msgstr "点击下面的按钮下载 Apple 版本的 LMMS"
+msgid "Click one of the buttons below to download LMMS for macOS"
+msgstr "点击下面的按钮下载 macOS 版本的 LMMS"
 
 #: download/index.twig:91
 msgid "Downloads labeled Beta are pre-release software, stability may suffer."
@@ -799,116 +791,116 @@ msgstr "先睹为快"
 msgid "Watch our promo video."
 msgstr "观赏我们的宣传片"
 
-#: home.twig:136
+#: home.twig:151
 msgid "Featuring"
 msgstr "功能 "
 
-#: home.twig:140
+#: home.twig:155
 msgid "Core Functionality"
 msgstr "核心功能"
 
-#: home.twig:144
+#: home.twig:159
 msgid "Compose music on Windows, Linux and Apple OS&nbsp;X"
 msgstr "在 Windows、Linux 和 macOS 上创作音乐"
 
-#: home.twig:145
+#: home.twig:160
 msgid "Sequence, compose, mix and automate songs in one simple interface"
 msgstr "在统一而简明的用户界面上编排，混音和自动化控制乐曲"
 
-#: home.twig:146
+#: home.twig:161
 msgid "Note playback via MIDI or typing keyboard"
 msgstr "通过 MIDI 或输入键盘回放音符"
 
-#: home.twig:147
+#: home.twig:162
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
 msgstr "使用节拍及低音编辑器润色曲目"
 
-#: home.twig:148
+#: home.twig:163
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr "使用钢琴键排编辑器微调节奏，音符，和弦及旋律"
 
-#: home.twig:149
+#: home.twig:164
 msgid ""
 "Full user-defined track-based automation and computer-controlled automation "
 "sources"
 msgstr "完全用户自定义，基于音轨由电脑控制的自动化源。"
 
-#: home.twig:150
+#: home.twig:165
 msgid "Import of MIDI files and Hydrogen project files"
 msgstr "导入 MIDI 文件和 Hydrogen 工程文件"
 
-#: home.twig:160
+#: home.twig:175
 msgid "Musical Instruments"
 msgstr "乐器"
 
-#: home.twig:164
+#: home.twig:179
 msgid "Built-in 32-bit VST instrument support"
 msgstr "内置 32 位 VST 乐器支持"
 
-#: home.twig:165
+#: home.twig:180
 msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
 msgstr "内置 64 位 VST 乐器支持及 32 位 VST 兼容桥（64 位 Windows）"
 
-#: home.twig:166
+#: home.twig:181
 msgid "Roland ® TB-303 style monophonic bass synthesizer"
 msgstr "Roland ® TB-303 风格的单声道低音合成器"
 
-#: home.twig:167
+#: home.twig:182
 msgid ""
 "Embedded ZynAddSubFx:  Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
 msgstr "内置 ZynAddSubFx：多声道，多音色，微分音，多音色递增，递减及补充合成的强大多合一插件"
 
-#: home.twig:168
+#: home.twig:183
 msgid "Native Commodore 64 ® SID microchip/instrument emulation"
 msgstr "原生 Commodore 64 ® SID 微芯片/乐器模拟"
 
-#: home.twig:169
+#: home.twig:184
 msgid ""
 "Native SoundFont ® support (SF2), the industry standard for high quality "
 "instrument patches and banks"
 msgstr "原生 SoundFont ® (SF2) 支持，业界标准的高质量乐器音色及音源库。"
 
-#: home.twig:170
+#: home.twig:185
 msgid "Nintendo ®, GameBoy ® and game sound effect emulation"
 msgstr "Nintendo ®, GameBoy ® 等游戏机音效模拟"
 
-#: home.twig:171
+#: home.twig:186
 msgid "2 built-in oscillator-based synthesizers"
 msgstr "2 个内置基于电子振荡器的合成器"
 
-#: home.twig:172
+#: home.twig:187
 msgid "2 built-in wavetable-based synthesizers"
 msgstr "2 个内置基于波表的合成器"
 
-#: home.twig:173
+#: home.twig:188
 msgid "Gravis UltraSound ® GUS Patch support"
 msgstr "Gravis UltraSound ® GUS 音色支持"
 
-#: home.twig:183
+#: home.twig:198
 msgid "Effects Mixing"
 msgstr "效果混合"
 
-#: home.twig:187
+#: home.twig:202
 msgid "Drop-in LADSPA plug-in support"
 msgstr "原生 LADSPA 插件支持"
 
-#: home.twig:188
+#: home.twig:203
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
 msgstr "自带 VST ® 音效插件支持 (Linux 和 Windows)"
 
-#: home.twig:189
+#: home.twig:204
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion, EQ, bass-enhancer"
 msgstr "内置压缩器，限幅器，延时，回响，变音，均衡器以及重低音增强器"
 
-#: home.twig:190
+#: home.twig:205
 msgid "Bundled graphic and parametric equalizers"
 msgstr "内含基于图形及参数的均衡器"
 
-#: home.twig:191
+#: home.twig:206
 msgid "Built-in visualization/spectrum analyser"
 msgstr "内置可视化插件/频谱分析器"
 
@@ -960,15 +952,15 @@ msgstr "Apple 图标格式"
 msgid "Unknown File"
 msgstr "未知文件"
 
-#: /home/liushuyu/Development/lmms.io/public/index.php:34
-msgid "The requested page could not be found."
-msgstr "您所请求的页面找不到了"
-
 #: /home/liushuyu/Development/lmms.io/public/index.php:37
-msgid "We are sorry, but something went terribly wrong."
-msgstr "很抱歉，我们这里似乎出现了一些问题"
+msgid "You seem to have taken a wrong turn."
+msgstr "你好像走错路了"
 
 #: /home/liushuyu/Development/lmms.io/public/index.php:40
+msgid "Oops, that is not supposed to happen."
+msgstr "哎呀，这不该发生的！"
+
+#: /home/liushuyu/Development/lmms.io/public/index.php:43
 msgid "Yuck, an error!"
 msgstr "出错了！"
 

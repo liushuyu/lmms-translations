@@ -29,7 +29,7 @@
         <source>Current language not translated (or native English).
 
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation>Geçerli dil çevirilmemiş (ya da doğal İngilizce).
+        <translation>Geçerli dil çevrilmemiş (ya da doğal İngilizce).
 
 LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çevirileri geliştirmek isterseniz, bize yardımcı olmaya hoşgeldiniz! Yalnızca sorumluya ulaşın!</translation>
     </message>
@@ -47,7 +47,7 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     </message>
     <message>
         <source>Contributors ordered by number of commits:</source>
-        <translation>Katkıda bulunanlar gönderilerin sayılarına göre sıralanır:</translation>
+        <translation>Katkıda bulunanlar gönderilerin sayılarına göre düzenlenir:</translation>
     </message>
     <message>
         <source>Copyright © %1</source>
@@ -163,7 +163,7 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     </message>
     <message>
         <source>Enabling this option makes the sample continue playing across different notes - if you change pitch, or the note length stops before the end of the sample, then the next note played will continue where it left off. To reset the playback to the start of the sample, insert a note at the bottom of the keyboard (&lt; 20 Hz)</source>
-        <translation type="unfinished"/>
+        <translation>Bu seçeneğin etkinleştirilmesi örneğin farklı notaların karşısında sürekli oynamasını sağlar - perdeyi ya da örnek stops before the end of the sample, then the next note played will continue where it left off. To reset the playback to the start of the sample, insert a note at the bottom of the keyboard (&lt; 20 Hz)</translation>
     </message>
     <message>
         <source>Disable loop</source>
@@ -4111,6 +4111,10 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export &amp;MIDI...</source>
         <translation type="unfinished"/>
     </message>
 </context>

@@ -4112,6 +4112,10 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Export &amp;MIDI...</source>
+        <translation>Exportera &amp;MIDI...</translation>
+    </message>
 </context>
 <context>
     <name>MeterDialog</name>

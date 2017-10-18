@@ -412,11 +412,11 @@ LMMS beste hizkuntza batera itzultzeko interesa baduzu edo lehendik dauden itzul
     </message>
     <message>
         <source>Discrete progression</source>
-        <translation type="unfinished"/>
+        <translation>Progresio diskretua</translation>
     </message>
     <message>
         <source>Linear progression</source>
-        <translation type="unfinished"/>
+        <translation>Progresio lineala</translation>
     </message>
     <message>
         <source>Cubic Hermite progression</source>
@@ -665,7 +665,7 @@ LMMS beste hizkuntza batera itzultzeko interesa baduzu edo lehendik dauden itzul
     </message>
     <message>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Maiztasuna:</translation>
     </message>
     <message>
         <source>GAIN</source>
@@ -913,7 +913,7 @@ LMMS beste hizkuntza batera itzultzeko interesa baduzu edo lehendik dauden itzul
     </message>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
 </context>
 <context>
@@ -1624,11 +1624,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Drag a sample from somewhere and drop it in this window.</source>
-        <translation type="unfinished"/>
+        <translation>Arrastatu lagin bat nonbaitetik eta jaregin leiho honetan.</translation>
     </message>
     <message>
         <source>Click here for random wave.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hemen ausazko uhinerako.</translation>
     </message>
 </context>
 <context>
@@ -1850,7 +1850,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Bandwidth: </source>
-        <translation type="unfinished"/>
+        <translation>Banda-zabalera:</translation>
     </message>
     <message>
         <source>Resonance : </source>
@@ -1858,7 +1858,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Maiztasuna:</translation>
     </message>
     <message>
         <source>lp grp</source>
@@ -2100,15 +2100,15 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>A1</source>
-        <translation type="unfinished"/>
+        <translation>A1</translation>
     </message>
     <message>
         <source>A2</source>
-        <translation type="unfinished"/>
+        <translation>A2</translation>
     </message>
     <message>
         <source>A3</source>
-        <translation type="unfinished"/>
+        <translation>A3</translation>
     </message>
     <message>
         <source>W1 smoothing</source>
@@ -2139,7 +2139,7 @@ Please make sure you have write permission to the file and the directory contain
     <name>Fader</name>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Sartu %1 eta %2 arteko balio berri bat:</translation>
     </message>
 </context>
 <context>
@@ -2150,11 +2150,11 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu</translation>
     </message>
     <message>
         <source>Refresh list</source>
-        <translation type="unfinished"/>
+        <translation>Freskatu zerrenda</translation>
     </message>
 </context>
 <context>
@@ -2169,11 +2169,11 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Loading sample</source>
-        <translation type="unfinished"/>
+        <translation>Lagina kargatzen</translation>
     </message>
     <message>
         <source>Please wait, loading sample for preview...</source>
-        <translation type="unfinished"/>
+        <translation>Itxaron, lagina kargatzen ari da aurrebistarako...</translation>
     </message>
     <message>
         <source>--- Factory files ---</source>
@@ -3491,71 +3491,71 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>Efektuak</translation>
     </message>
     <message>
         <source>MIDI settings</source>
-        <translation type="unfinished"/>
+        <translation>MIDI ezarpenak</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished"/>
+        <translation>Bestelakoak</translation>
     </message>
     <message>
         <source>Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Plugina</translation>
     </message>
 </context>
 <context>
     <name>Knob</name>
     <message>
         <source>Set linear</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri lineala</translation>
     </message>
     <message>
         <source>Set logarithmic</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri logaritmikoa</translation>
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Sartu %1 eta %2 arteko balio berri bat:</translation>
     </message>
     <message>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation type="unfinished"/>
+        <translation>Sartu -96.0 dBFS eta 6.0 dBFS arteko balio berri bat:</translation>
     </message>
 </context>
 <context>
     <name>LadspaControl</name>
     <message>
         <source>Link channels</source>
-        <translation type="unfinished"/>
+        <translation>Estekatu kanalak</translation>
     </message>
 </context>
 <context>
     <name>LadspaControlDialog</name>
     <message>
         <source>Link Channels</source>
-        <translation type="unfinished"/>
+        <translation>Estekatu kanalak</translation>
     </message>
     <message>
         <source>Channel </source>
-        <translation type="unfinished"/>
+        <translation>Kanala</translation>
     </message>
 </context>
 <context>
     <name>LadspaControlView</name>
     <message>
         <source>Link channels</source>
-        <translation type="unfinished"/>
+        <translation>Estekatu kanalak</translation>
     </message>
     <message>
         <source>Value:</source>
-        <translation type="unfinished"/>
+        <translation>Balioa:</translation>
     </message>
     <message>
         <source>Sorry, no help available.</source>
-        <translation type="unfinished"/>
+        <translation>Laguntza ez dago erabilgarri</translation>
     </message>
 </context>
 <context>
@@ -3569,53 +3569,53 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>LcdSpinBox</name>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Sartu %1 eta %2 arteko balio berri bat:</translation>
     </message>
 </context>
 <context>
     <name>LeftRightNav</name>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"/>
+        <translation>Aurrekoa</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>Hurrengoa</translation>
     </message>
     <message>
         <source>Previous (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Aurrekoa (%1)</translation>
     </message>
     <message>
         <source>Next (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Hurrengoa (%1)</translation>
     </message>
 </context>
 <context>
     <name>LfoController</name>
     <message>
         <source>LFO Controller</source>
-        <translation type="unfinished"/>
+        <translation>LFO kontrolagailua</translation>
     </message>
     <message>
         <source>Base value</source>
-        <translation type="unfinished"/>
+        <translation>Oinarri-balioa</translation>
     </message>
     <message>
         <source>Oscillator speed</source>
-        <translation type="unfinished"/>
+        <translation>Osziladore-abiadura</translation>
     </message>
     <message>
         <source>Oscillator amount</source>
-        <translation type="unfinished"/>
+        <translation>Osziladore-kantitatea</translation>
     </message>
     <message>
         <source>Oscillator phase</source>
-        <translation type="unfinished"/>
+        <translation>Osziladore-fasea</translation>
     </message>
     <message>
         <source>Oscillator waveform</source>
-        <translation type="unfinished"/>
+        <translation>Osziladorearen uhin-forma</translation>
     </message>
     <message>
         <source>Frequency Multiplier</source>
@@ -3626,11 +3626,11 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <name>LfoControllerDialog</name>
     <message>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
     <message>
         <source>LFO Controller</source>
-        <translation type="unfinished"/>
+        <translation>LFO kontrolagailua</translation>
     </message>
     <message>
         <source>BASE</source>
@@ -3674,7 +3674,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>degrees</source>
-        <translation type="unfinished"/>
+        <translation>gradu</translation>
     </message>
     <message>
         <source>With this knob you can set the phase offset of the LFO. That means you can move the point within an oscillation where the oscillator begins to oscillate. For example if you have a sine-wave and have a phase-offset of 180 degrees the wave will first go down. It&apos;s the same with a square-wave.</source>
@@ -3741,43 +3741,43 @@ Double click to pick a file.</source>
     <name>MainWindow</name>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Berria</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ireki...</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gorde</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>Gorde &amp;honela...</translation>
     </message>
     <message>
         <source>Import...</source>
-        <translation type="unfinished"/>
+        <translation>Importatu...</translation>
     </message>
     <message>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"/>
+        <translation>E&amp;sportatu...</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>I&amp;rten</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Editatu</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ezarpenak</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tresnak</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -3785,11 +3785,11 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Laguntza</translation>
     </message>
     <message>
         <source>What&apos;s this?</source>
-        <translation type="unfinished"/>
+        <translation>Zer da hau?</translation>
     </message>
     <message>
         <source>About</source>
@@ -3797,27 +3797,27 @@ Double click to pick a file.</source>
     </message>
     <message>
         <source>Create new project</source>
-        <translation type="unfinished"/>
+        <translation>Sortu proiektu berria</translation>
     </message>
     <message>
         <source>Create new project from template</source>
-        <translation type="unfinished"/>
+        <translation>Sortu proiektu berria txantiloitik</translation>
     </message>
     <message>
         <source>Open existing project</source>
-        <translation type="unfinished"/>
+        <translation>Ireki lehendik dagoen proiektua</translation>
     </message>
     <message>
         <source>Recently opened projects</source>
-        <translation type="unfinished"/>
+        <translation>Azken aldian irekitako proiektuak</translation>
     </message>
     <message>
         <source>Save current project</source>
-        <translation type="unfinished"/>
+        <translation>Gorde uneko proiektua</translation>
     </message>
     <message>
         <source>Export current project</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu uneko proiektua</translation>
     </message>
     <message>
         <source>Song Editor</source>
@@ -3946,15 +3946,15 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Fitxategia</translation>
     </message>
     <message>
         <source>&amp;Recently Opened Projects</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Azken aldian irekitako proiektuak</translation>
     </message>
     <message>
         <source>Save as New &amp;Version</source>
-        <translation type="unfinished"/>
+        <translation>Gorde &amp;bertsio berri gisa</translation>
     </message>
     <message>
         <source>E&amp;xport Tracks...</source>
@@ -4111,6 +4111,10 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export &amp;MIDI...</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5318,11 +5322,11 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"/>
+        <translation>Begizta</translation>
     </message>
     <message>
         <source>Loop mode</source>
-        <translation type="unfinished"/>
+        <translation>Begizta modua</translation>
     </message>
     <message>
         <source>Here you can toggle the Loop mode. If enabled, PatMan will use the loop information available in the file.</source>
@@ -5407,7 +5411,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>LFO Controller</source>
-        <translation type="unfinished"/>
+        <translation>LFO kontrolagailua</translation>
     </message>
 </context>
 <context>
@@ -5465,7 +5469,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <name>PeakControllerEffectControls</name>
     <message>
         <source>Base value</source>
-        <translation type="unfinished"/>
+        <translation>Oinarri-balioa</translation>
     </message>
     <message>
         <source>Modulation amount</source>
@@ -5493,7 +5497,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Treshold</source>
-        <translation type="unfinished"/>
+        <translation>Atalasea</translation>
     </message>
 </context>
 <context>
@@ -5560,7 +5564,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     </message>
     <message>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Sartu %1 eta %2 arteko balio berri bat:</translation>
     </message>
     <message>
         <source>Mark/unmark all corresponding octave semitones</source>
@@ -5767,51 +5771,51 @@ Reason: &quot;%2&quot;</source>
     <name>ProjectNotes</name>
     <message>
         <source>Edit Actions</source>
-        <translation type="unfinished"/>
+        <translation>Edizio-ekintzak</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Desegin</translation>
     </message>
     <message>
         <source>%1+Z</source>
-        <translation type="unfinished"/>
+        <translation>%1+Z</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>Be&amp;rregin</translation>
     </message>
     <message>
         <source>%1+Y</source>
-        <translation type="unfinished"/>
+        <translation>%1+Y</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kopiatu</translation>
     </message>
     <message>
         <source>%1+C</source>
-        <translation type="unfinished"/>
+        <translation>%1+C</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Mo&amp;ztu</translation>
     </message>
     <message>
         <source>%1+X</source>
-        <translation type="unfinished"/>
+        <translation>%1+X</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Itsatsi</translation>
     </message>
     <message>
         <source>%1+V</source>
-        <translation type="unfinished"/>
+        <translation>%1+V</translation>
     </message>
     <message>
         <source>Format Actions</source>
-        <translation type="unfinished"/>
+        <translation>Formatu-ekintzak</translation>
     </message>
     <message>
         <source>&amp;Bold</source>
@@ -5909,7 +5913,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Maker: </source>
-        <translation type="unfinished"/>
+        <translation>Egilea:</translation>
     </message>
     <message>
         <source>Copyright: </source>
@@ -6257,7 +6261,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>MIDI settings</source>
-        <translation type="unfinished"/>
+        <translation>MIDI ezarpenak</translation>
     </message>
     <message>
         <source>MIDI INTERFACE</source>
@@ -7074,7 +7078,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>degrees</source>
-        <translation type="unfinished"/>
+        <translation>gradu</translation>
     </message>
     <message>
         <source>With this knob you can set the phase-offset of oscillator %1. That means you can move the point within an oscillation where the oscillator begins to oscillate. For example if you have a sine-wave and have a phase-offset of 180 degrees the wave will first go down. It&apos;s the same with a square-wave.</source>
@@ -7780,7 +7784,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Loop mode</source>
-        <translation type="unfinished"/>
+        <translation>Begizta modua</translation>
     </message>
     <message>
         <source>Interpolation mode</source>

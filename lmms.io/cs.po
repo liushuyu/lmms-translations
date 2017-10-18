@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-18 15:58+0800\n"
+"POT-Creation-Date: 2017-10-18 14:14-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Lukáš Cezner <coalzombik@gmail.com>, 2017\n"
+"Last-Translator: Miroslav Kučera <mkucera66@seznam.cz>, 2017\n"
 "Language-Team: Czech (https://www.transifex.com/lmms/teams/61632/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -282,22 +282,18 @@ msgid "Branding"
 msgstr "Značka"
 
 #: branding.twig:6
-msgid "Baa Baa Black Sheep"
-msgstr "Baa Baa Black Sheep"
-
-#: branding.twig:9
 msgid "Download LMMS Artwork"
 msgstr "Stáhnout umělecká díla LMMS"
 
-#: branding.twig:12
+#: branding.twig:8
 msgid "LMMS Logo"
 msgstr "Logo LMMS"
 
-#: branding.twig:12 branding.twig:21
+#: branding.twig:8 branding.twig:17
 msgid "LMMS Development Team"
 msgstr "Vývojářský tým LMMS"
 
-#: branding.twig:21
+#: branding.twig:17
 msgid "LMMS Project Icon"
 msgstr "Ikona projektu LMMS"
 
@@ -437,11 +433,8 @@ msgstr ""
 msgid ""
 "<a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a>\n"
 "\t\t\t\t\tis a more modern alternative to IRC. Join our server\n"
-"\t\t\t\t\t<a href=\"https://discord.gg/5kSc32Z\">by clicking here</a>"
+"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>"
 msgstr ""
-"<a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a>\n"
-"\t\t\t\t\tje modernější alternativa k IRC. Připojte se na server\n"
-"\t\t\t\t\t<a href=\"https://discord.gg/5kSc32Z\">zde</a>"
 
 #: get-involved.twig:116
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:9
@@ -460,11 +453,7 @@ msgstr ""
 "Pro oznámení chyby nebo nápadu na novou vlastnost, prosím použijte hlášení "
 "chyb na GitHubu."
 
-#: errorpage.twig:6
-msgid "That's a %code%"
-msgstr "Toto je %code%"
-
-#: errorpage.twig:7
+#: errorpage.twig:8
 msgid ""
 "If you followed a valid link on this site, please contact us\n"
 "      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
@@ -511,14 +500,12 @@ msgid "Beta Versions"
 msgstr "Beta verze"
 
 #: download/index.twig:73
-msgid "Install LMMS on Apple OS&nbsp;X"
-msgstr "Nainstalovat LMMS na systém Apple OS&nbsp;X"
+msgid "Install LMMS on macOS"
+msgstr ""
 
 #: download/index.twig:74
-msgid "Click one of the buttons below to download LMMS for Apple"
+msgid "Click one of the buttons below to download LMMS for macOS"
 msgstr ""
-"Klikněte na jedno z tlačítek níže pro stažení LMMS pro systém Apple "
-"OS&nbsp;X"
 
 #: download/index.twig:91
 msgid "Downloads labeled Beta are pre-release software, stability may suffer."
@@ -580,11 +567,11 @@ msgstr ""
 
 #: download/linux.twig:54
 msgid "Install Now"
-msgstr "Nainstalovat Nyní"
+msgstr "Instalovat nyní"
 
 #: /tmp/cache/twig/lmms.io/cf/cffd2710715f60e964f092fc008e5dd43c7ef64789164e706d246c1169928575.php:86
 msgid "(From Package Manager)"
-msgstr "(z správce balíků)"
+msgstr "(ze správce balíků)"
 
 #: download/linux.twig:56
 msgid "If this doesn't work for you, run this command in a terminal."
@@ -817,7 +804,7 @@ msgstr "My <3 Open Source."
 
 #: home.twig:108
 msgid "Fork us on Github"
-msgstr ""
+msgstr "Vytvořte odnož kódu na Githubu"
 
 #: home.twig:110
 #, php-format
@@ -836,37 +823,37 @@ msgstr "Podívejte se"
 msgid "Watch our promo video."
 msgstr "Zhlédnout naše promo video."
 
-#: home.twig:136
+#: home.twig:151
 msgid "Featuring"
 msgstr "Charakteristiky"
 
-#: home.twig:140
+#: home.twig:155
 msgid "Core Functionality"
 msgstr "Funkce jádra"
 
-#: home.twig:144
+#: home.twig:159
 msgid "Compose music on Windows, Linux and Apple OS&nbsp;X"
 msgstr "Skládejte hudbu v systémech Windows, Linux a Apple OS&nbsp;X"
 
-#: home.twig:145
+#: home.twig:160
 msgid "Sequence, compose, mix and automate songs in one simple interface"
 msgstr ""
 "Sekvence, skládání, míchání a automatizace skladeb v jednoduchém prostředí"
 
-#: home.twig:146
+#: home.twig:161
 msgid "Note playback via MIDI or typing keyboard"
 msgstr "Psaní not přes MIDI nebo klávesnici"
 
-#: home.twig:147
+#: home.twig:162
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
 msgstr "Posílení nástrojů pomocí editoru bicích/basů."
 
-#: home.twig:148
+#: home.twig:163
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr ""
 "Skvělé zvukové vzory, noty, akordy a melodie pomocí Piano Roll editoru"
 
-#: home.twig:149
+#: home.twig:164
 msgid ""
 "Full user-defined track-based automation and computer-controlled automation "
 "sources"
@@ -874,30 +861,30 @@ msgstr ""
 "Plně uživatelsky definovaná automatizace na základě stopy a počítačově "
 "ovládaná automatizace zdrojů"
 
-#: home.twig:150
+#: home.twig:165
 msgid "Import of MIDI files and Hydrogen project files"
 msgstr "Import souborů MIDI a projektů Hydrogen"
 
-#: home.twig:160
+#: home.twig:175
 msgid "Musical Instruments"
 msgstr "Hudební nástroje"
 
-#: home.twig:164
+#: home.twig:179
 msgid "Built-in 32-bit VST instrument support"
 msgstr "Vestavěná podpora 32-bit VST nástrojů"
 
-#: home.twig:165
+#: home.twig:180
 msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
 msgstr ""
 "Vestavěná podpora 64-bit VST nástrojů s 32-bit VST mostem (64-bit Windows)"
 
-#: home.twig:166
+#: home.twig:181
 msgid "Roland ® TB-303 style monophonic bass synthesizer"
 msgstr "Stylový monofonní basový syntetizér Roland ® TB-303"
 
-#: home.twig:167
+#: home.twig:182
 msgid ""
 "Embedded ZynAddSubFx:  Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
@@ -905,11 +892,11 @@ msgstr ""
 "Vestavěný ZynAddSubFx: Polyfonní, multitimbrální, mikrotonální, vícehlasý, "
 "subtraktivní a padový syntetizér v jednom mocném pluginu"
 
-#: home.twig:168
+#: home.twig:183
 msgid "Native Commodore 64 ® SID microchip/instrument emulation"
 msgstr "Nativní emulace mikročipu/nástroje Commodore 64 ® SID"
 
-#: home.twig:169
+#: home.twig:184
 msgid ""
 "Native SoundFont ® support (SF2), the industry standard for high quality "
 "instrument patches and banks"
@@ -917,46 +904,46 @@ msgstr ""
 "Nativní podpora SoundFont ® (SF2), průmyslového standardu pro vysoce "
 "kvalitní nástroje a zvukové banky"
 
-#: home.twig:170
+#: home.twig:185
 msgid "Nintendo ®, GameBoy ® and game sound effect emulation"
 msgstr "Nintendo ®, GameBoy ® a emulace herních zvuků"
 
-#: home.twig:171
+#: home.twig:186
 msgid "2 built-in oscillator-based synthesizers"
 msgstr "2 vestavěné oscilátor syntetizéry"
 
-#: home.twig:172
+#: home.twig:187
 msgid "2 built-in wavetable-based synthesizers"
 msgstr "2 vestavěné wavetable syntetizéry"
 
-#: home.twig:173
+#: home.twig:188
 msgid "Gravis UltraSound ® GUS Patch support"
 msgstr "Podpora Gravis UltraSound ® GUS Patch"
 
-#: home.twig:183
+#: home.twig:198
 msgid "Effects Mixing"
 msgstr "Mixování efektů"
 
-#: home.twig:187
+#: home.twig:202
 msgid "Drop-in LADSPA plug-in support"
 msgstr "Podpora pluginů LADSPA"
 
-#: home.twig:188
+#: home.twig:203
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
 msgstr "Podpora efektových pluginů VST ® (systém Linux a Windows)"
 
-#: home.twig:189
+#: home.twig:204
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion, EQ, bass-enhancer"
 msgstr ""
 "Vestavěný kompresor, omezovač, zpoždění, reverb, zkreslení, ekvalizér, "
 "zesilovač basů"
 
-#: home.twig:190
+#: home.twig:205
 msgid "Bundled graphic and parametric equalizers"
 msgstr "Připravené s grafickými a parametrickými ekvalizéry"
 
-#: home.twig:191
+#: home.twig:206
 msgid "Built-in visualization/spectrum analyser"
 msgstr "Předpřipravený s vizualizačním / spektrálním analyzátorem"
 
@@ -1008,15 +995,15 @@ msgstr "Apple Ikonový Formát"
 msgid "Unknown File"
 msgstr "Neznámý soubor"
 
-#: /home/liushuyu/Development/lmms.io/public/index.php:34
-msgid "The requested page could not be found."
-msgstr "Požadovaná stránka nemohla být nalezena."
-
 #: /home/liushuyu/Development/lmms.io/public/index.php:37
-msgid "We are sorry, but something went terribly wrong."
-msgstr "Omlouváme se, ale něco se hodně pokazilo."
+msgid "You seem to have taken a wrong turn."
+msgstr ""
 
 #: /home/liushuyu/Development/lmms.io/public/index.php:40
+msgid "Oops, that is not supposed to happen."
+msgstr ""
+
+#: /home/liushuyu/Development/lmms.io/public/index.php:43
 msgid "Yuck, an error!"
 msgstr "Blé, chyba!"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-18 15:58+0800\n"
+"POT-Creation-Date: 2017-10-18 14:14-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Thomas De Rocker <thomasderocker@outlook.com>, 2017\n"
 "Language-Team: Dutch (https://www.transifex.com/lmms/teams/61632/nl/)\n"
@@ -284,22 +284,18 @@ msgid "Branding"
 msgstr "Huisstijl"
 
 #: branding.twig:6
-msgid "Baa Baa Black Sheep"
-msgstr "Baa Baa Black Sheep"
-
-#: branding.twig:9
 msgid "Download LMMS Artwork"
 msgstr "LMMS-logo's downloaden"
 
-#: branding.twig:12
+#: branding.twig:8
 msgid "LMMS Logo"
 msgstr "LMMS-logo"
 
-#: branding.twig:12 branding.twig:21
+#: branding.twig:8 branding.twig:17
 msgid "LMMS Development Team"
 msgstr "LMMS-ontwikkelingsteam"
 
-#: branding.twig:21
+#: branding.twig:17
 msgid "LMMS Project Icon"
 msgstr "LMMS-projectpictogram"
 
@@ -440,11 +436,11 @@ msgstr ""
 msgid ""
 "<a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a>\n"
 "\t\t\t\t\tis a more modern alternative to IRC. Join our server\n"
-"\t\t\t\t\t<a href=\"https://discord.gg/5kSc32Z\">by clicking here</a>"
+"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>"
 msgstr ""
 "<a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a>\n"
-"\t\t\t\t\tis een modern alternatief voor IRC. Word lid van onze server door\n"
-"\t\t\t\t\t<a href=\"https://discord.gg/5kSc32Z\">hier te klikken</a>"
+"\t\t\t\t\tis een modern alternatief voor IRC. Kom op onze server door\n"
+"\t\t\t\t\t<a href=\"/chat/\">hier te klikken</a>"
 
 #: get-involved.twig:116
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:9
@@ -463,11 +459,7 @@ msgstr ""
 "Voor het rapporteren van een bug of het suggereren van een nieuwe functie, "
 "bezoekt u de GitHub-issue-tracker:"
 
-#: errorpage.twig:6
-msgid "That's a %code%"
-msgstr "Dat is een %code%"
-
-#: errorpage.twig:7
+#: errorpage.twig:8
 msgid ""
 "If you followed a valid link on this site, please contact us\n"
 "      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
@@ -514,12 +506,13 @@ msgid "Beta Versions"
 msgstr "Bèta-versies"
 
 #: download/index.twig:73
-msgid "Install LMMS on Apple OS&nbsp;X"
-msgstr "LMMS op Apple OS&nbsp;X installeren"
+msgid "Install LMMS on macOS"
+msgstr "LMMS op MacOS installeren"
 
 #: download/index.twig:74
-msgid "Click one of the buttons below to download LMMS for Apple"
-msgstr "Klik op een van onderstaande knoppen om LMMS voor Apple te downloaden"
+msgid "Click one of the buttons below to download LMMS for macOS"
+msgstr ""
+"Klik op een van onderstaande knoppen om LMMS voor MacOS te downloaden."
 
 #: download/index.twig:91
 msgid "Downloads labeled Beta are pre-release software, stability may suffer."
@@ -839,38 +832,38 @@ msgstr "Neem een kijkje"
 msgid "Watch our promo video."
 msgstr "Bekijk onze promo-video"
 
-#: home.twig:136
+#: home.twig:151
 msgid "Featuring"
 msgstr "Met"
 
-#: home.twig:140
+#: home.twig:155
 msgid "Core Functionality"
 msgstr "Kernfunctionaliteit"
 
-#: home.twig:144
+#: home.twig:159
 msgid "Compose music on Windows, Linux and Apple OS&nbsp;X"
 msgstr "Muziek componeren op Windows, Linux en Apple OS&nbsp;X"
 
-#: home.twig:145
+#: home.twig:160
 msgid "Sequence, compose, mix and automate songs in one simple interface"
 msgstr ""
 "Songs sequencen, componeren, mixen en automatiseren in een simpele interface"
 
-#: home.twig:146
+#: home.twig:161
 msgid "Note playback via MIDI or typing keyboard"
 msgstr "Afspelen van noten via MIDI- of gewoon toetsenbord"
 
-#: home.twig:147
+#: home.twig:162
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
 msgstr "Instrument-tracks aaneensluiten via de beat/baslijn-editor"
 
-#: home.twig:148
+#: home.twig:163
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr ""
 "Patronen, noten, akkoorden en melodieën fijnstemmen met de piano roll "
 "editor."
 
-#: home.twig:149
+#: home.twig:164
 msgid ""
 "Full user-defined track-based automation and computer-controlled automation "
 "sources"
@@ -878,19 +871,19 @@ msgstr ""
 "Volledige gebruikersgedefinieerde track-gebaseerde automatisering en "
 "computer-bediende automatiseringsbronnen"
 
-#: home.twig:150
+#: home.twig:165
 msgid "Import of MIDI files and Hydrogen project files"
 msgstr "Importeren van MIDI-bestanden en Hydrogen-projectbestanden"
 
-#: home.twig:160
+#: home.twig:175
 msgid "Musical Instruments"
 msgstr "Muziekinstrumenten"
 
-#: home.twig:164
+#: home.twig:179
 msgid "Built-in 32-bit VST instrument support"
 msgstr "Ingebouwde 32-bit VST-instrument-ondersteuning"
 
-#: home.twig:165
+#: home.twig:180
 msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
@@ -898,11 +891,11 @@ msgstr ""
 "Ingebouwde 64-bit VST-instrument-ondersteuning met 32-bit VST-bridge (64-bit"
 " Windows)"
 
-#: home.twig:166
+#: home.twig:181
 msgid "Roland ® TB-303 style monophonic bass synthesizer"
 msgstr "Roland ® TB-303 stijl monofonische bas-synthesizer"
 
-#: home.twig:167
+#: home.twig:182
 msgid ""
 "Embedded ZynAddSubFx:  Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
@@ -911,11 +904,11 @@ msgstr ""
 "meerstemmige additieve, subtractieve en pad-synthese in een krachtige plug-"
 "in"
 
-#: home.twig:168
+#: home.twig:183
 msgid "Native Commodore 64 ® SID microchip/instrument emulation"
 msgstr "Ingebouwde Commodore 64 ® SID microchip/instrument emulatie"
 
-#: home.twig:169
+#: home.twig:184
 msgid ""
 "Native SoundFont ® support (SF2), the industry standard for high quality "
 "instrument patches and banks"
@@ -923,45 +916,45 @@ msgstr ""
 "Ingebouwde SoundFont ®-ondersteuning (SF2), de industrie-standaard voor hoge"
 " kwaliteits instrument-patches en banks"
 
-#: home.twig:170
+#: home.twig:185
 msgid "Nintendo ®, GameBoy ® and game sound effect emulation"
 msgstr "Nintendo®-, GameBoy®- en spelgeluid-effect-emulatie"
 
-#: home.twig:171
+#: home.twig:186
 msgid "2 built-in oscillator-based synthesizers"
 msgstr "2 ingebouwde oscillator-gebaseerde synthesizers"
 
-#: home.twig:172
+#: home.twig:187
 msgid "2 built-in wavetable-based synthesizers"
 msgstr "2 ingebouwde wavetable-gebaseerde synthesizers"
 
-#: home.twig:173
+#: home.twig:188
 msgid "Gravis UltraSound ® GUS Patch support"
 msgstr "Ondersteuning voor Gravis UltraSound ® GUS Patch"
 
-#: home.twig:183
+#: home.twig:198
 msgid "Effects Mixing"
 msgstr "Effecten mixen"
 
-#: home.twig:187
+#: home.twig:202
 msgid "Drop-in LADSPA plug-in support"
 msgstr "Drop-in LADSPA plug-in ondersteuning"
 
-#: home.twig:188
+#: home.twig:203
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
 msgstr "Drop-in VST ® effect plug-in ondersteuning(Linux en Windows)"
 
-#: home.twig:189
+#: home.twig:204
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion, EQ, bass-enhancer"
 msgstr ""
 "Ingebouwde compressor, limiter, delay, reverb, distortion, EQ, bass-enhancer"
 
-#: home.twig:190
+#: home.twig:205
 msgid "Bundled graphic and parametric equalizers"
 msgstr "Gebundelde grafische en parametrische equalizers"
 
-#: home.twig:191
+#: home.twig:206
 msgid "Built-in visualization/spectrum analyser"
 msgstr "Ingebouwde visualisatie/spectrum-analyzer"
 
@@ -1013,15 +1006,15 @@ msgstr "Apple-pictogram-formaat"
 msgid "Unknown File"
 msgstr "Onbekend bestand"
 
-#: /home/liushuyu/Development/lmms.io/public/index.php:34
-msgid "The requested page could not be found."
-msgstr "De opgevraagde pagina kon niet teruggevonden worden."
-
 #: /home/liushuyu/Development/lmms.io/public/index.php:37
-msgid "We are sorry, but something went terribly wrong."
-msgstr "Het spijt ons, maar er ging iets verschrikkelijk verkeerd."
+msgid "You seem to have taken a wrong turn."
+msgstr "U lijkt een verkeerde weg genomen te hebben."
 
 #: /home/liushuyu/Development/lmms.io/public/index.php:40
+msgid "Oops, that is not supposed to happen."
+msgstr "Oeps, dit zou niet mogen gebeuren."
+
+#: /home/liushuyu/Development/lmms.io/public/index.php:43
 msgid "Yuck, an error!"
 msgstr "Iew, een fout!"
 
