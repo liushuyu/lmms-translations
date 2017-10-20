@@ -6413,7 +6413,7 @@ Latence : %2 ms</translation>
     </message>
     <message>
         <source>Display volume as dBFS </source>
-        <translation>Afficher le volume en dBFS interval</translation>
+        <translation>Afficher le volume en dBFS</translation>
     </message>
     <message>
         <source>Enable auto-save</source>
