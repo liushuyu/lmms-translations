@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 14:14-0600\n"
+"POT-Creation-Date: 2017-10-18 14:49-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: liushuyu011 <liushuyu011@gmail.com>, 2017\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/lmms/teams/61632/zh_CN/)\n"
@@ -95,15 +95,15 @@ msgstr ""
 "\t\t\t\t- 您可以使用其他软件进行母带处理和后期处理。\n"
 "\t\t\t\t- 作品长度必须在 10 分钟以下。\n"
 "\t\t\t\t- 不得使用之前在 LMMS 精选集上的获奖作品。\n"
-"\t\t\t\t- 不得使用混音作品。\n"
+"\t\t\t\t- 不得使用重混音作品。\n"
 "\t\t\t3. **投稿**\n"
 "\t\t\t  - 您必须使用此表单进行投稿。\n"
-"\t\t\t\t- 每个作者仅限**两封**投稿。\n"
-"\t\t\t\t- 合作作品中每个参与艺术家作为**一封**投稿。\n"
+"\t\t\t\t- 每个作者仅限**两份**投稿。\n"
+"\t\t\t\t- 合作作品中每个参与艺术家作为**一份**投稿。\n"
 "\t\t\t\t- 只接受 Soundcloud，YouTube 或 Clyp 上上传的投稿。\n"
 "\t\t\t\t- 您的作品必须在裁判过程结束前可供欣赏，否则您的作品将被自动淘汰。\n"
 "\t\t\t4. **裁判**\n"
-"\t\t\t  - 裁判团成员如下：Greippi，Jacoby Davis，Spekular，Stakeout Punch 及 Squatro。\n"
+"\t\t\t  - 裁判团成员有：Greippi，Jacoby Davis，Spekular，Stakeout Punch 及 Squatro。\n"
 "\t\t\t5. **裁判过程**\n"
 "\t\t\t  - 裁判团将在提交期限后 14 天内作出裁判并公布结果。\n"
 "\t\t\t6. **作品公布**\n"
@@ -255,13 +255,12 @@ msgstr ""
 "\t\t\t#### 原竞赛简介：\n"
 "\n"
 "\t\t\t如果您手上有令自己满意的，在 LMMS 上编撰的曲目，请踊跃参加此竞赛！这是一个用于甄选 LMMS 最佳曲目的竞赛。\n"
-"\t\t\t该精选集的目的是鼓励新手和诸位 LMMS 用户创作自己的音乐，并在此过程中鼓励创作者尝试我们的软件。最后，我们也希望通过\n"
-"\t\t\t此竞赛对我们的开发者表达由衷的谢意。\n"
+"\t\t\t该精选集的目的是鼓励新手和诸位 LMMS 用户创作自己的音乐，并在此过程中鼓励创作者尝试我们的软件。最后，我们也希望通过此竞赛对我们的开发者表达由衷的谢意。\n"
 "\t\t\t精选集将被上传到 Bandcamp，所有从中获取的利润将捐助给 LMMS 以资助项目的持续开发。\n"
 "\t\t\t请在 2 月 14 日午夜前（UTC 时间）提交您的作品，在此之前，您也可以通过我们的 Soundcloud 页面获取更多竞赛的相关信息。\n"
 "\n"
 "\t\t\t#### 竞赛规则：\n"
-"\t\t\t1. 投稿期限：所有作品必须在 2 月 14 日午夜前（格林尼治标准时间）提交。每个作者最多提交两份作品，作品类型不限，但长度最好短于 10 分钟。\n"
+"\t\t\t1. 投稿期限：所有作品必须在 2 月 14 日下午 12 时前（格林尼治标准时间）提交。每个作者最多提交两份作品，作品类型不限，但长度最好短于 10 分钟。\n"
 "\t\t\t\t所有作品必须通过 Soundcloud 群组提交。您可以提交任何之前公布的作品。不允许重混音。\n"
 "\t\t\t\t您应当尽可能使用 LMMS 制作您的作品，但您可以使用其他软件（如 Audacity 和 Ardour 等）进行后期混音和母带处理。\n"
 "\t\t\t2. 裁判：裁判组来自 Avelocity 乐队的 Brian Amin (Maniarib)，Joshua Wade (Second Flight)，\n"
@@ -653,7 +652,7 @@ msgstr "使用免费自由开源并且跨平台的作曲工具"
 msgid "Download now"
 msgstr "立即下载"
 
-#: home.twig:15 home.twig:109
+#: home.twig:15 home.twig:107
 msgid "Get involved"
 msgstr "帮助我们"
 
@@ -722,185 +721,185 @@ msgstr "遇到了点麻烦。"
 msgid "Standby, we've got you covered."
 msgstr "请稍等，我们正在尝试解决此问题。"
 
-#: home.twig:74
+#: home.twig:73
 msgid "Visit our forum"
 msgstr "访问我们的论坛"
 
-#: home.twig:75
+#: home.twig:74
 msgid "Visit our Facebook page"
 msgstr "访问我们的 Facebook 页面"
 
-#: home.twig:77
-msgid "Visit our Google+ page"
-msgstr "访问我们的 Google+ 页面"
+#: home.twig:75
+msgid "Chat now on Discord"
+msgstr "加入 Discord 群聊"
 
-#: home.twig:78
+#: home.twig:76
 msgid "Visit our GitHub page"
 msgstr "访问我们的 GitHub 页面"
 
-#: home.twig:79
+#: home.twig:77
 msgid "Ask your questions here"
 msgstr "在这里说出您的问题"
 
-#: home.twig:80
+#: home.twig:78
 msgid "and answer a few questions while you're waiting."
 msgstr "在等待他人回答您的问题时，也回答一下别人的问题吧"
 
-#: home.twig:87
+#: home.twig:85
 msgid "Sharing means caring."
 msgstr "分享即关注。"
 
-#: home.twig:92
-msgid "Visit our Soundcloud group"
-msgstr "访问我们的 Soundcloud 资源"
+#: home.twig:90
+msgid "Find musicians"
+msgstr "寻找艺术家"
 
-#: home.twig:93
+#: home.twig:91
 msgid "Visit the LMMS Sharing Platform (LSP)"
 msgstr "访问 LMMS 分享平台 (LSP)"
 
-#: home.twig:94
+#: home.twig:92
 msgid "Don't be modest,"
 msgstr "不要害羞"
 
-#: home.twig:95
+#: home.twig:93
 msgid "show us your creations."
 msgstr "将您的才华展现给大家"
 
-#: home.twig:103
+#: home.twig:101
 msgid "We <3 Open Source."
 msgstr "我们 <3 开源"
 
-#: home.twig:108
+#: home.twig:106
 msgid "Fork us on Github"
 msgstr "在 GitHub 上 Fork 我们"
 
-#: home.twig:110
+#: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community driven project,"
-msgstr "LMMS 是一个 100%% 自由开源且由社区驱动的项目，"
+msgstr "LMMS 是一个 100% 自由开源且由社区驱动的项目，"
 
-#: home.twig:111
+#: home.twig:109
 msgid "proudly hosted on Github"
 msgstr "我们很荣幸能托管在 GitHub 上"
 
-#: home.twig:126
+#: home.twig:124
 msgid "Take a peek"
 msgstr "先睹为快"
 
-#: home.twig:129
+#: home.twig:127
 msgid "Watch our promo video."
 msgstr "观赏我们的宣传片"
 
-#: home.twig:151
+#: home.twig:149
 msgid "Featuring"
 msgstr "功能 "
 
-#: home.twig:155
+#: home.twig:153
 msgid "Core Functionality"
 msgstr "核心功能"
 
-#: home.twig:159
+#: home.twig:157
 msgid "Compose music on Windows, Linux and Apple OS&nbsp;X"
 msgstr "在 Windows、Linux 和 macOS 上创作音乐"
 
-#: home.twig:160
+#: home.twig:158
 msgid "Sequence, compose, mix and automate songs in one simple interface"
 msgstr "在统一而简明的用户界面上编排，混音和自动化控制乐曲"
 
-#: home.twig:161
+#: home.twig:159
 msgid "Note playback via MIDI or typing keyboard"
 msgstr "通过 MIDI 或输入键盘回放音符"
 
-#: home.twig:162
+#: home.twig:160
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
 msgstr "使用节拍及低音编辑器润色曲目"
 
-#: home.twig:163
+#: home.twig:161
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr "使用钢琴键排编辑器微调节奏，音符，和弦及旋律"
 
-#: home.twig:164
+#: home.twig:162
 msgid ""
 "Full user-defined track-based automation and computer-controlled automation "
 "sources"
 msgstr "完全用户自定义，基于音轨由电脑控制的自动化源。"
 
-#: home.twig:165
+#: home.twig:163
 msgid "Import of MIDI files and Hydrogen project files"
 msgstr "导入 MIDI 文件和 Hydrogen 工程文件"
 
-#: home.twig:175
+#: home.twig:173
 msgid "Musical Instruments"
 msgstr "乐器"
 
-#: home.twig:179
+#: home.twig:177
 msgid "Built-in 32-bit VST instrument support"
 msgstr "内置 32 位 VST 乐器支持"
 
-#: home.twig:180
+#: home.twig:178
 msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
 msgstr "内置 64 位 VST 乐器支持及 32 位 VST 兼容桥（64 位 Windows）"
 
-#: home.twig:181
+#: home.twig:179
 msgid "Roland ® TB-303 style monophonic bass synthesizer"
 msgstr "Roland ® TB-303 风格的单声道低音合成器"
 
-#: home.twig:182
+#: home.twig:180
 msgid ""
 "Embedded ZynAddSubFx:  Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
 msgstr "内置 ZynAddSubFx：多声道，多音色，微分音，多音色递增，递减及补充合成的强大多合一插件"
 
-#: home.twig:183
+#: home.twig:181
 msgid "Native Commodore 64 ® SID microchip/instrument emulation"
 msgstr "原生 Commodore 64 ® SID 微芯片/乐器模拟"
 
-#: home.twig:184
+#: home.twig:182
 msgid ""
 "Native SoundFont ® support (SF2), the industry standard for high quality "
 "instrument patches and banks"
 msgstr "原生 SoundFont ® (SF2) 支持，业界标准的高质量乐器音色及音源库。"
 
-#: home.twig:185
+#: home.twig:183
 msgid "Nintendo ®, GameBoy ® and game sound effect emulation"
 msgstr "Nintendo ®, GameBoy ® 等游戏机音效模拟"
 
-#: home.twig:186
+#: home.twig:184
 msgid "2 built-in oscillator-based synthesizers"
 msgstr "2 个内置基于电子振荡器的合成器"
 
-#: home.twig:187
+#: home.twig:185
 msgid "2 built-in wavetable-based synthesizers"
 msgstr "2 个内置基于波表的合成器"
 
-#: home.twig:188
+#: home.twig:186
 msgid "Gravis UltraSound ® GUS Patch support"
 msgstr "Gravis UltraSound ® GUS 音色支持"
 
-#: home.twig:198
+#: home.twig:196
 msgid "Effects Mixing"
 msgstr "效果混合"
 
-#: home.twig:202
+#: home.twig:200
 msgid "Drop-in LADSPA plug-in support"
 msgstr "原生 LADSPA 插件支持"
 
-#: home.twig:203
+#: home.twig:201
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
 msgstr "自带 VST ® 音效插件支持 (Linux 和 Windows)"
 
-#: home.twig:204
+#: home.twig:202
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion, EQ, bass-enhancer"
 msgstr "内置压缩器，限幅器，延时，回响，变音，均衡器以及重低音增强器"
 
-#: home.twig:205
+#: home.twig:203
 msgid "Bundled graphic and parametric equalizers"
 msgstr "内含基于图形及参数的均衡器"
 
-#: home.twig:206
+#: home.twig:204
 msgid "Built-in visualization/spectrum analyser"
 msgstr "内置可视化插件/频谱分析器"
 

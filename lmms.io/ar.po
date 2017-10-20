@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 14:14-0600\n"
+"POT-Creation-Date: 2017-10-18 14:49-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Hussam Eddin Alhomsi <hussameddin.alhomsi@gmail.com>, 2017\n"
 "Language-Team: Arabic (https://www.transifex.com/lmms/teams/61632/ar/)\n"
@@ -430,6 +430,9 @@ msgid ""
 "\t\t\t\t\tis a more modern alternative to IRC. Join our server\n"
 "\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>"
 msgstr ""
+"<a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a>\n"
+"\t\t\t\t\tهو بديل عصري أكثر ل IRC. التحق بخادمنا\n"
+"\t\t\t\t\t<a href=\"https://discord.gg/5kSc32Z\">بالنقر هنا</a>"
 
 #: get-involved.twig:116
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:9
@@ -494,11 +497,11 @@ msgstr "الإصدارات البائية"
 
 #: download/index.twig:73
 msgid "Install LMMS on macOS"
-msgstr ""
+msgstr "ركب LMMS على macOS"
 
 #: download/index.twig:74
 msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr ""
+msgstr "انقر أحد الأزرار أدناه لتحمل لأجل macOS"
 
 #: download/index.twig:91
 msgid "Downloads labeled Beta are pre-release software, stability may suffer."
@@ -668,7 +671,7 @@ msgstr "مع أداة مجانية و متعددة-المنصات لحاسوبك
 msgid "Download now"
 msgstr "حمل الآن"
 
-#: home.twig:15 home.twig:109
+#: home.twig:15 home.twig:107
 msgid "Get involved"
 msgstr "تورط"
 
@@ -740,106 +743,106 @@ msgstr "لدي مشكلة."
 msgid "Standby, we've got you covered."
 msgstr "لا تقلق، سنساعدك."
 
-#: home.twig:74
+#: home.twig:73
 msgid "Visit our forum"
 msgstr "زر منتدانا"
 
-#: home.twig:75
+#: home.twig:74
 msgid "Visit our Facebook page"
 msgstr "زر صفحة Facebook خاصتنا"
 
-#: home.twig:77
-msgid "Visit our Google+ page"
-msgstr "زر صفحة Google+ خاصتنا"
+#: home.twig:75
+msgid "Chat now on Discord"
+msgstr "تحادث على Discord"
 
-#: home.twig:78
+#: home.twig:76
 msgid "Visit our GitHub page"
 msgstr "زر صفحة GitHub خاصتنا"
 
-#: home.twig:79
+#: home.twig:77
 msgid "Ask your questions here"
 msgstr "اسأل سؤالك هنا"
 
-#: home.twig:80
+#: home.twig:78
 msgid "and answer a few questions while you're waiting."
 msgstr "و جاوب بعض الأسئلة بينما تنتظر."
 
-#: home.twig:87
+#: home.twig:85
 msgid "Sharing means caring."
 msgstr "المشاركة تعني العناية."
 
-#: home.twig:92
-msgid "Visit our Soundcloud group"
-msgstr "زر مجموعة Souncloud خاصتنا"
+#: home.twig:90
+msgid "Find musicians"
+msgstr "اعثر على موسيقيين"
 
-#: home.twig:93
+#: home.twig:91
 msgid "Visit the LMMS Sharing Platform (LSP)"
 msgstr "زر منصة مشاركة LMMS (LSP)"
 
-#: home.twig:94
+#: home.twig:92
 msgid "Don't be modest,"
 msgstr "لا تكن متواضعا،"
 
-#: home.twig:95
+#: home.twig:93
 msgid "show us your creations."
 msgstr "أرنا إبداعاتك."
 
-#: home.twig:103
+#: home.twig:101
 msgid "We <3 Open Source."
 msgstr "نحن 3> البرمجيات مفتوحة المصدر."
 
-#: home.twig:108
+#: home.twig:106
 msgid "Fork us on Github"
 msgstr "شعبنا على GitHub"
 
-#: home.twig:110
+#: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community driven project,"
 msgstr "LMMS مشروع مجاني، مفتوح المصدر، مدفوع من قبل المشترك 100%،"
 
-#: home.twig:111
+#: home.twig:109
 msgid "proudly hosted on Github"
 msgstr "مستضاف بفخر على GitHub"
 
-#: home.twig:126
+#: home.twig:124
 msgid "Take a peek"
 msgstr "خذ نظرة خاطفة"
 
-#: home.twig:129
+#: home.twig:127
 msgid "Watch our promo video."
 msgstr "شاهد ڤ‍يديو الترويج خاصتنا."
 
-#: home.twig:151
+#: home.twig:149
 msgid "Featuring"
 msgstr "مبرزا"
 
-#: home.twig:155
+#: home.twig:153
 msgid "Core Functionality"
 msgstr "الوظائف الجوهرية"
 
-#: home.twig:159
+#: home.twig:157
 msgid "Compose music on Windows, Linux and Apple OS&nbsp;X"
 msgstr "ألف الموسيقى على Windows و Linux و macOS"
 
-#: home.twig:160
+#: home.twig:158
 msgid "Sequence, compose, mix and automate songs in one simple interface"
 msgstr "سلسل، ألف، امزج و أتمت أغانيك في واجهة بسيطة واحدة"
 
-#: home.twig:161
+#: home.twig:159
 msgid "Note playback via MIDI or typing keyboard"
 msgstr "تشغيل العلامات عبر لوحة مفاتيح كتابة أو MIDI"
 
-#: home.twig:162
+#: home.twig:160
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
 msgstr "ادمج مسارات الآلات مستخدما محرر الأنماط"
 
-#: home.twig:163
+#: home.twig:161
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr ""
 "ناغم الأنماط، العلامات، مجموعات العلامات المتآلفة و الألحان مستخدما محرر  "
 "البيان"
 
-#: home.twig:164
+#: home.twig:162
 msgid ""
 "Full user-defined track-based automation and computer-controlled automation "
 "sources"
@@ -847,30 +850,30 @@ msgstr ""
 "أتمتة كاملة مبنية على أساس المسار و محددة بواسطة المستخدم و مصادر أتمتة "
 "متحكم بها حاسوبيا"
 
-#: home.twig:165
+#: home.twig:163
 msgid "Import of MIDI files and Hydrogen project files"
 msgstr "استيراد ملفات MIDI و ملفات مشاريع Hydrogen"
 
-#: home.twig:175
+#: home.twig:173
 msgid "Musical Instruments"
 msgstr "الآلات الموسيقية"
 
-#: home.twig:179
+#: home.twig:177
 msgid "Built-in 32-bit VST instrument support"
 msgstr "دعم آلات VST ذات 32-بت مبني داخليا"
 
-#: home.twig:180
+#: home.twig:178
 msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
 msgstr ""
 "دعم آلات VST ذات 64-بت مبني-داخليا مع جسر VST ذو 32-بت (Windows ذو 64-بت)"
 
-#: home.twig:181
+#: home.twig:179
 msgid "Roland ® TB-303 style monophonic bass synthesizer"
 msgstr "مركب أصوات جهيرة أحادي النغمة بأسلوب Roland ® TB-303"
 
-#: home.twig:182
+#: home.twig:180
 msgid ""
 "Embedded ZynAddSubFx:  Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
@@ -878,55 +881,55 @@ msgstr ""
 "ZynAddSubFx مطمور: متعدد الأصوات، كثير طوابع الصوت، صغير النغمية، تركيبات "
 "جمعية و طرحية و صوتية خافتة جميعها في plugin فعالة واحدة"
 
-#: home.twig:183
+#: home.twig:181
 msgid "Native Commodore 64 ® SID microchip/instrument emulation"
 msgstr "محاكاة محلية لرقاقة-صغيرة/آلة لجهاز السطح البيني للصوت Commodore 64 ®"
 
-#: home.twig:184
+#: home.twig:182
 msgid ""
 "Native SoundFont ® support (SF2), the industry standard for high quality "
 "instrument patches and banks"
 msgstr ""
 "دعم SoundFont ® (SF2) محلي، مقياس الصناعة لرقع و بنوك الآلات عالية الجودة"
 
-#: home.twig:185
+#: home.twig:183
 msgid "Nintendo ®, GameBoy ® and game sound effect emulation"
 msgstr "Nintendo ® و  GameBoy ® و محاكاة تأثيرات-صوت الألعاب"
 
-#: home.twig:186
+#: home.twig:184
 msgid "2 built-in oscillator-based synthesizers"
 msgstr "مركبان مبنيان على أساس المذبذبات مبنيان داخليا"
 
-#: home.twig:187
+#: home.twig:185
 msgid "2 built-in wavetable-based synthesizers"
 msgstr "مركبان مبنيان على أساس جدول الموجة مبنيان داخليا"
 
-#: home.twig:188
+#: home.twig:186
 msgid "Gravis UltraSound ® GUS Patch support"
 msgstr "دعم رقعة Gravis UltraSound ® GUS"
 
-#: home.twig:198
+#: home.twig:196
 msgid "Effects Mixing"
 msgstr "مزج باستخدام التأثيرات"
 
-#: home.twig:202
+#: home.twig:200
 msgid "Drop-in LADSPA plug-in support"
 msgstr "دعم موصلات LADSPA القابلة للإسقاط"
 
-#: home.twig:203
+#: home.twig:201
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
 msgstr "دعم موصلات تأثيرات VST ® القابلة للإسقاط (Linux و Windows)"
 
-#: home.twig:204
+#: home.twig:202
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion, EQ, bass-enhancer"
 msgstr "ضاغط و حادد و تأخير و ترجيع و تشويه و مسو و معزز جهارة مبنيون-داخليا"
 
-#: home.twig:205
+#: home.twig:203
 msgid "Bundled graphic and parametric equalizers"
 msgstr "مسويات رسومية و معاملية محزومة"
 
-#: home.twig:206
+#: home.twig:204
 msgid "Built-in visualization/spectrum analyser"
 msgstr "مرسمة ذبذبات و محللة طيف مبنيتان-داخليا"
 
@@ -980,11 +983,11 @@ msgstr "ملف مجهول"
 
 #: /home/liushuyu/Development/lmms.io/public/index.php:37
 msgid "You seem to have taken a wrong turn."
-msgstr ""
+msgstr "يبدو أنك اخترت منعطفا خاطئا."
 
 #: /home/liushuyu/Development/lmms.io/public/index.php:40
 msgid "Oops, that is not supposed to happen."
-msgstr ""
+msgstr "لا يفترض حدوث ذلك."
 
 #: /home/liushuyu/Development/lmms.io/public/index.php:43
 msgid "Yuck, an error!"

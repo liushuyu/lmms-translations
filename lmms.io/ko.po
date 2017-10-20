@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 14:14-0600\n"
+"POT-Creation-Date: 2017-10-18 14:49-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: 방성범 (Bang Seongbeom) <bangseongbeom@gmail.com>, 2017\n"
 "Language-Team: Korean (https://www.transifex.com/lmms/teams/61632/ko/)\n"
@@ -518,7 +518,7 @@ msgstr "LMMS는 완전 무료에다가 리눅스, 윈도우, 맥 어디서나 �
 msgid "Download now"
 msgstr "지금 다운로드"
 
-#: home.twig:15 home.twig:109
+#: home.twig:15 home.twig:107
 msgid "Get involved"
 msgstr "참여하기"
 
@@ -589,185 +589,185 @@ msgstr "이런, 문제가 생겼어요."
 msgid "Standby, we've got you covered."
 msgstr "언제든지 저희가 도와드리겠습니다."
 
-#: home.twig:74
+#: home.twig:73
 msgid "Visit our forum"
 msgstr "포럼 방문하기"
 
-#: home.twig:75
+#: home.twig:74
 msgid "Visit our Facebook page"
 msgstr "Facebook 페이지 방문하기"
 
-#: home.twig:77
-msgid "Visit our Google+ page"
-msgstr "Google+ 페이지 방문하기"
+#: home.twig:75
+msgid "Chat now on Discord"
+msgstr ""
 
-#: home.twig:78
+#: home.twig:76
 msgid "Visit our GitHub page"
 msgstr "GitHub 페이지 방문하기"
 
-#: home.twig:79
+#: home.twig:77
 msgid "Ask your questions here"
 msgstr "무엇이든지 물어보세요"
 
-#: home.twig:80
+#: home.twig:78
 msgid "and answer a few questions while you're waiting."
 msgstr "답변을 기다리는 동안 다른 질문을 해결해 주는 건 어때요?"
 
-#: home.twig:87
+#: home.twig:85
 msgid "Sharing means caring."
 msgstr "공유는 소통입니다."
 
-#: home.twig:92
-msgid "Visit our Soundcloud group"
-msgstr "Soundcloud LMMS 그룹 방문"
+#: home.twig:90
+msgid "Find musicians"
+msgstr ""
 
-#: home.twig:93
+#: home.twig:91
 msgid "Visit the LMMS Sharing Platform (LSP)"
 msgstr "LMMS 공유 마당 (LSP) 방문"
 
-#: home.twig:94
+#: home.twig:92
 msgid "Don't be modest,"
 msgstr "겸손할 필요 없습니다."
 
-#: home.twig:95
+#: home.twig:93
 msgid "show us your creations."
 msgstr "여러분의 재능을 마음껏 발휘하세요."
 
-#: home.twig:103
+#: home.twig:101
 msgid "We <3 Open Source."
 msgstr "LMMS ❤ 오픈 소스"
 
-#: home.twig:108
+#: home.twig:106
 msgid "Fork us on Github"
 msgstr "GitHub에서 포크"
 
-#: home.twig:110
+#: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community driven project,"
 msgstr "LMMS는 100% 무료로 사용 가능한 오픈 소스 및 공동체 중심의 프로젝트입니다."
 
-#: home.twig:111
+#: home.twig:109
 msgid "proudly hosted on Github"
 msgstr "GitHub를 통해 운영하고 있습니다."
 
-#: home.twig:126
+#: home.twig:124
 msgid "Take a peek"
 msgstr "둘러보기"
 
-#: home.twig:129
+#: home.twig:127
 msgid "Watch our promo video."
 msgstr "프로모션 동영상을 시청합니다."
 
-#: home.twig:151
+#: home.twig:149
 msgid "Featuring"
 msgstr "특징"
 
-#: home.twig:155
+#: home.twig:153
 msgid "Core Functionality"
 msgstr "핵심 기능"
 
-#: home.twig:159
+#: home.twig:157
 msgid "Compose music on Windows, Linux and Apple OS&nbsp;X"
 msgstr ""
 
-#: home.twig:160
+#: home.twig:158
 msgid "Sequence, compose, mix and automate songs in one simple interface"
 msgstr ""
 
-#: home.twig:161
+#: home.twig:159
 msgid "Note playback via MIDI or typing keyboard"
 msgstr ""
 
-#: home.twig:162
+#: home.twig:160
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
 msgstr ""
 
-#: home.twig:163
+#: home.twig:161
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr ""
 
-#: home.twig:164
+#: home.twig:162
 msgid ""
 "Full user-defined track-based automation and computer-controlled automation "
 "sources"
 msgstr ""
 
-#: home.twig:165
+#: home.twig:163
 msgid "Import of MIDI files and Hydrogen project files"
 msgstr ""
 
-#: home.twig:175
+#: home.twig:173
 msgid "Musical Instruments"
 msgstr "가상 악기"
 
-#: home.twig:179
+#: home.twig:177
 msgid "Built-in 32-bit VST instrument support"
 msgstr ""
 
-#: home.twig:180
+#: home.twig:178
 msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
 msgstr ""
 
-#: home.twig:181
+#: home.twig:179
 msgid "Roland ® TB-303 style monophonic bass synthesizer"
 msgstr ""
 
-#: home.twig:182
+#: home.twig:180
 msgid ""
 "Embedded ZynAddSubFx:  Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
 msgstr ""
 
-#: home.twig:183
+#: home.twig:181
 msgid "Native Commodore 64 ® SID microchip/instrument emulation"
 msgstr ""
 
-#: home.twig:184
+#: home.twig:182
 msgid ""
 "Native SoundFont ® support (SF2), the industry standard for high quality "
 "instrument patches and banks"
 msgstr ""
 
-#: home.twig:185
+#: home.twig:183
 msgid "Nintendo ®, GameBoy ® and game sound effect emulation"
 msgstr ""
 
-#: home.twig:186
+#: home.twig:184
 msgid "2 built-in oscillator-based synthesizers"
 msgstr ""
 
-#: home.twig:187
+#: home.twig:185
 msgid "2 built-in wavetable-based synthesizers"
 msgstr ""
 
-#: home.twig:188
+#: home.twig:186
 msgid "Gravis UltraSound ® GUS Patch support"
 msgstr "Gravis UltraSound ® GUS 패치 지원"
 
-#: home.twig:198
+#: home.twig:196
 msgid "Effects Mixing"
 msgstr "믹싱"
 
-#: home.twig:202
+#: home.twig:200
 msgid "Drop-in LADSPA plug-in support"
 msgstr ""
 
-#: home.twig:203
+#: home.twig:201
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
 msgstr ""
 
-#: home.twig:204
+#: home.twig:202
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion, EQ, bass-enhancer"
 msgstr ""
 
-#: home.twig:205
+#: home.twig:203
 msgid "Bundled graphic and parametric equalizers"
 msgstr ""
 
-#: home.twig:206
+#: home.twig:204
 msgid "Built-in visualization/spectrum analyser"
 msgstr ""
 

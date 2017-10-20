@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 14:14-0600\n"
+"POT-Creation-Date: 2017-10-18 14:49-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: GIULIO BELLI <javagio5@yahoo.it>, 2017\n"
 "Language-Team: Italian (https://www.transifex.com/lmms/teams/61632/it/)\n"
@@ -628,7 +628,7 @@ msgstr "Con un libero strumento cross-platform per il tuo computer."
 msgid "Download now"
 msgstr "Scarica ora"
 
-#: home.twig:15 home.twig:109
+#: home.twig:15 home.twig:107
 msgid "Get involved"
 msgstr "Coinvolgiti"
 
@@ -703,108 +703,108 @@ msgstr "Houston, abbiamo avuto un problema."
 msgid "Standby, we've got you covered."
 msgstr "In attesa, ti abbiamo coperto."
 
-#: home.twig:74
+#: home.twig:73
 msgid "Visit our forum"
 msgstr "Visit our forum"
 
-#: home.twig:75
+#: home.twig:74
 msgid "Visit our Facebook page"
 msgstr "Visita la nostra pagina Facebook"
 
-#: home.twig:77
-msgid "Visit our Google+ page"
-msgstr "Visita la nostra pagina Google+"
+#: home.twig:75
+msgid "Chat now on Discord"
+msgstr ""
 
-#: home.twig:78
+#: home.twig:76
 msgid "Visit our GitHub page"
 msgstr "Visita la nostra pagina GitHub"
 
-#: home.twig:79
+#: home.twig:77
 msgid "Ask your questions here"
 msgstr "Chiedi qui le tue domande"
 
-#: home.twig:80
+#: home.twig:78
 msgid "and answer a few questions while you're waiting."
 msgstr "E rispondi a qualche domanda mentre stai aspettando."
 
-#: home.twig:87
+#: home.twig:85
 msgid "Sharing means caring."
 msgstr "La condivisione è solidarietà"
 
-#: home.twig:92
-msgid "Visit our Soundcloud group"
-msgstr "Visita il nostro gruppo Soundcloud"
+#: home.twig:90
+msgid "Find musicians"
+msgstr ""
 
-#: home.twig:93
+#: home.twig:91
 msgid "Visit the LMMS Sharing Platform (LSP)"
 msgstr "Visita la piattaforma di condivisione LMMS (LSP)"
 
-#: home.twig:94
+#: home.twig:92
 msgid "Don't be modest,"
 msgstr "Non essere modesto,"
 
-#: home.twig:95
+#: home.twig:93
 msgid "show us your creations."
 msgstr "Mostraci le tue creazioni."
 
-#: home.twig:103
+#: home.twig:101
 msgid "We <3 Open Source."
 msgstr "Noi <3 Open Source."
 
-#: home.twig:108
+#: home.twig:106
 msgid "Fork us on Github"
 msgstr "Utilizza Github"
 
-#: home.twig:110
+#: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community driven project,"
 msgstr ""
 "LMMS è un progetto al 100% gratuito, open source, gestito dalla comunità"
 
-#: home.twig:111
+#: home.twig:109
 msgid "proudly hosted on Github"
 msgstr "Orgogliosamente ospitato su Github"
 
-#: home.twig:126
+#: home.twig:124
 msgid "Take a peek"
 msgstr "Dai un'occhiata"
 
-#: home.twig:129
+#: home.twig:127
 msgid "Watch our promo video."
 msgstr "Guarda il nostro video promozionale."
 
-#: home.twig:151
+#: home.twig:149
 msgid "Featuring"
 msgstr "Caratterizzato"
 
-#: home.twig:155
+#: home.twig:153
 msgid "Core Functionality"
 msgstr "Funzionalità di base"
 
-#: home.twig:159
+#: home.twig:157
 msgid "Compose music on Windows, Linux and Apple OS&nbsp;X"
 msgstr "Componi la musica su Windows, Linux e Apple OS "
 
-#: home.twig:160
+#: home.twig:158
 msgid "Sequence, compose, mix and automate songs in one simple interface"
 msgstr ""
 "Sequenza, componi, mixa e automatizza canzoni in una semplice interfaccia"
 
-#: home.twig:161
+#: home.twig:159
 msgid "Note playback via MIDI or typing keyboard"
 msgstr "Nota la riproduzione tramite MIDI o utilizzando la tastiera del PC "
 
-#: home.twig:162
+#: home.twig:160
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
 msgstr "Consolidare le tracce dello strumento usando Beat + Bassline Editor"
 
-#: home.twig:163
+#: home.twig:161
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr ""
 "Ottimizza i pattern, le note, gli accordi e le melodie usando l'editor del "
 "pianoforte"
 
-#: home.twig:164
+#: home.twig:162
 msgid ""
 "Full user-defined track-based automation and computer-controlled automation "
 "sources"
@@ -812,19 +812,19 @@ msgstr ""
 "Automazione completa basata su pista definita dall'utente e fonti di "
 "automazione controllate dal computer"
 
-#: home.twig:165
+#: home.twig:163
 msgid "Import of MIDI files and Hydrogen project files"
 msgstr "Importazione di file MIDI e file di progetto Hydrogen "
 
-#: home.twig:175
+#: home.twig:173
 msgid "Musical Instruments"
 msgstr "Strumenti musicali"
 
-#: home.twig:179
+#: home.twig:177
 msgid "Built-in 32-bit VST instrument support"
 msgstr "Supporto dello strumento VST incorporato a 32 bit"
 
-#: home.twig:180
+#: home.twig:178
 msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
@@ -832,11 +832,11 @@ msgstr ""
 "Supporto strumento VST incorporato a 64 bit con bridge VST a 32 bit (Windows"
 " a 64 bit)"
 
-#: home.twig:181
+#: home.twig:179
 msgid "Roland ® TB-303 style monophonic bass synthesizer"
 msgstr "sintetizzatore monofonico stile Roland ® TB-303"
 
-#: home.twig:182
+#: home.twig:180
 msgid ""
 "Embedded ZynAddSubFx:  Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
@@ -844,11 +844,11 @@ msgstr ""
 "Embedded ZynAddSubFx: Polifonico, mutlitimbrale, microtonale, multi-voice "
 "additivo, sottrattiva e sintesi pad in un potente plugin"
 
-#: home.twig:183
+#: home.twig:181
 msgid "Native Commodore 64 ® SID microchip/instrument emulation"
 msgstr "Microchip Native Commodore 64 ® SID / emulazione degli strumenti"
 
-#: home.twig:184
+#: home.twig:182
 msgid ""
 "Native SoundFont ® support (SF2), the industry standard for high quality "
 "instrument patches and banks"
@@ -856,46 +856,46 @@ msgstr ""
 "Supporto nativo SoundFont ® (SF2), lo standard industriale per le patch e le"
 " banche strumenti di alta qualità"
 
-#: home.twig:185
+#: home.twig:183
 msgid "Nintendo ®, GameBoy ® and game sound effect emulation"
 msgstr "96Nintendo®, GameBoy® e emulazione di effetti sonori del gioco"
 
-#: home.twig:186
+#: home.twig:184
 msgid "2 built-in oscillator-based synthesizers"
 msgstr "2 sintetizzatori basati su oscillatori incorporati"
 
-#: home.twig:187
+#: home.twig:185
 msgid "2 built-in wavetable-based synthesizers"
 msgstr "2 sintetizzatori incorporati basati su wavetable"
 
-#: home.twig:188
+#: home.twig:186
 msgid "Gravis UltraSound ® GUS Patch support"
 msgstr "Supporto Gravis UltraSound ® GUS Patch"
 
-#: home.twig:198
+#: home.twig:196
 msgid "Effects Mixing"
 msgstr "Effetti Miscelazione"
 
-#: home.twig:202
+#: home.twig:200
 msgid "Drop-in LADSPA plug-in support"
 msgstr "Drop-in LADSPA plug-in support"
 
-#: home.twig:203
+#: home.twig:201
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
 msgstr "Drop-in VST ® plug-in di effetti (Linux e Windows)"
 
-#: home.twig:204
+#: home.twig:202
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion, EQ, bass-enhancer"
 msgstr ""
 "Compressore incorporato, limitatore, ritardo, riverbero, distorsione, EQ, "
 "amplificatore del basso"
 
-#: home.twig:205
+#: home.twig:203
 msgid "Bundled graphic and parametric equalizers"
 msgstr "Equalizzatori grafici e parametrici in dotazione"
 
-#: home.twig:206
+#: home.twig:204
 msgid "Built-in visualization/spectrum analyser"
 msgstr "Analizzatore incorporato di visualizzazione / spettro"
 

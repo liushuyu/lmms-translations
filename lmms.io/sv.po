@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 14:14-0600\n"
+"POT-Creation-Date: 2017-10-18 14:49-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Staffan Vilcans <svilcans@gmail.com>, 2017\n"
 "Language-Team: Swedish (https://www.transifex.com/lmms/teams/61632/sv/)\n"
@@ -633,7 +633,7 @@ msgstr "med ett gratis multi-plattformsverktyg för din dator."
 msgid "Download now"
 msgstr "Ladda ner nu"
 
-#: home.twig:15 home.twig:109
+#: home.twig:15 home.twig:107
 msgid "Get involved"
 msgstr "Hjälp till"
 
@@ -708,105 +708,105 @@ msgstr "Houston, vi har haft ett problem."
 msgid "Standby, we've got you covered."
 msgstr "Sitt lugnt i båten, vi har en lösning åt dig."
 
-#: home.twig:74
+#: home.twig:73
 msgid "Visit our forum"
 msgstr "Besök vårt forum"
 
-#: home.twig:75
+#: home.twig:74
 msgid "Visit our Facebook page"
 msgstr "Besök vår Facebook-sida"
 
-#: home.twig:77
-msgid "Visit our Google+ page"
-msgstr "Besök vår Google+-sida"
+#: home.twig:75
+msgid "Chat now on Discord"
+msgstr ""
 
-#: home.twig:78
+#: home.twig:76
 msgid "Visit our GitHub page"
 msgstr "Besök vår GitHub-sida"
 
-#: home.twig:79
+#: home.twig:77
 msgid "Ask your questions here"
 msgstr "Ställ dina frågor här"
 
-#: home.twig:80
+#: home.twig:78
 msgid "and answer a few questions while you're waiting."
 msgstr "och svara på ett par frågor medan du väntar."
 
-#: home.twig:87
+#: home.twig:85
 msgid "Sharing means caring."
 msgstr "Att dela betyder att bry sig."
 
-#: home.twig:92
-msgid "Visit our Soundcloud group"
-msgstr "Besök vår Soundcloud-grupp"
+#: home.twig:90
+msgid "Find musicians"
+msgstr ""
 
-#: home.twig:93
+#: home.twig:91
 msgid "Visit the LMMS Sharing Platform (LSP)"
 msgstr "Besök LMMS Sharing Platform (LSP)"
 
-#: home.twig:94
+#: home.twig:92
 msgid "Don't be modest,"
 msgstr "Var inte blygsam,"
 
-#: home.twig:95
+#: home.twig:93
 msgid "show us your creations."
 msgstr "visa dina kreationer."
 
-#: home.twig:103
+#: home.twig:101
 msgid "We <3 Open Source."
 msgstr "Vi <3 Open Source."
 
-#: home.twig:108
+#: home.twig:106
 msgid "Fork us on Github"
 msgstr "Forka oss på Github"
 
-#: home.twig:110
+#: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community driven project,"
 msgstr "LMMS är ett 100% fritt, open source, community-drivet projekt,"
 
-#: home.twig:111
+#: home.twig:109
 msgid "proudly hosted on Github"
 msgstr "stolt tillgängliggjort på GitHub"
 
-#: home.twig:126
+#: home.twig:124
 msgid "Take a peek"
 msgstr "Ta en titt"
 
-#: home.twig:129
+#: home.twig:127
 msgid "Watch our promo video."
 msgstr "Titta på vår promo-video."
 
-#: home.twig:151
+#: home.twig:149
 msgid "Featuring"
 msgstr "Huvudfunktioner"
 
-#: home.twig:155
+#: home.twig:153
 msgid "Core Functionality"
 msgstr "Grundfunktionalitet"
 
-#: home.twig:159
+#: home.twig:157
 msgid "Compose music on Windows, Linux and Apple OS&nbsp;X"
 msgstr "Komponera musik på Windows, Linux och Apple OS&nbsp;X"
 
-#: home.twig:160
+#: home.twig:158
 msgid "Sequence, compose, mix and automate songs in one simple interface"
 msgstr ""
 "Sekvensera, komponera, mixa och automatisera sånger i ett enkelt gränssnitt"
 
-#: home.twig:161
+#: home.twig:159
 msgid "Note playback via MIDI or typing keyboard"
 msgstr "Spela med hjälp av MIDI eller tangentbord"
 
-#: home.twig:162
+#: home.twig:160
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
 msgstr "Konsolidera instrumentspår med Beat+Bassline Editor"
 
-#: home.twig:163
+#: home.twig:161
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr "Finjustera mönster, noter, ackord och melodier med Piano Roll Editor"
 
-#: home.twig:164
+#: home.twig:162
 msgid ""
 "Full user-defined track-based automation and computer-controlled automation "
 "sources"
@@ -814,19 +814,19 @@ msgstr ""
 "Fullt användardefinierad spårbaserad automation och datorstyrda "
 "automationskällor"
 
-#: home.twig:165
+#: home.twig:163
 msgid "Import of MIDI files and Hydrogen project files"
 msgstr "Import av MIDI-filer och Hydrogen projektfiler"
 
-#: home.twig:175
+#: home.twig:173
 msgid "Musical Instruments"
 msgstr "Musikinstrument"
 
-#: home.twig:179
+#: home.twig:177
 msgid "Built-in 32-bit VST instrument support"
 msgstr "Inbyggd support för 32-bitars VST ®-instrument"
 
-#: home.twig:180
+#: home.twig:178
 msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
@@ -834,11 +834,11 @@ msgstr ""
 "Inbyggd support för 64-bitars VST ®-instrument med 32-bitars VST ®-brygga "
 "(64-bitars Windows)"
 
-#: home.twig:181
+#: home.twig:179
 msgid "Roland ® TB-303 style monophonic bass synthesizer"
 msgstr "Roland ® TB-303-liknande monofon bas-synth"
 
-#: home.twig:182
+#: home.twig:180
 msgid ""
 "Embedded ZynAddSubFx:  Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
@@ -846,11 +846,11 @@ msgstr ""
 "Inbäddad ZynAddSubFx: Polyfonisk, mutlitimbral, mikrotonal, multi-röst "
 "additiv, subtraktiv och pad-syntes allt i ett kraftfullt plugin"
 
-#: home.twig:183
+#: home.twig:181
 msgid "Native Commodore 64 ® SID microchip/instrument emulation"
 msgstr "Commodore 64 ® SID microchip/instrument-emulering"
 
-#: home.twig:184
+#: home.twig:182
 msgid ""
 "Native SoundFont ® support (SF2), the industry standard for high quality "
 "instrument patches and banks"
@@ -858,46 +858,46 @@ msgstr ""
 "SoundFont ® support (SF2), branschstandarden för högkvalitativa instrument "
 "och instrument-banker"
 
-#: home.twig:185
+#: home.twig:183
 msgid "Nintendo ®, GameBoy ® and game sound effect emulation"
 msgstr "Nintendo ®, GameBoy ® och spel-ljudeffektsemulering"
 
-#: home.twig:186
+#: home.twig:184
 msgid "2 built-in oscillator-based synthesizers"
 msgstr "2 inbyggda oscillator-baserade synthar"
 
-#: home.twig:187
+#: home.twig:185
 msgid "2 built-in wavetable-based synthesizers"
 msgstr "2 inbyggda wavetable-baserade synthar"
 
-#: home.twig:188
+#: home.twig:186
 msgid "Gravis UltraSound ® GUS Patch support"
 msgstr "Gravis UltraSound ® GUS Patch support"
 
-#: home.twig:198
+#: home.twig:196
 msgid "Effects Mixing"
 msgstr "Effekt-mixning"
 
-#: home.twig:202
+#: home.twig:200
 msgid "Drop-in LADSPA plug-in support"
 msgstr "Stöd för LADSPA plug-in"
 
-#: home.twig:203
+#: home.twig:201
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
 msgstr "Stöd för VST ®-effekter (Linux och Windows)"
 
-#: home.twig:204
+#: home.twig:202
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion, EQ, bass-enhancer"
 msgstr ""
 "Inbyggd kompressor, limiter, delay, reverb, distorsion, EQ och "
 "basförstärkare"
 
-#: home.twig:205
+#: home.twig:203
 msgid "Bundled graphic and parametric equalizers"
 msgstr "Medföljande grafiska och parametriska equalizers"
 
-#: home.twig:206
+#: home.twig:204
 msgid "Built-in visualization/spectrum analyser"
 msgstr "Inbyggd visualiserings- / spektrum-analysator"
 
