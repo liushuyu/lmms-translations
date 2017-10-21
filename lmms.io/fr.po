@@ -797,7 +797,7 @@ msgstr "Partager signifie prendre soin."
 
 #: home.twig:90
 msgid "Find musicians"
-msgstr ""
+msgstr "Trouver des musiciens"
 
 #: home.twig:91
 msgid "Visit the LMMS Sharing Platform (LSP)"
