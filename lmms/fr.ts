@@ -3465,7 +3465,7 @@ Vous pouvez supprimer et déplacer les canaux d&apos;effets dans le menu context
     </message>
     <message>
         <source>FX</source>
-        <translation>EFFETS</translation>
+        <translation>EFFET</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -5526,7 +5526,7 @@ PM signifie Modulation de Phase : la phase de l&apos;oscillateur 3 est modulée 
     </message>
     <message>
         <source>Abs Value</source>
-        <translation>Valeur Abs</translation>
+        <translation>Valeur abs</translation>
     </message>
     <message>
         <source>Amount Multiplicator</source>
@@ -6591,7 +6591,7 @@ Veuillez vérifier que vous avez au moins les droits en lecture pour ce fichier 
     </message>
     <message>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
-        <translation>Ne peux pas ouvrir %1 en écriture. Vous n&apos;avez probablement pas les droits pour écrire dans ce fichier. Assurez vous que vous avez les droits d&apos;accès en écriture pour ce fichier et essayez à nouveau.</translation>
+        <translation>Ne peux pas ouvrir %1 en écriture. Vous n&apos;avez probablement pas les droits pour écrire dans ce fichier. Assurez-vous que vous avez les droits d&apos;accès en écriture pour ce fichier et essayez à nouveau.</translation>
     </message>
     <message>
         <source>template</source>
@@ -7195,7 +7195,7 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Show/hide GUI</source>
-        <translation>Montrer/cacher l&apos;interface utilisateur graphique</translation>
+        <translation>Montrer/cacher l&apos;interface graphique</translation>
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of your VST-plugin.</source>
@@ -7203,7 +7203,7 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Turn off all notes</source>
-        <translation>Arrêter de jouer toutes les notes</translation>
+        <translation>Stopper toutes les notes</translation>
     </message>
     <message>
         <source>Open VST-plugin</source>
@@ -7219,7 +7219,7 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>No VST-plugin loaded</source>
-        <translation>Aucun greffon VST n&apos;a été chargé</translation>
+        <translation>Aucun greffon VST chargé</translation>
     </message>
     <message>
         <source>Control VST-plugin from LMMS host</source>
@@ -7348,11 +7348,11 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Open Preset</source>
-        <translation>Ouvrir le Pré-réglage</translation>
+        <translation>Ouvrir le pré-réglage</translation>
     </message>
     <message>
         <source>Vst Plugin Preset (*.fxp *.fxb)</source>
-        <translation>Pré-réglage de Greffon VST (*.fxp *.fxb)</translation>
+        <translation>Pré-réglage de greffon VST (*.fxp *.fxb)</translation>
     </message>
     <message>
         <source>: default</source>
@@ -7725,14 +7725,14 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Forward MIDI Control Change Events</source>
-        <translation>Transmet les événements MIDI Control Change</translation>
+        <translation>Transmet les événmts MIDI Control Change</translation>
     </message>
 </context>
 <context>
     <name>ZynAddSubFxView</name>
     <message>
         <source>Show GUI</source>
-        <translation>Montrer l&apos;interface utilisateur graphique</translation>
+        <translation>Montrer l&apos;interface graphique</translation>
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of ZynAddSubFX.</source>
@@ -7796,7 +7796,7 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Forward MIDI Control Changes</source>
-        <translation>Transmet les événements MIDI Control Change</translation>
+        <translation>Transmet les événmts MIDI Control Change</translation>
     </message>
 </context>
 <context>
