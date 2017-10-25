@@ -7195,7 +7195,7 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Show/hide GUI</source>
-        <translation>Montrer/cacher l&apos;interface graphique</translation>
+        <translation>Montrer l&apos;interface graphique</translation>
     </message>
     <message>
         <source>Click here to show or hide the graphical user interface (GUI) of your VST-plugin.</source>
@@ -7717,15 +7717,15 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Resonance Center Frequency</source>
-        <translation>Fréquence Centrale de la Résonance</translation>
+        <translation>Fréquence centrale de résonance</translation>
     </message>
     <message>
         <source>Resonance Bandwidth</source>
-        <translation>Largeur de Bande de la Résonance</translation>
+        <translation>Bande passante de résonance</translation>
     </message>
     <message>
         <source>Forward MIDI Control Change Events</source>
-        <translation>Transmet les événmts MIDI Control Change</translation>
+        <translation>Transmet les MIDI Control Change</translation>
     </message>
 </context>
 <context>
@@ -7764,7 +7764,7 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
     </message>
     <message>
         <source>Bandwidth:</source>
-        <translation>Largeur de bande :</translation>
+        <translation>Bande passante :</translation>
     </message>
     <message>
         <source>BW</source>
