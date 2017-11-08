@@ -608,7 +608,7 @@ Wenn Sie daran interessiert sind LMMS in eine andere Sprache zu übersetzen oder
     </message>
     <message>
         <source>Beat selector</source>
-        <translation type="unfinished"/>
+        <translation>Beat Wähler</translation>
     </message>
     <message>
         <source>Track and step actions</source>
@@ -771,7 +771,7 @@ Wenn Sie daran interessiert sind LMMS in eine andere Sprache zu übersetzen oder
     </message>
     <message>
         <source>STEREO</source>
-        <translation type="unfinished"/>
+        <translation>STEREO</translation>
     </message>
     <message>
         <source>QUANT</source>
@@ -1247,7 +1247,7 @@ Wenn Sie daran interessiert sind LMMS in eine andere Sprache zu übersetzen oder
     </message>
     <message>
         <source>Record while playing</source>
-        <translation type="unfinished"/>
+        <translation>Aufnahme während Abspielen</translation>
     </message>
     <message>
         <source>Transport controls</source>
@@ -2073,11 +2073,11 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Stereo mode:</source>
-        <translation type="unfinished"/>
+        <translation>Stereo Modus:</translation>
     </message>
     <message>
         <source>Stereo</source>
-        <translation type="unfinished"/>
+        <translation>Stereo</translation>
     </message>
     <message>
         <source>Joint Stereo</source>
@@ -2085,7 +2085,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Mono</source>
-        <translation type="unfinished"/>
+        <translation>Mono</translation>
     </message>
     <message>
         <source>Compression level:</source>
@@ -2448,7 +2448,7 @@ Sie können FX Kanäle im Kontextmenü entfernen und verschieben, welches durch 
     <name>GuiApplication</name>
     <message>
         <source>Working directory</source>
-        <translation type="unfinished"/>
+        <translation>Arbeitsverzeichnis</translation>
     </message>
     <message>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
@@ -3509,7 +3509,7 @@ Sie können FX Kanäle im Kontextmenü entfernen und verschieben, welches durch 
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>Effekte</translation>
     </message>
     <message>
         <source>MIDI settings</source>
@@ -4191,7 +4191,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Track</source>
-        <translation type="unfinished"/>
+        <translation>Spur</translation>
     </message>
 </context>
 <context>
@@ -5043,7 +5043,7 @@ PM bedeutet Phasen-Modulation: Die Phase von Oszillator 3 wird durch Oszillator 
     </message>
     <message>
         <source>Dry</source>
-        <translation type="unfinished"/>
+        <translation>Trocken</translation>
     </message>
     <message>
         <source>Dry Gain:</source>

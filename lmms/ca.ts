@@ -388,11 +388,11 @@ Si esteu interessats en traduir el LMMS en altra llengua o voleu millorar la tra
     </message>
     <message>
         <source>Flip vertically</source>
-        <translation type="unfinished"/>
+        <translation>Gira verticalment</translation>
     </message>
     <message>
         <source>Flip horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Gira horitzontalment</translation>
     </message>
     <message>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-23 14:58-0600\n"
+"POT-Creation-Date: 2017-11-08 13:42-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: liushuyu011 <liushuyu011@gmail.com>, 2017\n"
 "Language-Team: French (https://www.transifex.com/lmms/teams/61632/fr/)\n"
@@ -491,20 +491,15 @@ msgstr "S'abonner à la liste de diffusion LMMS-Devel"
 #: get-involved.twig:101
 msgid ""
 "Our IRC channel is <a href=\"irc://chat.freenode.net/#lmms\">#lmms</a> on\n"
-"\t\t\t\t\t<a href=\"https://freenode.net/irc_servers.shtml\">Freenode</a>"
+"\t\t\t\t\t<a href=\"https://freenode.net/irc_servers.shtml\">Freenode</a>."
 msgstr ""
-"Notre canal IRC est <a href=\"irc://chat.freenode.net/#lmms\">#lmms</a> sur\n"
-"\t\t\t\t\t<a href=\"https://freenode.net/irc_servers.shtml\">Freenode</a>"
 
 #: get-involved.twig:103
 msgid ""
 "<a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a>\n"
-"\t\t\t\t\tis a more modern alternative to IRC. Join our server\n"
-"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>"
+"\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
+"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
 msgstr ""
-"<a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a>\n"
-"\t\t\t\t\test une alternative plus moderne à IRC. Rejoignez notre serveur\n"
-"\t\t\t\t\t<a href=\"/chat/\">en cliquant ici</a>"
 
 #: get-involved.twig:116
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:9
@@ -703,16 +698,16 @@ msgid "proudly hosted on Github"
 msgstr "hébergé fièrement sur github"
 
 #: home.twig:124
-msgid "Take a peek"
-msgstr "Jeter un coup d'œil"
+msgid "Take a peek."
+msgstr ""
 
 #: home.twig:127
 msgid "Watch our promo video."
 msgstr "Visionner notre vidéo de promo."
 
 #: home.twig:149
-msgid "Featuring"
-msgstr "Fonctionnalités"
+msgid "Featuring:"
+msgstr ""
 
 #: home.twig:153
 msgid "Core Functionality"
@@ -948,16 +943,11 @@ msgstr "Construire LMMS à partir des sources"
 
 #: download/linux.twig:110
 msgid ""
-"If your Linux distribution does not provide a lmms package (or only an out-"
-"dated one), you can still build LMMS from source. Visit the <a "
-"href=\"https://github.com/LMMS/lmms/wiki/Compiling-lmms\">LMMS development "
-"wiki on GitHub</a> for instructions on how to compile LMMS for Linux."
+"If your Linux distribution does not provide a lmms package (or only an "
+"outdated one), you can still build LMMS from source. Visit the <a "
+"href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS development wiki "
+"on GitHub</a> for instructions on how to compile LMMS for Linux."
 msgstr ""
-"Si votre distribution Linux ne fourni pas de paquet lmms (ou seulement une "
-"version trop ancienne), vous pouvez toujours construire LMMS à partir des "
-"sources. Visitez le <a href=\"https://github.com/LMMS/lmms/wiki/Compiling-"
-"lmms\">wiki de développement de LMMS sur GitHub</a> (en anglais) pour "
-"obtenir les instructions de construction de LMMS sur Linux."
 
 #: foot.twig:14
 msgid "Powered by"

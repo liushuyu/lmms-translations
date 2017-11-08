@@ -2147,7 +2147,7 @@ Ověřte si prosím, zda máte povolen zápis do souboru a do složky, ve které
     </message>
     <message>
         <source>REL TRANS</source>
-        <translation type="unfinished"/>
+        <translation>REL TRANS</translation>
     </message>
 </context>
 <context>

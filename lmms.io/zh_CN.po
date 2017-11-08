@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 14:49-0600\n"
+"POT-Creation-Date: 2017-11-08 13:42-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: liushuyu011 <liushuyu011@gmail.com>, 2017\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/lmms/teams/61632/zh_CN/)\n"
@@ -18,7 +18,27 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: competitions.twig:10
+#: branding.twig:6 /home/liushuyu/Development/lmms.io/public/navbar.php:14
+msgid "Branding"
+msgstr "品牌"
+
+#: branding.twig:6
+msgid "Download LMMS Artwork"
+msgstr "下载 LMMS 艺术作品"
+
+#: branding.twig:8
+msgid "LMMS Logo"
+msgstr "LMMS 徽标"
+
+#: branding.twig:8 branding.twig:17
+msgid "LMMS Development Team"
+msgstr "LMMS 开发团队"
+
+#: branding.twig:17
+msgid "LMMS Project Icon"
+msgstr "LMMS 项目图标"
+
+#: competitions.twig:10 competitions.twig:12
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:13
 msgid "Competitions"
 msgstr "竞赛"
@@ -26,6 +46,10 @@ msgstr "竞赛"
 #: competitions.twig:10
 msgid "Official competitions organised by LMMS and its community members"
 msgstr "LMMS 社区官方举办的竞赛"
+
+#: competitions.twig:14
+msgid "Current competitions"
+msgstr "当前竞赛"
 
 #: competitions.twig:15
 msgid "Past competitions:"
@@ -35,7 +59,7 @@ msgstr "往期竞赛："
 msgid "The Best of LMMS vol. IV"
 msgstr "LMMS 精选集 IV"
 
-#: /tmp/cache/twig/lmms.io/08/08a5fe4671d394faeee72e72a7e0ae6796acedc57ee19ce6aa561168a081d296.php:73
+#: /tmp/cache/twig/lmms.io/29/292db1d130101ecb1a32560895dc20da73b6e6c348e1df03d6bea117dceec94c.php:79
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -114,7 +138,7 @@ msgstr ""
 msgid "The Best of LMMS vol. III"
 msgstr "LMMS 精选集 III"
 
-#: /tmp/cache/twig/lmms.io/08/08a5fe4671d394faeee72e72a7e0ae6796acedc57ee19ce6aa561168a081d296.php:134
+#: /tmp/cache/twig/lmms.io/29/292db1d130101ecb1a32560895dc20da73b6e6c348e1df03d6bea117dceec94c.php:140
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -168,7 +192,7 @@ msgstr ""
 msgid "The Best of LMMS vol. II"
 msgstr "LMMS 精选集 II"
 
-#: /tmp/cache/twig/lmms.io/08/08a5fe4671d394faeee72e72a7e0ae6796acedc57ee19ce6aa561168a081d296.php:183
+#: /tmp/cache/twig/lmms.io/29/292db1d130101ecb1a32560895dc20da73b6e6c348e1df03d6bea117dceec94c.php:189
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -219,7 +243,7 @@ msgstr ""
 msgid "The Best of LMMS vol. I"
 msgstr "LMMS 精选集 I"
 
-#: /tmp/cache/twig/lmms.io/08/08a5fe4671d394faeee72e72a7e0ae6796acedc57ee19ce6aa561168a081d296.php:231
+#: /tmp/cache/twig/lmms.io/29/292db1d130101ecb1a32560895dc20da73b6e6c348e1df03d6bea117dceec94c.php:237
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
@@ -269,25 +293,59 @@ msgstr ""
 "\t\t\t3. 裁判过程：裁判团将在提交期限后 7 天内作出裁判并公布结果。\n"
 "\t\t\t4. 作品公布：精选集将于一个 LMMS 艺术家专用的 Bandcamp 上公布，价格由买家自定。所有从中获得的利润将用于支持 LMMS 的未来开发。"
 
-#: branding.twig:6 /home/liushuyu/Development/lmms.io/public/navbar.php:14
-msgid "Branding"
-msgstr "品牌"
+#: download/index.twig:33
+msgid "Download LMMS"
+msgstr "下载 LMMS"
 
-#: branding.twig:6
-msgid "Download LMMS Artwork"
-msgstr "下载 LMMS 艺术作品"
+#: download/index.twig:33
+msgid ""
+"Downloading and using LMMS is free! Just choose the operating system you "
+"want to run LMMS on:"
+msgstr "下载安装以及使用 LMMS 是免费的！只需在下面选择您将要运行 LMMS 的操作系统："
 
-#: branding.twig:8
-msgid "LMMS Logo"
-msgstr "LMMS 徽标"
+#: download/index.twig:56
+msgid "Install LMMS on Windows"
+msgstr "在 Windows 下安装 LMMS"
 
-#: branding.twig:8 branding.twig:17
-msgid "LMMS Development Team"
-msgstr "LMMS 开发团队"
+#: download/index.twig:57
+msgid ""
+"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
+"Windows"
+msgstr "点击下面其中一个按钮（32 或 64 位）以下载 Windows 版本的 LMMS"
 
-#: branding.twig:17
-msgid "LMMS Project Icon"
-msgstr "LMMS 项目图标"
+#: download/index.twig:58
+#: /tmp/cache/twig/lmms.io/50/503ea9e208673fcea4a093e8ef742a045f39366dbff7a327df2c25af3528cdaf.php:132
+msgid "Stable Versions"
+msgstr "稳定版本"
+
+#: /tmp/cache/twig/lmms.io/50/503ea9e208673fcea4a093e8ef742a045f39366dbff7a327df2c25af3528cdaf.php:98
+#: /tmp/cache/twig/lmms.io/50/503ea9e208673fcea4a093e8ef742a045f39366dbff7a327df2c25af3528cdaf.php:159
+msgid "Beta Versions"
+msgstr "测试版本"
+
+#: download/index.twig:74
+msgid "Install LMMS on macOS"
+msgstr "在 macOS 下安装 LMMS"
+
+#: download/index.twig:75
+msgid "Click one of the buttons below to download LMMS for macOS"
+msgstr "点击下面的按钮下载 macOS 版本的 LMMS"
+
+#: download/index.twig:92
+msgid "Downloads labeled Beta are pre-release software, stability may suffer."
+msgstr "标记了“测试版本”的版本是正式发布前的版本，不能保证其稳定性"
+
+#: download/index.twig:93
+msgid "Previous releases"
+msgstr "之前的释出版本"
+
+#: download/index.twig:10
+msgid "Free Download"
+msgstr "免费下载"
+
+#: download/index.twig:316
+msgid "Show release notes"
+msgstr "显示发行注记"
 
 #: get-involved.twig:6 /home/liushuyu/Development/lmms.io/public/navbar.php:7
 msgid "Get Involved"
@@ -409,19 +467,15 @@ msgstr "订阅 LMMS-Devel 邮件列表"
 #: get-involved.twig:101
 msgid ""
 "Our IRC channel is <a href=\"irc://chat.freenode.net/#lmms\">#lmms</a> on\n"
-"\t\t\t\t\t<a href=\"https://freenode.net/irc_servers.shtml\">Freenode</a>"
+"\t\t\t\t\t<a href=\"https://freenode.net/irc_servers.shtml\">Freenode</a>."
 msgstr ""
-"我们的 IRC 频道 <a href=\"irc://chat.freenode.net/#lmms\">#lmms</a> 位于\n"
-"\t\t\t\t\t<a href=\"https://freenode.net/irc_servers.shtml\">Freenode</a>"
 
 #: get-involved.twig:103
 msgid ""
 "<a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a>\n"
-"\t\t\t\t\tis a more modern alternative to IRC. Join our server\n"
-"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>"
+"\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
+"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
 msgstr ""
-"<a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a>\n"
-"\t\t\t\t\t是一个更为现代化的 IRC 替代。<a href=\"/chat/\">点击此处加入我们的房间</a>"
 
 #: get-involved.twig:116
 #: /home/liushuyu/Development/lmms.io/public/navbar.php:9
@@ -437,72 +491,6 @@ msgid ""
 "For reporting a bug or suggesting a new feature, please use the GitHub issue"
 " tracker:"
 msgstr "如果您要报告 bug 或者建议加入新的功能，请使用 GitHub 的问题追踪系统："
-
-#: errorpage.twig:8
-msgid ""
-"If you followed a valid link on this site, please contact us\n"
-"      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
-msgstr ""
-"如果您是点击了这个网站上一个有效的链接而产生了这个问题，\n"
-"烦请您尽快联系我们，并在 GitHub 上 <a href=\"//github.com/LMMS/lmms.io/issues/new\">回报错误</a>。"
-
-#: foot.twig:14
-msgid "Powered by"
-msgstr "服务器提供商"
-
-#: download/index.twig:32
-msgid "Download LMMS"
-msgstr "下载 LMMS"
-
-#: download/index.twig:32
-msgid ""
-"Downloading and using LMMS is free! Just choose the operating system you "
-"want to run LMMS on:"
-msgstr "下载安装以及使用 LMMS 是免费的！只需在下面选择您将要运行 LMMS 的操作系统："
-
-#: download/index.twig:55
-msgid "Install LMMS on Windows"
-msgstr "在 Windows 下安装 LMMS"
-
-#: download/index.twig:56
-msgid ""
-"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
-"Windows"
-msgstr "点击下面其中一个按钮（32 或 64 位）以下载 Windows 版本的 LMMS"
-
-#: download/index.twig:57
-#: /tmp/cache/twig/lmms.io/73/73e267c5f92f918eb282bdac38fc48f8b1ad1b8f06ed43c8dc117ae24298c196.php:129
-msgid "Stable Versions"
-msgstr "稳定版本"
-
-#: /tmp/cache/twig/lmms.io/73/73e267c5f92f918eb282bdac38fc48f8b1ad1b8f06ed43c8dc117ae24298c196.php:95
-#: /tmp/cache/twig/lmms.io/73/73e267c5f92f918eb282bdac38fc48f8b1ad1b8f06ed43c8dc117ae24298c196.php:156
-msgid "Beta Versions"
-msgstr "测试版本"
-
-#: download/index.twig:73
-msgid "Install LMMS on macOS"
-msgstr "在 macOS 下安装 LMMS"
-
-#: download/index.twig:74
-msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr "点击下面的按钮下载 macOS 版本的 LMMS"
-
-#: download/index.twig:91
-msgid "Downloads labeled Beta are pre-release software, stability may suffer."
-msgstr "标记了“测试版本”的版本是正式发布前的版本，不能保证其稳定性"
-
-#: download/index.twig:92
-msgid "Previous releases"
-msgstr "之前的释出版本"
-
-#: download/index.twig:10
-msgid "Free Download"
-msgstr "免费下载"
-
-#: /tmp/cache/twig/lmms.io/73/73e267c5f92f918eb282bdac38fc48f8b1ad1b8f06ed43c8dc117ae24298c196.php:351
-msgid "Show release notes"
-msgstr "显示发行注记"
 
 #: showcase.twig:6 /home/liushuyu/Development/lmms.io/public/navbar.php:12
 msgid "Showcase"
@@ -524,114 +512,7 @@ msgstr "LMMS 精选集 II，来自 LMMS 艺术家"
 msgid "The Best of LMMS Vol.1 by LMMS Artists"
 msgstr "LMMS 精选集 I，来自 LMMS 艺术家"
 
-#: download/linux.twig:6
-msgid "Install LMMS on Linux"
-msgstr "在 Linux 上安装 LMMS"
-
-#: download/linux.twig:8
-msgid ""
-"LMMS is included in most major Linux distribution's package repositories.<br>\n"
-"\tPlease <a href=\"/community/\">contact us</a> if your distribution is not listed here."
-msgstr ""
-"很多 Linux 发行版的软件仓库都收录了 LMMS 软件包。<br>\n"
-"\t如果您的发行版没有列在这个列表上的话，请<a href=\"/community/\">联系我们</a>。"
-
-#: download/linux.twig:51
-msgid ""
-"For installing LMMS on Debian based distributions such as Debian itself, "
-"Ubuntu or Linux Mint, just click the button below."
-msgstr "要在基于 Debian 的发行版如 Debian，Ubuntu 或 Linux Mint 上安装 LMMS，单击下面按钮即可。"
-
-#: download/linux.twig:54
-msgid "Install Now"
-msgstr "立刻安装"
-
-#: /tmp/cache/twig/lmms.io/cf/cffd2710715f60e964f092fc008e5dd43c7ef64789164e706d246c1169928575.php:86
-msgid "(From Package Manager)"
-msgstr "(使用软件包管理器)"
-
-#: download/linux.twig:56
-msgid "If this doesn't work for you, run this command in a terminal."
-msgstr "如果此方法不管用，请在终端中运行以下命令。"
-
-#: download/linux.twig:58
-msgid ""
-"If the traditional repositories lag behind on versions, try the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>."
-msgstr ""
-"如果系统自带的软件源当中的 LMMS 版本太旧，您可以试试 <a "
-"href=\"http：//kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"软件源</a>。"
-
-#: download/linux.twig:59 download/linux.twig:80
-msgid "VST Support"
-msgstr "VST 支持"
-
-#: download/linux.twig:60
-msgid ""
-"If your distribution offers VST support (requires the installation of Wine) "
-"it is generally offered in a separate package.  For example, using the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>, run this command in a terminal."
-msgstr ""
-"如果您的发行版提供 VST 支持 （需要安装 Wine），一般来讲，此支持会在另外一个软件包中提供。比如，如果您使用的是 <a "
-"href=\"http：//kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"软件源</a>，请在终端中运行以下命令。"
-
-#: download/linux.twig:66 download/linux.twig:72
-msgid "Run the following command as root in a terminal:"
-msgstr "在命令终端中以 Root 用户身份运行下面指令："
-
-#: download/linux.twig:78 download/linux.twig:92
-msgid "Run the following command in a terminal:"
-msgstr "在命令终端中运行下面指令："
-
-#: download/linux.twig:81
-msgid ""
-"For VST support, please see the <a "
-"href=\"https://wiki.archlinux.org/index.php/LMMS\" target=\"_blank\">Arch "
-"LMMS wiki page</a>"
-msgstr ""
-"要想启用 VST 支持，请参见 <a href=\"https://wiki.archlinux.org/index.php/LMMS\" "
-"target=\"_blank\">Arch Linux 的 LMMS 参考页面</a>"
-
-#: download/linux.twig:98
-msgid ""
-"AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and "
-"more to come in the future), with VST support enabled by default on AMD64."
-msgstr ""
-"AOSC OS 在很多处理器架构的版本 (AMD64/x86_64, ARMv7, 未来会有更多) 中都包含了 LMMS，并且在 AMD64 "
-"架构上面默认启用了 VST 支持。"
-
-#: download/linux.twig:99
-msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
-msgstr "使用 PackageKit 在 AOSC OS 上安装 LMMS (推荐)："
-
-#: download/linux.twig:101
-msgid "To install LMMS on AOSC OS with DPKG:"
-msgstr "使用 DPKG 在 AOSC OS 上安装 LMMS："
-
-#: download/linux.twig:103
-msgid "To install LMMS on AOSC OS with RPM:"
-msgstr "使用 RPM 在 AOSC OS 上安装 LMMS："
-
-#: download/linux.twig:109
-msgid "Build LMMS from source"
-msgstr "从源码手动构建 LMMS"
-
-#: download/linux.twig:110
-msgid ""
-"If your Linux distribution does not provide a lmms package (or only an out-"
-"dated one), you can still build LMMS from source. Visit the <a "
-"href=\"https://github.com/LMMS/lmms/wiki/Compiling-lmms\">LMMS development "
-"wiki on GitHub</a> for instructions on how to compile LMMS for Linux."
-msgstr ""
-"如果您的 Linux 发行版没有提供 LMMS 软件包 (或者版本很旧)，您可以手动从源码构建 LMMS。详情参见 <a "
-"href=\"https://github.com/LMMS/lmms/wiki/Compiling-lmms\">GitHub 上的 LMMS 开发 "
-"wiki</a>。"
-
-#: /tmp/cache/twig/lmms.io/e4/e4b52be3c3e53a4e6f07b7ccbc91665e4753775702fa0f9dc7385301b629ba26.php:32
+#: /tmp/cache/twig/lmms.io/97/975826167f090292b8efde5a671eed28c15f2ab7bce5fb5f7890ccd51a56f39c.php:32
 msgid ""
 "We're sorry, something went wrong fetching the latest release info. You can "
 "still download releases on <a "
@@ -715,7 +596,7 @@ msgstr "Linux, Windows 或是 macOS"
 
 #: home.twig:69
 msgid "Houston, we've had a problem."
-msgstr "遇到了点麻烦。"
+msgstr "遇到了点麻烦"
 
 #: home.twig:70
 msgid "Standby, we've got you covered."
@@ -747,11 +628,11 @@ msgstr "在等待他人回答您的问题时，也回答一下别人的问题吧
 
 #: home.twig:85
 msgid "Sharing means caring."
-msgstr "分享即关注。"
+msgstr "分享即关注"
 
 #: home.twig:90
 msgid "Find musicians"
-msgstr "寻找艺术家"
+msgstr "寻求艺术家的帮助"
 
 #: home.twig:91
 msgid "Visit the LMMS Sharing Platform (LSP)"
@@ -783,16 +664,16 @@ msgid "proudly hosted on Github"
 msgstr "我们很荣幸能托管在 GitHub 上"
 
 #: home.twig:124
-msgid "Take a peek"
-msgstr "先睹为快"
+msgid "Take a peek."
+msgstr ""
 
 #: home.twig:127
 msgid "Watch our promo video."
 msgstr "观赏我们的宣传片"
 
 #: home.twig:149
-msgid "Featuring"
-msgstr "功能 "
+msgid "Featuring:"
+msgstr ""
 
 #: home.twig:153
 msgid "Core Functionality"
@@ -902,6 +783,126 @@ msgstr "内含基于图形及参数的均衡器"
 #: home.twig:204
 msgid "Built-in visualization/spectrum analyser"
 msgstr "内置可视化插件/频谱分析器"
+
+#: download/linux.twig:6
+msgid "Install LMMS on Linux"
+msgstr "在 Linux 上安装 LMMS"
+
+#: download/linux.twig:8
+msgid ""
+"LMMS is included in most major Linux distribution's package repositories.<br>\n"
+"\tPlease <a href=\"/community/\">contact us</a> if your distribution is not listed here."
+msgstr ""
+"很多 Linux 发行版的软件仓库都收录了 LMMS 软件包。<br>\n"
+"\t如果您的发行版没有列在这个列表上的话，请<a href=\"/community/\">联系我们</a>。"
+
+#: download/linux.twig:51
+msgid ""
+"For installing LMMS on Debian based distributions such as Debian itself, "
+"Ubuntu or Linux Mint, just click the button below."
+msgstr "要在基于 Debian 的发行版如 Debian，Ubuntu 或 Linux Mint 上安装 LMMS，单击下面按钮即可。"
+
+#: download/linux.twig:54
+msgid "Install Now"
+msgstr "立刻安装"
+
+#: /tmp/cache/twig/lmms.io/b5/b55798f346ee94af000bf6b08d29bb24f29ae4dd756b13e2c3cf1f4db3feebc7.php:86
+msgid "(From Package Manager)"
+msgstr "(使用软件包管理器)"
+
+#: download/linux.twig:56
+msgid "If this doesn't work for you, run this command in a terminal."
+msgstr "如果此方法不管用，请在终端中运行以下命令。"
+
+#: download/linux.twig:58
+msgid ""
+"If the traditional repositories lag behind on versions, try the <a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
+"repository</a>."
+msgstr ""
+"如果系统自带的软件源当中的 LMMS 版本太旧，您可以试试 <a "
+"href=\"http：//kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
+"软件源</a>。"
+
+#: download/linux.twig:59 download/linux.twig:80
+msgid "VST Support"
+msgstr "VST 支持"
+
+#: download/linux.twig:60
+msgid ""
+"If your distribution offers VST support (requires the installation of Wine) "
+"it is generally offered in a separate package.  For example, using the <a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
+"repository</a>, run this command in a terminal."
+msgstr ""
+"如果您的发行版提供 VST 支持 （需要安装 Wine），一般来讲，此支持会在另外一个软件包中提供。比如，如果您使用的是 <a "
+"href=\"http：//kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
+"软件源</a>，请在终端中运行以下命令。"
+
+#: download/linux.twig:66 download/linux.twig:72
+msgid "Run the following command as root in a terminal:"
+msgstr "在命令终端中以 Root 用户身份运行下面指令："
+
+#: download/linux.twig:78 download/linux.twig:92
+msgid "Run the following command in a terminal:"
+msgstr "在命令终端中运行下面指令："
+
+#: download/linux.twig:81
+msgid ""
+"For VST support, please see the <a "
+"href=\"https://wiki.archlinux.org/index.php/LMMS\" target=\"_blank\">Arch "
+"LMMS wiki page</a>"
+msgstr ""
+"要想启用 VST 支持，请参见 <a href=\"https://wiki.archlinux.org/index.php/LMMS\" "
+"target=\"_blank\">Arch Linux 的 LMMS 参考页面</a>"
+
+#: download/linux.twig:98
+msgid ""
+"AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and "
+"more to come in the future), with VST support enabled by default on AMD64."
+msgstr ""
+"AOSC OS 在很多处理器架构的版本 (AMD64/x86_64, ARMv7, 未来会有更多) 中都包含了 LMMS，并且在 AMD64 "
+"架构上面默认启用了 VST 支持。"
+
+#: download/linux.twig:99
+msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
+msgstr "使用 PackageKit 在 AOSC OS 上安装 LMMS (推荐)："
+
+#: download/linux.twig:101
+msgid "To install LMMS on AOSC OS with DPKG:"
+msgstr "使用 DPKG 在 AOSC OS 上安装 LMMS："
+
+#: download/linux.twig:103
+msgid "To install LMMS on AOSC OS with RPM:"
+msgstr "使用 RPM 在 AOSC OS 上安装 LMMS："
+
+#: download/linux.twig:109
+msgid "Build LMMS from source"
+msgstr "从源码手动构建 LMMS"
+
+#: download/linux.twig:110
+msgid ""
+"If your Linux distribution does not provide a lmms package (or only an "
+"outdated one), you can still build LMMS from source. Visit the <a "
+"href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS development wiki "
+"on GitHub</a> for instructions on how to compile LMMS for Linux."
+msgstr ""
+
+#: foot.twig:14
+msgid "Powered by"
+msgstr "服务器提供商"
+
+#: errorpage.twig:6
+msgid "Error <b>%code%</b>"
+msgstr "错误 <b>%code%</b>"
+
+#: errorpage.twig:8
+msgid ""
+"If you followed a valid link on this site, please contact us\n"
+"      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
+msgstr ""
+"如果您是点击了这个网站上一个有效的链接而产生了这个问题，\n"
+"烦请您尽快联系我们，并在 GitHub 上 <a href=\"//github.com/LMMS/lmms.io/issues/new\">回报错误</a>。"
 
 #: /home/liushuyu/Development/lmms.io/public/artwork.php:18
 msgid "Author:"

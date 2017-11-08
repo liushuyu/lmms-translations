@@ -2167,11 +2167,11 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>Refresh list</source>
-        <translation type="unfinished"/>
+        <translation>Обновить список</translation>
     </message>
 </context>
 <context>

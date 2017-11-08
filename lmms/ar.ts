@@ -342,14 +342,14 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Remove all linked controls</source>
-        <translation>أ</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>AutomationEditor</name>
     <message>
         <source>Please open an automation pattern with the context menu of a control!</source>
-        <translation>من فضلك افتح نمط أتمتة من قائمة سياق متحكم.</translation>
+        <translation>من فضلك افتح نمط أتمتة من قائمة أداة ضبط.</translation>
     </message>
     <message>
         <source>Values copied</source>
@@ -476,7 +476,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Automation Editor - %1</source>
-        <translation>محرر الأنماط - 1%</translation>
+        <translation>محرر الأتمتة - 1%</translation>
     </message>
     <message>
         <source>Edit actions</source>
@@ -643,7 +643,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Reset color to default</source>
-        <translation type="unfinished"/>
+        <translation>أعد تعيين اللون إلى الأساسي</translation>
     </message>
 </context>
 <context>
@@ -835,7 +835,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <source>Auto Detect</source>
-        <translation type="unfinished"/>
+        <translation>الكشف التقائي</translation>
     </message>
     <message>
         <source>MIDI-devices to receive MIDI-events from</source>
@@ -2036,11 +2036,11 @@ Right clicking will bring up a context menu where you can change the order in wh
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>خطأ</translation>
     </message>
     <message>
         <source>Error while determining file-encoder device. Please try to choose a different output format.</source>
-        <translation type="unfinished"/>
+        <translation>خطأ أثناء تعيين جهاز مرمز-الملف. من فضلك جرب أن تختار بنية مخرج أخرى.</translation>
     </message>
     <message>
         <source>Rendering: %1%</source>
@@ -2085,7 +2085,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>(default)</source>
-        <translation type="unfinished"/>
+        <translation>(الأساسية)</translation>
     </message>
     <message>
         <source>(smallest)</source>
@@ -2177,7 +2177,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>--- Factory files ---</source>
-        <translation type="unfinished"/>
+        <translation>--- ملفات المصنع ---</translation>
     </message>
     <message>
         <source>Open in new instrument-track/Song Editor</source>
@@ -2185,7 +2185,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>خطأ</translation>
     </message>
     <message>
         <source>does not appear to be a valid</source>
@@ -2193,7 +2193,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <source>file</source>
-        <translation type="unfinished"/>
+        <translation>ملف</translation>
     </message>
 </context>
 <context>
@@ -3333,7 +3333,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <source>Default preset</source>
-        <translation type="unfinished"/>
+        <translation>المسبقة الأساسية</translation>
     </message>
     <message>
         <source>With this knob you can set the volume of the opened channel.</source>
@@ -3910,7 +3910,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
-        <translation type="unfinished"/>
+        <translation>خطأ أثناء إعراب ملف الهيئة عند السطر %1:%2: %3</translation>
     </message>
     <message>
         <source>Volumes</source>
@@ -4022,7 +4022,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Save as default template</source>
-        <translation>احفظ كالقالب الافتراضي</translation>
+        <translation>احفظ كالقالب الأساسي</translation>
     </message>
     <message>
         <source>&amp;View</source>
@@ -4058,7 +4058,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Show/hide controller rack</source>
-        <translation>أظهر/أخف حامل المضبطات</translation>
+        <translation>أظهر/أخف منصب المتحكمات</translation>
     </message>
     <message>
         <source>Recover session. Please save your work!</source>
@@ -4082,11 +4082,11 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
     <message>
         <source>Overwrite default template?</source>
-        <translation type="unfinished"/>
+        <translation>اكتب على القالب الأساسي؟</translation>
     </message>
     <message>
         <source>This will overwrite your current default template.</source>
-        <translation type="unfinished"/>
+        <translation>هذا سيكتب على قالبك الأساسي الحالي.</translation>
     </message>
     <message>
         <source>Smooth scroll</source>
@@ -5734,7 +5734,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Error while loading plugin</source>
-        <translation type="unfinished"/>
+        <translation>خطأ أثناء تحميل الموصلة</translation>
     </message>
     <message>
         <source>Failed to load plugin &quot;%1&quot;!</source>
@@ -6157,7 +6157,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Reset to default-value</source>
-        <translation type="unfinished"/>
+        <translation>أعد التعيين إلى القيمة الأساسية</translation>
     </message>
     <message>
         <source>MISC</source>
@@ -6173,7 +6173,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Compress project files per default</source>
-        <translation type="unfinished"/>
+        <translation>اضغط ملفات المشاريع </translation>
     </message>
     <message>
         <source>One instrument track window mode</source>
@@ -6209,7 +6209,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>LANGUAGE</source>
-        <translation type="unfinished"/>
+        <translation>اللغة</translation>
     </message>
     <message>
         <source>Paths</source>
@@ -6233,7 +6233,7 @@ Reason: &quot;%2&quot;</source>
     </message>
     <message>
         <source>Default Soundfont File</source>
-        <translation type="unfinished"/>
+        <translation>ملف SoundFont الأساسي</translation>
     </message>
     <message>
         <source>Performance settings</source>
@@ -6314,7 +6314,7 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Choose default SoundFont</source>
-        <translation type="unfinished"/>
+        <translation>اختر ال SoundFont الأساسي</translation>
     </message>
     <message>
         <source>Choose background artwork</source>
@@ -6354,7 +6354,7 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Auto save</source>
-        <translation type="unfinished"/>
+        <translation>الحفظ التلقائي</translation>
     </message>
     <message>
         <source>Choose your GIG directory</source>
@@ -6378,11 +6378,11 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Enable auto-save</source>
-        <translation type="unfinished"/>
+        <translation>مكن الحفظ التلقائي</translation>
     </message>
     <message>
         <source>Allow auto-save while playing</source>
-        <translation type="unfinished"/>
+        <translation>اسمح بالحفظ التلقائي أثناء التشغيل</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -6390,12 +6390,13 @@ Latency: %2 ms</source>
     </message>
     <message>
         <source>Auto-save interval: %1</source>
-        <translation type="unfinished"/>
+        <translation>الفترة الفاصلة للحفظ التلقائي: %1</translation>
     </message>
     <message>
         <source>Set the time between automatic backup to %1.
 Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
-        <translation type="unfinished"/>
+        <translation>حدد الوقت بين النسخ الاحتياطية التلقائية إلى %1.
+تذكر أيضا أن تحفظ مشروعك يدويا. يمكنك اختيار أن تلغي تمكين الحفظ أثناء التشغيل، شيء بعض الأنظمة القديمة تجده صعبا.</translation>
     </message>
 </context>
 <context>
@@ -6466,7 +6467,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>The following errors occured while loading: </source>
-        <translation type="unfinished"/>
+        <translation>الأخطاء التالية حدثت أثناء التحميل:</translation>
     </message>
     <message>
         <source>MIDI File (*.mid)</source>
@@ -6474,7 +6475,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>LMMS Error report</source>
-        <translation type="unfinished"/>
+        <translation>تقرير أخطاء LMMS</translation>
     </message>
     <message>
         <source>Save project</source>
@@ -6498,11 +6499,11 @@ Remember to also save your project manually. You can choose to disable saving wh
     </message>
     <message>
         <source>Error in file</source>
-        <translation type="unfinished"/>
+        <translation>خطأ في الملف</translation>
     </message>
     <message>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
-        <translation type="unfinished"/>
+        <translation>يبدو أن الملف %1 يحتوي أخطاء و لذالك لا يمكن تحميله.</translation>
     </message>
     <message>
         <source>Tempo</source>
@@ -6794,7 +6795,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     <name>TimeLineWidget</name>
     <message>
         <source>Enable/disable auto-scrolling</source>
-        <translation type="unfinished"/>
+        <translation>مكن/ألغي تمكين التمرير التلقائي</translation>
     </message>
     <message>
         <source>Enable/disable loop-points</source>
@@ -7313,7 +7314,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>: default</source>
-        <translation type="unfinished"/>
+        <translation>: الأساسي</translation>
     </message>
     <message>
         <source>&quot;</source>
@@ -7929,7 +7930,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <source>Click here to reset the wavegraph back to default</source>
-        <translation type="unfinished"/>
+        <translation>انقر هنا لتعيد تعيين الرسم الموجي إلى الأساسي</translation>
     </message>
     <message>
         <source>Smooth waveform</source>
@@ -8320,7 +8321,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Min &lt; Default &lt; Max</source>
-        <translation type="unfinished"/>
+        <translation>الأدنى &lt; الأساسية &lt; الأعلى</translation>
     </message>
     <message>
         <source>Logarithmic</source>
@@ -8787,11 +8788,11 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Automated</source>
-        <translation type="unfinished"/>
+        <translation>مأتمت</translation>
     </message>
     <message>
         <source>Click here if you want to display automated parameters only.</source>
-        <translation type="unfinished"/>
+        <translation>انقر هنا إذا كنت تريد عرض المعاملات المأتمتة فقط.</translation>
     </message>
     <message>
         <source>    Close    </source>
@@ -8818,11 +8819,11 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     </message>
     <message>
         <source>Automated</source>
-        <translation type="unfinished"/>
+        <translation>مأتمت</translation>
     </message>
     <message>
         <source>Click here if you want to display automated parameters only.</source>
-        <translation type="unfinished"/>
+        <translation>انقر هنا إذا كنت تريد عرض المعاملات المأتمتة فقط.</translation>
     </message>
     <message>
         <source>    Close    </source>
@@ -10197,7 +10198,7 @@ The LED in the lower right corner of the waveform editor determines whether the 
     </message>
     <message>
         <source>Click here to reset the wavegraph back to default</source>
-        <translation type="unfinished"/>
+        <translation>انقر هنا لتعيد تعيين الرسم الموجي إلى الأساسي</translation>
     </message>
     <message>
         <source>Smooth waveform</source>

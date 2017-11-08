@@ -2117,35 +2117,35 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
     </message>
     <message>
         <source>A1</source>
-        <translation type="unfinished"/>
+        <translation>A1</translation>
     </message>
     <message>
         <source>A2</source>
-        <translation type="unfinished"/>
+        <translation>A2</translation>
     </message>
     <message>
         <source>A3</source>
-        <translation type="unfinished"/>
+        <translation>A3</translation>
     </message>
     <message>
         <source>W1 smoothing</source>
-        <translation type="unfinished"/>
+        <translation>Wygładzanie W1</translation>
     </message>
     <message>
         <source>W2 smoothing</source>
-        <translation type="unfinished"/>
+        <translation>Wygładzanie W2</translation>
     </message>
     <message>
         <source>W3 smoothing</source>
-        <translation type="unfinished"/>
+        <translation>Wygładzanie W3</translation>
     </message>
     <message>
         <source>PAN1</source>
-        <translation type="unfinished"/>
+        <translation>PAN1</translation>
     </message>
     <message>
         <source>PAN2</source>
-        <translation type="unfinished"/>
+        <translation>PAN2</translation>
     </message>
     <message>
         <source>REL TRANS</source>
@@ -4141,7 +4141,7 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
     </message>
     <message>
         <source>Export &amp;MIDI...</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj &amp;MIDI…</translation>
     </message>
 </context>
 <context>
@@ -8056,15 +8056,15 @@ Upewnij się, że masz uprawnienia do odczytu tego pliku i katalogu zawierające
     <name>expressiveView</name>
     <message>
         <source>Select oscillator W1</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz oscylator W1</translation>
     </message>
     <message>
         <source>Select oscillator W2</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz oscylator W2</translation>
     </message>
     <message>
         <source>Select oscillator W3</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz oscylator W3</translation>
     </message>
     <message>
         <source>Select OUTPUT 1</source>
@@ -8152,15 +8152,15 @@ Upewnij się, że masz uprawnienia do odczytu tego pliku i katalogu zawierające
     </message>
     <message>
         <source>General purpose 1:</source>
-        <translation type="unfinished"/>
+        <translation>Ogólnego zastosowania 1:</translation>
     </message>
     <message>
         <source>General purpose 2:</source>
-        <translation type="unfinished"/>
+        <translation>Ogólnego zastosowania 2:</translation>
     </message>
     <message>
         <source>General purpose 3:</source>
-        <translation type="unfinished"/>
+        <translation>Ogólnego zastosowania 3:</translation>
     </message>
     <message>
         <source>O1 panning:</source>
