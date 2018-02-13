@@ -631,7 +631,7 @@ msgid ""
 msgstr ""
 "Support multi-échantillon natif pour les formats SoundFont ® (SF2), Giga "
 "(GIG) et Gravis UltraSound ® (GUS) pour des patches et des banques "
-"d'instrument de haute qualité".
+"d'instrument de haute qualité."
 
 #: home.twig:188
 msgid "Effects Mixing"

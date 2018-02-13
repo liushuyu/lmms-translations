@@ -1,0 +1,61 @@
+#!/bin/bash
+aberr(){ echo -e "[\e[31mERROR\e[0m]: \e[1m$*\e[0m" >&2; }
+abinfo(){ echo -e "[\e[96mINFO\e[0m]: \e[1m$*\e[0m" >&2; }
+
+function validate_ts() {
+  LANG=""
+  BUF=""
+  for i in ./**/*.ts; do
+    if ! BUF=$(lconvert-qt5 -i "${i}" -o "/tmp/test.qm" -of qm 2>&1); then
+      LANG+="\e[96m$(basename "${i}")\e[0m: \e[93m${BUF}\e[0m\n"
+      printf "\e[31mx\e[0m"
+      ERR=1
+      continue
+    fi
+    BUF=$(grep -c "\"unfinished\"" "${i}")
+    if [[ "x$BUF" == "x0" ]]; then
+      BUF="\e[32mcompleted\e[0m"
+    else
+      BUF+=" strings remaining"
+    fi
+    LANG+="\e[96m$(basename "${i}")\e[0m: ${BUF}\n"
+    printf "\e[32m.\e[0m"
+  done
+  echo ""
+  echo -e "${LANG}"
+}
+
+function validate_po() {
+  LANG=""
+  BUF=""
+  for i in ./**/*.po; do
+    if ! BUF=$(msgfmt --check-format --check-domain "${i}" 2>&1); then
+      LANG+="\e[96m$(basename "${i}")\e[0m: \e[93m${BUF}\e[0m\n"
+      printf "\e[31mx\e[0m"
+      ERR=1
+      continue
+    fi
+    BUF=$(grep -c "^msgstr \"\"$" "${i}")
+    if [[ "x$BUF" == "x0" ]]; then
+      BUF="\e[32mcompleted\e[0m"
+    else
+      BUF+=" strings remaining"
+    fi
+    LANG+="\e[96m$(basename "${i}")\e[0m: ${BUF}\n"
+    printf "\e[32m.\e[0m"
+  done
+  echo ""
+  echo -e "${LANG}"
+}
+
+
+abinfo "Validating translations..."
+
+validate_ts
+validate_po
+
+if [[ "x$ERR" != "x" ]]; then
+  exit 1
+fi
+
+exit 0
