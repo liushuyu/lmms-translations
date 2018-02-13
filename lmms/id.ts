@@ -14,7 +14,7 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="50"/>
         <source>Version %1 (%2/%3, Qt %4, %5).</source>
-        <translation type="unfinished"/>
+        <translation>Versi %1 (%2/%3, Qt %4, %5).</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="78"/>
@@ -24,17 +24,17 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="100"/>
         <source>LMMS - easy music production for everyone.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS - produksi musik yang mudah untuk semua orang.</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="126"/>
         <source>Copyright © %1.</source>
-        <translation type="unfinished"/>
+        <translation>Hak cipta © %1.</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="152"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#33cc33;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#33cc33;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="176"/>

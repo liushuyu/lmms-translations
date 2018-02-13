@@ -14,7 +14,7 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="50"/>
         <source>Version %1 (%2/%3, Qt %4, %5).</source>
-        <translation type="unfinished"/>
+        <translation>Wersja %1 (%2/%3, Qt %4, %5).</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="78"/>
@@ -24,17 +24,17 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="100"/>
         <source>LMMS - easy music production for everyone.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS – łatwa produkcja muzyczna dla każdego.</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="126"/>
         <source>Copyright © %1.</source>
-        <translation type="unfinished"/>
+        <translation>Prawa autorskie © %1.</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="152"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#33cc33;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#33cc33;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="176"/>
@@ -60,7 +60,12 @@
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="220"/>
         <source>Current language not translated (or native English).
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation type="unfinished"/>
+        <translation>Autorzy tłumaczenia:
+Kacper Pawinski
+Lucas Grzesik 
+Marcin Mikołajczak
+Outer_Mind
+Radek Słowik</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="229"/>
@@ -2386,7 +2391,7 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="48"/>
         <source>File format settings</source>
-        <translation type="unfinished"/>
+        <translation>Ustawienia formatu pliku</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="54"/>
@@ -2396,7 +2401,7 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="79"/>
         <source>Sampling rate:</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość próbkowania:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="87"/>
@@ -2426,17 +2431,17 @@ Prawoklik otwiera menu kontekstowe z pomocą którego można zmienić porządek 
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="133"/>
         <source>Bit depth:</source>
-        <translation type="unfinished"/>
+        <translation>Rozdzielczość bitowa:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="144"/>
         <source>16 Bit integer</source>
-        <translation type="unfinished"/>
+        <translation>16-bitowa liczba całkowita</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="149"/>
         <source>24 Bit integer</source>
-        <translation type="unfinished"/>
+        <translation>24-bitowa liczba całkowita</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="154"/>
@@ -8013,22 +8018,22 @@ Powód: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="44"/>
         <source>WAV (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>WAV (*.wav)</translation>
     </message>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="47"/>
         <source>FLAC (*.flac)</source>
-        <translation type="unfinished"/>
+        <translation>FLAC (*.flac)</translation>
     </message>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="52"/>
         <source>OGG (*.ogg)</source>
-        <translation type="unfinished"/>
+        <translation>OGG (*.ogg)</translation>
     </message>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="61"/>
         <source>MP3 (*.mp3)</source>
-        <translation type="unfinished"/>
+        <translation>MP3 (*.mp3)</translation>
     </message>
 </context>
 <context>
@@ -12274,7 +12279,7 @@ Te układy scalone były stosowane w komputerach Commodore 64.</translation>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1081"/>
         <source>SoundFont Files (*.sf2 *.sf3)</source>
-        <translation type="unfinished"/>
+        <translation>Pliki SoundFont (*.sf2 *.sf3)</translation>
     </message>
 </context>
 <context>
