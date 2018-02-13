@@ -10,17 +10,17 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-12 17:20-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Bug273 <fvargasgrc@gmail.com>, 2017\n"
-"Language-Team: Basque (https://www.transifex.com/lmms/teams/61632/eu/)\n"
+"Last-Translator: Single Coil <apaluza3@gmail.com>, 2017\n"
+"Language-Team: Romanian (https://www.transifex.com/lmms/teams/61632/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: eu\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
 #: get-involved.twig:6 navbar.php:7
 msgid "Get Involved"
-msgstr "Hartu parte"
+msgstr "Implica-te"
 
 #: get-involved.twig:6
 msgid ""
@@ -29,18 +29,22 @@ msgid ""
 "\tnumber to grow. So if you feel like giving something back to the community,\n"
 "\tjoin us in making LMMS better!"
 msgstr ""
+"LMMS este un software gratuit, open-source construit in totalitate de un numar mic de\n"
+"\tvoluntari in timpul lor liber. Dar, pentru a mentine proiectul avem nevoie ca acest\n"
+"\tnumar sa creasca. Deci, casa simtit ca este impul sa dati inapoi comunitatii,\n"
+"\talaturati-va noua si ajutati-ne sa imbunatatim LMMS!"
 
 #: get-involved.twig:11
 msgid "What you can do"
-msgstr "Zer egin dezakezun"
+msgstr "Ce putei face"
 
 #: get-involved.twig:12
 msgid "There are multiple ways of contributing:"
-msgstr "Ekarpenak egiteko hainbat modu daude:"
+msgstr "Sunt mai multe moduri de a contribui:"
 
 #: get-involved.twig:18
 msgid "Join Development"
-msgstr "Batu garapenera"
+msgstr "Alaturati-va echipei de Programare"
 
 #: get-involved.twig:21
 msgid ""
@@ -48,6 +52,8 @@ msgid ""
 "\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
 "\t\t\t\t\t   coding!"
 msgstr ""
+"Numarul de programatori LMMS este foarte redul la momentul de fata si orice ajutor este binevenit. LMMS este construit in C++ folosing Framework-ul Qt \n"
+"\t\t\t\t\t, deci daca sunteti cat de putin familiar cu acestea, nu ezitati sa va suflecati manecile si sa incpeti sa\t\t\t\t\t codati. "
 
 #: get-involved.twig:24
 msgid ""
@@ -56,10 +62,14 @@ msgid ""
 "\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
 "\t\t\t\t\t   to introduce yourself."
 msgstr ""
+"Vizitati <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> si\n"
+"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker-ul nostru</a> pentru inceput. Mai mult decat atat,\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">lista de mail LMMS</a> este un loc gorzav\n"
+"\t\t\t\t\t   pentru a va introduce."
 
 #: get-involved.twig:35
 msgid "Website & Docs"
-msgstr "Webgunea eta dokumentazioa"
+msgstr "Pagina Web & Documentatie"
 
 #: get-involved.twig:38
 msgid ""
@@ -67,6 +77,9 @@ msgid ""
 "\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, our documentation is hosted using a\n"
 "\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki instance</a>."
 msgstr ""
+"Ne puteti ajuta sa imbunatatim aceasta pagina web sau documentatia LMMS . Sursele paginii web se gasesc ls\n"
+"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a> iar documentatia noastra este sustinuta la\n"
+"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">instanta MediaWiki</a>."
 
 #: get-involved.twig:41
 msgid ""
@@ -74,24 +87,29 @@ msgid ""
 "\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> if you're\n"
 "\t\t\t\t\t   interested in helping out with the documentation!"
 msgstr ""
+"Inregistrarea publica pe pagina Wiki nu este permisa din cauza de posibile mesaje spam. Va rugam, postati folosind\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">lista de mail</a> daca sunteti\n"
+"\t\t\t\t\t   interesati sa ajutati cu documentatia!"
 
 #: get-involved.twig:53
 msgid "Donate"
-msgstr "Egin dohaintza"
+msgstr "Donatii"
 
 #: get-involved.twig:56
 msgid ""
 "Even though donations are not the thing we need the most (that'd be developers), they help us pay\n"
 "\t\t\t\t\t   our bills, for our domain lmms.io for instance."
 msgstr ""
+"Chiar daca donatiile nu sunt resursa de care acem cea mai mare nevoie (aceea ar fi programatorii), banii primiti de ajuta sa ne platim\n"
+"\t\t\t\t\t   taxele de intretinere, pentru domeniul lmms.io de exemplu."
 
 #: get-involved.twig:59
 msgid "Donate via PayPal"
-msgstr "PayPal bidezko dohaintza"
+msgstr "Donati cu PayPal"
 
 #: get-involved.twig:68
 msgid "Translations"
-msgstr "Itzulpenak"
+msgstr "Traduceri"
 
 #: get-involved.twig:71
 msgid ""
@@ -100,29 +118,37 @@ msgid ""
 "\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
 "\t\t\t\t\t   GitHub Wiki."
 msgstr ""
+"Daca limba dumneavoastra lipseste din LMMS, ajutati proiectul si alti utilizatori care vorbesc aceeasi limba ca si dumneavoastra\n"
+"\t\t\t\t\t   translatand acest software. Puteti gasi instructiuni la pagina\n"
+"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creati o localizare</a>\" inclusa in\n"
+"\t\t\t\t\t   GitHub Wiki-ul nostru."
 
 #: get-involved.twig:80
 msgid "How to get in touch"
-msgstr "Nola jarri harremanetan"
+msgstr "Cum sa ne contactati"
 
 #: get-involved.twig:86
 msgid "Mailing List"
-msgstr "Posta zerrenda"
+msgstr "Lista de Mail"
 
 #: get-involved.twig:89
 msgid ""
 "Posting to the mailing list is the best way to reach out to our developers:"
 msgstr ""
+"Post-urile pe lista de mail sunt cea mai buna varianta de a contacta "
+"programatorii nostrii:"
 
 #: get-involved.twig:90
 msgid "Subscribe to LMMS-Devel mailing list"
-msgstr ""
+msgstr "Abonati-va la lista de mailing LMMS-Devel"
 
 #: get-involved.twig:101
 msgid ""
 "Our IRC channel is <a href=\"irc://chat.freenode.net/#lmms\">#lmms</a> on\n"
 "\t\t\t\t\t<a href=\"https://freenode.net/irc_servers.shtml\">Freenode</a>."
 msgstr ""
+"Canalul nostru IRC este <a href=\"irc://chat.freenode.net/#lmms\">#lmms</a> gasit la\n"
+"\t\t\t\t\t<a href=\"https://freenode.net/irc_servers.shtml\">Freenode</a>."
 
 #: get-involved.twig:103
 msgid ""
@@ -130,20 +156,25 @@ msgid ""
 "\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
 "\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
 msgstr ""
+"<a href=\"https://discordapp.com/\" target=\"_blank\">Discord</a>\n"
+"\t\t\t\t\teste o alternativa mai moderna decat IRC. Alaturati-va serverului nostru  \n"
+"\t\t\t\t\t<a href=\"/chat/\">cu acest click</a>."
 
 #: get-involved.twig:116 navbar.php:9
 msgid "Forum"
-msgstr "Foroa"
+msgstr "Forum"
 
 #: get-involved.twig:119
 msgid "We host a forum for our users here on this website:"
-msgstr ""
+msgstr "Gazduim un forum pentru userii noistrii la acest site:"
 
 #: get-involved.twig:131
 msgid ""
 "For reporting a bug or suggesting a new feature, please use the GitHub issue"
 " tracker:"
 msgstr ""
+"Pentru a sesiza un bug sau pentru a sugera o imbunatatire, va rugam sa "
+"folositi tracker-ul GitHub issue:"
 
 #: download/linux.twig:6
 msgid ""
@@ -156,18 +187,20 @@ msgid ""
 "For installing LMMS on Debian based distributions such as Debian itself, "
 "Ubuntu or Linux Mint, just click the button below."
 msgstr ""
+"Pentru instalarea LMMS pe Debian, Ubuntu, Linux si alte bazate pe platforma "
+"Debian, apasati pe butonul de mai jos."
 
 #: download/linux.twig:51
 msgid "Install Now"
-msgstr "Instalatu orain"
+msgstr "Instalati acum"
 
 #: /tmp/cache/twig/lmms.io/56/56f4a49785d491b107d2061e6f69b783bd63eb2955e6b83608a668105e728b66.php:80
 msgid "(From Package Manager)"
-msgstr ""
+msgstr "(Din Package Manager)"
 
 #: download/linux.twig:53
 msgid "If this doesn't work for you, run this command in a terminal."
-msgstr ""
+msgstr "Daca nu functioneaza, scrieti aceasta comanda in terminal"
 
 #: download/linux.twig:55
 msgid ""
@@ -223,7 +256,7 @@ msgstr ""
 
 #: download/linux.twig:106
 msgid "Build LMMS from source"
-msgstr "Eraiki LMMS iturburu kodetik"
+msgstr ""
 
 #: download/linux.twig:107
 msgid ""
@@ -249,17 +282,19 @@ msgstr ""
 
 #: download/index.twig:32
 msgid "Download LMMS"
-msgstr "Deskargatu LMMS"
+msgstr "Descarcati LMMS"
 
 #: download/index.twig:32
 msgid ""
 "Downloading and using LMMS is free! Just choose the operating system you "
 "want to run LMMS on:"
 msgstr ""
+"Descarcarea si folosirea LMMS este gratiuta! Selectati doar sistemul de "
+"operare pe care vreti sa folositi LMMS:"
 
 #: download/index.twig:51
 msgid "Install LMMS on Linux"
-msgstr "Instalatu LMMS Linuxen"
+msgstr "Instalati LMMS pe Linux"
 
 #: download/index.twig:52
 msgid "Click one of the buttons below to download LMMS for Linux."
@@ -269,7 +304,7 @@ msgstr ""
 #: download/index.twig:80
 #: /tmp/cache/twig/lmms.io/6e/6e6309adf8934d3c5fa1d4398627e7d5fabd487b92cb76ff77fcf4322cf33f32.php:215
 msgid "Stable Versions"
-msgstr "Bertsio egonkorrak"
+msgstr "Versiuni Stabile"
 
 #: download/index.twig:59
 msgid ""
@@ -281,7 +316,7 @@ msgstr ""
 #: /tmp/cache/twig/lmms.io/6e/6e6309adf8934d3c5fa1d4398627e7d5fabd487b92cb76ff77fcf4322cf33f32.php:181
 #: /tmp/cache/twig/lmms.io/6e/6e6309adf8934d3c5fa1d4398627e7d5fabd487b92cb76ff77fcf4322cf33f32.php:242
 msgid "Beta Versions"
-msgstr "Beta bertsioak"
+msgstr "Versiuni Beta"
 
 #: /tmp/cache/twig/lmms.io/6e/6e6309adf8934d3c5fa1d4398627e7d5fabd487b92cb76ff77fcf4322cf33f32.php:136
 msgid "Other options"
@@ -289,74 +324,79 @@ msgstr ""
 
 #: download/index.twig:78
 msgid "Install LMMS on Windows"
-msgstr "LMMS Windows-en instalatu"
+msgstr "Instaliti LMMS pentru Windows"
 
 #: download/index.twig:79
 msgid ""
 "Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
 "Windows"
 msgstr ""
+"Apasati unul don butoanele de mai jos (32bit sau 64bit) pentru a descarca "
+"LMMS pentru Windows"
 
 #: download/index.twig:96
 msgid "Install LMMS on macOS"
-msgstr ""
+msgstr "Instalati LMMS pe macOS"
 
 #: download/index.twig:97
 msgid "Click one of the buttons below to download LMMS for macOS"
 msgstr ""
+"Apasati unul don butoanele urmatoare pentru a descarca LMMS pentru macOS"
 
 #: download/index.twig:114
 msgid "Downloads labeled Beta are pre-release software, stability may suffer."
-msgstr ""
+msgstr "Link-urile marcate \"Beta\" nu au fost lansate si nu sunt stabile. "
 
 #: download/index.twig:115
 msgid "Previous releases"
-msgstr "Aurreko oharrak"
+msgstr "Lansari anterioare"
 
 #: download/index.twig:333
 msgid "Show release notes"
-msgstr "Erakutsi oharren notak"
+msgstr "Arata detalii pentru aceasta versiune"
 
 #: home.twig:11
 msgid "Let's make music"
-msgstr "Egin dezagun musika"
+msgstr "Haideti sa compunem muzica"
 
 #: home.twig:12
 msgid "with a free, cross-platform tool for your computer."
-msgstr "zure ordenagailurako tresna libre eta plataformanitz batekin."
+msgstr "cu o platforma universala pentru computer-ul tau."
 
 #: home.twig:14
 msgid "Download now"
-msgstr "Deskargatu orain"
+msgstr "Descarcati acum"
 
 #: home.twig:15 home.twig:107
 msgid "Get involved"
-msgstr "Hartu parte"
+msgstr "Implicati-va"
 
 #: home.twig:27
 msgid "Making beats has never been easier."
-msgstr "Taupadak sortzea ez da inoiz horren erraza izan."
+msgstr "Compunerea de ritmuri nu a fost niciodata mai simpla."
 
 #: home.twig:32
 msgid "Produce music with your computer"
-msgstr "Ekoiztu musika zure ordenagailuarekin"
+msgstr "Produceti muzica pa computer-ul dumneavoastra"
 
 #: home.twig:33
 msgid ""
 "by creating melodies and beats, synthesizing and mixing sounds, arranging "
 "samples and much more."
 msgstr ""
-"melodiak eta taupadak sortuta, soinuak sintetizatu eta nahastuta, laginak "
-"antolatuta, eta askoz gehiago."
+"creeand melodii si ritmuri, sintetizand si mixand sunete, aranjand sample-"
+"uri si multe altele. "
 
 #: home.twig:37
 msgid "Playback instruments, samples and plugins"
-msgstr ""
+msgstr "Instrumente de Playback, Sample-uri si plugin-uri"
 
 #: home.twig:38
 msgid ""
 "with a typing or MIDI keyboard in a user-friendly and modern interface."
 msgstr ""
+"cu o tastatura de computer sau MIDI intr-o interfata moderna si simpa de "
+"utilizat. "
 
 #: home.twig:42
 msgid "Bundled with ready-to-use content"
@@ -367,22 +407,24 @@ msgid ""
 "from an assortment of instrument and effect plugins, presets and samples to "
 "VST and SoundFont support."
 msgstr ""
+"cu o abundenta de instrumente si effecte, presetari si sample-uri VST cu "
+"compatibilitate SoundFont."
 
 #: home.twig:52
 msgid "Made by musicians, for musicians."
-msgstr "Musikalarien egina, musikalarientzat"
+msgstr "Facut de muzicieni, pentru muzicieni."
 
 #: home.twig:56
 msgid "Download for Linux"
-msgstr "Deskargatu Linuxerako"
+msgstr "Descarcati pentru LInux"
 
 #: home.twig:57
 msgid "Download for Windows"
-msgstr "Deskargatu Windowserako"
+msgstr "Descarcati pentru Windows"
 
 #: home.twig:58
 msgid "Download for macOS"
-msgstr "Deskargatu macOSrako"
+msgstr "Descarcati pentru macOS"
 
 #: home.twig:59
 msgid "Pick your flavor."
@@ -390,7 +432,7 @@ msgstr ""
 
 #: home.twig:60
 msgid "Linux, Windows or macOS."
-msgstr "Linux, Windows edo macOS."
+msgstr "Linux, Windows sau macOS."
 
 #: home.twig:69
 msgid "Houston, we have a problem."
@@ -402,39 +444,39 @@ msgstr ""
 
 #: home.twig:73
 msgid "Visit our forum"
-msgstr "Bisitatu gure foroa"
+msgstr "Vizitati-ne forumul"
 
 #: home.twig:74
 msgid "Visit our Facebook page"
-msgstr "Bisitatu gure Facebook orria"
+msgstr "Vizitati-ne pagina de Facebook"
 
 #: home.twig:75
 msgid "Chat now on Discord"
-msgstr ""
+msgstr "Discutati acum pe Discord"
 
 #: home.twig:76
 msgid "Visit our GitHub page"
-msgstr "Bisitatu gure GitHub orria"
+msgstr "Vizitati-ne pagina de GitHub"
 
 #: home.twig:77
 msgid "Ask your questions here"
-msgstr "Galdetu hemen"
+msgstr "Puneti intrebarile aici"
 
 #: home.twig:78
 msgid "and answer a few questions while you're waiting."
-msgstr "eta erantzun galderatxo batzuk zain zauden bitartean."
+msgstr "si raspundeti unor intrebari cat timp asteptati."
 
 #: home.twig:85
 msgid "Sharing means caring."
-msgstr "Partekatzeak arduratzea dakar."
+msgstr "Dati Share si aratati ca va pasa"
 
 #: home.twig:90
 msgid "Find musicians"
-msgstr ""
+msgstr "Gasiti muzicieni"
 
 #: home.twig:91
 msgid "Visit the LMMS Sharing Platform (LSP)"
-msgstr ""
+msgstr "Vizitati platforma LMMS Sharing Platform (LPS)"
 
 #: home.twig:92
 msgid "Don't be modest."
@@ -450,7 +492,7 @@ msgstr ""
 
 #: home.twig:106
 msgid "Fork us on Github"
-msgstr ""
+msgstr "Urmariti-ne pe GitHub"
 
 #: home.twig:108
 #, php-format
@@ -463,11 +505,11 @@ msgstr ""
 
 #: home.twig:124
 msgid "Take a peek."
-msgstr ""
+msgstr "Aruncati o privire."
 
 #: home.twig:127
 msgid "Watch our promo video."
-msgstr "Gure promozio bideoa ikusi."
+msgstr "Urmariti video-ul nostru de promovare."
 
 #: home.twig:139
 msgid "Click anywhere to close this dialog"
@@ -475,11 +517,11 @@ msgstr ""
 
 #: home.twig:147
 msgid "Featuring:"
-msgstr ""
+msgstr "Prezentand:"
 
 #: home.twig:151
 msgid "Core Functionality"
-msgstr ""
+msgstr "Functionalitate de baza"
 
 #: home.twig:155
 msgid "Compose music on Windows, Linux and macOS"
@@ -488,38 +530,44 @@ msgstr ""
 #: home.twig:156
 msgid "Sequence, compose, mix and automate songs in one simple interface"
 msgstr ""
+"Secvensati, compuneti, mixati si autimarizati cantece cu o singura interfata"
 
 #: home.twig:157
 msgid "Note playback via MIDI or typing keyboard"
-msgstr ""
+msgstr "Faceti Playback cu o tastatura MIDI sau de scris"
 
 #: home.twig:158
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
-msgstr ""
+msgstr "Adaugati ritmuri cu Editorul de Ritm Si Bass"
 
 #: home.twig:159
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr ""
+"Aplicati Fine Tune, note, acorduri si surse de automatizare controlate de "
+"computer"
 
 #: home.twig:160
 msgid ""
 "Full user-defined track-based automation and computer-controlled automation "
 "sources"
 msgstr ""
+"Automatizari bazate pe track-uri definite de useri si controlate de computer"
 
 #: home.twig:161
 msgid "Import of MIDI files and Hydrogen project files"
-msgstr ""
+msgstr "Folositi file-uri MIDI si proiecte Hydrogen"
 
 #: home.twig:171
 msgid "Musical Instruments"
-msgstr "Musika tresnak"
+msgstr "Instrumente Muzicale"
 
 #: home.twig:175
 msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
 msgstr ""
+"Instrumente preinstalate de tip VST 64-bit pentru Windows cu compatibilitate"
+" pentru 32-biti"
 
 #: home.twig:176
 msgid ""
@@ -542,15 +590,15 @@ msgstr ""
 
 #: home.twig:188
 msgid "Effects Mixing"
-msgstr "Efektuak nahastea"
+msgstr "Efecte de Mixare"
 
 #: home.twig:192
 msgid "Drop-in LADSPA plug-in support"
-msgstr ""
+msgstr "Drop-in LADSPA plug-in suportat"
 
 #: home.twig:193
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
-msgstr ""
+msgstr "Drop-in VST ® effect plug-in suportat (Linux si Windows)"
 
 #: home.twig:194
 msgid ""
@@ -559,7 +607,7 @@ msgstr ""
 
 #: home.twig:195
 msgid "Bundled graphic and parametric equalizers"
-msgstr ""
+msgstr "Egalizatori grafici si parametrici all-in-one"
 
 #: home.twig:196
 msgid "Built-in visualization/spectrum analyzer"
@@ -567,11 +615,11 @@ msgstr ""
 
 #: showcase.twig:6 navbar.php:12
 msgid "Showcase"
-msgstr "Erakutsi"
+msgstr "Prezentare"
 
 #: showcase.twig:6
 msgid "Tracks made with LMMS"
-msgstr "LMMS-rekin egindako pistak"
+msgstr "Piese compuse cu LMMS"
 
 #: showcase.twig:12
 msgid "The Best of LMMS Vol. 4 by LMMS Artists"
@@ -579,35 +627,35 @@ msgstr ""
 
 #: showcase.twig:20
 msgid "The Best of LMMS Vol.3 by LMMS Artists"
-msgstr ""
+msgstr "Topul Pieselor LMMS Vol.3 de Artistii LMMS"
 
 #: showcase.twig:28
 msgid "The Best of LMMS Vol.2 by LMMS Artists"
-msgstr ""
+msgstr "Topul Pieselor LMMS Vol.2 de Artistii LMMS"
 
 #: showcase.twig:36
 msgid "The Best of LMMS Vol.1 by LMMS Artists"
-msgstr ""
+msgstr "Topul Pieselor LMMS Vol.1 de Artistii LMMS"
 
 #: competitions.twig:10 competitions.twig:12 navbar.php:13
 msgid "Competitions"
-msgstr "Lehiaketak"
+msgstr "Competitii"
 
 #: competitions.twig:10
 msgid "Official competitions organised by LMMS and its community members"
-msgstr "LMMSk eta bere komunitateko kideek antolatutako lehiaketa ofizialak"
+msgstr "Competitii oficiale organizate de LMMS si de membri comunitatii sale"
 
 #: competitions.twig:14
 msgid "Current competitions"
-msgstr ""
+msgstr "Competitii curente"
 
 #: competitions.twig:15
 msgid "Past competitions:"
-msgstr "Iraganeko lehiaketak:"
+msgstr "Competitii anterioare:"
 
 #: competitions.twig:18
 msgid "The Best of LMMS vol. IV"
-msgstr "LMMS-ren onena IV bolumena"
+msgstr "Top Cantece LMMS vol. IV"
 
 #: /tmp/cache/twig/lmms.io/d5/d55d667225ee25468415ad593623f61e87e7cb5ccdde62dedf7c06bfb24ad054.php:79
 msgid ""
@@ -648,10 +696,34 @@ msgid ""
 "\t\t\t  - The 25 highest scoring songs will be released as an album on Bandcamp with the price of \"Pay what you want\".\n"
 "\t\t\t\t\tAll the received funds will be donated for further development of LMMS, the program that we love."
 msgstr ""
+"#### Competitia a luat sfarsit la **Aprilie 16, 2017.**\n"
+"\t\t\tSustineti LMMS si cumparati albumul la [bandcamp page.](bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
+"\n"
+"\t\t\tAscultati toate cantecele aici [here.](https://docs.google.com/spreadsheets/d/1pPoM7CQIg5C4uzgOrlRnytJiAsOD5K6jxitF-SIjXRQ/pubhtml?gid=975440614&single=true)\n"
+"\n"
+"\t\t\tCastigatori:\n"
+"\t\t\t<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/321234884&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false\"></iframe>\n"
+"\t\t\t#### Detalii:\n"
+"\n"
+"\t\t\tEste acea vreme din an din nou: Daca aveti cantece incredibile create cu LMMS, trimiteti-le pentru a fi jurizate!\n"
+"\t\t\tConcursul \"Top Cantece LMMS\" s-a intors! Competitia tinteste sa inspire compozitori LMMS si pe toata lumea pasionata de muzica inspre a creea muzica folosing platforma LMMS.\n"
+"\t\t\tCompetitia va fi incarcate pe Bandcamp si profitul va fi donat pentru imbunatatirea LMMS.\n"
+"\t\t\tIncarcati piesele inainte de 16 Aprile 23:59.59  (timp UTC), si afla detalii despre concurs [https://goo.gl/forms/cifEliOViOXTSc8H2)\n"
+"\n"
+"\t\t\t#### Regulile Concursului:\n"
+"\n"
+"\t\t\t1. Data Limita. Piesele trebuiesc incarcate pana la Aprilie 16 23:59.59 UTC. Piesele pot sa fie de orice gen muzical, preferabil sub 10 minute.\n"
+"\t\t\t\tPiesele trebuie sa fie produse in LMMS, dar si alte soft-uri de editare pot fi folosite (Audacity, Ardour etc.) pentru post mixare/mastering.\n"
+"\t\t\t2. Piesele. Toate piesele vor fi incarcate pe grupul dedicat de Soundcloud. Sunt admise maxim 2 piese per utilizator.\n"
+"\t\t\t\tPuteti incarca piese lansate anterior, cat timp nu au fost incule in alte Topuri de Cantece LMMS. Remix-uri nu sunt permise. Colaborarea sau interactionarea cu juriul nu este permisa. Colaborarile intre artisti conteaza ca o piesa pentru fiecare dintre ei.\n"
+"\t\t\t3. Juriul. Juriul este format din: Greippi, Jacoby Davis, Spekular, Stakeout Punch si Squatro.\n"
+"\t\t\t4. Procesul de jurizare. Dupa data limita, juriul va lua decizii si va anunta rezultatele in urmatoarele 14 zile.\n"
+"\t\t\t5. Lansatea. Topul de cele mai bune 25 de piese va i lansat pe contul LMMS de Bandcamp pentru artisti cu optiunea “Plateste cat vrei”. Toate fondurile\n"
+"\t\t\t\tvor fi donate pentru imbunatatirea LMMS, programul pe care il iubim."
 
 #: competitions.twig:66
 msgid "The Best of LMMS vol. III"
-msgstr "LMMS-ren onena III bolumena"
+msgstr "Top Cantece LMMS vol. III"
 
 #: /tmp/cache/twig/lmms.io/d5/d55d667225ee25468415ad593623f61e87e7cb5ccdde62dedf7c06bfb24ad054.php:140
 msgid ""
@@ -680,10 +752,34 @@ msgid ""
 "\t\t\t5. Release. The compilation will be released on a dedicated LMMS artists Bandcamp with the price of “Pay what you want”. All the received funds\n"
 "\t\t\t\twill be donated for further development of LMMS, the program that we love."
 msgstr ""
+"#### Competitia a luat sfarsit la **Martie 16, 2016.**\n"
+"\t\t\tSustineti LMMS si cumparati albumul la [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
+"\n"
+"\t\t\tAscultati toate cantecele aici [here.](https://soundcloud.com/groups/the-best-of-lmms-competition-v3)\n"
+"\n"
+"\t\t\tCastigatori:\n"
+"\t\t\t11\n"
+"\t\t\t#### Detalii:\n"
+"\n"
+"\t\t\tEste acea vreme din an din nou: Daca aveti cantece incredibile create cu LMMS, trimiteti-le pentru a fi jurizate!\n"
+"\t\t\tConcursul \"Top Cantece LMMS\" s-a intors! Competitia tinteste sa inspire compozitori LMMS si pe toata lumea pasionata de muzica inspre a creea muzica folosing platforma LMMS.\n"
+"\t\t\tCompetitia va fi incarcate pe Bandcamp si profitul va fi donat pentru imbunatatirea LMMS.\n"
+"\t\t\tIncarcati piesele inainte de Martie 16 (timp UTC), si afla detalii despre concurs [grup soundcloud](https://soundcloud.com/groups/the-best-of-lmms-competition-v3)\n"
+"\n"
+"\t\t\t#### Regulile Concursului:\n"
+"\n"
+"\t\t\t1. Data Limita. Piesele trebuiesc incarcate pana la Martie 16 0:00 UTC. Piesele pot sa fie de orice gen muzical, preferabil sub 10 minute.\n"
+"\t\t\t\tPiesele trebuie sa fie produse in LMMS, dar si alte soft-uri de editare pot fi folosite (Audacity, Ardour etc.) pentru post mixare/mastering.\n"
+"\t\t\t2. Piesele. Toate piesele vor fi incarcate pe grupul dedicat de Soundcloud. Sunt admise maxim 2 piese per utilizator.\n"
+"\t\t\t\tPuteti incarca piese lansate anterior, cat timp nu au fost incule in alte Topuri de Cantece LMMS. Remix-uri nu sunt permise. Colaborarea sau interactionarea cu juriul nu este permisa\n"
+"\t\t\t3. Juriul. Juriul este format din: Zach Henderson, Second Flight, Umcaruje, Greippi, Tres Finnochiaro si Abludo.\n"
+"\t\t\t4. Procesul de jurizare. Dupa data limita, juriul va lua decizii si va anunta rezultatele in urmatoarele 14 zile.\n"
+"\t\t\t5. Lansatea. Topul va i lansat pe contul LMMS de Bandcamp pentru artisti cu optiunea “Plateste cat vrei”. Toate fondurile\n"
+"\t\t\t\tvor fi donate pentru imbunatatirea LMMS, programul pe care il iubim."
 
 #: competitions.twig:102
 msgid "The Best of LMMS vol. II"
-msgstr "LMMS-ren onena II bolumena"
+msgstr "Top Cantece LMMS vol. II"
 
 #: /tmp/cache/twig/lmms.io/d5/d55d667225ee25468415ad593623f61e87e7cb5ccdde62dedf7c06bfb24ad054.php:189
 msgid ""
@@ -711,10 +807,34 @@ msgid ""
 "\t\t\ttext so you won't know from who or how many the feedback is. Note that you aren't guaranteed any feedback, it depends on how much time the judges have.\n"
 "\t\t\tAlso note that the judges are just regular LMMS artists and no matter what feedback you get the judges' decision for album songs is final."
 msgstr ""
+"#### Competitia a luat sfarsit la **Aprilie 1, 2015.**\n"
+"\t\t\tSustineti LMMS si cumparati albumul la [pagina de bandcamp.](https://lmmsartists.bandcamp.com/)\n"
+"\n"
+"\t\t\tAscultati toate cantecele aici [here.](https://soundcloud.com/groups/the-best-of-lmms-competition-v2)\n"
+"\n"
+"\t\t\tCastigatori:\n"
+"\t\t\t11\n"
+"\t\t\t#### Detalii:\n"
+"\n"
+"\t\t\tEste acea vreme din an din nou: Daca aveti cantece incredibile create cu LMMS, trimiteti-le pentru a fi jurizate!\n"
+"\t\t\tConcursul \"Top Cantece LMMS\" s-a intors! Competitia tinteste sa inspire compozitori LMMS si pe toata lumea pasionata de muzica inspre a creea muzica folosing platforma LMMS.\n"
+"\t\t\tCompetitia va fi incarcate pe Bandcamp si profitul va fi donat pentru imbunatatirea LMMS.\n"
+"\t\t\tIncarcati piesele inainte de 1 Apilie (timp UTC), si afla detalii despre concurs [grup soundcloud](https://soundcloud.com/groups/the-best-of-lmms-competition-v2)\n"
+"\n"
+"\t\t\t#### Regulile Concursului:\n"
+"\n"
+"\t\t\t1. Data Limita. Piesele trebuiesc incarcate pana la 1 Aprilie 0:00 UTC. Piesele pot sa fie de orice gen muzical, preferabil sub 10 minute.\n"
+"\t\t\t\tPiesele trebuie sa fie produse in LMMS, dar si alte soft-uri de editare pot fi folosite (Audacity, Ardour etc.) pentru post mixare/mastering.\n"
+"\t\t\t2. Piesele. Toate piesele vor fi incarcate pe grupul dedicat de Soundcloud. Sunt admise maxim 2 piese per utilizator.\n"
+"\t\t\t\tPuteti incarca piese lansate anterior, cat timp nu au fost incule in alte Topuri de Cantece LMMS. Remix-uri nu sunt permise. Colaborarea sau interactionarea cu juriul nu este permisa\n"
+"\t\t\t3. Juriul. Juriul este format din: Stian Jørgensrud (Sti-Jay), Ian Letarte, Hashhakaj kamaluden, Fastigium, artlu, TRonix si Jernemies.\n"
+"\t\t\t4. Procesul de jurizare. Dupa data limita, juriul va lua decizii si va anunta rezultatele in urmatoarele 14 zile.\n"
+"\t\t\t5. Lansatea. Topul va i lansat pe contul LMMS de Bandcamp pentru artisti cu optiunea “Plateste cat vrei”. Toate fondurile\n"
+"\t\t\t\tvor fi donate pentru imbunatatirea LMMS, programul pe care il iubim."
 
 #: competitions.twig:137
 msgid "The Best of LMMS vol. I"
-msgstr "LMMS-ren onena I bolumena"
+msgstr "Top Cantece LMMS vol. I"
 
 #: /tmp/cache/twig/lmms.io/d5/d55d667225ee25468415ad593623f61e87e7cb5ccdde62dedf7c06bfb24ad054.php:237
 msgid ""
@@ -743,26 +863,50 @@ msgid ""
 "\t\t\t4. Release. The compilation will be released on a dedicated LMMS artists Bandcamp with the price of “Pay what you want”. All the received funds\n"
 "\t\t\t\twill be donated for further development of LMMS, the program that we love."
 msgstr ""
+"#### Competitia a luat sfarsit la **15 Februarie, 2014.**\n"
+"\t\t\tSustineti LMMS si cumparati albumul la [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
+"\n"
+"\t\t\tAscultati toate cantecele aici [here.](https://soundcloud.com/groups/the-best-of-lmms-competition-v3)\n"
+"\n"
+"\t\t\tCastigatori:\n"
+"\t\t\t11\n"
+"\t\t\t#### Detalii:\n"
+"\n"
+"\t\t\tDaca aveti cantece incredibile create cu LMMS, trimiteti-le pentru a fi jurizate!\n"
+"\t\t\tCompetitia tinteste sa inspire compozitori LMMS si pe toata lumea pasionata de muzica inspre a creea muzica folosing platforma LMMS.\n"
+"\t\t\tCompetitia va fi incarcate pe Bandcamp si profitul va fi donat pentru imbunatatirea LMMS.\n"
+"\t\t\tIncarcati piesele inainte de 15 Februarie (timp UTC), si afla detalii despre concurs [grup soundcloud](https://soundcloud.com/groups/the-best-of-lmms-competition-v3)\n"
+"\n"
+"\t\t\t#### Regulile Concursului:\n"
+"\n"
+"\t\t\t1. Data Limita. Piesele trebuiesc incarcate pana la  15 Februarie 0:00 UTC. Piesele pot sa fie de orice gen muzical, preferabil sub 10 minute.\n"
+"\t\t\t\tPiesele trebuie sa fie produse in LMMS, dar si alte soft-uri de editare pot fi folosite (Audacity, Ardour etc.) pentru post mixare/mastering.\n"
+"\t\t\t2. Piesele. Toate piesele vor fi incarcate pe grupul dedicat de Soundcloud. Sunt admise maxim 2 piese per utilizator.\n"
+"\t\t\t\tPuteti incarca piese lansate anterior, cat timp nu au fost incule in alte Topuri de Cantece LMMS. Remix-uri nu sunt permise. Colaborarea sau interactionarea cu juriul nu este permisa\n"
+"\t\t\t3. Juriul. Juriul este format din grupul Avelocity: Brian Amin (Maniarib), Joshua Wade (Second Flight),\t\t\t\tUroš Maravić (Umcaruje), Evan Roberts (Stakeout Punch), Joshua Flynn (Raptor980) si Jan Heemstra (Combustible Lemonade).\n"
+"\t\t\t4. Procesul de jurizare. Dupa data limita, juriul va lua decizii si va anunta rezultatele in urmatoarele 14 zile.\n"
+"\t\t\t5. Lansatea. Topul va i lansat pe contul LMMS de Bandcamp pentru artisti cu optiunea “Plateste cat vrei”. Toate fondurile\n"
+"\t\t\t\tvor fi donate pentru imbunatatirea LMMS, programul pe care il iubim."
 
 #: branding.twig:6 navbar.php:14
 msgid "Branding"
-msgstr "Marka"
+msgstr "Marca"
 
 #: branding.twig:6
 msgid "Download LMMS Artwork"
-msgstr "LMMS-ren artelana deskargatu"
+msgstr "Descarcati Imagini cu LMMS"
 
 #: branding.twig:8
 msgid "LMMS Logo"
-msgstr "LMMS logoa"
+msgstr "LMMS Logo"
 
 #: branding.twig:8 branding.twig:17
 msgid "LMMS Development Team"
-msgstr "LMMS-ren garapen taldea"
+msgstr "Echipa de dezvoltare LMMS"
 
 #: branding.twig:17
 msgid "LMMS Project Icon"
-msgstr "LMMS proiektuaren ikonoa"
+msgstr "Imagine de Proiect LMMS"
 
 #: /tmp/cache/twig/lmms.io/e5/e5237389410ebe2e340604d332fb7ae484a2596c760fda5c2cebf05a16412bd5.php:32
 msgid ""
@@ -770,10 +914,13 @@ msgid ""
 "still download releases on <a "
 "href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 msgstr ""
+"Ne cerem scuze, a aparut o problema cu gasirea ultimei versiuni LMMS. Alte "
+"versiuni se gasesc la <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 
 #: artwork.php:18
 msgid "Author:"
-msgstr "Egilea:"
+msgstr ""
 
 #: artwork.php:24
 msgid "Modified/Themed By:"
@@ -781,43 +928,43 @@ msgstr ""
 
 #: artwork.php:56
 msgid "Scalable Vector Format"
-msgstr "Scalable Vector-en Formatua"
+msgstr ""
 
 #: artwork.php:57
 msgid "Gimp Image Editor Format"
-msgstr "Gimp Irudi Editorearen Formatua"
+msgstr ""
 
 #: artwork.php:58
 msgid "Portable Document Format"
-msgstr "Dokumentu eramangarriaren Formatua"
+msgstr ""
 
 #: artwork.php:59
 msgid "Adobe Photoshop Format"
-msgstr "Adobe Photoshop Formatua"
+msgstr ""
 
 #: artwork.php:60
 msgid "PNG Format"
-msgstr "PNG formatua"
+msgstr ""
 
 #: artwork.php:62
 msgid "JPEG Format"
-msgstr "JPEG formatua"
+msgstr ""
 
 #: artwork.php:63
 msgid "Bitmap Format"
-msgstr "Bitmap formatua"
+msgstr ""
 
 #: artwork.php:64
 msgid "Windows Icon Format"
-msgstr "Windows Icon Formatua"
+msgstr ""
 
 #: artwork.php:65
 msgid "Apple Icon Format"
-msgstr "Apple Icon Formatua"
+msgstr ""
 
 #: artwork.php:66
 msgid "Unknown File"
-msgstr "Fitxategi ezezaguna"
+msgstr ""
 
 #: index.php:37
 msgid "You seem to have taken a wrong turn."
@@ -829,28 +976,28 @@ msgstr ""
 
 #: index.php:43
 msgid "Yuck, an error!"
-msgstr "Aiba, errore bat!"
+msgstr ""
 
 #: navbar.php:6
 msgid "Download"
-msgstr "Deskargatu"
+msgstr ""
 
 #: navbar.php:8
 msgid "Documentation"
-msgstr "Dokumentazioa"
+msgstr ""
 
 #: navbar.php:8
 msgid "Docs"
-msgstr "Dok."
+msgstr ""
 
 #: navbar.php:10
 msgid "Sharing Platform"
-msgstr "Partekatze plataforma"
+msgstr ""
 
 #: navbar.php:10
 msgid "Share"
-msgstr "Partekatu"
+msgstr ""
 
 #: navbar.php:11
 msgid "More"
-msgstr "Gehiago"
+msgstr ""

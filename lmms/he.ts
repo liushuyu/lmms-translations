@@ -1,10 +1,10 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="ko" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="he" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="20"/>
         <source>About LMMS</source>
-        <translation>LMMS에 대하여</translation>
+        <translation>אודות LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="43"/>
@@ -14,12 +14,12 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="50"/>
         <source>Version %1 (%2/%3, Qt %4, %5).</source>
-        <translation>버전 %1 (%2/%3, Qt %4, %5).</translation>
+        <translation>גרסה %1 (%2/%3, Qt %4, %5).</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="78"/>
         <source>About</source>
-        <translation>정보</translation>
+        <translation>אודות</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="100"/>
@@ -34,41 +34,38 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="152"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#33cc33;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#33cc33;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="176"/>
         <source>Authors</source>
-        <translation>개발자</translation>
+        <translation>מפתחים</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="190"/>
         <source>Involved</source>
-        <translation>기여자</translation>
+        <translation>להשתתף</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="196"/>
         <source>Contributors ordered by number of commits:</source>
-        <translation>기여자 (기여 순으로 정렬):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="211"/>
         <source>Translation</source>
-        <translation>번역</translation>
+        <translation>תרגום</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="220"/>
         <source>Current language not translated (or native English).
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation>송현진 (Hyunjin Song) &lt;tteu.ingog@gmail.com&gt;
-방성범 (Bang Seongbeom) &lt;bangseongbeom@gmail.com&gt;
-
-LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고 싶다면 저희를 도와주세요! LMMS 관리자와의 연락을 통해 참여하실 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="229"/>
         <source>License</source>
-        <translation>라이선스</translation>
+        <translation>רשיון</translation>
     </message>
 </context>
 <context>
@@ -76,42 +73,42 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="47"/>
         <source>VOL</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="48"/>
         <source>Volume:</source>
-        <translation>볼륨:</translation>
+        <translation>ווליום:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="53"/>
         <source>PAN</source>
-        <translation>패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="54"/>
         <source>Panning:</source>
-        <translation>패닝:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="60"/>
         <source>LEFT</source>
-        <translation>왼쪽</translation>
+        <translation>שמאל</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="61"/>
         <source>Left gain:</source>
-        <translation>왼쪽 이득:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="67"/>
         <source>RIGHT</source>
-        <translation>오른쪽</translation>
+        <translation>ימין</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="68"/>
         <source>Right gain:</source>
-        <translation>오른쪽 이득:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -119,22 +116,22 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="38"/>
         <source>Volume</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="39"/>
         <source>Panning</source>
-        <translation>패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="40"/>
         <source>Left gain</source>
-        <translation>왼쪽 이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="41"/>
         <source>Right gain</source>
-        <translation>오른쪽 이득</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -142,12 +139,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/AudioAlsaSetupWidget.cpp" line="68"/>
         <source>DEVICE</source>
-        <translation>장치</translation>
+        <translation>התקן</translation>
     </message>
     <message>
         <location filename="../../src/gui/AudioAlsaSetupWidget.cpp" line="80"/>
         <source>CHANNELS</source>
-        <translation>채널</translation>
+        <translation>ערוצים</translation>
     </message>
 </context>
 <context>
@@ -155,98 +152,98 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="469"/>
         <source>Open other sample</source>
-        <translation>다른 샘플 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="472"/>
         <source>Click here, if you want to open another audio-file. A dialog will appear where you can select your file. Settings like looping-mode, start and end-points, amplify-value, and so on are not reset. So, it may not sound like the original sample.</source>
-        <translation>클릭하여 다른 오디오 파일을 선택합니다. 클릭하면 파일을 선택할 수 있는 창이 나타납니다. 루프 모드, 시작점, 끝점, 증폭 등의 설정은 자동으로 초기화되지 않으므로 원본 오디오 파일과 다르게 들릴 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="485"/>
         <source>Reverse sample</source>
-        <translation>샘플 역으로</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="487"/>
         <source>If you enable this button, the whole sample is reversed. This is useful for cool effects, e.g. a reversed crash.</source>
-        <translation>이 버튼이 활성화되면 샘플을 역으로 재생합니다. 리버스 크래시와 같은 효과에 사용할 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="500"/>
         <source>Disable loop</source>
-        <translation>반복 비활성화</translation>
+        <translation>השבת לופ</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="502"/>
         <source>This button disables looping. The sample plays only once from start to end. </source>
-        <translation>이 버튼은 반복을 비활성화합니다. 샘플은 처음부터 끝까지 한 번만 재생됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="513"/>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="525"/>
         <source>Enable loop</source>
-        <translation>반복 활성화</translation>
+        <translation>אפשר לופ</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="515"/>
         <source>This button enables forwards-looping. The sample loops between the end point and the loop point.</source>
-        <translation>이 버튼은 단방향 반복을 활성화합니다. 샘플은 반복 시작점과 끝점 사이에서 단방향으로 반복 재생됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="527"/>
         <source>This button enables ping-pong-looping. The sample loops backwards and forwards between the end point and the loop point.</source>
-        <translation>이 버튼은 양방향 반복을 활성화합니다. 샘플은 반복 시작점과 끝점 사이에서 양방향으로 반복 재생됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="544"/>
         <source>Continue sample playback across notes</source>
-        <translation>샘플을 여러 음표에 걸쳐 계속 재생</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="546"/>
         <source>Enabling this option makes the sample continue playing across different notes - if you change pitch, or the note length stops before the end of the sample, then the next note played will continue where it left off. To reset the playback to the start of the sample, insert a note at the bottom of the keyboard (&lt; 20 Hz)</source>
-        <translation>이 옵션을 활성화하면 샘플이 여러 음표에 걸쳐 계속 재생됩니다 - 음표가 끝나기 전에 샘플이 끝나는 경우나 피치가 바뀌는 경우 다음 음표는 직전 음표의 재생이 끝난 곳부터 재생됩니다. 음표가 다시 처음부터 재생되게 하려면 매우 낮은 음표를 삽입하세요. (&lt; 20Hz)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="556"/>
         <source>Amplify:</source>
-        <translation>증폭:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="558"/>
         <source>With this knob you can set the amplify ratio. When you set a value of 100% your sample isn&apos;t changed. Otherwise it will be amplified up or down (your actual sample-file isn&apos;t touched!)</source>
-        <translation>이 노브를 이용하여 증폭률을 설정할 수 있습니다. 값을 100%로 설정하면 샘플은 그대로 재생됩니다. 그렇지 않은 경우 샘플의 음량이 증가되거나 감소됩니다. (실제 샘플 파일에는 변화가 없습니다)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="565"/>
         <source>Startpoint:</source>
-        <translation>시작점:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="567"/>
         <source>With this knob you can set the point where AudioFileProcessor should begin playing your sample. </source>
-        <translation>이 노브를 이용하여 샘플 재생 시작점을 설정할 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="572"/>
         <source>Endpoint:</source>
-        <translation>끝점:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="574"/>
         <source>With this knob you can set the point where AudioFileProcessor should stop playing your sample. </source>
-        <translation>이 노브를 이용하여 샘플 재생 끝점을 설정할 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="579"/>
         <source>Loopback point:</source>
-        <translation>루프 시작점:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="581"/>
         <source>With this knob you can set the point where the loop starts. </source>
-        <translation>이 노브를 이용하여 샘플 반복 시작점을 설정할 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -254,7 +251,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="1041"/>
         <source>Sample length:</source>
-        <translation>샘플 길이:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -262,32 +259,32 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="106"/>
         <source>JACK client restarted</source>
-        <translation>JACK 클라이언트 다시 시작됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="107"/>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation>알 수 없는 이유로 인해 LMMS와 JACK과의 연결이 끊겼습니다. LMMS의 JACK 드라이버를 다시 시작합니다. 수동으로 연결을 시도할 수도 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="115"/>
         <source>JACK server down</source>
-        <translation>JACK 서버 다운됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="116"/>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation>JACK 서버가 종료된 것 같습니다. 더 이상 작업을 진행할 수 없습니다. 프로젝트를 저장한 뒤 JACK과 LMMS를 다시 시작하세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="460"/>
         <source>CLIENT-NAME</source>
-        <translation>클라이언트 이름</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="472"/>
         <source>CHANNELS</source>
-        <translation>채널</translation>
+        <translation>צ&apos;אנל</translation>
     </message>
 </context>
 <context>
@@ -295,12 +292,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="330"/>
         <source>DEVICE</source>
-        <translation>장치</translation>
+        <translation>התקן</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="342"/>
         <source>CHANNELS</source>
-        <translation>채널</translation>
+        <translation>צ&apos;אנל</translation>
     </message>
 </context>
 <context>
@@ -308,12 +305,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="396"/>
         <source>BACKEND</source>
-        <translation>드라이버</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="403"/>
         <source>DEVICE</source>
-        <translation>장치</translation>
+        <translation>התקן</translation>
     </message>
 </context>
 <context>
@@ -321,12 +318,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="316"/>
         <source>DEVICE</source>
-        <translation>장치</translation>
+        <translation>התקן</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="328"/>
         <source>CHANNELS</source>
-        <translation>채널</translation>
+        <translation>צ&apos;אנל</translation>
     </message>
 </context>
 <context>
@@ -334,7 +331,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="202"/>
         <source>DEVICE</source>
-        <translation>장치</translation>
+        <translation>התקן</translation>
     </message>
 </context>
 <context>
@@ -342,12 +339,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="196"/>
         <source>DEVICE</source>
-        <translation>장치</translation>
+        <translation>התקן</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="208"/>
         <source>CHANNELS</source>
-        <translation>채널</translation>
+        <translation>צ&apos;אנל</translation>
     </message>
 </context>
 <context>
@@ -355,12 +352,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="408"/>
         <source>BACKEND</source>
-        <translation>드라이버</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="415"/>
         <source>DEVICE</source>
-        <translation>장치</translation>
+        <translation>התקן</translation>
     </message>
 </context>
 <context>
@@ -368,57 +365,57 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="67"/>
         <source>&amp;Reset (%1%2)</source>
-        <translation>초기화 (%1%2)(&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="74"/>
         <source>&amp;Copy value (%1%2)</source>
-        <translation>값 복사 (%1%2)(&amp;C)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="80"/>
         <source>&amp;Paste value (%1%2)</source>
-        <translation>값 붙여넣기 (%1%2)(&amp;P)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="88"/>
         <source>Edit song-global automation</source>
-        <translation>전역 오토메이션 편집</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="93"/>
         <source>Remove song-global automation</source>
-        <translation>전역 오토메이션 제거</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="102"/>
         <source>Remove all linked controls</source>
-        <translation>연결 제거</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="113"/>
         <source>Connected to %1</source>
-        <translation>%1에 연결됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="117"/>
         <source>Connected to controller</source>
-        <translation>컨트롤러에 연결됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="123"/>
         <source>Edit connection...</source>
-        <translation>연결 편집...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="126"/>
         <source>Remove connection</source>
-        <translation>연결 제거</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="132"/>
         <source>Connect to controller...</source>
-        <translation>컨트롤러에 연결...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -426,17 +423,17 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1437"/>
         <source>Please open an automation pattern with the context menu of a control!</source>
-        <translation>컨트롤의 컨텍스트 메뉴에서 오토메이션 패턴을 여시기 바랍니다!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1965"/>
         <source>Values copied</source>
-        <translation>값 복사됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1966"/>
         <source>All selected values were copied to the clipboard.</source>
-        <translation>선택한 모든 값이 클립보드에 복사되었습니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -444,67 +441,67 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2207"/>
         <source>Play/pause current pattern (Space)</source>
-        <translation>현재 패턴 재생/일시정지 (Space)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2209"/>
         <source>Click here if you want to play the current pattern. This is useful while editing it.  The pattern is automatically looped when the end is reached.</source>
-        <translation>현재 패턴을 재생하려면 여기를 클릭하세요. 패턴의 끝에 도달하면 자동으로 반복 재생됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2213"/>
         <source>Stop playing of current pattern (Space)</source>
-        <translation>현재 패턴 정지 (Space)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2215"/>
         <source>Click here if you want to stop playing of the current pattern.</source>
-        <translation>현재 패턴의 재생을 정지하려면 여기를 클릭하세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2219"/>
         <source>Edit actions</source>
-        <translation>편집 동작</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2222"/>
         <source>Draw mode (Shift+D)</source>
-        <translation>그리기 모드 (Shift+D)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2226"/>
         <source>Erase mode (Shift+E)</source>
-        <translation>지우기 모드 (Shift+E)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2229"/>
         <source>Flip vertically</source>
-        <translation>상하 반전</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2230"/>
         <source>Flip horizontally</source>
-        <translation>좌우 반전</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2233"/>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>
-        <translation>여기를 클릭하면 패턴이 상하로 반전됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2236"/>
         <source>Click here and the pattern will be reversed. The points are flipped in the x direction.</source>
-        <translation>여기를 클릭하면 패턴이 좌우로 반전됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2244"/>
         <source>Click here and draw-mode will be activated. In this mode you can add and move single values.  This is the default mode which is used most of the time.  You can also press &apos;Shift+D&apos; on your keyboard to activate this mode.</source>
-        <translation>여기를 클릭하면 그리기 모드가 활성화됩니다. 그리기 모드에서는 값을 추가하거나 이동할 수 있습니다. 이 모드는 대부분의 경우에 사용되는 기본 모드입니다. &apos;Shift+D&apos; 키를 눌러 이 모드를 활성화할 수도 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2250"/>
         <source>Click here and erase-mode will be activated. In this mode you can erase single values. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
-        <translation>여기를 클릭하면 지우기 모드가 활성화됩니다. 지우기 모드에서는 값을 삭제할 수 있습니다. &apos;Shift+E&apos; 키를 눌러 이 모드를 활성화할 수도 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2276"/>
@@ -514,17 +511,17 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2281"/>
         <source>Discrete progression</source>
-        <translation>이산적 진행</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2285"/>
         <source>Linear progression</source>
-        <translation>선형 진행</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2287"/>
         <source>Cubic Hermite progression</source>
-        <translation>3차 에르미트 진행</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2294"/>
@@ -539,37 +536,37 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2304"/>
         <source>Click here to choose discrete progressions for this automation pattern.  The value of the connected object will remain constant between control points and be set immediately to the new value when each control point is reached.</source>
-        <translation>클릭하여 이 패턴을 이산적 진행으로 설정합니다. 각 점 사이에서 값은 상수로 유지되며 새 점에 도달하는 순간 값이 갱신됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2310"/>
         <source>Click here to choose linear progressions for this automation pattern.  The value of the connected object will change at a steady rate over time between control points to reach the correct value at each control point without a sudden change.</source>
-        <translation>클릭하여 이 패턴을 선형 진행으로 설정합니다. 각 점 사이에서 값은 일정한 비율로 변화하며 새 점에 도달하는 순간에 불연속적 값 변화가 없습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2316"/>
         <source>Click here to choose cubic hermite progressions for this automation pattern.  The value of the connected object will change in a smooth curve and ease in to the peaks and valleys.</source>
-        <translation>클릭하여 이 패턴을 3차 에르미트 진행으로 설정합니다. 각 점 사이에서 값은 매끄러운 곡선의 형태로 변화합니다.Save</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2326"/>
         <source>Tension: </source>
-        <translation>장력:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2335"/>
         <source>Cut selected values (%1+X)</source>
-        <translation>선택된 값 잘라내기 (%1+X)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2342"/>
         <source>Copy selected values (%1+C)</source>
-        <translation>선택된 값 복사 (%1+C)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2349"/>
         <source>Paste values from clipboard (%1+V)</source>
-        <translation>선택된 값 붙여넣기 (%1+V)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2357"/>
@@ -610,18 +607,18 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2486"/>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2595"/>
         <source>Automation Editor - no pattern</source>
-        <translation>오토메이션 편집기 - 패턴 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2490"/>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2599"/>
         <source>Automation Editor - %1</source>
-        <translation>오토메이션 편집기 - %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2544"/>
         <source>Model is already connected to this pattern.</source>
-        <translation>대상이 이미 패턴에 연결되어 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -629,7 +626,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/core/AutomationPattern.cpp" line="632"/>
         <source>Drag a control while pressing &lt;%1&gt;</source>
-        <translation>&lt;%1&gt; 키를 누른 채로 드래그</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -637,52 +634,52 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="172"/>
         <source>Open in Automation editor</source>
-        <translation>오토메이션 편집기에서 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="180"/>
         <source>Clear</source>
-        <translation>지우기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="183"/>
         <source>Reset name</source>
-        <translation>이름 초기화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="186"/>
         <source>Change name</source>
-        <translation>이름 바꾸기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="189"/>
         <source>Set/clear record</source>
-        <translation>녹음 설정/해제</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="192"/>
         <source>Flip Vertically (Visible)</source>
-        <translation>상하 반전</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="195"/>
         <source>Flip Horizontally (Visible)</source>
-        <translation>좌우 반전</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="200"/>
         <source>%1 Connections</source>
-        <translation>%1개의 연결</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="208"/>
         <source>Disconnect &quot;%1&quot;</source>
-        <translation>&quot;%1&quot; 연결 해제</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="446"/>
         <source>Model is already connected to this pattern.</source>
-        <translation>대상이 이미 패턴과 연결되어 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -690,7 +687,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/tracks/AutomationTrack.cpp" line="40"/>
         <source>Automation track</source>
-        <translation>오토메이션 트랙</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -698,27 +695,27 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="47"/>
         <source>Beat+Bassline Editor</source>
-        <translation>비트/베이스 라인 편집기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="69"/>
         <source>Play/pause current beat/bassline (Space)</source>
-        <translation>현재 비트/베이스 라인 재생/일시정지 (Space)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="70"/>
         <source>Stop playback of current beat/bassline (Space)</source>
-        <translation>현재 비트/베이스 라인 정지 (Space)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="73"/>
         <source>Click here to play the current beat/bassline.  The beat/bassline is automatically looped when its end is reached.</source>
-        <translation>클릭하여 비트/베이스 라인을 재생합니다. 자동으로 반복 재생됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="77"/>
         <source>Click here to stop playing of current beat/bassline.</source>
-        <translation>클릭하여 비트/베이스 라인 재생을 정지합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="82"/>
@@ -733,27 +730,27 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="95"/>
         <source>Add beat/bassline</source>
-        <translation>비트/베이스 라인 추가</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="99"/>
         <source>Add sample-track</source>
-        <translation>샘플 트랙 추가</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="101"/>
         <source>Add automation-track</source>
-        <translation>오토메이션 트랙 추가</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="110"/>
         <source>Remove steps</source>
-        <translation>단계 제거</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="112"/>
         <source>Add steps</source>
-        <translation>단계 더하기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="114"/>
@@ -766,27 +763,27 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="184"/>
         <source>Open in Beat+Bassline-Editor</source>
-        <translation>비트/베이스 라인 편집기에서 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="191"/>
         <source>Reset name</source>
-        <translation>이름 초기화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="194"/>
         <source>Change name</source>
-        <translation>이름 바꾸기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="197"/>
         <source>Change color</source>
-        <translation>색상 바꾸기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="199"/>
         <source>Reset color to default</source>
-        <translation>색상을 기본값으로 되돌리기</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -794,12 +791,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="405"/>
         <source>Beat/Bassline %1</source>
-        <translation>비트/베이스 라인 %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="554"/>
         <source>Clone of %1</source>
-        <translation>%1의 복제</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -807,22 +804,22 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="49"/>
         <source>FREQ</source>
-        <translation>주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="50"/>
         <source>Frequency:</source>
-        <translation>주파수:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="54"/>
         <source>GAIN</source>
-        <translation>이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="55"/>
         <source>Gain:</source>
-        <translation>이득:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="59"/>
@@ -840,12 +837,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="36"/>
         <source>Frequency</source>
-        <translation>주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="37"/>
         <source>Gain</source>
-        <translation>이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="38"/>
@@ -858,28 +855,28 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="47"/>
         <source>IN</source>
-        <translation>입력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="50"/>
         <source>OUT</source>
-        <translation>출력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="57"/>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="71"/>
         <source>GAIN</source>
-        <translation>이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="58"/>
         <source>Input Gain:</source>
-        <translation>입력 이득:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="63"/>
         <source>NOISE</source>
-        <translation>잡음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="64"/>
@@ -889,7 +886,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="72"/>
         <source>Output Gain:</source>
-        <translation>출력 이득:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="77"/>
@@ -924,17 +921,17 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="97"/>
         <source>FREQ</source>
-        <translation>주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="98"/>
         <source>Sample rate:</source>
-        <translation>샘플 레이트:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="103"/>
         <source>STEREO</source>
-        <translation>스테레오</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="104"/>
@@ -957,12 +954,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/widgets/CaptionMenu.cpp" line="57"/>
         <source>&amp;Help</source>
-        <translation>도움말(&amp;H)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/CaptionMenu.cpp" line="61"/>
         <source>Help (not available)</source>
-        <translation>도움말 사용 불가</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -970,12 +967,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="488"/>
         <source>Show GUI</source>
-        <translation>GUI 표시</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="496"/>
         <source>Click here to show or hide the graphical user interface (GUI) of Carla.</source>
-        <translation>클릭하여 Carla의 GUI를 표시하거나 숨깁니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -983,7 +980,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/core/Controller.cpp" line="61"/>
         <source>Controller %1</source>
-        <translation>컨트롤러 %1</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -991,38 +988,38 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="136"/>
         <source>Connection Settings</source>
-        <translation>연결 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="140"/>
         <source>MIDI CONTROLLER</source>
-        <translation>MIDI 컨트롤러</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="146"/>
         <source>Input channel</source>
-        <translation>입력 채널</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="148"/>
         <source>CHANNEL</source>
-        <translation>채널</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="152"/>
         <source>Input controller</source>
-        <translation>입력 컨트롤러</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="154"/>
         <source>CONTROLLER</source>
-        <translation>컨트롤러</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="159"/>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="160"/>
         <source>Auto Detect</source>
-        <translation>자동 감지</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="174"/>
@@ -1032,7 +1029,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="184"/>
         <source>USER CONTROLLER</source>
-        <translation>사용자 지정 컨트롤러</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="200"/>
@@ -1042,12 +1039,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="218"/>
         <source>OK</source>
-        <translation>확인</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="224"/>
         <source>Cancel</source>
-        <translation>취소</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="332"/>
@@ -1057,7 +1054,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="332"/>
         <source>Cycle Detected.</source>
-        <translation>순환 연결이 감지되었습니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1065,22 +1062,22 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="49"/>
         <source>Controller Rack</source>
-        <translation>컨트롤러 랙</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="64"/>
         <source>Add</source>
-        <translation>추가</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="127"/>
         <source>Confirm Delete</source>
-        <translation>삭제 확인</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="128"/>
         <source>Confirm delete? There are existing connection(s) associated with this controller. There is no way to undo.</source>
-        <translation>정말 삭제하시겠습니까? 이 컨트롤러와의 연결이 존재합니다. 이 동작은 취소할 수 없습니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1088,37 +1085,37 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="70"/>
         <source>Controls</source>
-        <translation>컨트롤</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="95"/>
         <source>Controllers are able to automate the value of a knob, slider, and other controls.</source>
-        <translation>컨트롤러를 통하여 노브, 슬라이더 등의 값을 자동으로 제어할 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="150"/>
         <source>Rename controller</source>
-        <translation>컨트롤러 이름 바꾸기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="151"/>
         <source>Enter the new name for this controller</source>
-        <translation>컨트롤러의 새 이름을 입력하세요</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="158"/>
         <source>LFO</source>
-        <translation>LFO</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="182"/>
         <source>&amp;Remove this controller</source>
-        <translation>컨트롤러 제거(&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="184"/>
         <source>Re&amp;name this controller</source>
-        <translation>컨트롤러 이름 바꾸기(&amp;N)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1209,12 +1206,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="36"/>
         <source>Feedback</source>
-        <translation>피드백</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="37"/>
         <source>Lfo Frequency</source>
-        <translation>LFO 주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="38"/>
@@ -1224,7 +1221,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="39"/>
         <source>Output gain</source>
-        <translation>출력 이득</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1242,7 +1239,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="56"/>
         <source>FDBK</source>
-        <translation>피드백</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="57"/>
@@ -1272,12 +1269,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="73"/>
         <source>Out Gain</source>
-        <translation>출력 이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="78"/>
         <source>Gain</source>
-        <translation>이득</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1286,37 +1283,37 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="54"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="58"/>
         <source>FREQ</source>
-        <translation>주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="54"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="58"/>
         <source>Cutoff frequency</source>
-        <translation>차단 주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="55"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="59"/>
         <source>RESO</source>
-        <translation>공명</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="55"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="59"/>
         <source>Resonance</source>
-        <translation>공명</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="56"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="60"/>
         <source>GAIN</source>
-        <translation>이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="56"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="60"/>
         <source>Gain</source>
-        <translation>이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="57"/>
@@ -1331,22 +1328,22 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="66"/>
         <source>Filter 1 enabled</source>
-        <translation>필터 1 활성화됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="68"/>
         <source>Filter 2 enabled</source>
-        <translation>필터 2 활성화됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="72"/>
         <source>Click to enable/disable Filter 1</source>
-        <translation>클릭하여 필터 1 활성화/비활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="75"/>
         <source>Click to enable/disable Filter 2</source>
-        <translation>클릭하여 필터 2 활성화/비활성화</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1354,12 +1351,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="40"/>
         <source>Filter 1 enabled</source>
-        <translation>필터 1 활성화됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="41"/>
         <source>Filter 1 type</source>
-        <translation>필터 1 종류</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="42"/>
@@ -1384,12 +1381,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="48"/>
         <source>Filter 2 enabled</source>
-        <translation>필터 2 활성화됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="49"/>
         <source>Filter 2 type</source>
-        <translation>필터 2 종류</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="50"/>
@@ -1549,17 +1546,17 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="91"/>
         <source>Play (Space)</source>
-        <translation>재생 (Space)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="92"/>
         <source>Stop (Space)</source>
-        <translation>정지 (Space)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="94"/>
         <source>Record</source>
-        <translation>녹음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="95"/>
@@ -1572,7 +1569,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/core/Effect.cpp" line="47"/>
         <source>Effect enabled</source>
-        <translation>효과 활성화됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="48"/>
@@ -1582,7 +1579,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/core/Effect.cpp" line="49"/>
         <source>Gate</source>
-        <translation>게이트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="50"/>
@@ -1595,7 +1592,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/core/EffectChain.cpp" line="39"/>
         <source>Effects enabled</source>
-        <translation>효과 활성화됨</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1603,12 +1600,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/widgets/EffectRackView.cpp" line="44"/>
         <source>EFFECTS CHAIN</source>
-        <translation>효과 체인</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectRackView.cpp" line="61"/>
         <source>Add effect</source>
-        <translation>효과 추가</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1616,23 +1613,23 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/Forms/EffectSelectDialog.ui" line="14"/>
         <source>Add effect</source>
-        <translation>효과 추가</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/EffectSelectDialog.cpp" line="74"/>
         <location filename="../../src/gui/EffectSelectDialog.cpp" line="240"/>
         <source>Name</source>
-        <translation>이름</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/EffectSelectDialog.cpp" line="75"/>
         <source>Type</source>
-        <translation>형태</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/EffectSelectDialog.cpp" line="241"/>
         <source>Description</source>
-        <translation>요약</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/EffectSelectDialog.cpp" line="242"/>
@@ -1645,12 +1642,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="59"/>
         <source>Toggles the effect on or off.</source>
-        <translation>효과를 켜거나 끕니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="61"/>
         <source>On/Off</source>
-        <translation>켬/끔</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="65"/>
@@ -1685,12 +1682,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="86"/>
         <source>GATE</source>
-        <translation>게이트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="89"/>
         <source>Gate:</source>
-        <translation>게이트:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="90"/>
@@ -1700,7 +1697,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="99"/>
         <source>Controls</source>
-        <translation>컨트롤</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="126"/>
@@ -1722,17 +1719,17 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="249"/>
         <source>Move &amp;up</source>
-        <translation>위로 이동(&amp;U)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="252"/>
         <source>Move &amp;down</source>
-        <translation>아래로 이동(&amp;D)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="256"/>
         <source>&amp;Remove this plugin</source>
-        <translation>플러그인 제거(&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1770,7 +1767,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="102"/>
         <source>Modulation</source>
-        <translation>변조</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="110"/>
@@ -1795,7 +1792,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="116"/>
         <source>LFO Wave Shape</source>
-        <translation>LFO 파형</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="117"/>
@@ -1860,12 +1857,12 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="129"/>
         <source>DEC</source>
-        <translation>감쇄</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="131"/>
         <source>Decay:</source>
-        <translation>감쇄:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="133"/>
@@ -1947,12 +1944,12 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="199"/>
         <source>LFO speed:</source>
-        <translation>LFO 속도:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="201"/>
         <source>Use this knob for setting speed of the current LFO. The bigger this value the faster the LFO oscillates and the faster will be your effect.</source>
-        <translation> 이 노브를 사용하여 LFO의 속도를 설정합니다. 값이 클수록 LFO 진동이 빨라지게 됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="211"/>
@@ -1962,22 +1959,22 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="224"/>
         <source>Click here for a sine-wave.</source>
-        <translation>클릭하여 사인파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="233"/>
         <source>Click here for a triangle-wave.</source>
-        <translation>클릭하여 삼각파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="242"/>
         <source>Click here for a saw-wave for current.</source>
-        <translation>클릭하여 톱니파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="251"/>
         <source>Click here for a square-wave.</source>
-        <translation>클릭하여 사각파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="260"/>
@@ -1987,12 +1984,12 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="274"/>
         <source>Click here for random wave.</source>
-        <translation>클릭하여 무작위 파형을 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="284"/>
         <source>FREQ x 100</source>
-        <translation>주파수 x 100</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="288"/>
@@ -2040,12 +2037,12 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="37"/>
         <source>Input gain</source>
-        <translation>입력 이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="38"/>
         <source>Output gain</source>
-        <translation>출력 이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="39"/>
@@ -2240,12 +2237,12 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="77"/>
         <source>Analyse IN</source>
-        <translation>입력 신호 분석</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="78"/>
         <source>Analyse OUT</source>
-        <translation>출력 신호 분석</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2300,12 +2297,12 @@ Right clicking will bring up a context menu where you can change the order in wh
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="88"/>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="100"/>
         <source>Gain</source>
-        <translation>이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="85"/>
         <source>Out Gain</source>
-        <translation>출력 이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="111"/>
@@ -2315,17 +2312,17 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="111"/>
         <source> Octave</source>
-        <translation>옥타브</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="112"/>
         <source>Resonance : </source>
-        <translation>공명:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="118"/>
         <source>Frequency:</source>
-        <translation>주파수:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="200"/>
@@ -2343,18 +2340,18 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="132"/>
         <source>Reso: </source>
-        <translation>공명:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="136"/>
         <source>BW: </source>
-        <translation>대역폭:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="148"/>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="151"/>
         <source>Freq: </source>
-        <translation>주파수:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2362,7 +2359,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="26"/>
         <source>Export project</source>
-        <translation>프로젝트 내보내기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="32"/>
@@ -2372,142 +2369,142 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="39"/>
         <source>Export between loop markers</source>
-        <translation>반복 마커 사이 구간만 내보내기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="48"/>
         <source>File format settings</source>
-        <translation>파일 형식 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="54"/>
         <source>File format:</source>
-        <translation>파일 형식:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="79"/>
         <source>Sampling rate:</source>
-        <translation>샘플 레이트:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="87"/>
         <source>44100 Hz</source>
-        <translation>44100 Hz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="92"/>
         <source>48000 Hz</source>
-        <translation>48000 Hz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="97"/>
         <source>88200 Hz</source>
-        <translation>88200 Hz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="102"/>
         <source>96000 Hz</source>
-        <translation>96000 Hz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="107"/>
         <source>192000 Hz</source>
-        <translation>192000 Hz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="133"/>
         <source>Bit depth:</source>
-        <translation>비트 깊이:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="144"/>
         <source>16 Bit integer</source>
-        <translation>16비트 정수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="149"/>
         <source>24 Bit integer</source>
-        <translation>24비트 정수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="154"/>
         <source>32 Bit float</source>
-        <translation>32비트 실수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="180"/>
         <source>Stereo mode:</source>
-        <translation>스테레오 모드:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="191"/>
         <source>Mono</source>
-        <translation>모노</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="196"/>
         <source>Stereo</source>
-        <translation>스테레오</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="201"/>
         <source>Joint stereo</source>
-        <translation>통합 스테레오</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="227"/>
         <source>Compression level:</source>
-        <translation>압축률:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="259"/>
         <source>Bitrate:</source>
-        <translation>비트 레이트:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="270"/>
         <source>64 KBit/s</source>
-        <translation>64 KBit/s</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="275"/>
         <source>128 KBit/s</source>
-        <translation>128 KBit/s</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="280"/>
         <source>160 KBit/s</source>
-        <translation>160 KBit/s</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="285"/>
         <source>192 KBit/s</source>
-        <translation>192 KBit/s</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="290"/>
         <source>256 KBit/s</source>
-        <translation>256 KBit/s</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="295"/>
         <source>320 KBit/s</source>
-        <translation>320 KBit/s</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="303"/>
         <source>Use variable bitrate</source>
-        <translation>가변 비트레이트 사용</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="329"/>
         <source>Quality settings</source>
-        <translation>품질 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="335"/>
         <source>Interpolation:</source>
-        <translation>보간법:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="346"/>
@@ -2532,79 +2529,78 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="369"/>
         <source>Oversampling:</source>
-        <translation>오버샘플링:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="377"/>
         <source>1x (None)</source>
-        <translation>1x (사용하지 않음)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="382"/>
         <source>2x</source>
-        <translation>2x</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="387"/>
         <source>4x</source>
-        <translation>4x</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="392"/>
         <source>8x</source>
-        <translation>8x</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="433"/>
         <source>Start</source>
-        <translation>시작</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="440"/>
         <source>Cancel</source>
-        <translation>취소</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="46"/>
         <source>Could not open file</source>
-        <translation>파일을 열 수 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="47"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
-        <translation>파일 %1을(를) 쓰기 위하여 열 수 없습니다.
-경로에 파일이 존재하고 파일에 쓸 수 있는 권한이 있는지 확인 후 다시 시도하시기 바랍니다!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="47"/>
         <source>Export project to %1</source>
-        <translation>%1(으)로 프로젝트 내보내기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="87"/>
         <source>( Fastest - biggest )</source>
-        <translation>( 가장 빠르게 - 용량 가장 큼 )</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="88"/>
         <source>( Slowest - smallest )</source>
-        <translation>( 가장 느리게 - 용량 가장 작음 )</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="261"/>
         <source>Error</source>
-        <translation>오류</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="262"/>
         <source>Error while determining file-encoder device. Please try to choose a different output format.</source>
-        <translation>파일 인코더를 결정하는 중 오류가 발생하였습니다. 다른 포맷을 선택하여 다시 시도해 보세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="293"/>
         <source>Rendering: %1%</source>
-        <translation>렌더링: %1%</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2613,7 +2609,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/widgets/Fader.cpp" line="222"/>
         <location filename="../../src/gui/widgets/Fader.cpp" line="232"/>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation>%1부터 %2까지의 값을 입력하세요:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2621,17 +2617,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="75"/>
         <source>Browser</source>
-        <translation>탐색기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="85"/>
         <source>Search</source>
-        <translation>검색</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="95"/>
         <source>Refresh list</source>
-        <translation>목록 새로고침</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2644,27 +2640,27 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="362"/>
         <source>Open in new instrument-track/Song Editor</source>
-        <translation>새로운 악기 트랙이나 노래 편집기에서 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="366"/>
         <source>Open in new instrument-track/B+B Editor</source>
-        <translation>새로운 악기 트랙이나 비트/베이스 라인 편집기에서 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="417"/>
         <source>Loading sample</source>
-        <translation>샘플을 로딩하는 중</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="418"/>
         <source>Please wait, loading sample for preview...</source>
-        <translation>미리보기를 위하여 샘플을 로딩하는 중입니다. 잠시 기다려 주세요...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="442"/>
         <source>Error</source>
-        <translation>오류</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="443"/>
@@ -2674,7 +2670,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="444"/>
         <source>file</source>
-        <translation>파일</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="773"/>
@@ -2692,12 +2688,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="38"/>
         <source>Lfo Frequency</source>
-        <translation>LFO 주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="39"/>
         <source>Seconds</source>
-        <translation>초</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="40"/>
@@ -2707,12 +2703,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="41"/>
         <source>Noise</source>
-        <translation>잡음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="42"/>
         <source>Invert</source>
-        <translation>파형 반전</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2750,7 +2746,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="68"/>
         <source>FDBK</source>
-        <translation>피드백</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="69"/>
@@ -2760,7 +2756,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="75"/>
         <source>NOISE</source>
-        <translation>잡음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="76"/>
@@ -2770,7 +2766,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="78"/>
         <source>Invert</source>
-        <translation>파형 반전</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3141,37 +3137,32 @@ In order to route the channel to another channel, select the FX channel and clic
 
 You can remove and move FX channels in the context menu, which is accessed by right-clicking the FX channel.
 </source>
-        <translation>FX 채널은 한 개 이상의 악기 트랙으로부터 사운드를 입력받습니다.
-한 채널에서 여러 다른 채널로 사운드를 보낼 수 있습니다. LMMS는 FX 채널 간 무한 루프를 생성하는 것을 자동으로 방지합니다.
-한 채널의 출력을 다른 채널로 보내려면 출력을 내보낼 FX 채널을 선택한 뒤 대상 채널의 &quot;send&quot; 버튼을 선택하시기 바랍니다. &quot;send&quot; 버튼 아래에 있는 노브를 통하여 보내질 신호의 레벨을 조절할 수 있습니다.
-
-FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널을 제거하거나 이동할 수 있습니다.
-</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="225"/>
         <source>Move &amp;left</source>
-        <translation>왼쪽으로 이동(&amp;L)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="226"/>
         <source>Move &amp;right</source>
-        <translation>오른쪽으로 이동(&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="228"/>
         <source>Rename &amp;channel</source>
-        <translation>채널 이름 바꾸기(&amp;C)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="233"/>
         <source>R&amp;emove channel</source>
-        <translation>채널 제거(&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="236"/>
         <source>Remove &amp;unused channels</source>
-        <translation>사용하지 않는 채널 제거(&amp;U)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3179,29 +3170,29 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="670"/>
         <source>Master</source>
-        <translation>마스터</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="670"/>
         <location filename="../../src/core/FxMixer.cpp" line="785"/>
         <location filename="../../src/core/FxMixer.cpp" line="787"/>
         <source>FX %1</source>
-        <translation>FX %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="671"/>
         <source>Volume</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="672"/>
         <source>Mute</source>
-        <translation>음소거</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="673"/>
         <source>Solo</source>
-        <translation>독주</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3209,32 +3200,32 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="68"/>
         <source>FX-Mixer</source>
-        <translation>FX-믹서</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="281"/>
         <source>FX Fader %1</source>
-        <translation>FX 페이더 %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="290"/>
         <source>Mute</source>
-        <translation>음소거</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="298"/>
         <source>Mute this FX channel</source>
-        <translation>이 채널 음소거</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="300"/>
         <source>Solo</source>
-        <translation>독주</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="310"/>
         <source>Solo FX channel</source>
-        <translation>이 채널 독주</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3243,7 +3234,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
         <location filename="../../src/core/FxMixer.cpp" line="41"/>
         <location filename="../../src/core/FxMixer.cpp" line="56"/>
         <source>Amount to send from channel %1 to channel %2</source>
-        <translation>채널 %1에서 채널 %2(으)로 보낼 양</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3251,17 +3242,17 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="84"/>
         <source>Bank</source>
-        <translation>뱅크</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="85"/>
         <source>Patch</source>
-        <translation>패치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="86"/>
         <source>Gain</source>
-        <translation>이득</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3269,17 +3260,17 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="941"/>
         <source>Open other GIG file</source>
-        <translation>다른 GIG 파일 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="943"/>
         <source>Click here to open another GIG file</source>
-        <translation>클릭하여 다른 GIG 파일 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="955"/>
         <source>Choose the patch</source>
-        <translation>패치 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="957"/>
@@ -3305,7 +3296,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="980"/>
         <source>Gain</source>
-        <translation>이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="982"/>
@@ -3315,12 +3306,12 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1062"/>
         <source>Open GIG file</source>
-        <translation>GIG 파일 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1066"/>
         <source>GIG Files (*.gig)</source>
-        <translation>GIG 파일 (*.gig)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3328,52 +3319,52 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="66"/>
         <source>Working directory</source>
-        <translation>작업 경로</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="67"/>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
-        <translation>LMMS 작업 경로 %1이(가) 존재하지 않습니다. 지금 만드시겠습니까? 나중에 편집 -&gt; 설정에서 변경할 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="124"/>
         <source>Preparing UI</source>
-        <translation>UI 준비</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="131"/>
         <source>Preparing song editor</source>
-        <translation>노래 편집기 준비</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="135"/>
         <source>Preparing mixer</source>
-        <translation>믹서 준비</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="139"/>
         <source>Preparing controller rack</source>
-        <translation>컨트롤러 랙 준비</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="143"/>
         <source>Preparing project notes</source>
-        <translation>프로젝트 노트 준비</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="147"/>
         <source>Preparing beat/bassline editor</source>
-        <translation>비트/베이스 라인 편집기 준비</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="151"/>
         <source>Preparing piano roll</source>
-        <translation>피아노 롤 준비</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="155"/>
         <source>Preparing automation editor</source>
-        <translation>오토메이션 편집기 준비</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3381,17 +3372,17 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="301"/>
         <source>Arpeggio</source>
-        <translation>아르페지오</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="303"/>
         <source>Arpeggio type</source>
-        <translation>아르페지오 형태</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="304"/>
         <source>Arpeggio range</source>
-        <translation>아르페지오 범위</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
@@ -3411,37 +3402,37 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
         <source>Arpeggio time</source>
-        <translation>아르페지오 시간</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
         <source>Arpeggio gate</source>
-        <translation>아르페지오 게이트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="310"/>
         <source>Arpeggio direction</source>
-        <translation>아르페지오 방향</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="311"/>
         <source>Arpeggio mode</source>
-        <translation>아르페지오 모드</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
         <source>Up</source>
-        <translation>위</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
         <source>Down</source>
-        <translation>아래</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
         <source>Up and down</source>
-        <translation>위와 아래</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="322"/>
@@ -3451,7 +3442,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="323"/>
         <source>Random</source>
-        <translation>무작위</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
@@ -3461,12 +3452,12 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="327"/>
         <source>Sort</source>
-        <translation>정렬</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="328"/>
         <source>Sync</source>
-        <translation>동기화</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3474,7 +3465,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="100"/>
         <source>ARPEGGIO</source>
-        <translation>아르페지오</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="122"/>
@@ -3484,22 +3475,22 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="132"/>
         <source>RANGE</source>
-        <translation>범위</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="133"/>
         <source>Arpeggio range:</source>
-        <translation>아르페지오 범위:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="133"/>
         <source>octave(s)</source>
-        <translation>옥타브</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="135"/>
         <source>Use this knob for setting the arpeggio range in octaves. The selected arpeggio will be played within specified number of octaves.</source>
-        <translation>이 노브를 사용하여 아르페지오 범위를 옥타브 단위로 설정합니다. 아르페지오는 설정된 옥타브 범위 내에서 재생됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="140"/>
@@ -3536,7 +3527,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="159"/>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="174"/>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="152"/>
@@ -3561,32 +3552,32 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="165"/>
         <source>TIME</source>
-        <translation>시간</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="166"/>
         <source>Arpeggio time:</source>
-        <translation>아르페지오 시간:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="166"/>
         <source>ms</source>
-        <translation>ms</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="168"/>
         <source>Use this knob for setting the arpeggio time in milliseconds. The arpeggio time specifies how long each arpeggio-tone should be played.</source>
-        <translation>이 노브를 사용하여 아르페지오 시간을 밀리초 단위로 지정합니다. 아르페지오 시간은 각각의 아르페지오 음이 재생되는 길이를 결정합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="173"/>
         <source>GATE</source>
-        <translation>게이트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="174"/>
         <source>Arpeggio gate:</source>
-        <translation>아르페지오 게이트:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="176"/>
@@ -3596,17 +3587,17 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="182"/>
         <source>Chord:</source>
-        <translation>코드:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="185"/>
         <source>Direction:</source>
-        <translation>방향:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="188"/>
         <source>Mode:</source>
-        <translation>모드:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3614,7 +3605,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="38"/>
         <source>octave</source>
-        <translation>옥타브</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="39"/>
@@ -3950,12 +3941,12 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="112"/>
         <source>Harmonic minor</source>
-        <translation>화성 단음계</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="113"/>
         <source>Melodic minor</source>
-        <translation>가락 단음계</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="114"/>
@@ -4108,27 +4099,27 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="56"/>
         <source>Chord:</source>
-        <translation>코드:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="59"/>
         <source>RANGE</source>
-        <translation>범위</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="60"/>
         <source>Chord range:</source>
-        <translation>코드 범위:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="60"/>
         <source>octave(s)</source>
-        <translation>옥타브</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="62"/>
         <source>Use this knob for setting the chord range in octaves. The selected chord will be played within specified number of octaves.</source>
-        <translation>이 노브를 사용하여 코드 범위를 옥타브 단위로 설정합니다. 코드는 설정된 옥타브만큼 재생됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4136,29 +4127,29 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="52"/>
         <source>ENABLE MIDI INPUT</source>
-        <translation>MIDI 입력 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="61"/>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="88"/>
         <source>CHANNEL</source>
-        <translation>채널</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="68"/>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="95"/>
         <source>VELOCITY</source>
-        <translation>벨로시티</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="80"/>
         <source>ENABLE MIDI OUTPUT</source>
-        <translation>MIDI 출력 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="100"/>
         <source>PROGRAM</source>
-        <translation>프로그램</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="107"/>
@@ -4196,12 +4187,12 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="212"/>
         <source>MASTER PITCH</source>
-        <translation>마스터 피치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="216"/>
         <source>Enables the use of Master Pitch</source>
-        <translation>마스터 피치 사용</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4209,48 +4200,48 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="47"/>
         <source>VOLUME</source>
-        <translation>볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="48"/>
         <source>Volume</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="51"/>
         <source>CUTOFF</source>
-        <translation>컷오프</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="52"/>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="65"/>
         <source>Cutoff frequency</source>
-        <translation>차단 주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="53"/>
         <source>RESO</source>
-        <translation>공명</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="54"/>
         <source>Resonance</source>
-        <translation>공명</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="61"/>
         <source>Envelopes/LFOs</source>
-        <translation>엔벨로프/LFO</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="64"/>
         <source>Filter type</source>
-        <translation>필터 종류</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="66"/>
         <source>Q/Resonance</source>
-        <translation>Q/공명</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="82"/>
@@ -4368,7 +4359,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="55"/>
         <source>TARGET</source>
-        <translation>대상</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="61"/>
@@ -4378,7 +4369,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="84"/>
         <source>FILTER</source>
-        <translation>필터</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="95"/>
@@ -4388,17 +4379,17 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="101"/>
         <source>FREQ</source>
-        <translation>주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="103"/>
         <source>cutoff frequency:</source>
-        <translation>차단 주파수:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="103"/>
         <source>Hz</source>
-        <translation>Hz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="105"/>
@@ -4408,12 +4399,12 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="114"/>
         <source>RESO</source>
-        <translation>공명</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="116"/>
         <source>Resonance:</source>
-        <translation>공명:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="118"/>
@@ -4423,7 +4414,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="123"/>
         <source>Envelopes, LFOs and filters are not supported by the current instrument.</source>
-        <translation>이 악기는 엔벨로프, LFO, 필터를 지원하지 않습니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4431,13 +4422,13 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="78"/>
         <source>With this knob you can set the volume of the opened channel.</source>
-        <translation>이 노브를 이용하여 트랙의 볼륨을 조절할 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="93"/>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="103"/>
         <source>unnamed_track</source>
-        <translation>이름 없는 트랙</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="100"/>
@@ -4447,38 +4438,38 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="101"/>
         <source>Volume</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="102"/>
         <source>Panning</source>
-        <translation>패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="104"/>
         <source>Pitch</source>
-        <translation>피치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="105"/>
         <source>Pitch range</source>
-        <translation>피치 범위</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="106"/>
         <source>FX channel</source>
-        <translation>FX 채널</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="107"/>
         <source>Master Pitch</source>
-        <translation>마스터 피치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="127"/>
         <location filename="../../plugins/vestige/vestige.cpp" line="251"/>
         <source>Default preset</source>
-        <translation>기본 프리셋</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4486,32 +4477,32 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="899"/>
         <source>Volume</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="902"/>
         <source>Volume:</source>
-        <translation>볼륨:</translation>
+        <translation>ווליום:</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="904"/>
         <source>VOL</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="909"/>
         <source>Panning</source>
-        <translation>패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="911"/>
         <source>Panning:</source>
-        <translation>패닝:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="913"/>
         <source>PAN</source>
-        <translation>패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="916"/>
@@ -4521,17 +4512,17 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="948"/>
         <source>Input</source>
-        <translation>입력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="949"/>
         <source>Output</source>
-        <translation>출력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1235"/>
         <source>FX %1: %2</source>
-        <translation>FX %1: %2</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4539,97 +4530,97 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1311"/>
         <source>GENERAL SETTINGS</source>
-        <translation>일반 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1340"/>
         <source>Use these controls to view and edit the next/previous track in the song editor.</source>
-        <translation>이 컨트롤을 이용하여 노래 편집기의 이전/다음 트랙을 보고 편집합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1359"/>
         <source>Instrument volume</source>
-        <translation>악기 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1361"/>
         <source>Volume:</source>
-        <translation>볼륨:</translation>
+        <translation>ווליום:</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1367"/>
         <source>VOL</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1374"/>
         <source>Panning</source>
-        <translation>패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1375"/>
         <source>Panning:</source>
-        <translation>패닝:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1380"/>
         <source>PAN</source>
-        <translation>패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1390"/>
         <source>Pitch</source>
-        <translation>피치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1391"/>
         <source>Pitch:</source>
-        <translation>피치:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1391"/>
         <source>cents</source>
-        <translation>센트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1396"/>
         <source>PITCH</source>
-        <translation>피치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1403"/>
         <source>Pitch range (semitones)</source>
-        <translation>피치 범위(반음)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1408"/>
         <source>RANGE</source>
-        <translation>범위</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1418"/>
         <source>FX channel</source>
-        <translation>FX 채널</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1423"/>
         <source>FX</source>
-        <translation>FX</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1433"/>
         <source>Save current instrument track settings in a preset file</source>
-        <translation>프리셋 파일에 현재 악기 트랙의 설정 저장</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1435"/>
         <source>Click here, if you want to save current instrument track settings in a preset file. Later you can load this preset by double-clicking it in the preset-browser.</source>
-        <translation>클릭하여 설정을 프리셋 파일에 저장합니다. 나중에 프리셋 탐색기에서 더블클릭하여 다시 불러올 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1440"/>
         <source>SAVE</source>
-        <translation>저장</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1476"/>
@@ -4649,7 +4640,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1479"/>
         <source>MIDI settings</source>
-        <translation>MIDI 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1480"/>
@@ -4659,12 +4650,12 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1598"/>
         <source>Save preset</source>
-        <translation>프리셋 저장</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1598"/>
         <source>XML preset file (*.xpf)</source>
-        <translation>XML 프리셋 파일 (*.xpf)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1655"/>
@@ -4677,22 +4668,22 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="532"/>
         <source>Set linear</source>
-        <translation>선형으로 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="532"/>
         <source>Set logarithmic</source>
-        <translation>로그스케일로 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="775"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation>-96.0 dBFS부터 6.0 dBFS까지의 값을 입력하세요:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="792"/>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation>%1부터 %2까지의 값을 입력하세요:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4700,7 +4691,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/core/LadspaControl.cpp" line="37"/>
         <source>Link channels</source>
-        <translation>채널 링크</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4708,12 +4699,12 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaControlDialog.cpp" line="56"/>
         <source>Link Channels</source>
-        <translation>채널 링크</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaControlDialog.cpp" line="97"/>
         <source>Channel </source>
-        <translation>채널</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4721,17 +4712,17 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/LadspaControlView.cpp" line="52"/>
         <source>Link channels</source>
-        <translation>채널 링크</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/LadspaControlView.cpp" line="103"/>
         <source>Value:</source>
-        <translation>값:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/LadspaControlView.cpp" line="104"/>
         <source>Sorry, no help available.</source>
-        <translation>죄송합니다. 도움말을 사용할 수 없습니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4739,7 +4730,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaEffect.cpp" line="79"/>
         <source>Unknown LADSPA plugin %1 requested.</source>
-        <translation>알 수 없는 LADSPA 플러그인 %1이(가) 요청되었습니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4747,7 +4738,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="176"/>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation>%1부터 %2까지의 값을 입력하세요:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4757,24 +4748,24 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="61"/>
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="64"/>
         <source>Previous</source>
-        <translation>이전</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="35"/>
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="62"/>
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="65"/>
         <source>Next</source>
-        <translation>다음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="89"/>
         <source>Previous (%1)</source>
-        <translation>이전 (%1)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="90"/>
         <source>Next (%1)</source>
-        <translation>다음 (%1)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4782,7 +4773,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/core/LfoController.cpp" line="36"/>
         <source>LFO Controller</source>
-        <translation>LFO 컨트롤러</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="37"/>
@@ -4802,12 +4793,12 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/core/LfoController.cpp" line="40"/>
         <source>Oscillator phase</source>
-        <translation>오실레이터 위상</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="42"/>
         <source>Oscillator waveform</source>
-        <translation>오실레이터 파형</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="43"/>
@@ -4820,12 +4811,12 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="61"/>
         <source>LFO</source>
-        <translation>LFO</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="69"/>
         <source>LFO Controller</source>
-        <translation>LFO 컨트롤러</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="72"/>
@@ -4855,7 +4846,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="83"/>
         <source>Use this knob for setting speed of the LFO. The bigger this value the faster the LFO oscillates and the faster the effect.</source>
-        <translation> 이 노브를 사용하여 LFO의 속도를 설정합니다. 값이 클수록 LFO 진동이 빨라지게 됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="89"/>
@@ -4885,7 +4876,7 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="101"/>
         <source>degrees</source>
-        <translation>도</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="103"/>
@@ -4895,22 +4886,22 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="119"/>
         <source>Click here for a sine-wave.</source>
-        <translation>클릭하여 사인파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="129"/>
         <source>Click here for a triangle-wave.</source>
-        <translation>클릭하여 삼각파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="138"/>
         <source>Click here for a saw-wave.</source>
-        <translation>클릭하여 톱니파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="147"/>
         <source>Click here for a square-wave.</source>
-        <translation>클릭하여 사각파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="157"/>
@@ -4920,19 +4911,18 @@ FX 채널을 오른쪽 클릭하여 나오는 컨텍스트 메뉴에서 채널�
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="166"/>
         <source>Click here for an exponential wave.</source>
-        <translation>클릭하여 지수형 파형을 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="175"/>
         <source>Click here for white-noise.</source>
-        <translation>클릭하여 화이트 노이즈를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="187"/>
         <source>Click here for a user-defined shape.
 Double click to pick a file.</source>
-        <translation>클릭하여 사용자 지정 파형을 선택합니다.
-더블클릭하여 파일을 선택하세요.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4945,17 +4935,17 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/Engine.cpp" line="57"/>
         <source>Initializing data structures</source>
-        <translation>자료 구조 초기화 중</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="68"/>
         <source>Opening audio and midi devices</source>
-        <translation>오디오 장치와 미디 장치를 여는 중</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="74"/>
         <source>Launching mixer threads</source>
-        <translation>믹서 스레드를 시작하는 중</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4963,29 +4953,28 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="507"/>
         <source>Configuration file</source>
-        <translation>설정 파일</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="508"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
-        <translation>설정 파일 분석 중 오류 발생 (행 %1:%2: %3)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="625"/>
         <source>Could not open file</source>
-        <translation>파일을 열 수 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="626"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
-        <translation>파일 %1을(를) 쓰기 위하여 열 수 없습니다.
-경로에 파일이 존재하고 파일에 쓸 수 있는 권한이 있는지 확인 후 다시 시도하시기 바랍니다!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/main.cpp" line="815"/>
         <source>Project recovery</source>
-        <translation>프로젝트 복구</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/main.cpp" line="830"/>
@@ -4997,7 +4986,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/core/main.cpp" line="856"/>
         <location filename="../../src/core/main.cpp" line="861"/>
         <source>Recover</source>
-        <translation>복구</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/main.cpp" line="836"/>
@@ -5009,7 +4998,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/core/main.cpp" line="854"/>
         <location filename="../../src/core/main.cpp" line="863"/>
         <source>Discard</source>
-        <translation>저장하지 않음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/main.cpp" line="839"/>
@@ -5019,52 +5008,52 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="104"/>
         <source>Version %1</source>
-        <translation>버전 %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="122"/>
         <source>Preparing plugin browser</source>
-        <translation>플러그인 탐색기 준비</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="124"/>
         <source>Preparing file browsers</source>
-        <translation>파일 탐색기 준비</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="129"/>
         <source>My Projects</source>
-        <translation>내 프로젝트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="135"/>
         <source>My Samples</source>
-        <translation>내 샘플</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="142"/>
         <source>My Presets</source>
-        <translation>내 사전 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="146"/>
         <source>My Home</source>
-        <translation>내 홈 디렉터리</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="152"/>
         <source>Root directory</source>
-        <translation>최상위 디렉토리</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="156"/>
         <source>Volumes</source>
-        <translation>볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="159"/>
         <source>My Computer</source>
-        <translation>내 컴퓨터</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="178"/>
@@ -5074,62 +5063,62 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="275"/>
         <source>&amp;File</source>
-        <translation>파일(&amp;F)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="277"/>
         <source>&amp;New</source>
-        <translation>새로 만들기(&amp;N)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="281"/>
         <source>New from template</source>
-        <translation>템플릿에서 새 프로젝트 생성</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="289"/>
         <source>&amp;Open...</source>
-        <translation>열기(&amp;O)...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="295"/>
         <source>&amp;Recently Opened Projects</source>
-        <translation>최근에 사용한 프로젝트(&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="302"/>
         <source>&amp;Save</source>
-        <translation>저장(&amp;S)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="306"/>
         <source>Save &amp;As...</source>
-        <translation>다른 이름으로 저장(&amp;A)...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="310"/>
         <source>Save as New &amp;Version</source>
-        <translation>새로운 버전으로 저장(&amp;V)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="314"/>
         <source>Save as default template</source>
-        <translation>기본 템플릿으로 저장</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="319"/>
         <source>Import...</source>
-        <translation>가져오기...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="323"/>
         <source>E&amp;xport...</source>
-        <translation>내보내기(&amp;X)...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="328"/>
         <source>E&amp;xport Tracks...</source>
-        <translation>트랙 내보내기(&amp;X)...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="334"/>
@@ -5139,52 +5128,52 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="343"/>
         <source>&amp;Quit</source>
-        <translation>끝내기(&amp;Q)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="349"/>
         <source>&amp;Edit</source>
-        <translation>편집(&amp;E)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="351"/>
         <source>Undo</source>
-        <translation>실행 취소</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="355"/>
         <source>Redo</source>
-        <translation>다시 실행</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="370"/>
         <source>Settings</source>
-        <translation>설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="375"/>
         <source>&amp;View</source>
-        <translation>보기(&amp;V)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="391"/>
         <source>&amp;Tools</source>
-        <translation>도구(&amp;T)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="399"/>
         <source>&amp;Help</source>
-        <translation>도움말(&amp;H)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="404"/>
         <source>Online Help</source>
-        <translation>온라인 도움말</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="410"/>
         <source>Help</source>
-        <translation>도움말</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="414"/>
@@ -5194,37 +5183,37 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="421"/>
         <source>About</source>
-        <translation>정보</translation>
+        <translation>אודות</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="427"/>
         <source>Create new project</source>
-        <translation>새 프로젝트 생성</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="433"/>
         <source>Create new project from template</source>
-        <translation>템플릿에서 새 프로젝트 생성</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="441"/>
         <source>Open existing project</source>
-        <translation>기존 프로젝트 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="448"/>
         <source>Recently opened projects</source>
-        <translation>최근에 사용한 프로젝트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="455"/>
         <source>Save current project</source>
-        <translation>현재 프로젝트 저장</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="462"/>
         <source>Export current project</source>
-        <translation>현재 프로젝트 내보내기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="469"/>
@@ -5234,12 +5223,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="475"/>
         <source>Toggle metronome</source>
-        <translation>메트로놈 토글</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="495"/>
         <source>Show/hide Song-Editor</source>
-        <translation>노래 편집기 보이기/숨기기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="500"/>
@@ -5249,7 +5238,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="510"/>
         <source>Show/hide Beat+Bassline Editor</source>
-        <translation>비트/베이스 라인 편집기 보이기/숨기기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="516"/>
@@ -5259,7 +5248,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="526"/>
         <source>Show/hide Piano-Roll</source>
-        <translation>피아노-롤 보이기/숨기기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="532"/>
@@ -5269,7 +5258,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="539"/>
         <source>Show/hide Automation Editor</source>
-        <translation>오토메이션 편집기 보이기/숨기기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="546"/>
@@ -5279,7 +5268,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="554"/>
         <source>Show/hide FX Mixer</source>
-        <translation>FX 믹서 보이기/숨기기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="559"/>
@@ -5289,7 +5278,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="566"/>
         <source>Show/hide project notes</source>
-        <translation>프로젝트 노트 보이기/숨기기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="572"/>
@@ -5299,12 +5288,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="578"/>
         <source>Show/hide controller rack</source>
-        <translation>컨트롤러 랙 보이기/숨기기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="678"/>
         <source>Untitled</source>
-        <translation>제목 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="693"/>
@@ -5314,72 +5303,72 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="696"/>
         <source>LMMS %1</source>
-        <translation>LMMS %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="715"/>
         <source>Recovered project not saved</source>
-        <translation>복구된 프로젝트가 저장되지 않음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="716"/>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
-        <translation>이 프로젝트는 이전 세션으로부터 복구되었지만 아직 저장되지 않았습니다. 저장하지 않을 경우 지금까지의 작업을 잃게 될 것입니다. 지금 저장하시겠습니까?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="721"/>
         <source>Project not saved</source>
-        <translation>프로젝트 저장되지 않음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="722"/>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
-        <translation>이 프로젝트는 마지막 저장 이후 수정되었습니다. 지금 저장하시겠습니까?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="880"/>
         <source>Open Project</source>
-        <translation>프로젝트 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="880"/>
         <source>LMMS (*.mmp *.mmpz)</source>
-        <translation>LMMS (*.mmp *.mmpz)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="972"/>
         <source>Save Project</source>
-        <translation>프로젝트 저장</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="973"/>
         <source>LMMS Project</source>
-        <translation>LMMS 프로젝트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="974"/>
         <source>LMMS Project Template</source>
-        <translation>LMMS 프로젝트 템플릿</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1004"/>
         <source>Save project template</source>
-        <translation>프로젝트 템플릿 저장</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1051"/>
         <source>Overwrite default template?</source>
-        <translation>기본 템플릿을 덮어쓰시겠습니까?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1052"/>
         <source>This will overwrite your current default template.</source>
-        <translation>이 작업은 현재의 기본 템플릿을 덮어씁니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1085"/>
         <source>Help not available</source>
-        <translation>도움말 사용 불가</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1086"/>
@@ -5390,47 +5379,47 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1210"/>
         <source>Song Editor</source>
-        <translation>노래 편집기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1214"/>
         <source>Beat+Bassline Editor</source>
-        <translation>비트/베이스 라인 편집기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1218"/>
         <source>Piano Roll</source>
-        <translation>피아노 롤</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1222"/>
         <source>Automation Editor</source>
-        <translation>오토메이션 편집기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1227"/>
         <source>FX Mixer</source>
-        <translation>FX 믹서</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1231"/>
         <source>Project Notes</source>
-        <translation>프로젝트 노트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1235"/>
         <source>Controller Rack</source>
-        <translation>컨트롤러 랙</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1246"/>
         <source>Volume as dBFS</source>
-        <translation>볼륨을 dBFS 단위로 표시</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1260"/>
         <source>Smooth scroll</source>
-        <translation>부드러운 스크롤</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1274"/>
@@ -5440,19 +5429,19 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1594"/>
         <source>MIDI File (*.mid)</source>
-        <translation>MIDI 파일(*.mid)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1606"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1663"/>
         <source>untitled</source>
-        <translation>제목 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1610"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1666"/>
         <source>Select file for project-export...</source>
-        <translation>프로젝트를 내보낼 파일 선택...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1635"/>
@@ -5462,47 +5451,47 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1692"/>
         <source>Save project</source>
-        <translation>프로젝트 저장</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1709"/>
         <source>Project saved</source>
-        <translation>프로젝트 저장됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1709"/>
         <source>The project %1 is now saved.</source>
-        <translation>프로젝트 %1이 저장되었습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1716"/>
         <source>Project NOT saved.</source>
-        <translation>프로젝트가 저장되지 않았습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1716"/>
         <source>The project %1 was not saved!</source>
-        <translation>프로젝트 %1이 저장되지 않았습니다!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1755"/>
         <source>Import file</source>
-        <translation>파일 가져오기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1757"/>
         <source>MIDI sequences</source>
-        <translation>MIDI 시퀀스</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1759"/>
         <source>Hydrogen projects</source>
-        <translation>Hydrogen 프로젝트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1761"/>
         <source>All file types</source>
-        <translation>모든 파일</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5522,7 +5511,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="74"/>
         <source>TIME SIG</source>
-        <translation>박자</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5530,12 +5519,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/core/MeterModel.cpp" line="32"/>
         <source>Numerator</source>
-        <translation>분자</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/MeterModel.cpp" line="33"/>
         <source>Denominator</source>
-        <translation>분모</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5543,12 +5532,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/core/midi/MidiController.cpp" line="36"/>
         <source>MIDI Controller</source>
-        <translation>MIDI 컨트롤러</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiController.cpp" line="38"/>
         <source>unnamed_midi_controller</source>
-        <translation>이름 없는 MIDI 컨트롤러</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5557,7 +5546,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="104"/>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="116"/>
         <source>Setup incomplete</source>
-        <translation>설정 불완전</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="105"/>
@@ -5572,7 +5561,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="375"/>
         <source>Track</source>
-        <translation>트랙</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5581,13 +5570,13 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/core/midi/MidiJack.cpp" line="56"/>
         <source>JACK server down</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (title)</extracomment>
-        <translation>JAK 서버 종료</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiJack.cpp" line="58"/>
         <source>The JACK server seems to be shuted down.</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
-        <translation>JACK 서버가 종료된 것 같습니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5595,32 +5584,32 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="46"/>
         <source>Input channel</source>
-        <translation>입력 채널</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="47"/>
         <source>Output channel</source>
-        <translation>출력 채널</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="48"/>
         <source>Input controller</source>
-        <translation>입력 컨트롤러</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="49"/>
         <source>Output controller</source>
-        <translation>출력 컨트롤러</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="50"/>
         <source>Fixed input velocity</source>
-        <translation>입력 벨로시티 고정값</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="51"/>
         <source>Fixed output velocity</source>
-        <translation>출력 벨로시티 고정값</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="52"/>
@@ -5630,7 +5619,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="53"/>
         <source>Output MIDI program</source>
-        <translation>출력 MIDI 프로그램</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="54"/>
@@ -5653,7 +5642,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="46"/>
         <source>DEVICE</source>
-        <translation>장치</translation>
+        <translation>התקן</translation>
     </message>
 </context>
 <context>
@@ -5661,12 +5650,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="831"/>
         <source>Osc 1 Volume</source>
-        <translation>오실레이터 1 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="832"/>
         <source>Osc 1 Panning</source>
-        <translation>오실레이터 1 패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="833"/>
@@ -5691,7 +5680,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="837"/>
         <source>Osc 1 Pulse width</source>
-        <translation>오실레이터 1 펄스 폭</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="838"/>
@@ -5706,12 +5695,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="841"/>
         <source>Osc 2 Volume</source>
-        <translation>오실레이터 2 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="842"/>
         <source>Osc 2 Panning</source>
-        <translation>오실레이터 2 패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="843"/>
@@ -5736,7 +5725,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="847"/>
         <source>Osc 2 Waveform</source>
-        <translation>오실레이터 2 파형</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="848"/>
@@ -5751,12 +5740,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="851"/>
         <source>Osc 3 Volume</source>
-        <translation>오실레이터 3 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="852"/>
         <source>Osc 3 Panning</source>
-        <translation>오실레이터 3 패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="853"/>
@@ -5776,12 +5765,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="856"/>
         <source>Osc 3 Waveform 1</source>
-        <translation>오실레이터 3 파형 1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="857"/>
         <source>Osc 3 Waveform 2</source>
-        <translation>오실레이터 3 파형 2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="858"/>
@@ -5796,7 +5785,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="861"/>
         <source>LFO 1 Waveform</source>
-        <translation>LFO 1 파형</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="862"/>
@@ -5816,7 +5805,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="866"/>
         <source>LFO 2 Waveform</source>
-        <translation>LFO 2 파형</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="867"/>
@@ -6137,7 +6126,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/monstro/Monstro.h" line="308"/>
         <location filename="../../plugins/monstro/Monstro.h" line="326"/>
         <source>Sine wave</source>
-        <translation>사인파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="309"/>
@@ -6184,27 +6173,27 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="317"/>
         <source>White noise</source>
-        <translation>화이트 노이즈</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="318"/>
         <source>Digital Triangle wave</source>
-        <translation>삼각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="319"/>
         <source>Digital Saw wave</source>
-        <translation>톱니파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="320"/>
         <source>Digital Ramp wave</source>
-        <translation>역톱니파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="321"/>
         <source>Digital Square wave</source>
-        <translation>사각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="322"/>
@@ -6214,12 +6203,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="327"/>
         <source>Triangle wave</source>
-        <translation>삼각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="328"/>
         <source>Saw wave</source>
-        <translation>톱니파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="329"/>
@@ -6229,7 +6218,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="330"/>
         <source>Square wave</source>
-        <translation>사각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="331"/>
@@ -6244,7 +6233,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="335"/>
         <source>Random</source>
-        <translation>무작위</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="336"/>
@@ -6285,14 +6274,14 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
         <location filename="../../plugins/monstro/Monstro.cpp" line="1673"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1689"/>
         <source>Volume</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1661"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1674"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1690"/>
         <source>Panning</source>
-        <translation>패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1662"/>
@@ -6306,7 +6295,7 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
         <location filename="../../plugins/monstro/Monstro.cpp" line="1675"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1691"/>
         <source> semitones</source>
-        <translation>반음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1663"/>
@@ -6320,7 +6309,7 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
         <location filename="../../plugins/monstro/Monstro.cpp" line="1676"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1677"/>
         <source> cents</source>
-        <translation>센트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1664"/>
@@ -6342,12 +6331,12 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
         <location filename="../../plugins/monstro/Monstro.cpp" line="1714"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1722"/>
         <source> deg</source>
-        <translation>도</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1666"/>
         <source>Pulse width</source>
-        <translation>펄스 폭</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1670"/>
@@ -6396,13 +6385,13 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
         <location filename="../../plugins/monstro/Monstro.cpp" line="1713"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1721"/>
         <source>Rate</source>
-        <translation>비</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1714"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1722"/>
         <source>Phase</source>
-        <translation>위상</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1724"/>
@@ -6448,17 +6437,17 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1751"/>
         <source>Modulate amplitude of Osc3 with Osc2</source>
-        <translation>오실레이터 2로 오실레이터 3의 진폭 변조</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1757"/>
         <source>Modulate frequency of Osc3 with Osc2</source>
-        <translation>오실레이터 2로 오실레이터 3의 주파수 변조</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1763"/>
         <source>Modulate phase of Osc3 with Osc2</source>
-        <translation>오실레이터 2로 오실레이터 3의 위상 변조</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1779"/>
@@ -6520,7 +6509,7 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1826"/>
         <source>Choose waveform for oscillator 2. </source>
-        <translation>오실레이터 2에 사용할 파형을 선택하세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1827"/>
@@ -6691,7 +6680,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="84"/>
         <source>Length</source>
-        <translation>길이</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="85"/>
@@ -6824,12 +6813,12 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="537"/>
         <source>Master volume</source>
-        <translation>마스터 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="538"/>
         <source>Vibrato</source>
-        <translation>비브라토</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6840,7 +6829,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
         <location filename="../../plugins/nes/Nes.cpp" line="824"/>
         <location filename="../../plugins/nes/Nes.cpp" line="829"/>
         <source>Volume</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="763"/>
@@ -6859,12 +6848,12 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="766"/>
         <source>Enable channel 1</source>
-        <translation>채널 1 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="767"/>
         <source>Enable envelope 1</source>
-        <translation>엔벨로프 1 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="768"/>
@@ -6915,12 +6904,12 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="797"/>
         <source>Enable channel 2</source>
-        <translation>채널 2 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="798"/>
         <source>Enable envelope 2</source>
-        <translation>엔벨로프 2 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="799"/>
@@ -6935,7 +6924,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="823"/>
         <source>Enable channel 3</source>
-        <translation>채널 3 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="830"/>
@@ -6950,12 +6939,12 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="834"/>
         <source>Enable channel 4</source>
-        <translation>채널 4 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="835"/>
         <source>Enable envelope 4</source>
-        <translation>엔벨로프 4 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="836"/>
@@ -6980,12 +6969,12 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="845"/>
         <source>Master Volume</source>
-        <translation>마스터 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="846"/>
         <source>Vibrato</source>
-        <translation>비브라토</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6993,7 +6982,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="96"/>
         <source>Patch</source>
-        <translation>패치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="97"/>
@@ -7168,7 +7157,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="574"/>
         <source>Osc %1 waveform</source>
-        <translation>오실레이터 %1 파형</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="576"/>
@@ -7239,7 +7228,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="92"/>
         <source>Bank</source>
-        <translation>뱅크</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="98"/>
@@ -7249,22 +7238,22 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="123"/>
         <source>Patch</source>
-        <translation>패치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="128"/>
         <source>Name</source>
-        <translation>이름</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="173"/>
         <source>OK</source>
-        <translation>확인</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="192"/>
         <source>Cancel</source>
-        <translation>취소</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7282,12 +7271,12 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/patman/patman.cpp" line="473"/>
         <source>Loop</source>
-        <translation>루프</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/patman/patman.cpp" line="481"/>
         <source>Loop mode</source>
-        <translation>루프 모드</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/patman/patman.cpp" line="483"/>
@@ -7317,12 +7306,12 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/patman/patman.cpp" line="518"/>
         <source>Open patch file</source>
-        <translation>패치 파일 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/patman/patman.cpp" line="522"/>
         <source>Patch-Files (*.pat)</source>
-        <translation>패치 파일 (*.pat)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7330,32 +7319,32 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="675"/>
         <source>Open in piano-roll</source>
-        <translation>피아노-롤에서 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="684"/>
         <source>Clear all notes</source>
-        <translation>전체 음표 지우기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="687"/>
         <source>Reset name</source>
-        <translation>이름 초기화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="690"/>
         <source>Change name</source>
-        <translation>이름 바꾸기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="698"/>
         <source>Add steps</source>
-        <translation>단계 더하기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="700"/>
         <source>Remove steps</source>
-        <translation>단계 제거</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="702"/>
@@ -7391,7 +7380,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/gui/PeakControllerDialog.cpp" line="50"/>
         <source>LFO Controller</source>
-        <translation>LFO 컨트롤러</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7492,7 +7481,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="46"/>
         <source>Abs Value</source>
-        <translation>절댓값</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="47"/>
@@ -7505,12 +7494,12 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="195"/>
         <source>Note Velocity</source>
-        <translation>음표 벨로시티</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="196"/>
         <source>Note Panning</source>
-        <translation>음표 패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="214"/>
@@ -7540,58 +7529,58 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="219"/>
         <source>Select all notes on this key</source>
-        <translation>이 음의 음표 모두 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="356"/>
         <source>Note lock</source>
-        <translation>박자 잠금</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="372"/>
         <source>Last note</source>
-        <translation>마지막 박자</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="399"/>
         <source>No scale</source>
-        <translation>음계 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="414"/>
         <source>No chord</source>
-        <translation>코드 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="472"/>
         <source>Velocity: %1%</source>
-        <translation>벨로시티: %1%</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="481"/>
         <source>Panning: %1% left</source>
-        <translation>패닝: %1% 왼쪽</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="485"/>
         <source>Panning: %1% right</source>
-        <translation>패닝: %1% 오른쪽</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="489"/>
         <source>Panning: center</source>
-        <translation>패닝: 가운데</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="3070"/>
         <source>Please open a pattern by double-clicking on it!</source>
-        <translation>더블클릭하여 패턴을 열어주세요!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="3631"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="3650"/>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation>%1부터 %2까지의 값을 입력하세요:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7599,7 +7588,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4046"/>
         <source>Play/pause current pattern (Space)</source>
-        <translation>현재 패턴 재생/일시정지 (Space)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4047"/>
@@ -7614,12 +7603,12 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4049"/>
         <source>Stop playing of current pattern (Space)</source>
-        <translation>현재 패턴 정지 (Space)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4052"/>
         <source>Click here to play the current pattern. This is useful while editing it. The pattern is automatically looped when its end is reached.</source>
-        <translation>클릭하여 현재 패턴을 재생합니다. 패턴은 자동으로 반복 재생됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4056"/>
@@ -7634,37 +7623,37 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4068"/>
         <source>Click here to stop playback of current pattern.</source>
-        <translation>현재 패턴의 재생을 정지하려면 여기를 클릭하세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4070"/>
         <source>Edit actions</source>
-        <translation>편집 동작</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4074"/>
         <source>Draw mode (Shift+D)</source>
-        <translation>그리기 모드 (Shift+D)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4075"/>
         <source>Erase mode (Shift+E)</source>
-        <translation>지우기 모드 (Shift+E)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4076"/>
         <source>Select mode (Shift+S)</source>
-        <translation>선택 모드 (Shift+S)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4077"/>
         <source>Detune mode (Shift+T)</source>
-        <translation>피치 조절 모드(Shift+T)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4087"/>
         <source>Click here and draw mode will be activated. In this mode you can add, resize and move notes. This is the default mode which is used most of the time. You can also press &apos;Shift+D&apos; on your keyboard to activate this mode. In this mode, hold %1 to temporarily go into select mode.</source>
-        <translation>여기를 클릭하면 그리기 모드가 활성화됩니다. 그리기 모드에서는 음표를 추가, 이동할 수 있으며 길이를 조절할 수도 있습니다. 이 모드는 대부분의 경우에 사용되는 기본 모드입니다. &apos;Shift+D&apos; 키를 눌러 이 모드를 활성화할 수도 있습니다. 이 모드에서 %1키를 누르면 일시적으로 선택 모드로 전환됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4099"/>
@@ -7674,12 +7663,12 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4103"/>
         <source>Click here and select mode will be activated. In this mode you can select notes. Alternatively, you can hold %1 in draw mode to temporarily use select mode.</source>
-        <translation>여기를 클릭하면 선택 모드가 활성화됩니다. 선택 모드에서는 음표를 선택할 수 있습니다. 그리기 모드에서 %1키를 누르면 일시적으로 선택 모드로 전환됩니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4113"/>
         <source>Click here and detune mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
-        <translation>여기를 클릭하면 피치 조절 모드가 활성화됩니다. 피치 조절 모드에서 음표를 클릭하면 해당 음표의 피치 오토메이션 편집 창을 열 수 있습니다. 이 모드를 이용하여 음표 간 피치 슬라이드를 구현할 수 있습니다. &apos;Shift+T&apos; 키를 눌러 이 모드를 활성화할 수도 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4121"/>
@@ -7689,32 +7678,32 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4132"/>
         <source>Copy paste controls</source>
-        <translation>복사/붙여넣기 컨트롤</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4135"/>
         <source>Cut selected notes (%1+X)</source>
-        <translation>선택된 음표 잘라내기 (%1+X)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4143"/>
         <source>Copy selected notes (%1+C)</source>
-        <translation>선택된 음표 복사 (%1+C)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4151"/>
         <source>Paste notes from clipboard (%1+V)</source>
-        <translation>선택된 음표 붙여넣기 (%1+V)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4159"/>
         <source>Click here and the selected notes will be cut into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
-        <translation>여기를 클릭하면 선택한 음표를 클립보드로 잘라낼 수 있습니다. 붙여넣기 버튼을 이용하여 다시 붙여넣을 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4163"/>
         <source>Click here and the selected notes will be copied into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
-        <translation>여기를 클릭하면 선택한 음표를 클립보드로 복사할 수 있습니다. 붙여넣기 버튼을 이용하여 다시 붙여넣을 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4167"/>
@@ -7760,13 +7749,13 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4326"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4431"/>
         <source>Piano-Roll - %1</source>
-        <translation>피아노-롤 - %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4332"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4435"/>
         <source>Piano-Roll - no pattern</source>
-        <translation>피아노-롤 - 패턴 없음</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7782,24 +7771,23 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/core/Plugin.cpp" line="102"/>
         <source>Plugin not found</source>
-        <translation>플러그인을 찾을 수 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="103"/>
         <source>The plugin &quot;%1&quot; wasn't found or could not be loaded!
 Reason: &quot;%2&quot;</source>
-        <translation>플러그인 &quot;%1&quot;을(를) 찾을 수 없거나 읽어올 수 없습니다.
-이유: %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="116"/>
         <source>Error while loading plugin</source>
-        <translation>플러그인 로딩 오류</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="117"/>
         <source>Failed to load plugin &quot;%1&quot;!</source>
-        <translation>플러그인 &quot;%1&quot;을(를) 로딩할 수 없습니다!</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7807,17 +7795,17 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="41"/>
         <source>Instrument Plugins</source>
-        <translation>악기 플러그인</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="44"/>
         <source>Instrument browser</source>
-        <translation>악기 탐색기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="55"/>
         <source>Drag an instrument into either the Song-Editor, the Beat+Bassline Editor or into an existing instrument track.</source>
-        <translation>플러그인을 노래 편집기, 비트/베이스 라인 편집기, 이미 존재하는 악기 트랙 중 하나로 드래그하세요.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7825,12 +7813,12 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/PluginFactory.cpp" line="127"/>
         <source>Plugin not found.</source>
-        <translation>플러그인을 찾을 수 없습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/PluginFactory.cpp" line="172"/>
         <source>LMMS plugin %1 does not have a plugin descriptor named %2!</source>
-        <translation>LMMS 플러그인 %1은(는) 이름이 %2인 플러그인 디스크립터를 가지고 있지 않습니다!</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7838,12 +7826,12 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="70"/>
         <source>Project Notes</source>
-        <translation>프로젝트 노트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="92"/>
         <source>Enter project notes here</source>
-        <translation>여기에 프로젝트 노트를 입력하세요</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="113"/>
@@ -7853,7 +7841,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="116"/>
         <source>&amp;Undo</source>
-        <translation>실행 취소(&amp;U)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="118"/>
@@ -7863,7 +7851,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="127"/>
         <source>&amp;Redo</source>
-        <translation>다시 실행(&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="129"/>
@@ -7873,7 +7861,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="138"/>
         <source>&amp;Copy</source>
-        <translation>복사(&amp;C)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="140"/>
@@ -7883,7 +7871,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="149"/>
         <source>Cu&amp;t</source>
-        <translation>잘라내기(&amp;T)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="151"/>
@@ -7893,7 +7881,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="160"/>
         <source>&amp;Paste</source>
-        <translation>붙여넣기(&amp;P)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="162"/>
@@ -7908,7 +7896,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="196"/>
         <source>&amp;Bold</source>
-        <translation>굵게(&amp;B)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="197"/>
@@ -7928,7 +7916,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="221"/>
         <source>&amp;Underline</source>
-        <translation>밑줄(&amp;U)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="222"/>
@@ -7938,7 +7926,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="238"/>
         <source>&amp;Left</source>
-        <translation>왼쪽 정렬(&amp;L)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="239"/>
@@ -7948,7 +7936,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="250"/>
         <source>C&amp;enter</source>
-        <translation>가운데 정렬(&amp;E)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="252"/>
@@ -7958,7 +7946,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="262"/>
         <source>&amp;Right</source>
-        <translation>오른쪽 정렬(&amp;R)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="264"/>
@@ -7968,7 +7956,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="275"/>
         <source>&amp;Justify</source>
-        <translation>양쪽 정렬(&amp;J)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="276"/>
@@ -7978,7 +7966,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="288"/>
         <source>&amp;Color...</source>
-        <translation>색(&amp;C)...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7986,22 +7974,22 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="44"/>
         <source>WAV (*.wav)</source>
-        <translation>WAV (*.wav)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="47"/>
         <source>FLAC (*.flac)</source>
-        <translation>FLAC (*.flac)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="52"/>
         <source>OGG (*.ogg)</source>
-        <translation>OGG (*.ogg)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="61"/>
         <source>MP3 (*.mp3)</source>
-        <translation>MP3 (*.mp3)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8011,19 +7999,19 @@ Reason: &quot;%2&quot;</source>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="54"/>
         <location filename="../../plugins/VstEffect/VstSubPluginFeatures.cpp" line="46"/>
         <source>Name: </source>
-        <translation>이름: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="144"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="65"/>
         <source>Maker: </source>
-        <translation>제작자: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="159"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="80"/>
         <source>Copyright: </source>
-        <translation>저작권: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="169"/>
@@ -8039,7 +8027,7 @@ Reason: &quot;%2&quot;</source>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="98"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="104"/>
         <source>Yes</source>
-        <translation>예</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="172"/>
@@ -8049,41 +8037,41 @@ Reason: &quot;%2&quot;</source>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="99"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="105"/>
         <source>No</source>
-        <translation>아니오</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="176"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="96"/>
         <source>Real Time Capable: </source>
-        <translation>실제 시간 가능: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="183"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="102"/>
         <source>In Place Broken: </source>
-        <translation>깨진 곳에 위치: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="190"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="108"/>
         <source>Channels In: </source>
-        <translation>입력 채널:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="195"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="112"/>
         <source>Channels Out: </source>
-        <translation>출력 채널:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="57"/>
         <source>File: %1</source>
-        <translation>파일: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstSubPluginFeatures.cpp" line="47"/>
         <source>File: </source>
-        <translation>파일: </translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8091,7 +8079,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/RenameDialog.cpp" line="38"/>
         <source>Rename...</source>
-        <translation>이름 바꾸기...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8099,12 +8087,12 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="43"/>
         <source>Input</source>
-        <translation>입력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="44"/>
         <source>Input Gain:</source>
-        <translation>입력 이득:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="49"/>
@@ -8129,12 +8117,12 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="61"/>
         <source>Output</source>
-        <translation>출력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="62"/>
         <source>Output Gain:</source>
-        <translation>출력 이득:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8142,7 +8130,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="36"/>
         <source>Input Gain</source>
-        <translation>입력 이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="37"/>
@@ -8157,7 +8145,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="39"/>
         <source>Output Gain</source>
-        <translation>출력 이득</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8165,67 +8153,67 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="291"/>
         <source>Fail to open file</source>
-        <translation>파일을 열 수 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="292"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
-        <translation>오디오 파일은 %1MB보다 작고 %2분보다 짧아야 합니다</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="971"/>
         <source>Open audio file</source>
-        <translation>오디오 파일 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="998"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
-        <translation>모든 오디오 파일 (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1000"/>
         <source>Wave-Files (*.wav)</source>
-        <translation>Wave 파일(*.wav)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1001"/>
         <source>OGG-Files (*.ogg)</source>
-        <translation>OGG 파일(*.ogg)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1002"/>
         <source>DrumSynth-Files (*.ds)</source>
-        <translation>DrumSynth 파일(*.ds)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1003"/>
         <source>FLAC-Files (*.flac)</source>
-        <translation>FLAC 파일(*.flac)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1004"/>
         <source>SPEEX-Files (*.spx)</source>
-        <translation>SPEEX 파일(*.spx)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
         <source>VOC-Files (*.voc)</source>
-        <translation>VOC 파일(*.voc)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1008"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
-        <translation>AIFF 파일 (*.aif *.aiff)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
         <source>AU-Files (*.au)</source>
-        <translation>AU 파일 (*.au)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
         <source>RAW-Files (*.raw)</source>
-        <translation>RAW 파일 (*.raw)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8233,32 +8221,32 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="322"/>
         <source>double-click to select sample</source>
-        <translation>더블클릭하여 샘플 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="339"/>
         <source>Delete (middle mousebutton)</source>
-        <translation>삭제(마우스 가운데 버튼)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="343"/>
         <source>Cut</source>
-        <translation>잘라내기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="346"/>
         <source>Copy</source>
-        <translation>복사</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="348"/>
         <source>Paste</source>
-        <translation>붙여넣기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="351"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation>음소거/해제 (&lt;%1&gt; + 마우스 가운데 버튼)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8266,18 +8254,18 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="574"/>
         <source>Volume</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="576"/>
         <source>Panning</source>
-        <translation>패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="577"/>
         <location filename="../../src/tracks/SampleTrack.cpp" line="579"/>
         <source>Sample track</source>
-        <translation>샘플 트랙</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8285,32 +8273,32 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="773"/>
         <source>Track volume</source>
-        <translation>트랙 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="776"/>
         <source>Channel volume:</source>
-        <translation>채널 볼륨:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="786"/>
         <source>VOL</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="790"/>
         <source>Panning</source>
-        <translation>패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="792"/>
         <source>Panning:</source>
-        <translation>패닝:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="794"/>
         <source>PAN</source>
-        <translation>패닝</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8318,49 +8306,49 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="142"/>
         <source>Setup LMMS</source>
-        <translation>LMMS 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="174"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="959"/>
         <source>General settings</source>
-        <translation>일반 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="176"/>
         <source>BUFFER SIZE</source>
-        <translation>버퍼 크기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="199"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="702"/>
         <source>Reset to default-value</source>
-        <translation>기본값으로 초기화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="208"/>
         <source>MISC</source>
-        <translation>기타</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="216"/>
         <source>Enable tooltips</source>
-        <translation>툴팁 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="226"/>
         <source>Show restart warning after changing settings</source>
-        <translation>설정을 변경했을 때 다시 시작 경고 표시</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="235"/>
         <source>Display volume as dBFS </source>
-        <translation>볼륨을 dBFS 단위로 표시</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="245"/>
         <source>Compress project files per default</source>
-        <translation>기본적으로 프로젝트 파일을 압축</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="254"/>
@@ -8370,7 +8358,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="263"/>
         <source>HQ-mode for output audio-device</source>
-        <translation>고품질 오디오 출력 모드</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="272"/>
@@ -8390,22 +8378,22 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="300"/>
         <source>Enable waveform display by default</source>
-        <translation>기본적으로 파형 표시를 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="309"/>
         <source>Keep effects running even without input</source>
-        <translation>입력이 없을 때에도 효과 작동 유지</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="318"/>
         <source>Create backup file when saving a project</source>
-        <translation>저장할 때 백업 파일 생성</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="327"/>
         <source>Reopen last project on start</source>
-        <translation>시작할 때 마지막에 연 프로젝트 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="337"/>
@@ -8435,53 +8423,53 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="358"/>
         <source>LANGUAGE</source>
-        <translation>언어</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="422"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="961"/>
         <source>Paths</source>
-        <translation>경로</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="423"/>
         <source>Directories</source>
-        <translation>경로</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="444"/>
         <source>LMMS working directory</source>
-        <translation>LMMS 작업 경로</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="464"/>
         <source>Themes directory</source>
-        <translation>테마 경로</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="485"/>
         <source>Background artwork</source>
-        <translation>배경 아트워크</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="504"/>
         <source>VST-plugin directory</source>
-        <translation>VST 플러그인 경로</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="523"/>
         <source>GIG directory</source>
-        <translation>GIG 경로</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="542"/>
         <source>SF2 directory</source>
-        <translation>SF2 경로</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="563"/>
         <source>LADSPA plugin directories</source>
-        <translation>LADSPA 플러그인 경로</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="584"/>
@@ -8491,38 +8479,38 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="605"/>
         <source>Default Soundfont File</source>
-        <translation>기본 사운드폰트 파일</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="661"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="964"/>
         <source>Performance settings</source>
-        <translation>성능 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="665"/>
         <source>Auto save</source>
-        <translation>자동 저장</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="684"/>
         <source>Enable auto-save</source>
-        <translation>자동 저장 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="691"/>
         <source>Allow auto-save while playing</source>
-        <translation>재생 중 자동 저장 허용</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="718"/>
         <source>UI effects vs. performance</source>
-        <translation>UI 효과 vs. 성능</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="724"/>
         <source>Smooth scroll in Song Editor</source>
-        <translation>노래 편집기에서 부드러운 스크롤 사용</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="731"/>
@@ -8533,38 +8521,38 @@ Reason: &quot;%2&quot;</source>
         <location filename="../../src/gui/SetupDialog.cpp" line="750"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="967"/>
         <source>Audio settings</source>
-        <translation>오디오 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="752"/>
         <source>AUDIO INTERFACE</source>
-        <translation>오디오 인터페이스</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="861"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="969"/>
         <source>MIDI settings</source>
-        <translation>MIDI 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="863"/>
         <source>MIDI INTERFACE</source>
-        <translation>MIDI 인터페이스</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="986"/>
         <source>OK</source>
-        <translation>확인</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="991"/>
         <source>Cancel</source>
-        <translation>취소</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1028"/>
         <source>Restart LMMS</source>
-        <translation>LMMS 다시 시작</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1029"/>
@@ -8575,43 +8563,42 @@ Reason: &quot;%2&quot;</source>
         <location filename="../../src/gui/SetupDialog.cpp" line="1147"/>
         <source>Frames: %1
 Latency: %2 ms</source>
-        <translation>프레임: %1
-시간 지연: %2 ms</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1168"/>
         <source>Here you can setup the internal buffer-size used by LMMS. Smaller values result in a lower latency but also may cause unusable sound or bad performance, especially on older computers or systems with a non-realtime kernel.</source>
-        <translation>여기에서 LMMS 내부 버퍼 크기를 설정할 수 있습니다. 작은 값을 설정하면 시간 지연이 감소하지만 음질 저하나 성능 저하가 일어날 수 있습니다. 이러한 현상은 실시간 커널을 가지지 않는 오래된 시스템에서 자주 발생합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1318"/>
         <source>Choose LMMS working directory</source>
-        <translation>LMMS 작업 경로 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1328"/>
         <source>Choose your GIG directory</source>
-        <translation>GIG 경로 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1339"/>
         <source>Choose your SF2 directory</source>
-        <translation>SF2 경로 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1361"/>
         <source>Choose your VST-plugin directory</source>
-        <translation>VST 플러그인 경로 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1393"/>
         <source>Choose artwork-theme directory</source>
-        <translation>아트워크 경로 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1415"/>
         <source>Choose LADSPA plugin directory</source>
-        <translation>LADSPA 플러그인 경로 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1437"/>
@@ -8621,39 +8608,38 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1453"/>
         <source>Choose default SoundFont</source>
-        <translation>기본 사운드폰트 설정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1486"/>
         <source>Choose background artwork</source>
-        <translation>배경 아트워크 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1540"/>
         <source>minutes</source>
-        <translation>분</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1540"/>
         <source>minute</source>
-        <translation>분</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1542"/>
         <source>Disabled</source>
-        <translation>비활성화됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1543"/>
         <source>Auto-save interval: %1</source>
-        <translation>자동 저장 간격: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1562"/>
         <source>Set the time between automatic backup to %1.
 Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
-        <translation>자동 백업의 시간 간격을 %1(으)로 설정합니다.
-여전히 프로젝트를 수동으로 저장하는 것을 추천합니다. 재생 중 자동 저장을 비활성화할 수 있으며 일부 오래된 시스템에서는 잘 작동하지 않을 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1589"/>
@@ -8671,27 +8657,27 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/core/Song.cpp" line="67"/>
         <source>Tempo</source>
-        <translation>템포</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="70"/>
         <source>Master volume</source>
-        <translation>마스터 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="71"/>
         <source>Master pitch</source>
-        <translation>마스터 피치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1127"/>
         <source>LMMS Error report</source>
-        <translation>LMMS 오류 보고</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1362"/>
         <source>The following errors occured while loading: </source>
-        <translation>로딩 중 다음과 같은 오류가 발생하였습니다:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8699,110 +8685,110 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/core/DataFile.cpp" line="136"/>
         <source>Could not open file</source>
-        <translation>파일을 열 수 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="137"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
-        <translation>파일 %1을(를) 열 수 없습니다. 파일을 읽을 수 있는 권한이 없기 때문일 수 있습니다. 파일을 읽을 수 있는 권한이 있는지 확인 후 다시 시도하시기 바랍니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="282"/>
         <source>Could not write file</source>
-        <translation>파일을 쓸 수 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="283"/>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
-        <translation>파일 %1을(를) 쓰기 위하여 열 수 없습니다. 파일을 쓸 수 있는 권한이 없기 때문일 수 있습니다. 파일에 쓸 수 있는 권한이 있는지 확인 후 다시 시도하시기 바랍니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1158"/>
         <source>Error in file</source>
-        <translation>파일 오류</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1159"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
-        <translation>파일 %1에 오류가 있어 로딩에 실패하였습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1189"/>
         <source>Version difference</source>
-        <translation>버전 차이</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1190"/>
         <source>This %1 was created with LMMS %2.</source>
-        <translation>이 %1은(는) LMMS %2에서 만들어졌습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1195"/>
         <source>template</source>
-        <translation>템플릿</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1196"/>
         <source>project</source>
-        <translation>프로젝트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="113"/>
         <source>Tempo</source>
-        <translation>템포</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="115"/>
         <source>TEMPO/BPM</source>
-        <translation>템포/BPM</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="116"/>
         <source>tempo of song</source>
-        <translation>템포</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="119"/>
         <source>The tempo of a song is specified in beats per minute (BPM). If you want to change the tempo of your song, change this value. Every measure has four beats, so the tempo in BPM specifies, how many measures / 4 should be played within a minute (or how many measures should be played within four minutes).</source>
-        <translation>곡의 템포는 분당 박자 수(BPM) 단위로 설정할 수 있습니다. 이 값을 바꾸면 곡의 템포를 바꿀 수 있습니다. 한 마디가 4박자인 일반적인 경우 BPM 단위의 템포는 분당 재생되는 1 / 4 마디의 수(4분당 재생되는 마디의 수)와 같습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="130"/>
         <source>High quality mode</source>
-        <translation>고음질 모드</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="154"/>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="173"/>
         <source>Master volume</source>
-        <translation>마스터 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="161"/>
         <source>master volume</source>
-        <translation>마스터 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="187"/>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="205"/>
         <source>Master pitch</source>
-        <translation>마스터 피치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="194"/>
         <source>master pitch</source>
-        <translation>마스터 피치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="458"/>
         <source>Value: %1%</source>
-        <translation>값: %1%</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="500"/>
         <source>Value: %1 semitones</source>
-        <translation>값: %1반음</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8810,27 +8796,27 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="659"/>
         <source>Song-Editor</source>
-        <translation>노래 편집기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="669"/>
         <source>Play song (Space)</source>
-        <translation>노래 재생 (Space)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="670"/>
         <source>Record samples from Audio-device</source>
-        <translation>오디오 장치로부터 샘플 녹음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="671"/>
         <source>Record samples from Audio-device while playing song or BB track</source>
-        <translation>노래 또는 비트/베이스 라인 트랙을 재생하는 동안 오디오 장치로부터 샘플 녹음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="672"/>
         <source>Stop song (Space)</source>
-        <translation>노래 정지 (Space)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="675"/>
@@ -8850,32 +8836,32 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="687"/>
         <source>Add beat/bassline</source>
-        <translation>비트/베이스 라인 추가</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="690"/>
         <source>Add sample-track</source>
-        <translation>샘플 트랙 추가</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="693"/>
         <source>Add automation-track</source>
-        <translation>오토메이션 트랙 추가</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="705"/>
         <source>Edit actions</source>
-        <translation>편집 동작</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="708"/>
         <source>Draw mode</source>
-        <translation>그리기 모드</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="709"/>
         <source>Edit mode (select and move)</source>
-        <translation>편집 모드 (선택 및 이동)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="718"/>
@@ -8893,12 +8879,12 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SpectrumAnalyzerControlDialog.cpp" line="163"/>
         <source>Linear spectrum</source>
-        <translation>선형 스펙트럼</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SpectrumAnalyzerControlDialog.cpp" line="167"/>
         <source>Linear Y axis</source>
-        <translation>선형 Y축</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8906,17 +8892,17 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SpectrumAnalyzerControls.cpp" line="34"/>
         <source>Linear spectrum</source>
-        <translation>선형 스펙트럼</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SpectrumAnalyzerControls.cpp" line="35"/>
         <source>Linear Y axis</source>
-        <translation>선형 Y축</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SpectrumAnalyzerControls.cpp" line="39"/>
         <source>Channel mode</source>
-        <translation>채널 모드</translation>
+        <translation>מצב הערוץ</translation>
     </message>
 </context>
 <context>
@@ -8924,17 +8910,17 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/gui/SubWindow.cpp" line="60"/>
         <source>Close</source>
-        <translation>닫기</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <location filename="../../src/gui/SubWindow.cpp" line="68"/>
         <source>Maximize</source>
-        <translation>최대화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SubWindow.cpp" line="76"/>
         <source>Restore</source>
-        <translation>복원</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8943,7 +8929,7 @@ Remember to also save your project manually. You can choose to disable saving wh
         <location filename="../../src/gui/AudioDeviceSetupWidget.cpp" line="28"/>
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="34"/>
         <source>Settings for %1</source>
-        <translation>%1에 대한 설정</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8952,92 +8938,92 @@ Remember to also save your project manually. You can choose to disable saving wh
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="44"/>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="207"/>
         <source>Tempo Sync</source>
-        <translation>템포 동기화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="102"/>
         <source>No Sync</source>
-        <translation>동기화 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="106"/>
         <source>Eight beats</source>
-        <translation>여덟 박자</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="112"/>
         <source>Whole note</source>
-        <translation>온음표</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="118"/>
         <source>Half note</source>
-        <translation>2분음표</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="124"/>
         <source>Quarter note</source>
-        <translation>4분음표</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="130"/>
         <source>8th note</source>
-        <translation>8분음표</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="136"/>
         <source>16th note</source>
-        <translation>16분음표</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="140"/>
         <source>32nd note</source>
-        <translation>32분음표</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="143"/>
         <source>Custom...</source>
-        <translation>사용자 지정...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="167"/>
         <source>Custom </source>
-        <translation>사용자 지정</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="175"/>
         <source>Synced to Eight Beats</source>
-        <translation>여덟 박자에 동기화됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="179"/>
         <source>Synced to Whole Note</source>
-        <translation>온음표에 동기화됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="183"/>
         <source>Synced to Half Note</source>
-        <translation>2분음표에 동기화됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="187"/>
         <source>Synced to Quarter Note</source>
-        <translation>4분음표에 동기화됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="191"/>
         <source>Synced to 8th Note</source>
-        <translation>8분음표에 동기화됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="195"/>
         <source>Synced to 16th Note</source>
-        <translation>16분음표에 동기화됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="199"/>
         <source>Synced to 32nd Note</source>
-        <translation>32분음표에 동기화됨</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9045,37 +9031,37 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="52"/>
         <source>click to change time units</source>
-        <translation>클릭하여 시간 단위 바꾸기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="79"/>
         <source>MIN</source>
-        <translation>분</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="80"/>
         <source>SEC</source>
-        <translation>초</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="81"/>
         <source>MSEC</source>
-        <translation>밀리초</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="85"/>
         <source>BAR</source>
-        <translation>마디</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="86"/>
         <source>BEAT</source>
-        <translation>박</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="87"/>
         <source>TICK</source>
-        <translation>틱</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9083,27 +9069,27 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="120"/>
         <source>Enable/disable auto-scrolling</source>
-        <translation>자동 스크롤 활성화/비활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="127"/>
         <source>Enable/disable loop-points</source>
-        <translation>루프 활성화/비활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="137"/>
         <source>After stopping go back to begin</source>
-        <translation>정지한 뒤 시작점으로 이동</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="140"/>
         <source>After stopping go back to position at which playing was started</source>
-        <translation>정지한 뒤 재생을 시작한 점으로 이동</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="144"/>
         <source>After stopping keep position</source>
-        <translation>정지한 후 위치 유지</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="339"/>
@@ -9127,12 +9113,12 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/core/Track.cpp" line="1990"/>
         <source>Mute</source>
-        <translation>음소거</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1992"/>
         <source>Solo</source>
-        <translation>독주</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9140,7 +9126,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="83"/>
         <source>Couldn&apos;t import file</source>
-        <translation>파일을 가져올 수 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="84"/>
@@ -9151,50 +9137,50 @@ You should convert this file into a format supported by LMMS using another softw
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="103"/>
         <source>Couldn&apos;t open file</source>
-        <translation>파일을 열 수 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="104"/>
         <source>Couldn't open file %1 for reading.
 Please make sure you have read-permission to the file and the directory containing the file and try again!</source>
-        <translation>파일 %1을(를) 읽기 열 수 없습니다. 파일을 읽을 수 있는 권한이 있는지 확인 후 다시 시도하시기 바랍니다!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="95"/>
         <source>Loading project...</source>
-        <translation>프로젝트 로딩 중...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="96"/>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="287"/>
         <source>Cancel</source>
-        <translation>취소</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="100"/>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="288"/>
         <source>Please wait...</source>
-        <translation>잠시만 기다려 주세요...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="117"/>
         <source>Loading cancelled</source>
-        <translation>로딩 취소됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="118"/>
         <source>Project loading was cancelled.</source>
-        <translation>프로젝트 로딩이 취소되었습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="135"/>
         <source>Loading Track %1 (%2/Total %3)</source>
-        <translation>트랙 %1 로딩 중 (%2/총 %3)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="286"/>
         <source>Importing MIDI-file...</source>
-        <translation>MIDI 파일을 가져오는중...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9202,7 +9188,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="101"/>
         <source>Mute</source>
-        <translation>음소거</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9211,22 +9197,22 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../src/core/Track.cpp" line="747"/>
         <location filename="../../src/core/Track.cpp" line="763"/>
         <source>Current length</source>
-        <translation>현재 길이</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="755"/>
         <source>Current position</source>
-        <translation>현재 위치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="773"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
-        <translation>&lt;%1&gt; 키를 누른 채 드래그하여 복사합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="774"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
-        <translation>&lt;%1&gt; 키를 눌러 크기를 자유롭게 조절할 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="775"/>
@@ -9236,32 +9222,32 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="973"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
-        <translation>%1:%2 (%3:%4부터 %5:%6까지) </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1067"/>
         <source>Delete (middle mousebutton)</source>
-        <translation>삭제(마우스 가운데 버튼)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1071"/>
         <source>Cut</source>
-        <translation>잘라내기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1074"/>
         <source>Copy</source>
-        <translation>복사</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1076"/>
         <source>Paste</source>
-        <translation>붙여넣기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1079"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation>음소거/해제 (&lt;%1&gt; + 마우스 가운데 버튼)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9279,43 +9265,43 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="1742"/>
         <source>Mute</source>
-        <translation>음소거</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1747"/>
         <location filename="../../src/core/Track.cpp" line="1768"/>
         <source>Solo</source>
-        <translation>독주</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1765"/>
         <source>Mute this track</source>
-        <translation>이 트랙 음소거</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1913"/>
         <source>Clone this track</source>
-        <translation>트랙 복제</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1916"/>
         <source>Remove this track</source>
-        <translation>트랙 제거</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1921"/>
         <source>Clear this track</source>
-        <translation>트랙 초기화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1925"/>
         <source>FX %1: %2</source>
-        <translation>FX %1: %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1925"/>
         <source>Assign to new FX Channel</source>
-        <translation>새 FX 채널 할당</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1933"/>
@@ -9383,7 +9369,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="558"/>
         <source>Osc %1 volume:</source>
-        <translation>오실레이터 %1 볼륨:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="561"/>
@@ -9393,7 +9379,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="570"/>
         <source>Osc %1 panning:</source>
-        <translation>오실레이터 %1 패닝:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="572"/>
@@ -9408,12 +9394,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="581"/>
         <source>semitones</source>
-        <translation>반음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="583"/>
         <source>With this knob you can set the coarse detuning of oscillator %1. You can detune the oscillator 24 semitones (2 octaves) up and down. This is useful for creating sounds with a chord.</source>
-        <translation>이 노브를 사용하여 오실레이터 %1의 피치를 조절할 수 있습니다. 24반음(두 옥타브) 범위 내에서 조절이 가능합니다. 이 기능은 화음을 가지는 소리를 합성할 때 유용하게 사용될 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="593"/>
@@ -9424,12 +9410,12 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="595"/>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="608"/>
         <source>cents</source>
-        <translation>센트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="597"/>
         <source>With this knob you can set the fine detuning of oscillator %1 for the left channel. The fine-detuning is ranged between -100 cents and +100 cents. This is useful for creating &quot;fat&quot; sounds.</source>
-        <translation>이 노브를 사용하여 오실레이터 %1의 왼쪽 채널 음정을 미세 조절할 수 있습니다. -100센트부터 +100센트까지의 범위 내에서 조절이 가능합니다. 이 기능은 풍성한 소리를 합성할 때 유용하게 사용될 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="606"/>
@@ -9439,7 +9425,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="610"/>
         <source>With this knob you can set the fine detuning of oscillator %1 for the right channel. The fine-detuning is ranged between -100 cents and +100 cents. This is useful for creating &quot;fat&quot; sounds.</source>
-        <translation>이 노브를 사용하여 오실레이터 %1의 오른쪽 채널 음정을 미세 조절할 수 있습니다. -100센트부터 +100센트까지의 범위 내에서 조절이 가능합니다. 이 기능은 풍성한 소리를 합성할 때 유용하게 사용될 수 있습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="620"/>
@@ -9450,7 +9436,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="622"/>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="638"/>
         <source>degrees</source>
-        <translation>도</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="624"/>
@@ -9470,22 +9456,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="656"/>
         <source>Use a sine-wave for current oscillator.</source>
-        <translation>이 오실레이터에 사인파 사용</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="667"/>
         <source>Use a triangle-wave for current oscillator.</source>
-        <translation>이 오실레이터에 삼각파 사용</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="677"/>
         <source>Use a saw-wave for current oscillator.</source>
-        <translation>이 오실레이터에 톱니파 사용</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="687"/>
         <source>Use a square-wave for current oscillator.</source>
-        <translation>이 오실레이터에 사각파 사용</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="698"/>
@@ -9505,7 +9491,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="727"/>
         <source>Use a user-defined waveform for current oscillator.</source>
-        <translation>이 오실레이터에 사용자 지정 파형 사용</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9513,17 +9499,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="48"/>
         <source>Increment version number</source>
-        <translation>버전 증가</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="50"/>
         <source>Decrement version number</source>
-        <translation>버전 감소</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="150"/>
         <source> already exists. Do you want to replace it?</source>
-        <translation>파일이 이미 존재합니다. 덮어쓰시겠습니까?</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9531,58 +9517,58 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="416"/>
         <source>Open other VST-plugin</source>
-        <translation>다른 VST 플러그인 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="419"/>
         <source>Click here, if you want to open another VST-plugin. After clicking on this button, a file-open-dialog appears and you can select your file.</source>
-        <translation>다른 VST 플러그인을 열려면 여기를 클릭하세요. 이 버튼을 클릭하면 플러그인 파일을 선택할 수 있는 창이 열립니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="433"/>
         <source>Control VST-plugin from LMMS host</source>
-        <translation>LMMS에서 VST 플러그인 제어</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="436"/>
         <source>Click here, if you want to control VST-plugin from host.</source>
-        <translation>LMMS에서 VST 플러그인을 제어하려면 여기를 클릭하세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="449"/>
         <source>Open VST-plugin preset</source>
-        <translation>VST-플러그인 프리셋 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="452"/>
         <source>Click here, if you want to open another *.fxp, *.fxb VST-plugin preset.</source>
-        <translation>다른 *.fxp, *.fxb VST 플러그인 프리셋을 열려면 여기를 클릭하세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="465"/>
         <source>Previous (-)</source>
-        <translation>이전 (-)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="470"/>
         <location filename="../../plugins/vestige/vestige.cpp" line="504"/>
         <source>Click here, if you want to switch to another VST-plugin preset program.</source>
-        <translation>다른 VST 플러그인 프리셋으로 전환하려면 여기를 클릭하세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="483"/>
         <source>Save preset</source>
-        <translation>프리셋 저장</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="486"/>
         <source>Click here, if you want to save current VST-plugin preset program.</source>
-        <translation>현재 VST 플러그인 프리셋을 저장하려면 여기를 클릭하세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="499"/>
         <source>Next (+)</source>
-        <translation>다음 (+)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="518"/>
@@ -9592,42 +9578,42 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="523"/>
         <source>Show/hide GUI</source>
-        <translation>GUI 보이기/숨기기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="530"/>
         <source>Click here to show or hide the graphical user interface (GUI) of your VST-plugin.</source>
-        <translation>클릭하여 VST 플러그인의 GUI를 표시하거나 숨깁니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="533"/>
         <source>Turn off all notes</source>
-        <translation>모든 음 끄기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="614"/>
         <source>Open VST-plugin</source>
-        <translation>VST 플러그인 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="618"/>
         <source>DLL-files (*.dll)</source>
-        <translation>DLL 파일 (*.dll)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="619"/>
         <source>EXE-files (*.exe)</source>
-        <translation>EXE 파일 (*.exe)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="820"/>
         <source>No VST-plugin loaded</source>
-        <translation>VST 플러그인이 로딩되지 않음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="828"/>
         <source>Preset</source>
-        <translation>프리셋</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="836"/>
@@ -9645,12 +9631,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/widgets/VisualizationWidget.cpp" line="58"/>
         <source>click to enable/disable visualization of master-output</source>
-        <translation>클릭하여 출력 파형 표시 활성화/비활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/VisualizationWidget.cpp" line="177"/>
         <source>Click to enable</source>
-        <translation>클릭하여 활성화</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9658,43 +9644,43 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="82"/>
         <source>Show/hide</source>
-        <translation>보이기/숨기기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="108"/>
         <source>Control VST-plugin from LMMS host</source>
-        <translation>LMMS에서 VST 플러그인 제어</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="111"/>
         <source>Click here, if you want to control VST-plugin from host.</source>
-        <translation>LMMS에서 VST 플러그인을 제어하려면 여기를 클릭하세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="127"/>
         <source>Open VST-plugin preset</source>
-        <translation>VST-플러그인 프리셋 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="130"/>
         <source>Click here, if you want to open another *.fxp, *.fxb VST-plugin preset.</source>
-        <translation>다른 *.fxp, *.fxb VST 플러그인 프리셋을 열려면 여기를 클릭하세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="150"/>
         <source>Previous (-)</source>
-        <translation>이전 (-)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="155"/>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="180"/>
         <source>Click here, if you want to switch to another VST-plugin preset program.</source>
-        <translation>다른 VST 플러그인 프리셋으로 전환하려면 여기를 클릭하세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="175"/>
         <source>Next (+)</source>
-        <translation>다음 (+)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="193"/>
@@ -9704,12 +9690,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="214"/>
         <source>Save preset</source>
-        <translation>프리셋 저장</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="217"/>
         <source>Click here, if you want to save current VST-plugin preset program.</source>
-        <translation>현재 VST 플러그인 프리셋을 저장하려면 여기를 클릭하세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="260"/>
@@ -9720,7 +9706,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="276"/>
         <source>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</source>
-        <translation>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9729,18 +9715,18 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/vestige/vestige.cpp" line="277"/>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="142"/>
         <source>The VST plugin %1 could not be loaded.</source>
-        <translation>VST 플러그인 %1을 불러올 수 없습니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="466"/>
         <source>Open Preset</source>
-        <translation>프리셋 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="467"/>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="525"/>
         <source>Vst Plugin Preset (*.fxp *.fxb)</source>
-        <translation>VST 플러그인 프리셋 (*.fxp *.fxb)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="521"/>
@@ -9760,37 +9746,37 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="524"/>
         <source>Save Preset</source>
-        <translation>프리셋 저장</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="524"/>
         <source>.fxp</source>
-        <translation>.fxp</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="540"/>
         <source>.FXP</source>
-        <translation>.FXP</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="540"/>
         <source>.FXB</source>
-        <translation>.FXB</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="541"/>
         <source>.fxb</source>
-        <translation>.fxb</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="131"/>
         <source>Loading plugin</source>
-        <translation>플러그인 읽는 중</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="132"/>
         <source>Please wait while loading VST plugin...</source>
-        <translation>VST 플러그인을 읽을 동안 잠시 기다려 주세요...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9798,42 +9784,42 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="234"/>
         <source>Volume A1</source>
-        <translation>A1 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="235"/>
         <source>Volume A2</source>
-        <translation>A2 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="236"/>
         <source>Volume B1</source>
-        <translation>B1 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="237"/>
         <source>Volume B2</source>
-        <translation>B2 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="239"/>
         <source>Panning A1</source>
-        <translation>A1 패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="240"/>
         <source>Panning A2</source>
-        <translation>A2 패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="241"/>
         <source>Panning B1</source>
-        <translation>B1 패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="242"/>
         <source>Panning B2</source>
-        <translation>B2 패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="244"/>
@@ -9949,7 +9935,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="681"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="682"/>
         <source>Volume</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="684"/>
@@ -9957,7 +9943,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="686"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="687"/>
         <source>Panning</source>
-        <translation>패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="689"/>
@@ -9985,7 +9971,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="701"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="702"/>
         <source> cents</source>
-        <translation>센트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="699"/>
@@ -10091,103 +10077,103 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="844"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="852"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation>드래그하여 원하는 파형을 그리세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="859"/>
         <source>Load waveform</source>
-        <translation>파형 불러오기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="863"/>
         <source>Click to load a waveform from a sample file</source>
-        <translation>샘플 파일에서 파형 가져오기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="865"/>
         <source>Phase left</source>
-        <translation>왼쪽 위상</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="869"/>
         <source>Click to shift phase by -15 degrees</source>
-        <translation>위상을 -15도만큼 바꾸기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="871"/>
         <source>Phase right</source>
-        <translation>오른쪽 위상</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="875"/>
         <source>Click to shift phase by +15 degrees</source>
-        <translation>위상을 +15도만큼 바꾸기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="877"/>
         <source>Normalize</source>
-        <translation>일반화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="881"/>
         <source>Click to normalize</source>
-        <translation>클릭하여 규격화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="884"/>
         <source>Invert</source>
-        <translation>파형 반전</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="888"/>
         <source>Click to invert</source>
-        <translation>클릭하여 파형 반전</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="890"/>
         <source>Smooth</source>
-        <translation>부드럽게</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="894"/>
         <source>Click to smooth</source>
-        <translation>클릭하여 파형을 부드럽게</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="898"/>
         <source>Sine wave</source>
-        <translation>사인파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="902"/>
         <source>Click for sine wave</source>
-        <translation>클릭하여 사인파 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="904"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="910"/>
         <source>Triangle wave</source>
-        <translation>삼각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="908"/>
         <source>Click for triangle wave</source>
-        <translation>클릭하여 삼각파 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="914"/>
         <source>Click for saw wave</source>
-        <translation>클릭하여 톱니파 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="916"/>
         <source>Square wave</source>
-        <translation>사각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="920"/>
         <source>Click for square wave</source>
-        <translation>클릭하여 사각파 선택</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10278,12 +10264,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="358"/>
         <source>Sine wave</source>
-        <translation>사인파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="362"/>
         <source>Click for a sine-wave.</source>
-        <translation>클릭하여 사인파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="364"/>
@@ -10308,52 +10294,52 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="377"/>
         <source>Saw wave</source>
-        <translation>톱니파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="381"/>
         <source>Click here for a saw-wave.</source>
-        <translation>클릭하여 톱니파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="383"/>
         <source>User defined wave</source>
-        <translation>사용자 정의 파형</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="387"/>
         <source>Click here for a user-defined shape.</source>
-        <translation>클릭하여 사용자 지정 파형을 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="389"/>
         <source>Triangle wave</source>
-        <translation>삼각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="395"/>
         <source>Click here for a triangle-wave.</source>
-        <translation>클릭하여 삼각파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="397"/>
         <source>Square wave</source>
-        <translation>사각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="402"/>
         <source>Click here for a square-wave.</source>
-        <translation>클릭하여 사각파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="404"/>
         <source>White noise wave</source>
-        <translation>화이트 노이즈</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="410"/>
         <source>Click here for white-noise.</source>
-        <translation>클릭하여 화이트 노이즈를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="413"/>
@@ -10406,22 +10392,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="113"/>
         <source>Portamento</source>
-        <translation>포르타멘토</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="114"/>
         <source>Filter Frequency</source>
-        <translation>필터 주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="115"/>
         <source>Filter Resonance</source>
-        <translation>필터 공명</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="116"/>
         <source>Bandwidth</source>
-        <translation>대역폭</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="117"/>
@@ -10449,52 +10435,52 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="506"/>
         <source>Portamento:</source>
-        <translation>포르타멘토:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="507"/>
         <source>PORT</source>
-        <translation>포르타멘토</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="510"/>
         <source>Filter Frequency:</source>
-        <translation>필터 주파수:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="511"/>
         <source>FREQ</source>
-        <translation>주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="514"/>
         <source>Filter Resonance:</source>
-        <translation>필터 공명:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="515"/>
         <source>RES</source>
-        <translation>공명</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="518"/>
         <source>Bandwidth:</source>
-        <translation>대역폭:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="519"/>
         <source>BW</source>
-        <translation>대역폭</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="522"/>
         <source>FM Gain:</source>
-        <translation>FM 이득:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="523"/>
         <source>FM GAIN</source>
-        <translation>FM 이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="526"/>
@@ -10519,17 +10505,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="533"/>
         <source>Forward MIDI Control Changes</source>
-        <translation>MIDI 컨트롤 변화(CC) 전달</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="535"/>
         <source>Show GUI</source>
-        <translation>GUI 표시</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="543"/>
         <source>Click here to show or hide the graphical user interface (GUI) of ZynAddSubFX.</source>
-        <translation>클릭하여 ZynAddSubFX의 GUI를 표시하거나 숨깁니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10537,17 +10523,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="77"/>
         <source>Amplify</source>
-        <translation>증폭</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="78"/>
         <source>Start of sample</source>
-        <translation>샘플 시작</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="79"/>
         <source>End of sample</source>
-        <translation>샘플 끝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="80"/>
@@ -10557,12 +10543,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="81"/>
         <source>Reverse sample</source>
-        <translation>샘플 역으로</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="82"/>
         <source>Loop mode</source>
-        <translation>루프 모드</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="83"/>
@@ -10572,17 +10558,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="84"/>
         <source>Interpolation mode</source>
-        <translation>보간법</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="102"/>
         <source>None</source>
-        <translation>없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="103"/>
         <source>Linear</source>
-        <translation>선형</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="104"/>
@@ -10592,7 +10578,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="243"/>
         <source>Sample not found: %1</source>
-        <translation>샘플 %1을 찾을 수 없음</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10600,7 +10586,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="141"/>
         <source>Samplelength</source>
-        <translation>샘플 길이</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10608,92 +10594,92 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="339"/>
         <source>Sample Length</source>
-        <translation>샘플 길이</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="346"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation>드래그하여 원하는 파형을 그리세요.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="357"/>
         <source>Sine wave</source>
-        <translation>사인파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="364"/>
         <source>Click for a sine-wave.</source>
-        <translation>클릭하여 사인파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="366"/>
         <source>Triangle wave</source>
-        <translation>삼각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="373"/>
         <source>Click here for a triangle-wave.</source>
-        <translation>클릭하여 삼각파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="375"/>
         <source>Saw wave</source>
-        <translation>톱니파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="382"/>
         <source>Click here for a saw-wave.</source>
-        <translation>클릭하여 톱니파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="384"/>
         <source>Square wave</source>
-        <translation>사각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="391"/>
         <source>Click here for a square-wave.</source>
-        <translation>클릭하여 사각파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="394"/>
         <source>White noise wave</source>
-        <translation>화이트 노이즈</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="401"/>
         <source>Click here for white-noise.</source>
-        <translation>클릭하여 화이트 노이즈를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="403"/>
         <source>User defined wave</source>
-        <translation>사용자 정의파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="410"/>
         <source>Click here for a user-defined shape.</source>
-        <translation>클릭하여 사용자 지정 파형을 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="412"/>
         <source>Smooth</source>
-        <translation>부드럽게</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="419"/>
         <source>Click here to smooth waveform.</source>
-        <translation>클릭하여 파형을 부드럽게 합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="423"/>
         <source>Interpolation</source>
-        <translation>보간</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="428"/>
         <source>Normalize</source>
-        <translation>규격화</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10701,22 +10687,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="65"/>
         <source>INPUT</source>
-        <translation>입력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="66"/>
         <source>Input gain:</source>
-        <translation>입력 이득:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="73"/>
         <source>OUTPUT</source>
-        <translation>출력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="74"/>
         <source>Output gain:</source>
-        <translation>출력 이득:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="79"/>
@@ -10741,17 +10727,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="90"/>
         <source>Reset waveform</source>
-        <translation>파형 초기화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="95"/>
         <source>Click here to reset the wavegraph back to default</source>
-        <translation>클릭하여 기본 그래프로 초기화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="97"/>
         <source>Smooth waveform</source>
-        <translation>파형을 부드럽게</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="102"/>
@@ -10814,12 +10800,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_controls.cpp" line="42"/>
         <source>Input gain</source>
-        <translation>입력 이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_controls.cpp" line="43"/>
         <source>Output gain</source>
-        <translation>출력 이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_controls.cpp" line="44"/>
@@ -10834,7 +10820,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_controls.cpp" line="47"/>
         <source>Stereo mode</source>
-        <translation>스테레오 모드</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10847,7 +10833,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1282"/>
         <source>New FX Channel</source>
-        <translation>새 FX 채널</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10855,7 +10841,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/widgets/Graph.cpp" line="464"/>
         <source>Graph</source>
-        <translation>그래프</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10863,32 +10849,32 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="63"/>
         <source>Start frequency</source>
-        <translation>시작 주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="64"/>
         <source>End frequency</source>
-        <translation>끝 주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="65"/>
         <source>Length</source>
-        <translation>길이</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="66"/>
         <source>Distortion Start</source>
-        <translation>디스토션 시작 값</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="67"/>
         <source>Distortion End</source>
-        <translation>디스토션 끝 값</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="68"/>
         <source>Gain</source>
-        <translation>이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="69"/>
@@ -10898,7 +10884,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="70"/>
         <source>Noise</source>
-        <translation>잡음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="71"/>
@@ -10926,12 +10912,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="284"/>
         <source>Start frequency:</source>
-        <translation>시작 주파수:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="288"/>
         <source>End frequency:</source>
-        <translation>끝 주파수:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="292"/>
@@ -10941,12 +10927,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="296"/>
         <source>Gain:</source>
-        <translation>이득:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="300"/>
         <source>Envelope Length:</source>
-        <translation>엔벨로프 길이:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="304"/>
@@ -10961,17 +10947,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="312"/>
         <source>Noise:</source>
-        <translation>잡음:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="316"/>
         <source>Distortion Start:</source>
-        <translation>디스토션 시작 값:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="320"/>
         <source>Distortion End:</source>
-        <translation>디스토션 끝 값:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10980,31 +10966,31 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="113"/>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="121"/>
         <source>Available Effects</source>
-        <translation>사용 가능한 효과</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="114"/>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="124"/>
         <source>Unavailable Effects</source>
-        <translation>사용 불가능한 효과</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="116"/>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="128"/>
         <source>Instruments</source>
-        <translation>악기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="117"/>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="132"/>
         <source>Analysis Tools</source>
-        <translation>분석 도구</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="118"/>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="135"/>
         <source>Don&apos;t know</source>
-        <translation>알 수 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="148"/>
@@ -11026,7 +11012,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="208"/>
         <source>Type:</source>
-        <translation>형태:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11034,12 +11020,12 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="84"/>
         <source>Plugins</source>
-        <translation>플러그인</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="93"/>
         <source>Description</source>
-        <translation>요약</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11047,83 +11033,83 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="42"/>
         <source>Ports</source>
-        <translation>포트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="54"/>
         <source>Name</source>
-        <translation>이름</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="55"/>
         <source>Rate</source>
-        <translation>종류</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="56"/>
         <source>Direction</source>
-        <translation>방향</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="57"/>
         <source>Type</source>
-        <translation>형태</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="58"/>
         <source>Min &lt; Default &lt; Max</source>
-        <translation>최소 &lt; 기본 &lt; 최대</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="59"/>
         <source>Logarithmic</source>
-        <translation>로그</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="60"/>
         <source>SR Dependent</source>
-        <translation>SR 의존</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="75"/>
         <source>Audio</source>
-        <translation>오디오</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="75"/>
         <source>Control</source>
-        <translation>컨트롤</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="77"/>
         <source>Input</source>
-        <translation>입력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="77"/>
         <source>Output</source>
-        <translation>출력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="79"/>
         <source>Toggled</source>
-        <translation>토글</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="79"/>
         <source>Integer</source>
-        <translation>정수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="79"/>
         <source>Float</source>
-        <translation>실수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="149"/>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="155"/>
         <source>Yes</source>
-        <translation>예</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11131,42 +11117,42 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="277"/>
         <source>VCF Cutoff Frequency</source>
-        <translation>VCF 차단 주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="278"/>
         <source>VCF Resonance</source>
-        <translation>VCF 공명</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="279"/>
         <source>VCF Envelope Mod</source>
-        <translation>VCF 엔벨로프 모드</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="280"/>
         <source>VCF Envelope Decay</source>
-        <translation>VCF 엔벨로프 감쇄</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="281"/>
         <source>Distortion</source>
-        <translation>디스토션</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="282"/>
         <source>Waveform</source>
-        <translation>파형</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="283"/>
         <source>Slide Decay</source>
-        <translation>슬라이드 감소</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="284"/>
         <source>Slide</source>
-        <translation>슬라이드</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="285"/>
@@ -11181,7 +11167,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="287"/>
         <source>24dB/oct Filter</source>
-        <translation>24dB/oct 필터</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11189,22 +11175,22 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="824"/>
         <source>Cutoff Freq:</source>
-        <translation>차단 주파수:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="829"/>
         <source>Resonance:</source>
-        <translation>공명:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="834"/>
         <source>Env Mod:</source>
-        <translation>엔벨로프 변조:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="839"/>
         <source>Decay:</source>
-        <translation>감쇄:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="854"/>
@@ -11214,88 +11200,88 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="860"/>
         <source>Slide Decay:</source>
-        <translation>슬라이드 감쇄:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="865"/>
         <source>DIST:</source>
-        <translation>디스토션:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="873"/>
         <source>Saw wave</source>
-        <translation>톱니파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="880"/>
         <source>Click here for a saw-wave.</source>
-        <translation>클릭하여 톱니파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="883"/>
         <source>Triangle wave</source>
-        <translation>삼각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="890"/>
         <source>Click here for a triangle-wave.</source>
-        <translation>클릭하여 삼각파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="892"/>
         <source>Square wave</source>
-        <translation>사각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="899"/>
         <source>Click here for a square-wave.</source>
-        <translation>클릭하여 사각파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="902"/>
         <source>Rounded square wave</source>
-        <translation>둥근 사각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="909"/>
         <source>Click here for a square-wave with a rounded end.</source>
-        <translation>클릭하여 둥근 사각파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="912"/>
         <source>Moog wave</source>
-        <translation>무그 파형</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="919"/>
         <source>Click here for a moog-like wave.</source>
-        <translation>클릭하여 무그 파형을 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="921"/>
         <source>Sine wave</source>
-        <translation>사인파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="928"/>
         <source>Click for a sine-wave.</source>
-        <translation>클릭하여 사인파를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="931"/>
         <location filename="../../plugins/lb302/lb302.cpp" line="942"/>
         <source>White noise wave</source>
-        <translation>화이트 노이즈</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="938"/>
         <source>Click here for an exponential wave.</source>
-        <translation>클릭하여 지수형 파형을 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="949"/>
         <source>Click here for white-noise.</source>
-        <translation>클릭하여 화이트 노이즈를 선택합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="952"/>
@@ -11348,62 +11334,62 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="69"/>
         <source>Position</source>
-        <translation>위치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="70"/>
         <source>Vibrato Gain</source>
-        <translation>떨림 이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="71"/>
         <source>Vibrato Freq</source>
-        <translation>비브라토 주파수</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="72"/>
         <source>Stick Mix</source>
-        <translation>스틱 믹스</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="73"/>
         <source>Modulator</source>
-        <translation>모듈레이트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="74"/>
         <source>Crossfade</source>
-        <translation>크로스페이드</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="75"/>
         <source>LFO Speed</source>
-        <translation>LFO 속도</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="76"/>
         <source>LFO Depth</source>
-        <translation>LFO 깊이</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="77"/>
         <source>ADSR</source>
-        <translation>ADSR</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="78"/>
         <source>Pressure</source>
-        <translation>압력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="79"/>
         <source>Motion</source>
-        <translation>모션</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="81"/>
         <source>Speed</source>
-        <translation>속도</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="82"/>
@@ -11418,17 +11404,17 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="91"/>
         <source>Marimba</source>
-        <translation>마림바</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="93"/>
         <source>Vibraphone</source>
-        <translation>비브라폰</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="95"/>
         <source>Agogo</source>
-        <translation>아고고</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="97"/>
@@ -11491,7 +11477,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="403"/>
         <source>Instrument</source>
-        <translation>악기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="411"/>
@@ -11506,12 +11492,12 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="418"/>
         <source>Missing files</source>
-        <translation>없는 파일</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="419"/>
         <source>Your Stk-installation seems to be incomplete. Please make sure the full Stk-package is installed!</source>
-        <translation>Stk 설치가 불완전한 것 같습니다. 완전한 Stk 패키지가 설치되었는지 확인하시기 바랍니다!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="453"/>
@@ -11526,12 +11512,12 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="458"/>
         <source>Position</source>
-        <translation>위치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="460"/>
         <source>Position:</source>
-        <translation>위치:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="463"/>
@@ -11566,47 +11552,47 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="489"/>
         <source>Modulator</source>
-        <translation>모듈레이터</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="491"/>
         <source>Modulator:</source>
-        <translation>모듈레이터:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="494"/>
         <source>Crossfade</source>
-        <translation>크로스페이드</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="496"/>
         <source>Crossfade:</source>
-        <translation>크로스페이드:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="499"/>
         <source>LFO Speed</source>
-        <translation>LFO 속도</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="501"/>
         <source>LFO Speed:</source>
-        <translation>LFO 속도:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="504"/>
         <source>LFO Depth</source>
-        <translation>LFO 깊이</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="506"/>
         <source>LFO Depth:</source>
-        <translation>LFO 깊이:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="509"/>
         <source>ADSR</source>
-        <translation>ADSR</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="511"/>
@@ -11616,22 +11602,22 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="529"/>
         <source>Pressure</source>
-        <translation>압력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="531"/>
         <source>Pressure:</source>
-        <translation>압력:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="539"/>
         <source>Speed</source>
-        <translation>속도</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="541"/>
         <source>Speed:</source>
-        <translation>속도:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11665,7 +11651,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="333"/>
         <source>    Close    </source>
-        <translation>닫기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="337"/>
@@ -11705,7 +11691,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="895"/>
         <source>    Close    </source>
-        <translation>닫기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="899"/>
@@ -11718,12 +11704,12 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="82"/>
         <source>Distortion</source>
-        <translation>디스토션</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="83"/>
         <source>Volume</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
 </context>
 <context>
@@ -11731,7 +11717,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="436"/>
         <source>Distortion:</source>
-        <translation>디스토션:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="438"/>
@@ -11741,7 +11727,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="445"/>
         <source>Volume:</source>
-        <translation>볼륨:</translation>
+        <translation>ווליום:</translation>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="447"/>
@@ -11762,17 +11748,17 @@ Double clicking any of the plugins will bring up information on the ports.</sour
         <location filename="../../plugins/organic/organic.cpp" line="516"/>
         <location filename="../../plugins/organic/organic.cpp" line="562"/>
         <source>Osc %1 waveform:</source>
-        <translation>오실레이터 %1 파형:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="523"/>
         <source>Osc %1 volume:</source>
-        <translation>오실레이터 %1 볼륨:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="529"/>
         <source>Osc %1 panning:</source>
-        <translation>오실레이터 %1 패닝:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="535"/>
@@ -11782,7 +11768,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="537"/>
         <source>cents</source>
-        <translation>센트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="560"/>
@@ -11805,7 +11791,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="92"/>
         <source>Bank</source>
-        <translation>뱅크</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="98"/>
@@ -11815,22 +11801,22 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="123"/>
         <source>Patch</source>
-        <translation>패치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="128"/>
         <source>Name</source>
-        <translation>이름</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="173"/>
         <source>OK</source>
-        <translation>확인</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="192"/>
         <source>Cancel</source>
-        <translation>취소</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11838,7 +11824,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../src/core/Plugin.cpp" line="45"/>
         <source>no description</source>
-        <translation>요약 없음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/Amplifier.cpp" line="38"/>
@@ -11898,22 +11884,22 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/Eq/EqEffect.cpp" line="41"/>
         <source>A native eq plugin</source>
-        <translation>내장 EQ 플러그인</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerEffect.cpp" line="36"/>
         <source>A native flanger plugin</source>
-        <translation>내장 플랜저 플러그인</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="54"/>
         <source>Emulation of GameBoy (TM) APU</source>
-        <translation>GameBoy (TM) APU 에뮬레이션</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="65"/>
         <source>Player for GIG files</source>
-        <translation>GIG 파일 플레이어</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="30"/>
@@ -11928,12 +11914,12 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="52"/>
         <source>List installed LADSPA plugins</source>
-        <translation>설치된 LADSPA 플러그인 목록</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaEffect.cpp" line="55"/>
         <source>plugin for using arbitrary LADSPA-effects inside LMMS.</source>
-        <translation>LMMS에서 LADSPA 이펙트를 이용하기 위한 플러그인.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="87"/>
@@ -11943,12 +11929,12 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/MidiExport/MidiExport.cpp" line="48"/>
         <source>Filter for exporting MIDI-files from LMMS</source>
-        <translation>미디 파일을 LMMS에서 내보내기 위한 필터</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="62"/>
         <source>Filter for importing MIDI-files into LMMS</source>
-        <translation>미디 파일을 LMMS로 읽어오기 위한 필터</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="48"/>
@@ -11988,12 +11974,12 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSC.cpp" line="37"/>
         <source>Reverb algorithm by Sean Costello</source>
-        <translation>Sean Costello의 리버브 알고리즘</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="58"/>
         <source>Player for SoundFont files</source>
-        <translation>사운드폰트 파일 플레이어</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sfxr/sfxr.cpp" line="64"/>
@@ -12034,7 +12020,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="64"/>
         <source>VST-host for using VST(i)-plugins within LMMS</source>
-        <translation>LMMS의 VST(i) 플러그인 호스트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="53"/>
@@ -12072,72 +12058,72 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="98"/>
         <source>Bank</source>
-        <translation>뱅크</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="99"/>
         <source>Patch</source>
-        <translation>패치</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="100"/>
         <source>Gain</source>
-        <translation>이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="101"/>
         <source>Reverb</source>
-        <translation>리버브</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="102"/>
         <source>Reverb Roomsize</source>
-        <translation>리버브 룸크기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="103"/>
         <source>Reverb Damping</source>
-        <translation>리버브 댐핑</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="104"/>
         <source>Reverb Width</source>
-        <translation>리버브 너비</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="105"/>
         <source>Reverb Level</source>
-        <translation>리버브 레벨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="106"/>
         <source>Chorus</source>
-        <translation>코러스</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="107"/>
         <source>Chorus Lines</source>
-        <translation>코러스 라인</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="108"/>
         <source>Chorus Level</source>
-        <translation>코러스 레벨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="109"/>
         <source>Chorus Speed</source>
-        <translation>코러스 속도</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="110"/>
         <source>Chorus Depth</source>
-        <translation>코러스 깊이</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="343"/>
         <source>A soundfont %1 could not be loaded.</source>
-        <translation>사운드폰트 %1을 불러올 수 없습니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12145,32 +12131,32 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="848"/>
         <source>Open other SoundFont file</source>
-        <translation>다른 사운드폰트 파일 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="850"/>
         <source>Click here to open another SF2 file</source>
-        <translation>클릭하여 다른 SF2 파일 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="862"/>
         <source>Choose the patch</source>
-        <translation>패치 선택</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="897"/>
         <source>Gain</source>
-        <translation>이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="910"/>
         <source>Apply reverb (if supported)</source>
-        <translation>리버브 적용(지원시)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="912"/>
         <source>This button enables the reverb effect. This is useful for cool effects, but only works on files that support it.</source>
-        <translation>이 버튼은 리버브 효과를 활성화합니다. 이것을 지원하는 파일에서만 작동합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="918"/>
@@ -12185,7 +12171,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="926"/>
         <source>Reverb Width:</source>
-        <translation>리버브 너비:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="930"/>
@@ -12195,42 +12181,42 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="950"/>
         <source>Apply chorus (if supported)</source>
-        <translation>코러스 적용 (지원될 경우)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="952"/>
         <source>This button enables the chorus effect. This is useful for cool echo effects, but only works on files that support it.</source>
-        <translation>이 버튼은 코러스 효과를 활성화합니다. 이것을 지원하는 파일에서만 작동합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="957"/>
         <source>Chorus Lines:</source>
-        <translation>코러스 라인:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="961"/>
         <source>Chorus Level:</source>
-        <translation>코러스 레벨:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="965"/>
         <source>Chorus Speed:</source>
-        <translation>코러스 속도:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="969"/>
         <source>Chorus Depth:</source>
-        <translation>코러스 깊이:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1077"/>
         <source>Open SoundFont file</source>
-        <translation>사운드폰트 파일 열기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1081"/>
         <source>SoundFont Files (*.sf2 *.sf3)</source>
-        <translation>사운드폰트 파일 (*.sf2 *.sf3)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12238,7 +12224,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sfxr/sfxr.cpp" line="356"/>
         <source>Wave Form</source>
-        <translation>파형</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12246,17 +12232,17 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="124"/>
         <source>Cutoff</source>
-        <translation>컷오프</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="125"/>
         <source>Resonance</source>
-        <translation>공명</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="126"/>
         <source>Filter type</source>
-        <translation>필터 종류</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="129"/>
@@ -12266,12 +12252,12 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="130"/>
         <source>Volume</source>
-        <translation>볼륨</translation>
+        <translation>ווליום</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="131"/>
         <source>Chip model</source>
-        <translation>칩 모델</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12279,33 +12265,33 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="492"/>
         <source>Volume:</source>
-        <translation>볼륨:</translation>
+        <translation>ווליום:</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="496"/>
         <source>Resonance:</source>
-        <translation>공명:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="500"/>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="723"/>
         <source>Cutoff frequency:</source>
-        <translation>차단 주파수:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="507"/>
         <source>High-Pass filter </source>
-        <translation>하이패스 필터</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="513"/>
         <source>Band-Pass filter </source>
-        <translation>밴드패스 필터</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="519"/>
         <source>Low-Pass filter </source>
-        <translation>로우패스 필터</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="531"/>
@@ -12337,7 +12323,7 @@ This chip was used in the Commodore 64 computer.</source>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="558"/>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="704"/>
         <source>Decay:</source>
-        <translation>감쇄:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="560"/>
@@ -12389,27 +12375,27 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="596"/>
         <source>Pulse Wave</source>
-        <translation>펄스파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="604"/>
         <source>Triangle Wave</source>
-        <translation>삼각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="612"/>
         <source>SawTooth</source>
-        <translation>톱니파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="620"/>
         <source>Noise</source>
-        <translation>잡음</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="639"/>
         <source>Sync</source>
-        <translation>동기화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="640"/>
@@ -12419,7 +12405,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="652"/>
         <source>Ring-Mod</source>
-        <translation>링-모듈레이션</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="653"/>
@@ -12429,7 +12415,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="665"/>
         <source>Filtered</source>
-        <translation>필터</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="666"/>
@@ -12439,7 +12425,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="678"/>
         <source>Test</source>
-        <translation>테스트</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="679"/>
@@ -12452,12 +12438,12 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/stereo_enhancer/stereoenhancer_control_dialog.cpp" line="42"/>
         <source>WIDE</source>
-        <translation>넓게</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stereo_enhancer/stereoenhancer_control_dialog.cpp" line="43"/>
         <source>Width:</source>
-        <translation>너비:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12465,7 +12451,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/stereo_enhancer/stereoenhancer_controls.cpp" line="35"/>
         <source>Width</source>
-        <translation>너비</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12473,22 +12459,22 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/stereo_matrix/stereomatrix_control_dialog.cpp" line="52"/>
         <source>Left to Left Vol:</source>
-        <translation>왼쪽에서 왼쪽 볼륨:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stereo_matrix/stereomatrix_control_dialog.cpp" line="57"/>
         <source>Left to Right Vol:</source>
-        <translation>왼쪽에서 오른쪽 볼륨:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stereo_matrix/stereomatrix_control_dialog.cpp" line="62"/>
         <source>Right to Left Vol:</source>
-        <translation>오른쪽에서 왼쪽 볼륨:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stereo_matrix/stereomatrix_control_dialog.cpp" line="67"/>
         <source>Right to Right Vol:</source>
-        <translation>오른쪽에서 오른쪽 볼륨:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12496,22 +12482,22 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/stereo_matrix/stereomatrix_controls.cpp" line="35"/>
         <source>Left to Left</source>
-        <translation>왼쪽에서 왼쪽</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stereo_matrix/stereomatrix_controls.cpp" line="36"/>
         <source>Left to Right</source>
-        <translation>왼쪽에서 오른쪽</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stereo_matrix/stereomatrix_controls.cpp" line="37"/>
         <source>Right to Left</source>
-        <translation>오른쪽에서 왼쪽</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/stereo_matrix/stereomatrix_controls.cpp" line="38"/>
         <source>Right to Right</source>
-        <translation>오른쪽에서 오른쪽</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12519,12 +12505,12 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="265"/>
         <source>Loading plugin</source>
-        <translation>플러그인 읽는 중</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="266"/>
         <source>Please wait while loading VST-plugin...</source>
-        <translation>VST 플러그인을 읽을 동안 잠시 기다려 주세요...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12532,7 +12518,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="78"/>
         <source>String %1 volume</source>
-        <translation>%1번 스트링 볼륨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="82"/>
@@ -12552,7 +12538,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="94"/>
         <source>Pan %1</source>
-        <translation>%1번 패닝</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="98"/>
@@ -12567,7 +12553,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="106"/>
         <source>Length %1</source>
-        <translation>%1번 길이</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="110"/>
@@ -12577,7 +12563,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="114"/>
         <source>Octave %1</source>
-        <translation>옥타브 %1</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12585,7 +12571,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="365"/>
         <source>Volume:</source>
-        <translation>볼륨:</translation>
+        <translation>ווליום:</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="366"/>
@@ -12625,7 +12611,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="397"/>
         <source>Pan:</source>
-        <translation>패닝:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="398"/>
@@ -12655,7 +12641,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="421"/>
         <source>Length:</source>
-        <translation>길이:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="423"/>
@@ -12675,7 +12661,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="460"/>
         <source>Octave</source>
-        <translation>옥타브</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="461"/>
@@ -12685,7 +12671,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="493"/>
         <source>Impulse Editor</source>
-        <translation>Impulse 편집기</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="498"/>
@@ -12716,12 +12702,12 @@ The LED in the lower right corner of the waveform editor determines whether the 
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="534"/>
         <source>Enable waveform</source>
-        <translation>파형 활성화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="537"/>
         <source>Click here to enable/disable waveform.</source>
-        <translation>클릭하여 파형 활성화/비활성화.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="541"/>
@@ -12736,47 +12722,47 @@ The LED in the lower right corner of the waveform editor determines whether the 
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="553"/>
         <source>Sine wave</source>
-        <translation>사인파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="560"/>
         <source>Use a sine-wave for current oscillator.</source>
-        <translation>이 오실레이터에 사인파 사용</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="566"/>
         <source>Triangle wave</source>
-        <translation>삼각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="573"/>
         <source>Use a triangle-wave for current oscillator.</source>
-        <translation>이 오실레이터에 삼각파 사용</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="579"/>
         <source>Saw wave</source>
-        <translation>톱니파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="586"/>
         <source>Use a saw-wave for current oscillator.</source>
-        <translation>이 오실레이터에 톱니파 사용</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="592"/>
         <source>Square wave</source>
-        <translation>사각파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="599"/>
         <source>Use a square-wave for current oscillator.</source>
-        <translation>이 오실레이터에 사각파 사용</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="605"/>
         <source>White noise wave</source>
-        <translation>화이트 노이즈</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="612"/>
@@ -12786,32 +12772,32 @@ The LED in the lower right corner of the waveform editor determines whether the 
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="618"/>
         <source>User defined wave</source>
-        <translation>사용자 정의 파형</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="625"/>
         <source>Use a user-defined waveform for current oscillator.</source>
-        <translation>이 오실레이터에 사용자 지정 파형 사용</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="631"/>
         <source>Smooth</source>
-        <translation>부드럽게</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="639"/>
         <source>Click here to smooth waveform.</source>
-        <translation>클릭하여 파형을 부드럽게 합니다.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="643"/>
         <source>Normalize</source>
-        <translation>규격화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="651"/>
         <source>Click here to normalize waveform.</source>
-        <translation>클릭하여 파형을 규격화합니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12849,27 +12835,27 @@ The LED in the lower right corner of the waveform editor determines whether the 
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="106"/>
         <source>Voice %1 wave shape</source>
-        <translation>소리 %1파</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="108"/>
         <source>Voice %1 sync</source>
-        <translation>소리 %1 동기화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="109"/>
         <source>Voice %1 ring modulate</source>
-        <translation>소리 %1 링 모듈레이션</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="110"/>
         <source>Voice %1 filtered</source>
-        <translation>소리 %1 필터됨</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="111"/>
         <source>Voice %1 test</source>
-        <translation>소리 %1 테스트</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12877,37 +12863,37 @@ The LED in the lower right corner of the waveform editor determines whether the 
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="65"/>
         <source>INPUT</source>
-        <translation>입력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="66"/>
         <source>Input gain:</source>
-        <translation>입력 이득:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="73"/>
         <source>OUTPUT</source>
-        <translation>출력</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="74"/>
         <source>Output gain:</source>
-        <translation>출력 이득:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="76"/>
         <source>Reset waveform</source>
-        <translation>파형 초기화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="81"/>
         <source>Click here to reset the wavegraph back to default</source>
-        <translation>클릭하여 기본 그래프로 초기화</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="83"/>
         <source>Smooth waveform</source>
-        <translation>파형을 부드럽게</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="88"/>
@@ -12950,12 +12936,12 @@ The LED in the lower right corner of the waveform editor determines whether the 
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_controls.cpp" line="42"/>
         <source>Input gain</source>
-        <translation>입력 이득</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_controls.cpp" line="43"/>
         <source>Output gain</source>
-        <translation>출력 이득</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
