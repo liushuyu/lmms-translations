@@ -58,12 +58,12 @@ msgstr "Nástroje, zvuky a rozšíření"
 msgid ""
 "with a typing or MIDI keyboard in a user-friendly and modern interface."
 msgstr ""
-"přes klávesnici nebo MIDI klávesy v uživatelském přijatelném a moderním "
+"přes klávesnici nebo MIDI klávesy v uživatelsky přívětivém a moderním "
 "prostředí."
 
 #: home.twig:42
 msgid "Bundled with ready-to-use content"
-msgstr ""
+msgstr "Zabaleno s hotovým obsahem"
 
 #: home.twig:43
 msgid ""
@@ -91,7 +91,7 @@ msgstr "Stáhnout pro systém Apple OS&nbsp;X"
 
 #: home.twig:59
 msgid "Pick your flavor."
-msgstr ""
+msgstr "Vyberte si."
 
 #: home.twig:60
 msgid "Linux, Windows or macOS."
@@ -99,11 +99,11 @@ msgstr "systém Linux, Windows nebo Apple OS&nbsp;X"
 
 #: home.twig:69
 msgid "Houston, we have a problem."
-msgstr ""
+msgstr "Houstone, máme problém."
 
 #: home.twig:70
 msgid "Stand by, we got you covered."
-msgstr ""
+msgstr "Počkejte, jsme tu pro vás."
 
 #: home.twig:73
 msgid "Visit our forum"
@@ -143,15 +143,15 @@ msgstr "Navštivte LMMS místo pro sdílení (LSP)"
 
 #: home.twig:92
 msgid "Don't be modest."
-msgstr ""
+msgstr "Nebuďte skromní."
 
 #: home.twig:93
 msgid "Show us your creations."
-msgstr ""
+msgstr "Ukažte nám vaše výtvory."
 
 #: home.twig:101
 msgid "We <3 open source."
-msgstr ""
+msgstr "My <3 open source."
 
 #: home.twig:106
 msgid "Fork us on Github"
@@ -160,11 +160,11 @@ msgstr "Vytvořte odnož kódu na Githubu"
 #: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community-driven project."
-msgstr ""
+msgstr "LMMS je 100% zdarma, open source, komunitou řízený projekt."
 
 #: home.twig:109
 msgid "Proudly hosted on Github."
-msgstr ""
+msgstr "Hrdě hostováno na GitHub."
 
 #: home.twig:124
 msgid "Take a peek."
@@ -176,7 +176,7 @@ msgstr "Zhlédnout naše promo video."
 
 #: home.twig:139
 msgid "Click anywhere to close this dialog"
-msgstr ""
+msgstr "Klikněte kamkoliv pro zavření dialogu."
 
 #: home.twig:147
 msgid "Featuring:"
@@ -188,7 +188,7 @@ msgstr "Funkce jádra"
 
 #: home.twig:155
 msgid "Compose music on Windows, Linux and macOS"
-msgstr ""
+msgstr "Skládejte hudbu v systémech Windows, Linux a macOS"
 
 #: home.twig:156
 msgid "Sequence, compose, mix and automate songs in one simple interface"
@@ -201,7 +201,7 @@ msgstr "Psaní not přes MIDI nebo klávesnici"
 
 #: home.twig:158
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
-msgstr "Posílení nástrojů pomocí editoru bicích/basů."
+msgstr "Podpořte nástrojové stopy pomocí editoru bicích/basů."
 
 #: home.twig:159
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
@@ -237,12 +237,16 @@ msgid ""
 "Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip"
 " and more"
 msgstr ""
+"16 vestavěných syntetizérů, obsahující emulaci Roland ® TB-303, Commodore 64"
+" ® SID mikročipu, Nintendo ® NES a GameBoy, Yamaha ® OPL2 čipu a více"
 
 #: home.twig:177
 msgid ""
 "Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
 msgstr ""
+"Vestavěný ZynAddSubFx: Polyfonní, multitimbrální, mikrotonální, vícehlasý, "
+"subtraktivní a padový syntetizér v jednom mocném pluginu"
 
 #: home.twig:178
 msgid ""
@@ -266,6 +270,7 @@ msgstr "Podpora efektových pluginů VST ® (systém Linux a Windows)"
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
 msgstr ""
+"Vestavěný kompresor, omezovač, zpoždění, reverb, zkreslení a zesilovač basů"
 
 #: home.twig:195
 msgid "Bundled graphic and parametric equalizers"
@@ -273,7 +278,7 @@ msgstr "Připravené s grafickými a parametrickými ekvalizéry"
 
 #: home.twig:196
 msgid "Built-in visualization/spectrum analyzer"
-msgstr ""
+msgstr "Předpřipravený s vizualizačním / spektrálním analyzátorem"
 
 #: download/linux.twig:6
 msgid ""
@@ -293,11 +298,11 @@ msgstr ""
 
 #: download/linux.twig:53
 msgid "Install LMMS now"
-msgstr ""
+msgstr "Nainstalovat LMMS nyní"
 
 #: download/linux.twig:54
 msgid "From your package manager"
-msgstr ""
+msgstr "Ze správce balíků"
 
 #: download/linux.twig:57
 msgid "If this doesn't work for you, run this command in a terminal."
@@ -342,6 +347,8 @@ msgid ""
 "For VST support, please see the <a "
 "href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
 msgstr ""
+"Pro podporu VST, prosím navštivte <a "
+"href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki</a>"
 
 #: download/linux.twig:99
 msgid ""
@@ -389,7 +396,7 @@ msgstr "Skladby vytvořené v LMMS"
 
 #: showcase.twig:12
 msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr ""
+msgstr "Nejlepší z LMMS IV od umělců LMMS"
 
 #: showcase.twig:20
 msgid "The Best of LMMS Vol.3 by LMMS Artists"
@@ -463,7 +470,7 @@ msgid ""
 "\t\t\t\t\tAll the received funds will be donated for further development of LMMS, the program that we love."
 msgstr ""
 "#### Soutěž skončila **16. dubna 2017**.\n"
-"\t\t\tPodpořte LMMS a kupte si sbírku od nás [stránka na bandcamp](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
+"\t\t\tPodpořte LMMS a kupte si sbírku na naší [stránce na bandcamp](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
 "\n"
 "\t\t\tPoslechněte si všechny skladby [zde]. (https://docs.google.com/spreadsheets/d/1pPoM7CQIg5C4uzgOrlRnytJiAsOD5K6jxitF-SIjXRQ/pubhtml?gid=975440614&single=true)\n"
 "\n"
@@ -472,9 +479,9 @@ msgstr ""
 "\t\t\t#### Originální popis:\n"
 "\t\t\tJsme hrdí na to, že vám představujeme soutěž Nejlepší z LMMS IV!\n"
 "\t\t\tCíl této soutěže je inspirovat komunitu k vytvoření a sdílení jejich hudby. Pošlete vaši skladbu na odkaz níže do půlnoci\n"
-"  \t\t(23:59:59) 16. dubna (UTC) pro šanci, aby byla vaše skladba zahrnuta do alba Nejlepší z LMMS IV. Tato sbírka bude nahrána na Bandcamp, všechny\n"
+"  \t\t(23:59:59) 16. dubna (UTC), aby mohla být vaše skladba zahrnuta do alba Nejlepší z LMMS IV. Tato sbírka bude nahrána na Bandcamp, všechny\n"
 "\t\t\tzisky půjdou na rozvoj LMMS.\n"
-"\t\t\tLetošní příspěvky jsou zpracovány pomocí formuláře Google. Přijímáme příspěvky nahrané na YouTube, Soundcloud nebo Clyp. Pro úplná pravidla se podívejte na odesílací formulář:\n"
+"\t\t\tLetošní příspěvky jsou zpracovány pomocí formuláře Google. Přijímáme příspěvky nahrané na YouTube, Soundcloud nebo Clyp. Úplná pravidla naleznete v formuláři pro odeslání skladby:\n"
 "\t\t\thttps://goo.gl/forms/cifEliOViOXTSc8H2\n"
 "\t\t\t#### Pravidla soutěže:\n"
 "\t\t\t1. **Termín**\n"
@@ -489,14 +496,14 @@ msgstr ""
 "\t\t\t  - Musíte se přihlásit pouze přes tento formulář.\n"
 "\t\t\t\t- Nepovolujeme více jak **dva** příspěvky od jednoho autora. \n"
 "\t\t\t\t- Spolupráce se počítá jako **jedna** položka za každého zúčastněného umělce.\n"
-"\t\t\t\t- Pouze příspěvky nahrané na Soundcloud, YouTube nebo Clyp.\n"
-"\t\t\t\t- Skladba musí být dostupná do konce posuzování, jinak je tato skladba diskvalifikovaná.\n"
+"\t\t\t\t- Přijímáme pouze příspěvky nahrané na Soundcloud, YouTube nebo Clyp.\n"
+"\t\t\t\t- Skladba musí být dostupná do konce soutěže, jinak je tato skladba diskvalifikovaná.\n"
 "\t\t\t4. **Hodnotitelé**\n"
 "\t\t\t  - Porota se skládá z: Greippi, Jacoby Davis, Spekular, Stakeout Punch a Squatro.\n"
 "\t\t\t5. **Hodnocení**\n"
 "\t\t\t  - Po skončení termínu se hodnotitelé rozhodnou a zveřejní rozhodnutí do 14 dní.\n"
 "\t\t\t6. **Zveřejnění**\n"
-"\t\t\t  - 25 nejlépe hodnocených skladeb bude zveřejněno v albu na Bandcamp s cenou \"zaplať, kolik chceš\".\n"
+"\t\t\t  - 25 nejlépe hodnocených skladeb bude zveřejněno v albu na Bandcamp s cenovkou \"zaplať, kolik chceš\".\n"
 "\t\t\t\t\tVšechny získané prostředky budou věnované rozvoji LMMS, programu, který milujete."
 
 #: competitions.twig:66
@@ -791,7 +798,7 @@ msgid ""
 "\tjoin us in making LMMS better!"
 msgstr ""
 "LMMS je zdarma, open-source program zcela postavený malým počtem\n"
-"\tdobrovolníků v jejich volném čase. Ale abychom tento projektu udržely, potřebujeme\n"
+"\tdobrovolníků v jejich volném čase. Ale abychom tento projekt udržely, potřebujeme\n"
 "\ttoto číslo zvýšit. Pokud máte pocit, že něčím přispějete komunitě,\n"
 "\tpomozte nám vylepšovat LMMS!"
 
@@ -824,8 +831,8 @@ msgid ""
 "\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
 "\t\t\t\t\t   to introduce yourself."
 msgstr ""
-"Koukněte se na naší<a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> a na náš\n"
-"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">seznam chyb</a>pro začátek. S LMMS\n"
+"Koukněte se na naší <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> a na náš\n"
+"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">seznam chyb</a>. S LMMS\n"
 "\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailovým seznamem</a> budete\n"
 "\t\t\t\t\t   mít přehled."
 
@@ -908,6 +915,8 @@ msgid ""
 "Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
 "\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 msgstr ""
+"Náš IRC kanál je <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> na\n"
+"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 
 #: get-involved.twig:103
 msgid ""
@@ -915,6 +924,9 @@ msgid ""
 "\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
 "\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
 msgstr ""
+"<a href=\"https://discordapp.com/\">Discord</a>\n"
+"\t\t\t\t\tje modernější alternativa k IRC. Připojte se na server\n"
+"\t\t\t\t\t<a href=\"/chat/\">zde</a>."
 
 #: get-involved.twig:116 navbar.php:9
 msgid "Forum"
@@ -952,7 +964,7 @@ msgstr "Modifikováno:"
 
 #: artwork.php:56
 msgid "Scalable Vector Format"
-msgstr "Scalable Vector Format"
+msgstr "Formát SVG"
 
 #: artwork.php:57
 msgid "Gimp Image Editor Format"

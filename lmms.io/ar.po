@@ -60,7 +60,7 @@ msgstr "مع لوحة مفاتيح كتابة أو MIDI في واجهة صديق
 
 #: home.twig:42
 msgid "Bundled with ready-to-use content"
-msgstr ""
+msgstr "محزوم مع محتويات جاهزة للاستخدام"
 
 #: home.twig:43
 msgid ""
@@ -88,7 +88,7 @@ msgstr "حمل لأجل macOS"
 
 #: home.twig:59
 msgid "Pick your flavor."
-msgstr ""
+msgstr "انتقي نكهتك."
 
 #: home.twig:60
 msgid "Linux, Windows or macOS."
@@ -96,11 +96,11 @@ msgstr "Linux أو Windows أو macOS."
 
 #: home.twig:69
 msgid "Houston, we have a problem."
-msgstr ""
+msgstr "لدي مشكلة."
 
 #: home.twig:70
 msgid "Stand by, we got you covered."
-msgstr ""
+msgstr "لا تقلق، سنساعدك."
 
 #: home.twig:73
 msgid "Visit our forum"
@@ -140,15 +140,15 @@ msgstr "زر منصة مشاركة LMMS (LSP)"
 
 #: home.twig:92
 msgid "Don't be modest."
-msgstr ""
+msgstr "لا تكن متواضعاً."
 
 #: home.twig:93
 msgid "Show us your creations."
-msgstr ""
+msgstr "أرنا إبداعاتك."
 
 #: home.twig:101
 msgid "We <3 open source."
-msgstr ""
+msgstr "نحن 3> البرمجيات مفتوحة المصدر."
 
 #: home.twig:106
 msgid "Fork us on Github"
@@ -157,11 +157,11 @@ msgstr "شعبنا على GitHub"
 #: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community-driven project."
-msgstr ""
+msgstr "LMMS مشروع مجاني، مفتوح المصدر، مدفوع من قبل المشترك 100%."
 
 #: home.twig:109
 msgid "Proudly hosted on Github."
-msgstr ""
+msgstr "مستضاف بفخر على GitHub."
 
 #: home.twig:124
 msgid "Take a peek."
@@ -173,11 +173,11 @@ msgstr "شاهد ڤ‍يديو الترويج خاصتنا."
 
 #: home.twig:139
 msgid "Click anywhere to close this dialog"
-msgstr ""
+msgstr "انقر في أي مكان لتغلق هذا الحوار"
 
 #: home.twig:147
 msgid "Featuring:"
-msgstr "مبرزا:"
+msgstr "مبرزاً:"
 
 #: home.twig:151
 msgid "Core Functionality"
@@ -185,7 +185,7 @@ msgstr "الوظائف الجوهرية"
 
 #: home.twig:155
 msgid "Compose music on Windows, Linux and macOS"
-msgstr ""
+msgstr "ألف الموسيقى على Windows و Linux و macOS"
 
 #: home.twig:156
 msgid "Sequence, compose, mix and automate songs in one simple interface"
@@ -234,18 +234,24 @@ msgid ""
 "Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip"
 " and more"
 msgstr ""
+"16 مركب مبنيون داخياً، يتضمنون محاكاة Roland ® TB-303، رقاقة Commodore 64 ® "
+"SID الصغيرة، Nintendo ® NES و GameBoy، رقاقة Yamaha ® OPL2 و أكثر"
 
 #: home.twig:177
 msgid ""
 "Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
 msgstr ""
+"ZynAddSubFx مطمور: متعدد الأصوات، كثير طوابع الصوت، صغير النغمية، تركيبات "
+"جمعية و طرحية و خافتة متعددة الأصوات جميعها في موصلة فعالة واحدة"
 
 #: home.twig:178
 msgid ""
 "Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis "
 "UltraSound ® (GUS) formats for high quality instrument patches and banks"
 msgstr ""
+"دعم متعدد العينات محلي لصيغ SoundFont ® (SF2) و Giga (GIG) و Gravis "
+"UltraSound ® (GUS) لرقع و بنوك آلات عالية الجودة"
 
 #: home.twig:188
 msgid "Effects Mixing"
@@ -262,7 +268,7 @@ msgstr "دعم موصلات تأثيرات VST ® القابلة للإسقاط 
 #: home.twig:194
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
-msgstr ""
+msgstr "ضاغط و حادد و تأخير و ترجيع و تشويه و معزز جهارة مبنيون-داخلياً"
 
 #: home.twig:195
 msgid "Bundled graphic and parametric equalizers"
@@ -270,7 +276,7 @@ msgstr "مسويات رسومية و معاملية محزومة"
 
 #: home.twig:196
 msgid "Built-in visualization/spectrum analyzer"
-msgstr ""
+msgstr "مرسم ذبذبات و محلل طيف مبنيان-داخلياً"
 
 #: download/linux.twig:6
 msgid ""
@@ -290,11 +296,11 @@ msgstr ""
 
 #: download/linux.twig:53
 msgid "Install LMMS now"
-msgstr ""
+msgstr "ركب LMMS الآن"
 
 #: download/linux.twig:54
 msgid "From your package manager"
-msgstr ""
+msgstr "من مدير رزمك"
 
 #: download/linux.twig:57
 msgid "If this doesn't work for you, run this command in a terminal."
@@ -339,6 +345,8 @@ msgid ""
 "For VST support, please see the <a "
 "href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
 msgstr ""
+"لدعم VST، من فضلك انظر <a "
+"href=\"https://wiki.archlinux.org/index.php/LMMS\">صفحة ويكي LMMS Arch</a>"
 
 #: download/linux.twig:99
 msgid ""
@@ -386,7 +394,7 @@ msgstr "مقاطع مصنوعة باستخدام LMMS"
 
 #: showcase.twig:12
 msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr ""
+msgstr "الأفضل من LMMS الرابعة بواسطة فناني LMMS"
 
 #: showcase.twig:20
 msgid "The Best of LMMS Vol.3 by LMMS Artists"
@@ -763,7 +771,7 @@ msgid ""
 "If you followed a valid link on this site, please contact us\n"
 "      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
 msgstr ""
-"إذا اتبعت رابطا فعالا على هذا الموقع، من فضلك، تواصل معنا عنه\n"
+"إذا اتبعت رابطاً فعالاً على هذا الموقع، من فضلك، تواصل معنا عنه\n"
 "و <a href=\"//github.com/LMMS/lmms.io/issues/new\">أنشئ قضية</a> على GitHub."
 
 #: foot.twig:24
@@ -896,6 +904,8 @@ msgid ""
 "Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
 "\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 msgstr ""
+"قناة IRC خاصتنا هي <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> على\n"
+"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 
 #: get-involved.twig:103
 msgid ""
@@ -903,6 +913,9 @@ msgid ""
 "\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
 "\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
 msgstr ""
+"<a href=\"https://discordapp.com/\">Discord</a>\n"
+"\t\t\t\t\tهو بديل عصري أكثر ل IRC. التحق بخادمنا\n"
+"\t\t\t\t\t<a href=\"/chat/\">بالنقر هنا</a>."
 
 #: get-involved.twig:116 navbar.php:9
 msgid "Forum"
