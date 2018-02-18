@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-13 21:45+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Julien Chaumont <transifex@julienc.io>, 2017\n"
+"PO-Revision-Date: 2018-02-18 20:58+0100\n"
+"Last-Translator: Olivier Humbert <trebmuh@tuxfamily.org>, 2017\n"
 "Language-Team: French (https://www.transifex.com/lmms/teams/61632/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -312,11 +312,11 @@ msgstr ""
 
 #: download/linux.twig:53
 msgid "Install LMMS now"
-msgstr ""
+msgstr "Installer LMMS maintenant"
 
 #: download/linux.twig:54
 msgid "From your package manager"
-msgstr ""
+msgstr "Avec votre gestionnaire de paquet"
 
 #: download/linux.twig:57
 msgid "If this doesn't work for you, run this command in a terminal."
@@ -365,6 +365,9 @@ msgid ""
 "For VST support, please see the <a "
 "href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
 msgstr ""
+"Pour le support VST, veuillez consulter la <a "
+"href=\"https://wiki.archlinux.org/index.php/LMMS\">page wiki LMMS de Arch</a> "
+"(en anglais)"
 
 #: download/linux.twig:99
 msgid ""
@@ -504,7 +507,7 @@ msgstr ""
 "\t\t\thttps://goo.gl/forms/cifEliOViOXTSc8H2\n"
 "\t\t\t#### Règlement du concours :\n"
 "\t\t\t1. **La date limite**\n"
-"\t\t\t  - les pistes doivent être soumises avant le 16 avril à 23h59m59s UTC en utilisant [ce formulaire](https://goo.gl/forms/cifEliOViOXTSc8H2).\n"
+"\t\t\t  - les pistes doivent être soumises avant le 16 avril à 23h59m59s UTC en utilisant [ce formulaire](https://goo.gl/forms/cifEliOViOXTSc8H2).\n"
 "\t\t\t2. **Les pistes**\n"
 "\t\t\t  - doivent être produites dans LMMS.\n"
 "\t\t\t\t- vous pouvez utiliser d'autres programmes pour la mastérisation et le post-traitement.\n"
@@ -937,6 +940,8 @@ msgid ""
 "Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
 "\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 msgstr ""
+"Notre canal IRC est <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> sur\n"
+"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a> (en anglais)."
 
 #: get-involved.twig:103
 msgid ""
@@ -944,6 +949,9 @@ msgid ""
 "\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
 "\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
 msgstr ""
+"<a href=\"https://discordapp.com/\">Discord</a>\n"
+"\t\t\t\t\test une alternative plus moderne à IRC. Rejoignez notre serveur \n"
+"\t\t\t\t\t<a href=\"/chat/\">en cliquant ici>/a> (en anglais)."
 
 #: get-involved.twig:116 navbar.php:9
 msgid "Forum"
