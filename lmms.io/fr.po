@@ -951,7 +951,7 @@ msgid ""
 msgstr ""
 "<a href=\"https://discordapp.com/\">Discord</a>\n"
 "\t\t\t\t\test une alternative plus moderne à IRC. Rejoignez notre serveur \n"
-"\t\t\t\t\t<a href=\"/chat/\">en cliquant ici>/a> (en anglais)."
+"\t\t\t\t\t<a href=\"/chat/\">en cliquant ici</a> (en anglais)."
 
 #: get-involved.twig:116 navbar.php:9
 msgid "Forum"
