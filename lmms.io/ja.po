@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-13 21:45+0100\n"
+"POT-Creation-Date: 2018-03-18 14:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: fumi, 2017\n"
 "Language-Team: Japanese (https://www.transifex.com/lmms/teams/61632/ja/)\n"
@@ -20,11 +20,11 @@ msgstr ""
 
 #: home.twig:11
 msgid "Let's make music"
-msgstr "音楽を創ろう"
+msgstr "音楽を作ろう"
 
 #: home.twig:12
 msgid "with a free, cross-platform tool for your computer."
-msgstr "フリーでクロスプラットフォームのツールで"
+msgstr "無料・クロスプラットフォーム"
 
 #: home.twig:14
 msgid "Download now"
@@ -36,40 +36,40 @@ msgstr "参加しよう"
 
 #: home.twig:27
 msgid "Making beats has never been easier."
-msgstr ""
+msgstr "ビートの作成がもっと簡単に"
 
 #: home.twig:32
 msgid "Produce music with your computer"
-msgstr ""
+msgstr "パソコンで曲を作ろう"
 
 #: home.twig:33
 msgid ""
 "by creating melodies and beats, synthesizing and mixing sounds, arranging "
 "samples and much more."
-msgstr ""
+msgstr "メロディー・ビートの作成・サウンドの合成・シンセサイズ・アレンジ等ができます。"
 
 #: home.twig:37
 msgid "Playback instruments, samples and plugins"
-msgstr ""
+msgstr "楽器・サンプル・プラグインを再生"
 
 #: home.twig:38
 msgid ""
 "with a typing or MIDI keyboard in a user-friendly and modern interface."
-msgstr ""
+msgstr "ユーザーに慣れ親しまれたMIDIキーボードで入力します。"
 
 #: home.twig:42
 msgid "Bundled with ready-to-use content"
-msgstr ""
+msgstr "すぐに使える用意はできています。"
 
 #: home.twig:43
 msgid ""
 "from an assortment of instrument and effect plugins, presets and samples to "
 "VST and SoundFont support."
-msgstr ""
+msgstr "インストゥルメント・エフェクトプラグイン・プリセット・サンプルからVSTやサウンドフォントのサポートまで"
 
 #: home.twig:52
 msgid "Made by musicians, for musicians."
-msgstr ""
+msgstr "\"Made by musicians, for musicians\""
 
 #: home.twig:56
 msgid "Download for Linux"
@@ -85,140 +85,140 @@ msgstr "ダウンロード（macOS用）"
 
 #: home.twig:59
 msgid "Pick your flavor."
-msgstr ""
+msgstr "エディションの選択"
 
 #: home.twig:60
 msgid "Linux, Windows or macOS."
-msgstr ""
+msgstr "Linux・Windows・macOS"
 
 #: home.twig:69
 msgid "Houston, we have a problem."
-msgstr ""
+msgstr "困ったことがあれば聞いてください"
 
 #: home.twig:70
 msgid "Stand by, we got you covered."
-msgstr ""
+msgstr "私たちが助けます。"
 
 #: home.twig:73
 msgid "Visit our forum"
-msgstr ""
+msgstr "フォーラム"
 
 #: home.twig:74
 msgid "Visit our Facebook page"
-msgstr ""
+msgstr "Facebook"
 
 #: home.twig:75
 msgid "Chat now on Discord"
-msgstr ""
+msgstr "Discord"
 
 #: home.twig:76
 msgid "Visit our GitHub page"
-msgstr ""
+msgstr "Github"
 
 #: home.twig:77
 msgid "Ask your questions here"
-msgstr ""
+msgstr "ここで質問してください。"
 
 #: home.twig:78
 msgid "and answer a few questions while you're waiting."
-msgstr ""
+msgstr "待っている間に解決できるかもしれません。"
 
 #: home.twig:85
 msgid "Sharing means caring."
-msgstr ""
+msgstr "音楽を共有しよう"
 
 #: home.twig:90
 msgid "Find musicians"
-msgstr ""
+msgstr "ミュージシャンを見つける"
 
 #: home.twig:91
 msgid "Visit the LMMS Sharing Platform (LSP)"
-msgstr ""
+msgstr "LMMS共有プラットフォーム(LSP)にアクセス"
 
 #: home.twig:92
 msgid "Don't be modest."
-msgstr ""
+msgstr "恥ずかしがらないでください。"
 
 #: home.twig:93
 msgid "Show us your creations."
-msgstr ""
+msgstr "あなたの作品を見せましょう。"
 
 #: home.twig:101
 msgid "We <3 open source."
-msgstr ""
+msgstr "LMMSはオープンソースです"
 
 #: home.twig:106
 msgid "Fork us on Github"
-msgstr ""
+msgstr "Githubからソースコードを入手"
 
 #: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community-driven project."
-msgstr ""
+msgstr "LMMSは100%無料で、オープンソースでコミュニティーが立ち上げたプロジェクトです"
 
 #: home.twig:109
 msgid "Proudly hosted on Github."
-msgstr ""
+msgstr "Githubで管理されています"
 
 #: home.twig:124
 msgid "Take a peek."
-msgstr ""
+msgstr "覗いてみる"
 
 #: home.twig:127
 msgid "Watch our promo video."
-msgstr ""
+msgstr "紹介動画"
 
 #: home.twig:139
 msgid "Click anywhere to close this dialog"
-msgstr ""
+msgstr "閉じるにはどこか押してください"
 
 #: home.twig:147
 msgid "Featuring:"
-msgstr ""
+msgstr "特徴 :"
 
 #: home.twig:151
 msgid "Core Functionality"
-msgstr ""
+msgstr "基本的な機能"
 
 #: home.twig:155
 msgid "Compose music on Windows, Linux and macOS"
-msgstr ""
+msgstr "Windows・Linux・macOSに対応"
 
 #: home.twig:156
 msgid "Sequence, compose, mix and automate songs in one simple interface"
-msgstr ""
+msgstr "シーケンス・作曲・ミックス等が一つのシンプルなインターフェースに。"
 
 #: home.twig:157
 msgid "Note playback via MIDI or typing keyboard"
-msgstr ""
+msgstr "MIDIやキーボードによる入力支援"
 
 #: home.twig:158
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
-msgstr ""
+msgstr "楽曲をまとめるビートベースラインエディタが付属"
 
 #: home.twig:159
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
-msgstr ""
+msgstr "パターン・ノート・コード・メロディーを微調整するピアノロールエディタ"
 
 #: home.twig:160
 msgid ""
 "Full user-defined track-based automation and computer-controlled automation "
 "sources"
-msgstr ""
+msgstr "ユーザーが指定する、トラック・ベースの自動化とコンピュータによる自動化のソース"
 
 #: home.twig:161
 msgid "Import of MIDI files and Hydrogen project files"
-msgstr ""
+msgstr "MIDIファイル (.mid) ・Hydrogenプロジェクトファイル (.h2song) の読み込みサポート"
 
 #: home.twig:171
 msgid "Musical Instruments"
-msgstr ""
+msgstr "楽器プラグイン"
 
 #: home.twig:175
 msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
-msgstr ""
+msgstr "「VSTige」　32・64ビットのVSTプラグインの読み込み (64ビットのVSTは64ビットWindows版のみ対応)"
 
 #: home.twig:176
 msgid ""
@@ -226,67 +226,75 @@ msgid ""
 "Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip"
 " and more"
 msgstr ""
+"「16種類のシンセサイザー」　Roland ® TB-303・Commodore 64 ® SID マイクロチップ・任天堂 ® "
+"ファミコン・ゲームボーイ・Yamaha ® OPL2 チップ等を内蔵"
 
 #: home.twig:177
 msgid ""
 "Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
 msgstr ""
+"「ZynAddSubFx」　"
+"ポリフォニック・マルチティンバー・マイクロトーン・マルチボイスの加算機能・サブトラクティブやパッド合成などを詰め込んだ強力なプラグイン"
 
 #: home.twig:178
 msgid ""
 "Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis "
 "UltraSound ® (GUS) formats for high quality instrument patches and banks"
 msgstr ""
+"「SF2Player」「GIGPlayer」　高品質な楽器プリセットサウンドフォント (.sf2) ・Giga (.gig) ・Gravis "
+"UltlaSound®(GUS)サポート"
 
 #: home.twig:188
 msgid "Effects Mixing"
-msgstr ""
+msgstr "エフェクト等"
 
 #: home.twig:192
 msgid "Drop-in LADSPA plug-in support"
-msgstr ""
+msgstr "LADSPAプラグインのサポート"
 
 #: home.twig:193
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
-msgstr ""
+msgstr "VSTエフェクトのサポート(WindowsとLinux)"
 
 #: home.twig:194
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
-msgstr ""
+msgstr "コンプレッサー・リミッター・ディレイ・リバーブ・ディストーション・バスエンハンサーの内蔵"
 
 #: home.twig:195
 msgid "Bundled graphic and parametric equalizers"
-msgstr ""
+msgstr "グラフィック・イコライザー内蔵"
 
 #: home.twig:196
 msgid "Built-in visualization/spectrum analyzer"
-msgstr ""
+msgstr "ビジュアライゼーション・スペクトラムアナライザの付属"
 
 #: download/linux.twig:6
 msgid ""
 "LMMS is included in most major Linux distribution's package repositories.<br>\n"
 "\tPlease <a href=\"get-involved/#contact\">contact us</a> if your distribution is not listed here."
 msgstr ""
+"LMMSはLinuxディストリビューションのレポジトリーに入っています。<br>\n"
+"もしレポジトリーにない場合は、<a href=\"get-involved/#contact\">知らせて</a>ください。"
 
 #: download/linux.twig:48
 msgid ""
 "For installing LMMS on Debian based distributions such as Debian itself, "
 "Ubuntu or Linux Mint, just click the button below."
-msgstr ""
+msgstr "Ubuntu・LinuxMint等のDebianベースのLinuxにインストールする場合は下のボタンをクリック"
 
 #: download/linux.twig:53
 msgid "Install LMMS now"
-msgstr ""
+msgstr "今すぐインストール"
 
 #: download/linux.twig:54
 msgid "From your package manager"
-msgstr ""
+msgstr "パッケージマネージャーから"
 
 #: download/linux.twig:57
 msgid "If this doesn't work for you, run this command in a terminal."
-msgstr ""
+msgstr "もし動作しない場合には、このコマンドを端末上で実行してください。"
 
 #: download/linux.twig:59
 msgid ""
@@ -294,10 +302,12 @@ msgid ""
 "href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
 "repository</a>."
 msgstr ""
+"レポジトリーのバージョンアップが遅い場合には<a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio</a>のレポジトリーを使用してください。"
 
 #: download/linux.twig:60 download/linux.twig:81
 msgid "VST Support"
-msgstr ""
+msgstr "VST対応"
 
 #: download/linux.twig:61
 msgid ""
@@ -306,42 +316,48 @@ msgid ""
 "href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
 "repository</a>, run this command in a terminal."
 msgstr ""
+"もし、VSTを使用したい場合 (Wineのインストールが必要) 、公式のVST用のパッケージがあります。<a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio</a>を使用している場合には、以下のコマンドを端末で実行してください。"
 
 #: download/linux.twig:67 download/linux.twig:73
 msgid "Run the following command as root in a terminal:"
-msgstr ""
+msgstr "管理者権限で端末 (ターミナル) を開いて、次のコマンドを入力します。"
 
 #: download/linux.twig:79 download/linux.twig:93
 msgid "Run the following command in a terminal:"
-msgstr ""
+msgstr "端末で以下のコマンドを入力して実行してください :"
 
 #: download/linux.twig:82
 msgid ""
 "For VST support, please see the <a "
 "href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
 msgstr ""
+"VSTを使用するためには<a href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS "
+"wiki ページ</a>を参照してください。"
 
 #: download/linux.twig:99
 msgid ""
 "AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and "
 "more to come in the future), with VST support enabled by default on AMD64."
 msgstr ""
+"AOSC OSでは様々なアーキテクチャで（AMD64 / "
+"x86_64、ARMv7など）LMMSが作動します。AMD64ではデフォルトでVSTがサポートされています。"
 
 #: download/linux.twig:100
 msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
-msgstr ""
+msgstr "パッケージキットを使用してAOSC OSにLMMSをインストールする(推奨) :"
 
 #: download/linux.twig:102
 msgid "To install LMMS on AOSC OS with DPKG:"
-msgstr ""
+msgstr "dpkgコマンドを使用してAOSC OSにLMMSをインストールする :"
 
 #: download/linux.twig:104
 msgid "To install LMMS on AOSC OS with RPM:"
-msgstr ""
+msgstr "RPMコマンドを使用してAOSC OSにLMMSをインストールする :"
 
 #: download/linux.twig:110
 msgid "Build LMMS from source"
-msgstr ""
+msgstr "ソースコードからLMMSをインストールする"
 
 #: download/linux.twig:111
 msgid ""
@@ -350,6 +366,9 @@ msgid ""
 "href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS development wiki "
 "on GitHub</a> for instructions on how to compile LMMS for Linux."
 msgstr ""
+"あなたのLinuxディストリビューションがLMMSパッケージを提供していない場合(またはバージョンが古い場合)、ソースコードからLMMSをインストールすることができます。"
+" Linux用のLMMSのコンパイル方法については、<a "
+"href=\"https://github.com/LMMS/lmms/wiki/Compiling\">GitHubのLMMS開発Wiki</a>を参照してください。"
 
 #: showcase.twig:6 navbar.php:12
 msgid "Showcase"
@@ -357,45 +376,115 @@ msgstr "ショーケース"
 
 #: showcase.twig:6
 msgid "Tracks made with LMMS"
-msgstr ""
+msgstr "LMMSで作られたトラック"
 
 #: showcase.twig:12
 msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr ""
+msgstr "The Best of LMMS Vol.4"
 
 #: showcase.twig:20
 msgid "The Best of LMMS Vol.3 by LMMS Artists"
-msgstr ""
+msgstr "The Best of LMMS Vol.3"
 
 #: showcase.twig:28
 msgid "The Best of LMMS Vol.2 by LMMS Artists"
-msgstr ""
+msgstr "The Best of LMMS vol.2"
 
 #: showcase.twig:36
 msgid "The Best of LMMS Vol.1 by LMMS Artists"
-msgstr ""
+msgstr "The Best of LMMS vol.1"
 
-#: competitions.twig:10 competitions.twig:12 navbar.php:13
+#: competitions.twig:10 navbar.php:13
 msgid "Competitions"
-msgstr ""
+msgstr "大会"
 
 #: competitions.twig:10
 msgid "Official competitions organised by LMMS and its community members"
-msgstr ""
+msgstr "LMMS・コミュニティーによる公式の大会"
 
-#: competitions.twig:14
-msgid "Current competitions"
-msgstr ""
+#: competitions.twig:13
+msgid "Current competitions:"
+msgstr "現在の大会:"
 
-#: competitions.twig:15
+#: competitions.twig:16
+msgid "The Best of LMMS vol. V"
+msgstr "The Best of LMMS vol.5"
+
+#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:71
+msgid ""
+"We are proud to present to you The Best of LMMS contest volume 5!\n"
+"\t\t\tThe contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight\n"
+"  \t\t(23:59.59) on April 16th (UTC time) for a chance to be featured on the BoL v5 album. The compilation will be uploaded to Bandcamp, with all\n"
+"\t\t\tprofits going towards LMMS' further development.\n"
+"\t\t\t\n"
+"\t\t\t[Submit here](https://goo.gl/47ZXq1)\n"
+"\t\t\t#### Competition rules:\n"
+"\t\t\t1. **The Deadline:**\n"
+"\t\t\t  - Track must be submitted by April 16th 2018 at 23:59.59 UTC using [this form](https://goo.gl/47ZXq1).\n"
+"\t\t\t2. **The Track:**\n"
+"\t\t\t\t- Must be produced in LMMS.\n"
+"\t\t\t\t- You may use other programs for mastering and post processing.\n"
+"\t\t\t\t- Must be under 10 minutes long.\n"
+"\t\t\t\t- No winning tracks from previous Best of LMMS albums allowed.\n"
+"\t\t\t\t- No remixes allowed.\n"
+"\t\t\t3. **The Submissions:**\n"
+"\t\t\t\t- You must submit using this form only.\n"
+"\t\t\t\t- No more than ONE entry per artist is allowed.*\n"
+"\t\t\t\t- Collaborations count as ONE entry for each artist involved.*\n"
+"\t\t\t\t- No collaborating with judges on entries.\n"
+"\t\t\t\t- Only submissions hosted on Soundcloud, YouTube, or Clyp are allowed.\n"
+"\t\t\t\t- Your entry must be available for listening until the end of the judging process. If not, your entry will be disqualified.\n"
+"\t\t\t4. **The Judges:**\n"
+"\t\t\t\t-The jury consists of: Dull Machine, Etorna_Z, Jernemies, Poleroyd, Umcaruje and Unfa.\n"
+"\t\t\t5. **The Judging:**\n"
+"\t\t\t\t- After the deadline, the judges will score each track and release the results within 14 days.\n"
+"\t\t\t6. **Release:**\n"
+"\t\t\t\t- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.\n"
+"\n"
+"\t\t\t\\* *This year the judging process has changed, to ensure fairer handling of entries. The change to one submission only is to allow each and every entry to be fully scored by the panel of judges. This was previously handled by a preliminary screening round to help cut down the large amount of entries received. By lowering the amount of up-front entries allowed, the judges will have the time to fully score each track entered.*"
+msgstr ""
+"The Best of LMMS Vol.5の開催をここに宣言します！\n"
+"このコンテストはコミュニティーの発展と作曲の推進、共有を目的として開催されています。\n"
+"2018年4月16日23時59分59秒 (UTC基準) までに下のリンクから応募してください。入賞作品はBoL5のアルバムで収録され、収益のすべてはLMMSの今後の開発資金に割り当てられます。\n"
+"\n"
+"[応募はこちらから](https://goo.gl/47ZXq1)\n"
+"\n"
+"#### ルール :\n"
+"1. **締め切り :**\n"
+" - [このフォーム](https://goo.gl/47ZXq1) を使用して2018年4月16日までに応募してください。\n"
+"2. **曲 :**\n"
+"- LMMSで作られていなければなりません。\n"
+"- マスタリングやミキシングのためにLMMS以外のソフトを使用することは認められています。\n"
+"- 10分以内でなければなりません。\n"
+"- 過去のBest of LMMSで入賞した曲を応募することはできません。\n"
+"- リミックス曲は応募できません。\n"
+"3. **応募:**\n"
+"- 必ず [フォーム](https://goo.gl/47ZXq1) を使用して応募してください。\n"
+"- 一曲のみの応募となります。\n"
+"- 合作は一曲とカウントされます。(合作と個人の作品を同時に応募することはできません。)\n"
+"- 審査員と合作してはいけません。\n"
+"- 曲はSoundCloud、YouTube又はClypで公開されたもののみ応募可能です。\n"
+"- 応募した曲は、大会が完全に終わるまでは必ず公開してください。\n"
+"** 以上のルールを守れない場合には失格となります。\n"
+"4. **審査員 :**\n"
+"-審査員は「Dull Machine、Etorna_Z、Jernemies、 Poleroyd、Umcaruje、Unfa」の六人です。\n"
+"5. **審査:**\n"
+"- 締め切りの後、二週間以内にエントリーされた曲のスコアと一緒に結果が発表されます。\n"
+"6. **リリース:**\n"
+"- 上位25曲はBandCampでアルバムとしてリリースされます。収益のすべてはLMMSのさらなる発展のために寄付されます。\n"
+"\n"
+"※注意点\n"
+"\\* *今年は、審査基準が変更され、より公平な審査が実現します。以前は二段階に分かれて審査が行われていましたが、すべての曲を採点するために、応募できる曲数が一曲になりました。*"
+
+#: competitions.twig:58
 msgid "Past competitions:"
-msgstr ""
+msgstr "過去の大会"
 
-#: competitions.twig:18
+#: competitions.twig:61
 msgid "The Best of LMMS vol. IV"
-msgstr ""
+msgstr "The Best of LMMS vol.4"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:79
+#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:130
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -434,12 +523,53 @@ msgid ""
 "\t\t\t  - The 25 highest scoring songs will be released as an album on Bandcamp with the price of \"Pay what you want\".\n"
 "\t\t\t\t\tAll the received funds will be donated for further development of LMMS, the program that we love."
 msgstr ""
+"####大会は** 2017年4月16日 **に終了しました。\n"
+"LMMSを[bandcamp]で曲を購入することができます。\n"
+"（https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4）\n"
+"\n"
+"[こちら](https://docs.google.com/spreadsheets/d/1pPM7CQIg5C4uzgOrlRnytJiAsOD5K6jxitF-SIjXRQ/pubhtml?gid=975440614&single=true)からすべての作品を聞くことができます。\n"
+"\n"
+"入賞作品：\n"
+"<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/321234884&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false\"></iframe>\n"
+"\n"
+"#### 開催について：\n"
+"私たちは第四回目のThe Best of LMMS開催することを誇りに思っています！\n"
+"このコンテストは、作曲の促進と共有するのを目的としています。\n"
+"（23時59分59秒）までに下のリンクでトラックを送信してください。\n"
+"入賞作品はbandcampにアップロードされます。\n"
+"LMMSのさらなる発展に向けた利益\n"
+"今年の投稿はGoogleフォームで処理されます。\n"
+"YouTube、Soundcloud、Clypでホストされた投稿を受け入れます。完全な規則については、提出書式をチェックしてください：\n"
+"https://goo.gl/forms/cifEliOViOXTSc8H2\n"
+"\n"
+"####大会のルール：\n"
+"1. **締め切り**\n"
+" - トラックは、4月16日までに[このフォーム]（https://goo.gl/forms/cifEliOViOXTSc8H2）を使用して、23：59.59 UTCに提出する必要があります。\n"
+"2. **トラック**\n"
+" - LMMSで作られていなければいけません。\n"
+" - マスタリングやミキシングのために他のソフトを使用することを認めます。\n"
+" - 10分未満でなければなりません。\n"
+" - 以前のBest of LMMSアルバムで採用された曲は応募できません。\n"
+" - リミックス曲は応募できません。\n"
+"3. **提出物**\n"
+" - このフォームのみを使用して提出する必要があります。\n"
+" - アーティストあたり** 2作品 **以上の応募はできません。\n"
+" - コラボレーションは、関係する各アーティストのための** １ **エントリーとして数えられます。\n"
+" - Soundcloud、YouTube、またはClypで投稿されているものだけが許可されます。\n"
+" - あなたのエントリーは、審査プロセスが終了するまで聞くことができなければなりません。そうでない場合、あなたのエントリーは失格となります。\n"
+"4. **審査員**\n"
+" - 審査員は、Greippi、Jacoby Davis、Spekular、Stakeout Punch、Squatroの５人で構成されています。\n"
+"5.審査プロセス**\n"
+" - 締め切り後、審査員は二週間以内に結果を発表します。\n"
+"6. **リリース**\n"
+" - 上位25曲曲はBandcampのアルバムとして \"あなたが欲しいものを支払う\"という価格で発売されます。\n"
+"受け取った資金はすべて、LMMSのさらなる発展のために寄付されます。"
 
-#: competitions.twig:66
+#: competitions.twig:109
 msgid "The Best of LMMS vol. III"
-msgstr ""
+msgstr "The Best of LMMS vol.3"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:140
+#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:191
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -466,12 +596,36 @@ msgid ""
 "\t\t\t5. Release. The compilation will be released on a dedicated LMMS artists Bandcamp with the price of “Pay what you want”. All the received funds\n"
 "\t\t\t\twill be donated for further development of LMMS, the program that we love."
 msgstr ""
+"#### 大会は **2016年3月16日 に終了しました。\n"
+"[band camp](https://lmmsartists.bandcamp.com)のサイトでThe Best of LMMSのアルバムを購入できます。\n"
+"すべての作品を聞くには[ここ](https://soundcloud.com/groups/the-best-of-lmms-competition-v3)をクリックしてください。\n"
+"\n"
+"入賞作品:\n"
+"<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/211975750&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false\"></iframe>\n"
+"\n"
+"#### 主催にあたって\n"
+"この時が再びやってきました。あなたがLMMSで作った自信のある作品を発表するチャンスです！\n"
+"「The Best of LMMS」を開催します！！\n"
+"大会はLMMS新規ユーザーの獲得と、作曲の推進のために開催されます。\n"
+"入省作品は、Bandcampにアルバムとしてリリースされ、すべての収益は、LMMSの開発のために寄付されます。\n"
+"応募の締め切りは、2016年3月16日0:00(UTC)までです。\n"
+"大会の詳しい説明は、[SoundCloudグループ](https://soundcloud.com/groups/the-best-of-lmms-competition-v3)で確認できます。\n"
+"\n"
+"#### 大会のルール\n"
+"１：締め切りは3月16日0:00(UTC)までです。どんなジャンルの曲でもよく、10分以内の作品を提出してください。\n"
+"\n"
+"２：曲はLMMSで作られてなければなりませんが、マスタリングやミキシング用にLMMS以外のソフト(AudacityやArdour等)を使用することを認めます。\n"
+"未発表の曲である必要はありませんが、以前の大会の入賞作品は応募できません。\n"
+"\n"
+"３：審査員は「Zech Henderson , Second Flight , Umcaruje , Greippi , Tres Finnochiaro , Abludo」の六人です。\n"
+"\n"
+"４：エントリーを締め切った後、結果は二週間以内に発表されます。"
 
-#: competitions.twig:102
+#: competitions.twig:145
 msgid "The Best of LMMS vol. II"
-msgstr ""
+msgstr "The Best of LMMS vol.2"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:189
+#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:240
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -497,12 +651,32 @@ msgid ""
 "\t\t\ttext so you won't know from who or how many the feedback is. Note that you aren't guaranteed any feedback, it depends on how much time the judges have.\n"
 "\t\t\tAlso note that the judges are just regular LMMS artists and no matter what feedback you get the judges' decision for album songs is final."
 msgstr ""
+"#### 大会は **2015年4月1日 に終了しました。\n"
+"[band camp](https://lmmsartists.bandcamp.com)のサイトでThe Best of LMMSのアルバムを購入できます。\n"
+"すべての作品を聞くには[ここ](https://soundcloud.com/groups/the-best-of-lmms-competition-v2)をクリックしてください。\n"
+"\n"
+"入賞作品:\n"
+"<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/103762698&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false\"></iframe>\n"
+"\n"
+"#### 大会のルール\n"
+"１：締め切りは4月1日0:00(UTC)までです。どんなジャンルの曲でもよく、10分以内の作品を提出してください。\n"
+"\n"
+"２：曲はLMMSで作られてなければなりませんが、マスタリングやミキシング用にLMMS以外のソフト(AudacityやArdour等)を使用することを認めます。\n"
+"未発表の曲である必要はありませんが、以前の大会の入賞作品は応募できません。\n"
+"\n"
+"３：審査員は「Stian Jørgensrud (Sti-Jay) , Ian Letarte, Hashhakaj kamaluden , Fastigium , artlu , TRonix and Jernemies」の六人です。\n"
+"\n"
+"４：エントリーを締め切った後、結果は二週間以内に発表されます。\n"
+"\n"
+"補足:\n"
+"\n"
+"\"Want Feedback\"のタグをつけることによって審査員からの公表を受け取ることができます。複数の審査員からのコメントでも、コメントは一つにまとめられます。なお、審査員はLMMSアーティストであって、どのような公表があっても審査員の決定が最終的なものであります。"
 
-#: competitions.twig:137
+#: competitions.twig:180
 msgid "The Best of LMMS vol. I"
-msgstr ""
+msgstr "The Best of LMMS vol. 1"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:237
+#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:288
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
@@ -529,80 +703,98 @@ msgid ""
 "\t\t\t4. Release. The compilation will be released on a dedicated LMMS artists Bandcamp with the price of “Pay what you want”. All the received funds\n"
 "\t\t\t\twill be donated for further development of LMMS, the program that we love."
 msgstr ""
+"#### 大会は **2014年2月15日 に終了しました。\n"
+"[band camp](https://lmmsartists.bandcamp.com)のサイトでThe Best of LMMSのアルバムを購入できます。\n"
+"すべての作品を聞くには[ここ](https://soundcloud.com/groups/lmms-top-songs-compilation)をクリックしてください。\n"
+"\n"
+"入賞作品:\n"
+"<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/27083727&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false\"></iframe>\n"
+"\n"
+"#### 大会のルール\n"
+"１：締め切りは4月1日0:00(UTC)までです。どんなジャンルの曲でもよく、10分以内の作品を提出してください。\n"
+"\n"
+"２：曲はLMMSで作られてなければなりませんが、マスタリングやミキシング用にLMMS以外のソフト(AudacityやArdour等)を使用することを認めます。\n"
+"未発表の曲である必要はありませんが、以前の大会の入賞作品は応募できません。\n"
+"\n"
+"３：審査員は「Brian Amin (Maniarib) , Joshua Wade (Second Flight) , Uroš Maravić (Umcaruje) , Evan Roberts (Stakeout Punch), Joshua Flynn (Raptor980), Jan Heemstra (Combustible Lemonade)」の六人です。\n"
+"\n"
+"４：エントリーを締め切った後、結果は二週間以内に発表されます。"
 
 #: download/index.twig:32
 msgid "Download LMMS"
-msgstr ""
+msgstr "LMMSをダウンロード"
 
 #: download/index.twig:32
 msgid ""
 "Downloading and using LMMS is free! Just choose the operating system you "
 "want to run LMMS on:"
-msgstr ""
+msgstr "LMMSは無料です！LMMSをインストールするOSを選んでください："
 
 #: download/index.twig:51
 msgid "Install LMMS on Linux"
-msgstr ""
+msgstr "Linux向けのLMMSをインストールする"
 
 #: download/index.twig:52
 msgid "Click one of the buttons below to download LMMS for Linux."
-msgstr ""
+msgstr "Linux用のLMMSをダウンロードするには、下のボタンをクリックしてください。"
 
 #: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:73
 #: download/index.twig:80
 #: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:215
 msgid "Stable Versions"
-msgstr ""
+msgstr "安定版"
 
 #: download/index.twig:59
 msgid ""
 "Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
 "<code>.AppImage</code> executable before running"
 msgstr ""
+"起動させる前に <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
+"<code>.AppImage</code> を実行してください。"
 
 #: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:106
 #: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:181
 #: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:242
 msgid "Beta Versions"
-msgstr ""
+msgstr "ベータ版"
 
 #: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:136
 msgid "Other options"
-msgstr ""
+msgstr "オプション"
 
 #: download/index.twig:78
 msgid "Install LMMS on Windows"
-msgstr ""
+msgstr "WindowsにLMMSをインストールする"
 
 #: download/index.twig:79
 msgid ""
 "Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
 "Windows"
-msgstr ""
+msgstr "Windows用のLMMSをダウンロードするには、下の(32bitまたは64bit)のボタンを押してください。"
 
 #: download/index.twig:96
 msgid "Install LMMS on macOS"
-msgstr ""
+msgstr "macOSにLMMSをインストールする"
 
 #: download/index.twig:97
 msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr ""
+msgstr "macOS用のLMMSをダウンロードするには、下のボタンを押してください。"
 
 #: download/index.twig:114
 msgid "Downloads labeled Beta are pre-release software, stability may suffer."
-msgstr ""
+msgstr "ベータ版は動作が不安定です。"
 
 #: download/index.twig:115
 msgid "Previous releases"
-msgstr ""
+msgstr "以前のリリース"
 
 #: download/index.twig:333
 msgid "Show release notes"
-msgstr ""
+msgstr "リリースノートを見る"
 
 #: branding.twig:6 navbar.php:14
 msgid "Branding"
-msgstr ""
+msgstr "Branding"
 
 #: branding.twig:6
 msgid "Download LMMS Artwork"
@@ -622,17 +814,19 @@ msgstr "LMMSプロジェクトアイコン"
 
 #: errorpage.twig:6
 msgid "Error <b>%code%</b>"
-msgstr ""
+msgstr "エラー <b>%code%</b>"
 
-#: errorpage.twig:8
+#: errorpage.twig:9
 msgid ""
 "If you followed a valid link on this site, please contact us\n"
 "      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
 msgstr ""
+"リンク切れ等ありましたら、GitHub上の <a href=\"//github.com/LMMS/lmms.io/issues/new\">file "
+"an issue</a> で報告してください。"
 
 #: foot.twig:24
 msgid "Powered by"
-msgstr ""
+msgstr "Powered by"
 
 #: get-involved.twig:6 navbar.php:7
 msgid "Get Involved"
@@ -645,6 +839,7 @@ msgid ""
 "\tnumber to grow. So if you feel like giving something back to the community,\n"
 "\tjoin us in making LMMS better!"
 msgstr ""
+"LMMSは無料で、少数のボランティアが開発しています。LMMSプロジェクトの存続のためには、もっと多くの人を必要とします。もし、興味が少しでもあるのであれば、LMMSのコミュニティに入ってより良いものにしましょう！！"
 
 #: get-involved.twig:11
 msgid "What you can do"
@@ -652,11 +847,11 @@ msgstr "あなたにできること"
 
 #: get-involved.twig:12
 msgid "There are multiple ways of contributing:"
-msgstr ""
+msgstr "貢献する方法はいくつかあります。"
 
 #: get-involved.twig:18
 msgid "Join Development"
-msgstr ""
+msgstr "開発に参加する"
 
 #: get-involved.twig:21
 msgid ""
@@ -664,6 +859,9 @@ msgid ""
 "\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
 "\t\t\t\t\t   coding!"
 msgstr ""
+"今、我々に必要なものは開発者です。\n"
+"LMMSはQtを使用してC++言語で書かれています。\n"
+"Qtはフレームワークなので何か知っていれば、躊躇しないで開発を助けてください！！"
 
 #: get-involved.twig:24
 msgid ""
@@ -672,10 +870,12 @@ msgid ""
 "\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
 "\t\t\t\t\t   to introduce yourself."
 msgstr ""
+"始めるには、我々の<a href=\"//github.com/LMMS/lmms/wiki\">GithubWiki</a>と<a href=\"//github.com/LMMS/lmms/issues\">bugtracker</a>のサイトを見てください。\n"
+"さらに、LMMSの<a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing listは</a>自己紹介をするのに最適な場所です。"
 
 #: get-involved.twig:35
 msgid "Website & Docs"
-msgstr ""
+msgstr "ウェブサイト＆ドキュメント"
 
 #: get-involved.twig:38
 msgid ""
@@ -683,6 +883,9 @@ msgid ""
 "\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, our documentation is hosted using a\n"
 "\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki instance</a>."
 msgstr ""
+"WebサイトやLMMSの文章の向上によって、我々を助けることができます。このサイトのソースコードはGitHub repo <a "
+"href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>を見てください。文章は<a "
+"href=\"//lmms.io/wiki\">MedsiaWiki instance</a>を使用して作成されています。"
 
 #: get-involved.twig:41
 msgid ""
@@ -690,20 +893,24 @@ msgid ""
 "\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> if you're\n"
 "\t\t\t\t\t   interested in helping out with the documentation!"
 msgstr ""
+"スパムによってWikiの公開登録が無効になっています。\n"
+"もし、ドキュメンテーションを助けようとしたいならば、<a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a>に投稿してください。"
 
 #: get-involved.twig:53
 msgid "Donate"
-msgstr ""
+msgstr "寄付"
 
 #: get-involved.twig:56
 msgid ""
 "Even though donations are not the thing we need the most (that'd be developers), they help us pay\n"
 "\t\t\t\t\t   our bills, for our domain lmms.io for instance."
 msgstr ""
+"寄付は我々の一番欲しいもの(開発者)ではありませんが、\n"
+"例えばlmms.ioのドメイン料のための資金など…"
 
 #: get-involved.twig:59
 msgid "Donate via PayPal"
-msgstr ""
+msgstr "PayPalで寄付する"
 
 #: get-involved.twig:68
 msgid "Translations"
@@ -716,10 +923,13 @@ msgid ""
 "\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
 "\t\t\t\t\t   GitHub Wiki."
 msgstr ""
+"もしLMMSにあなたが使用している言語がないのであれば、同じ言語を話しているほかのユーザーに翻訳してもらってください。GitHub上の<a "
+"href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Crearing a "
+"localization</a>のページに指示が書いてあります。"
 
 #: get-involved.twig:80
 msgid "How to get in touch"
-msgstr ""
+msgstr "連絡を取る方法"
 
 #: get-involved.twig:86
 msgid "Mailing List"
@@ -728,24 +938,26 @@ msgstr "メーリングリスト"
 #: get-involved.twig:89
 msgid ""
 "Posting to the mailing list is the best way to reach out to our developers:"
-msgstr ""
+msgstr "メールで送信するのが、開発者に見てもらう際に一番効率の良い方法です。"
 
 #: get-involved.twig:90
 msgid "Subscribe to LMMS-Devel mailing list"
-msgstr ""
+msgstr "LMMS開発者のメーリングリストに登録する。"
 
 #: get-involved.twig:101
 msgid ""
 "Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
 "\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 msgstr ""
+"我々のIRC チャンネルは、<a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a>です。\n"
+"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 
 #: get-involved.twig:103
 msgid ""
 "<a href=\"https://discordapp.com/\">Discord</a>\n"
 "\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
 "\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
-msgstr ""
+msgstr "<a href=\"https://discordapp.com/\">Discord</a>"
 
 #: get-involved.twig:116 navbar.php:9
 msgid "Forum"
@@ -753,13 +965,13 @@ msgstr "フォーラム"
 
 #: get-involved.twig:119
 msgid "We host a forum for our users here on this website:"
-msgstr ""
+msgstr "このサイトでは、ユーザー向けのフォーラムを開催しています。"
 
 #: get-involved.twig:131
 msgid ""
 "For reporting a bug or suggesting a new feature, please use the GitHub issue"
 " tracker:"
-msgstr ""
+msgstr "バグの報告や新機能の提案は、GitHubの問題追跡ツールを使用してください："
 
 #: /tmp/cache/twig/lmms.io/ca/caa7c0e6c169d8a008f589ef3c01ec1f68dc6cb191ac2e6ffd6a642334b27b0f.php:32
 msgid ""
@@ -767,66 +979,68 @@ msgid ""
 "still download releases on <a "
 "href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 msgstr ""
+"申し訳ありません。最新のリリース情報を取得する際に問題が発生しましたが、<a "
+"href=\"//github.com/LMMS/lmms/releases\">Github</a>でリリースをダウンロードできます。"
 
 #: artwork.php:18
 msgid "Author:"
-msgstr ""
+msgstr "作者:"
 
 #: artwork.php:24
 msgid "Modified/Themed By:"
-msgstr ""
+msgstr "変更/テーマ by:"
 
 #: artwork.php:56
 msgid "Scalable Vector Format"
-msgstr ""
+msgstr "Scalable Vector Format(.svg)"
 
 #: artwork.php:57
 msgid "Gimp Image Editor Format"
-msgstr ""
+msgstr "Gimp Image Editor Format(.xcf)"
 
 #: artwork.php:58
 msgid "Portable Document Format"
-msgstr ""
+msgstr "Portable Document Format(.pdf)"
 
 #: artwork.php:59
 msgid "Adobe Photoshop Format"
-msgstr ""
+msgstr "Adobe Photoshop Format(.psd)"
 
 #: artwork.php:60
 msgid "PNG Format"
-msgstr ""
+msgstr "PNGファイル(.png)"
 
 #: artwork.php:62
 msgid "JPEG Format"
-msgstr ""
+msgstr "JPEGファイル(.jpeg)"
 
 #: artwork.php:63
 msgid "Bitmap Format"
-msgstr ""
+msgstr "Bitmapファイル(.bmp)"
 
 #: artwork.php:64
 msgid "Windows Icon Format"
-msgstr ""
+msgstr "Windowsアイコンファイル(.ico)"
 
 #: artwork.php:65
 msgid "Apple Icon Format"
-msgstr ""
+msgstr "Appleアイコンファイル(.ico)"
 
 #: artwork.php:66
 msgid "Unknown File"
-msgstr ""
+msgstr "サポートしないファイルです。"
 
 #: index.php:37
 msgid "You seem to have taken a wrong turn."
-msgstr ""
+msgstr "どうやら間違えた選択をしたようです。"
 
 #: index.php:40
 msgid "Oops, that is not supposed to happen."
-msgstr ""
+msgstr "ごめんなさい、予期しないことが発生しました。"
 
 #: index.php:43
 msgid "Yuck, an error!"
-msgstr ""
+msgstr "ごめんなさい、エラーです。"
 
 #: navbar.php:6
 msgid "Download"
@@ -834,20 +1048,20 @@ msgstr "ダウンロード"
 
 #: navbar.php:8
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: navbar.php:8
 msgid "Docs"
-msgstr ""
+msgstr "ドキュメント"
 
 #: navbar.php:10
 msgid "Sharing Platform"
-msgstr ""
+msgstr "プラットフォームを共有する"
 
 #: navbar.php:10
 msgid "Share"
-msgstr ""
+msgstr "シェア"
 
 #: navbar.php:11
 msgid "More"
-msgstr ""
+msgstr "その他"

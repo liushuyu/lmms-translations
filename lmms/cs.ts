@@ -363,57 +363,62 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomatableModel</name>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="67"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="70"/>
         <source>&amp;Reset (%1%2)</source>
         <translation>&amp;Resetovat hodnoty (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="74"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="77"/>
         <source>&amp;Copy value (%1%2)</source>
         <translation>&amp;Kopírovat hodnoty (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="80"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="85"/>
         <source>&amp;Paste value (%1%2)</source>
         <translation>&amp;Vložit hodnoty (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="88"/>
+        <source>&amp;Paste value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="96"/>
         <source>Edit song-global automation</source>
         <translation>Upravit hlavní automatizaci skladby</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="93"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="101"/>
         <source>Remove song-global automation</source>
         <translation>Odebrat hlavní automatizaci skladby</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="102"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="110"/>
         <source>Remove all linked controls</source>
         <translation>Odebrat všechny propojené ovládací prvky</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="113"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="121"/>
         <source>Connected to %1</source>
         <translation>Připojeno k %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="117"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="125"/>
         <source>Connected to controller</source>
         <translation>Připojeno ke kontroléru</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="123"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="131"/>
         <source>Edit connection...</source>
         <translation>Upravit připojení...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="126"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="134"/>
         <source>Remove connection</source>
         <translation>Odebrat připojení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="132"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="140"/>
         <source>Connect to controller...</source>
         <translation>Připojit ke kontroléru...</translation>
     </message>
@@ -1349,189 +1354,189 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>DualFilterControls</name>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="40"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="41"/>
         <source>Filter 1 enabled</source>
         <translation>Filtr 1 zapnutý</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="41"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="42"/>
         <source>Filter 1 type</source>
         <translation>Typ filtru 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="42"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="43"/>
         <source>Cutoff 1 frequency</source>
         <translation>Frekvence oříznutí 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="43"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="44"/>
         <source>Q/Resonance 1</source>
         <translation>Q/rezonance 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="44"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="45"/>
         <source>Gain 1</source>
         <translation>Zesílení 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="46"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="47"/>
         <source>Mix</source>
         <translation>Mix</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="48"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="49"/>
         <source>Filter 2 enabled</source>
         <translation>Filtr 1 zapnutý</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="49"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="50"/>
         <source>Filter 2 type</source>
         <translation>Typ filtru 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="50"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="51"/>
         <source>Cutoff 2 frequency</source>
         <translation>Frekvence oříznutí 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="51"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="52"/>
         <source>Q/Resonance 2</source>
         <translation>Q/rezonance 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="52"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="53"/>
         <source>Gain 2</source>
         <translation>Zesílení 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="54"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="77"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="55"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="78"/>
         <source>LowPass</source>
         <translation>Dolní propust</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="55"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="78"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="56"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="79"/>
         <source>HiPass</source>
         <translation>Horní propust</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="56"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="79"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="57"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="80"/>
         <source>BandPass csg</source>
         <translation>Pásmová propust csg</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="57"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="80"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="58"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="81"/>
         <source>BandPass czpg</source>
         <translation>Pásmová propust czpg</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="58"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="81"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="59"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="82"/>
         <source>Notch</source>
         <translation>Pásmová zádrž</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="59"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="82"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="60"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="83"/>
         <source>Allpass</source>
         <translation>Všepásmový filtr</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="60"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="83"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="61"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="84"/>
         <source>Moog</source>
         <translation>Moogův filtr</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="61"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="84"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="62"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="85"/>
         <source>2x LowPass</source>
         <translation>2x dolní propust</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="62"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="85"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="63"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="86"/>
         <source>RC LowPass 12dB</source>
         <translation>RC dolní propust 12dB</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="63"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="86"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="64"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="87"/>
         <source>RC BandPass 12dB</source>
         <translation>RC pásmová propust 12dB</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="64"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="87"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="65"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="88"/>
         <source>RC HighPass 12dB</source>
         <translation>RC horní propust 12dB</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="65"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="88"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="66"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="89"/>
         <source>RC LowPass 24dB</source>
         <translation>RC dolní propust 24dB</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="66"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="89"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="67"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="90"/>
         <source>RC BandPass 24dB</source>
         <translation>RC pásmová propust 24dB</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="67"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="90"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="68"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="91"/>
         <source>RC HighPass 24dB</source>
         <translation>RC horní propust 24dB</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="68"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="91"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="69"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="92"/>
         <source>Vocal Formant Filter</source>
         <translation>Vokální formantový filtr</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="69"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="92"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="70"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="93"/>
         <source>2x Moog</source>
         <translation>2x Moogův filtr</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="70"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="93"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="71"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="94"/>
         <source>SV LowPass</source>
         <translation>SV dolní propust</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="71"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="94"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="72"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="95"/>
         <source>SV BandPass</source>
         <translation>SV pásmová propust</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="72"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="95"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="73"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="96"/>
         <source>SV HighPass</source>
         <translation>SV horní propust</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="73"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="96"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="74"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="97"/>
         <source>SV Notch</source>
         <translation>SV pásmová zádrž</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="74"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="97"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="75"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="98"/>
         <source>Fast Formant</source>
         <translation>Rychlý formantový filtr</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="75"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="98"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="76"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="99"/>
         <source>Tripole</source>
         <translation>Třípólový filtr</translation>
     </message>
@@ -2602,17 +2607,17 @@ Ověřte si prosím, zda máte povolen zápis do souboru a do složky, ve které
         <translation>(Nejpomalejší – nejmenší)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/ExportProjectDialog.cpp" line="261"/>
+        <location filename="../../src/gui/ExportProjectDialog.cpp" line="263"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../../src/gui/ExportProjectDialog.cpp" line="262"/>
+        <location filename="../../src/gui/ExportProjectDialog.cpp" line="264"/>
         <source>Error while determining file-encoder device. Please try to choose a different output format.</source>
         <translation>Chyba při zjišťování souboru enkodéru. Zkuste prosím vybrat jiný výstupní formát.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/ExportProjectDialog.cpp" line="293"/>
+        <location filename="../../src/gui/ExportProjectDialog.cpp" line="295"/>
         <source>Rendering: %1%</source>
         <translation>Renderuji: %1%</translation>
     </message>
@@ -2620,8 +2625,14 @@ Ověřte si prosím, zda máte povolen zápis do souboru a do složky, ve které
 <context>
     <name>Fader</name>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="222"/>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="232"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="228"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="238"/>
+        <source>Set value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="229"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="239"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Vložte prosím novou hodnotu mezi %1 a %2:</translation>
     </message>
@@ -2687,7 +2698,7 @@ Ověřte si prosím, zda máte povolen zápis do souboru a do složky, ve které
         <translation>soubor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="773"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="777"/>
         <source>--- Factory files ---</source>
         <translation>--- Tovární soubory ---</translation>
     </message>
@@ -4040,8 +4051,8 @@ Efektové kanály můžete odstranit nebo přesunout v kontextové nabídce, kte
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="128"/>
-        <source>Phrygolydian</source>
-        <translation>Frygická</translation>
+        <source>Phrygian</source>
+        <translation>Frygický</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="129"/>
@@ -4218,158 +4229,158 @@ Efektové kanály můžete odstranit nebo přesunout v kontextové nabídce, kte
 <context>
     <name>InstrumentSoundShaping</name>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="47"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="48"/>
         <source>VOLUME</source>
         <translation>HLASITOST</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="48"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="49"/>
         <source>Volume</source>
         <translation>Hlasitost</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="51"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="52"/>
         <source>CUTOFF</source>
         <translation>SEŘÍZNUTÍ</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="52"/>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="65"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="53"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="66"/>
         <source>Cutoff frequency</source>
         <translation>Frekvence oříznutí</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="53"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="54"/>
         <source>RESO</source>
         <translation>REZONANCE</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="54"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="55"/>
         <source>Resonance</source>
         <translation>Rezonance</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="61"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="62"/>
         <source>Envelopes/LFOs</source>
         <translation>Obálky/LFO</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="64"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="65"/>
         <source>Filter type</source>
         <translation>Typ filtru</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="66"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="67"/>
         <source>Q/Resonance</source>
         <translation>Q/rezonance</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="82"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="83"/>
         <source>LowPass</source>
         <translation>Dolní propust</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="83"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="84"/>
         <source>HiPass</source>
         <translation>Horní propust</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="84"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="85"/>
         <source>BandPass csg</source>
         <translation>Pásmová propust csg</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="85"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="86"/>
         <source>BandPass czpg</source>
         <translation>Pásmová propust czpg</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="86"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="87"/>
         <source>Notch</source>
         <translation>Pásmová zádrž</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="87"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="88"/>
         <source>Allpass</source>
         <translation>Všepásmový filtr</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="88"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="89"/>
         <source>Moog</source>
         <translation>Moogův filtr</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="89"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="90"/>
         <source>2x LowPass</source>
         <translation>2x dolní propust</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="90"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="91"/>
         <source>RC LowPass 12dB</source>
         <translation>RC dolní propust 12dB</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="91"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="92"/>
         <source>RC BandPass 12dB</source>
         <translation>RC pásmová propust 12dB</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="92"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="93"/>
         <source>RC HighPass 12dB</source>
         <translation>RC horní propust 12dB</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="93"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="94"/>
         <source>RC LowPass 24dB</source>
         <translation>RC dolní propust 24dB</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="94"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="95"/>
         <source>RC BandPass 24dB</source>
         <translation>RC pásmová propust 24dB</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="95"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="96"/>
         <source>RC HighPass 24dB</source>
         <translation>RC horní propust 24dB</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="96"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="97"/>
         <source>Vocal Formant Filter</source>
         <translation>Vokální formantový filtr</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="97"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="98"/>
         <source>2x Moog</source>
         <translation>2x Moogův filtr</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="98"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="99"/>
         <source>SV LowPass</source>
         <translation>SV dolní propust</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="99"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="100"/>
         <source>SV BandPass</source>
         <translation>SV pásmová propust</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="100"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="101"/>
         <source>SV HighPass</source>
         <translation>SV horní propust</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="101"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="102"/>
         <source>SV Notch</source>
         <translation>SV pásmová zádrž</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="102"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="103"/>
         <source>Fast Formant</source>
         <translation>Rychlý formantový filtr</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="103"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="104"/>
         <source>Tripole</source>
         <translation>Třípólový filtr</translation>
     </message>
@@ -4696,6 +4707,12 @@ Efektové kanály můžete odstranit nebo přesunout v kontextové nabídce, kte
         <translation>Logaritmické zobrazení</translation>
     </message>
     <message>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="774"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="791"/>
+        <source>Set value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="775"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Zadejte prosím novou hodnotu mezi -96.0 dBFS a 6.0 dBFS:</translation>
@@ -4755,6 +4772,11 @@ Efektové kanály můžete odstranit nebo přesunout v kontextové nabídce, kte
 </context>
 <context>
     <name>LcdSpinBox</name>
+    <message>
+        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="175"/>
+        <source>Set value</source>
+        <translation type="unfinished"/>
+    </message>
     <message>
         <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="176"/>
         <source>Please enter a new value between %1 and %2:</source>
@@ -6146,120 +6168,120 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
         <translation>Sub3-LFO2</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="308"/>
-        <location filename="../../plugins/monstro/Monstro.h" line="326"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="309"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="327"/>
         <source>Sine wave</source>
         <translation>Sinusová vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="309"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="310"/>
         <source>Bandlimited Triangle wave</source>
         <translation>Pásmově zúžená trojúhelníková vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="310"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="311"/>
         <source>Bandlimited Saw wave</source>
         <translation>Pásmově zúžená pilovitá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="311"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="312"/>
         <source>Bandlimited Ramp wave</source>
         <translation>Pásmově zúžená šikmá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="312"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="313"/>
         <source>Bandlimited Square wave</source>
         <translation>Pásmově zúžená pravoúhlá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="313"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="314"/>
         <source>Bandlimited Moog saw wave</source>
         <translation>Pásmově zúžená pilovitá vlna typu Moog</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="314"/>
-        <location filename="../../plugins/monstro/Monstro.h" line="332"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="315"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="333"/>
         <source>Soft square wave</source>
         <translation>Zaoblená pravoúhlá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="315"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="316"/>
         <source>Absolute sine wave</source>
         <translation>Absolutní sinusová vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="316"/>
-        <location filename="../../plugins/monstro/Monstro.h" line="334"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="317"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="335"/>
         <source>Exponential wave</source>
         <translation>Exponenciální vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="317"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="318"/>
         <source>White noise</source>
         <translation>Bílý šum</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="318"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="319"/>
         <source>Digital Triangle wave</source>
         <translation>Digitální trojúhelníková vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="319"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="320"/>
         <source>Digital Saw wave</source>
         <translation>Digitální pilovitá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="320"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="321"/>
         <source>Digital Ramp wave</source>
         <translation>Digitální šikmá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="321"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="322"/>
         <source>Digital Square wave</source>
         <translation>Digitální pravoúhlá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="322"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="323"/>
         <source>Digital Moog saw wave</source>
         <translation>Digitální pilovitá vlna typu Moog</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="327"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="328"/>
         <source>Triangle wave</source>
         <translation>Trojúhelníková vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="328"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="329"/>
         <source>Saw wave</source>
         <translation>Pilovitá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="329"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="330"/>
         <source>Ramp wave</source>
         <translation>Šikmá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="330"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="331"/>
         <source>Square wave</source>
         <translation>Pravoúhlá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="331"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="332"/>
         <source>Moog saw wave</source>
         <translation>Pilovitá vlna typu Moog</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="333"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="334"/>
         <source>Abs. sine wave</source>
         <translation>Abs. sinusová vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="335"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="336"/>
         <source>Random</source>
         <translation>Náhodná</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="336"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="337"/>
         <source>Random smooth</source>
         <translation>Vyhlazená náhodná</translation>
     </message>
@@ -7531,93 +7553,93 @@ PM znamená fázovou modulaci: fáze oscilátoru 3 je modulována oscilátorem 2
 <context>
     <name>PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="195"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="198"/>
         <source>Note Velocity</source>
         <translation>Dynamika noty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="196"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="199"/>
         <source>Note Panning</source>
         <translation>Panoráma noty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="214"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="217"/>
         <source>Mark/unmark current semitone</source>
         <translation>Zvýraznit/Skrýt zvolený tón</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="215"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="218"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>Zvýraznit/Skrýt zvolený tón ve všech oktávách</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="216"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="219"/>
         <source>Mark current scale</source>
         <translation>Zvýraznit zvolenou stupnici</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="217"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="220"/>
         <source>Mark current chord</source>
         <translation>Zvýraznit zvolený akord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="218"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="221"/>
         <source>Unmark all</source>
         <translation>Skrýt vše</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="219"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="222"/>
         <source>Select all notes on this key</source>
         <translation>Vybrat všechny noty zvolené výšky</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="356"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="359"/>
         <source>Note lock</source>
         <translation>Zamknout notu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="372"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="375"/>
         <source>Last note</source>
         <translation>Podle poslední noty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="399"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="402"/>
         <source>No scale</source>
         <translation>Žádná stupnice</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="414"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="417"/>
         <source>No chord</source>
         <translation>Žádný akord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="472"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="475"/>
         <source>Velocity: %1%</source>
         <translation>Dynamika: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="481"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="484"/>
         <source>Panning: %1% left</source>
         <translation>Panoráma: %1% vlevo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="485"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="488"/>
         <source>Panning: %1% right</source>
         <translation>Panoráma: %1% vpravo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="489"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="492"/>
         <source>Panning: center</source>
         <translation>Panoráma: střed</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3070"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3076"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Otevřete prosím záznam poklepáním!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3631"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3650"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3639"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3658"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Vložte prosím novou hodnotu mezi %1 a %2:</translation>
     </message>
@@ -7625,174 +7647,174 @@ PM znamená fázovou modulaci: fáze oscilátoru 3 je modulována oscilátorem 2
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4046"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4054"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Přehrát/Pozastavit přehrávání aktuálního záznamu (mezerník)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4047"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4055"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Nahrávat z MIDI zařízení / virtuální klávesnice</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4048"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4056"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Nahrávat z MIDI zařízení / virtuální klávesnice při přehrávání skladby nebo stopy bicích/basů</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4049"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4057"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Zastavit přehrávání aktuálního záznamu (mezerník)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4052"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4060"/>
         <source>Click here to play the current pattern. This is useful while editing it. The pattern is automatically looped when its end is reached.</source>
         <translation>Klepněte sem, pokud chcete přehrát aktuální záznam. To je užitečné při editaci. Záznam je automaticky přehráván ve smyčce.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4056"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4064"/>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you can play and edit them afterwards.</source>
         <translation>Klepněte sem, pokud chcete nahrávat z MIDI zařízení nebo z virtuální klávesnice příslušného kanálového okna do aktuálního záznamu. Při nahrávání se zapíší všechny zahrané noty do tohoto záznamu, a následně je můžete přehrát nebo upravit.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4062"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4070"/>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you will hear the song or BB track in the background.</source>
         <translation>Klepněte sem, pokud chcete nahrávat z MIDI zařízení nebo z virtuální klávesnice příslušného kanálového okna do aktuálního záznamu. Při nahrávání se zapíší všechny zahrané noty do tohoto záznamu a na pozadí uslyšíte skladbu nebo stopu bicích/basů.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4068"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4076"/>
         <source>Click here to stop playback of current pattern.</source>
         <translation>Klepněte sem, pokud chcete zastavit přehrávání aktuálního záznamu.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4070"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4078"/>
         <source>Edit actions</source>
         <translation>Akce úprav</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4074"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4082"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Režim kreslení (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4075"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4083"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Režim mazání (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4076"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4084"/>
         <source>Select mode (Shift+S)</source>
         <translation>Režim výběru (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4077"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4085"/>
         <source>Detune mode (Shift+T)</source>
         <translation>Režim rozladění (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4087"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4095"/>
         <source>Click here and draw mode will be activated. In this mode you can add, resize and move notes. This is the default mode which is used most of the time. You can also press &apos;Shift+D&apos; on your keyboard to activate this mode. In this mode, hold %1 to temporarily go into select mode.</source>
         <translation>Klepněte sem pro aktivaci režimu kreslení. V tomto režimu můžete přidávat, měnit a přesouvat noty. Toto je výchozí režim, který se používá nejčastěji. Pro aktivaci tohoto režimu můžete také stisknout &quot;Shift+D&quot; na klávesnici. V tomto režimu podržte %1 pro dočasné přepnutí do režimu výběru.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4099"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4107"/>
         <source>Click here and erase mode will be activated. In this mode you can erase notes. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
         <translation>Klepněte sem pro aktivaci režimu mazání. V tomto režimu můžete vymazávat noty.  Pro aktivaci tohoto režimu můžete také stisknout tlačítko &quot;Shift+E&quot; na klávesnici.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4103"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4111"/>
         <source>Click here and select mode will be activated. In this mode you can select notes. Alternatively, you can hold %1 in draw mode to temporarily use select mode.</source>
         <translation>Klepněte sem pro aktivaci režimu výběru. V tomto režimu můžete vybírat noty. Alternativně můžete v režimu kreslení držet %1 pro dočasné přepnutí do režimu výběru.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4113"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4121"/>
         <source>Click here and detune mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
         <translation>Klepněte sem pro aktivaci režimu rozladění. V tomto režimu můžete klepnutím na notu otevřít její automatické rozladění. To můžete využít ke sklouznutí z jedné noty na jinou. Pro aktivaci tohoto režimu můžete také stisknout klávesu &quot;Shift+T&quot; na klávesnici.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4121"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4129"/>
         <source>Quantize</source>
         <translation>Kvantizace</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4132"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4140"/>
         <source>Copy paste controls</source>
         <translation>Ovládání kopírování a vkládání</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4135"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4143"/>
         <source>Cut selected notes (%1+X)</source>
         <translation>Vyjmout označené noty (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4143"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4151"/>
         <source>Copy selected notes (%1+C)</source>
         <translation>Kopírovat označené noty (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4151"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4159"/>
         <source>Paste notes from clipboard (%1+V)</source>
         <translation>Vložit noty ze schránky (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4159"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4167"/>
         <source>Click here and the selected notes will be cut into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
         <translation>Klepněte sem, pokud chcete označené noty vyjmout a uložit do schránky. Vložit je pak můžete kdekoliv v libovolném záznamu pomocí tlačítka Vložit.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4163"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4171"/>
         <source>Click here and the selected notes will be copied into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
         <translation>Klepněte sem, pokud chcete označené noty zkopírovat do schránky. Vložit je pak můžete kdekoliv v libovolném záznamu pomocí tlačítka Vložit.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4167"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4175"/>
         <source>Click here and the notes from the clipboard will be pasted at the first visible measure.</source>
         <translation>Klepnete-li sem, budou noty ze schránky vloženy do prvního viditelného taktu.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4183"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4191"/>
         <source>Timeline controls</source>
         <translation>Ovládání časové osy</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4190"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4198"/>
         <source>Zoom and note controls</source>
         <translation>Lupa a ovládání not</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4252"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4260"/>
         <source>This controls the magnification of an axis. It can be helpful to choose magnification for a specific task. For ordinary editing, the magnification should be fitted to your smallest notes. </source>
         <translation>Tímto se ovládá zvětšení osy. To může být užitečné při volbě zvětšení pro konkrétní úkol. Při běžné úpravě by mělo být zvětšení použito na vaše nejmenší noty.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4260"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4268"/>
         <source>The &apos;Q&apos; stands for quantization, and controls the grid size notes and control points snap to. With smaller quantization values, you can draw shorter notes in Piano Roll, and more exact control points in the Automation Editor.</source>
         <translation>&quot;Q&quot; znamená kvantizaci, která ovládá mřížku velikosti not a kontrolní body krokování. S menšími hodnotami kvantizace můžete kreslit kratší noty v Piano rollu a přesnější kontrolní body v editoru automatizace.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4270"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4278"/>
         <source>This lets you select the length of new notes. &apos;Last Note&apos; means that LMMS will use the note length of the note you last edited</source>
         <translation>Tímto je možno vybrat délku nových not. &quot;Poslední nota&quot; znamená, že LMMS použije délku naposledy upravované noty.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4277"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4285"/>
         <source>The feature is directly connected to the context-menu on the virtual keyboard, to the left in Piano Roll. After you have chosen the scale you want in this drop-down menu, you can right click on a desired key in the virtual keyboard, and then choose &apos;Mark current Scale&apos;. LMMS will highlight all notes that belongs to the chosen scale, and in the key you have selected!</source>
         <translation>Funkce je přímo propojena s kontextovou nabídkou na virtuální klávesnici vlevo v Piano rollu. Poté, co jste v rozbalovací nabídce zvolili stupnici, můžete klepnout pravým tlačítkem na požadovanou klávesu na virtuální klávesnici, a pak zvolit &quot;Zvýraznit zvolenou stupnici&quot;. LMMS zvýrazní všechny noty, které patří do zvolené stupnice, a to od klávesy, kterou jste vybrali!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4289"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4297"/>
         <source>Let you select a chord which LMMS then can draw or highlight.You can find the most common chords in this drop-down menu. After you have selected a chord, click anywhere to place the chord, and right click on the virtual keyboard to open context menu and highlight the chord. To return to single note placement, you need to choose &apos;No chord&apos; in this drop-down menu.</source>
         <translation>Vyberte si akord, který pak LMMS může nakreslit nebo zvýraznit. V rozbalovací nabídce najdete nejčastěji používané akordy. Po výběru akordu klepněte kamkoliv pro umístění akordu, klepnutím pravým tlačítkem na virtuální klávesnici pak otevřete kontextové menu a zvýrazníte akord. Chcete-li se vrátit k práci s jednotlivými notami, musíte v rozbalovací nabídce zvolit možnost &quot;Žádný akord&quot;.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4326"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4431"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4334"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4439"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano roll – %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4332"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4435"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4340"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4443"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Piano roll – žádný záznam</translation>
     </message>
@@ -8344,352 +8366,352 @@ Důvod: &quot;%2&quot;</translation>
 <context>
     <name>SetupDialog</name>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="142"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="145"/>
         <source>Setup LMMS</source>
         <translation>Nastavení LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="174"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="959"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="177"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="962"/>
         <source>General settings</source>
         <translation>Hlavní nastavení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="176"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="179"/>
         <source>BUFFER SIZE</source>
         <translation>VELIKOST VYR. PAMĚTI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="199"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="702"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="202"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="705"/>
         <source>Reset to default-value</source>
         <translation>Nastavit výchozí hodnoty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="208"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="211"/>
         <source>MISC</source>
         <translation>JINÉ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="216"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="219"/>
         <source>Enable tooltips</source>
         <translation>Zapnout bublinovou nápovědu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="226"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="229"/>
         <source>Show restart warning after changing settings</source>
         <translation>Zobrazit výzvu k restartu po změně nastavení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="235"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="238"/>
         <source>Display volume as dBFS </source>
         <translation>Zobrazit hlasitost v dBFS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="245"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="248"/>
         <source>Compress project files per default</source>
         <translation>Komprimovat soubory s projekty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="254"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="257"/>
         <source>One instrument track window mode</source>
         <translation>Režim jedné stopy pro nástroje</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="263"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="266"/>
         <source>HQ-mode for output audio-device</source>
         <translation>HQ režim pro výstup audio zařízení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="272"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="275"/>
         <source>Compact track buttons</source>
         <translation>Malá tlačítka u stop</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="282"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="285"/>
         <source>Sync VST plugins to host playback</source>
         <translation>Synchronizace VST pluginů s hostujícím přehráváním</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="291"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="294"/>
         <source>Enable note labels in piano roll</source>
         <translation>Povolit názvy tónů v Piano rollu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="300"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="303"/>
         <source>Enable waveform display by default</source>
         <translation>Povolit zobrazení vlny ve výchozím nastavení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="309"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="312"/>
         <source>Keep effects running even without input</source>
         <translation>Nechat efekty spuštěné i bez vstupu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="318"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="321"/>
         <source>Create backup file when saving a project</source>
         <translation>Při ukládání projektu vytvořit záložní soubor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="327"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="330"/>
         <source>Reopen last project on start</source>
         <translation>Po spuštění otevřít poslední projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="337"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="340"/>
         <source>PLUGIN EMBEDDING</source>
         <translation>VLOŽENÍ PLUGINU</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="343"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="346"/>
         <source>No embedding</source>
         <translation>Nevkládat</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="346"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="349"/>
         <source>Embed using Qt API</source>
         <translation>Vložit pomocí rozhraní Qt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="350"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="353"/>
         <source>Embed using native Win32 API</source>
         <translation>Vložit pomocí nativního rozhraní Win32</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="354"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="357"/>
         <source>Embed using XEmbed protocol</source>
         <translation>Vložit pomocí protokolu XEmbed</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="358"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="361"/>
         <source>LANGUAGE</source>
         <translation>Jazyk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="422"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="961"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="425"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="964"/>
         <source>Paths</source>
         <translation>Cesty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="423"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="426"/>
         <source>Directories</source>
         <translation>Adresáře</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="444"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="447"/>
         <source>LMMS working directory</source>
         <translation>Pracovní adresář LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="464"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="467"/>
         <source>Themes directory</source>
         <translation>Adresář pro témata</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="485"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="488"/>
         <source>Background artwork</source>
         <translation>Obrázek na pozadí</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="504"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="507"/>
         <source>VST-plugin directory</source>
         <translation>Adresář pro VST pluginy</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="523"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="526"/>
         <source>GIG directory</source>
         <translation>Adresář pro GIG</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="542"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="545"/>
         <source>SF2 directory</source>
         <translation>Adresář pro SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="563"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="566"/>
         <source>LADSPA plugin directories</source>
         <translation>Adresář pro LADSPA pluginy</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="584"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="587"/>
         <source>STK rawwave directory</source>
         <translation>Adresář pro STK rawwave</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="605"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="608"/>
         <source>Default Soundfont File</source>
         <translation>Výchozí Soundfont soubor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="661"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="964"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="664"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="967"/>
         <source>Performance settings</source>
         <translation>Nastavení výkonu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="665"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="668"/>
         <source>Auto save</source>
         <translation>Automatické ukládání</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="684"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="687"/>
         <source>Enable auto-save</source>
         <translation>Povolit automatické ukládání</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="691"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="694"/>
         <source>Allow auto-save while playing</source>
         <translation>Povolit automatické ukládání během přehrávání</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="718"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="721"/>
         <source>UI effects vs. performance</source>
         <translation>Efekty uživatelského rozhraní vs. výkon</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="724"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="727"/>
         <source>Smooth scroll in Song Editor</source>
         <translation>Plynulé posouvání v Song Editoru</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="731"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="734"/>
         <source>Show playback cursor in AudioFileProcessor</source>
         <translation>Zobrazit přehrávací kurzor v AudioFileProcessoru</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="750"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="967"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="753"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="970"/>
         <source>Audio settings</source>
         <translation>Audio nastavení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="752"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="755"/>
         <source>AUDIO INTERFACE</source>
         <translation>AUDIO ROZHRANÍ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="861"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="969"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="864"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="972"/>
         <source>MIDI settings</source>
         <translation>MIDI nastavení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="863"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="866"/>
         <source>MIDI INTERFACE</source>
         <translation>MIDI ROZHRANÍ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="986"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="989"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="991"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="994"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1028"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1035"/>
         <source>Restart LMMS</source>
         <translation>Restartovat LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1029"/>
-        <source>Please note that most changes won&apos;t take effect until you restart LMMS!</source>
-        <translation>Mnohé změny nastavení se projeví až po restartu LMMS!</translation>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1036"/>
+        <source>Please note that most changes won&apos;t take effect until you restart LMMS!&lt;br&gt;&lt;br&gt;Do you want to restart now? &lt;b&gt;All your unsaved works will be lost!&lt;b&gt;</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1147"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1157"/>
         <source>Frames: %1
 Latency: %2 ms</source>
         <translation>Rámce: %1
 Zpoždění %2 ms</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1168"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1178"/>
         <source>Here you can setup the internal buffer-size used by LMMS. Smaller values result in a lower latency but also may cause unusable sound or bad performance, especially on older computers or systems with a non-realtime kernel.</source>
         <translation>Zde můžete nastavit interní velikost vyrovnávací paměti, která je užívána LMMS. Nízké hodnoty vedou k menšímu zpoždění, ale také způsobují nepoužitelný zvuk nebo špatný výkon, zejména na starých počítačích či systémech s jádrem nepodporujícím real time.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1318"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1328"/>
         <source>Choose LMMS working directory</source>
         <translation>Vyberte pracovní adresář LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1328"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1338"/>
         <source>Choose your GIG directory</source>
         <translation>Vyberte svůj adresář pro GIG soubory</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1339"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1349"/>
         <source>Choose your SF2 directory</source>
         <translation>Vyberte svůj adresář pro SF2 soubory</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1361"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1371"/>
         <source>Choose your VST-plugin directory</source>
         <translation>Vyberte adresář pro VST pluginy</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1393"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1403"/>
         <source>Choose artwork-theme directory</source>
         <translation>Vyberte adresář s tématy</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1415"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1425"/>
         <source>Choose LADSPA plugin directory</source>
         <translation>Vyberte adresář pro LADSPA pluginy</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1437"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1447"/>
         <source>Choose STK rawwave directory</source>
         <translation>Vyberte adresář pro STK rawwave</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1453"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1463"/>
         <source>Choose default SoundFont</source>
         <translation>Vyberte výchozí SoundFont</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1486"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1496"/>
         <source>Choose background artwork</source>
         <translation>Vyberte obrázek na pozadí</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1540"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1550"/>
         <source>minutes</source>
         <translation>minut</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1540"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1550"/>
         <source>minute</source>
         <translation>minuta</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1542"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1552"/>
         <source>Disabled</source>
         <translation>Vypnuto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1543"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1553"/>
         <source>Auto-save interval: %1</source>
         <translation>Interval automatického ukládání: %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1562"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1572"/>
         <source>Set the time between automatic backup to %1.
 Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
         <translation>Nastavte čas mezi automatickým zálohováním na %1.
 Nezapomeňte také svůj projekt uložit ručně. Můžete si vybrat, zda nechcete během přehrávání zakázat ukládání, což je problematické pro některé starší systémy.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1589"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1599"/>
         <source>Here you can select your preferred audio-interface. Depending on the configuration of your system during compilation time you can choose between ALSA, JACK, OSS and more. Below you see a box which offers controls to setup the selected audio-interface.</source>
         <translation>Zde vyberte preferované audio rozhraní. V závislosti na konfiguraci Vašeho systému při kompilaci můžete volit mezi ALSA, JACK, OSS a dalšími. Níže vidíte políčko, které nabízí možnost nastavení vybraného audio rozhraní.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1619"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1629"/>
         <source>Here you can select your preferred MIDI-interface. Depending on the configuration of your system during compilation time you can choose between ALSA, OSS and more. Below you see a box which offers controls to setup the selected MIDI-interface.</source>
         <translation>Zde vyberte preferované MIDI rozhraní. V závislosti na konfiguraci Vašeho systému při kompilaci můžete volit mezi ALSA OSS a dalšími. Níže vidíte políčko, které nabízí možnost nastavení vybraného MIDI rozhraní.</translation>
     </message>
