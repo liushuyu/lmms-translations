@@ -1,8 +1,9 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# French translation for the LMMS website http://lmms.io .
+# Copyright (C) 2017-2018 LMMS team
+# This file is distributed under the same license as the lmms.io website.
 # Olivier Humbert <trebmuh@tuxfamily.org>, 2017-2018.
 # Julien Chaumont <transifex@julienc.io>, 2017.
+# Florian CUNY <poslovitch@gmail.com>, 2017.
 # 
 #, fuzzy
 msgid ""
