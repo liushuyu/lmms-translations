@@ -29,14 +29,15 @@ function validate_po() {
   LANG=""
   BUF=""
   for i in ./**/*.po; do
-    if ! BUF=$(msgfmt --check-format --check-domain "${i}" 2>&1); then
+    if ! BUF=$(msgfmt ${PO_EXTRA} --check-domain "${i}" 2>&1); then
       LANG+="\e[96m$(basename "${i}")\e[0m: \e[93m${BUF}\e[0m\n"
       printf "\e[31mx\e[0m"
       ERR=1
       continue
     fi
-    BUF=$(grep -c "^msgstr \"\"$" "${i}")
-    if [[ "x$BUF" == "x0" ]]; then
+    BUF=$(LANG=C msgfmt --statistics "${i}" 2>&1)
+    BUF=$(echo "${BUF}" | perl -ne '/(\d+) untranslated/ && print $1' 2>/dev/null)
+    if [[ "x$BUF" == "x" ]]; then
       BUF="\e[32mcompleted\e[0m"
     else
       BUF+=" strings remaining"
@@ -50,7 +51,10 @@ function validate_po() {
 
 
 abinfo "Validating translations..."
-
+if [[ "x$STRICT" != 'x' ]]; then
+    abinfo "Strict mode enabled."
+    PO_EXTRA='--check-format'
+fi
 validate_ts
 validate_po
 
