@@ -63,7 +63,7 @@ msgstr ""
 
 #: home.twig:42
 msgid "Bundled with ready-to-use content"
-msgstr ""
+msgstr "Empaquetado con contenido listo para usar"
 
 #: home.twig:43
 msgid ""

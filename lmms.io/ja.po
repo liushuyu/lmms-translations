@@ -145,7 +145,7 @@ msgstr "あなたの作品を見せましょう。"
 
 #: home.twig:101
 msgid "We <3 open source."
-msgstr "LMMSはオープンソースです"
+msgstr "我々はオープンソースを愛しています"
 
 #: home.twig:106
 msgid "Fork us on Github"
@@ -1056,7 +1056,7 @@ msgstr "ドキュメント"
 
 #: navbar.php:10
 msgid "Sharing Platform"
-msgstr "プラットフォームを共有する"
+msgstr "共有"
 
 #: navbar.php:10
 msgid "Share"

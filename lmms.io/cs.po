@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: cs\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
 
 #: home.twig:11
 msgid "Let's make music"
@@ -40,7 +40,7 @@ msgstr "Vytváření rytmů nebylo nikdy jednoduší."
 
 #: home.twig:32
 msgid "Produce music with your computer"
-msgstr "Skládejte hudbu na vašem počítači"
+msgstr "Skládejte hudbu ve vašem počítači"
 
 #: home.twig:33
 msgid ""
@@ -87,7 +87,7 @@ msgstr "Stáhnout pro systém Windows"
 
 #: home.twig:58
 msgid "Download for macOS"
-msgstr "Stáhnout pro systém Apple OS&nbsp;X"
+msgstr "Stáhnout pro systém macOS"
 
 #: home.twig:59
 msgid "Pick your flavor."
@@ -95,7 +95,7 @@ msgstr "Vyberte si."
 
 #: home.twig:60
 msgid "Linux, Windows or macOS."
-msgstr "systém Linux, Windows nebo Apple OS&nbsp;X"
+msgstr "systém Linux, Windows nebo macOS."
 
 #: home.twig:69
 msgid "Houston, we have a problem."
@@ -127,7 +127,7 @@ msgstr "Zeptejte se zde"
 
 #: home.twig:78
 msgid "and answer a few questions while you're waiting."
-msgstr "a odpovězte na nějaké otázky, když budete čekat."
+msgstr "a odpovězte na nějaké otázky, zatímco budete čekat."
 
 #: home.twig:85
 msgid "Sharing means caring."
@@ -193,7 +193,7 @@ msgstr "Skládejte hudbu v systémech Windows, Linux a macOS"
 #: home.twig:156
 msgid "Sequence, compose, mix and automate songs in one simple interface"
 msgstr ""
-"Sekvence, skládání, míchání a automatizace skladeb v jednoduchém prostředí"
+"Sekvence, skládání, mixování a automatizace skladeb v jednoduchém prostředí"
 
 #: home.twig:157
 msgid "Note playback via MIDI or typing keyboard"
@@ -253,6 +253,8 @@ msgid ""
 "Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis "
 "UltraSound ® (GUS) formats for high quality instrument patches and banks"
 msgstr ""
+"Nativní podpora SoundFont ® (SF2), Giga (GIG) a Gravis UltraSound ® (GUS) "
+"formátů pro vysoce kvalitní nástroje a zvukové banky"
 
 #: home.twig:188
 msgid "Effects Mixing"
@@ -384,7 +386,7 @@ msgstr ""
 "Pokud vaše linuxová distribuce neposkytuje balík lmms (nebo je zastaralý), "
 "můžete si sestavit LMMS ze zdrojových kódů. Navštivte <a "
 "href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS vývojářskou wiki "
-"na GitHubu</a> pro instrukce, jak zkompilovat LMMS pro systém Linux."
+"na GitHubu</a>, kde najdete návod, jak zkompilovat LMMS pro systém Linux."
 
 #: showcase.twig:6 navbar.php:12
 msgid "Showcase"
@@ -420,11 +422,11 @@ msgstr "Oficiální soutěže pořádané LMMS a její komunitou"
 
 #: competitions.twig:13
 msgid "Current competitions:"
-msgstr ""
+msgstr "Aktuální soutěže:"
 
 #: competitions.twig:16
 msgid "The Best of LMMS vol. V"
-msgstr ""
+msgstr "Nejlepší z LMMS V"
 
 #: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:71
 msgid ""
@@ -459,6 +461,36 @@ msgid ""
 "\n"
 "\t\t\t\\* *This year the judging process has changed, to ensure fairer handling of entries. The change to one submission only is to allow each and every entry to be fully scored by the panel of judges. This was previously handled by a preliminary screening round to help cut down the large amount of entries received. By lowering the amount of up-front entries allowed, the judges will have the time to fully score each track entered.*"
 msgstr ""
+"Hrdě vám představujeme soutěž Nejlepší z LMMS V!\n"
+"\t\t\tSoutěž je určena k inspiraci komunity, aby vytvořila a sdílela svoji hudbu. Odešlete svojí skladbu na tento odkaz do půlnoci\n"
+"  \t\t(23:59.59) 16. dubna (UTC), aby jste mohli být zařazeni do alba BoL (Nejlepší z LMMS) v5. Tato sbírka bude nahrána na Bandcamp, všechny\n"
+"\t\t\tvýdělky budou použity na další vývoj LMMS.\n"
+"\t\t\t\n"
+"\t\t\t[Poslat zde](https://goo.gl/47ZXq1)\n"
+"\t\t\t#### Pravidla soutěže:\n"
+"\t\t\t1. **Termín:**\n"
+"\t\t\t  - Skladba musí být nahrána do 16. dubna 2018 23:59.59 UTC pomocí [tohoto formuláře](https://goo.gl/47ZXq1).\n"
+"\t\t\t2. **Skladba:**\n"
+"\t\t\t\t- Musí být vytvořena pomocí LMMS.\n"
+"\t\t\t\t- Můžete použit jiný program pro mastering a post processing.\n"
+"\t\t\t\t- Musí být kratší než 10 minut.\n"
+"\t\t\t\t- Nesmí být použita stejná skladba, která dříve vyhrála Nejlepší z LMMS.\n"
+"\t\t\t\t- Remixy nejsou povoleny.\n"
+"\t\t\t3. **Odevzdání:**\n"
+"\t\t\t\t- Skladba musí být odeslaná pomocí formuláře.\n"
+"\t\t\t\t- Nemůžete odevzdat více jak 1 skladbu za autora.*\n"
+"\t\t\t\t- Spolupráce se počítá jako 1 skladba za každého autora.*\n"
+"\t\t\t\t- Spolupráce s porotou není povolena.\n"
+"\t\t\t\t- Povoleny jsou pouze skladby nahrané na Soundcloud, Youtube nebo Clyp.\n"
+"\t\t\t\t- Vaše skladba musí být dostupná k poslechu do skončení hodnocení. Pokud ne, bude tato skladba diskvalifikována.\n"
+"\t\t\t4. **Porota:**\n"
+"\t\t\t\t- Porota se skládá z: Dull Machine, Etorna_Z, Jernemies, Poleroyd, Umcaruje a Unfa.\n"
+"\t\t\t5. **Hodnocení:**\n"
+"\t\t\t\t- Po uplynutí termínu, porota ohodnotí každou skladbu a zveřejní výsledky do 14 dnů.\n"
+"\t\t\t6. **Zveřejnění:**\n"
+"\t\t\t\t- 25 nejlépe hodnocených skladeb bude zveřejněno v albu na Bandcapmu s cenovkou \"Zaplaťte kolik chcete\". Všechny získané peníze budou použity pro další vývoj LMMS, programu, který milujete.\n"
+"\n"
+"\t\t\t\\* *Tento rok se změnilo hodnocení, aby bylo zajištěno spravedlivější posuzování. Pouze jedna skladba na osobu umožňuje, aby byla každá skladba plně ohodnocena. Toto bylo dříve zpracováváno předběžným kolem, které mělo za úkol zmenšit počet skladeb. Zmenšení maximálního počtu odevzdaných skladeb dovoluje, aby porota mohla každou skladbu pořádně ohodnotit.*"
 
 #: competitions.twig:58
 msgid "Past competitions:"
@@ -777,8 +809,8 @@ msgstr "Klikněte na jedno z tlačítek níže pro stažení LMMS pro systém ma
 #: download/index.twig:114
 msgid "Downloads labeled Beta are pre-release software, stability may suffer."
 msgstr ""
-"Soubory ke stažení odznačené jako Beta jsou v předběžném přístupu, stabilita"
-" může být narušena."
+"Soubory ke stažení odznačené jako Beta jsou v předběžném přístupu a nemusejí"
+" být stabilní."
 
 #: download/index.twig:115
 msgid "Previous releases"

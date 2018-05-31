@@ -111,7 +111,7 @@ msgstr "Facebook 페이지 방문하기"
 
 #: home.twig:75
 msgid "Chat now on Discord"
-msgstr ""
+msgstr "Discord에서 채팅하기"
 
 #: home.twig:76
 msgid "Visit our GitHub page"
@@ -147,7 +147,7 @@ msgstr ""
 
 #: home.twig:101
 msgid "We <3 open source."
-msgstr ""
+msgstr "LMMS ❤ 오픈 소스"
 
 #: home.twig:106
 msgid "Fork us on Github"
@@ -156,15 +156,15 @@ msgstr "GitHub에서 포크"
 #: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community-driven project."
-msgstr ""
+msgstr "LMMS는 100% 무료로 사용 가능한 오픈 소스 및 공동체 중심의 프로젝트입니다."
 
 #: home.twig:109
 msgid "Proudly hosted on Github."
-msgstr ""
+msgstr "GitHub를 통해 운영하고 있습니다."
 
 #: home.twig:124
 msgid "Take a peek."
-msgstr ""
+msgstr "둘러보세요."
 
 #: home.twig:127
 msgid "Watch our promo video."
@@ -176,7 +176,7 @@ msgstr ""
 
 #: home.twig:147
 msgid "Featuring:"
-msgstr ""
+msgstr "특징:"
 
 #: home.twig:151
 msgid "Core Functionality"
@@ -192,7 +192,7 @@ msgstr ""
 
 #: home.twig:157
 msgid "Note playback via MIDI or typing keyboard"
-msgstr ""
+msgstr "MIDI 또는 키보드 타이핑을 통하여 음 재생"
 
 #: home.twig:158
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
@@ -200,7 +200,7 @@ msgstr ""
 
 #: home.twig:159
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
-msgstr ""
+msgstr "피아노 롤 편집기에서 패턴, 음표, 코드를 미세 조정"
 
 #: home.twig:160
 msgid ""
@@ -210,7 +210,7 @@ msgstr ""
 
 #: home.twig:161
 msgid "Import of MIDI files and Hydrogen project files"
-msgstr ""
+msgstr "MIDI 파일과 Hydrogen 프로젝트 파일 가져오기"
 
 #: home.twig:171
 msgid "Musical Instruments"
@@ -247,20 +247,20 @@ msgstr "믹싱"
 
 #: home.twig:192
 msgid "Drop-in LADSPA plug-in support"
-msgstr ""
+msgstr "LADSPA 플러그인 지원"
 
 #: home.twig:193
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
-msgstr ""
+msgstr "VST 효과 플러그인 지원(Linux와 Windows)"
 
 #: home.twig:194
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
-msgstr ""
+msgstr "내장 컴프레서, 리미터, 딜레이, 리버브, 디스토션, 그리고 베이스 향상 플러그인"
 
 #: home.twig:195
 msgid "Bundled graphic and parametric equalizers"
-msgstr ""
+msgstr "내장 그래픽, 파라메트릭 이퀄라이저"
 
 #: home.twig:196
 msgid "Built-in visualization/spectrum analyzer"
@@ -271,20 +271,23 @@ msgid ""
 "LMMS is included in most major Linux distribution's package repositories.<br>\n"
 "\tPlease <a href=\"get-involved/#contact\">contact us</a> if your distribution is not listed here."
 msgstr ""
+"LMMS는 대부분의 주요 Linux 배포판의 패키지 저장소에 포함되어 있습니다.\n"
+"\t만약 당신의 배포판이 이 리스트에 없다면<a href=\"get-involved/#contact\">저희에게 연락해 주세요</a>."
 
 #: download/linux.twig:48
 msgid ""
 "For installing LMMS on Debian based distributions such as Debian itself, "
 "Ubuntu or Linux Mint, just click the button below."
 msgstr ""
+"LMMS를 Debian 기반의 배포판(Debian, Ubuntu, Linux Mint 등)에서 사용하시려면 아래에 버튼을 클릭하세요."
 
 #: download/linux.twig:53
 msgid "Install LMMS now"
-msgstr ""
+msgstr "지금 LMMS 설치"
 
 #: download/linux.twig:54
 msgid "From your package manager"
-msgstr ""
+msgstr "패키지 관리자로부터"
 
 #: download/linux.twig:57
 msgid "If this doesn't work for you, run this command in a terminal."
@@ -296,6 +299,9 @@ msgid ""
 "href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
 "repository</a>."
 msgstr ""
+"패키지 저장소가 오래된 버전을 제공한다면 <a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
+"저장소</a>를 사용해 보세요."
 
 #: download/linux.twig:60 download/linux.twig:81
 msgid "VST Support"
@@ -706,6 +712,8 @@ msgid ""
 "\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
 "\t\t\t\t\t   coding!"
 msgstr ""
+"저희 팀은 새로운 개발자를 간절히 기다리고 있습니다. LMMS는 Qt 프레임워크를 사용하여 C++로 작성되었습니다. 만약 이 분야에 아는"
+" 것이 있다면 개발에 참여하기를 주저하지 마세요!"
 
 #: get-involved.twig:24
 msgid ""
@@ -714,6 +722,10 @@ msgid ""
 "\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
 "\t\t\t\t\t   to introduce yourself."
 msgstr ""
+"<a href=\"//github.com/LMMS/lmms/wiki\">GitHub 위키</a>와 <a "
+"href=\"//github.com/LMMS/lmms/issues\">버그 트래커</a>를 확인하는 것부터 시작하실 수 있습니다. 그리고"
+" LMMS <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-"
+"devel\">메일링 리스트는</a> 당신을 소개하기에 좋은 곳입니다."
 
 #: get-involved.twig:35
 msgid "Website & Docs"
@@ -725,6 +737,9 @@ msgid ""
 "\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, our documentation is hosted using a\n"
 "\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki instance</a>."
 msgstr ""
+"웹사이트를 개선하거나 소프트웨어를 문서화하여 저희를 도와주실 수 있습니다. 이 웹사이트의 소스 코드는 저희의 GitHub 저장소 <a "
+"href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>에 있고 문서는 <a "
+"href=\"//lmms.io/wiki\">MediaWiki</a>를 통해 제공됩니다."
 
 #: get-involved.twig:41
 msgid ""
@@ -758,6 +773,10 @@ msgid ""
 "\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
 "\t\t\t\t\t   GitHub Wiki."
 msgstr ""
+"LMMS가 당신의 언어로 번역되지 않았다면 번역을 통하여 당신과 같은 언어를 사용하는 사람들과 이 프로젝트를 도와주세요. GitHub "
+"위키의 \"<a "
+"href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a "
+"localization</a>\" 항목에서 방법을 확인하세요."
 
 #: get-involved.twig:80
 msgid "How to get in touch"
@@ -774,13 +793,16 @@ msgstr ""
 
 #: get-involved.twig:90
 msgid "Subscribe to LMMS-Devel mailing list"
-msgstr ""
+msgstr "LMMS-Devel 메일링 리스트 구독하기"
 
 #: get-involved.twig:101
 msgid ""
 "Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
 "\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 msgstr ""
+"<a href=\"https://freenode.net\">Freenode</a>에 <a "
+"href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a>저희 IRC 채널이 "
+"있습니다."
 
 #: get-involved.twig:103
 msgid ""

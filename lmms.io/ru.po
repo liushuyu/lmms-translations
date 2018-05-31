@@ -93,7 +93,7 @@ msgstr "Linux, Windows или macOS."
 
 #: home.twig:69
 msgid "Houston, we have a problem."
-msgstr ""
+msgstr "Хьюстон, у нас проблема."
 
 #: home.twig:70
 msgid "Stand by, we got you covered."
@@ -129,7 +129,7 @@ msgstr ""
 
 #: home.twig:90
 msgid "Find musicians"
-msgstr ""
+msgstr "Найти музыкантов"
 
 #: home.twig:91
 msgid "Visit the LMMS Sharing Platform (LSP)"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: home.twig:101
 msgid "We <3 open source."
-msgstr ""
+msgstr "Мы <3 опенсорс."
 
 #: home.twig:106
 msgid "Fork us on Github"
@@ -278,7 +278,7 @@ msgstr ""
 
 #: download/linux.twig:53
 msgid "Install LMMS now"
-msgstr ""
+msgstr "Установить LMMS"
 
 #: download/linux.twig:54
 msgid "From your package manager"

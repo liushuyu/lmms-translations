@@ -60,7 +60,8 @@
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="220"/>
         <source>Current language not translated (or native English).
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation type="unfinished"/>
+        <translation>bahasa saat ini tidak diterjemahkan (atau asli bahasa Inggris).
+Jika Anda tertarik untuk menerjemahkan LMMS dalam bahasa lain atau ingin meningkatkan terjemahan yang ada, Anda dipersilakan untuk membantu kami! Cukup hubungi pengelola!</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="229"/>
@@ -288,7 +289,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
 </context>
 <context>
-    <name>AudioOss::setupWidget</name>
+    <name>AudioOss</name>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="330"/>
         <source>DEVICE</source>
@@ -314,7 +315,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
 </context>
 <context>
-    <name>AudioPulseAudio::setupWidget</name>
+    <name>AudioPulseAudio</name>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="316"/>
         <source>DEVICE</source>
@@ -335,7 +336,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
 </context>
 <context>
-    <name>AudioSndio::setupWidget</name>
+    <name>AudioSndio</name>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="196"/>
         <source>DEVICE</source>
@@ -363,62 +364,62 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomatableModel</name>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="70"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="60"/>
         <source>&amp;Reset (%1%2)</source>
         <translation>&amp;Mulai ulang (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="77"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="67"/>
         <source>&amp;Copy value (%1%2)</source>
         <translation>&amp;Salin nilai (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="85"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="75"/>
         <source>&amp;Paste value (%1%2)</source>
         <translation>&amp;Tempel nilai (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="88"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="78"/>
         <source>&amp;Paste value</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tempel nilai</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="96"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="86"/>
         <source>Edit song-global automation</source>
         <translation>Ubah lagu otomasi global</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="101"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="91"/>
         <source>Remove song-global automation</source>
         <translation>Hapus lagu otomasi global</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="110"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="100"/>
         <source>Remove all linked controls</source>
         <translation>Hapus semua pengendali yang terhubung</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="121"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="111"/>
         <source>Connected to %1</source>
         <translation>Terhubung ke %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="125"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="115"/>
         <source>Connected to controller</source>
         <translation>Terhubung ke pengendali</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="131"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="121"/>
         <source>Edit connection...</source>
         <translation>Ubah koneksi...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="134"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="124"/>
         <source>Remove connection</source>
         <translation>Hapus koneksi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="140"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="130"/>
         <source>Connect to controller...</source>
         <translation>Hubungkan ke pengendali...</translation>
     </message>
@@ -426,17 +427,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomationEditor</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1437"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1447"/>
         <source>Please open an automation pattern with the context menu of a control!</source>
         <translation>Silakan buka pola otomasi dengan menu konteks kontrol!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1965"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1986"/>
         <source>Values copied</source>
         <translation>Nilai disalin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1966"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1987"/>
         <source>All selected values were copied to the clipboard.</source>
         <translation>Semua nilai yang dipilih telah disalin ke clipboard.</translation>
     </message>
@@ -444,184 +445,184 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomationEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2207"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2228"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Putar/jeda pola saat ini (Spasi)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2209"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2230"/>
         <source>Click here if you want to play the current pattern. This is useful while editing it.  The pattern is automatically looped when the end is reached.</source>
         <translation>Klik di sini untuk memainkan pola saat ini. Ini berguna saat mengeditnya. Pola diulang secara otomatis saat ujungnya tercapai.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2213"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2234"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Berhenti memutar pola saat ini (Spasi)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2215"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2236"/>
         <source>Click here if you want to stop playing of the current pattern.</source>
         <translation>Klik disini jika anda ingin berhenti memutar pola saat ini.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2219"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2240"/>
         <source>Edit actions</source>
         <translation>Ubah aksi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2222"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2243"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Mode menggambar (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2226"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2247"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Mode penghapus (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2229"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2250"/>
         <source>Flip vertically</source>
         <translation>Balik secara vertikal</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2230"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2251"/>
         <source>Flip horizontally</source>
         <translation>Balik secara horizontal</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2233"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2254"/>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>
         <translation>Klik disini dan pola akan dibalik. Titik nya akan dibalik dengan arah y.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2236"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2257"/>
         <source>Click here and the pattern will be reversed. The points are flipped in the x direction.</source>
         <translation>Klik disini dan pola akan dibalik. Titik nya akan dibalik dengan arah x.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2244"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2265"/>
         <source>Click here and draw-mode will be activated. In this mode you can add and move single values.  This is the default mode which is used most of the time.  You can also press &apos;Shift+D&apos; on your keyboard to activate this mode.</source>
         <translation>Klik di sini dan mode-gambar akan diaktifkan. Dalam mode ini Anda bisa menambahkan dan memindahkan nilai tunggal. Ini adalah mode default yang sering digunakan. Anda juga dapat menekan &apos;Shift+D&apos; pada keyboard untuk mengaktifkan mode ini.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2250"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2271"/>
         <source>Click here and erase-mode will be activated. In this mode you can erase single values. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
         <translation>Klik di sini dan mode-penghapus akan diaktifkan. Dalam mode ini Anda bisa menghapus nilai tunggal. Anda juga dapat menekan &apos;Shift+E&apos; pada keyboard untuk mengaktifkan mode ini.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2276"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2297"/>
         <source>Interpolation controls</source>
         <translation>Kontrol interpolasi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2281"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2302"/>
         <source>Discrete progression</source>
         <translation>Perkembangan diskrit</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2285"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2306"/>
         <source>Linear progression</source>
         <translation>perkembangan linier</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2287"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2308"/>
         <source>Cubic Hermite progression</source>
         <translation>Perkembangan Hermite Cubic</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2294"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2315"/>
         <source>Tension value for spline</source>
         <translation>nilai tegangan untuk spline</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2296"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2317"/>
         <source>A higher tension value may make a smoother curve but overshoot some values. A low tension value will cause the slope of the curve to level off at each control point.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2304"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2325"/>
         <source>Click here to choose discrete progressions for this automation pattern.  The value of the connected object will remain constant between control points and be set immediately to the new value when each control point is reached.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2310"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2331"/>
         <source>Click here to choose linear progressions for this automation pattern.  The value of the connected object will change at a steady rate over time between control points to reach the correct value at each control point without a sudden change.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2316"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2337"/>
         <source>Click here to choose cubic hermite progressions for this automation pattern.  The value of the connected object will change in a smooth curve and ease in to the peaks and valleys.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2326"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2347"/>
         <source>Tension: </source>
         <translation>Tegangan:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2335"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2356"/>
         <source>Cut selected values (%1+X)</source>
         <translation>Potong nilai yang dipilih (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2342"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2363"/>
         <source>Copy selected values (%1+C)</source>
         <translation>Salin nilai yang dipilih (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2349"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2370"/>
         <source>Paste values from clipboard (%1+V)</source>
         <translation>Tempel nilai dari clipboard (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2357"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2378"/>
         <source>Click here and selected values will be cut into the clipboard.  You can paste them anywhere in any pattern by clicking on the paste button.</source>
         <translation>Klik disini dan nilai yang dipilih akan dipotong ke papan klip. Anda bisa menempelkannya di manapun dalam pola apapun dengan mengklik tombol tempel.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2361"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2382"/>
         <source>Click here and selected values will be copied into the clipboard.  You can paste them anywhere in any pattern by clicking on the paste button.</source>
         <translation>Klik di sini dan nilai yang dipilih akan disalin ke papan klip. Anda bisa menempelkannya di manapun dalam pola apapun dengan mengklik tombol tempel.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2365"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2386"/>
         <source>Click here and the values from the clipboard will be pasted at the first visible measure.</source>
         <translation>Klik di sini dan nilai dari papan klip akan disisipkan pada ukuran pertama yang terlihat.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2391"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2412"/>
         <source>Zoom controls</source>
         <translation>Kontrol Zum</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2438"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2459"/>
         <source>Quantization controls</source>
         <translation>Kontrol kuantitasi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2450"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2471"/>
         <source>Quantization</source>
         <translation>Kuantitasi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2451"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2472"/>
         <source>Quantization. Sets the smallest step size for the Automation Point. By default this also sets the length, clearing out other points in the range. Press &lt;Ctrl&gt; to override this behaviour.</source>
         <translation>Kuantitasi. Tetapkan ukuran langkah terkecil untuk Titik Otomasi. Secara deafult ini juga menentukan panjangnya, membersihkan titik lain di kisaran ini. Tekan &lt;Ctrl&gt; untuk mengganti perilaku ini.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2486"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2595"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2507"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2616"/>
         <source>Automation Editor - no pattern</source>
         <translation>Editor Otomasi - tiada pola</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2490"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2599"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2511"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2620"/>
         <source>Automation Editor - %1</source>
         <translation>Editor Otomasi - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2544"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2565"/>
         <source>Model is already connected to this pattern.</source>
         <translation>Model sudah terhubung ke pola ini.</translation>
     </message>
@@ -629,7 +630,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomationPattern</name>
     <message>
-        <location filename="../../src/core/AutomationPattern.cpp" line="632"/>
+        <location filename="../../src/core/AutomationPattern.cpp" line="622"/>
         <source>Drag a control while pressing &lt;%1&gt;</source>
         <translation>Tarik kontrol sambil menekan &lt;%1&gt;</translation>
     </message>
@@ -766,27 +767,27 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>BBTCOView</name>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="184"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="164"/>
         <source>Open in Beat+Bassline-Editor</source>
         <translation>Buka di Ketukan/Bassline-Editor</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="191"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="171"/>
         <source>Reset name</source>
         <translation>Reset nama</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="194"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="174"/>
         <source>Change name</source>
         <translation>Ganti nama</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="197"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="177"/>
         <source>Change color</source>
         <translation>Ganti warna</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="199"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="179"/>
         <source>Reset color to default</source>
         <translation>Reset warna ke default</translation>
     </message>
@@ -794,12 +795,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>BBTrack</name>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="405"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="385"/>
         <source>Beat/Bassline %1</source>
         <translation>Ketukan/Bassline %1</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="554"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="534"/>
         <source>Clone of %1</source>
         <translation>Klon dari %1</translation>
     </message>
@@ -1037,27 +1038,27 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>KONTROLER PENGGUNA</translation>
     </message>
     <message>
-        <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="200"/>
+        <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="202"/>
         <source>MAPPING FUNCTION</source>
         <translation>PEMETAAN FUNGSI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="218"/>
+        <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="220"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="224"/>
+        <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="226"/>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
     <message>
-        <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="332"/>
+        <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="334"/>
         <source>LMMS</source>
         <translation>LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="332"/>
+        <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="334"/>
         <source>Cycle Detected.</source>
         <translation>Siklus terdeteksi.</translation>
     </message>
@@ -2022,17 +2023,17 @@ Right clicking will bring up a context menu where you can change the order in wh
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="570"/>
+        <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="576"/>
         <source>ms/LFO:</source>
         <translation>md/LFO:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="586"/>
+        <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="592"/>
         <source>Hint</source>
         <translation>Petunjuk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="587"/>
+        <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="593"/>
         <source>Drag a sample from somewhere and drop it in this window.</source>
         <translation>Seret sampel dari suatu tempat dan jatuhkan di jendela ini.</translation>
     </message>
@@ -2612,14 +2613,14 @@ Pastikan Anda memiliki izin menulis ke file dan direktori yang berisi berkas ter
 <context>
     <name>Fader</name>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="228"/>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="238"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="222"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="232"/>
         <source>Set value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="229"/>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="239"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="223"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="233"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Silakan masukan nilai baru antara %1 dan %2:</translation>
     </message>
@@ -2645,47 +2646,47 @@ Pastikan Anda memiliki izin menulis ke file dan direktori yang berisi berkas ter
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="359"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="339"/>
         <source>Send to active instrument-track</source>
         <translation>Kirim ke trek-instrumen yang aktif</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="362"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="342"/>
         <source>Open in new instrument-track/Song Editor</source>
         <translation>Buka di trek-instrumen/Editor Lagu yang baru</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="366"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="346"/>
         <source>Open in new instrument-track/B+B Editor</source>
         <translation>Buka di trek-instrumen/Editor B+B yang baru</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="417"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="397"/>
         <source>Loading sample</source>
         <translation>Memuat sampel</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="418"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="398"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>Mohon tunggu, memuat sampel untuk pratinjau...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="442"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="422"/>
         <source>Error</source>
         <translation>Kesalahan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="443"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="423"/>
         <source>does not appear to be a valid</source>
         <translation>Tampaknya tidak valid</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="444"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="424"/>
         <source>file</source>
         <translation>berkas</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="777"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="757"/>
         <source>--- Factory files ---</source>
         <translation>--- Berkas pabrik ---</translation>
     </message>
@@ -3136,12 +3137,12 @@ Pastikan Anda memiliki izin menulis ke file dan direktori yang berisi berkas ter
 <context>
     <name>FxLine</name>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="67"/>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="85"/>
         <source>Channel send amount</source>
         <translation>Jumlah kirim saluran</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="81"/>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="99"/>
         <source>The FX channel receives input from one or more instrument tracks.
  It in turn can be routed to multiple other FX channels. LMMS automatically takes care of preventing infinite loops for you and doesn't allow making a connection that would result in an infinite loop.
 
@@ -3157,27 +3158,27 @@ Anda dapat menghapus dan memindahkan saluran FX dalam menu konteks, yang diakses
 </translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="225"/>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="244"/>
         <source>Move &amp;left</source>
         <translation>Pindah ke &amp;kiri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="226"/>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="245"/>
         <source>Move &amp;right</source>
         <translation>Pindah ke &amp;kanan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="228"/>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="247"/>
         <source>Rename &amp;channel</source>
         <translation>Ganti nama &amp;saluran</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="233"/>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="252"/>
         <source>R&amp;emove channel</source>
         <translation>H&amp;apus saluran</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="236"/>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="255"/>
         <source>Remove &amp;unused channels</source>
         <translation>Hapus &amp;saluran yang tak terpakai</translation>
     </message>
@@ -3185,29 +3186,29 @@ Anda dapat menghapus dan memindahkan saluran FX dalam menu konteks, yang diakses
 <context>
     <name>FxMixer</name>
     <message>
-        <location filename="../../src/core/FxMixer.cpp" line="670"/>
+        <location filename="../../src/core/FxMixer.cpp" line="665"/>
         <source>Master</source>
         <translation>Master</translation>
     </message>
     <message>
-        <location filename="../../src/core/FxMixer.cpp" line="670"/>
-        <location filename="../../src/core/FxMixer.cpp" line="785"/>
-        <location filename="../../src/core/FxMixer.cpp" line="787"/>
+        <location filename="../../src/core/FxMixer.cpp" line="665"/>
+        <location filename="../../src/core/FxMixer.cpp" line="780"/>
+        <location filename="../../src/core/FxMixer.cpp" line="782"/>
         <source>FX %1</source>
         <translation>FX %1</translation>
     </message>
     <message>
-        <location filename="../../src/core/FxMixer.cpp" line="671"/>
+        <location filename="../../src/core/FxMixer.cpp" line="666"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/core/FxMixer.cpp" line="672"/>
+        <location filename="../../src/core/FxMixer.cpp" line="667"/>
         <source>Mute</source>
         <translation>Bisu</translation>
     </message>
     <message>
-        <location filename="../../src/core/FxMixer.cpp" line="673"/>
+        <location filename="../../src/core/FxMixer.cpp" line="668"/>
         <source>Solo</source>
         <translation>Solo</translation>
     </message>
@@ -4741,12 +4742,12 @@ Anda dapat menghapus dan memindahkan saluran FX dalam menu konteks, yang diakses
         <translation>Hubungkan saluran</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/LadspaControlView.cpp" line="103"/>
+        <location filename="../../src/gui/widgets/LadspaControlView.cpp" line="104"/>
         <source>Value:</source>
         <translation>Nilai:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/LadspaControlView.cpp" line="104"/>
+        <location filename="../../src/gui/widgets/LadspaControlView.cpp" line="105"/>
         <source>Sorry, no help available.</source>
         <translation>Maaf, tidak ada bantuan tersedia.</translation>
     </message>
@@ -4762,12 +4763,12 @@ Anda dapat menghapus dan memindahkan saluran FX dalam menu konteks, yang diakses
 <context>
     <name>LcdSpinBox</name>
     <message>
-        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="175"/>
+        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="167"/>
         <source>Set value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="176"/>
+        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="168"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Silakan masukan nilai baru antara %1 dan %2:</translation>
     </message>
@@ -4982,57 +4983,57 @@ Double click to pick a file.</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="507"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="518"/>
         <source>Configuration file</source>
         <translation>Berkas konfigurasi</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="508"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="519"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>Kesalahan saat mengurai berkas konfigurasi pada baris %1:%2 %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="625"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="636"/>
         <source>Could not open file</source>
         <translation>Tidak bisa membuka berkas</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="626"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="637"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>Tidak bisa membuka berkas %1</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="815"/>
+        <location filename="../../src/core/main.cpp" line="785"/>
         <source>Project recovery</source>
         <translation>Pemulihan proyek</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="830"/>
+        <location filename="../../src/core/main.cpp" line="800"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="835"/>
-        <location filename="../../src/core/main.cpp" line="856"/>
-        <location filename="../../src/core/main.cpp" line="861"/>
+        <location filename="../../src/core/main.cpp" line="805"/>
+        <location filename="../../src/core/main.cpp" line="826"/>
+        <location filename="../../src/core/main.cpp" line="831"/>
         <source>Recover</source>
         <translation>Pulihkan</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="836"/>
+        <location filename="../../src/core/main.cpp" line="806"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Memulihkan berkas. Jangan menjalankan beberapa instansi LMMS saat Anda melakukan ini.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="838"/>
-        <location filename="../../src/core/main.cpp" line="854"/>
-        <location filename="../../src/core/main.cpp" line="863"/>
+        <location filename="../../src/core/main.cpp" line="808"/>
+        <location filename="../../src/core/main.cpp" line="824"/>
+        <location filename="../../src/core/main.cpp" line="833"/>
         <source>Discard</source>
         <translation>Buang</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="839"/>
+        <location filename="../../src/core/main.cpp" line="809"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Jalankan sesi default dan hapus berkas yang dipulihkan. Ini tidak reversibel.</translation>
     </message>
@@ -5307,17 +5308,17 @@ Please make sure you have write permission to the file and the directory contain
         <translation>Klik disini untuk menampilkan atau menyembunyikan FX Mixer. FX Mixer adalah alat yang sangat ampuh untuk mengelola efek untuk lagu Anda. Anda bisa memasukkan efek ke saluran efek yang berbeda.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="566"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="574"/>
         <source>Show/hide project notes</source>
         <translation>Tampilkan/sembunyikan not proyek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="572"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="580"/>
         <source>Click here to show or hide the project notes window. In this window you can put down your project notes.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="578"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="566"/>
         <source>Show/hide controller rack</source>
         <translation>Tampilkan/sembunyikan rak kontroler</translation>
     </message>
@@ -5434,94 +5435,94 @@ Silakan kunjungi http://lmms.sf.net/wiki untuk dokumentasi LMMS.</translation>
         <translation>FX Mixer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1231"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1235"/>
         <source>Project Notes</source>
         <translation>Catatan Proyek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1235"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1231"/>
         <source>Controller Rack</source>
         <translation>Kontroler rak</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1246"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1245"/>
         <source>Volume as dBFS</source>
         <translation>Volume sebagai dBFS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1260"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1259"/>
         <source>Smooth scroll</source>
         <translation>Gulung halus</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1274"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1273"/>
         <source>Enable note labels in piano roll</source>
         <translation>Aktifkan label not di rol piano</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1594"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1582"/>
         <source>MIDI File (*.mid)</source>
         <translation>Berkas MIDI (*.mid)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1606"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1663"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1594"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1651"/>
         <source>untitled</source>
         <translation>tak berjudul</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1610"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1666"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1598"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1654"/>
         <source>Select file for project-export...</source>
         <translation>Pilih berkas untuk ekspor-proyek...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1635"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1623"/>
         <source>Select directory for writing exported tracks...</source>
         <translation>Pilih direktori untuk menulis trek yang diekspor...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1692"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1680"/>
         <source>Save project</source>
         <translation>Simpan proyek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1709"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1697"/>
         <source>Project saved</source>
         <translation>Proyek disimpan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1709"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1697"/>
         <source>The project %1 is now saved.</source>
         <translation>Proyek %1 telah disimpan.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1716"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1704"/>
         <source>Project NOT saved.</source>
         <translation>Proyek TIDAK disimpan.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1716"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1704"/>
         <source>The project %1 was not saved!</source>
         <translation>Proyek %1 tidak disimpan!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1755"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1743"/>
         <source>Import file</source>
         <translation>Impor berkas</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1757"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1745"/>
         <source>MIDI sequences</source>
         <translation>Rangkaian MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1759"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1747"/>
         <source>Hydrogen projects</source>
         <translation>Proyek hidrogen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1761"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1749"/>
         <source>All file types</source>
         <translation>Semua tipe berkas</translation>
     </message>
@@ -5614,57 +5615,57 @@ Silakan kunjungi http://lmms.sf.net/wiki untuk dokumentasi LMMS.</translation>
 <context>
     <name>MidiPort</name>
     <message>
-        <location filename="../../src/core/midi/MidiPort.cpp" line="46"/>
+        <location filename="../../src/core/midi/MidiPort.cpp" line="49"/>
         <source>Input channel</source>
         <translation>Saluran Masukan</translation>
     </message>
     <message>
-        <location filename="../../src/core/midi/MidiPort.cpp" line="47"/>
+        <location filename="../../src/core/midi/MidiPort.cpp" line="50"/>
         <source>Output channel</source>
         <translation>Saluran keluaran</translation>
     </message>
     <message>
-        <location filename="../../src/core/midi/MidiPort.cpp" line="48"/>
+        <location filename="../../src/core/midi/MidiPort.cpp" line="51"/>
         <source>Input controller</source>
         <translation>Kontroler masukan</translation>
     </message>
     <message>
-        <location filename="../../src/core/midi/MidiPort.cpp" line="49"/>
+        <location filename="../../src/core/midi/MidiPort.cpp" line="52"/>
         <source>Output controller</source>
         <translation>Kontroler keluaran</translation>
     </message>
     <message>
-        <location filename="../../src/core/midi/MidiPort.cpp" line="50"/>
+        <location filename="../../src/core/midi/MidiPort.cpp" line="53"/>
         <source>Fixed input velocity</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/midi/MidiPort.cpp" line="51"/>
+        <location filename="../../src/core/midi/MidiPort.cpp" line="54"/>
         <source>Fixed output velocity</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/midi/MidiPort.cpp" line="52"/>
+        <location filename="../../src/core/midi/MidiPort.cpp" line="55"/>
         <source>Fixed output note</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/midi/MidiPort.cpp" line="53"/>
+        <location filename="../../src/core/midi/MidiPort.cpp" line="56"/>
         <source>Output MIDI program</source>
         <translation>Program MIDI keluaran</translation>
     </message>
     <message>
-        <location filename="../../src/core/midi/MidiPort.cpp" line="54"/>
+        <location filename="../../src/core/midi/MidiPort.cpp" line="57"/>
         <source>Base velocity</source>
         <translation>Kecepatan dasar</translation>
     </message>
     <message>
-        <location filename="../../src/core/midi/MidiPort.cpp" line="55"/>
+        <location filename="../../src/core/midi/MidiPort.cpp" line="58"/>
         <source>Receive MIDI-events</source>
         <translation>Terima aktifitas-MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/core/midi/MidiPort.cpp" line="56"/>
+        <location filename="../../src/core/midi/MidiPort.cpp" line="59"/>
         <source>Send MIDI-events</source>
         <translation>Kirim aktifitas-MIDI</translation>
     </message>
@@ -7239,7 +7240,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="86"/>
         <source>Osc %1 wave shape</source>
-        <translation type="unfinished"/>
+        <translation>bentuk gelombang Osc %1</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="89"/>
@@ -7351,37 +7352,37 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
 <context>
     <name>PatternView</name>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="675"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="662"/>
         <source>Open in piano-roll</source>
         <translation>Buka di rol-piano</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="684"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="671"/>
         <source>Clear all notes</source>
         <translation>Bersihkan semua not</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="687"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="674"/>
         <source>Reset name</source>
         <translation>Reset nama</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="690"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="677"/>
         <source>Change name</source>
         <translation>Ganti nama</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="698"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="685"/>
         <source>Add steps</source>
         <translation>Tambah langkah</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="700"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="687"/>
         <source>Remove steps</source>
         <translation>Hapus langkah</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="702"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="689"/>
         <source>Clone Steps</source>
         <translation>Klon langkah</translation>
     </message>
@@ -7389,17 +7390,17 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
 <context>
     <name>PeakController</name>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="46"/>
+        <location filename="../../src/core/PeakController.cpp" line="45"/>
         <source>Peak Controller</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="216"/>
+        <location filename="../../src/core/PeakController.cpp" line="211"/>
         <source>Peak Controller Bug</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="217"/>
+        <location filename="../../src/core/PeakController.cpp" line="212"/>
         <source>Due to a bug in older version of LMMS, the peak controllers may not be connect properly. Please ensure that peak controllers are connected properly and re-save this file. Sorry for any inconvenience caused.</source>
         <translation>Karena bug pada versi lama LMMS, pengendali puncak mungkin tidak terhubung dengan benar. Pastikan pengendali puncak terhubung dengan benar dan simpan kembali berkas ini. Maaf atas ketidaknyamanan yang terjadi.</translation>
     </message>
@@ -7483,42 +7484,42 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
 <context>
     <name>PeakControllerEffectControls</name>
     <message>
-        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="40"/>
+        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="39"/>
         <source>Base value</source>
         <translation>Nilai dasar</translation>
     </message>
     <message>
-        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="41"/>
+        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="40"/>
         <source>Modulation amount</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="42"/>
+        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="41"/>
         <source>Attack</source>
         <translation>Attack</translation>
     </message>
     <message>
-        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="43"/>
+        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="42"/>
         <source>Release</source>
         <translation>Release</translation>
     </message>
     <message>
-        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="44"/>
+        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="43"/>
         <source>Treshold</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="45"/>
+        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="44"/>
         <source>Mute output</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="46"/>
+        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="45"/>
         <source>Abs Value</source>
         <translation>Nilai Abs</translation>
     </message>
     <message>
-        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="47"/>
+        <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="46"/>
         <source>Amount Multiplicator</source>
         <translation type="unfinished"/>
     </message>
@@ -7526,93 +7527,93 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
 <context>
     <name>PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="198"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="199"/>
         <source>Note Velocity</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="199"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="200"/>
         <source>Note Panning</source>
         <translation>Keseimbangan Not</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="217"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="218"/>
         <source>Mark/unmark current semitone</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="218"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="219"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>Tandai / hapus tanda semua semitone oktaf yang sesuai</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="219"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="220"/>
         <source>Mark current scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="220"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="221"/>
         <source>Mark current chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="221"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="222"/>
         <source>Unmark all</source>
         <translation>Hapus tanda semua</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="222"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="223"/>
         <source>Select all notes on this key</source>
         <translation>Pilih semua not pada kunci ini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="359"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="360"/>
         <source>Note lock</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="375"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="376"/>
         <source>Last note</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="402"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="403"/>
         <source>No scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="417"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="418"/>
         <source>No chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="475"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="476"/>
         <source>Velocity: %1%</source>
         <translation>Kecepatan: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="484"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="485"/>
         <source>Panning: %1% left</source>
         <translation>Menyeimbangkan: %1% kiri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="488"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="489"/>
         <source>Panning: %1% right</source>
         <translation>Menyeimbangkan: %1% kanan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="492"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="493"/>
         <source>Panning: center</source>
         <translation>Menyeimbangkan: tengah</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3076"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3070"/>
         <source>Please open a pattern by double-clicking on it!</source>
-        <translation type="unfinished"/>
+        <translation>Buka pola dengan mengklik dua kali di atasnya!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3639"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3658"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3641"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3660"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Silakan masukan nilai baru antara %1 dan %2:</translation>
     </message>
@@ -7620,174 +7621,174 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4054"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4056"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Putar/jeda pola saat ini (Spasi)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4055"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4057"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Rekam not dari perangkat-MIDI/channel-piano</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4056"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4058"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Rekam not dari perangkat-MIDI/channel-piano sambil memutar lagu atau trek BB</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4057"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4059"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Berhenti memutar pola sekarang (Spasi)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4060"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4062"/>
         <source>Click here to play the current pattern. This is useful while editing it. The pattern is automatically looped when its end is reached.</source>
         <translation>Klik di sini untuk memainkan pola saat ini. Ini berguna saat mengeditnya. Pola diulang secara otomatis saat ujungnya tercapai.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4064"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4066"/>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you can play and edit them afterwards.</source>
         <translation>Klik di sini untuk merekam not dari perangkat MIDI atau virtual test-piano dari jendela saluran yang sesuai dengan pola saat ini. Saat merekam semua not yang Anda mainkan akan dituliskan ke pola ini dan Anda dapat memutar dan mengubahnya setelahnya.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4070"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4072"/>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you will hear the song or BB track in the background.</source>
         <translation>Klik di sini untuk merekam not dari perangkat MIDI atau virtual test-piano dari jendela saluran yang sesuai dengan pola saat ini. Saat merekam semua not yang Anda mainkan akan dituliskan ke pola ini dan Anda akan mendengar lagu atau trek BB di latar belakang.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4076"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4078"/>
         <source>Click here to stop playback of current pattern.</source>
         <translation>Klik disini untuk berhenti memutar pola saat ini.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4078"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4080"/>
         <source>Edit actions</source>
         <translation>Ubah aksi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4082"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4084"/>
         <source>Draw mode (Shift+D)</source>
         <translation>mode Menggambar (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4083"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4085"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Mode penghapus (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4084"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4086"/>
         <source>Select mode (Shift+S)</source>
         <translation>Mode pilih (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4085"/>
-        <source>Detune mode (Shift+T)</source>
-        <translation>Mode detune (Shift+T)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4095"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4097"/>
         <source>Click here and draw mode will be activated. In this mode you can add, resize and move notes. This is the default mode which is used most of the time. You can also press &apos;Shift+D&apos; on your keyboard to activate this mode. In this mode, hold %1 to temporarily go into select mode.</source>
         <translation>Klik di sini dan mode gambar akan diaktifkan. Dalam mode ini Anda bisa menambahkan, mengubah ukuran dan memindahkan not. Ini adalah mode default yang sering digunakan. Anda juga dapat menekan &apos;Shift+D&apos; pada keyboard untuk mengaktifkan mode ini. Tekan %1 untuk masuk ke mode pilih secara sementara.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4107"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4109"/>
         <source>Click here and erase mode will be activated. In this mode you can erase notes. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4111"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4113"/>
         <source>Click here and select mode will be activated. In this mode you can select notes. Alternatively, you can hold %1 in draw mode to temporarily use select mode.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4121"/>
-        <source>Click here and detune mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4087"/>
+        <source>Pitch Bend mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4129"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4123"/>
+        <source>Click here and Pitch Bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4131"/>
         <source>Quantize</source>
         <translation>Kuantitas</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4140"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4142"/>
         <source>Copy paste controls</source>
         <translation>Kontrol salin tempel</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4143"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4145"/>
         <source>Cut selected notes (%1+X)</source>
         <translation>Potong not terpilih (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4151"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4153"/>
         <source>Copy selected notes (%1+C)</source>
         <translation>Salin not terpilih (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4159"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4161"/>
         <source>Paste notes from clipboard (%1+V)</source>
         <translation>Tempel not dari papan klip (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4167"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4169"/>
         <source>Click here and the selected notes will be cut into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4171"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4173"/>
         <source>Click here and the selected notes will be copied into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4175"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4177"/>
         <source>Click here and the notes from the clipboard will be pasted at the first visible measure.</source>
         <translation>Klik di sini dan catatan dari papan klip akan disisipkan pada ukuran pertama yang terlihat.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4191"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4193"/>
         <source>Timeline controls</source>
         <translation>Kontrol linimasa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4198"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4200"/>
         <source>Zoom and note controls</source>
         <translation>Kontrol not dan zoom</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4260"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4262"/>
         <source>This controls the magnification of an axis. It can be helpful to choose magnification for a specific task. For ordinary editing, the magnification should be fitted to your smallest notes. </source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4268"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4270"/>
         <source>The &apos;Q&apos; stands for quantization, and controls the grid size notes and control points snap to. With smaller quantization values, you can draw shorter notes in Piano Roll, and more exact control points in the Automation Editor.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4278"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4280"/>
         <source>This lets you select the length of new notes. &apos;Last Note&apos; means that LMMS will use the note length of the note you last edited</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4285"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4287"/>
         <source>The feature is directly connected to the context-menu on the virtual keyboard, to the left in Piano Roll. After you have chosen the scale you want in this drop-down menu, you can right click on a desired key in the virtual keyboard, and then choose &apos;Mark current Scale&apos;. LMMS will highlight all notes that belongs to the chosen scale, and in the key you have selected!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4297"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4299"/>
         <source>Let you select a chord which LMMS then can draw or highlight.You can find the most common chords in this drop-down menu. After you have selected a chord, click anywhere to place the chord, and right click on the virtual keyboard to open context menu and highlight the chord. To return to single note placement, you need to choose &apos;No chord&apos; in this drop-down menu.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4334"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4439"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4336"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4441"/>
         <source>Piano-Roll - %1</source>
         <translation>Rol-Piano - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4340"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4443"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4342"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4445"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Rol-Piano - tiada pola</translation>
     </message>
@@ -7795,7 +7796,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
 <context>
     <name>PianoView</name>
     <message>
-        <location filename="../../src/gui/PianoView.cpp" line="401"/>
+        <location filename="../../src/gui/PianoView.cpp" line="395"/>
         <source>Base note</source>
         <translation>Not dasar</translation>
     </message>
@@ -8007,24 +8008,24 @@ Alasan: &quot;%2&quot;</translation>
 <context>
     <name>ProjectRenderer</name>
     <message>
-        <location filename="../../src/core/ProjectRenderer.cpp" line="44"/>
+        <location filename="../../src/core/ProjectRenderer.cpp" line="45"/>
         <source>WAV (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>WAV (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/ProjectRenderer.cpp" line="47"/>
+        <location filename="../../src/core/ProjectRenderer.cpp" line="48"/>
         <source>FLAC (*.flac)</source>
-        <translation type="unfinished"/>
+        <translation>FLAC (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/ProjectRenderer.cpp" line="52"/>
+        <location filename="../../src/core/ProjectRenderer.cpp" line="53"/>
         <source>OGG (*.ogg)</source>
-        <translation type="unfinished"/>
+        <translation>OGG (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/ProjectRenderer.cpp" line="61"/>
+        <location filename="../../src/core/ProjectRenderer.cpp" line="62"/>
         <source>MP3 (*.mp3)</source>
-        <translation type="unfinished"/>
+        <translation>MP3 (*.mp3)</translation>
     </message>
 </context>
 <context>
@@ -8186,67 +8187,67 @@ Alasan: &quot;%2&quot;</translation>
 <context>
     <name>SampleBuffer</name>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="291"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="279"/>
         <source>Fail to open file</source>
         <translation>Gagal untuk membuka berkas</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="292"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="280"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
         <translation>Berkas suara dibatasi ukuran hingga %1 MB dan waktu pemutaran %2 menit</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="971"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="959"/>
         <source>Open audio file</source>
         <translation>Buka berkas suara</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="998"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="986"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Semua Berkas-Suara (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1000"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="988"/>
         <source>Wave-Files (*.wav)</source>
         <translation>Berkas-Wave (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1001"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="989"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>Berkas-OGG (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1002"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="990"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>Berkas-DrumSynth (*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1003"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="991"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>Berkas-FLAC (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1004"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="992"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>Berkas-SPEEX (*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="995"/>
         <source>VOC-Files (*.voc)</source>
         <translation>Berkas-VOC (*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1008"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="996"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>Berkas-AIFF (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="997"/>
         <source>AU-Files (*.au)</source>
         <translation>Berkas-AU (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="998"/>
         <source>RAW-Files (*.raw)</source>
         <translation>Berkas-RAW (*.raw)</translation>
     </message>
@@ -8254,32 +8255,32 @@ Alasan: &quot;%2&quot;</translation>
 <context>
     <name>SampleTCOView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="322"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="312"/>
         <source>double-click to select sample</source>
         <translation>Klik dua kali untuk memilih sampel</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="339"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="329"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Hapus (tombol tengah mouse)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="343"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="333"/>
         <source>Cut</source>
         <translation>Potong</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="346"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="336"/>
         <source>Copy</source>
         <translation>Salin</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="348"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="338"/>
         <source>Paste</source>
         <translation>Tempel</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="351"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="341"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Bisukan/suarakan (&lt;%1&gt; + middle click)</translation>
     </message>
@@ -8287,19 +8288,19 @@ Alasan: &quot;%2&quot;</translation>
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="574"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="564"/>
         <source>Volume</source>
         <translation>Volume
 </translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="576"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="566"/>
         <source>Panning</source>
         <translation>Keseimbangan</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="577"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="579"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="567"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="569"/>
         <source>Sample track</source>
         <translation>Trek sampel</translation>
     </message>
@@ -8307,32 +8308,32 @@ Alasan: &quot;%2&quot;</translation>
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="773"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="763"/>
         <source>Track volume</source>
         <translation>Volume trek</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="776"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="766"/>
         <source>Channel volume:</source>
         <translation>Volume channel:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="786"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="776"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="790"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="780"/>
         <source>Panning</source>
         <translation>Keseimbangan</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="792"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="782"/>
         <source>Panning:</source>
         <translation>Keseimbangan:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="794"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="784"/>
         <source>PAN</source>
         <translation>SEIMBANG</translation>
     </message>
@@ -8340,352 +8341,352 @@ Alasan: &quot;%2&quot;</translation>
 <context>
     <name>SetupDialog</name>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="145"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="142"/>
         <source>Setup LMMS</source>
         <translation>Atur LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="177"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="962"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="174"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="959"/>
         <source>General settings</source>
         <translation>Pengaturan umum</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="179"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="176"/>
         <source>BUFFER SIZE</source>
         <translation>UKURAN BUFFER</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="202"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="705"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="199"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="702"/>
         <source>Reset to default-value</source>
         <translation>Setel ulang ke nilai default</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="211"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="208"/>
         <source>MISC</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="219"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="216"/>
         <source>Enable tooltips</source>
         <translation>Aktifkan tooltips</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="229"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="226"/>
         <source>Show restart warning after changing settings</source>
         <translation>Tampilkan peringatan mulai ulang setelah mengganti pengaturan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="238"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="235"/>
         <source>Display volume as dBFS </source>
         <translation>Tampilkan volume sebagai dBFS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="248"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="245"/>
         <source>Compress project files per default</source>
         <translation>Kompres berkas proyek per default</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="257"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="254"/>
         <source>One instrument track window mode</source>
         <translation>Mode jendela satu trek instrumen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="266"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="263"/>
         <source>HQ-mode for output audio-device</source>
         <translation>mode-HQ untuk keluaran perangkat-audio</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="275"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="272"/>
         <source>Compact track buttons</source>
         <translation>Tombol trek yang kompak</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="285"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="282"/>
         <source>Sync VST plugins to host playback</source>
         <translation>Selaraskan plugin VST ke pemutaran host</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="294"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="291"/>
         <source>Enable note labels in piano roll</source>
         <translation>Aktifkan label not di rol piano</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="303"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="300"/>
         <source>Enable waveform display by default</source>
         <translation>Aktifkan tampilan gelombang grafik sebagai default</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="312"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="309"/>
         <source>Keep effects running even without input</source>
         <translation>Biarkan efek berjalan walaupun tanpa masukan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="321"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="318"/>
         <source>Create backup file when saving a project</source>
         <translation>Buat berkas backup ketika menyimpan proyek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="330"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="327"/>
         <source>Reopen last project on start</source>
         <translation>Buka kembali proyek terakhir saat memulai</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="340"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="337"/>
         <source>PLUGIN EMBEDDING</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="346"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="343"/>
         <source>No embedding</source>
-        <translation type="unfinished"/>
+        <translation>Tidak disematkan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="349"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="346"/>
         <source>Embed using Qt API</source>
-        <translation type="unfinished"/>
+        <translation>Disematkan menggunakan API Qt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="353"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="350"/>
         <source>Embed using native Win32 API</source>
-        <translation type="unfinished"/>
+        <translation>Disematkan menggunakan API Win32 asli</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="357"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="354"/>
         <source>Embed using XEmbed protocol</source>
-        <translation type="unfinished"/>
+        <translation>Disematkan menggunakan protokol XEmbed</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="361"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="358"/>
         <source>LANGUAGE</source>
         <translation>BAHASA</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="425"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="964"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="422"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="961"/>
         <source>Paths</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="426"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="423"/>
         <source>Directories</source>
         <translation>Direktori</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="447"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="444"/>
         <source>LMMS working directory</source>
         <translation>Direktori kerja LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="467"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="464"/>
         <source>Themes directory</source>
         <translation>Direktori tema</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="488"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="485"/>
         <source>Background artwork</source>
         <translation>Latar belakang karya seni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="507"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="504"/>
         <source>VST-plugin directory</source>
         <translation>Direktori VST-plugin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="526"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="523"/>
         <source>GIG directory</source>
         <translation>Direktori GIG</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="545"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="542"/>
         <source>SF2 directory</source>
         <translation>Direktori SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="566"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="563"/>
         <source>LADSPA plugin directories</source>
         <translation>Direktori plugin LADSPA</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="587"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="584"/>
         <source>STK rawwave directory</source>
         <translation>Direktori STK rawwave</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="608"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="605"/>
         <source>Default Soundfont File</source>
         <translation>Berkas Soundfont default</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="664"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="967"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="661"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="964"/>
         <source>Performance settings</source>
         <translation>Pengaturan performa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="668"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="665"/>
         <source>Auto save</source>
         <translation>Simpan otomatis</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="687"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="684"/>
         <source>Enable auto-save</source>
         <translation>Aktifkan simpan otomatis</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="694"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="691"/>
         <source>Allow auto-save while playing</source>
         <translation>Izinkan simpan-otomatis ketika bermain</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="721"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="718"/>
         <source>UI effects vs. performance</source>
         <translation>Efek UI vs. performa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="727"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="724"/>
         <source>Smooth scroll in Song Editor</source>
         <translation>Gulung halus di Editor Lagu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="734"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="731"/>
         <source>Show playback cursor in AudioFileProcessor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="753"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="970"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="750"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="967"/>
         <source>Audio settings</source>
         <translation>Pengaturan suara</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="755"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="752"/>
         <source>AUDIO INTERFACE</source>
         <translation>INTERFACE SUARA</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="864"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="972"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="861"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="969"/>
         <source>MIDI settings</source>
         <translation>Pengaturan MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="866"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="863"/>
         <source>MIDI INTERFACE</source>
         <translation>INTERFACE MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="989"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="986"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="994"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="991"/>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1035"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1028"/>
         <source>Restart LMMS</source>
         <translation>Mulai Ulang LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1036"/>
-        <source>Please note that most changes won&apos;t take effect until you restart LMMS!&lt;br&gt;&lt;br&gt;Do you want to restart now? &lt;b&gt;All your unsaved works will be lost!&lt;b&gt;</source>
-        <translation type="unfinished"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1029"/>
+        <source>Please note that most changes won&apos;t take effect until you restart LMMS!</source>
+        <translation>Harap dicatat bahwa sebagian besar perubahan tidak akan berpengaruh sampai Anda memulai-ulang LMMS!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1157"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1147"/>
         <source>Frames: %1
 Latency: %2 ms</source>
         <translation>Bingkai: %1
 Latensi: %2 md</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1178"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1168"/>
         <source>Here you can setup the internal buffer-size used by LMMS. Smaller values result in a lower latency but also may cause unusable sound or bad performance, especially on older computers or systems with a non-realtime kernel.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1328"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1318"/>
         <source>Choose LMMS working directory</source>
         <translation>Pilih direktori kerja LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1338"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1328"/>
         <source>Choose your GIG directory</source>
         <translation>Pilih direktor GIG anda</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1349"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1339"/>
         <source>Choose your SF2 directory</source>
         <translation>Pilih direktor SF2 anda</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1371"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1361"/>
         <source>Choose your VST-plugin directory</source>
         <translation>Pilih direktori VST-Plugin Anda</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1403"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1393"/>
         <source>Choose artwork-theme directory</source>
         <translation>Pilih direktori tema karya seni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1425"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1415"/>
         <source>Choose LADSPA plugin directory</source>
         <translation>Pilih direktori plugin LADSPA</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1447"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1437"/>
         <source>Choose STK rawwave directory</source>
         <translation>Pilih direktori STK rawwave</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1463"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1453"/>
         <source>Choose default SoundFont</source>
         <translation>Pilih Soundfont default</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1496"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1486"/>
         <source>Choose background artwork</source>
         <translation>Pilih karya seni latar belakang</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1550"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1538"/>
         <source>minutes</source>
         <translation>menit</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1550"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1538"/>
         <source>minute</source>
         <translation>menit</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1552"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1540"/>
         <source>Disabled</source>
         <translation>Dinonaktifkan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1553"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1541"/>
         <source>Auto-save interval: %1</source>
         <translation>Waktu jeda simpan otomatis: %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1572"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1560"/>
         <source>Set the time between automatic backup to %1.
 Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
         <translation>Tetapkan waktu antara pencadangan otomatis ke% 1.
 Ingat juga untuk menyimpan proyek Anda secara manual. Anda dapat memilih untuk menonaktifkan penyimpanan saat bermain, beberapa sistem yang lebih tua sulit ditemukan.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1599"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1587"/>
         <source>Here you can select your preferred audio-interface. Depending on the configuration of your system during compilation time you can choose between ALSA, JACK, OSS and more. Below you see a box which offers controls to setup the selected audio-interface.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1629"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1617"/>
         <source>Here you can select your preferred MIDI-interface. Depending on the configuration of your system during compilation time you can choose between ALSA, OSS and more. Below you see a box which offers controls to setup the selected MIDI-interface.</source>
         <translation type="unfinished"/>
     </message>
@@ -8743,32 +8744,32 @@ Setidaknya pastikan Anda memiliki izini baca kepada berkas tersebut lalu coba la
         <translation>Tidak bisa membuka %1 untuk menulis. Anda mungkin tidak diperbolehkan untuk menulis ke berkas ini. Pastikan anda memiliki akses baca kepada berkas tersebut lalu coba lagi.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1158"/>
+        <location filename="../../src/core/DataFile.cpp" line="1498"/>
         <source>Error in file</source>
         <translation>Kesalahan dalam berkas</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1159"/>
+        <location filename="../../src/core/DataFile.cpp" line="1499"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Berkas %1 sepertinya menganduh kesalahan dan oleh karena itu tidak bisa dimuat.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1189"/>
+        <location filename="../../src/core/DataFile.cpp" line="1529"/>
         <source>Version difference</source>
         <translation>Perbedaan Versi</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1190"/>
+        <location filename="../../src/core/DataFile.cpp" line="1530"/>
         <source>This %1 was created with LMMS %2.</source>
         <translation>%1 ini telah dibuat oleh LMMS %2.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1195"/>
+        <location filename="../../src/core/DataFile.cpp" line="1535"/>
         <source>template</source>
         <translation>template</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1196"/>
+        <location filename="../../src/core/DataFile.cpp" line="1536"/>
         <source>project</source>
         <translation>proyek</translation>
     </message>
@@ -8820,12 +8821,12 @@ Setidaknya pastikan Anda memiliki izini baca kepada berkas tersebut lalu coba la
         <translation>master pitch</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="458"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="468"/>
         <source>Value: %1%</source>
         <translation>Nilai: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="500"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="510"/>
         <source>Value: %1 semitones</source>
         <translation>Nilai: %1 semitone</translation>
     </message>
@@ -8833,82 +8834,82 @@ Setidaknya pastikan Anda memiliki izini baca kepada berkas tersebut lalu coba la
 <context>
     <name>SongEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="659"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="669"/>
         <source>Song-Editor</source>
         <translation>Editor-Lagu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="669"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="679"/>
         <source>Play song (Space)</source>
         <translation>Putar lagu (Spasi)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="670"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="680"/>
         <source>Record samples from Audio-device</source>
         <translation>Rekam sampel dari perangkat-Audio</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="671"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="681"/>
         <source>Record samples from Audio-device while playing song or BB track</source>
         <translation>Rekam sampel dari perangkat-Audio saat memutar lagu atau trek BB</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="672"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="682"/>
         <source>Stop song (Space)</source>
         <translation>Hentikan lagu (Spasi)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="675"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="685"/>
         <source>Click here, if you want to play your whole song. Playing will be started at the song-position-marker (green). You can also move it while playing.</source>
         <translation>Klik disini jika anda ingin memutar seluruh lagu Anda. Pemutaran akan dimulai pada tanda-posisi-lagu (hijau). Anda juga bisa memindahkannya saat memutar.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="679"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="689"/>
         <source>Click here, if you want to stop playing of your song. The song-position-marker will be set to the start of your song.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="684"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="694"/>
         <source>Track actions</source>
         <translation>Aksi trek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="687"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="697"/>
         <source>Add beat/bassline</source>
         <translation>Tambah ketukan/bassline</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="690"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="700"/>
         <source>Add sample-track</source>
         <translation>Tambah Trek-sampel</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="693"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="703"/>
         <source>Add automation-track</source>
         <translation>Tambah trek-otomasi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="705"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="715"/>
         <source>Edit actions</source>
         <translation>Ubah aksi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="708"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="718"/>
         <source>Draw mode</source>
         <translation>Mode gambar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="709"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="719"/>
         <source>Edit mode (select and move)</source>
         <translation>Mode Edit (pilih dan pindah)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="718"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="728"/>
         <source>Timeline controls</source>
         <translation>Kontrol timeline</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="722"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="732"/>
         <source>Zoom controls</source>
         <translation>Kontrol Zum</translation>
     </message>
@@ -9073,32 +9074,32 @@ Setidaknya pastikan Anda memiliki izini baca kepada berkas tersebut lalu coba la
         <translation>klik untuk mengganti unit waktu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="79"/>
+        <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="68"/>
         <source>MIN</source>
         <translation>MIN</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="80"/>
+        <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="69"/>
         <source>SEC</source>
         <translation>DTK</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="81"/>
+        <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="70"/>
         <source>MSEC</source>
         <translation>MDTK</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="85"/>
+        <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="74"/>
         <source>BAR</source>
         <translation>BAR</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="86"/>
+        <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="75"/>
         <source>BEAT</source>
         <translation>KETUKAN</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="87"/>
+        <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="76"/>
         <source>TICK</source>
         <translation>TIK</translation>
     </message>
@@ -9150,12 +9151,12 @@ Setidaknya pastikan Anda memiliki izini baca kepada berkas tersebut lalu coba la
 <context>
     <name>Track</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1990"/>
+        <location filename="../../src/core/Track.cpp" line="2003"/>
         <source>Mute</source>
         <translation>Bisu</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1992"/>
+        <location filename="../../src/core/Track.cpp" line="2005"/>
         <source>Solo</source>
         <translation>Solo</translation>
     </message>
@@ -9235,58 +9236,58 @@ Pastikan anda memiliki izin baca untuk berkas ini dan direktori yang mengandung 
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="747"/>
-        <location filename="../../src/core/Track.cpp" line="763"/>
+        <location filename="../../src/core/Track.cpp" line="772"/>
         <source>Current length</source>
         <translation>Panjang saat ini</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="755"/>
+        <location filename="../../src/core/Track.cpp" line="764"/>
         <source>Current position</source>
         <translation>Posisi saat ini</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="773"/>
+        <location filename="../../src/core/Track.cpp" line="792"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>Tekan &lt;%1&gt; dan seret untuk membuat salinan.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="774"/>
+        <location filename="../../src/core/Track.cpp" line="793"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>Tekan &lt;%1&gt; untuk merubah ukuran secara bebas.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="775"/>
+        <location filename="../../src/core/Track.cpp" line="794"/>
         <source>Hint</source>
         <translation>Petunjuk</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="973"/>
+        <location filename="../../src/core/Track.cpp" line="773"/>
+        <location filename="../../src/core/Track.cpp" line="991"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 to %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1067"/>
+        <location filename="../../src/core/Track.cpp" line="1084"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Hapus (tombol tengah mouse)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1071"/>
+        <location filename="../../src/core/Track.cpp" line="1088"/>
         <source>Cut</source>
         <translation>Potong</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1074"/>
+        <location filename="../../src/core/Track.cpp" line="1091"/>
         <source>Copy</source>
         <translation>Salin</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1076"/>
+        <location filename="../../src/core/Track.cpp" line="1093"/>
         <source>Paste</source>
         <translation>Tempel</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1079"/>
+        <location filename="../../src/core/Track.cpp" line="1096"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Bisukan/suarakan (&lt;%1&gt; + middle click)</translation>
     </message>
@@ -9294,63 +9295,63 @@ Pastikan anda memiliki izin baca untuk berkas ini dan direktori yang mengandung 
 <context>
     <name>TrackOperationsWidget</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1719"/>
+        <location filename="../../src/core/Track.cpp" line="1736"/>
         <source>Press &lt;%1&gt; while clicking on move-grip to begin a new drag&apos;n&apos;drop-action.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1739"/>
+        <location filename="../../src/core/Track.cpp" line="1756"/>
         <source>Actions for this track</source>
         <translation>Aksi untuk trek ini</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1742"/>
+        <location filename="../../src/core/Track.cpp" line="1759"/>
         <source>Mute</source>
         <translation>Bisu</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1747"/>
-        <location filename="../../src/core/Track.cpp" line="1768"/>
+        <location filename="../../src/core/Track.cpp" line="1764"/>
+        <location filename="../../src/core/Track.cpp" line="1785"/>
         <source>Solo</source>
         <translation>Solo</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1765"/>
+        <location filename="../../src/core/Track.cpp" line="1782"/>
         <source>Mute this track</source>
         <translation>Bisukan trek ini</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1913"/>
+        <location filename="../../src/core/Track.cpp" line="1930"/>
         <source>Clone this track</source>
         <translation>Klon trek ini</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1916"/>
+        <location filename="../../src/core/Track.cpp" line="1933"/>
         <source>Remove this track</source>
         <translation>Hapus trek ini</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1921"/>
+        <location filename="../../src/core/Track.cpp" line="1938"/>
         <source>Clear this track</source>
         <translation>Bersihkan trek ini</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1925"/>
+        <location filename="../../src/core/Track.cpp" line="1942"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1925"/>
+        <location filename="../../src/core/Track.cpp" line="1942"/>
         <source>Assign to new FX Channel</source>
         <translation>Tetapkan ke Saluran FX baru</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1933"/>
+        <location filename="../../src/core/Track.cpp" line="1950"/>
         <source>Turn all recording on</source>
         <translation>Hidupkan semua rekaman</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1934"/>
+        <location filename="../../src/core/Track.cpp" line="1951"/>
         <source>Turn all recording off</source>
         <translation>Matikan semua rekaman</translation>
     </message>
@@ -10274,157 +10275,157 @@ Pastikan anda memiliki izin baca untuk berkas ini dan direktori yang mengandung 
 <context>
     <name>XpressiveView</name>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="316"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="317"/>
         <source>Select oscillator W1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="322"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="323"/>
         <source>Select oscillator W2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="328"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="329"/>
         <source>Select oscillator W3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="334"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="335"/>
         <source>Select OUTPUT 1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="340"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="341"/>
         <source>Select OUTPUT 2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="346"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="347"/>
         <source>Open help window</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="358"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="359"/>
         <source>Sine wave</source>
         <translation>Gelombang sinus</translation>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="362"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="363"/>
         <source>Click for a sine-wave.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="364"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="365"/>
         <source>Moog-Saw wave</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="369"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="370"/>
         <source>Click for a Moog-Saw-wave.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="371"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="372"/>
         <source>Exponential wave</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="375"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="376"/>
         <source>Click for an exponential wave.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="377"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="378"/>
         <source>Saw wave</source>
         <translation>Gelombang gergaji</translation>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="381"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="382"/>
         <source>Click here for a saw-wave.</source>
         <translation>Klik disini untuk gelombang gergaji.</translation>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="383"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="384"/>
         <source>User defined wave</source>
         <translation>Gelombang yang didefinisikan pengguna</translation>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="387"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="388"/>
         <source>Click here for a user-defined shape.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="389"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="390"/>
         <source>Triangle wave</source>
         <translation>Gelombang segitiga</translation>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="395"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="396"/>
         <source>Click here for a triangle-wave.</source>
         <translation>Klik disini untuk gelombang-segitiga.</translation>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="397"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="398"/>
         <source>Square wave</source>
         <translation>Gelombang kotak</translation>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="402"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="403"/>
         <source>Click here for a square-wave.</source>
         <translation>Klik disini untuk gelombang-kotak.</translation>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="404"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="405"/>
         <source>White noise wave</source>
         <translation>Gelombang riuh</translation>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="410"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="411"/>
         <source>Click here for white-noise.</source>
         <translation>Klik disini untuk kebisingan-putih.</translation>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="413"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="414"/>
         <source>WaveInterpolate</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="417"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="418"/>
         <source>ExpressionValid</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="427"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="428"/>
         <source>General purpose 1:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="431"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="432"/>
         <source>General purpose 2:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="435"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="436"/>
         <source>General purpose 3:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="439"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="440"/>
         <source>O1 panning:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="443"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="444"/>
         <source>O2 panning:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="447"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="448"/>
         <source>Release transition:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="453"/>
+        <location filename="../../plugins/Xpressive/Xpressive.cpp" line="454"/>
         <source>Smoothness</source>
         <translation type="unfinished"/>
     </message>
@@ -10881,7 +10882,7 @@ Pastikan anda memiliki izin baca untuk berkas ini dan direktori yang mengandung 
 <context>
     <name>graphModel</name>
     <message>
-        <location filename="../../src/gui/widgets/Graph.cpp" line="464"/>
+        <location filename="../../src/gui/widgets/Graph.cpp" line="457"/>
         <source>Graph</source>
         <translation>Grafik</translation>
     </message>
@@ -12010,7 +12011,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/peak_controller_effect/peak_controller_effect.cpp" line="42"/>
+        <location filename="../../plugins/peak_controller_effect/peak_controller_effect.cpp" line="43"/>
         <source>Plugin for controlling knobs with sound peaks</source>
         <translation>Plugin untuk mengendalikan kenop dengan puncak suara</translation>
     </message>
@@ -12165,7 +12166,7 @@ Chip yang digunakan pada komputer Commodore 64.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="343"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="349"/>
         <source>A soundfont %1 could not be loaded.</source>
         <translation>Soundfont %1 tidak dapat dimuat.</translation>
     </message>
@@ -12173,92 +12174,92 @@ Chip yang digunakan pada komputer Commodore 64.</translation>
 <context>
     <name>sf2InstrumentView</name>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="848"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="854"/>
         <source>Open other SoundFont file</source>
         <translation>Buka berkas SoundFont lain</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="850"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="856"/>
         <source>Click here to open another SF2 file</source>
         <translation>Klik disini untuk membuka berkas SF2 lain</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="862"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="868"/>
         <source>Choose the patch</source>
         <translation>Pilih patch</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="897"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="903"/>
         <source>Gain</source>
         <translation>Gain</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="910"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="916"/>
         <source>Apply reverb (if supported)</source>
         <translation>Aktifkan gema (jika didukung)</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="912"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="918"/>
         <source>This button enables the reverb effect. This is useful for cool effects, but only works on files that support it.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="918"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="924"/>
         <source>Reverb Roomsize:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="922"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="928"/>
         <source>Reverb Damping:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="926"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="932"/>
         <source>Reverb Width:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="930"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="936"/>
         <source>Reverb Level:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="950"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="956"/>
         <source>Apply chorus (if supported)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="952"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="958"/>
         <source>This button enables the chorus effect. This is useful for cool echo effects, but only works on files that support it.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="957"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="963"/>
         <source>Chorus Lines:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="961"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="967"/>
         <source>Chorus Level:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="965"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="971"/>
         <source>Chorus Speed:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="969"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="975"/>
         <source>Chorus Depth:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1077"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1083"/>
         <source>Open SoundFont file</source>
         <translation>Buka berkas SoundFont</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1081"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1087"/>
         <source>SoundFont Files (*.sf2 *.sf3)</source>
         <translation type="unfinished"/>
     </message>

@@ -418,11 +418,11 @@ msgstr "المنافسات الرسمية المنظمة من قبل LMMS و أ�
 
 #: competitions.twig:13
 msgid "Current competitions:"
-msgstr ""
+msgstr "المنافسات الحالية:"
 
 #: competitions.twig:16
 msgid "The Best of LMMS vol. V"
-msgstr ""
+msgstr "الأفضل من LMMS الخامسة"
 
 #: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:71
 msgid ""

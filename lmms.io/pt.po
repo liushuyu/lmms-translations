@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-18 14:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Vinícius Melo <vinimelo@riseup.net>, 2017\n"
+"Last-Translator: Rafael Campos <rafaelfrc@yahoo.com.br>, 2017\n"
 "Language-Team: Portuguese (https://www.transifex.com/lmms/teams/61632/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: home.twig:11
 msgid "Let's make music"
-msgstr "Vamos fazer musica"
+msgstr "Vamos fazer música"
 
 #: home.twig:12
 msgid "with a free, cross-platform tool for your computer."
@@ -62,13 +62,15 @@ msgstr ""
 
 #: home.twig:42
 msgid "Bundled with ready-to-use content"
-msgstr ""
+msgstr "Empacotado com conteúdo pronto para uso"
 
 #: home.twig:43
 msgid ""
 "from an assortment of instrument and effect plugins, presets and samples to "
 "VST and SoundFont support."
 msgstr ""
+"de uma variedade de plugins de efeitos e instrumentos, presets e samples e "
+"suporte à VST e SoundFont."
 
 #: home.twig:52
 msgid "Made by musicians, for musicians."
@@ -88,7 +90,7 @@ msgstr "Baixe para MacOS"
 
 #: home.twig:59
 msgid "Pick your flavor."
-msgstr ""
+msgstr "Escolha seu sabor."
 
 #: home.twig:60
 msgid "Linux, Windows or macOS."
@@ -96,11 +98,11 @@ msgstr "Linux, Windows ou MacOS."
 
 #: home.twig:69
 msgid "Houston, we have a problem."
-msgstr ""
+msgstr "Houston, nós temos um problema."
 
 #: home.twig:70
 msgid "Stand by, we got you covered."
-msgstr ""
+msgstr "Aguarde, te daremos cobertura."
 
 #: home.twig:73
 msgid "Visit our forum"
@@ -140,15 +142,15 @@ msgstr "Visite a Plataforma de Compartilhamento do LMMS (PCL)"
 
 #: home.twig:92
 msgid "Don't be modest."
-msgstr ""
+msgstr "Não seja modesto."
 
 #: home.twig:93
 msgid "Show us your creations."
-msgstr ""
+msgstr "Nos mostre suas criações."
 
 #: home.twig:101
 msgid "We <3 open source."
-msgstr ""
+msgstr "Nós <3 open source."
 
 #: home.twig:106
 msgid "Fork us on Github"
@@ -158,10 +160,14 @@ msgstr "Dê um fork na gente no GitHub"
 #, php-format
 msgid "LMMS is a 100% free, open source, community-driven project."
 msgstr ""
+"O LMMS é um projeto 100% livre, de código aberto e dirigido pela a "
+"comunidade."
 
 #: home.twig:109
 msgid "Proudly hosted on Github."
 msgstr ""
+"26/5000\n"
+"Orgulhosamente hospedado no Github."
 
 #: home.twig:124
 msgid "Take a peek."
@@ -173,7 +179,7 @@ msgstr "Assista nosso vídeo promocional"
 
 #: home.twig:139
 msgid "Click anywhere to close this dialog"
-msgstr ""
+msgstr "Clique em qualquer lugar para fechar este diálogo."
 
 #: home.twig:147
 msgid "Featuring:"
@@ -185,7 +191,7 @@ msgstr "Funcionalidade Principal"
 
 #: home.twig:155
 msgid "Compose music on Windows, Linux and macOS"
-msgstr ""
+msgstr "Componha música no Windows, Linux e macOS"
 
 #: home.twig:156
 msgid "Sequence, compose, mix and automate songs in one simple interface"
@@ -199,21 +205,24 @@ msgstr "Retorno da nota via MIDI ou pelo teclado do computador"
 
 #: home.twig:158
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
-msgstr ""
+msgstr "Consolidar faixas de instrumento usando Beat+Bassline Editor"
 
 #: home.twig:159
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr ""
+"Ajuste fino de patterns, notas, acordes e melodias usando Piano Roll Editor"
 
 #: home.twig:160
 msgid ""
 "Full user-defined track-based automation and computer-controlled automation "
 "sources"
 msgstr ""
+"Automação completa baseada em faixas definida pelo usuário e fontes de "
+"automação controladas por computador"
 
 #: home.twig:161
 msgid "Import of MIDI files and Hydrogen project files"
-msgstr ""
+msgstr "Importação de arquivos MIDI  e arquivos de projeto do Hydrogen"
 
 #: home.twig:171
 msgid "Musical Instruments"
@@ -224,6 +233,8 @@ msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
 msgstr ""
+"Incluso suporte à instrumentos VST de 64 bits com VST bridge de 32 bits "
+"(Windows 64 bits)"
 
 #: home.twig:176
 msgid ""
@@ -231,18 +242,25 @@ msgid ""
 "Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip"
 " and more"
 msgstr ""
+"Sintetizadores 64 bits, incluindo emulações do Roland ® TB-303, Commodore 64"
+" ® SID microchip, Nintendo ® NES e GameBoy, Yamaha ® chip OPL2  e mais"
 
 #: home.twig:177
 msgid ""
 "Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
 msgstr ""
+"ZynAddSubFx embutido: Polifônico, multitimbre, microtonal, multi-vocal "
+"aditivo, subtrativo e sintese de pads, tudo isso em um poderoso plugin"
 
 #: home.twig:178
 msgid ""
 "Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis "
 "UltraSound ® (GUS) formats for high quality instrument patches and banks"
 msgstr ""
+"suporte multisample para os formatos SoundFont ® (SF2), Giga (GIG) and "
+"Gravis UltraSound ® (GUS) para patches de instrumentos de alta qualidade e "
+"banks"
 
 #: home.twig:188
 msgid "Effects Mixing"
@@ -250,30 +268,34 @@ msgstr "Mixagem de efeitos"
 
 #: home.twig:192
 msgid "Drop-in LADSPA plug-in support"
-msgstr ""
+msgstr "Suporte para plugins LADSPA"
 
 #: home.twig:193
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
-msgstr ""
+msgstr "Suporte para plugins de efeitos VST® (Linux e Windows)"
 
 #: home.twig:194
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
 msgstr ""
+"Incluídos compressor, limitador, delay, reverb, distorção e intensificador "
+"de graves"
 
 #: home.twig:195
 msgid "Bundled graphic and parametric equalizers"
-msgstr ""
+msgstr "Equalizadores gráficos e paramétricos incluídos"
 
 #: home.twig:196
 msgid "Built-in visualization/spectrum analyzer"
-msgstr ""
+msgstr "Incluído visualizador e analisador de espectro"
 
 #: download/linux.twig:6
 msgid ""
 "LMMS is included in most major Linux distribution's package repositories.<br>\n"
 "\tPlease <a href=\"get-involved/#contact\">contact us</a> if your distribution is not listed here."
 msgstr ""
+"O LMMS está incluído nos principais repositórios de pacotes da distribuição Linux.<br>\n"
+"\tPor favor, <a href=\"get-involved/#contact\"> entre em contato conosco</a> se sua distribuição não estiver listada aqui."
 
 #: download/linux.twig:48
 msgid ""
@@ -285,11 +307,11 @@ msgstr ""
 
 #: download/linux.twig:53
 msgid "Install LMMS now"
-msgstr ""
+msgstr "Instale LMMS agora"
 
 #: download/linux.twig:54
 msgid "From your package manager"
-msgstr ""
+msgstr "De seu gerenciador de pacotes"
 
 #: download/linux.twig:57
 msgid "If this doesn't work for you, run this command in a terminal."
@@ -335,12 +357,17 @@ msgid ""
 "For VST support, please see the <a "
 "href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
 msgstr ""
+"Para suporte a VST, por favor, veja <a "
+"href=\"https://wiki.archlinux.org/index.php/LMMS\"> página wiki do Arch LMMS"
+" </a>"
 
 #: download/linux.twig:99
 msgid ""
 "AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and "
 "more to come in the future), with VST support enabled by default on AMD64."
 msgstr ""
+"O AOSC OS entrega o LMMS em várias arquiteturas (AMD64 / x86_64, ARMv7 e "
+"mais outras no futuro), com o suporte a VST habilitado por padrão no AMD64."
 
 #: download/linux.twig:100
 msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
@@ -380,7 +407,7 @@ msgstr "Faixas feitas com o LMMS"
 
 #: showcase.twig:12
 msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr ""
+msgstr "O melhor do LMMS, Vol.  4, pelos artistas do LMMS."
 
 #: showcase.twig:20
 msgid "The Best of LMMS Vol.3 by LMMS Artists"
@@ -404,11 +431,11 @@ msgstr "Competições oficiais organizadas pelo LMMS e os membros da comunidade"
 
 #: competitions.twig:13
 msgid "Current competitions:"
-msgstr ""
+msgstr "Competições atuais:"
 
 #: competitions.twig:16
 msgid "The Best of LMMS vol. V"
-msgstr ""
+msgstr "O melhor do LMMS, Vol. V"
 
 #: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:71
 msgid ""
@@ -606,6 +633,7 @@ msgstr "Instale o LMMS no Linux"
 #: download/index.twig:52
 msgid "Click one of the buttons below to download LMMS for Linux."
 msgstr ""
+"Clique em um dos botões abaixo para fazer o download do LMMS para o Linux"
 
 #: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:73
 #: download/index.twig:80
@@ -618,6 +646,8 @@ msgid ""
 "Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
 "<code>.AppImage</code> executable before running"
 msgstr ""
+"Execute <code>chmod +x ~/Downloads/*.AppImage</code>para configurar o "
+"executável <code>AppImage</code> antes da execução"
 
 #: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:106
 #: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:181
@@ -627,7 +657,7 @@ msgstr "Versões Beta"
 
 #: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:136
 msgid "Other options"
-msgstr ""
+msgstr "Outras opções"
 
 #: download/index.twig:78
 msgid "Install LMMS on Windows"
@@ -665,7 +695,7 @@ msgstr "Mostrar notas de lançamento"
 
 #: branding.twig:6 navbar.php:14
 msgid "Branding"
-msgstr ""
+msgstr "marca"
 
 #: branding.twig:6
 msgid "Download LMMS Artwork"
@@ -856,6 +886,9 @@ msgid ""
 "still download releases on <a "
 "href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 msgstr ""
+"Desculpe, algo deu errado ao buscar as informações mais recentes sobre o "
+"lançamento. Você ainda pode baixar versões no <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub.</a>"
 
 #: artwork.php:18
 msgid "Author:"
@@ -871,7 +904,7 @@ msgstr ""
 
 #: artwork.php:57
 msgid "Gimp Image Editor Format"
-msgstr ""
+msgstr "Formato do Editor de Imagens Gimp"
 
 #: artwork.php:58
 msgid "Portable Document Format"
@@ -907,11 +940,11 @@ msgstr "Arquivo Desconhecido"
 
 #: index.php:37
 msgid "You seem to have taken a wrong turn."
-msgstr ""
+msgstr "Você parece ter tomado um caminho errado."
 
 #: index.php:40
 msgid "Oops, that is not supposed to happen."
-msgstr ""
+msgstr "Opa, isso não deveria acontecer."
 
 #: index.php:43
 msgid "Yuck, an error!"

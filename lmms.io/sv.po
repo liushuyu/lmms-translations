@@ -47,7 +47,7 @@ msgid ""
 "by creating melodies and beats, synthesizing and mixing sounds, arranging "
 "samples and much more."
 msgstr ""
-"genom att skapa melodier och beats, syntetisera och blanda ljud, arrangera "
+"genom att skapa melodier och beats, skapa och blanda ljud, arrangera "
 "samplingar och mycket mer."
 
 #: home.twig:37
@@ -70,8 +70,8 @@ msgid ""
 "from an assortment of instrument and effect plugins, presets and samples to "
 "VST and SoundFont support."
 msgstr ""
-"från ett sortiment av instrument- och effekt-plugins, presets och samplingar"
-" till VST- och SoundFont-stöd."
+"från ett urval av instrument- och effekt-plugins, presets och samplingar "
+"till VST- och SoundFont-stöd."
 
 #: home.twig:52
 msgid "Made by musicians, for musicians."
@@ -91,7 +91,7 @@ msgstr "Ladda ner för MacOS"
 
 #: home.twig:59
 msgid "Pick your flavor."
-msgstr ""
+msgstr "Välj din smak."
 
 #: home.twig:60
 msgid "Linux, Windows or macOS."
@@ -99,7 +99,7 @@ msgstr "Linux, Windows eller MacOS"
 
 #: home.twig:69
 msgid "Houston, we have a problem."
-msgstr ""
+msgstr "Houston, vi har ett problem."
 
 #: home.twig:70
 msgid "Stand by, we got you covered."
@@ -135,7 +135,7 @@ msgstr "Att dela betyder att bry sig."
 
 #: home.twig:90
 msgid "Find musicians"
-msgstr ""
+msgstr "Hitta musiker"
 
 #: home.twig:91
 msgid "Visit the LMMS Sharing Platform (LSP)"
@@ -143,15 +143,15 @@ msgstr "Besök LMMS Sharing Platform (LSP)"
 
 #: home.twig:92
 msgid "Don't be modest."
-msgstr ""
+msgstr "Var inte blyg."
 
 #: home.twig:93
 msgid "Show us your creations."
-msgstr ""
+msgstr "Visa oss dina skapelser."
 
 #: home.twig:101
 msgid "We <3 open source."
-msgstr ""
+msgstr "Vi <3 öppen källkod."
 
 #: home.twig:106
 msgid "Fork us on Github"
@@ -160,7 +160,7 @@ msgstr "Forka oss på Github"
 #: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community-driven project."
-msgstr ""
+msgstr "LMMS är ett 100% fritt, open source, community-drivet projekt,"
 
 #: home.twig:109
 msgid "Proudly hosted on Github."
@@ -168,7 +168,7 @@ msgstr ""
 
 #: home.twig:124
 msgid "Take a peek."
-msgstr ""
+msgstr "Ta en titt."
 
 #: home.twig:127
 msgid "Watch our promo video."
@@ -176,7 +176,7 @@ msgstr "Titta på vår promo-video."
 
 #: home.twig:139
 msgid "Click anywhere to close this dialog"
-msgstr ""
+msgstr "Klicka var som helst för att stänga denna dialog"
 
 #: home.twig:147
 msgid "Featuring:"
@@ -188,7 +188,7 @@ msgstr "Grundfunktionalitet"
 
 #: home.twig:155
 msgid "Compose music on Windows, Linux and macOS"
-msgstr ""
+msgstr "Komponera musik på Windows, Linux och MacOS"
 
 #: home.twig:156
 msgid "Sequence, compose, mix and automate songs in one simple interface"
@@ -266,6 +266,7 @@ msgstr "Stöd för VST ®-effekter (Linux och Windows)"
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
 msgstr ""
+"Inbyggd kompressor, limiter, delay, reverb, distorsion och basförstärkare"
 
 #: home.twig:195
 msgid "Bundled graphic and parametric equalizers"
@@ -273,7 +274,7 @@ msgstr "Medföljande grafiska och parametriska equalizers"
 
 #: home.twig:196
 msgid "Built-in visualization/spectrum analyzer"
-msgstr ""
+msgstr "Inbyggd visualiserings- / spektrum-analysator"
 
 #: download/linux.twig:6
 msgid ""
@@ -289,11 +290,11 @@ msgstr ""
 
 #: download/linux.twig:53
 msgid "Install LMMS now"
-msgstr ""
+msgstr "Installera LMMS nu"
 
 #: download/linux.twig:54
 msgid "From your package manager"
-msgstr ""
+msgstr "Från din pakethanterare"
 
 #: download/linux.twig:57
 msgid "If this doesn't work for you, run this command in a terminal."
@@ -308,7 +309,7 @@ msgstr ""
 
 #: download/linux.twig:60 download/linux.twig:81
 msgid "VST Support"
-msgstr ""
+msgstr "VST-stöd"
 
 #: download/linux.twig:61
 msgid ""
@@ -352,7 +353,7 @@ msgstr ""
 
 #: download/linux.twig:110
 msgid "Build LMMS from source"
-msgstr ""
+msgstr "Bygg LMMS från källkod"
 
 #: download/linux.twig:111
 msgid ""
@@ -397,7 +398,7 @@ msgstr ""
 
 #: competitions.twig:13
 msgid "Current competitions:"
-msgstr ""
+msgstr "Aktuella samlingar:"
 
 #: competitions.twig:16
 msgid "The Best of LMMS vol. V"
@@ -703,7 +704,7 @@ msgstr "Beta-versioner"
 
 #: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:136
 msgid "Other options"
-msgstr ""
+msgstr "Övriga val"
 
 #: download/index.twig:78
 msgid "Install LMMS on Windows"
@@ -985,11 +986,11 @@ msgstr "Okänd fil"
 
 #: index.php:37
 msgid "You seem to have taken a wrong turn."
-msgstr ""
+msgstr "Du verkar ha svängt fel någonstans."
 
 #: index.php:40
 msgid "Oops, that is not supposed to happen."
-msgstr ""
+msgstr "Ojdå, det där skulle inte hända."
 
 #: index.php:43
 msgid "Yuck, an error!"

@@ -302,11 +302,11 @@ msgstr ""
 
 #: download/linux.twig:53
 msgid "Install LMMS now"
-msgstr ""
+msgstr "Pasang LMMS sekarang"
 
 #: download/linux.twig:54
 msgid "From your package manager"
-msgstr ""
+msgstr "Dari manajer paket anda"
 
 #: download/linux.twig:57
 msgid "If this doesn't work for you, run this command in a terminal."
@@ -351,6 +351,8 @@ msgid ""
 "For VST support, please see the <a "
 "href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
 msgstr ""
+"Untuk dukungan VST, silakan lihat <a "
+"href=\"https://wiki.archlinux.org/index.php/LMMS\">Laman wiki Arch LMMS</a>"
 
 #: download/linux.twig:99
 msgid ""
@@ -425,11 +427,11 @@ msgstr ""
 
 #: competitions.twig:13
 msgid "Current competitions:"
-msgstr ""
+msgstr "Kompetisi saat ini:"
 
 #: competitions.twig:16
 msgid "The Best of LMMS vol. V"
-msgstr ""
+msgstr "Yang Terbaik dari LMMS vol. V"
 
 #: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:71
 msgid ""
@@ -464,6 +466,36 @@ msgid ""
 "\n"
 "\t\t\t\\* *This year the judging process has changed, to ensure fairer handling of entries. The change to one submission only is to allow each and every entry to be fully scored by the panel of judges. This was previously handled by a preliminary screening round to help cut down the large amount of entries received. By lowering the amount of up-front entries allowed, the judges will have the time to fully score each track entered.*"
 msgstr ""
+"Dengan bangga kami mempersembahkan kepadamu kontes Yang Terbaik dari LMMS volume 5!\n"
+"\t\t\tKontes ini ditujukan untuk menginspirasi komunitas untuk menciptakan dan berbagi musik mereka. Submit your track at the link below before midnight\n"
+"  \t\t(23:59.59) on April 16th (UTC time) for a chance to be featured on the BoL v5 album. The compilation will be uploaded to Bandcamp, with all\n"
+"\t\t\tprofits going towards LMMS' further development.\n"
+"\t\t\t\n"
+"\t\t\t[Submit here](https://goo.gl/47ZXq1)\n"
+"\t\t\t#### Competition rules:\n"
+"\t\t\t1. **The Deadline:**\n"
+"\t\t\t  - Track must be submitted by April 16th 2018 at 23:59.59 UTC using [this form](https://goo.gl/47ZXq1).\n"
+"\t\t\t2. **The Track:**\n"
+"\t\t\t\t- Must be produced in LMMS.\n"
+"\t\t\t\t- You may use other programs for mastering and post processing.\n"
+"\t\t\t\t- Must be under 10 minutes long.\n"
+"\t\t\t\t- No winning tracks from previous Best of LMMS albums allowed.\n"
+"\t\t\t\t- No remixes allowed.\n"
+"\t\t\t3. **The Submissions:**\n"
+"\t\t\t\t- You must submit using this form only.\n"
+"\t\t\t\t- No more than ONE entry per artist is allowed.*\n"
+"\t\t\t\t- Collaborations count as ONE entry for each artist involved.*\n"
+"\t\t\t\t- No collaborating with judges on entries.\n"
+"\t\t\t\t- Only submissions hosted on Soundcloud, YouTube, or Clyp are allowed.\n"
+"\t\t\t\t- Your entry must be available for listening until the end of the judging process. If not, your entry will be disqualified.\n"
+"\t\t\t4. **The Judges:**\n"
+"\t\t\t\t-The jury consists of: Dull Machine, Etorna_Z, Jernemies, Poleroyd, Umcaruje and Unfa.\n"
+"\t\t\t5. **The Judging:**\n"
+"\t\t\t\t- After the deadline, the judges will score each track and release the results within 14 days.\n"
+"\t\t\t6. **Release:**\n"
+"\t\t\t\t- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.\n"
+"\n"
+"\t\t\t\\* *This year the judging process has changed, to ensure fairer handling of entries. The change to one submission only is to allow each and every entry to be fully scored by the panel of judges. This was previously handled by a preliminary screening round to help cut down the large amount of entries received. By lowering the amount of up-front entries allowed, the judges will have the time to fully score each track entered.*"
 
 #: competitions.twig:58
 msgid "Past competitions:"
@@ -959,6 +991,8 @@ msgid ""
 "Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
 "\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 msgstr ""
+"saluran IRC kami adalah <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> di\n"
+"\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 
 #: get-involved.twig:103
 msgid ""
@@ -966,6 +1000,9 @@ msgid ""
 "\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
 "\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
 msgstr ""
+"<a href=\"https://discordapp.com/\">Discord</a>\n"
+"\t\t\t\t\tadalah alternatif lebih modern untuk IRC. Gabung server kami \n"
+"\t\t\t\t\t<a href=\"/chat/\">dengan klik disini</a>."
 
 #: get-involved.twig:116 navbar.php:9
 msgid "Forum"
