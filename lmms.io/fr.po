@@ -253,7 +253,7 @@ msgid ""
 "Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
 msgstr ""
-"ZynAddSubFx embarqué : synthèse polyphonique, mutlitimbrale, microtonale, "
+"ZynAddSubFx embarqué : synthèse polyphonique, multitimbrale, microtonale, "
 "multi-voix, additive, soustractive et pad, tout-en-un dans un greffon "
 "puissant"
 
