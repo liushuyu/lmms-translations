@@ -3,20 +3,284 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Hussam al-Homsi <sawuare@gmail.com>, 2018
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-18 14:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Hussam Eddin Alhomsi <hussameddin.alhomsi@gmail.com>, 2017\n"
+"POT-Creation-Date: 2019-01-02 14:12-0700\n"
+"PO-Revision-Date: 2017-06-13 14:13+0000\n"
+"Last-Translator: Hussam al-Homsi <sawuare@gmail.com>, 2018\n"
 "Language-Team: Arabic (https://www.transifex.com/lmms/teams/61632/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ar\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: get-involved.twig:6 navbar.php:7
+msgid "Get Involved"
+msgstr "تورط"
+
+#: get-involved.twig:6
+msgid ""
+"LMMS is a free, open-source software built entirely by a small number of\n"
+"\tvolunteers in their free time. But to keep the project going, we need this\n"
+"\tnumber to grow. So if you feel like giving something back to the community,\n"
+"\tjoin us in making LMMS better!"
+msgstr ""
+"LMMS هو برنامج مفتوح المصدر و مجاني مبني كليا من قبل عدد صغير من\n"
+"\tالمتطوعين في وقتهم الفارغ. لكن لنبقي المشروع موجودا، نحتاج إلى أن\n"
+"\tبكير هذا العدد. و هكذا إذا كنت ترغب في إعادة شيء ما إلى المشترك،\n"
+"\tالتحق بنا في جعل LMMS أفضل!"
+
+#: get-involved.twig:11
+msgid "What you can do"
+msgstr "ما يمكنك فعله"
+
+#: get-involved.twig:12
+msgid "There are multiple ways of contributing:"
+msgstr "هناك عدة طرق للمشاركة:"
+
+#: get-involved.twig:18
+msgid "Join Development"
+msgstr "التحق بالتطوير"
+
+#: get-involved.twig:21
+msgid ""
+"We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt\n"
+"\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
+"\t\t\t\t\t   coding!"
+msgstr ""
+"نحن في حاجة شديدة لمطورين جدد للالتحاق بفريقنا. LMMS مكتوب في ++C باستخدام إطار عمل Qt،\n"
+"\t\t\t\t\t   و هكذا إذا كنت تعلم شيئا أو اثنين عن هذين، لا تتردد في\n"
+"\t\t\t\t\t   البرمجة!"
+
+#: get-involved.twig:24
+msgid ""
+"See our <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> and our\n"
+"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker</a> to get started. Furthermore, the LMMS\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
+"\t\t\t\t\t   to introduce yourself."
+msgstr ""
+"انظر<a href=\"//github.com/LMMS/lmms/wiki\">ويكي GitHub</a> خاصتنا و\n"
+"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">مراقب الأخطاء</a> خاصتنا لتبدأ."
+
+#: get-involved.twig:35
+msgid "Website & Docs"
+msgstr "موقع الويب و الوثائق"
+
+#: get-involved.twig:38
+msgid ""
+"You can help us by improving this website or documenting the software. The website sources are in our\n"
+"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, our documentation is hosted using a\n"
+"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki instance</a>."
+msgstr ""
+"يمكنك مساعدتنا بتحسين هذا الموقع أو توثيق البرمجيات. مصادر موقع الويب موجودة في\n"
+"\t\t\t\t\t   مخزن GitHub خاصتنا <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>، توثيقنا مستضاف باستخدام\n"
+"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">مرحلة MediaWiki </a>."
+
+#: get-involved.twig:41
+msgid ""
+"Public registration on our Wiki is disabled due to spam issues. Please post to the\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> if you're\n"
+"\t\t\t\t\t   interested in helping out with the documentation!"
+msgstr ""
+"التسجيل العام على ويكينا معطل بسبب قضايا منشورات و رسائل لا علاقية أو غير ملائمة. من فضلك، انشر إلى \n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">قائمة البريد</a> إذا أنت\n"
+"\t\t\t\t\t   مهتم في المساعدة في التوثيق!"
+
+#: get-involved.twig:53
+msgid "Donate"
+msgstr "تبرع"
+
+#: get-involved.twig:56
+msgid ""
+"Even though donations are not the thing we need the most (that'd be developers), they help us pay\n"
+"\t\t\t\t\t   our bills, for our domain lmms.io for instance."
+msgstr ""
+"حتى و لو أن التبرعات ليست أكثر شيء نحتاجه (هذا سيكون المطورين)، هي تساعدنا في دفع\n"
+"ضرائبنا، لملكنا lmms.io مثلاً."
+
+#: get-involved.twig:59
+msgid "Donate via PayPal"
+msgstr "تبرع بواسطة PayPal"
+
+#: get-involved.twig:68
+msgid "Translations"
+msgstr "الترجمات"
+
+#: get-involved.twig:71
+msgid ""
+"If your language is missing in LMMS, help the project and other users speaking the same language by\n"
+"\t\t\t\t\t   translating the software. You can find instructions on the page\n"
+"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
+"\t\t\t\t\t   GitHub Wiki."
+msgstr ""
+"إذا كانت لغتك مفقودة في LMMS، أفد المشروع و المستخدمين الآخرين الذين يتكلمون اللغة نفسها\n"
+"\t\t\t\t\t   بترجمة البرمجيات. يمكنك أن تجد التعليمات على الصفحة\n"
+"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">إنشاء مركزة</a>\" في\n"
+"\t\t\t\t\t   ويكي GitHub خاصتنا."
+
+#: get-involved.twig:80
+msgid "How to get in touch"
+msgstr "كيف تتواصل"
+
+#: get-involved.twig:86
+msgid "Mailing List"
+msgstr "قائمة البريد"
+
+#: get-involved.twig:89
+msgid ""
+"Posting to the mailing list is the best way to reach out to our developers:"
+msgstr "النشر إلى قائمة البريد هو أفضل طريقة للاتصال بمطورينا:"
+
+#: get-involved.twig:90
+msgid "Subscribe to LMMS-Devel mailing list"
+msgstr "اشترك بقائمة بريد مطوري-LMMS"
+
+#: get-involved.twig:101
+msgid ""
+"Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
+"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
+msgstr ""
+"قناة IRC خاصتنا هي <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> على\n"
+"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
+
+#: get-involved.twig:103
+msgid ""
+"<a href=\"https://discordapp.com/\">Discord</a>\n"
+"\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
+"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
+msgstr ""
+"<a href=\"https://discordapp.com/\">Discord</a>\n"
+"\t\t\t\t\tهو بديل عصري أكثر ل IRC. التحق بخادمنا\n"
+"\t\t\t\t\t<a href=\"/chat/\">بالنقر هنا</a>."
+
+#: get-involved.twig:116 navbar.php:9
+msgid "Forum"
+msgstr "المنتدى"
+
+#: get-involved.twig:119
+msgid "We host a forum for our users here on this website:"
+msgstr "نحن نستضيف منتدى لأعضائنا هنا على موقع الويب هذا:"
+
+#: get-involved.twig:131
+msgid ""
+"For reporting a bug or suggesting a new feature, please use the GitHub issue"
+" tracker:"
+msgstr ""
+"لتقدمة تقرير عن خطأ أو اقتراح ميزة بارزة جديدة، من فضلك استخدم مراقب قضايا "
+"GitHub:"
+
+#: download/linux.twig:6
+msgid ""
+"LMMS is included in most major Linux distribution's package repositories.<br>\n"
+"\tPlease <a href=\"get-involved/#contact\">contact us</a> if your distribution is not listed here."
+msgstr ""
+"LMMS متضمن في معظم مستودعات رزم موزعات Linux البارزة.<br>\n"
+"\tمن فضلك <a href=\"get-involved/#contact\">تواصل معنا</a> إذا كان موزعك غير مدرج هنا."
+
+#: download/linux.twig:48
+msgid ""
+"For installing LMMS on Debian based distributions such as Debian itself, "
+"Ubuntu or Linux Mint, just click the button below."
+msgstr ""
+"لتركيب LMMS على موزعات مبنية على Debian مثل Debian في حد ذاته، Ubuntu أو "
+"Linux Mint، فقط انقر على الزر أدناه."
+
+#: download/linux.twig:53
+msgid "Install LMMS now"
+msgstr "ركب LMMS الآن"
+
+#: download/linux.twig:54
+msgid "From your package manager"
+msgstr "من مدير رزمك"
+
+#: download/linux.twig:57
+msgid "If this doesn't work for you, run this command in a terminal."
+msgstr "إذا لم يعمل هذا لأجلك، أجر هذا الأمر في نهاية."
+
+#: download/linux.twig:59
+msgid ""
+"If the traditional repositories lag behind on versions, try the <a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
+"repository</a>."
+msgstr ""
+"إذا تخلفت المستودعات التقليدية عن الإصدارات، جرب <a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">مستودع "
+"KXStudio</a>."
+
+#: download/linux.twig:60 download/linux.twig:81
+msgid "VST Support"
+msgstr "دعم VST"
+
+#: download/linux.twig:61
+msgid ""
+"If your distribution offers VST support (requires the installation of Wine) "
+"it is generally offered in a separate package.  For example, using the <a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
+"repository</a>, run this command in a terminal."
+msgstr ""
+"إذا كان موزعك يقدم دعم VST (يتطلب تركيب Wine) فهو يقدم عموما في رزمة منفصلة."
+" مثلاً، مستخدماً <a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">مستودع "
+"KXStudio</a>، أجر هذا الأمر في نهاية."
+
+#: download/linux.twig:67 download/linux.twig:73
+msgid "Run the following command as root in a terminal:"
+msgstr "أجر الأمر التالي كأصل في نهاية:"
+
+#: download/linux.twig:79 download/linux.twig:93
+msgid "Run the following command in a terminal:"
+msgstr "أجر الأمر التالي في نهاية:"
+
+#: download/linux.twig:82
+msgid ""
+"For VST support, please see the <a "
+"href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
+msgstr ""
+"لدعم VST، من فضلك انظر <a "
+"href=\"https://wiki.archlinux.org/index.php/LMMS\">صفحة ويكي LMMS Arch</a>"
+
+#: download/linux.twig:99
+msgid ""
+"AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and "
+"more to come in the future), with VST support enabled by default on AMD64."
+msgstr ""
+"AOSC OS يرسل LMMS على منافذ معمارية متنوعة (AMD64/x86_64, ARMv7، و سيأتي "
+"المزيد في المستقبل)، مع دعم VST ممكن افتراضيا على AMD64."
+
+#: download/linux.twig:100
+msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
+msgstr "لكي تركب LMMS على AOSC OS بواسطة PackageKit (موصى به):"
+
+#: download/linux.twig:102
+msgid "To install LMMS on AOSC OS with DPKG:"
+msgstr "لكي تركب LMMS على AOSC OS بواسطة RPM:"
+
+#: download/linux.twig:104
+msgid "To install LMMS on AOSC OS with RPM:"
+msgstr "لكي تركب LMMS على AOSC OS بواسطة RPM:"
+
+#: download/linux.twig:110
+msgid "Build LMMS from source"
+msgstr "ابن LMMS من المصدر"
+
+#: download/linux.twig:111
+msgid ""
+"If your Linux distribution does not provide a lmms package (or only an "
+"outdated one), you can still build LMMS from source. Visit the <a "
+"href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS development wiki "
+"on GitHub</a> for instructions on how to compile LMMS for Linux."
+msgstr ""
+"إذا كان موزعك من Linux لا يوفر رزمة LMMS (أو واحدة مماتة فقط)، لا يزال يمكنك"
+" بناء LMMS من المصدر. زر <a "
+"href=\"https://github.com/LMMS/lmms/wiki/Compiling-\">ويكي تطوير LMMS على "
+"GitHub</a> لتعليمات على كيفية تجميع LMMS لأجل Linux."
 
 #: home.twig:11
 msgid "Let's make music"
@@ -278,111 +542,79 @@ msgstr "مسويات رسومية و معاملية محزومة"
 msgid "Built-in visualization/spectrum analyzer"
 msgstr "مرسم ذبذبات و محلل طيف مبنيان-داخلياً"
 
-#: download/linux.twig:6
+#: download/index.twig:32
+msgid "Download LMMS"
+msgstr "حمل LMMS"
+
+#: download/index.twig:32
 msgid ""
-"LMMS is included in most major Linux distribution's package repositories.<br>\n"
-"\tPlease <a href=\"get-involved/#contact\">contact us</a> if your distribution is not listed here."
+"Downloading and using LMMS is free! Just choose the operating system you "
+"want to run LMMS on:"
 msgstr ""
-"LMMS متضمن في معظم مستودعات رزم موزعات Linux البارزة.<br>\n"
-"\tمن فضلك <a href=\"get-involved/#contact\">تواصل معنا</a> إذا كان موزعك غير مدرج هنا."
+"تحميل و استخدام LMMS مجاني! فقط اختر نظام التشغيل الذي تريد أن تشغل LMMS "
+"عليه:"
 
-#: download/linux.twig:48
+#: download/index.twig:51
+msgid "Install LMMS on Linux"
+msgstr "ركب LMMS على Linux"
+
+#: download/index.twig:52
+msgid "Click one of the buttons below to download LMMS for Linux."
+msgstr "انقر أحد الأزرار أدناه لتنزل LMMS لأجل Linux."
+
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:77
+#: download/index.twig:80
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:219
+msgid "Stable Versions"
+msgstr "الإصدارات المستقرة"
+
+#: download/index.twig:59
 msgid ""
-"For installing LMMS on Debian based distributions such as Debian itself, "
-"Ubuntu or Linux Mint, just click the button below."
+"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
+"<code>.AppImage</code> executable before running"
 msgstr ""
-"لتركيب LMMS على موزعات مبنية على Debian مثل Debian في حد ذاته، Ubuntu أو "
-"Linux Mint، فقط انقر على الزر أدناه."
+"أجر <code>chmod +x ~/Downloads/*.AppImage</code> لتعين منفذ "
+"<code>.AppImage</code> قبل التشغيل"
 
-#: download/linux.twig:53
-msgid "Install LMMS now"
-msgstr "ركب LMMS الآن"
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:110
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:185
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:246
+msgid "Beta Versions"
+msgstr "الإصدارات البائية"
 
-#: download/linux.twig:54
-msgid "From your package manager"
-msgstr "من مدير رزمك"
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:140
+msgid "Other options"
+msgstr "اختيارات أخرى"
 
-#: download/linux.twig:57
-msgid "If this doesn't work for you, run this command in a terminal."
-msgstr "إذا لم يعمل هذا لأجلك، أجر هذا الأمر في نهاية."
+#: download/index.twig:78
+msgid "Install LMMS on Windows"
+msgstr "ركب LMMS على Windows"
 
-#: download/linux.twig:59
+#: download/index.twig:79
 msgid ""
-"If the traditional repositories lag behind on versions, try the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>."
-msgstr ""
-"إذا تخلفت المستودعات التقليدية عن الإصدارات، جرب <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">مستودع "
-"KXStudio</a>."
+"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
+"Windows"
+msgstr "انقر أحد الأزرار أدناه (إما 32-بت أو 64-بت) لتحمل لأجل Windows"
 
-#: download/linux.twig:60 download/linux.twig:81
-msgid "VST Support"
-msgstr "دعم VST"
+#: download/index.twig:96
+msgid "Install LMMS on macOS"
+msgstr "ركب LMMS على macOS"
 
-#: download/linux.twig:61
-msgid ""
-"If your distribution offers VST support (requires the installation of Wine) "
-"it is generally offered in a separate package.  For example, using the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>, run this command in a terminal."
-msgstr ""
-"إذا كان موزعك يقدم دعم VST (يتطلب تركيب Wine) فهو يقدم عموما في رزمة منفصلة."
-" مثلاً، مستخدماً <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">مستودع "
-"KXStudio</a>، أجر هذا الأمر في نهاية."
+#: download/index.twig:97
+msgid "Click one of the buttons below to download LMMS for macOS"
+msgstr "انقر أحد الأزرار أدناه لتحمل لأجل macOS"
 
-#: download/linux.twig:67 download/linux.twig:73
-msgid "Run the following command as root in a terminal:"
-msgstr "أجر الأمر التالي كأصل في نهاية:"
+#: download/index.twig:114
+msgid "Downloads labeled Beta are pre-release software, stability may suffer."
+msgstr "التحميلات المصنفة \"بائية\" هي يرمجيات قبل إصدارية، قد يعاني الاستقرار."
 
-#: download/linux.twig:79 download/linux.twig:93
-msgid "Run the following command in a terminal:"
-msgstr "أجر الأمر التالي في نهاية:"
+#: download/index.twig:115
+msgid "Previous releases"
+msgstr "الإصدارات السابقة"
 
-#: download/linux.twig:82
-msgid ""
-"For VST support, please see the <a "
-"href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
-msgstr ""
-"لدعم VST، من فضلك انظر <a "
-"href=\"https://wiki.archlinux.org/index.php/LMMS\">صفحة ويكي LMMS Arch</a>"
-
-#: download/linux.twig:99
-msgid ""
-"AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and "
-"more to come in the future), with VST support enabled by default on AMD64."
-msgstr ""
-"AOSC OS يرسل LMMS على منافذ معمارية متنوعة (AMD64/x86_64, ARMv7، و سيأتي "
-"المزيد في المستقبل)، مع دعم VST ممكن افتراضيا على AMD64."
-
-#: download/linux.twig:100
-msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
-msgstr "لكي تركب LMMS على AOSC OS بواسطة PackageKit (موصى به):"
-
-#: download/linux.twig:102
-msgid "To install LMMS on AOSC OS with DPKG:"
-msgstr "لكي تركب LMMS على AOSC OS بواسطة RPM:"
-
-#: download/linux.twig:104
-msgid "To install LMMS on AOSC OS with RPM:"
-msgstr "لكي تركب LMMS على AOSC OS بواسطة RPM:"
-
-#: download/linux.twig:110
-msgid "Build LMMS from source"
-msgstr "ابن LMMS من المصدر"
-
-#: download/linux.twig:111
-msgid ""
-"If your Linux distribution does not provide a lmms package (or only an "
-"outdated one), you can still build LMMS from source. Visit the <a "
-"href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS development wiki "
-"on GitHub</a> for instructions on how to compile LMMS for Linux."
-msgstr ""
-"إذا كان موزعك من Linux لا يوفر رزمة LMMS (أو واحدة مماتة فقط)، لا يزال يمكنك"
-" بناء LMMS من المصدر. زر <a "
-"href=\"https://github.com/LMMS/lmms/wiki/Compiling-\">ويكي تطوير LMMS على "
-"GitHub</a> لتعليمات على كيفية تجميع LMMS لأجل Linux."
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:427
+msgid "Show release notes"
+msgstr "أظهر ملاحظات الإصدار"
 
 #: showcase.twig:6 navbar.php:12
 msgid "Showcase"
@@ -393,20 +625,69 @@ msgid "Tracks made with LMMS"
 msgstr "مقاطع مصنوعة باستخدام LMMS"
 
 #: showcase.twig:12
+msgid "The Best of LMMS Vol. 5 by LMMS Artists"
+msgstr ""
+
+#: showcase.twig:20
 msgid "The Best of LMMS Vol. 4 by LMMS Artists"
 msgstr "الأفضل من LMMS الرابعة بواسطة فناني LMMS"
 
-#: showcase.twig:20
+#: showcase.twig:28
 msgid "The Best of LMMS Vol.3 by LMMS Artists"
 msgstr "الأفضل من LMMS الثالثة بواسطة فناني LMMS"
 
-#: showcase.twig:28
+#: showcase.twig:36
 msgid "The Best of LMMS Vol.2 by LMMS Artists"
 msgstr "الأفضل من LMMS الثانية بواسطة فناني LMMS"
 
-#: showcase.twig:36
+#: showcase.twig:44
 msgid "The Best of LMMS Vol.1 by LMMS Artists"
 msgstr "الأفضل من LMMS الأولى بواسطة فناني LMMS"
+
+#: errorpage.twig:6
+msgid "Error <b>%code%</b>"
+msgstr "خطأ <b>%code%</b>"
+
+#: errorpage.twig:9
+msgid ""
+"If you followed a valid link on this site, please contact us\n"
+"      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
+msgstr ""
+"إذا اتبعت رابطاً فعالاً على هذا الموقع، من فضلك، تواصل معنا عنه\n"
+"و <a href=\"//github.com/LMMS/lmms.io/issues/new\">أنشئ قضية</a> على GitHub."
+
+#: /tmp/cache/twig/lmms.io/b3/b3e63410a9484bebba0a59631095bc2c1361dd9d140eaaafc3915982d597681d.php:36
+msgid ""
+"We're sorry, something went wrong fetching the latest release info. You can "
+"still download releases on <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+msgstr ""
+"نحن آسفون، حدث خطأ أثناء جلب معلومات آخر إصدار. لا يزال بإمكانك تحميل "
+"إصدارات على <a href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+
+#: foot.twig:24
+msgid "Powered by"
+msgstr "ممد بواسطة"
+
+#: branding.twig:6 navbar.php:14
+msgid "Branding"
+msgstr "التسويق"
+
+#: branding.twig:6
+msgid "Download LMMS Artwork"
+msgstr "حمل عمل LMMS الفني"
+
+#: branding.twig:8
+msgid "LMMS Logo"
+msgstr "شعار LMMS"
+
+#: branding.twig:8 branding.twig:17
+msgid "LMMS Development Team"
+msgstr "فريق تطوير LMMS"
+
+#: branding.twig:17
+msgid "LMMS Project Icon"
+msgstr "أيقونة مشروع LMMS"
 
 #: competitions.twig:10 navbar.php:13
 msgid "Competitions"
@@ -420,21 +701,34 @@ msgstr "المنافسات الرسمية المنظمة من قبل LMMS و أ�
 msgid "Current competitions:"
 msgstr "المنافسات الحالية:"
 
-#: competitions.twig:16
+#: competitions.twig:15
+msgid "Past competitions:"
+msgstr "المنافسات المنصرمة:"
+
+#: competitions.twig:18
 msgid "The Best of LMMS vol. V"
 msgstr "الأفضل من LMMS الخامسة"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:71
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:80
 msgid ""
-"We are proud to present to you The Best of LMMS contest volume 5!\n"
+"#### The competition has ended on **April 16th, 2018**.\n"
+"\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
+"\n"
+"\t\t\tListen to all entries [here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQOjvIBp40ez-2QrPsGHt_LGY2XejaOFZrXWsgPVPXoH7w7QQriUV52_OeCQBL9tcOPlCxdUw2HC6Ud/pubhtml?gid=1958072675&single=true)\n"
+"\n"
+"\t\t\tWinners:\n"
+"\t\t\t<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/519667455&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>\n"
+"\n"
+"\t\t\t#### Original description:\n"
+"\t\t\tWe are proud to present to you The Best of LMMS contest volume 5!\n"
 "\t\t\tThe contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight\n"
-"  \t\t(23:59.59) on April 16th (UTC time) for a chance to be featured on the BoL v5 album. The compilation will be uploaded to Bandcamp, with all\n"
+"\t\t\t(23:59.59) on April 16th (UTC time) for a chance to be featured on the BoL v5 album. The compilation will be uploaded to Bandcamp, with all\n"
 "\t\t\tprofits going towards LMMS' further development.\n"
 "\t\t\t\n"
 "\t\t\t[Submit here](https://goo.gl/47ZXq1)\n"
 "\t\t\t#### Competition rules:\n"
 "\t\t\t1. **The Deadline:**\n"
-"\t\t\t  - Track must be submitted by April 16th 2018 at 23:59.59 UTC using [this form](https://goo.gl/47ZXq1).\n"
+"\t\t\t\t- Track must be submitted by April 16th 2018 at 23:59.59 UTC using [this form](https://goo.gl/47ZXq1).\n"
 "\t\t\t2. **The Track:**\n"
 "\t\t\t\t- Must be produced in LMMS.\n"
 "\t\t\t\t- You may use other programs for mastering and post processing.\n"
@@ -458,15 +752,11 @@ msgid ""
 "\t\t\t\\* *This year the judging process has changed, to ensure fairer handling of entries. The change to one submission only is to allow each and every entry to be fully scored by the panel of judges. This was previously handled by a preliminary screening round to help cut down the large amount of entries received. By lowering the amount of up-front entries allowed, the judges will have the time to fully score each track entered.*"
 msgstr ""
 
-#: competitions.twig:58
-msgid "Past competitions:"
-msgstr "المنافسات المنصرمة:"
-
-#: competitions.twig:61
+#: competitions.twig:71
 msgid "The Best of LMMS vol. IV"
 msgstr "الأفضل من LMMS الرابعة"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:130
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:144
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -542,11 +832,11 @@ msgstr ""
 "\t\t\t  - الأغاني الخمس و عشرون الأعلى تسجيلا ستنشر كألبوم على Bandcamp مع سعر \"ادفع ما تشاء\".\n"
 "\t\t\t\t\tستمنح كل الموارد المالية المستلمة للتطوير الإضافي لأجل LMMS، البرنامج الذي نحبه."
 
-#: competitions.twig:109
+#: competitions.twig:119
 msgid "The Best of LMMS vol. III"
 msgstr "الأفضل من LMMS الثالثة"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:191
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:205
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -597,11 +887,11 @@ msgstr ""
 "\t\t\t4. عملية التحكيم. بعد الموعد الأخير، سيقرر الحكام و ينشروا النتائج في أقل من الأيام الأربعة عشر التالية.\n"
 "\t\t\t5. النشر. ستنشر المجموعة على Bandcamp فناني LMMS مخصص مع سعر \"ادفع ما تشاء\". ستمنح كل الموارد المالية المستلمة للتطوير الإضافي لأجل LMMS، البرنامج الذي نحبه."
 
-#: competitions.twig:145
+#: competitions.twig:155
 msgid "The Best of LMMS vol. II"
 msgstr "الأفضل من LMMS الثانية"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:240
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:254
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -651,11 +941,11 @@ msgstr ""
 "\t\t\tنص واحد لكي لا تعلم مِن مَن أو كم التغذية الاسترجاعية. لاحظ أنك لست ضامنا أي تغذية استرجاعية، هي تتوقف على كم من الوقت لدى الحكام.\n"
 "\t\t\tلاحظ أيضا أن الحكام هم مجرد فناني LMMS اعتياديين و مهما تكون التغذية الاسترجاعية التي تحصل عليها فإن قرار الحكام لأغاني الألبوم نهائي."
 
-#: competitions.twig:180
+#: competitions.twig:190
 msgid "The Best of LMMS vol. I"
 msgstr "الأفضل من LMMS الأولى"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:288
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:302
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
@@ -705,280 +995,6 @@ msgstr ""
 "\t\t\t\tو Evan Roberts (Stakeout Punch) و Joshua Flynn (Raptor980) و Jan Heemstra (Combustible Lemonade)\n"
 "\t\t\t3. عملية التحكيم. بعد الموعد الأخير، سيقرر الحكام و ينشروا النتائج في أقل من الأيام السبع التالية.\n"
 "\t\t\t4. النشر. ستنشر المجموعة على Bandcamp فناني LMMS مخصص مع سعر \"ادفع ما تشاء\". ستمنح كل الموارد المالية المستلمة للتطوير الإضافي لأجل LMMS، البرنامج الذي نحبه."
-
-#: download/index.twig:32
-msgid "Download LMMS"
-msgstr "حمل LMMS"
-
-#: download/index.twig:32
-msgid ""
-"Downloading and using LMMS is free! Just choose the operating system you "
-"want to run LMMS on:"
-msgstr ""
-"تحميل و استخدام LMMS مجاني! فقط اختر نظام التشغيل الذي تريد أن تشغل LMMS "
-"عليه:"
-
-#: download/index.twig:51
-msgid "Install LMMS on Linux"
-msgstr "ركب LMMS على Linux"
-
-#: download/index.twig:52
-msgid "Click one of the buttons below to download LMMS for Linux."
-msgstr "انقر أحد الأزرار أدناه لتنزل LMMS لأجل Linux."
-
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:73
-#: download/index.twig:80
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:215
-msgid "Stable Versions"
-msgstr "الإصدارات المستقرة"
-
-#: download/index.twig:59
-msgid ""
-"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
-"<code>.AppImage</code> executable before running"
-msgstr ""
-"أجر <code>chmod +x ~/Downloads/*.AppImage</code> لتعين منفذ "
-"<code>.AppImage</code> قبل التشغيل"
-
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:106
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:181
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:242
-msgid "Beta Versions"
-msgstr "الإصدارات البائية"
-
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:136
-msgid "Other options"
-msgstr "اختيارات أخرى"
-
-#: download/index.twig:78
-msgid "Install LMMS on Windows"
-msgstr "ركب LMMS على Windows"
-
-#: download/index.twig:79
-msgid ""
-"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
-"Windows"
-msgstr "انقر أحد الأزرار أدناه (إما 32-بت أو 64-بت) لتحمل لأجل Windows"
-
-#: download/index.twig:96
-msgid "Install LMMS on macOS"
-msgstr "ركب LMMS على macOS"
-
-#: download/index.twig:97
-msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr "انقر أحد الأزرار أدناه لتحمل لأجل macOS"
-
-#: download/index.twig:114
-msgid "Downloads labeled Beta are pre-release software, stability may suffer."
-msgstr "التحميلات المصنفة \"بائية\" هي يرمجيات قبل إصدارية، قد يعاني الاستقرار."
-
-#: download/index.twig:115
-msgid "Previous releases"
-msgstr "الإصدارات السابقة"
-
-#: download/index.twig:333
-msgid "Show release notes"
-msgstr "أظهر ملاحظات الإصدار"
-
-#: branding.twig:6 navbar.php:14
-msgid "Branding"
-msgstr "التسويق"
-
-#: branding.twig:6
-msgid "Download LMMS Artwork"
-msgstr "حمل عمل LMMS الفني"
-
-#: branding.twig:8
-msgid "LMMS Logo"
-msgstr "شعار LMMS"
-
-#: branding.twig:8 branding.twig:17
-msgid "LMMS Development Team"
-msgstr "فريق تطوير LMMS"
-
-#: branding.twig:17
-msgid "LMMS Project Icon"
-msgstr "أيقونة مشروع LMMS"
-
-#: errorpage.twig:6
-msgid "Error <b>%code%</b>"
-msgstr "خطأ <b>%code%</b>"
-
-#: errorpage.twig:9
-msgid ""
-"If you followed a valid link on this site, please contact us\n"
-"      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
-msgstr ""
-"إذا اتبعت رابطاً فعالاً على هذا الموقع، من فضلك، تواصل معنا عنه\n"
-"و <a href=\"//github.com/LMMS/lmms.io/issues/new\">أنشئ قضية</a> على GitHub."
-
-#: foot.twig:24
-msgid "Powered by"
-msgstr "ممد بواسطة"
-
-#: get-involved.twig:6 navbar.php:7
-msgid "Get Involved"
-msgstr "تورط"
-
-#: get-involved.twig:6
-msgid ""
-"LMMS is a free, open-source software built entirely by a small number of\n"
-"\tvolunteers in their free time. But to keep the project going, we need this\n"
-"\tnumber to grow. So if you feel like giving something back to the community,\n"
-"\tjoin us in making LMMS better!"
-msgstr ""
-"LMMS هو برنامج مفتوح المصدر و مجاني مبني كليا من قبل عدد صغير من\n"
-"\tالمتطوعين في وقتهم الفارغ. لكن لنبقي المشروع موجودا، نحتاج إلى أن\n"
-"\tبكير هذا العدد. و هكذا إذا كنت ترغب في إعادة شيء ما إلى المشترك،\n"
-"\tالتحق بنا في جعل LMMS أفضل!"
-
-#: get-involved.twig:11
-msgid "What you can do"
-msgstr "ما يمكنك فعله"
-
-#: get-involved.twig:12
-msgid "There are multiple ways of contributing:"
-msgstr "هناك عدة طرق للمشاركة:"
-
-#: get-involved.twig:18
-msgid "Join Development"
-msgstr "التحق بالتطوير"
-
-#: get-involved.twig:21
-msgid ""
-"We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt\n"
-"\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
-"\t\t\t\t\t   coding!"
-msgstr ""
-"نحن في حاجة شديدة لمطورين جدد للالتحاق بفريقنا. LMMS مكتوب في ++C باستخدام إطار عمل Qt،\n"
-"\t\t\t\t\t   و هكذا إذا كنت تعلم شيئا أو اثنين عن هذين، لا تتردد في\n"
-"\t\t\t\t\t   البرمجة!"
-
-#: get-involved.twig:24
-msgid ""
-"See our <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> and our\n"
-"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker</a> to get started. Furthermore, the LMMS\n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
-"\t\t\t\t\t   to introduce yourself."
-msgstr ""
-"انظر<a href=\"//github.com/LMMS/lmms/wiki\">ويكي GitHub</a> خاصتنا و\n"
-"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">مراقب الأخطاء</a> خاصتنا لتبدأ."
-
-#: get-involved.twig:35
-msgid "Website & Docs"
-msgstr "موقع الويب و الوثائق"
-
-#: get-involved.twig:38
-msgid ""
-"You can help us by improving this website or documenting the software. The website sources are in our\n"
-"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, our documentation is hosted using a\n"
-"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki instance</a>."
-msgstr ""
-"يمكنك مساعدتنا بتحسين هذا الموقع أو توثيق البرمجيات. مصادر موقع الويب موجودة في\n"
-"\t\t\t\t\t   مخزن GitHub خاصتنا <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>، توثيقنا مستضاف باستخدام\n"
-"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">مرحلة MediaWiki </a>."
-
-#: get-involved.twig:41
-msgid ""
-"Public registration on our Wiki is disabled due to spam issues. Please post to the\n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> if you're\n"
-"\t\t\t\t\t   interested in helping out with the documentation!"
-msgstr ""
-"التسجيل العام على ويكينا معطل بسبب قضايا منشورات و رسائل لا علاقية أو غير ملائمة. من فضلك، انشر إلى \n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">قائمة البريد</a> إذا أنت\n"
-"\t\t\t\t\t   مهتم في المساعدة في التوثيق!"
-
-#: get-involved.twig:53
-msgid "Donate"
-msgstr "تبرع"
-
-#: get-involved.twig:56
-msgid ""
-"Even though donations are not the thing we need the most (that'd be developers), they help us pay\n"
-"\t\t\t\t\t   our bills, for our domain lmms.io for instance."
-msgstr ""
-"حتى و لو أن التبرعات ليست أكثر شيء نحتاجه (هذا سيكون المطورين)، هي تساعدنا في دفع\n"
-"ضرائبنا، لملكنا lmms.io مثلاً."
-
-#: get-involved.twig:59
-msgid "Donate via PayPal"
-msgstr "تبرع بواسطة PayPal"
-
-#: get-involved.twig:68
-msgid "Translations"
-msgstr "الترجمات"
-
-#: get-involved.twig:71
-msgid ""
-"If your language is missing in LMMS, help the project and other users speaking the same language by\n"
-"\t\t\t\t\t   translating the software. You can find instructions on the page\n"
-"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
-"\t\t\t\t\t   GitHub Wiki."
-msgstr ""
-"إذا كانت لغتك مفقودة في LMMS، أفد المشروع و المستخدمين الآخرين الذين يتكلمون اللغة نفسها\n"
-"\t\t\t\t\t   بترجمة البرمجيات. يمكنك أن تجد التعليمات على الصفحة\n"
-"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">إنشاء مركزة</a>\" في\n"
-"\t\t\t\t\t   ويكي GitHub خاصتنا."
-
-#: get-involved.twig:80
-msgid "How to get in touch"
-msgstr "كيف تتواصل"
-
-#: get-involved.twig:86
-msgid "Mailing List"
-msgstr "قائمة البريد"
-
-#: get-involved.twig:89
-msgid ""
-"Posting to the mailing list is the best way to reach out to our developers:"
-msgstr "النشر إلى قائمة البريد هو أفضل طريقة للاتصال بمطورينا:"
-
-#: get-involved.twig:90
-msgid "Subscribe to LMMS-Devel mailing list"
-msgstr "اشترك بقائمة بريد مطوري-LMMS"
-
-#: get-involved.twig:101
-msgid ""
-"Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
-"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
-msgstr ""
-"قناة IRC خاصتنا هي <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> على\n"
-"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
-
-#: get-involved.twig:103
-msgid ""
-"<a href=\"https://discordapp.com/\">Discord</a>\n"
-"\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
-"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
-msgstr ""
-"<a href=\"https://discordapp.com/\">Discord</a>\n"
-"\t\t\t\t\tهو بديل عصري أكثر ل IRC. التحق بخادمنا\n"
-"\t\t\t\t\t<a href=\"/chat/\">بالنقر هنا</a>."
-
-#: get-involved.twig:116 navbar.php:9
-msgid "Forum"
-msgstr "المنتدى"
-
-#: get-involved.twig:119
-msgid "We host a forum for our users here on this website:"
-msgstr "نحن نستضيف منتدى لأعضائنا هنا على موقع الويب هذا:"
-
-#: get-involved.twig:131
-msgid ""
-"For reporting a bug or suggesting a new feature, please use the GitHub issue"
-" tracker:"
-msgstr ""
-"لتقدمة تقرير عن خطأ أو اقتراح ميزة بارزة جديدة، من فضلك استخدم مراقب قضايا "
-"GitHub:"
-
-#: /tmp/cache/twig/lmms.io/ca/caa7c0e6c169d8a008f589ef3c01ec1f68dc6cb191ac2e6ffd6a642334b27b0f.php:32
-msgid ""
-"We're sorry, something went wrong fetching the latest release info. You can "
-"still download releases on <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
-msgstr ""
-"نحن آسفون، حدث خطأ أثناء جلب معلومات آخر إصدار. لا يزال بإمكانك تحميل "
-"إصدارات على <a href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 
 #: artwork.php:18
 msgid "Author:"

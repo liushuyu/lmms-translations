@@ -4,7 +4,9 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Marcin Mikołajczak <me@m4sk.in>, 2017
+# DWD Hornak <dawidhornak@gmail.com>, 2018
+# LoGazer, 2018
+# jahoomax, 2018
 # 
 #, fuzzy
 msgid ""
@@ -13,17 +15,17 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-02 14:12-0700\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
-"Last-Translator: Marcin Mikołajczak <me@m4sk.in>, 2017\n"
-"Language-Team: Polish (https://www.transifex.com/lmms/teams/61632/pl/)\n"
+"Last-Translator: jahoomax, 2018\n"
+"Language-Team: German (https://www.transifex.com/lmms/teams/61632/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: get-involved.twig:6 navbar.php:7
 msgid "Get Involved"
-msgstr "Zaangażuj się"
+msgstr "Beteilige dich"
 
 #: get-involved.twig:6
 msgid ""
@@ -35,15 +37,15 @@ msgstr ""
 
 #: get-involved.twig:11
 msgid "What you can do"
-msgstr "Co możesz zrobić"
+msgstr "Was du machen kannst"
 
 #: get-involved.twig:12
 msgid "There are multiple ways of contributing:"
-msgstr "Jest wiele sposobów, aby pomóc projektowi:"
+msgstr "Es bestehen mehrere Wege sich zu Beteiligen:"
 
 #: get-involved.twig:18
 msgid "Join Development"
-msgstr "Dołącz do programistów"
+msgstr "Tritt der Entwicklung bei"
 
 #: get-involved.twig:21
 msgid ""
@@ -51,6 +53,9 @@ msgid ""
 "\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
 "\t\t\t\t\t   coding!"
 msgstr ""
+"Wir sind auf der verzweifelten Suche nach neuen Entwicklern für unser Team. "
+"LMMS ist in C++ geschrieben mit Qt-Framework, also wenn du ein oder zwei "
+"Dinge darüber weißt, dann zögere nicht dich mit coden zu beschmutzen!"
 
 #: get-involved.twig:24
 msgid ""
@@ -62,7 +67,7 @@ msgstr ""
 
 #: get-involved.twig:35
 msgid "Website & Docs"
-msgstr "Strona i dokumentacja"
+msgstr "Webseite & Dokumente"
 
 #: get-involved.twig:38
 msgid ""
@@ -80,21 +85,24 @@ msgstr ""
 
 #: get-involved.twig:53
 msgid "Donate"
-msgstr "Wsparcie finansowe"
+msgstr "Unterstützen"
 
 #: get-involved.twig:56
 msgid ""
 "Even though donations are not the thing we need the most (that'd be developers), they help us pay\n"
 "\t\t\t\t\t   our bills, for our domain lmms.io for instance."
 msgstr ""
+"Auch wenn Unterstützer nicht das sind was wir am meisten benötigen (denn das"
+" wären Entwickler), Sie helfen uns unsere Rechnungen zu begleichen, für "
+"unsere Domain lmms.io zum Beispiel."
 
 #: get-involved.twig:59
 msgid "Donate via PayPal"
-msgstr "Przekaż dotację przez PayPal"
+msgstr "Unterstütze via PayPal"
 
 #: get-involved.twig:68
 msgid "Translations"
-msgstr "Tłumaczenia:"
+msgstr "Übersetzer"
 
 #: get-involved.twig:71
 msgid ""
@@ -106,22 +114,22 @@ msgstr ""
 
 #: get-involved.twig:80
 msgid "How to get in touch"
-msgstr "Jak pozostać w kontakcie"
+msgstr "So erreichen Sie uns"
 
 #: get-involved.twig:86
 msgid "Mailing List"
-msgstr "Lista dyskusyjna"
+msgstr "Kontakt Liste"
 
 #: get-involved.twig:89
 msgid ""
 "Posting to the mailing list is the best way to reach out to our developers:"
 msgstr ""
-"Lista dyskusyjna jest najlepszym sposobem na dotarcie do naszych "
-"programistów:"
+"Posten an die Kontakt Liste ist der beste Weg um mit unseren Entwicklern "
+"Kontakt aufzunehmen:"
 
 #: get-involved.twig:90
 msgid "Subscribe to LMMS-Devel mailing list"
-msgstr "Zasubskrybuj listę dyskusyjną LMMS-Devel"
+msgstr "Abboniere die LMMS-Devel Kontakt Liste"
 
 #: get-involved.twig:101
 msgid ""
@@ -135,6 +143,9 @@ msgid ""
 "\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
 "\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
 msgstr ""
+"<a href=\"https://discordapp.com/\">Discord</a>\n"
+"\t\t\t\t\tist eine moderne Alternative zu IRC. Tritt unserem Server \n"
+"\t\t\t\t\t<a href=\"/chat/\">hier</a>bei."
 
 #: get-involved.twig:116 navbar.php:9
 msgid "Forum"
@@ -142,13 +153,15 @@ msgstr "Forum"
 
 #: get-involved.twig:119
 msgid "We host a forum for our users here on this website:"
-msgstr "Prowadzimy forum dla naszych użytkowników pod adresem:"
+msgstr "Wir hosten ein Forum für unsere Benutzer hier auf dieser Website:"
 
 #: get-involved.twig:131
 msgid ""
 "For reporting a bug or suggesting a new feature, please use the GitHub issue"
 " tracker:"
-msgstr "Aby zgłosić błąd lub zaproponować nową funkcję, użyj GitHuba:"
+msgstr ""
+"Um einen Fehler zu melden oder Eine neue Funktion vorzuschlagen, besuche "
+"bitte unseren GitHub Fehler Tracker:"
 
 #: download/linux.twig:6
 msgid ""
@@ -161,20 +174,20 @@ msgid ""
 "For installing LMMS on Debian based distributions such as Debian itself, "
 "Ubuntu or Linux Mint, just click the button below."
 msgstr ""
-"Aby zainstalować LMMS na Debianie i pochodnych, takich jak Ubuntu i Linux "
-"mint, naciśnij poniższy przycisk."
+"Um LMMS auf Debian Basierenden Betriebssytemen wie Debian selbst, Ubuntu "
+"oder Linux Mint, klicke einfach auf den Knopf unten."
 
 #: download/linux.twig:53
 msgid "Install LMMS now"
-msgstr ""
+msgstr "Installiere LMMS jetzt"
 
 #: download/linux.twig:54
 msgid "From your package manager"
-msgstr ""
+msgstr "Von deinem Paket Manager"
 
 #: download/linux.twig:57
 msgid "If this doesn't work for you, run this command in a terminal."
-msgstr "Jeżeli to nie działa u Ciebie, wykonaj to polecenie w terminalu."
+msgstr ""
 
 #: download/linux.twig:59
 msgid ""
@@ -182,13 +195,10 @@ msgid ""
 "href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
 "repository</a>."
 msgstr ""
-"Jeżeli oficjalne repozytoria opóźniają wydawanie wersji, wypróbuj <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">repozytorium "
-"KXStudio</a>."
 
 #: download/linux.twig:60 download/linux.twig:81
 msgid "VST Support"
-msgstr "Wsparcie wtyczek VST"
+msgstr "VST Support"
 
 #: download/linux.twig:61
 msgid ""
@@ -200,11 +210,11 @@ msgstr ""
 
 #: download/linux.twig:67 download/linux.twig:73
 msgid "Run the following command as root in a terminal:"
-msgstr "Wykonaj następującą komendę w konsoli z uprawnieniami roota:"
+msgstr "Führe die folgenden Befehle als root im Terminal aus:"
 
 #: download/linux.twig:79 download/linux.twig:93
 msgid "Run the following command in a terminal:"
-msgstr "Wykonaj następującą komendę w konsoli:"
+msgstr "Führe die folgenden Befehle im Terminal aus:"
 
 #: download/linux.twig:82
 msgid ""
@@ -220,19 +230,19 @@ msgstr ""
 
 #: download/linux.twig:100
 msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
-msgstr "Aby zainstalować LMMS na AOSC OS z PackageKit (zalecane):"
+msgstr ""
 
 #: download/linux.twig:102
 msgid "To install LMMS on AOSC OS with DPKG:"
-msgstr "Aby zainstalować LMMS na AOSC OS z DPKG:"
+msgstr "Um LMMS auf AOSC OS mit DPKG zu installieren:"
 
 #: download/linux.twig:104
 msgid "To install LMMS on AOSC OS with RPM:"
-msgstr "Aby zainstalować LMMS na AOSC OS z RPM:"
+msgstr "Um LMMS auf AOSC OS mit RPM zu installieren"
 
 #: download/linux.twig:110
 msgid "Build LMMS from source"
-msgstr "Zbuduj LMMS ze źródła"
+msgstr ""
 
 #: download/linux.twig:111
 msgid ""
@@ -244,183 +254,188 @@ msgstr ""
 
 #: home.twig:11
 msgid "Let's make music"
-msgstr "Stwórzmy muzykę"
+msgstr "Mache Musik"
 
 #: home.twig:12
 msgid "with a free, cross-platform tool for your computer."
-msgstr "z bezpłatnym, wieloplatformowym narzędziem dla Twojego komputera."
+msgstr ""
+"mit einem gratis, Plattformübergreifendem Werkzeug für deinen Computer"
 
 #: home.twig:14
 msgid "Download now"
-msgstr "Pobierz teraz"
+msgstr "Download"
 
 #: home.twig:15 home.twig:107
 msgid "Get involved"
-msgstr "Zaangażuj się"
+msgstr "Beteilige dich"
 
 #: home.twig:27
 msgid "Making beats has never been easier."
-msgstr "Produkcja muzyki nigdy nie była prostsza."
+msgstr "Beats machen war noch nie einfacher."
 
 #: home.twig:32
 msgid "Produce music with your computer"
-msgstr "Twórz muzykę na swoim komputerze"
+msgstr "Mache Musik mit deinem Computer"
 
 #: home.twig:33
 msgid ""
 "by creating melodies and beats, synthesizing and mixing sounds, arranging "
 "samples and much more."
 msgstr ""
-"tworząc melodie i perkusje, używając syntezatorów i miksując dźwięki, "
-"korzystając z sampli i nie tylko."
+"durch komponieren von Melodien und Beats, verbinden und mischen von Klängen,"
+" verschieben von Proben und vielem mehr."
 
 #: home.twig:37
 msgid "Playback instruments, samples and plugins"
-msgstr "Odtwarzaj instrumenty, sample i korzystaj z wtyczek"
+msgstr "Playback Instrumente, Samples und Plugins"
 
 #: home.twig:38
 msgid ""
 "with a typing or MIDI keyboard in a user-friendly and modern interface."
 msgstr ""
-"wprowadzając ręcznie bądź używając klawiatury MIDI w naszym przyjaznym i "
-"nowoczesnym interfejsie."
+"mit einer Tastatur oder einem MIDI Keyboard in einem benutzerfreundlichem "
+"und modernem Interface."
 
 #: home.twig:42
 msgid "Bundled with ready-to-use content"
-msgstr ""
+msgstr "Verpackt mit zur Benutzung fertigem Inhalt"
 
 #: home.twig:43
 msgid ""
 "from an assortment of instrument and effect plugins, presets and samples to "
 "VST and SoundFont support."
 msgstr ""
-"zawiera liczne instrumenty i efekty, presety, sample oraz wsparcie SoundFont"
-" i wtyczek VST."
+"von einer Auswahl an Instrumenten- und Effektplugins, Presets und Samples "
+"bis hin zu VST- und SoundFont-Unterstützung."
 
 #: home.twig:52
 msgid "Made by musicians, for musicians."
-msgstr "Od muzyków, dla muzyków."
+msgstr "Von Musikern, für Musiker"
 
 #: home.twig:56
 msgid "Download for Linux"
-msgstr "Pobierz dla Linuxa"
+msgstr "Download für Linux"
 
 #: home.twig:57
 msgid "Download for Windows"
-msgstr "Pobierz dla Windowsa"
+msgstr "Download für Windows"
 
 #: home.twig:58
 msgid "Download for macOS"
-msgstr "Pobierz dla macOS"
+msgstr "Download für macOS"
 
 #: home.twig:59
 msgid "Pick your flavor."
-msgstr ""
+msgstr "Wähle deinen Geschmack."
 
 #: home.twig:60
 msgid "Linux, Windows or macOS."
-msgstr "Linux, Windows i macOS."
+msgstr "Linux, Windows oder macOS"
 
 #: home.twig:69
 msgid "Houston, we have a problem."
-msgstr ""
+msgstr "Houston, wir haben ein Problem"
 
 #: home.twig:70
 msgid "Stand by, we got you covered."
-msgstr ""
+msgstr "Bleib dran, wir bekommen das hin."
 
 #: home.twig:73
 msgid "Visit our forum"
-msgstr "Odwiedź nasze forum"
+msgstr "Besuche unser Forum"
 
 #: home.twig:74
 msgid "Visit our Facebook page"
-msgstr "Odwiedź naszą stronę na Facebooku"
+msgstr "Besuche unsere Facebook Seite"
 
 #: home.twig:75
 msgid "Chat now on Discord"
-msgstr ""
+msgstr "Rede mit uns auf Discord"
 
 #: home.twig:76
 msgid "Visit our GitHub page"
-msgstr "Odwiedź naszą stronę na GitHubie"
+msgstr "Besuche unsere GitHub Seite"
 
 #: home.twig:77
 msgid "Ask your questions here"
-msgstr "Zadaj swoje pytania tutaj"
+msgstr "Frage deine Fragen hier"
 
 #: home.twig:78
 msgid "and answer a few questions while you're waiting."
-msgstr "i odpowiedz na inne podczas oczekiwania."
+msgstr "und beantworte einige Fragen während du wartest."
 
 #: home.twig:85
 msgid "Sharing means caring."
-msgstr ""
+msgstr "Teilen heißt Kümmern"
 
 #: home.twig:90
 msgid "Find musicians"
-msgstr ""
+msgstr "Finde Musiker"
 
 #: home.twig:91
 msgid "Visit the LMMS Sharing Platform (LSP)"
-msgstr "Odwiedź Platformę Udostępniania LMMS (LSP)"
+msgstr "Besuche die LMMS Empfehlen Platform (LSP)"
 
 #: home.twig:92
 msgid "Don't be modest."
-msgstr ""
+msgstr "Sei nicht Bescheiden."
 
 #: home.twig:93
 msgid "Show us your creations."
-msgstr ""
+msgstr "Zeige uns deine Werke."
 
 #: home.twig:101
 msgid "We <3 open source."
-msgstr ""
+msgstr "Wir <3 Open Source."
 
 #: home.twig:106
 msgid "Fork us on Github"
-msgstr "Sforkuj na GitHubie"
+msgstr "Erstelle einen Fork auf GitHub"
 
 #: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community-driven project."
 msgstr ""
+"LMMS ist ein 100% freies, vielfältiges, community-betriebenes Projekt."
 
 #: home.twig:109
 msgid "Proudly hosted on Github."
-msgstr ""
+msgstr "mit Stolz auf Github gehostet."
 
 #: home.twig:124
 msgid "Take a peek."
-msgstr ""
+msgstr "Nimm dir einen Vorgeschmack."
 
 #: home.twig:127
 msgid "Watch our promo video."
-msgstr "Zobacz nasz film promocyjny."
+msgstr "Sieh dir unser Werbevideo an."
 
 #: home.twig:139
 msgid "Click anywhere to close this dialog"
 msgstr ""
+"Klicken Sie auf eine beliebige Stelle, um dieses Dialogfeld zu schließen."
 
 #: home.twig:147
 msgid "Featuring:"
-msgstr ""
+msgstr "Funktionen:"
 
 #: home.twig:151
 msgid "Core Functionality"
-msgstr "Podstawowa funkcjonalność"
+msgstr "Schlüsselfunktionen"
 
 #: home.twig:155
 msgid "Compose music on Windows, Linux and macOS"
-msgstr ""
+msgstr "Komponiere Musik auf Windows, Linux und macOS"
 
 #: home.twig:156
 msgid "Sequence, compose, mix and automate songs in one simple interface"
 msgstr ""
+"Ordne, komponiere, mische und automatisiere Lieder in einem simplen "
+"Interface."
 
 #: home.twig:157
 msgid "Note playback via MIDI or typing keyboard"
-msgstr ""
+msgstr "Noten Playback via MIDI Keyboard oder Tastatur."
 
 #: home.twig:158
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
@@ -429,6 +444,8 @@ msgstr ""
 #: home.twig:159
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr ""
+"Feinabstimmung von Mustern, Noten, Akkorden und Melodien mit dem Piano-Roll-"
+"Editor"
 
 #: home.twig:160
 msgid ""
@@ -438,19 +455,19 @@ msgstr ""
 
 #: home.twig:161
 msgid "Import of MIDI files and Hydrogen project files"
-msgstr "Importuj pliki MIDI i projekty Hydrogen"
+msgstr "Import von MIDI Dateien und Hydrogen Projekt Dateien"
 
 #: home.twig:171
 msgid "Musical Instruments"
-msgstr "Instrumenty muzyczne"
+msgstr "Musikalische Instrumente"
 
 #: home.twig:175
 msgid ""
 "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
 "Windows)"
 msgstr ""
-"Wbudowane wsparcie 64-bitowych wtyczek VST z użyciem 32-bitowego mostku "
-"(64-bitowy Windows)"
+"Eingebaute 64-Bit VST Instrument Unterstützung mit einer 32-Bit VST Brücke "
+"(64-Bit Windows)"
 
 #: home.twig:176
 msgid ""
@@ -473,20 +490,22 @@ msgstr ""
 
 #: home.twig:188
 msgid "Effects Mixing"
-msgstr "Miksowanie efektów"
+msgstr "Effekte Kombinieren"
 
 #: home.twig:192
 msgid "Drop-in LADSPA plug-in support"
-msgstr "Wbudowane wsparcie wtyczek LADSPA"
+msgstr "LADSPA plug-in Unterstützung"
 
 #: home.twig:193
 msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
-msgstr "Wbudowane wsparcie wtyczek VST® (Windows i Linux)"
+msgstr ""
 
 #: home.twig:194
 msgid ""
 "Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
 msgstr ""
+"Integrierter Kompressor, Limiter, Delay, Reverb, Distortion and Bass "
+"Enhancer"
 
 #: home.twig:195
 msgid "Bundled graphic and parametric equalizers"
@@ -494,33 +513,33 @@ msgstr ""
 
 #: home.twig:196
 msgid "Built-in visualization/spectrum analyzer"
-msgstr ""
+msgstr "Integrierte Visualisierung/Spectrum Analyzer"
 
 #: download/index.twig:32
 msgid "Download LMMS"
-msgstr "Pobierz LMMS"
+msgstr "Download LMMS"
 
 #: download/index.twig:32
 msgid ""
 "Downloading and using LMMS is free! Just choose the operating system you "
 "want to run LMMS on:"
 msgstr ""
-"Pobranie i korzystanie LMMS nic nie kosztuje! Wybierz system, na którym "
-"chcesz go uruchomić:"
+"Download und Nutzung von LMMS sind kostenlos! Wähle einfach das "
+"Betriebssystem auf dem du LMMS benutzen möchtest:"
 
 #: download/index.twig:51
 msgid "Install LMMS on Linux"
-msgstr "Zainstaluj LMMS na Linuxie"
+msgstr "Installiere LMMS auf Linux"
 
 #: download/index.twig:52
 msgid "Click one of the buttons below to download LMMS for Linux."
-msgstr ""
+msgstr "Klicke auf einen der Buttons unten um LMMS für Linux herunterzuladen"
 
 #: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:77
 #: download/index.twig:80
 #: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:219
 msgid "Stable Versions"
-msgstr "Wersje stabilne"
+msgstr "Stabile Versionen"
 
 #: download/index.twig:59
 msgid ""
@@ -532,51 +551,53 @@ msgstr ""
 #: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:185
 #: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:246
 msgid "Beta Versions"
-msgstr "Wersje beta"
+msgstr "Beta Versionen"
 
 #: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:140
 msgid "Other options"
-msgstr ""
+msgstr "Andere Optionen"
 
 #: download/index.twig:78
 msgid "Install LMMS on Windows"
-msgstr "Zainstaluj LMMS na Windowsie"
+msgstr "Installiere LMMS auf Windows"
 
 #: download/index.twig:79
 msgid ""
 "Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
 "Windows"
 msgstr ""
-"Naciśnij jeden z poniższych przycisków (dla wersji 32 i 64-bitowej), aby "
-"pobrać LMMS na Windows"
+"Klicke auf einen der Buttons unten (32 Bit oder 64 Bit) um LMMS für Windows "
+"herunterzuladen"
 
 #: download/index.twig:96
 msgid "Install LMMS on macOS"
-msgstr ""
+msgstr "Installiere LMMS auf macOS"
 
 #: download/index.twig:97
 msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr ""
+msgstr "Klicke auf einen der Buttons unten um LMMS für macOS herunterzuladen"
 
 #: download/index.twig:114
 msgid "Downloads labeled Beta are pre-release software, stability may suffer."
 msgstr ""
+"Als Beta markierte Downloads sind Pre-Release Versionen, deren Stabilität "
+"womöglich leidet."
 
 #: download/index.twig:115
 msgid "Previous releases"
-msgstr "Poprzednie wydania"
+msgstr "Vorherige Versionen"
 
 #: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:427
 msgid "Show release notes"
-msgstr "Wyświetl informacje o wydaniu"
+msgstr "Versionshinweise"
 
 #: showcase.twig:6 navbar.php:12
 msgid "Showcase"
-msgstr "Pokaz"
+msgstr "Showcase"
 
 #: showcase.twig:6
 msgid "Tracks made with LMMS"
-msgstr "Utwory wykonane z LMMS"
+msgstr "Erstellte Lieder mit LMMS"
 
 #: showcase.twig:12
 msgid "The Best of LMMS Vol. 5 by LMMS Artists"
@@ -584,29 +605,31 @@ msgstr ""
 
 #: showcase.twig:20
 msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr ""
+msgstr "Das Beste von LMMS Vol.4 von LMMS Artisten"
 
 #: showcase.twig:28
 msgid "The Best of LMMS Vol.3 by LMMS Artists"
-msgstr "The Best of LMMS, edycja III, w wykonaniu Artystów LMMS"
+msgstr "Das Beste von LMMS Vol.3 von LMMS Artisten"
 
 #: showcase.twig:36
 msgid "The Best of LMMS Vol.2 by LMMS Artists"
-msgstr "The Best of LMMS, edycja II, w wykonaniu Artystów LMMS"
+msgstr "Das Beste von LMMS Vol.2 von LMMS Artisten"
 
 #: showcase.twig:44
 msgid "The Best of LMMS Vol.1 by LMMS Artists"
-msgstr "The Best of LMMS, edycja I, w wykonaniu Artystów LMMS"
+msgstr "Das Beste von LMMS Vol.1 von LMMS Artisten"
 
 #: errorpage.twig:6
 msgid "Error <b>%code%</b>"
-msgstr ""
+msgstr "Fehler <b>%code%</b>"
 
 #: errorpage.twig:9
 msgid ""
 "If you followed a valid link on this site, please contact us\n"
 "      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
 msgstr ""
+"Wenn du einem plausiblen Link auf dieser Website gefolgt bist, kontaktiere uns bitte\n"
+"in dieser Angelegenheit und <a href=\"//github.com/LMMS/lmms.io/issues/new\">melde das Problem</a> bei GitHub."
 
 #: /tmp/cache/twig/lmms.io/b3/b3e63410a9484bebba0a59631095bc2c1361dd9d140eaaafc3915982d597681d.php:36
 msgid ""
@@ -617,47 +640,48 @@ msgstr ""
 
 #: foot.twig:24
 msgid "Powered by"
-msgstr "Oparto na"
+msgstr ""
 
 #: branding.twig:6 navbar.php:14
 msgid "Branding"
-msgstr "Branding"
+msgstr ""
 
 #: branding.twig:6
 msgid "Download LMMS Artwork"
-msgstr "Pobierz grafikę LMMS"
+msgstr "Download LMMS Artwork"
 
 #: branding.twig:8
 msgid "LMMS Logo"
-msgstr "Logo LMMS"
+msgstr "LMMS Logo"
 
 #: branding.twig:8 branding.twig:17
 msgid "LMMS Development Team"
-msgstr "Zespół twórców LMMS"
+msgstr "LMMS Entwicklungs Team"
 
 #: branding.twig:17
 msgid "LMMS Project Icon"
-msgstr "Ikona projektu LMMS"
+msgstr "LMMS Projekt Icon"
 
 #: competitions.twig:10 navbar.php:13
 msgid "Competitions"
-msgstr "Konkursy"
+msgstr "Wettbewerbe"
 
 #: competitions.twig:10
 msgid "Official competitions organised by LMMS and its community members"
-msgstr "Oficjalne konkursy organizowane przez LMMS i członków społeczności"
+msgstr ""
+"Offizielle Wettbewerbe, organisiert von LMMS und seinen Community Members"
 
 #: competitions.twig:13
 msgid "Current competitions:"
-msgstr ""
+msgstr "Aktuelle Wettbewerbe:"
 
 #: competitions.twig:15
 msgid "Past competitions:"
-msgstr "Archiwalne konkursy:"
+msgstr "Letzte Wettbewerbe:"
 
 #: competitions.twig:18
 msgid "The Best of LMMS vol. V"
-msgstr ""
+msgstr "Das Beste von LMMS Vol. V"
 
 #: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:80
 msgid ""
@@ -704,7 +728,7 @@ msgstr ""
 
 #: competitions.twig:71
 msgid "The Best of LMMS vol. IV"
-msgstr "The Best of LMMS, edycja IV"
+msgstr "Das Beste von LMMS Vol. IV"
 
 #: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:144
 msgid ""
@@ -748,7 +772,7 @@ msgstr ""
 
 #: competitions.twig:119
 msgid "The Best of LMMS vol. III"
-msgstr "The Best of LMMS, edycja III"
+msgstr "Das Beste von LMMS Vol. III"
 
 #: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:205
 msgid ""
@@ -780,7 +804,7 @@ msgstr ""
 
 #: competitions.twig:155
 msgid "The Best of LMMS vol. II"
-msgstr "The Best of LMMS, edycja II"
+msgstr "Das Beste von LMMS Vol. II"
 
 #: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:254
 msgid ""
@@ -811,7 +835,7 @@ msgstr ""
 
 #: competitions.twig:190
 msgid "The Best of LMMS vol. I"
-msgstr "The Best of LMMS, edycja I"
+msgstr "Das Beste von LMMS Vol. I"
 
 #: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:302
 msgid ""
@@ -847,47 +871,47 @@ msgstr "Autor:"
 
 #: artwork.php:24
 msgid "Modified/Themed By:"
-msgstr ""
+msgstr "Modifiziert/Themed von:"
 
 #: artwork.php:56
 msgid "Scalable Vector Format"
-msgstr ""
+msgstr "Scalable Vector Format"
 
 #: artwork.php:57
 msgid "Gimp Image Editor Format"
-msgstr "Format edytora graficznego GIMP"
+msgstr "Gimp Image Editor Format"
 
 #: artwork.php:58
 msgid "Portable Document Format"
-msgstr "Format PDF"
+msgstr "Portable Document Format"
 
 #: artwork.php:59
 msgid "Adobe Photoshop Format"
-msgstr "Format programu Adobe Photoshop"
+msgstr "Adobe Photoshop Format"
 
 #: artwork.php:60
 msgid "PNG Format"
-msgstr "Format PNG"
+msgstr "PNG Format"
 
 #: artwork.php:62
 msgid "JPEG Format"
-msgstr "Format JPEG"
+msgstr "JPEG Format"
 
 #: artwork.php:63
 msgid "Bitmap Format"
-msgstr "Format mapy bitowej"
+msgstr "Bitmap Format"
 
 #: artwork.php:64
 msgid "Windows Icon Format"
-msgstr "Format ikon systemu Windows"
+msgstr "Windows Icon Format"
 
 #: artwork.php:65
 msgid "Apple Icon Format"
-msgstr "Format ikon Apple"
+msgstr "Apple Icon Format"
 
 #: artwork.php:66
 msgid "Unknown File"
-msgstr "Nieznany plik"
+msgstr "Unbekannter Dateityp"
 
 #: index.php:37
 msgid "You seem to have taken a wrong turn."
@@ -895,32 +919,32 @@ msgstr ""
 
 #: index.php:40
 msgid "Oops, that is not supposed to happen."
-msgstr ""
+msgstr "Ups, das sollte nicht passieren."
 
 #: index.php:43
 msgid "Yuck, an error!"
-msgstr "Kurcze, coś poszło nie tak!"
+msgstr ""
 
 #: navbar.php:6
 msgid "Download"
-msgstr "Pobierz"
+msgstr "Download"
 
 #: navbar.php:8
 msgid "Documentation"
-msgstr "Dokumentacja"
+msgstr "Dokumentation"
 
 #: navbar.php:8
 msgid "Docs"
-msgstr "Dokumentacja"
+msgstr ""
 
 #: navbar.php:10
 msgid "Sharing Platform"
-msgstr "Platforma udostępniania"
+msgstr ""
 
 #: navbar.php:10
 msgid "Share"
-msgstr "Udostępnij"
+msgstr "Teilen"
 
 #: navbar.php:11
 msgid "More"
-msgstr "Więcej"
+msgstr "Mehr"

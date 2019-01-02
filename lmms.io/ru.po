@@ -3,14 +3,20 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Andrew344 <andrchep5@gmail.com>, 2017
+# Кирилл Рагузин, 2017
+# Andrei Stepanov <adem4ik@gmail.com>, 2018
+# Василий Павлов <halmet94@gmail.com>, 2018
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-18 14:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Кирилл Рагузин, 2017\n"
+"POT-Creation-Date: 2019-01-02 14:12-0700\n"
+"PO-Revision-Date: 2017-06-13 14:13+0000\n"
+"Last-Translator: Василий Павлов <halmet94@gmail.com>, 2018\n"
 "Language-Team: Russian (https://www.transifex.com/lmms/teams/61632/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,263 +24,183 @@ msgstr ""
 "Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
-#: home.twig:11
-msgid "Let's make music"
-msgstr "Давайте сочинять музыку"
-
-#: home.twig:12
-msgid "with a free, cross-platform tool for your computer."
-msgstr ""
-
-#: home.twig:14
-msgid "Download now"
-msgstr "Загрузить"
-
-#: home.twig:15 home.twig:107
-msgid "Get involved"
+#: get-involved.twig:6 navbar.php:7
+msgid "Get Involved"
 msgstr "Принять участие"
 
-#: home.twig:27
-msgid "Making beats has never been easier."
-msgstr ""
-
-#: home.twig:32
-msgid "Produce music with your computer"
-msgstr "Создавайте музыку на вашем компьютере"
-
-#: home.twig:33
+#: get-involved.twig:6
 msgid ""
-"by creating melodies and beats, synthesizing and mixing sounds, arranging "
-"samples and much more."
+"LMMS is a free, open-source software built entirely by a small number of\n"
+"\tvolunteers in their free time. But to keep the project going, we need this\n"
+"\tnumber to grow. So if you feel like giving something back to the community,\n"
+"\tjoin us in making LMMS better!"
 msgstr ""
+"LMMS это бесплатная и, что не менее важно, свободная программа, созданная "
+"целиком небольшой группой из - волонтёров, которые работают над ней в "
+"свободное время. Но также требуется большее количество людей, чтобы "
+"сообщество программы росло. Присоединяйтесь к нам, сделайте LMMS лечше!"
 
-#: home.twig:37
-msgid "Playback instruments, samples and plugins"
-msgstr ""
+#: get-involved.twig:11
+msgid "What you can do"
+msgstr "Что вы можете сделать"
 
-#: home.twig:38
+#: get-involved.twig:12
+msgid "There are multiple ways of contributing:"
+msgstr "Есть множество способов помочь нам:"
+
+#: get-involved.twig:18
+msgid "Join Development"
+msgstr "Присоединиться к разработке"
+
+#: get-involved.twig:21
 msgid ""
-"with a typing or MIDI keyboard in a user-friendly and modern interface."
+"We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt\n"
+"\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
+"\t\t\t\t\t   coding!"
 msgstr ""
+"Мы отчаянно ищем новых разработчиков, которые могли бы писать на C++ с "
+"использованием библиотеки Qt для нашей команды. Поэтому, если вы знаете что-"
+"либо о кодинге, присоединяйтесь!"
 
-#: home.twig:42
-msgid "Bundled with ready-to-use content"
-msgstr ""
-
-#: home.twig:43
+#: get-involved.twig:24
 msgid ""
-"from an assortment of instrument and effect plugins, presets and samples to "
-"VST and SoundFont support."
+"See our <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> and our\n"
+"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker</a> to get started. Furthermore, the LMMS\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
+"\t\t\t\t\t   to introduce yourself."
 msgstr ""
+"Посмотрите наши: <a href=\"//github.com/LMMS/lmms/wiki\"> Вики на GitHub, <a href=\"//github.com/LMMS/lmms/issues\"> Трекер ошибок для начала\n"
+"<a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\"> Список E-Mail рассылки. </a> хорошее место, чтобы представить себя."
 
-#: home.twig:52
-msgid "Made by musicians, for musicians."
-msgstr "Создано музыкантами для музыкантов."
+#: get-involved.twig:35
+msgid "Website & Docs"
+msgstr "Веб-сайт и документы"
 
-#: home.twig:56
-msgid "Download for Linux"
-msgstr "Загрузить для Linux"
-
-#: home.twig:57
-msgid "Download for Windows"
-msgstr "Загрузить для Windwos"
-
-#: home.twig:58
-msgid "Download for macOS"
-msgstr "Загрузить для macOS"
-
-#: home.twig:59
-msgid "Pick your flavor."
-msgstr ""
-
-#: home.twig:60
-msgid "Linux, Windows or macOS."
-msgstr "Linux, Windows или macOS."
-
-#: home.twig:69
-msgid "Houston, we have a problem."
-msgstr "Хьюстон, у нас проблема."
-
-#: home.twig:70
-msgid "Stand by, we got you covered."
-msgstr ""
-
-#: home.twig:73
-msgid "Visit our forum"
-msgstr "Посетите наш форум"
-
-#: home.twig:74
-msgid "Visit our Facebook page"
-msgstr "Посетите нашу страницу в Facebook"
-
-#: home.twig:75
-msgid "Chat now on Discord"
-msgstr "Общайтесь в Discord"
-
-#: home.twig:76
-msgid "Visit our GitHub page"
-msgstr "Посетите нашу страницу в GitHub"
-
-#: home.twig:77
-msgid "Ask your questions here"
-msgstr "Задавайте ваши вопросы здесь"
-
-#: home.twig:78
-msgid "and answer a few questions while you're waiting."
-msgstr ""
-
-#: home.twig:85
-msgid "Sharing means caring."
-msgstr ""
-
-#: home.twig:90
-msgid "Find musicians"
-msgstr "Найти музыкантов"
-
-#: home.twig:91
-msgid "Visit the LMMS Sharing Platform (LSP)"
-msgstr ""
-
-#: home.twig:92
-msgid "Don't be modest."
-msgstr ""
-
-#: home.twig:93
-msgid "Show us your creations."
-msgstr ""
-
-#: home.twig:101
-msgid "We <3 open source."
-msgstr "Мы <3 опенсорс."
-
-#: home.twig:106
-msgid "Fork us on Github"
-msgstr "Форкните нас в GitHub"
-
-#: home.twig:108
-#, php-format
-msgid "LMMS is a 100% free, open source, community-driven project."
-msgstr ""
-
-#: home.twig:109
-msgid "Proudly hosted on Github."
-msgstr ""
-
-#: home.twig:124
-msgid "Take a peek."
-msgstr ""
-
-#: home.twig:127
-msgid "Watch our promo video."
-msgstr "Посмотрите наше рекламное видео."
-
-#: home.twig:139
-msgid "Click anywhere to close this dialog"
-msgstr ""
-
-#: home.twig:147
-msgid "Featuring:"
-msgstr ""
-
-#: home.twig:151
-msgid "Core Functionality"
-msgstr "Основной функционал"
-
-#: home.twig:155
-msgid "Compose music on Windows, Linux and macOS"
-msgstr ""
-
-#: home.twig:156
-msgid "Sequence, compose, mix and automate songs in one simple interface"
-msgstr ""
-
-#: home.twig:157
-msgid "Note playback via MIDI or typing keyboard"
-msgstr ""
-
-#: home.twig:158
-msgid "Consolidate instrument tracks using Beat+Bassline Editor"
-msgstr ""
-
-#: home.twig:159
-msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
-msgstr ""
-
-#: home.twig:160
+#: get-involved.twig:38
 msgid ""
-"Full user-defined track-based automation and computer-controlled automation "
-"sources"
+"You can help us by improving this website or documenting the software. The website sources are in our\n"
+"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, our documentation is hosted using a\n"
+"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki instance</a>."
 msgstr ""
+"Вы можете помочь нам, переводя этот сайт или документируя работу с "
+"программой. Источники вебсайта раположены в нашем \t\t\t\t\t GitHub "
+"репозитории  <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, а "
+"документация на \t\t\t\t\t <a href=\"//lmms.io/wiki\">MediaWiki</a>."
 
-#: home.twig:161
-msgid "Import of MIDI files and Hydrogen project files"
-msgstr ""
-
-#: home.twig:171
-msgid "Musical Instruments"
-msgstr "Музыкальные инструменты"
-
-#: home.twig:175
+#: get-involved.twig:41
 msgid ""
-"Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
-"Windows)"
+"Public registration on our Wiki is disabled due to spam issues. Please post to the\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> if you're\n"
+"\t\t\t\t\t   interested in helping out with the documentation!"
 msgstr ""
+"Регистрация на нашей вики отключена из-за случаев спама. Пожалуйста, "
+"напишите нам \t\t\t\t\t <a "
+"href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">на "
+"почту</a>, если вы заинтересованы помогать нам с документацией!"
 
-#: home.twig:176
+#: get-involved.twig:53
+msgid "Donate"
+msgstr "Пожертвование"
+
+#: get-involved.twig:56
 msgid ""
-"16 built in synthesizers, including emultations of Roland ® TB-303, "
-"Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip"
-" and more"
+"Even though donations are not the thing we need the most (that'd be developers), they help us pay\n"
+"\t\t\t\t\t   our bills, for our domain lmms.io for instance."
 msgstr ""
+"Несмотря на то, что в денежных пожертвованиях мы нуждаемся меньше, чем в "
+"разработчиках, деньги помогают нам оплачивать, например домен lmms.io."
 
-#: home.twig:177
+#: get-involved.twig:59
+msgid "Donate via PayPal"
+msgstr "Пожертвовать с помощью PayPal"
+
+#: get-involved.twig:68
+msgid "Translations"
+msgstr "Переводы"
+
+#: get-involved.twig:71
 msgid ""
-"Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
-"additive, subtractive and pad synthesis all in one powerful plugin"
+"If your language is missing in LMMS, help the project and other users speaking the same language by\n"
+"\t\t\t\t\t   translating the software. You can find instructions on the page\n"
+"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
+"\t\t\t\t\t   GitHub Wiki."
 msgstr ""
+"Если Ваш язык отсутствует в LMMS, помогите проекту и другим пользователям, говорящим на одном с Вами языке\n"
+"\t\t\t\t \tпереводя программу. Вы можете найти инструкции на странице\n"
+"\t\t\t\t\t \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Создание локализаций</a>\" в нашей вики на GitHub."
 
-#: home.twig:178
+#: get-involved.twig:80
+msgid "How to get in touch"
+msgstr "Как быть на связи"
+
+#: get-involved.twig:86
+msgid "Mailing List"
+msgstr "Список рассылки"
+
+#: get-involved.twig:89
 msgid ""
-"Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis "
-"UltraSound ® (GUS) formats for high quality instrument patches and banks"
+"Posting to the mailing list is the best way to reach out to our developers:"
 msgstr ""
+"Сообщения для списка почтовой рассылки — лучший способ связаться с нашими "
+"разработчиками:"
 
-#: home.twig:188
-msgid "Effects Mixing"
-msgstr "Микшер эффектов"
+#: get-involved.twig:90
+msgid "Subscribe to LMMS-Devel mailing list"
+msgstr "Подпишитесь на рассылку новостей о ходе разработки LMMS"
 
-#: home.twig:192
-msgid "Drop-in LADSPA plug-in support"
-msgstr ""
-
-#: home.twig:193
-msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
-msgstr ""
-
-#: home.twig:194
+#: get-involved.twig:101
 msgid ""
-"Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
+"Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
+"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 msgstr ""
+"Наш IRC канал <a "
+"href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> на "
+"\t\t\t\t\t <a href=\"https://freenode.net\">Freenode</a>"
 
-#: home.twig:195
-msgid "Bundled graphic and parametric equalizers"
+#: get-involved.twig:103
+msgid ""
+"<a href=\"https://discordapp.com/\">Discord</a>\n"
+"\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
+"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
 msgstr ""
+"<a href=\"https://discordapp.com/\">Discord</a> \n"
+"\t\t\t\t\t более современная альтернатива IRC. Присоединяйтесь к нашему серверу\n"
+"\t\t\t\t\t <a href=\"/chat/\">По этой ссылке</a>."
 
-#: home.twig:196
-msgid "Built-in visualization/spectrum analyzer"
+#: get-involved.twig:116 navbar.php:9
+msgid "Forum"
+msgstr "Форум"
+
+#: get-involved.twig:119
+msgid "We host a forum for our users here on this website:"
 msgstr ""
+"Мы также предлагаем пользователям собраться на нашем форуме здесь, на этом "
+"вебсайте:"
+
+#: get-involved.twig:131
+msgid ""
+"For reporting a bug or suggesting a new feature, please use the GitHub issue"
+" tracker:"
+msgstr ""
+"Чтобы сообщить об ошибке, или предложить новую функцию, пожалуйста, "
+"используйте страницу для вопросов GitHub:"
 
 #: download/linux.twig:6
 msgid ""
 "LMMS is included in most major Linux distribution's package repositories.<br>\n"
 "\tPlease <a href=\"get-involved/#contact\">contact us</a> if your distribution is not listed here."
 msgstr ""
+"LMMS уже включена во многих крупных репозиториях дистрибутивов. Пожалуйста "
+"<a href=\"get-involved/#contact\">свяжитесь с нами </a>, если ваш "
+"дистрибутив отсутствует в списке."
 
 #: download/linux.twig:48
 msgid ""
 "For installing LMMS on Debian based distributions such as Debian itself, "
 "Ubuntu or Linux Mint, just click the button below."
 msgstr ""
+"Для того, чтобы установить LMMS на дистрибутивах, основанных на Debian, "
+"Ubuntu или Linux Mint, просто нажмите кнопку ниже."
 
 #: download/linux.twig:53
 msgid "Install LMMS now"
@@ -282,7 +208,7 @@ msgstr "Установить LMMS"
 
 #: download/linux.twig:54
 msgid "From your package manager"
-msgstr ""
+msgstr "Из вашего менеджера пакетов"
 
 #: download/linux.twig:57
 msgid "If this doesn't work for you, run this command in a terminal."
@@ -294,6 +220,9 @@ msgid ""
 "href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
 "repository</a>."
 msgstr ""
+"Если традиционные репозитории отстают от версий, попробуйте <a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">репозиторий "
+"KXStudio</a>."
 
 #: download/linux.twig:60 download/linux.twig:81
 msgid "VST Support"
@@ -320,24 +249,32 @@ msgid ""
 "For VST support, please see the <a "
 "href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
 msgstr ""
+"Для того, чтобы больше узнать, поддерживается ли VST, пожалуйста, посмотрите"
+" <a href=\"https://wiki.archlinux.org/index.php/LMMS\">вики страницу Arch "
+"LMMS </a>"
 
 #: download/linux.twig:99
 msgid ""
 "AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and "
 "more to come in the future), with VST support enabled by default on AMD64."
 msgstr ""
+"AOSC OS имеет установочные пакеты LMMS для разной архитектуры (AMD64 / "
+"x86_64, ARMv7 и т. д. с расширением поддержки в будущем). VST поддержка по "
+"умолчанию уже включена на AMD64."
 
 #: download/linux.twig:100
 msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
 msgstr ""
+"Чтобы установить LMMS на AOSC OS с прилагающимсявстроенным контентом "
+"(ркомендуем):"
 
 #: download/linux.twig:102
 msgid "To install LMMS on AOSC OS with DPKG:"
-msgstr ""
+msgstr "Чтобы установить LMMS на AOSC OS с использованием DPKG:"
 
 #: download/linux.twig:104
 msgid "To install LMMS on AOSC OS with RPM:"
-msgstr ""
+msgstr "Чтобы установить LMMS на AOSC OS с использованием RPM:"
 
 #: download/linux.twig:110
 msgid "Build LMMS from source"
@@ -350,30 +287,434 @@ msgid ""
 "href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS development wiki "
 "on GitHub</a> for instructions on how to compile LMMS for Linux."
 msgstr ""
+"Если ваш дистрибутив Linux не предоставляет пакет LMMS (Либо же предлагает "
+"один из устаревших), вы можете установить LMMS из источника. Посетите <a "
+"href=\"https://github.com/LMMS/lmms/wiki/Compiling\"> вики разработки на "
+"GitHub </a> , чтобы получить инструкции как скомпилировать LMMS для Linux."
+
+#: home.twig:11
+msgid "Let's make music"
+msgstr "Давайте сочинять музыку"
+
+#: home.twig:12
+msgid "with a free, cross-platform tool for your computer."
+msgstr ""
+"с бесплатным и свободным мультиплатформенным инструментом для вашего "
+"компьютера."
+
+#: home.twig:14
+msgid "Download now"
+msgstr "Загрузить"
+
+#: home.twig:15 home.twig:107
+msgid "Get involved"
+msgstr "Принять участие"
+
+#: home.twig:27
+msgid "Making beats has never been easier."
+msgstr "Создавать биты никогда не было так просто."
+
+#: home.twig:32
+msgid "Produce music with your computer"
+msgstr "Создавайте музыку на вашем компьютере"
+
+#: home.twig:33
+msgid ""
+"by creating melodies and beats, synthesizing and mixing sounds, arranging "
+"samples and much more."
+msgstr ""
+"создавая молодии и биты, синтезируя и смешивая звуки, арранжируя семплы и "
+"многое другое"
+
+#: home.twig:37
+msgid "Playback instruments, samples and plugins"
+msgstr "Инструменты воспроизведения, семплы и плагины."
+
+#: home.twig:38
+msgid ""
+"with a typing or MIDI keyboard in a user-friendly and modern interface."
+msgstr ""
+"с набором или работой через MIDI клавиатуру в дружественном пользователю, "
+"современном интерфейсе."
+
+#: home.twig:42
+msgid "Bundled with ready-to-use content"
+msgstr "Идёт в комплекте с готовым для использования контентом."
+
+#: home.twig:43
+msgid ""
+"from an assortment of instrument and effect plugins, presets and samples to "
+"VST and SoundFont support."
+msgstr ""
+"от ассортимента инструментов и эффект-плагина, пресетов и семплов до "
+"поддержки VST и SoundFont."
+
+#: home.twig:52
+msgid "Made by musicians, for musicians."
+msgstr "Создано музыкантами для музыкантов."
+
+#: home.twig:56
+msgid "Download for Linux"
+msgstr "Загрузить для Linux"
+
+#: home.twig:57
+msgid "Download for Windows"
+msgstr "Загрузить для Windwos"
+
+#: home.twig:58
+msgid "Download for macOS"
+msgstr "Загрузить для macOS"
+
+#: home.twig:59
+msgid "Pick your flavor."
+msgstr "Выберите пакадж для своей любимой платформы."
+
+#: home.twig:60
+msgid "Linux, Windows or macOS."
+msgstr "Linux, Windows или macOS."
+
+#: home.twig:69
+msgid "Houston, we have a problem."
+msgstr "Хьюстон, у нас проблема."
+
+#: home.twig:70
+msgid "Stand by, we got you covered."
+msgstr "Оставайтесь с нами, мы вам всё расскажем."
+
+#: home.twig:73
+msgid "Visit our forum"
+msgstr "Посетите наш форум"
+
+#: home.twig:74
+msgid "Visit our Facebook page"
+msgstr "Посетите нашу страницу в Facebook"
+
+#: home.twig:75
+msgid "Chat now on Discord"
+msgstr "Общайтесь в Discord"
+
+#: home.twig:76
+msgid "Visit our GitHub page"
+msgstr "Посетите нашу страницу в GitHub"
+
+#: home.twig:77
+msgid "Ask your questions here"
+msgstr "Задавайте ваши вопросы здесь"
+
+#: home.twig:78
+msgid "and answer a few questions while you're waiting."
+msgstr "и ответьте на несколько вопросов, пока вы ждёте."
+
+#: home.twig:85
+msgid "Sharing means caring."
+msgstr "Распространение информации, значит забота."
+
+#: home.twig:90
+msgid "Find musicians"
+msgstr "Найти музыкантов"
+
+#: home.twig:91
+msgid "Visit the LMMS Sharing Platform (LSP)"
+msgstr "Не будьте скромными."
+
+#: home.twig:92
+msgid "Don't be modest."
+msgstr "Не стесняйтесь"
+
+#: home.twig:93
+msgid "Show us your creations."
+msgstr "Покажите нам ваши творения."
+
+#: home.twig:101
+msgid "We <3 open source."
+msgstr "Мы <3 открытый исходный код."
+
+#: home.twig:106
+msgid "Fork us on Github"
+msgstr "Форкните нас в GitHub"
+
+#: home.twig:108
+#, php-format
+msgid "LMMS is a 100% free, open source, community-driven project."
+msgstr ""
+"LMMS на 100% бесплатный проект с открытым исходным кодом (Open Source), "
+"движимый усилиями сообщества."
+
+#: home.twig:109
+msgid "Proudly hosted on Github."
+msgstr "Поддерживается GitHub с гордостью."
+
+#: home.twig:124
+msgid "Take a peek."
+msgstr "Бросьте взгляд."
+
+#: home.twig:127
+msgid "Watch our promo video."
+msgstr "Посмотрите видео с демонстрацией возможностей."
+
+#: home.twig:139
+msgid "Click anywhere to close this dialog"
+msgstr "Нажмите в любом месте, чтобы закрыть это окно"
+
+#: home.twig:147
+msgid "Featuring:"
+msgstr "Особенности:"
+
+#: home.twig:151
+msgid "Core Functionality"
+msgstr "Основной функционал"
+
+#: home.twig:155
+msgid "Compose music on Windows, Linux and macOS"
+msgstr "Пишите музыку под Windows, Linux или macOS"
+
+#: home.twig:156
+msgid "Sequence, compose, mix and automate songs in one simple interface"
+msgstr ""
+"Составляйте последовательность, занимайтесь композицией микшируйте  и "
+"автоматизируйте мелодии в едином простом интерфейсе."
+
+#: home.twig:157
+msgid "Note playback via MIDI or typing keyboard"
+msgstr ""
+"Проигрывание нот через MIDI или при помощи набора на обычной клавиатуре"
+
+#: home.twig:158
+msgid "Consolidate instrument tracks using Beat+Bassline Editor"
+msgstr "Объединяйте дорожки инструментов, используя Beat+Bassline редактор"
+
+#: home.twig:159
+msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
+msgstr ""
+"Точнейшим образом настраивайте шаблоны, ноты, аккорды и мелодии с помощью "
+"Piano Roll редактора "
+
+#: home.twig:160
+msgid ""
+"Full user-defined track-based automation and computer-controlled automation "
+"sources"
+msgstr ""
+"Полнопользовательская автоматизация на основе дорожек и источники "
+"автоматизации с компьютерным управлением"
+
+#: home.twig:161
+msgid "Import of MIDI files and Hydrogen project files"
+msgstr "Импорт файлов проектов MIDI и Hydrogen."
+
+#: home.twig:171
+msgid "Musical Instruments"
+msgstr "Музыкальные инструменты"
+
+#: home.twig:175
+msgid ""
+"Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
+"Windows)"
+msgstr ""
+"Встроенная 64-битная поддержка VST инструментов с возможностью перехода на "
+"32 бита для Linux и Windows."
+
+#: home.twig:176
+msgid ""
+"16 built in synthesizers, including emultations of Roland ® TB-303, "
+"Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip"
+" and more"
+msgstr ""
+"16 встроенных синтезаторов, включая эмуляторы Roland ® TB-303, микрочипы "
+"Commodore 64® SID, Nintendo ® NES и GameBoy, чип Yamaha ® OPL2, а также "
+"многое другое"
+
+#: home.twig:177
+msgid ""
+"Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
+"additive, subtractive and pad synthesis all in one powerful plugin"
+msgstr ""
+"Встроенные эффекты ZynAddSubFx: полифонические, мультитембральные, "
+"микротональные, с добавлением многоголосности, субтрактивные, а также пэд-"
+"синтезаторы в одном мощном плагине."
+
+#: home.twig:178
+msgid ""
+"Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis "
+"UltraSound ® (GUS) formats for high quality instrument patches and banks"
+msgstr ""
+"Поддержка множества мультисэмплов для таких форматов как SoundFont ® (SF2), "
+"Giga (GIG) и Gravis UltraSound® (GUS) для высококачественных  наборов и "
+"патчей"
+
+#: home.twig:188
+msgid "Effects Mixing"
+msgstr "Микшер эффектов"
+
+#: home.twig:192
+msgid "Drop-in LADSPA plug-in support"
+msgstr "Поддержка подключаемого плагина LADSPA"
+
+#: home.twig:193
+msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
+msgstr "Поддержка плагина эффектов VST для Linux и Windows."
+
+#: home.twig:194
+msgid ""
+"Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
+msgstr ""
+"Встроенные компрессор, лимитер, дилэй, реверберация, distortion, а также "
+"усилитель баса"
+
+#: home.twig:195
+msgid "Bundled graphic and parametric equalizers"
+msgstr "В комплекте с программой графический и параметрический эквалайзеры"
+
+#: home.twig:196
+msgid "Built-in visualization/spectrum analyzer"
+msgstr "Встроенный анализатор спектра\\визуализации"
+
+#: download/index.twig:32
+msgid "Download LMMS"
+msgstr "Загрузить LMMS"
+
+#: download/index.twig:32
+msgid ""
+"Downloading and using LMMS is free! Just choose the operating system you "
+"want to run LMMS on:"
+msgstr ""
+"Загрузка и использование LMMS бесплатно! Просто выберите операционную "
+"систему, на которой вы хотите использовать LMMS:"
+
+#: download/index.twig:51
+msgid "Install LMMS on Linux"
+msgstr "Установить LMMS на Linux"
+
+#: download/index.twig:52
+msgid "Click one of the buttons below to download LMMS for Linux."
+msgstr "Нажмите на одну из кнопок ниже, чтобы загрузить LMMS для Linux."
+
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:77
+#: download/index.twig:80
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:219
+msgid "Stable Versions"
+msgstr "Стабильные версии"
+
+#: download/index.twig:59
+msgid ""
+"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
+"<code>.AppImage</code> executable before running"
+msgstr ""
+"Запустите <code> chmod +x ~/Downloads/*.AppImage </code>чтобы установить "
+"исполняемый <code> .AppImage </code> перед запуском."
+
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:110
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:185
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:246
+msgid "Beta Versions"
+msgstr "Бета версии"
+
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:140
+msgid "Other options"
+msgstr "Другие варианты"
+
+#: download/index.twig:78
+msgid "Install LMMS on Windows"
+msgstr "Установить LMMS на Windows"
+
+#: download/index.twig:79
+msgid ""
+"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
+"Windows"
+msgstr "Скачайте -32 либо -64 битную версию LMMS для Windows по кнопкам ниже"
+
+#: download/index.twig:96
+msgid "Install LMMS on macOS"
+msgstr "Установить LMMS для macOS"
+
+#: download/index.twig:97
+msgid "Click one of the buttons below to download LMMS for macOS"
+msgstr "Нажмите на одну из кнопок ниже, чтобы скачать LMMS для macOS"
+
+#: download/index.twig:114
+msgid "Downloads labeled Beta are pre-release software, stability may suffer."
+msgstr ""
+"Загружает Beta и пре-релизные версии программы. Стабильность в них не самая "
+"лучшая:"
+
+#: download/index.twig:115
+msgid "Previous releases"
+msgstr "Предыдущие выпуски"
+
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:427
+msgid "Show release notes"
+msgstr "Посмотреть примечания к выпуску"
 
 #: showcase.twig:6 navbar.php:12
 msgid "Showcase"
-msgstr ""
+msgstr "Демонстрация"
 
 #: showcase.twig:6
 msgid "Tracks made with LMMS"
-msgstr ""
+msgstr "Треки, созданные с помощью LMMS."
 
 #: showcase.twig:12
-msgid "The Best of LMMS Vol. 4 by LMMS Artists"
+msgid "The Best of LMMS Vol. 5 by LMMS Artists"
 msgstr ""
 
 #: showcase.twig:20
-msgid "The Best of LMMS Vol.3 by LMMS Artists"
-msgstr ""
+msgid "The Best of LMMS Vol. 4 by LMMS Artists"
+msgstr "Лучшее из созданного музыкантами в LMMS часть 4."
 
 #: showcase.twig:28
-msgid "The Best of LMMS Vol.2 by LMMS Artists"
-msgstr ""
+msgid "The Best of LMMS Vol.3 by LMMS Artists"
+msgstr "Лучшее из созданного музыкантами в LMMS часть 3."
 
 #: showcase.twig:36
+msgid "The Best of LMMS Vol.2 by LMMS Artists"
+msgstr "Лучшее из созданного музыкантами в LMMS часть 2."
+
+#: showcase.twig:44
 msgid "The Best of LMMS Vol.1 by LMMS Artists"
+msgstr "Лучшее из созданного музыкантами в LMMS."
+
+#: errorpage.twig:6
+msgid "Error <b>%code%</b>"
+msgstr "Ошибка<b>%code%</b>"
+
+#: errorpage.twig:9
+msgid ""
+"If you followed a valid link on this site, please contact us\n"
+"      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
 msgstr ""
+
+#: /tmp/cache/twig/lmms.io/b3/b3e63410a9484bebba0a59631095bc2c1361dd9d140eaaafc3915982d597681d.php:36
+msgid ""
+"We're sorry, something went wrong fetching the latest release info. You can "
+"still download releases on <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+msgstr ""
+"Что-то пошло не так при попытке получить информацию о последнем релизе. Вы "
+"всё ещё можете скачать его на<a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+
+#: foot.twig:24
+msgid "Powered by"
+msgstr "На мощностях"
+
+#: branding.twig:6 navbar.php:14
+msgid "Branding"
+msgstr "Бренд"
+
+#: branding.twig:6
+msgid "Download LMMS Artwork"
+msgstr "Скачать LMMS арт "
+
+#: branding.twig:8
+msgid "LMMS Logo"
+msgstr "Логотип LMMS"
+
+#: branding.twig:8 branding.twig:17
+msgid "LMMS Development Team"
+msgstr "Команда разработчиков LMMS"
+
+#: branding.twig:17
+msgid "LMMS Project Icon"
+msgstr "Иконка проекта LMMS"
 
 #: competitions.twig:10 navbar.php:13
 msgid "Competitions"
@@ -382,26 +723,40 @@ msgstr "Участники"
 #: competitions.twig:10
 msgid "Official competitions organised by LMMS and its community members"
 msgstr ""
+"Официальные соревнования, организованные LMMS и членами его сообщества."
 
 #: competitions.twig:13
 msgid "Current competitions:"
-msgstr ""
+msgstr "Текущие соревнования:"
 
-#: competitions.twig:16
+#: competitions.twig:15
+msgid "Past competitions:"
+msgstr "Прошлые участники:"
+
+#: competitions.twig:18
 msgid "The Best of LMMS vol. V"
-msgstr ""
+msgstr "Лучшее из созданного музыкантами в LMMS часть 5. "
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:71
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:80
 msgid ""
-"We are proud to present to you The Best of LMMS contest volume 5!\n"
+"#### The competition has ended on **April 16th, 2018**.\n"
+"\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
+"\n"
+"\t\t\tListen to all entries [here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQOjvIBp40ez-2QrPsGHt_LGY2XejaOFZrXWsgPVPXoH7w7QQriUV52_OeCQBL9tcOPlCxdUw2HC6Ud/pubhtml?gid=1958072675&single=true)\n"
+"\n"
+"\t\t\tWinners:\n"
+"\t\t\t<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/519667455&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>\n"
+"\n"
+"\t\t\t#### Original description:\n"
+"\t\t\tWe are proud to present to you The Best of LMMS contest volume 5!\n"
 "\t\t\tThe contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight\n"
-"  \t\t(23:59.59) on April 16th (UTC time) for a chance to be featured on the BoL v5 album. The compilation will be uploaded to Bandcamp, with all\n"
+"\t\t\t(23:59.59) on April 16th (UTC time) for a chance to be featured on the BoL v5 album. The compilation will be uploaded to Bandcamp, with all\n"
 "\t\t\tprofits going towards LMMS' further development.\n"
 "\t\t\t\n"
 "\t\t\t[Submit here](https://goo.gl/47ZXq1)\n"
 "\t\t\t#### Competition rules:\n"
 "\t\t\t1. **The Deadline:**\n"
-"\t\t\t  - Track must be submitted by April 16th 2018 at 23:59.59 UTC using [this form](https://goo.gl/47ZXq1).\n"
+"\t\t\t\t- Track must be submitted by April 16th 2018 at 23:59.59 UTC using [this form](https://goo.gl/47ZXq1).\n"
 "\t\t\t2. **The Track:**\n"
 "\t\t\t\t- Must be produced in LMMS.\n"
 "\t\t\t\t- You may use other programs for mastering and post processing.\n"
@@ -425,15 +780,11 @@ msgid ""
 "\t\t\t\\* *This year the judging process has changed, to ensure fairer handling of entries. The change to one submission only is to allow each and every entry to be fully scored by the panel of judges. This was previously handled by a preliminary screening round to help cut down the large amount of entries received. By lowering the amount of up-front entries allowed, the judges will have the time to fully score each track entered.*"
 msgstr ""
 
-#: competitions.twig:58
-msgid "Past competitions:"
-msgstr "Прошлые участники:"
-
-#: competitions.twig:61
+#: competitions.twig:71
 msgid "The Best of LMMS vol. IV"
-msgstr ""
+msgstr "Лучшее из созданного музыкантами в LMMS часть 4. "
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:130
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:144
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -473,11 +824,11 @@ msgid ""
 "\t\t\t\t\tAll the received funds will be donated for further development of LMMS, the program that we love."
 msgstr ""
 
-#: competitions.twig:109
+#: competitions.twig:119
 msgid "The Best of LMMS vol. III"
 msgstr "Лучшее от LMMS том III"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:191
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:205
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -505,11 +856,11 @@ msgid ""
 "\t\t\t\twill be donated for further development of LMMS, the program that we love."
 msgstr ""
 
-#: competitions.twig:145
+#: competitions.twig:155
 msgid "The Best of LMMS vol. II"
 msgstr "Лучшее от LMMS том II"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:240
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:254
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -536,11 +887,11 @@ msgid ""
 "\t\t\tAlso note that the judges are just regular LMMS artists and no matter what feedback you get the judges' decision for album songs is final."
 msgstr ""
 
-#: competitions.twig:180
+#: competitions.twig:190
 msgid "The Best of LMMS vol. I"
 msgstr "Лучшее от LMMS том I"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:288
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:302
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
@@ -568,271 +919,29 @@ msgid ""
 "\t\t\t\twill be donated for further development of LMMS, the program that we love."
 msgstr ""
 
-#: download/index.twig:32
-msgid "Download LMMS"
-msgstr "Загрузить LMMS"
-
-#: download/index.twig:32
-msgid ""
-"Downloading and using LMMS is free! Just choose the operating system you "
-"want to run LMMS on:"
-msgstr ""
-"Загрузка и использование LMMS бесплатно! Просто выберите операционную "
-"систему, на которой вы хотите использовать LMMS:"
-
-#: download/index.twig:51
-msgid "Install LMMS on Linux"
-msgstr "Установить LMMS на Linux"
-
-#: download/index.twig:52
-msgid "Click one of the buttons below to download LMMS for Linux."
-msgstr ""
-
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:73
-#: download/index.twig:80
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:215
-msgid "Stable Versions"
-msgstr "Стабильные версии"
-
-#: download/index.twig:59
-msgid ""
-"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
-"<code>.AppImage</code> executable before running"
-msgstr ""
-
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:106
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:181
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:242
-msgid "Beta Versions"
-msgstr "Бета версии"
-
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:136
-msgid "Other options"
-msgstr "Другие варианты"
-
-#: download/index.twig:78
-msgid "Install LMMS on Windows"
-msgstr "Установить LMMS на Windows"
-
-#: download/index.twig:79
-msgid ""
-"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
-"Windows"
-msgstr ""
-
-#: download/index.twig:96
-msgid "Install LMMS on macOS"
-msgstr ""
-
-#: download/index.twig:97
-msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr ""
-
-#: download/index.twig:114
-msgid "Downloads labeled Beta are pre-release software, stability may suffer."
-msgstr ""
-
-#: download/index.twig:115
-msgid "Previous releases"
-msgstr "Предыдущие выпуски"
-
-#: download/index.twig:333
-msgid "Show release notes"
-msgstr "Посмотреть примечания к выпуску"
-
-#: branding.twig:6 navbar.php:14
-msgid "Branding"
-msgstr ""
-
-#: branding.twig:6
-msgid "Download LMMS Artwork"
-msgstr ""
-
-#: branding.twig:8
-msgid "LMMS Logo"
-msgstr "Логотип LMMS"
-
-#: branding.twig:8 branding.twig:17
-msgid "LMMS Development Team"
-msgstr "Команда разработчиков LMMS"
-
-#: branding.twig:17
-msgid "LMMS Project Icon"
-msgstr "Иконка проекта LMMS"
-
-#: errorpage.twig:6
-msgid "Error <b>%code%</b>"
-msgstr ""
-
-#: errorpage.twig:9
-msgid ""
-"If you followed a valid link on this site, please contact us\n"
-"      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
-msgstr ""
-
-#: foot.twig:24
-msgid "Powered by"
-msgstr ""
-
-#: get-involved.twig:6 navbar.php:7
-msgid "Get Involved"
-msgstr "Принять участие"
-
-#: get-involved.twig:6
-msgid ""
-"LMMS is a free, open-source software built entirely by a small number of\n"
-"\tvolunteers in their free time. But to keep the project going, we need this\n"
-"\tnumber to grow. So if you feel like giving something back to the community,\n"
-"\tjoin us in making LMMS better!"
-msgstr ""
-
-#: get-involved.twig:11
-msgid "What you can do"
-msgstr "Что вы можете сделать"
-
-#: get-involved.twig:12
-msgid "There are multiple ways of contributing:"
-msgstr "Есть множество путей участия"
-
-#: get-involved.twig:18
-msgid "Join Development"
-msgstr "Присоединиться к разработке"
-
-#: get-involved.twig:21
-msgid ""
-"We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt\n"
-"\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
-"\t\t\t\t\t   coding!"
-msgstr ""
-
-#: get-involved.twig:24
-msgid ""
-"See our <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> and our\n"
-"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker</a> to get started. Furthermore, the LMMS\n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
-"\t\t\t\t\t   to introduce yourself."
-msgstr ""
-
-#: get-involved.twig:35
-msgid "Website & Docs"
-msgstr "Веб-сайт и документы"
-
-#: get-involved.twig:38
-msgid ""
-"You can help us by improving this website or documenting the software. The website sources are in our\n"
-"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, our documentation is hosted using a\n"
-"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki instance</a>."
-msgstr ""
-
-#: get-involved.twig:41
-msgid ""
-"Public registration on our Wiki is disabled due to spam issues. Please post to the\n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> if you're\n"
-"\t\t\t\t\t   interested in helping out with the documentation!"
-msgstr ""
-
-#: get-involved.twig:53
-msgid "Donate"
-msgstr "Пожертвование"
-
-#: get-involved.twig:56
-msgid ""
-"Even though donations are not the thing we need the most (that'd be developers), they help us pay\n"
-"\t\t\t\t\t   our bills, for our domain lmms.io for instance."
-msgstr ""
-
-#: get-involved.twig:59
-msgid "Donate via PayPal"
-msgstr "Пожертвовать с помощью PayPal"
-
-#: get-involved.twig:68
-msgid "Translations"
-msgstr "Переводы"
-
-#: get-involved.twig:71
-msgid ""
-"If your language is missing in LMMS, help the project and other users speaking the same language by\n"
-"\t\t\t\t\t   translating the software. You can find instructions on the page\n"
-"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
-"\t\t\t\t\t   GitHub Wiki."
-msgstr ""
-
-#: get-involved.twig:80
-msgid "How to get in touch"
-msgstr ""
-
-#: get-involved.twig:86
-msgid "Mailing List"
-msgstr "Список рассылки"
-
-#: get-involved.twig:89
-msgid ""
-"Posting to the mailing list is the best way to reach out to our developers:"
-msgstr ""
-
-#: get-involved.twig:90
-msgid "Subscribe to LMMS-Devel mailing list"
-msgstr ""
-
-#: get-involved.twig:101
-msgid ""
-"Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
-"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
-msgstr ""
-
-#: get-involved.twig:103
-msgid ""
-"<a href=\"https://discordapp.com/\">Discord</a>\n"
-"\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
-"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
-msgstr ""
-
-#: get-involved.twig:116 navbar.php:9
-msgid "Forum"
-msgstr "Форум"
-
-#: get-involved.twig:119
-msgid "We host a forum for our users here on this website:"
-msgstr ""
-
-#: get-involved.twig:131
-msgid ""
-"For reporting a bug or suggesting a new feature, please use the GitHub issue"
-" tracker:"
-msgstr ""
-"Чтобы сообщить об ошибке, или предложить новую функцию, пожалуйста, "
-"используйте страницу для вопросов GitHub:"
-
-#: /tmp/cache/twig/lmms.io/ca/caa7c0e6c169d8a008f589ef3c01ec1f68dc6cb191ac2e6ffd6a642334b27b0f.php:32
-msgid ""
-"We're sorry, something went wrong fetching the latest release info. You can "
-"still download releases on <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
-msgstr ""
-
 #: artwork.php:18
 msgid "Author:"
 msgstr "Автор:"
 
 #: artwork.php:24
 msgid "Modified/Themed By:"
-msgstr ""
+msgstr "Модицицировано:"
 
 #: artwork.php:56
 msgid "Scalable Vector Format"
-msgstr ""
+msgstr "Масштабируемый векторный формат"
 
 #: artwork.php:57
 msgid "Gimp Image Editor Format"
-msgstr ""
+msgstr "Формат редактора фотографий Gimp"
 
 #: artwork.php:58
 msgid "Portable Document Format"
-msgstr ""
+msgstr "Формат PDF"
 
 #: artwork.php:59
 msgid "Adobe Photoshop Format"
-msgstr ""
+msgstr "Формат Adobe Photoshop"
 
 #: artwork.php:60
 msgid "PNG Format"
@@ -848,11 +957,11 @@ msgstr "Bitmap формат"
 
 #: artwork.php:64
 msgid "Windows Icon Format"
-msgstr ""
+msgstr "Формат иконок Windows"
 
 #: artwork.php:65
 msgid "Apple Icon Format"
-msgstr ""
+msgstr "Формат иконок Apple"
 
 #: artwork.php:66
 msgid "Unknown File"
@@ -860,15 +969,15 @@ msgstr "Неизвестный файл"
 
 #: index.php:37
 msgid "You seem to have taken a wrong turn."
-msgstr ""
+msgstr "Похоже, что вы не туда свернули."
 
 #: index.php:40
 msgid "Oops, that is not supposed to happen."
-msgstr ""
+msgstr "Упс, не предполагалось, что это произойдёт."
 
 #: index.php:43
 msgid "Yuck, an error!"
-msgstr ""
+msgstr "Ой, ошибка!"
 
 #: navbar.php:6
 msgid "Download"
@@ -884,11 +993,11 @@ msgstr "Документы"
 
 #: navbar.php:10
 msgid "Sharing Platform"
-msgstr ""
+msgstr "Поделиться на"
 
 #: navbar.php:10
 msgid "Share"
-msgstr ""
+msgstr "Поделиться"
 
 #: navbar.php:11
 msgid "More"

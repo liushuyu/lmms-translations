@@ -3,14 +3,19 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Staffan Vilcans, 2018
+# Göran Amredahl <goran@amredahl.se>, 2018
+# Spekular R <Spekularr@gmail.com>, 2018
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-18 14:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Staffan Vilcans, 2017\n"
+"POT-Creation-Date: 2019-01-02 14:12-0700\n"
+"PO-Revision-Date: 2017-06-13 14:13+0000\n"
+"Last-Translator: Spekular R <Spekularr@gmail.com>, 2018\n"
 "Language-Team: Swedish (https://www.transifex.com/lmms/teams/61632/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,263 +23,163 @@ msgstr ""
 "Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: home.twig:11
-msgid "Let's make music"
-msgstr "\"Let's make music\""
+#: get-involved.twig:6 navbar.php:7
+msgid "Get Involved"
+msgstr "Engagera dig"
 
-#: home.twig:12
-msgid "with a free, cross-platform tool for your computer."
-msgstr "med ett gratis multi-plattformsverktyg för din dator."
-
-#: home.twig:14
-msgid "Download now"
-msgstr "Ladda ner nu"
-
-#: home.twig:15 home.twig:107
-msgid "Get involved"
-msgstr "Hjälp till"
-
-#: home.twig:27
-msgid "Making beats has never been easier."
-msgstr "Göra beats har aldrig varit enklare."
-
-#: home.twig:32
-msgid "Produce music with your computer"
-msgstr "Producera musik med din dator"
-
-#: home.twig:33
+#: get-involved.twig:6
 msgid ""
-"by creating melodies and beats, synthesizing and mixing sounds, arranging "
-"samples and much more."
+"LMMS is a free, open-source software built entirely by a small number of\n"
+"\tvolunteers in their free time. But to keep the project going, we need this\n"
+"\tnumber to grow. So if you feel like giving something back to the community,\n"
+"\tjoin us in making LMMS better!"
 msgstr ""
-"genom att skapa melodier och beats, skapa och blanda ljud, arrangera "
-"samplingar och mycket mer."
+"LMMS är en fri, öppen källkods-mjukvara skapad helt och hållet av ett litet "
+"antal frivilliga på deras lediga tid. Men för att utvecklingen ska förtsätta"
+" behöver antalet frivilliga växa. Så om du vill ge tillbaka något till "
+"communityn, kom med i gemenskapen och hjälp oss göra LMMS bättre!"
 
-#: home.twig:37
-msgid "Playback instruments, samples and plugins"
-msgstr "Spela upp instrument, samplingar och plugins"
+#: get-involved.twig:11
+msgid "What you can do"
+msgstr "Vad du kan göra"
 
-#: home.twig:38
+#: get-involved.twig:12
+msgid "There are multiple ways of contributing:"
+msgstr "Det finns flera sätt att bidra på:"
+
+#: get-involved.twig:18
+msgid "Join Development"
+msgstr "Var med och utveckla"
+
+#: get-involved.twig:21
 msgid ""
-"with a typing or MIDI keyboard in a user-friendly and modern interface."
+"We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt\n"
+"\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
+"\t\t\t\t\t   coding!"
 msgstr ""
-"med ett tangentbord eller MIDI-klaviatur i ett användarvänligt och modernt "
-"gränssnitt."
+"Vi har ett desperat behov av nya utvecklare som kan ansluta sig till vårt team. LMMS är skrivet i C++ och använder sig av \n"
+"\t\t\t\t\t   Qt-ramverket, så om du kan ett eller annat om dessa får du gärna hjälpa till!"
 
-#: home.twig:42
-msgid "Bundled with ready-to-use content"
-msgstr ""
-
-#: home.twig:43
+#: get-involved.twig:24
 msgid ""
-"from an assortment of instrument and effect plugins, presets and samples to "
-"VST and SoundFont support."
+"See our <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> and our\n"
+"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker</a> to get started. Furthermore, the LMMS\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
+"\t\t\t\t\t   to introduce yourself."
 msgstr ""
-"från ett urval av instrument- och effekt-plugins, presets och samplingar "
-"till VST- och SoundFont-stöd."
+"Se vår <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> och vår\n"
+"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker</a> till att börja med. Dessutom är LMMS\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">epost-lista</a> ett perfekt ställe\n"
+"\t\t\t\t\t   att introducera dig själv."
 
-#: home.twig:52
-msgid "Made by musicians, for musicians."
-msgstr "Gjort av musiker, för musiker"
+#: get-involved.twig:35
+msgid "Website & Docs"
+msgstr "Webbsida och dokumentation"
 
-#: home.twig:56
-msgid "Download for Linux"
-msgstr "Ladda ner för Linux"
-
-#: home.twig:57
-msgid "Download for Windows"
-msgstr "Ladda ner för Windows"
-
-#: home.twig:58
-msgid "Download for macOS"
-msgstr "Ladda ner för MacOS"
-
-#: home.twig:59
-msgid "Pick your flavor."
-msgstr "Välj din smak."
-
-#: home.twig:60
-msgid "Linux, Windows or macOS."
-msgstr "Linux, Windows eller MacOS"
-
-#: home.twig:69
-msgid "Houston, we have a problem."
-msgstr "Houston, vi har ett problem."
-
-#: home.twig:70
-msgid "Stand by, we got you covered."
-msgstr ""
-
-#: home.twig:73
-msgid "Visit our forum"
-msgstr "Besök vårt forum"
-
-#: home.twig:74
-msgid "Visit our Facebook page"
-msgstr "Besök vår Facebook-sida"
-
-#: home.twig:75
-msgid "Chat now on Discord"
-msgstr ""
-
-#: home.twig:76
-msgid "Visit our GitHub page"
-msgstr "Besök vår GitHub-sida"
-
-#: home.twig:77
-msgid "Ask your questions here"
-msgstr "Ställ dina frågor här"
-
-#: home.twig:78
-msgid "and answer a few questions while you're waiting."
-msgstr "och svara på ett par frågor medan du väntar."
-
-#: home.twig:85
-msgid "Sharing means caring."
-msgstr "Att dela betyder att bry sig."
-
-#: home.twig:90
-msgid "Find musicians"
-msgstr "Hitta musiker"
-
-#: home.twig:91
-msgid "Visit the LMMS Sharing Platform (LSP)"
-msgstr "Besök LMMS Sharing Platform (LSP)"
-
-#: home.twig:92
-msgid "Don't be modest."
-msgstr "Var inte blyg."
-
-#: home.twig:93
-msgid "Show us your creations."
-msgstr "Visa oss dina skapelser."
-
-#: home.twig:101
-msgid "We <3 open source."
-msgstr "Vi <3 öppen källkod."
-
-#: home.twig:106
-msgid "Fork us on Github"
-msgstr "Forka oss på Github"
-
-#: home.twig:108
-#, php-format
-msgid "LMMS is a 100% free, open source, community-driven project."
-msgstr "LMMS är ett 100% fritt, open source, community-drivet projekt,"
-
-#: home.twig:109
-msgid "Proudly hosted on Github."
-msgstr ""
-
-#: home.twig:124
-msgid "Take a peek."
-msgstr "Ta en titt."
-
-#: home.twig:127
-msgid "Watch our promo video."
-msgstr "Titta på vår promo-video."
-
-#: home.twig:139
-msgid "Click anywhere to close this dialog"
-msgstr "Klicka var som helst för att stänga denna dialog"
-
-#: home.twig:147
-msgid "Featuring:"
-msgstr ""
-
-#: home.twig:151
-msgid "Core Functionality"
-msgstr "Grundfunktionalitet"
-
-#: home.twig:155
-msgid "Compose music on Windows, Linux and macOS"
-msgstr "Komponera musik på Windows, Linux och MacOS"
-
-#: home.twig:156
-msgid "Sequence, compose, mix and automate songs in one simple interface"
-msgstr ""
-"Sekvensera, komponera, mixa och automatisera sånger i ett enkelt gränssnitt"
-
-#: home.twig:157
-msgid "Note playback via MIDI or typing keyboard"
-msgstr "Spela med hjälp av MIDI eller tangentbord"
-
-#: home.twig:158
-msgid "Consolidate instrument tracks using Beat+Bassline Editor"
-msgstr "Konsolidera instrumentspår med Beat+Bassline Editor"
-
-#: home.twig:159
-msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
-msgstr "Finjustera mönster, noter, ackord och melodier med Piano Roll Editor"
-
-#: home.twig:160
+#: get-involved.twig:38
 msgid ""
-"Full user-defined track-based automation and computer-controlled automation "
-"sources"
+"You can help us by improving this website or documenting the software. The website sources are in our\n"
+"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, our documentation is hosted using a\n"
+"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki instance</a>."
 msgstr ""
-"Fullt användardefinierad spårbaserad automation och datorstyrda "
-"automationskällor"
+"Du kan hjälpa oss att förbättra denna webbsida eller att dokumentera vår mjukvara. Källkoden till webbsidan finns tillgänglig i vår\n"
+"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, och vår dokumentation ligger på\n"
+"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki</a>."
 
-#: home.twig:161
-msgid "Import of MIDI files and Hydrogen project files"
-msgstr "Import av MIDI-filer och Hydrogen projektfiler"
-
-#: home.twig:171
-msgid "Musical Instruments"
-msgstr "Musikinstrument"
-
-#: home.twig:175
+#: get-involved.twig:41
 msgid ""
-"Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
-"Windows)"
+"Public registration on our Wiki is disabled due to spam issues. Please post to the\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> if you're\n"
+"\t\t\t\t\t   interested in helping out with the documentation!"
 msgstr ""
-"Inbyggd support för 64-bitars VST ®-instrument med 32-bitars VST ®-brygga "
-"(64-bitars Windows)"
+"Publik registrering på vår Wiki är avstängt för att förebygga spam. Vänligen posta till vår \n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">epost-lista</a> om du är\n"
+"\t\t\t\t\t   intresserad av att hjälpa till med dokumentation!"
 
-#: home.twig:176
+#: get-involved.twig:53
+msgid "Donate"
+msgstr "Donera"
+
+#: get-involved.twig:56
 msgid ""
-"16 built in synthesizers, including emultations of Roland ® TB-303, "
-"Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip"
-" and more"
+"Even though donations are not the thing we need the most (that'd be developers), they help us pay\n"
+"\t\t\t\t\t   our bills, for our domain lmms.io for instance."
 msgstr ""
+"Även om donationer inte är det vi behöver mest (mest behöver vi utvecklare), kan de hjälpa oss betala\n"
+"\t\t\t\t\t   våra utgifter (för vår domän lmms.io till exempel)."
 
-#: home.twig:177
+#: get-involved.twig:59
+msgid "Donate via PayPal"
+msgstr "Donera via PayPal"
+
+#: get-involved.twig:68
+msgid "Translations"
+msgstr "Översättningar"
+
+#: get-involved.twig:71
 msgid ""
-"Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
-"additive, subtractive and pad synthesis all in one powerful plugin"
+"If your language is missing in LMMS, help the project and other users speaking the same language by\n"
+"\t\t\t\t\t   translating the software. You can find instructions on the page\n"
+"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
+"\t\t\t\t\t   GitHub Wiki."
 msgstr ""
+"Om LMMS inte har översatts till ditt språk, hjälp projektet och andra som pratar samma språk genom att\n"
+"\t\t\t\t\t   översätta mjukvaran. Du hittar instruktioner på sidan\n"
+"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" i vår\n"
+"\t\t\t\t\t   GitHub Wiki."
 
-#: home.twig:178
+#: get-involved.twig:80
+msgid "How to get in touch"
+msgstr "Hur man kommer i kontakt"
+
+#: get-involved.twig:86
+msgid "Mailing List"
+msgstr "E-postlista"
+
+#: get-involved.twig:89
 msgid ""
-"Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis "
-"UltraSound ® (GUS) formats for high quality instrument patches and banks"
+"Posting to the mailing list is the best way to reach out to our developers:"
 msgstr ""
+"Att skicka till epost-listan är det bästa sättet att nå ut till våra "
+"utvecklare:"
 
-#: home.twig:188
-msgid "Effects Mixing"
-msgstr "Effekt-mixning"
+#: get-involved.twig:90
+msgid "Subscribe to LMMS-Devel mailing list"
+msgstr "Prenumerera på LMMS-Devel epost-lista"
 
-#: home.twig:192
-msgid "Drop-in LADSPA plug-in support"
-msgstr "Stöd för LADSPA plug-in"
-
-#: home.twig:193
-msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
-msgstr "Stöd för VST ®-effekter (Linux och Windows)"
-
-#: home.twig:194
+#: get-involved.twig:101
 msgid ""
-"Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
+"Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
+"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 msgstr ""
-"Inbyggd kompressor, limiter, delay, reverb, distorsion och basförstärkare"
+"Vår IRC kanal är <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> på\n"
+"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
 
-#: home.twig:195
-msgid "Bundled graphic and parametric equalizers"
-msgstr "Medföljande grafiska och parametriska equalizers"
+#: get-involved.twig:103
+msgid ""
+"<a href=\"https://discordapp.com/\">Discord</a>\n"
+"\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
+"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
+msgstr ""
+"<a href=\"https://discordapp.com/\">Discord</a>\n"
+"\t\t\t\t\tär ett modernare alternativ till IRC. Gå med i vår server\n"
+"\t\t\t\t\t<a href=\"/chat/\">genom att klicka här</a>."
 
-#: home.twig:196
-msgid "Built-in visualization/spectrum analyzer"
-msgstr "Inbyggd visualiserings- / spektrum-analysator"
+#: get-involved.twig:116 navbar.php:9
+msgid "Forum"
+msgstr "Forum"
+
+#: get-involved.twig:119
+msgid "We host a forum for our users here on this website:"
+msgstr "Vi har ett forum för våra användare här på denna webbplats:"
+
+#: get-involved.twig:131
+msgid ""
+"For reporting a bug or suggesting a new feature, please use the GitHub issue"
+" tracker:"
+msgstr ""
+"För att rapportera ett fel eller föreslå en ny funktion, använd GitHub-"
+"trackern:"
 
 #: download/linux.twig:6
 msgid ""
@@ -363,6 +268,345 @@ msgid ""
 "on GitHub</a> for instructions on how to compile LMMS for Linux."
 msgstr ""
 
+#: home.twig:11
+msgid "Let's make music"
+msgstr "\"Let's make music\""
+
+#: home.twig:12
+msgid "with a free, cross-platform tool for your computer."
+msgstr "med ett gratis multi-plattformsverktyg för din dator."
+
+#: home.twig:14
+msgid "Download now"
+msgstr "Ladda ner nu"
+
+#: home.twig:15 home.twig:107
+msgid "Get involved"
+msgstr "Hjälp till"
+
+#: home.twig:27
+msgid "Making beats has never been easier."
+msgstr "Göra beats har aldrig varit enklare."
+
+#: home.twig:32
+msgid "Produce music with your computer"
+msgstr "Producera musik med din dator"
+
+#: home.twig:33
+msgid ""
+"by creating melodies and beats, synthesizing and mixing sounds, arranging "
+"samples and much more."
+msgstr ""
+"genom att skapa melodier och beats, skapa och blanda ljud, arrangera "
+"samplingar och mycket mer."
+
+#: home.twig:37
+msgid "Playback instruments, samples and plugins"
+msgstr "Spela upp instrument, samplingar och plugins"
+
+#: home.twig:38
+msgid ""
+"with a typing or MIDI keyboard in a user-friendly and modern interface."
+msgstr ""
+"med ett tangentbord eller MIDI-keyboard i ett användarvänligt och modernt "
+"gränssnitt."
+
+#: home.twig:42
+msgid "Bundled with ready-to-use content"
+msgstr ""
+
+#: home.twig:43
+msgid ""
+"from an assortment of instrument and effect plugins, presets and samples to "
+"VST and SoundFont support."
+msgstr ""
+"från ett urval av instrument- och effekt-plugins, presets och samplingar "
+"till VST- och SoundFont-stöd."
+
+#: home.twig:52
+msgid "Made by musicians, for musicians."
+msgstr "Gjort av musiker, för musiker."
+
+#: home.twig:56
+msgid "Download for Linux"
+msgstr "Ladda ner för Linux"
+
+#: home.twig:57
+msgid "Download for Windows"
+msgstr "Ladda ner för Windows"
+
+#: home.twig:58
+msgid "Download for macOS"
+msgstr "Ladda ner för MacOS"
+
+#: home.twig:59
+msgid "Pick your flavor."
+msgstr "Välj din smak."
+
+#: home.twig:60
+msgid "Linux, Windows or macOS."
+msgstr "Linux, Windows eller MacOS"
+
+#: home.twig:69
+msgid "Houston, we have a problem."
+msgstr "Houston, vi har ett problem."
+
+#: home.twig:70
+msgid "Stand by, we got you covered."
+msgstr "Oroa dig inte, vi löser det."
+
+#: home.twig:73
+msgid "Visit our forum"
+msgstr "Besök vårt forum"
+
+#: home.twig:74
+msgid "Visit our Facebook page"
+msgstr "Besök vår Facebook-sida"
+
+#: home.twig:75
+msgid "Chat now on Discord"
+msgstr "Chatta på vår Discord server"
+
+#: home.twig:76
+msgid "Visit our GitHub page"
+msgstr "Besök vår GitHub-sida"
+
+#: home.twig:77
+msgid "Ask your questions here"
+msgstr "Ställ dina frågor här"
+
+#: home.twig:78
+msgid "and answer a few questions while you're waiting."
+msgstr "och svara på ett par frågor medan du väntar."
+
+#: home.twig:85
+msgid "Sharing means caring."
+msgstr "Att dela betyder att bry sig."
+
+#: home.twig:90
+msgid "Find musicians"
+msgstr "Hitta musiker"
+
+#: home.twig:91
+msgid "Visit the LMMS Sharing Platform (LSP)"
+msgstr "Besök LMMS Sharing Platform (LSP)"
+
+#: home.twig:92
+msgid "Don't be modest."
+msgstr "Var inte blyg."
+
+#: home.twig:93
+msgid "Show us your creations."
+msgstr "Visa oss dina skapelser."
+
+#: home.twig:101
+msgid "We <3 open source."
+msgstr "Vi <3 open source."
+
+#: home.twig:106
+msgid "Fork us on Github"
+msgstr "Forka oss på Github"
+
+#: home.twig:108
+#, php-format
+msgid "LMMS is a 100% free, open source, community-driven project."
+msgstr "LMMS är ett 100% fritt, open source, community-drivet projekt."
+
+#: home.twig:109
+msgid "Proudly hosted on Github."
+msgstr ""
+
+#: home.twig:124
+msgid "Take a peek."
+msgstr "Ta en titt."
+
+#: home.twig:127
+msgid "Watch our promo video."
+msgstr "Titta på vår promo-video."
+
+#: home.twig:139
+msgid "Click anywhere to close this dialog"
+msgstr "Klicka var som helst för att stänga denna dialog"
+
+#: home.twig:147
+msgid "Featuring:"
+msgstr "Huvudfunktioner:"
+
+#: home.twig:151
+msgid "Core Functionality"
+msgstr "Grundfunktionalitet"
+
+#: home.twig:155
+msgid "Compose music on Windows, Linux and macOS"
+msgstr "Komponera musik på Windows, Linux och MacOS"
+
+#: home.twig:156
+msgid "Sequence, compose, mix and automate songs in one simple interface"
+msgstr ""
+"Sekvensera, komponera, mixa och automatisera sånger i ett enkelt gränssnitt"
+
+#: home.twig:157
+msgid "Note playback via MIDI or typing keyboard"
+msgstr "Spela med hjälp av MIDI-keyboard eller tangentbord"
+
+#: home.twig:158
+msgid "Consolidate instrument tracks using Beat+Bassline Editor"
+msgstr "Konsolidera instrumentspår med Beat+Bassline Editor"
+
+#: home.twig:159
+msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
+msgstr "Finjustera mönster, noter, ackord och melodier med Piano Roll Editor"
+
+#: home.twig:160
+msgid ""
+"Full user-defined track-based automation and computer-controlled automation "
+"sources"
+msgstr ""
+"Fullt användardefinierad spårbaserad automation och datorstyrda "
+"automationskällor"
+
+#: home.twig:161
+msgid "Import of MIDI files and Hydrogen project files"
+msgstr "Import av MIDI-filer och Hydrogen projektfiler"
+
+#: home.twig:171
+msgid "Musical Instruments"
+msgstr "Instrument"
+
+#: home.twig:175
+msgid ""
+"Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
+"Windows)"
+msgstr ""
+"Inbyggd support för 64-bitars VST ®-instrument med 32-bitars VST ®-brygga "
+"(64-bitars Windows)"
+
+#: home.twig:176
+msgid ""
+"16 built in synthesizers, including emultations of Roland ® TB-303, "
+"Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip"
+" and more"
+msgstr ""
+"16 synthesizers, inklusive emulatorer baserade på Roland ® TB-303, Commodore"
+" 64 ® SID microchip, Nintendo ® NES & GameBoy, Yamaha ® OPL2 chip , och mer"
+
+#: home.twig:177
+msgid ""
+"Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
+"additive, subtractive and pad synthesis all in one powerful plugin"
+msgstr ""
+"Inbäddad ZynAddSubFx: Polyfonisk, mutlitimbral, mikrotonal, multi-röst "
+"additiv, subtraktiv och PAD syntes, allt i en enda synt"
+
+#: home.twig:178
+msgid ""
+"Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis "
+"UltraSound ® (GUS) formats for high quality instrument patches and banks"
+msgstr ""
+"Stöd för SoundFont ® (SF2), Giga (GIG) och Gravis UltraSound ® (GUS) filer"
+
+#: home.twig:188
+msgid "Effects Mixing"
+msgstr "Effekt-mixning"
+
+#: home.twig:192
+msgid "Drop-in LADSPA plug-in support"
+msgstr "Stöd för LADSPA plug-in"
+
+#: home.twig:193
+msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
+msgstr "Stöd för VST ®-effekter (Linux och Windows)"
+
+#: home.twig:194
+msgid ""
+"Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
+msgstr ""
+"Inbyggd kompressor, limiter, delay, reverb, distorsion och basförstärkare"
+
+#: home.twig:195
+msgid "Bundled graphic and parametric equalizers"
+msgstr "Medföljande grafiska och parametriska equalizers"
+
+#: home.twig:196
+msgid "Built-in visualization/spectrum analyzer"
+msgstr "Inbyggd visualisering/spektrum-analysator"
+
+#: download/index.twig:32
+msgid "Download LMMS"
+msgstr "Ladda ner LMMS"
+
+#: download/index.twig:32
+msgid ""
+"Downloading and using LMMS is free! Just choose the operating system you "
+"want to run LMMS on:"
+msgstr ""
+"Nedladdning och användning av LMMS är gratis! Välj bara operativsystemet du "
+"vill köra LMMS på:"
+
+#: download/index.twig:51
+msgid "Install LMMS on Linux"
+msgstr "Installera LMMS på Linux"
+
+#: download/index.twig:52
+msgid "Click one of the buttons below to download LMMS for Linux."
+msgstr ""
+
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:77
+#: download/index.twig:80
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:219
+msgid "Stable Versions"
+msgstr "Stabila versioner"
+
+#: download/index.twig:59
+msgid ""
+"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
+"<code>.AppImage</code> executable before running"
+msgstr ""
+
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:110
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:185
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:246
+msgid "Beta Versions"
+msgstr "Beta-versioner"
+
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:140
+msgid "Other options"
+msgstr "Övriga val"
+
+#: download/index.twig:78
+msgid "Install LMMS on Windows"
+msgstr "Installera LMMS på Windows"
+
+#: download/index.twig:79
+msgid ""
+"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
+"Windows"
+msgstr ""
+"Klicka på en av knapparna nedan (antingen 32-bitar eller 64-bitar) för att "
+"ladda ner LMMS för Windows"
+
+#: download/index.twig:96
+msgid "Install LMMS on macOS"
+msgstr "Installera LMMS på macOS"
+
+#: download/index.twig:97
+msgid "Click one of the buttons below to download LMMS for macOS"
+msgstr "Klicka på någon av knapparna nedan för att ladda ner LMMS för macOS"
+
+#: download/index.twig:114
+msgid "Downloads labeled Beta are pre-release software, stability may suffer."
+msgstr ""
+"Nedladdningar märkta med Beta är test-utgåvor av mjukvaran, "
+"stabilitetsproblem kan förekomma."
+
+#: download/index.twig:115
+msgid "Previous releases"
+msgstr "Föregående utgåvor"
+
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:427
+msgid "Show release notes"
+msgstr ""
+
 #: showcase.twig:6 navbar.php:12
 msgid "Showcase"
 msgstr "Showcase"
@@ -372,20 +616,67 @@ msgid "Tracks made with LMMS"
 msgstr "Låtar gjorda med LMMS"
 
 #: showcase.twig:12
-msgid "The Best of LMMS Vol. 4 by LMMS Artists"
+msgid "The Best of LMMS Vol. 5 by LMMS Artists"
 msgstr ""
 
 #: showcase.twig:20
+msgid "The Best of LMMS Vol. 4 by LMMS Artists"
+msgstr ""
+
+#: showcase.twig:28
 msgid "The Best of LMMS Vol.3 by LMMS Artists"
 msgstr "The Best of LMMS Vol.3 av LMMS-artister"
 
-#: showcase.twig:28
+#: showcase.twig:36
 msgid "The Best of LMMS Vol.2 by LMMS Artists"
 msgstr "The Best of LMMS Vol.2 av LMMS-artister"
 
-#: showcase.twig:36
+#: showcase.twig:44
 msgid "The Best of LMMS Vol.1 by LMMS Artists"
 msgstr "The Best of LMMS Vol.1 av LMMS-artister"
+
+#: errorpage.twig:6
+msgid "Error <b>%code%</b>"
+msgstr ""
+
+#: errorpage.twig:9
+msgid ""
+"If you followed a valid link on this site, please contact us\n"
+"      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
+msgstr ""
+"Om du följde en giltig länk på denna sida, vänligen kontakta oss\n"
+"      om det och <a href=\"//github.com/LMMS/lmms.io/issues/new\">posta problemet</a> på GitHub."
+
+#: /tmp/cache/twig/lmms.io/b3/b3e63410a9484bebba0a59631095bc2c1361dd9d140eaaafc3915982d597681d.php:36
+msgid ""
+"We're sorry, something went wrong fetching the latest release info. You can "
+"still download releases on <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+msgstr ""
+
+#: foot.twig:24
+msgid "Powered by"
+msgstr ""
+
+#: branding.twig:6 navbar.php:14
+msgid "Branding"
+msgstr "Brandning"
+
+#: branding.twig:6
+msgid "Download LMMS Artwork"
+msgstr "Ladda ner LMMS-grafik"
+
+#: branding.twig:8
+msgid "LMMS Logo"
+msgstr "LMMS Logo"
+
+#: branding.twig:8 branding.twig:17
+msgid "LMMS Development Team"
+msgstr "LMMS utvecklingsteam"
+
+#: branding.twig:17
+msgid "LMMS Project Icon"
+msgstr "Ikon för LMMS-projekt"
 
 #: competitions.twig:10 navbar.php:13
 msgid "Competitions"
@@ -400,21 +691,34 @@ msgstr ""
 msgid "Current competitions:"
 msgstr "Aktuella samlingar:"
 
-#: competitions.twig:16
+#: competitions.twig:15
+msgid "Past competitions:"
+msgstr "Tidigare tävlingar:"
+
+#: competitions.twig:18
 msgid "The Best of LMMS vol. V"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:71
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:80
 msgid ""
-"We are proud to present to you The Best of LMMS contest volume 5!\n"
+"#### The competition has ended on **April 16th, 2018**.\n"
+"\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
+"\n"
+"\t\t\tListen to all entries [here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vQOjvIBp40ez-2QrPsGHt_LGY2XejaOFZrXWsgPVPXoH7w7QQriUV52_OeCQBL9tcOPlCxdUw2HC6Ud/pubhtml?gid=1958072675&single=true)\n"
+"\n"
+"\t\t\tWinners:\n"
+"\t\t\t<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/519667455&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>\n"
+"\n"
+"\t\t\t#### Original description:\n"
+"\t\t\tWe are proud to present to you The Best of LMMS contest volume 5!\n"
 "\t\t\tThe contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight\n"
-"  \t\t(23:59.59) on April 16th (UTC time) for a chance to be featured on the BoL v5 album. The compilation will be uploaded to Bandcamp, with all\n"
+"\t\t\t(23:59.59) on April 16th (UTC time) for a chance to be featured on the BoL v5 album. The compilation will be uploaded to Bandcamp, with all\n"
 "\t\t\tprofits going towards LMMS' further development.\n"
 "\t\t\t\n"
 "\t\t\t[Submit here](https://goo.gl/47ZXq1)\n"
 "\t\t\t#### Competition rules:\n"
 "\t\t\t1. **The Deadline:**\n"
-"\t\t\t  - Track must be submitted by April 16th 2018 at 23:59.59 UTC using [this form](https://goo.gl/47ZXq1).\n"
+"\t\t\t\t- Track must be submitted by April 16th 2018 at 23:59.59 UTC using [this form](https://goo.gl/47ZXq1).\n"
 "\t\t\t2. **The Track:**\n"
 "\t\t\t\t- Must be produced in LMMS.\n"
 "\t\t\t\t- You may use other programs for mastering and post processing.\n"
@@ -438,15 +742,11 @@ msgid ""
 "\t\t\t\\* *This year the judging process has changed, to ensure fairer handling of entries. The change to one submission only is to allow each and every entry to be fully scored by the panel of judges. This was previously handled by a preliminary screening round to help cut down the large amount of entries received. By lowering the amount of up-front entries allowed, the judges will have the time to fully score each track entered.*"
 msgstr ""
 
-#: competitions.twig:58
-msgid "Past competitions:"
-msgstr "Tidigare tävlingar:"
-
-#: competitions.twig:61
+#: competitions.twig:71
 msgid "The Best of LMMS vol. IV"
 msgstr "The Best of LMMS vol. IV"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:130
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:144
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -522,11 +822,11 @@ msgstr ""
 "\t\t\t  - De 25 högst poängsatta låtarna kommer ges ut på ett samlingsalbum på Bandcamp med priset \"Betala det du vill\".\n"
 "\t\t\t\t\tAlla mottagna pengar kommer doneras för vidare utveckling till LMMS, programmet vi älskar."
 
-#: competitions.twig:109
+#: competitions.twig:119
 msgid "The Best of LMMS vol. III"
 msgstr "The Best of LMMS vol. III"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:191
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:205
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -578,11 +878,11 @@ msgstr ""
 "\t\t\t5. Lansering. Samlingen kommer släpas på en dedikerad Bandcamp-sida med priset “Betala vad du vill”. Alla insamlade pengar\n"
 "\t\t\t\tkommer doneras till framtida utveckling av LMMS, programmet vi älskar."
 
-#: competitions.twig:145
+#: competitions.twig:155
 msgid "The Best of LMMS vol. II"
 msgstr "The Best of LMMS vol. II"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:240
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:254
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -632,11 +932,11 @@ msgstr ""
 "\t\t\ttext så du inte vet från vem eller hur många feedback'en kommer från. Observera att det inte är garanterat att få någon feedback, detta beror helt på hur mycket tid domarna har.\n"
 "\t\t\tObservera också att domarna bara är vanliga LMMS-artister och oberoende av vilken feedback du får så är domarnas beslut av samlingslåtar slutgiltigt."
 
-#: competitions.twig:180
+#: competitions.twig:190
 msgid "The Best of LMMS vol. I"
 msgstr "The Best of LMMS vol. I"
 
-#: /tmp/cache/twig/lmms.io/22/22d3745e1f9035178ae137f26645406d1c18643f4963dc2a31dd93a70a4b06e2.php:288
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:302
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
@@ -662,278 +962,6 @@ msgid ""
 "\t\t\t3. The Judging Process. After the deadline, the judges will make their decisions and release the results within next 7 days.\n"
 "\t\t\t4. Release. The compilation will be released on a dedicated LMMS artists Bandcamp with the price of “Pay what you want”. All the received funds\n"
 "\t\t\t\twill be donated for further development of LMMS, the program that we love."
-msgstr ""
-
-#: download/index.twig:32
-msgid "Download LMMS"
-msgstr "Ladda ner LMMS"
-
-#: download/index.twig:32
-msgid ""
-"Downloading and using LMMS is free! Just choose the operating system you "
-"want to run LMMS on:"
-msgstr ""
-"Nedladdning och användning av LMMS är gratis! Välj bara operativsystemet du "
-"vill köra LMMS på:"
-
-#: download/index.twig:51
-msgid "Install LMMS on Linux"
-msgstr "Installera LMMS på Linux"
-
-#: download/index.twig:52
-msgid "Click one of the buttons below to download LMMS for Linux."
-msgstr ""
-
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:73
-#: download/index.twig:80
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:215
-msgid "Stable Versions"
-msgstr "Stabila versioner"
-
-#: download/index.twig:59
-msgid ""
-"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
-"<code>.AppImage</code> executable before running"
-msgstr ""
-
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:106
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:181
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:242
-msgid "Beta Versions"
-msgstr "Beta-versioner"
-
-#: /tmp/cache/twig/lmms.io/39/393aa836a33126c7c9c27effc524b48152e666e10069bce18e2d35ae72a49453.php:136
-msgid "Other options"
-msgstr "Övriga val"
-
-#: download/index.twig:78
-msgid "Install LMMS on Windows"
-msgstr "Installera LMMS på Windows"
-
-#: download/index.twig:79
-msgid ""
-"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
-"Windows"
-msgstr ""
-"Klicka på en av knapparna nedan (antingen 32-bitar eller 64-bitar) för att "
-"ladda ner LMMS för Windows"
-
-#: download/index.twig:96
-msgid "Install LMMS on macOS"
-msgstr "Installera LMMS på macOS"
-
-#: download/index.twig:97
-msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr "Klicka på någon av knapparna nedan för att ladda ner LMMS för macOS"
-
-#: download/index.twig:114
-msgid "Downloads labeled Beta are pre-release software, stability may suffer."
-msgstr ""
-"Nedladdningar märkta med Beta är test-utgåvor av mjukvaran, "
-"stabilitetsproblem kan förekomma."
-
-#: download/index.twig:115
-msgid "Previous releases"
-msgstr "Föregående utgåvor"
-
-#: download/index.twig:333
-msgid "Show release notes"
-msgstr ""
-
-#: branding.twig:6 navbar.php:14
-msgid "Branding"
-msgstr "Brandning"
-
-#: branding.twig:6
-msgid "Download LMMS Artwork"
-msgstr "Ladda ner LMMS-grafik"
-
-#: branding.twig:8
-msgid "LMMS Logo"
-msgstr "LMMS Logo"
-
-#: branding.twig:8 branding.twig:17
-msgid "LMMS Development Team"
-msgstr "LMMS utvecklingsteam"
-
-#: branding.twig:17
-msgid "LMMS Project Icon"
-msgstr "Ikon för LMMS-projekt"
-
-#: errorpage.twig:6
-msgid "Error <b>%code%</b>"
-msgstr ""
-
-#: errorpage.twig:9
-msgid ""
-"If you followed a valid link on this site, please contact us\n"
-"      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
-msgstr ""
-"Om du följde en giltig länk på denna sida, vänligen kontakta oss\n"
-"      om det och <a href=\"//github.com/LMMS/lmms.io/issues/new\">posta problemet</a> på GitHub."
-
-#: foot.twig:24
-msgid "Powered by"
-msgstr ""
-
-#: get-involved.twig:6 navbar.php:7
-msgid "Get Involved"
-msgstr "Engagera dig"
-
-#: get-involved.twig:6
-msgid ""
-"LMMS is a free, open-source software built entirely by a small number of\n"
-"\tvolunteers in their free time. But to keep the project going, we need this\n"
-"\tnumber to grow. So if you feel like giving something back to the community,\n"
-"\tjoin us in making LMMS better!"
-msgstr ""
-"LMMS är en fri, öppen källkods-mjukvara skapad helt och hållet av ett litet "
-"antal frivilliga på deras lediga tid. Men för att inte projektet ska "
-"avstannat behöver antalet frivilliga växa. Så om du vill ge tillbaka något "
-"till communityn,  kom med i gemenskapen och hjälp oss göra LMMS bättre!"
-
-#: get-involved.twig:11
-msgid "What you can do"
-msgstr "Vad du kan göra"
-
-#: get-involved.twig:12
-msgid "There are multiple ways of contributing:"
-msgstr "Det finns flera sätt att bidra på:"
-
-#: get-involved.twig:18
-msgid "Join Development"
-msgstr ""
-
-#: get-involved.twig:21
-msgid ""
-"We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt\n"
-"\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
-"\t\t\t\t\t   coding!"
-msgstr ""
-"Vi är i ett desperat behov av nya utvecklare som kan ansluta sig till vårt team. LMMS är skrivet i C++ och använder sig av \n"
-"\t\t\t\t\t   Qt-ramverket, så om du kan ett eller annat om dessa, tveka inte att smutsa ner dig med kodning!"
-
-#: get-involved.twig:24
-msgid ""
-"See our <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> and our\n"
-"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker</a> to get started. Furthermore, the LMMS\n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
-"\t\t\t\t\t   to introduce yourself."
-msgstr ""
-"Se vår <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> och vår\n"
-"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker</a> till att börja med. Dessutom är LMMS\n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">epost-lista</a> ett perfekt ställe\n"
-"\t\t\t\t\t   att introducera dig själv."
-
-#: get-involved.twig:35
-msgid "Website & Docs"
-msgstr "Webbsida och dokumentation"
-
-#: get-involved.twig:38
-msgid ""
-"You can help us by improving this website or documenting the software. The website sources are in our\n"
-"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, our documentation is hosted using a\n"
-"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki instance</a>."
-msgstr ""
-"Du kan hjälpa oss att förbättra denna webbsida eller genom att dokumentera vår mjukvara. Källkoden till webbsidan finns tillgänglig i vår\n"
-"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, vår dokumentation är tillgänglig med hjälp av en\n"
-"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki-instans</a>."
-
-#: get-involved.twig:41
-msgid ""
-"Public registration on our Wiki is disabled due to spam issues. Please post to the\n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> if you're\n"
-"\t\t\t\t\t   interested in helping out with the documentation!"
-msgstr ""
-"Publik registrering på vår Wiki är avstängt på grund av spam-problematik. Vänligen posta till vår \n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">epost-lista</a> om du är\n"
-"\t\t\t\t\t   intresserad av att hjälpa till med dokumentation!"
-
-#: get-involved.twig:53
-msgid "Donate"
-msgstr "Donera"
-
-#: get-involved.twig:56
-msgid ""
-"Even though donations are not the thing we need the most (that'd be developers), they help us pay\n"
-"\t\t\t\t\t   our bills, for our domain lmms.io for instance."
-msgstr ""
-"Även om donationer inte är det vi behöver mest (mest behöver vi utvecklare), kan de hjälpa oss betala\n"
-"\t\t\t\t\t   våra utgifter för vår domän lmms.io till exempel."
-
-#: get-involved.twig:59
-msgid "Donate via PayPal"
-msgstr "Donera via PayPal"
-
-#: get-involved.twig:68
-msgid "Translations"
-msgstr "Översättningar"
-
-#: get-involved.twig:71
-msgid ""
-"If your language is missing in LMMS, help the project and other users speaking the same language by\n"
-"\t\t\t\t\t   translating the software. You can find instructions on the page\n"
-"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
-"\t\t\t\t\t   GitHub Wiki."
-msgstr ""
-"Om du saknar ditt språk i LMMS, hjälp projektet och andra som pratar ditt språk genom att\n"
-"\t\t\t\t\t   översätta mjukvaran. Du hittar instruktioner på sidan\n"
-"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" i vår\n"
-"\t\t\t\t\t   GitHub Wiki."
-
-#: get-involved.twig:80
-msgid "How to get in touch"
-msgstr "Hur man kommer i kontakt"
-
-#: get-involved.twig:86
-msgid "Mailing List"
-msgstr "E-postlista"
-
-#: get-involved.twig:89
-msgid ""
-"Posting to the mailing list is the best way to reach out to our developers:"
-msgstr ""
-"Att skicka till epost-listan är det bästa sättet att nå ut till våra "
-"utvecklare:"
-
-#: get-involved.twig:90
-msgid "Subscribe to LMMS-Devel mailing list"
-msgstr "Prenumerera på LMMS-Devel epost-lista"
-
-#: get-involved.twig:101
-msgid ""
-"Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
-"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
-msgstr ""
-
-#: get-involved.twig:103
-msgid ""
-"<a href=\"https://discordapp.com/\">Discord</a>\n"
-"\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
-"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
-msgstr ""
-
-#: get-involved.twig:116 navbar.php:9
-msgid "Forum"
-msgstr "Forum"
-
-#: get-involved.twig:119
-msgid "We host a forum for our users here on this website:"
-msgstr "Vi har ett forum för våra användare här på denna webbplats:"
-
-#: get-involved.twig:131
-msgid ""
-"For reporting a bug or suggesting a new feature, please use the GitHub issue"
-" tracker:"
-msgstr ""
-"För att rapportera ett fel eller föreslå en ny funktion, använd GitHub-"
-"trackern:"
-
-#: /tmp/cache/twig/lmms.io/ca/caa7c0e6c169d8a008f589ef3c01ec1f68dc6cb191ac2e6ffd6a642334b27b0f.php:32
-msgid ""
-"We're sorry, something went wrong fetching the latest release info. You can "
-"still download releases on <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 msgstr ""
 
 #: artwork.php:18
