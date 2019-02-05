@@ -941,7 +941,7 @@ Esteban Viveros</translation>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="103"/>
         <source>STEREO</source>
-        <translation type="unfinished"/>
+        <translation>ESTÉREO</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="104"/>
@@ -2451,17 +2451,17 @@ Clicar com o botão direito no mouse irá exibir um menu de contexto onde você 
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="156"/>
         <source>Stereo</source>
-        <translation type="unfinished"/>
+        <translation>Estéreo</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="161"/>
         <source>Joint Stereo</source>
-        <translation type="unfinished"/>
+        <translation>Estéreo unido</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="166"/>
         <source>Mono</source>
-        <translation type="unfinished"/>
+        <translation>Mono</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="186"/>
@@ -4280,7 +4280,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1482"/>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>Efeitos</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1483"/>
@@ -4290,7 +4290,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1484"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"/>
+        <translation>Miscelânea</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1602"/>
@@ -4313,12 +4313,12 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="533"/>
         <source>Set linear</source>
-        <translation type="unfinished"/>
+        <translation>Definir linear</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="533"/>
         <source>Set logarithmic</source>
-        <translation type="unfinished"/>
+        <translation>Definir logarítmico</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="776"/>
@@ -4580,17 +4580,17 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/Engine.cpp" line="57"/>
         <source>Initializing data structures</source>
-        <translation type="unfinished"/>
+        <translation>Inicializando estruturas de dados</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="68"/>
         <source>Opening audio and midi devices</source>
-        <translation type="unfinished"/>
+        <translation>Abrindo dispositivos áudio e midi</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="74"/>
         <source>Launching mixer threads</source>
-        <translation type="unfinished"/>
+        <translation>Lançando threads do misturador</translation>
     </message>
 </context>
 <context>
@@ -4658,12 +4658,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="117"/>
         <source>Preparing plugin browser</source>
-        <translation type="unfinished"/>
+        <translation>Preparando navegador de plugin</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="119"/>
         <source>Preparing file browsers</source>
-        <translation type="unfinished"/>
+        <translation>Preparando navegadores de arquivos</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="124"/>
@@ -4923,7 +4923,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="556"/>
         <source>Show/hide project notes</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/ocultar notas do projeto</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="562"/>
@@ -4998,7 +4998,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="999"/>
         <source>Save project template</source>
-        <translation type="unfinished"/>
+        <translation>Salvar modelo do projeto</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1047"/>
@@ -5060,7 +5060,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1242"/>
         <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
+        <translation>Volume como dBFS</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1256"/>
@@ -9317,22 +9317,22 @@ Por favor certifique-se que você tem permissões de leitura para o arquivo e pa
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="244"/>
         <source>Freq. multiplier A1</source>
-        <translation type="unfinished"/>
+        <translation>Multiplicador de freq. A1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="245"/>
         <source>Freq. multiplier A2</source>
-        <translation type="unfinished"/>
+        <translation>Multiplicador de freq. A2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="246"/>
         <source>Freq. multiplier B1</source>
-        <translation type="unfinished"/>
+        <translation>Multiplicador de freq. B1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="247"/>
         <source>Freq. multiplier B2</source>
-        <translation type="unfinished"/>
+        <translation>Multiplicador de freq. B2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="249"/>

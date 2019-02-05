@@ -7,6 +7,7 @@
 # Staffan Vilcans, 2018
 # Göran Amredahl <goran@amredahl.se>, 2018
 # Spekular R <Spekularr@gmail.com>, 2018
+# Jonatan Nyberg, 2019
 # 
 #, fuzzy
 msgid ""
@@ -15,7 +16,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-02 14:12-0700\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
-"Last-Translator: Spekular R <Spekularr@gmail.com>, 2018\n"
+"Last-Translator: Jonatan Nyberg, 2019\n"
 "Language-Team: Swedish (https://www.transifex.com/lmms/teams/61632/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -123,7 +124,7 @@ msgid ""
 "\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
 "\t\t\t\t\t   GitHub Wiki."
 msgstr ""
-"Om LMMS inte har översatts till ditt språk, hjälp projektet och andra som pratar samma språk genom att\n"
+"Om LMMS inte har översatts till ditt språk kan du hjälpa projektet och andra som pratar samma språk genom att\n"
 "\t\t\t\t\t   översätta mjukvaran. Du hittar instruktioner på sidan\n"
 "\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" i vår\n"
 "\t\t\t\t\t   GitHub Wiki."
@@ -278,7 +279,7 @@ msgstr "med ett gratis multi-plattformsverktyg för din dator."
 
 #: home.twig:14
 msgid "Download now"
-msgstr "Ladda ner nu"
+msgstr "Hämta nu"
 
 #: home.twig:15 home.twig:107
 msgid "Get involved"
@@ -329,15 +330,15 @@ msgstr "Gjort av musiker, för musiker."
 
 #: home.twig:56
 msgid "Download for Linux"
-msgstr "Ladda ner för Linux"
+msgstr "Hämta för Linux"
 
 #: home.twig:57
 msgid "Download for Windows"
-msgstr "Ladda ner för Windows"
+msgstr "Hämta för Windows"
 
 #: home.twig:58
 msgid "Download for macOS"
-msgstr "Ladda ner för MacOS"
+msgstr "Hämta för MacOS"
 
 #: home.twig:59
 msgid "Pick your flavor."
@@ -410,11 +411,11 @@ msgstr "Forka oss på Github"
 #: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community-driven project."
-msgstr "LMMS är ett 100% fritt, open source, community-drivet projekt."
+msgstr "LMMS är ett 100% fritt gemenskapsdrivet projekt med öppen källkod."
 
 #: home.twig:109
 msgid "Proudly hosted on Github."
-msgstr ""
+msgstr "Stolt inhyst på Github."
 
 #: home.twig:124
 msgid "Take a peek."
@@ -533,7 +534,7 @@ msgstr "Inbyggd visualisering/spektrum-analysator"
 
 #: download/index.twig:32
 msgid "Download LMMS"
-msgstr "Ladda ner LMMS"
+msgstr "Hämta LMMS"
 
 #: download/index.twig:32
 msgid ""
@@ -583,7 +584,7 @@ msgid ""
 "Windows"
 msgstr ""
 "Klicka på en av knapparna nedan (antingen 32-bitar eller 64-bitar) för att "
-"ladda ner LMMS för Windows"
+"hämta LMMS för Windows"
 
 #: download/index.twig:96
 msgid "Install LMMS on macOS"
@@ -591,7 +592,7 @@ msgstr "Installera LMMS på macOS"
 
 #: download/index.twig:97
 msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr "Klicka på någon av knapparna nedan för att ladda ner LMMS för macOS"
+msgstr "Klicka på någon av knapparna nedan för att hämta LMMS för macOS"
 
 #: download/index.twig:114
 msgid "Downloads labeled Beta are pre-release software, stability may suffer."
@@ -664,7 +665,7 @@ msgstr "Brandning"
 
 #: branding.twig:6
 msgid "Download LMMS Artwork"
-msgstr "Ladda ner LMMS-grafik"
+msgstr "Hämta LMMS-grafik"
 
 #: branding.twig:8
 msgid "LMMS Logo"
@@ -797,15 +798,15 @@ msgstr ""
 "\t\t\tTävlingen går ut på att inspirera communityn att skapa och dela sin musik. Skicka in din låt på länken nedan innan midnatt\n"
 "  \t\t(23:59.59) den 16:de April (UTC tid) för en chans att vara med på BoL v4 albumet. Vinnande bidrag kommer laddas upp till Bandcamp och samtliga förtjänster vid försäljning\n"
 "\t\t\tkommer användas till LMMS' framtida utveckling.\n"
-"\t\t\tDetta år bidrag hanteras med hjälp av Google forms. Vi accepterar bidrag som är tillgängliga på YouTube, Soundcloud och Clyp. För fullständiga regler, se formuläret för bidrag:\n"
+"\t\t\tDetta år hanteras bidrag med hjälp av Google forms. Vi accepterar bidrag som är tillgängliga på YouTube, Soundcloud och Clyp. För fullständiga regler, se formuläret för bidrag:\n"
 "\t\t\thttps://goo.gl/forms/cifEliOViOXTSc8H2\n"
 "\t\t\t#### Tävlingsregler:\n"
 "\t\t\t1. **Deadline**\n"
 "\t\t\t  - Låtar måste skickas in senast 23:59.59 den 16:de April UTC med hjälp av  [detta formulär](https://goo.gl/forms/cifEliOViOXTSc8H2).\n"
 "\t\t\t2. **Låtarna**\n"
 "\t\t\t  - Måste vara producerade i LMMS.\n"
-"\t\t\t\t- Du är tillåten att använda andra prpogram för mastering och efterbearbetning.\n"
-"\t\t\t\t- Får vara max 10 minutes lång.\n"
+"\t\t\t\t- Du är tillåten att använda andra program för mastering och efterbearbetning.\n"
+"\t\t\t\t- Får vara max 10 minuter långa.\n"
 "\t\t\t\t- Inga tidigare vinnande bidrag i Best of LMMS albums får användas.\n"
 "\t\t\t\t- Inga remixer är tillåtna.\n"
 "\t\t\t3. **Bidragen**\n"
@@ -1026,7 +1027,7 @@ msgstr "Usch, ett fel!"
 
 #: navbar.php:6
 msgid "Download"
-msgstr "Ladda ner"
+msgstr "Hämta"
 
 #: navbar.php:8
 msgid "Documentation"

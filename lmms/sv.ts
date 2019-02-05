@@ -265,7 +265,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="107"/>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation>LMMS blev bortkopplat från JACK. LMMS JACK backend omstartades därfor. Du får manuellt koppla om igen.</translation>
+        <translation>LMMS blev bortkopplat från JACK. LMMS JACK backend omstartades därfor. Du behöver koppla om manuellt.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="115"/>
@@ -932,7 +932,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="98"/>
         <source>Sample rate:</source>
-        <translation type="unfinished"/>
+        <translation>Samplingsfrekvens:</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="103"/>
@@ -4677,7 +4677,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="151"/>
         <source>Volumes</source>
-        <translation type="unfinished"/>
+        <translation>Volymer</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="154"/>
@@ -4787,7 +4787,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="381"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Verktyg</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="389"/>
@@ -7772,12 +7772,12 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="300"/>
         <source>Enable waveform display by default</source>
-        <translation type="unfinished"/>
+        <translation>Aktivera vågformsvisning som standard</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="309"/>
         <source>Keep effects running even without input</source>
-        <translation type="unfinished"/>
+        <translation>Håll effekter igång även utan ingång</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="318"/>
@@ -7879,7 +7879,7 @@ Orsak: &quot;%2&quot;</translation>
         <location filename="../../src/gui/SetupDialog.cpp" line="661"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="964"/>
         <source>Performance settings</source>
-        <translation type="unfinished"/>
+        <translation>Prestandainställningar</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="665"/>
@@ -7899,7 +7899,7 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="718"/>
         <source>UI effects vs. performance</source>
-        <translation type="unfinished"/>
+        <translation>UI-effekter vs. prestanda</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="724"/>
@@ -7909,18 +7909,18 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="731"/>
         <source>Show playback cursor in AudioFileProcessor</source>
-        <translation type="unfinished"/>
+        <translation>Visa uppspelningsmarkören i AudioFileProcessor</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="750"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="967"/>
         <source>Audio settings</source>
-        <translation type="unfinished"/>
+        <translation>Ljudinställningar</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="752"/>
         <source>AUDIO INTERFACE</source>
-        <translation type="unfinished"/>
+        <translation>LJUDGRÄNSSNITT</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="861"/>
@@ -7931,7 +7931,7 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="863"/>
         <source>MIDI INTERFACE</source>
-        <translation type="unfinished"/>
+        <translation>MIDIGRÄNSSNITT</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="986"/>
@@ -8150,7 +8150,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/core/Song.cpp" line="1578"/>
         <source>The following errors occured while loading: </source>
-        <translation type="unfinished"/>
+        <translation>Följande fel inträffade under inläsning: </translation>
     </message>
 </context>
 <context>
@@ -9568,7 +9568,7 @@ Se till att du har läsrättigheter för filen och katalogen som innehåller fil
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="865"/>
         <source>Phase left</source>
-        <translation type="unfinished"/>
+        <translation>Fas vänster</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="869"/>
@@ -9578,7 +9578,7 @@ Se till att du har läsrättigheter för filen och katalogen som innehåller fil
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="871"/>
         <source>Phase right</source>
-        <translation type="unfinished"/>
+        <translation>Fas höger</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="875"/>

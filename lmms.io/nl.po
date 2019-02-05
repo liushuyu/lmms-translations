@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Thomas De Rocker, 2018
+# Thomas De Rocker, 2019
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-02 14:12-0700\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
-"Last-Translator: Thomas De Rocker, 2018\n"
+"Last-Translator: Thomas De Rocker, 2019\n"
 "Language-Team: Dutch (https://www.transifex.com/lmms/teams/61632/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -646,7 +646,7 @@ msgstr "Tracks met LMMS gemaakt"
 
 #: showcase.twig:12
 msgid "The Best of LMMS Vol. 5 by LMMS Artists"
-msgstr ""
+msgstr "The Best of LMMS Vol. 5 door LMMS-artiesten"
 
 #: showcase.twig:20
 msgid "The Best of LMMS Vol. 4 by LMMS Artists"
@@ -774,6 +774,43 @@ msgid ""
 "\n"
 "\t\t\t\\* *This year the judging process has changed, to ensure fairer handling of entries. The change to one submission only is to allow each and every entry to be fully scored by the panel of judges. This was previously handled by a preliminary screening round to help cut down the large amount of entries received. By lowering the amount of up-front entries allowed, the judges will have the time to fully score each track entered.*"
 msgstr ""
+"#### De wedstrijd is beëindigd op **16 april 2018**.\n"
+"\t\t\tOndersteun LMMS en koop de compilatie op onze [bandcamp-pagina.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
+"\n"
+"\t\t\tLuister [hier](https://docs.google.com/spreadsheets/d/e/2PACX-1vQOjvIBp40ez-2QrPsGHt_LGY2XejaOFZrXWsgPVPXoH7w7QQriUV52_OeCQBL9tcOPlCxdUw2HC6Ud/pubhtml?gid=1958072675&single=true) naar alle inzendingen.\n"
+"\n"
+"\t\t\tWinnaars:\n"
+"\t\t\t<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/519667455&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>\n"
+"\n"
+"\t\t\t#### Originele beschrijving:\n"
+"\t\t\tWe zijn trots om u de wedstrijd The Best of LMMS contest volume 5 te mogen voorstellen!\n"
+"\t\t\tDe wedstrijd probeert de gemeenschap te inspireren om muziek te maken en te delen. Zend uw track in via onderstaande link vóór middernacht (23:59.59) op 16 april (UTC-tijd) voor een kans op een plaats op het BoL v5-album. De compilatie zal naar Bandcamp geüpload worden en alle winst zal gaan naar verdere ontwikkeling van LLMS.\n"
+"\t\t\t\n"
+"[Hier inzenden](https://goo.gl/47ZXq1)\n"
+"#### Wedstrijdreglement:\n"
+"1. **De deadline:**\n"
+"- De track moet op 16 april 2018 23:59.59 UTC ingezonden worden via [dit formulier](https://goo.gl/47ZXq1).\n"
+"2. **De track:**\n"
+"- Moet in LMMS geproduceerd zijn.\n"
+"- U mag andere programma's gebruiken voor het masteren en nabewerken.\n"
+"- Moet minder dan 10 minuten lang zijn.\n"
+"- Geen winnende tracks van vorige \"Best of LMMS\"-albums zijn toegelaten.\n"
+"- Geen remixen toegelaten.\n"
+"3. **De inzendingen:**\n"
+"- U mag alleen inzenden via dit formulier.\n"
+"- Er is niet meer dan EEN inzending per artiest toegelaten.*\n"
+"- Samenwerkingen tellen als EEN inzending voor elke betrokken artiest.*\n"
+"- Geen samenwerking met juryleden op inzendingen.\n"
+"- Alleen inzendingen gehost op Soundcloud, YouTube of Clyp zijn toegelaten.\n"
+"- Uw inzending moet beschikbaar zijn om te beluisteren tot het einde van het beoordelingsproces. Indien niet, zal uw inzending gediskwalificeerd worden.\n"
+"4. **De jury:**\n"
+"-De jury bestaat uit Dull Machine, Etorna_Z, Jernemies, Poleroyd, Umcaruje en Unfa.\n"
+"5. **Het beoordelen**\n"
+"- Na de deadline zullen de juryleden elke track een score geven en de resultaten vrijgeven binnen de 14 dagen.\n"
+"6. **Vrijgave:**\n"
+"- De 25 hoogst scorende nummers zullen uitgegeven worden als een album op Bandcamp met de prijs van \"betaal wat u wilt\". Alle ontvangen fondsen zullen gedoneerd worden voor verdere ontwikkeling van LMMS, het programma waar we van houden.\n"
+"\n"
+"\\* *Dit jaar is het beoordelingsproces gewijzigd om eerlijkere behandeling van inzendingen te verzekeren. De wijziging naar slechts één inzending is om toe te laten dat elke inzending volledig kan beoordeeld worden door de juryleden. Dit werd voordien geregeld door een voorlopige screening-ronde om het grote aantal ontvangen inzendingen te verminderen. Door het aantal inzendingen op voorhand te verlagen, zullen de juryleden de tijd hebben om elke ingegeven track volledig te beoordelen.*"
 
 #: competitions.twig:71
 msgid "The Best of LMMS vol. IV"

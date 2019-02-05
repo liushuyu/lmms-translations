@@ -1556,7 +1556,7 @@ Zixing Liu &lt;liushuyu@aosc.xyz&gt;
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="83"/>
         <source>Transport controls</source>
-        <translation type="unfinished"/>
+        <translation>传输控制</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="91"/>
@@ -4280,7 +4280,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1482"/>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>效果</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1483"/>
@@ -4290,7 +4290,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1484"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"/>
+        <translation>杂项</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1602"/>
@@ -4305,7 +4305,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1657"/>
         <source>Plugin</source>
-        <translation type="unfinished"/>
+        <translation>插件</translation>
     </message>
 </context>
 <context>

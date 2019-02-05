@@ -590,7 +590,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2374"/>
         <source>Click here and the values from the clipboard will be pasted at the first visible measure.</source>
-        <translation>Klik hier en de waarden van het klembord zullen worden geplakt op de eerste zichtbare maat.</translation>
+        <translation>Klik hier en de waarden van het klembord zullen op de eerste zichtbare maat geplakt worden.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2400"/>
