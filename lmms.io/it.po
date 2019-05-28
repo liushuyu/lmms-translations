@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-02 14:12-0700\n"
+"POT-Creation-Date: 2019-03-08 11:40-0700\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
 "Last-Translator: Roberto Giaconia <derobyj@gmail.com>, 2018\n"
 "Language-Team: Italian (https://www.transifex.com/lmms/teams/61632/it/)\n"
@@ -688,7 +688,7 @@ msgstr ""
 "informazioni sull'ultima versione. Puoi comunque scaricare il programma su "
 "<a href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 
-#: foot.twig:24
+#: foot.twig:27
 msgid "Powered by"
 msgstr "Powered by"
 
@@ -725,15 +725,51 @@ msgstr ""
 msgid "Current competitions:"
 msgstr ""
 
-#: competitions.twig:15
+#: competitions.twig:16
+msgid "The Best of LMMS vol. VI"
+msgstr ""
+
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:75
+msgid ""
+"We are proud to present to you The Best of LMMS contest volume 6!\n"
+"\t\t\tThe contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight\n"
+"\t\t\t(23:59.59 UTC Time) on April 2nd for a chance to be featured on the BoL v6 album. The compilation will be uploaded to Bandcamp, with all profits going towards LMMS' further development.\n"
+"\n"
+"\t\t\t[Submit here](https://goo.gl/forms/lNmexmoqWiwiKDUf1)\n"
+"\t\t\t#### Competition rules:\n"
+"\t\t\t1. **The Deadline:**\n"
+"\t\t\t\t- Track must be submitted by April 2nd 2019 at 23:59.59 UTC using [this form](https://goo.gl/forms/lNmexmoqWiwiKDUf1).\n"
+"\t\t\t2. **The Track:**\n"
+"\t\t\t\t- Must be produced in LMMS.\n"
+"\t\t\t\t- You may use other programs for mastering and post processing.\n"
+"\t\t\t\t- Must be under 10 minutes long.\n"
+"\t\t\t\t- No winning tracks from previous Best of LMMS albums allowed.\n"
+"\t\t\t\t- No remixes allowed.\n"
+"\t\t\t3. **The Submissions:**\n"
+"\t\t\t\t- You must submit using this form only.\n"
+"\t\t\t\t- No more than ONE entry per artist is allowed.\n"
+"\t\t\t\t- Collaborations count as ONE entry for each artist involved.\n"
+"\t\t\t\t- No collaborating with judges on entries.\n"
+"\t\t\t\t- Only submissions hosted on Soundcloud, YouTube, or Clyp are allowed.\n"
+"\t\t\t\t - The full track should be available at the submission link provided\n"
+"\t\t\t\t- Your entry must be available for listening until the end of the judging process. If not, your entry will be disqualified.\n"
+"\t\t\t4. **The Judges:**\n"
+"\t\t\t\t-The jury consists of: Abludo, Dystany, Heavenity Princess, Jacoby Davis, Pyrif, and Spekular.\n"
+"\t\t\t5. **The Judging:**\n"
+"\t\t\t\t- After the deadline, the judges will make their decisions and release the results within 14 days.\n"
+"\t\t\t6. **Release:**\n"
+"\t\t\t\t- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love."
+msgstr ""
+
+#: competitions.twig:55
 msgid "Past competitions:"
 msgstr "Concorsi passati:"
 
-#: competitions.twig:18
+#: competitions.twig:58
 msgid "The Best of LMMS vol. V"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:80
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:132
 msgid ""
 "#### The competition has ended on **April 16th, 2018**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
@@ -748,7 +784,7 @@ msgid ""
 "\t\t\tThe contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight\n"
 "\t\t\t(23:59.59) on April 16th (UTC time) for a chance to be featured on the BoL v5 album. The compilation will be uploaded to Bandcamp, with all\n"
 "\t\t\tprofits going towards LMMS' further development.\n"
-"\t\t\t\n"
+"\n"
 "\t\t\t[Submit here](https://goo.gl/47ZXq1)\n"
 "\t\t\t#### Competition rules:\n"
 "\t\t\t1. **The Deadline:**\n"
@@ -776,11 +812,11 @@ msgid ""
 "\t\t\t\\* *This year the judging process has changed, to ensure fairer handling of entries. The change to one submission only is to allow each and every entry to be fully scored by the panel of judges. This was previously handled by a preliminary screening round to help cut down the large amount of entries received. By lowering the amount of up-front entries allowed, the judges will have the time to fully score each track entered.*"
 msgstr ""
 
-#: competitions.twig:71
+#: competitions.twig:111
 msgid "The Best of LMMS vol. IV"
 msgstr "Best of LMMS vol. IV"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:144
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:196
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -856,11 +892,11 @@ msgstr ""
 "\t\t\t  - Le 25 tracce  con il punteggio più alto verranno pubblicate in un album Bandcamp con prezzo \"Paga quanto vuoi\".\n"
 "\t\t\t\t\tTutti i fondi ricevuti saranno donati per lo sviluppo di LMMS, il programma che amiamo. "
 
-#: competitions.twig:119
+#: competitions.twig:159
 msgid "The Best of LMMS vol. III"
 msgstr "Best of LMMS vol. III"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:205
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:257
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -912,11 +948,11 @@ msgstr ""
 "\t\t\t5. Pubblicazione. La compilation verrà pubblicata in un album Bandcamp con prezzo \"Paga quanto vuoi\". Tutto il ricavato verrà\n"
 "\t\t\t\tdonato per lo sviluppo di LMMS, il programma che amiamo. "
 
-#: competitions.twig:155
+#: competitions.twig:195
 msgid "The Best of LMMS vol. II"
 msgstr "Best of LMMS vol. II"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:254
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:306
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -966,11 +1002,11 @@ msgstr ""
 "\t\t\tin modo da non poter distinguere quali e quanti giudici hanno commentato. Non è assicurato che venga dato un commento a tutte le tracce, dipende dal tempo a disposizione dei Giudici.\n"
 "\t\t\tRicorda che i giudici sono normali artisti di LMMS e che, indipendentemente dal commento ricevuto, il risultato del concorso verrà dato alla fine e sarà definitivo."
 
-#: competitions.twig:190
+#: competitions.twig:230
 msgid "The Best of LMMS vol. I"
 msgstr "Best of LMMS vol. I"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:302
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:354
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"

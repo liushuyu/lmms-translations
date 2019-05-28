@@ -34,7 +34,7 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="170"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="194"/>
@@ -185,7 +185,6 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="513"/>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="525"/>
         <source>Enable loop</source>
         <translation>Включити повторення</translation>
     </message>
@@ -193,6 +192,11 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="515"/>
         <source>This button enables forwards-looping. The sample loops between the end point and the loop point.</source>
         <translation>Ця кнопка включає передній повтор. Запис повторюється між кінцевою точкою і точкою повтору.</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="525"/>
+        <source>Enable ping-pong loop</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="527"/>
@@ -253,7 +257,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AudioFileProcessorWaveView</name>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="1041"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="1024"/>
         <source>Sample length:</source>
         <translation>Довжина запису:</translation>
     </message>
@@ -307,12 +311,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AudioPortAudio::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioPortAudio.cpp" line="390"/>
+        <location filename="../../src/core/audio/AudioPortAudio.cpp" line="416"/>
         <source>BACKEND</source>
         <translation>УПРАВЛІННЯ</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioPortAudio.cpp" line="397"/>
+        <location filename="../../src/core/audio/AudioPortAudio.cpp" line="423"/>
         <source>DEVICE</source>
         <translation>ПРИСТРІЙ</translation>
     </message>
@@ -425,17 +429,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomationEditor</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1446"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1447"/>
         <source>Please open an automation pattern with the context menu of a control!</source>
         <translation>Відкрийте редатор автоматизації через контекстне меню регулятора!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1974"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1978"/>
         <source>Values copied</source>
         <translation>Значення скопійовані</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1975"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1979"/>
         <source>All selected values were copied to the clipboard.</source>
         <translation>Всі вибрані значення скопійовані до буферу обміну.</translation>
     </message>
@@ -443,186 +447,186 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomationEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2216"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2220"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Гра/Пауза поточної мелодії (Пробіл)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2218"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2222"/>
         <source>Click here if you want to play the current pattern. This is useful while editing it.  The pattern is automatically looped when the end is reached.</source>
         <translation>Натисніть тут щоб програти поточну мелодію. Це може стати в нагоді при його редагуванні. Мелодія автоматично програватиме знову при досягненні кінця.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2222"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2226"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Зупинити програвання поточної мелодії (Пробіл)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2224"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2228"/>
         <source>Click here if you want to stop playing of the current pattern.</source>
         <translation>Натисніть тут, якщо ви хочете зупинити відтворення поточної мелодії.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2228"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2232"/>
         <source>Edit actions</source>
         <translation>Зміна</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2231"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2235"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Режим малювання (Shift + D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2235"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2239"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Режим стирання (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2238"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2242"/>
         <source>Flip vertically</source>
         <translation>Перевернути вертикально</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2239"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2243"/>
         <source>Flip horizontally</source>
         <translation>Перевернути горизонтально</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2242"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2246"/>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>
         <translation>Натисніть тут і мелодія перевернеться. Точки перевертаються в Y напрямку.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2245"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2249"/>
         <source>Click here and the pattern will be reversed. The points are flipped in the x direction.</source>
         <translation>Натисніть тут і мелодія перевернеться в напрямку X.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2253"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2257"/>
         <source>Click here and draw-mode will be activated. In this mode you can add and move single values.  This is the default mode which is used most of the time.  You can also press &apos;Shift+D&apos; on your keyboard to activate this mode.</source>
         <translation>При натиснені цієї кнопки активується режим малювання нот, в ньому ви можете додавати/переміщати і змінювати тривалість одиночних нот. Це основний режим і використовується більшу частину часу.
 Для увімкнення цього режиму можна скористатися комбінацію клавіш Shift+D.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2259"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2263"/>
         <source>Click here and erase-mode will be activated. In this mode you can erase single values. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
         <translation>При натиснені цієї кнопки активується режим стирання. У цьому режимі ви можете видаляти ноти по одній.
 Для увімкнення цього режиму можна скористатися комбінацію клавіш Shift+E.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2285"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2289"/>
         <source>Interpolation controls</source>
         <translation>Управління інтерполяцією</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2290"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2294"/>
         <source>Discrete progression</source>
         <translation>Дискретна прогресія</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2294"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2298"/>
         <source>Linear progression</source>
         <translation>Лінійна прогресія</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2296"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2300"/>
         <source>Cubic Hermite progression</source>
         <translation>Кубічна Ермітова прогресія</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2303"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2307"/>
         <source>Tension value for spline</source>
         <translation>Величина напруженості для сплайна</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2305"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2309"/>
         <source>A higher tension value may make a smoother curve but overshoot some values. A low tension value will cause the slope of the curve to level off at each control point.</source>
         <translation>Більш висока напруженість може зробити криву більш м&apos;якою, але перевантажить деякі величини. Низька напруженість зробить нахил кривої нижчою в кожній контрольній точці.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2313"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2317"/>
         <source>Click here to choose discrete progressions for this automation pattern.  The value of the connected object will remain constant between control points and be set immediately to the new value when each control point is reached.</source>
         <translation>Вибір дискретної прогресії для цього шаблону автоматизації. Кількість приєднаних об&apos;єктів залишатиметься постійним між керуючими точками і буде встановлена на нове значення відразу після досягнення кожної керуючої точки.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2319"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2323"/>
         <source>Click here to choose linear progressions for this automation pattern.  The value of the connected object will change at a steady rate over time between control points to reach the correct value at each control point without a sudden change.</source>
         <translation>Вибір лінійної прогресії для цього шаблону автоматизації. Кількість приєднаних об&apos;єктів буде змінюватися з постійною швидкістю в часі між керуючими точками для досягнення точного значення в кожній керуючій точці без раптових змін.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2325"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2329"/>
         <source>Click here to choose cubic hermite progressions for this automation pattern.  The value of the connected object will change in a smooth curve and ease in to the peaks and valleys.</source>
         <translation>Кубічна Ермітова прогресія для цього шаблону автоматизації. Кількість приєднаних об&apos;єктів зміниться по згладженій кривій і пом&apos;якшиться на піках і спадах.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2335"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2339"/>
         <source>Tension: </source>
         <translation>Напруженість: </translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2344"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2348"/>
         <source>Cut selected values (%1+X)</source>
         <translation>Вирізати вибрані ноти (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2351"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2355"/>
         <source>Copy selected values (%1+C)</source>
         <translation>Копіювати вибрані ноти до буферу (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2358"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2362"/>
         <source>Paste values from clipboard (%1+V)</source>
         <translation>Вставити значення з буферу (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2366"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2370"/>
         <source>Click here and selected values will be cut into the clipboard.  You can paste them anywhere in any pattern by clicking on the paste button.</source>
         <translation>При натиснені цієї кнопки виділені ноти будуть вирізані до буферу. Пізніше ви можете вставити їх в будь-яке місце будь-якого шаблону за допомогою кнопки &quot;Вставити&quot;.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2370"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2374"/>
         <source>Click here and selected values will be copied into the clipboard.  You can paste them anywhere in any pattern by clicking on the paste button.</source>
         <translation>При натиснені цієї кнопки виділені ноти будуть скопійовано до буферу. Пізніше ви зможете вставити їх в будь-яке місце будь-якого шаблону за допомогою кнопки &quot;Вставити&quot;.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2374"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2378"/>
         <source>Click here and the values from the clipboard will be pasted at the first visible measure.</source>
         <translation>При натиснені цієї кнопки ноти з буферу будуть вставлені в перший видимий такт.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2400"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2404"/>
         <source>Zoom controls</source>
         <translation>Управління масштабом</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2447"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2451"/>
         <source>Quantization controls</source>
         <translation>Управління квантуванням</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2459"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2463"/>
         <source>Quantization</source>
-        <translation type="unfinished"/>
+        <translation>Квантування</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2460"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2464"/>
         <source>Quantization. Sets the smallest step size for the Automation Point. By default this also sets the length, clearing out other points in the range. Press &lt;Ctrl&gt; to override this behaviour.</source>
-        <translation type="unfinished"/>
+        <translation>Квантування. Встановлює найменший розмір кроку для точки автоматизації. За замовчуванням це також задає довжину, очищаючи інші точки діапазону. Натисніть &lt;Ctrl&gt;, щоб змінити цю поведінку.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2495"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2604"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2499"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2611"/>
         <source>Automation Editor - no pattern</source>
         <translation>Редактор автоматизації - немає шаблону</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2499"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2608"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2503"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2615"/>
         <source>Automation Editor - %1</source>
         <translation>Редактор автоматизації - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2553"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2557"/>
         <source>Model is already connected to this pattern.</source>
         <translation>Модель вже підключена до цього шаблону.</translation>
     </message>
@@ -887,7 +891,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="63"/>
         <source>NOISE</source>
-        <translation type="unfinished"/>
+        <translation>ШУМ</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="64"/>
@@ -942,7 +946,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="103"/>
         <source>STEREO</source>
-        <translation type="unfinished"/>
+        <translation>СТЕРЕО</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="104"/>
@@ -952,7 +956,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="111"/>
         <source>QUANT</source>
-        <translation type="unfinished"/>
+        <translation>КВАНТ</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="112"/>
@@ -1240,7 +1244,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="49"/>
         <source>DELAY</source>
-        <translation type="unfinished"/>
+        <translation>ЗАТРИМ</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="50"/>
@@ -1250,7 +1254,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="56"/>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>FDBK</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="57"/>
@@ -1260,7 +1264,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="63"/>
         <source>RATE</source>
-        <translation type="unfinished"/>
+        <translation>ЧАСТ</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="64"/>
@@ -1550,27 +1554,27 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>Editor</name>
     <message>
-        <location filename="../../src/gui/editors/Editor.cpp" line="83"/>
+        <location filename="../../src/gui/editors/Editor.cpp" line="84"/>
         <source>Transport controls</source>
         <translation>Управління засобами сполучення</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/Editor.cpp" line="91"/>
+        <location filename="../../src/gui/editors/Editor.cpp" line="92"/>
         <source>Play (Space)</source>
         <translation>Грати (Пробіл)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/Editor.cpp" line="92"/>
+        <location filename="../../src/gui/editors/Editor.cpp" line="93"/>
         <source>Stop (Space)</source>
         <translation>Зупинити (Пробіл)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/Editor.cpp" line="94"/>
+        <location filename="../../src/gui/editors/Editor.cpp" line="95"/>
         <source>Record</source>
         <translation>Запис</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/Editor.cpp" line="95"/>
+        <location filename="../../src/gui/editors/Editor.cpp" line="96"/>
         <source>Record while playing</source>
         <translation>Запис під час програвання</translation>
     </message>
@@ -2438,7 +2442,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="123"/>
         <source>24 Bit Integer</source>
-        <translation type="unfinished"/>
+        <translation>24 Біт ціле</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="128"/>
@@ -2448,22 +2452,22 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="145"/>
         <source>Stereo mode:</source>
-        <translation type="unfinished"/>
+        <translation>Стерео режим:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="156"/>
         <source>Stereo</source>
-        <translation type="unfinished"/>
+        <translation>Стерео</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="161"/>
         <source>Joint Stereo</source>
-        <translation type="unfinished"/>
+        <translation>Об&apos;єднане стерео</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="166"/>
         <source>Mono</source>
-        <translation type="unfinished"/>
+        <translation>Моно</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="186"/>
@@ -2503,7 +2507,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="230"/>
         <source>Use variable bitrate</source>
-        <translation type="unfinished"/>
+        <translation>Використовувати змінний бітрейт</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="256"/>
@@ -2589,7 +2593,8 @@ Right clicking will bring up a context menu where you can change the order in wh
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="47"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалось відкрити файл %1 для запису.
+Перевірте, чи маєте ви права на запис файлу і каталог що його містить і спробуйте знову!</translation>
     </message>
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="47"/>
@@ -2715,7 +2720,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="47"/>
         <source>DELAY</source>
-        <translation type="unfinished"/>
+        <translation>ЗАТРИМ</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="48"/>
@@ -2725,12 +2730,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="54"/>
         <source>RATE</source>
-        <translation type="unfinished"/>
+        <translation>ЧАСТ</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="55"/>
         <source>Period:</source>
-        <translation type="unfinished"/>
+        <translation>Період:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="61"/>
@@ -2740,12 +2745,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="62"/>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>Величина:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="68"/>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>FDBK</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="69"/>
@@ -2755,7 +2760,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="75"/>
         <source>NOISE</source>
-        <translation type="unfinished"/>
+        <translation>ШУМ</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="76"/>
@@ -2967,52 +2972,52 @@ You can remove and move FX channels in the context menu, which is accessed by ri
 <context>
     <name>GuiApplication</name>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="65"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="60"/>
         <source>Working directory</source>
         <translation>Робочий каталог LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="66"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="61"/>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
         <translation>Робочий каталог LMMS (%1) не існує. Створити його? Пізніше ви зможете змінити його через Правку -&gt; Параметри.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="119"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="114"/>
         <source>Preparing UI</source>
         <translation>Підготовка користувацького інтерфейсу</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="126"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="121"/>
         <source>Preparing song editor</source>
         <translation>Підготовка музичного редактора</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="130"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="125"/>
         <source>Preparing mixer</source>
         <translation>Підготовка міксера</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="134"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="129"/>
         <source>Preparing controller rack</source>
         <translation>Підготовка стійки контролерів</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="138"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="133"/>
         <source>Preparing project notes</source>
         <translation>Підготовка заміток проекту</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="142"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="137"/>
         <source>Preparing beat/bassline editor</source>
         <translation>Підготовка ритм/бас редактора</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="146"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="141"/>
         <source>Preparing piano roll</source>
         <translation>Підготовка нотного редактора</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="150"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="145"/>
         <source>Preparing automation editor</source>
         <translation>Підготовка редактора автоматизації</translation>
     </message>
@@ -3037,17 +3042,17 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
         <source>Cycle steps</source>
-        <translation type="unfinished"/>
+        <translation>Зациклити такти</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="306"/>
         <source>Skip rate</source>
-        <translation type="unfinished"/>
+        <translation>Частота пропуску</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="307"/>
         <source>Miss rate</source>
-        <translation type="unfinished"/>
+        <translation>Частота пропуску</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
@@ -3145,17 +3150,17 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="140"/>
         <source>CYCLE</source>
-        <translation type="unfinished"/>
+        <translation>ЦИКЛ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="141"/>
         <source>Cycle notes:</source>
-        <translation type="unfinished"/>
+        <translation>Зациклити ноти:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="141"/>
         <source>note(s)</source>
-        <translation type="unfinished"/>
+        <translation>нота(и)</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="143"/>
@@ -3165,12 +3170,12 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="149"/>
         <source>SKIP</source>
-        <translation type="unfinished"/>
+        <translation>ПРОПУСК</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="150"/>
         <source>Skip rate:</source>
-        <translation type="unfinished"/>
+        <translation>Частота пропуску:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="150"/>
@@ -3187,17 +3192,17 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="158"/>
         <source>MISS</source>
-        <translation type="unfinished"/>
+        <translation>ПРОПУСК</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="159"/>
         <source>Miss rate:</source>
-        <translation type="unfinished"/>
+        <translation>Частота пропуску:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="161"/>
         <source>The miss function will make the arpeggiator miss the intended note.</source>
-        <translation type="unfinished"/>
+        <translation>Функція пропуску змусить арпеджіатор пропустити бажану ноту.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="165"/>
@@ -3671,7 +3676,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="128"/>
         <source>Phrygian</source>
-        <translation type="unfinished"/>
+        <translation>Фрігійський</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="129"/>
@@ -3716,12 +3721,12 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="138"/>
         <source>Phrygian dominant</source>
-        <translation type="unfinished"/>
+        <translation>Фрігійська домінанта</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="139"/>
         <source>Persian</source>
-        <translation type="unfinished"/>
+        <translation>Перська</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="207"/>
@@ -3881,7 +3886,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="60"/>
         <source>Envelopes/LFOs</source>
-        <translation>Огибание/LFO</translation>
+        <translation>Обвідні/LFO</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="63"/>
@@ -4118,7 +4123,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="127"/>
-        <location filename="../../plugins/vestige/vestige.cpp" line="320"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="326"/>
         <source>Default preset</source>
         <translation>Основна предустановка</translation>
     </message>
@@ -4276,17 +4281,17 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1480"/>
         <source>Envelope, filter &amp; LFO</source>
-        <translation type="unfinished"/>
+        <translation>Обвідна, фільтр &amp; LFO</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1481"/>
         <source>Chord stacking &amp; arpeggio</source>
-        <translation type="unfinished"/>
+        <translation>Укладання акордів &amp; арпеджіо</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1482"/>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>Ефекти</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1483"/>
@@ -4296,7 +4301,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1484"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"/>
+        <translation>Різне</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1602"/>
@@ -4311,7 +4316,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1657"/>
         <source>Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Модуль</translation>
     </message>
 </context>
 <context>
@@ -4613,52 +4618,53 @@ Double click to pick a file.</source>
         <translation>Помилка під час обробки файлу налаштувань в рядку %1:%2:%3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="636"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="637"/>
         <source>Could not open file</source>
         <translation>Не можу відкрити файл</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="637"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="638"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
+        <translation>Не вдалось відкрити файл %1 для запису.
+Перевірте, чи маєте ви права на запис файлу і каталог що його містить і спробуйте знову!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="765"/>
+        <location filename="../../src/core/main.cpp" line="776"/>
         <source>Project recovery</source>
         <translation>Відновлення проекту</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="780"/>
+        <location filename="../../src/core/main.cpp" line="791"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>Присутній файл відновлення. Схоже, остання сесія не закінчилася належним чином або інший екземпляр LMMS вже запущений. Ви хочете, відновити проект цієї сесії?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="785"/>
-        <location filename="../../src/core/main.cpp" line="806"/>
-        <location filename="../../src/core/main.cpp" line="811"/>
+        <location filename="../../src/core/main.cpp" line="796"/>
+        <location filename="../../src/core/main.cpp" line="817"/>
+        <location filename="../../src/core/main.cpp" line="822"/>
         <source>Recover</source>
         <translation>Відновлення</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="786"/>
+        <location filename="../../src/core/main.cpp" line="797"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Відновлення файлу. Будь ласка, не запускайте кілька копій LMMS під час цієї операції.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="788"/>
-        <location filename="../../src/core/main.cpp" line="804"/>
-        <location filename="../../src/core/main.cpp" line="813"/>
+        <location filename="../../src/core/main.cpp" line="799"/>
+        <location filename="../../src/core/main.cpp" line="815"/>
+        <location filename="../../src/core/main.cpp" line="824"/>
         <source>Discard</source>
         <translation>Відкинути</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="789"/>
+        <location filename="../../src/core/main.cpp" line="800"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Запуск за замовчуванням з видаленням файла відновлення. Ця дія не відворотня.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="99"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="94"/>
         <source>Version %1</source>
         <translation>Версія %1</translation>
     </message>
@@ -5006,7 +5012,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="999"/>
         <source>Save project template</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти шаблон проекту</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1047"/>
@@ -5164,7 +5170,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/core/midi/MidiJack.cpp" line="58"/>
         <source>The JACK server seems to be shuted down.</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
-        <translation type="unfinished"/>
+        <translation>Здається, сервер JACK відключений.</translation>
     </message>
 </context>
 <context>
@@ -6803,12 +6809,12 @@ PM (ФМ) режим означає Фазова Модуляція: Осцил�
         <translation>Контролер вершин</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="211"/>
+        <location filename="../../src/core/PeakController.cpp" line="213"/>
         <source>Peak Controller Bug</source>
         <translation>Контролер вершин з багом</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="212"/>
+        <location filename="../../src/core/PeakController.cpp" line="214"/>
         <source>Due to a bug in older version of LMMS, the peak controllers may not be connect properly. Please ensure that peak controllers are connected properly and re-save this file. Sorry for any inconvenience caused.</source>
         <translation>Через помилку в старій версії LMMS контролери вершин не можуть правильно підключатися. Будь-ласка переконайтеся, що контролери вершин правильно приєднані і перезбережіть цей файл, вибачте, за заподіяні незручності.</translation>
     </message>
@@ -6881,7 +6887,7 @@ PM (ФМ) режим означає Фазова Модуляція: Осцил�
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="75"/>
         <source>TRSH</source>
-        <translation type="unfinished"/>
+        <translation>TRSH</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="77"/>
@@ -7015,13 +7021,13 @@ PM (ФМ) режим означає Фазова Модуляція: Осцил�
         <translation>Баланс: по середині</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3089"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3100"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Відкрийте шаблон за допомогою подвійного клацання мишею!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3654"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3673"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3681"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3700"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Введіть нове значення від %1 до %2:</translation>
     </message>
@@ -7029,175 +7035,175 @@ PM (ФМ) режим означає Фазова Модуляція: Осцил�
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4069"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4096"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Гра/Пауза поточної мелодії (Пробіл)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4070"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4097"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Записати ноти з цифрового музичного інструмента (MIDI)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4071"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4098"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Записати ноти з цифрового музичного інструменту (MIDI) під час відтворення пісні або доріжки Ритм-Басу</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4072"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4099"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Зупинити програвання поточної мелодії (Пробіл)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4075"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4102"/>
         <source>Click here to play the current pattern. This is useful while editing it. The pattern is automatically looped when its end is reached.</source>
         <translation>Натисніть тут щоб програти поточний шаблон. Це може стати в нагоді при його редагуванні. Після закінчення шаблону відтворення почнеться спочатку.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4079"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4106"/>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you can play and edit them afterwards.</source>
         <translation>Натисніть цю кнопку, якщо ви хочете записати ноти з пристрою MIDI або віртуального синтезатора відповідного каналу. Пізніше ви зможете відредагувати записаний шаблон.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4085"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4112"/>
         <source>Click here to record notes from a MIDI-device or the virtual test-piano of the according channel-window to the current pattern. When recording all notes you play will be written to this pattern and you will hear the song or BB track in the background.</source>
         <translation>Натисніть цю кнопку, якщо ви хочете записати ноти з пристрою MIDI або віртуального синтезатора відповідного каналу. Під час запису всі ноти записуються в цей шаблон, і ви будете чути композицію або РБ доріжку на задньому плані.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4091"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4118"/>
         <source>Click here to stop playback of current pattern.</source>
         <translation>Натисніть тут, якщо ви хочете зупинити відтворення поточного шаблону.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4093"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4120"/>
         <source>Edit actions</source>
         <translation>Зміна</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4097"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4124"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Режим малювання (Shift + D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4098"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4125"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Режим стирання (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4099"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4126"/>
         <source>Select mode (Shift+S)</source>
         <translation>Режим вибору нот (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4110"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4137"/>
         <source>Click here and draw mode will be activated. In this mode you can add, resize and move notes. This is the default mode which is used most of the time. You can also press &apos;Shift+D&apos; on your keyboard to activate this mode. In this mode, hold %1 to temporarily go into select mode.</source>
         <translation>Режим малювання нот, в ньому ви можете додавати/переміщати і змінювати тривалість одиночних нот. Це режим за замовчуванням і використовується більшу частину часу.
 Для включення цього режиму можна скористатися комбінацією клавіш Shift+D, утримуйте %1 для тимчасового перемикання в режим вибору.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4122"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4149"/>
         <source>Click here and erase mode will be activated. In this mode you can erase notes. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
         <translation>Режим стирання. У цьому режимі ви можете стирати ноти. Для увімкнення цього режиму можна скористатися комбінацією клавіш Shift+E.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4126"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4153"/>
         <source>Click here and select mode will be activated. In this mode you can select notes. Alternatively, you can hold %1 in draw mode to temporarily use select mode.</source>
         <translation>Режим виділення. У цьому режимі можна виділяти ноти, також можна утримувати %1 в режимі малювання, щоб на час увійти в режим виділення.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4100"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4127"/>
         <source>Pitch Bend mode (Shift+T)</source>
-        <translation type="unfinished"/>
+        <translation>Режим Pitch Bend (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4136"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4163"/>
         <source>Click here and Pitch Bend mode will be activated. In this mode you can click a note to open its automation detuning. You can utilize this to slide notes from one to another. You can also press &apos;Shift+T&apos; on your keyboard to activate this mode.</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть тут для активації Pitch Blend режиму. Ви зможете клікнути на ноту, щоб почати автоматичний детюн. Можна використовувати це для &quot;ковзання&quot; від однієї ноти до іншої. Можна включити цей режим за допомогою Shift + T.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4144"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4171"/>
         <source>Quantize</source>
         <translation>Квантовать</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4155"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4182"/>
         <source>Copy paste controls</source>
         <translation>Управління копіюванням та вставкою</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4158"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4185"/>
         <source>Cut selected notes (%1+X)</source>
         <translation>Перемістити виділені ноти до буферу (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4166"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4193"/>
         <source>Copy selected notes (%1+C)</source>
         <translation>Копіювати виділені ноти до буферу (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4174"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4201"/>
         <source>Paste notes from clipboard (%1+V)</source>
         <translation>Вставити ноти з буферу (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4182"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4209"/>
         <source>Click here and the selected notes will be cut into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
         <translation>При натиснені цієї кнопки виділені ноти будуть вирізані до буферу. Пізніше ви зможете вставити їх в будь-яке місце будь-якого шаблону за допомогою кнопки &quot;Вставити&quot;.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4186"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4213"/>
         <source>Click here and the selected notes will be copied into the clipboard. You can paste them anywhere in any pattern by clicking on the paste button.</source>
         <translation>При натиснені цієї кнопки виділені ноти буде скопійовано до буферу. Пізніше ви зможете вставити їх в будь-яке місце будь-якого шаблону за допомогою кнопки &quot;Вставити&quot;.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4190"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4217"/>
         <source>Click here and the notes from the clipboard will be pasted at the first visible measure.</source>
         <translation>При натиснені цієї кнопки ноти з буферу будуть вставлені в перший видимий такт.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4206"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4233"/>
         <source>Timeline controls</source>
         <translation>Управління хронологією</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4213"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4240"/>
         <source>Zoom and note controls</source>
         <translation>Управління масштабом і нотами</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4275"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4302"/>
         <source>This controls the magnification of an axis. It can be helpful to choose magnification for a specific task. For ordinary editing, the magnification should be fitted to your smallest notes. </source>
         <translation>Цим контролюється масштаб осі. Це може бути корисно для спеціальних завдань. Для звичайного редагування, масштаб слід встановлювати за найменшою нотою.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4283"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4310"/>
         <source>The &apos;Q&apos; stands for quantization, and controls the grid size notes and control points snap to. With smaller quantization values, you can draw shorter notes in Piano Roll, and more exact control points in the Automation Editor.</source>
         <translation>&quot;Q&quot; позначає квантування і контролює розмір нотної сітки і контрольні точки тяжіння. З меншою величиною квантування, можна малювати короткі ноти в редаторі нот і більш точно контролювати точки в редакторі Автоматизації.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4293"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4320"/>
         <source>This lets you select the length of new notes. &apos;Last Note&apos; means that LMMS will use the note length of the note you last edited</source>
         <translation>Дозволяє вибрати довжину нової ноти. &quot;Остання Нота&quot; означає, що LMMS буде використовувати довжину ноти, зміненої в останній раз</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4300"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4327"/>
         <source>The feature is directly connected to the context-menu on the virtual keyboard, to the left in Piano Roll. After you have chosen the scale you want in this drop-down menu, you can right click on a desired key in the virtual keyboard, and then choose &apos;Mark current Scale&apos;. LMMS will highlight all notes that belongs to the chosen scale, and in the key you have selected!</source>
         <translation>Функція безпосередньо пов&apos;язана з контекстним меню на віртуальній клавіатурі зліва в нотному редакторі. Після того, як обраний масштаб у випадаючому меню, можна натиснути правою кнопкою у віртуальній клавіатурі і вибрати &quot;Mark Current Scale&quot; (Відзначити поточний масштаб). LMMS підсвітить всі ноти які лежать в обраному масштабі для обраної клавіші!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4312"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4339"/>
         <source>Let you select a chord which LMMS then can draw or highlight.You can find the most common chords in this drop-down menu. After you have selected a chord, click anywhere to place the chord, and right click on the virtual keyboard to open context menu and highlight the chord. To return to single note placement, you need to choose &apos;No chord&apos; in this drop-down menu.</source>
         <translation>Дозволяє вибрати акорд, який LMMS потім зможе намалювати або підсвітити. У цьому меню можна знайти найбільш популярні акорди. Після того, як ви вибрали акорд, натисніть в будь-якому місці, щоб поставити його, а правим кліком по віртуальній клавіатурі відкривається контекстне меню і підсвічування акорду. Для повернення в режим однієї ноти потрібно вибрати &quot;Без акорду&quot; в цьому випадаючому меню.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4349"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4454"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4376"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4481"/>
         <source>Piano-Roll - %1</source>
         <translation>Нотний редактор - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4355"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4458"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4382"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4485"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Нотний редактор - без шаблону</translation>
     </message>
@@ -7240,7 +7246,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="49"/>
         <source>Instrument Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Модулі інструментів</translation>
     </message>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="52"/>
@@ -7276,7 +7282,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="92"/>
         <source>Enter project notes here</source>
-        <translation type="unfinished"/>
+        <translation>Напишіть примітки до проекту тут</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="113"/>
@@ -7429,7 +7435,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="55"/>
         <source>Compressed MP3-File (*.mp3)</source>
-        <translation type="unfinished"/>
+        <translation>Стиснутий MP3-файл (* .mp3)</translation>
     </message>
 </context>
 <context>
@@ -7537,22 +7543,22 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="49"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Розмір</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="50"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Розмір:</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="55"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Колір</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="56"/>
         <source>Color:</source>
-        <translation type="unfinished"/>
+        <translation>Колір:</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="61"/>
@@ -7570,22 +7576,22 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="36"/>
         <source>Input Gain</source>
-        <translation type="unfinished"/>
+        <translation>Вхідне підсилення</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="37"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Розмір</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="38"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Колір</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="39"/>
         <source>Output Gain</source>
-        <translation type="unfinished"/>
+        <translation>Вихідне підсилення</translation>
     </message>
 </context>
 <context>
@@ -7593,12 +7599,12 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="288"/>
         <source>Fail to open file</source>
-        <translation type="unfinished"/>
+        <translation>Не вдається відкрити файл</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="289"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
-        <translation type="unfinished"/>
+        <translation>Аудіофайли обмежено розміром в %1 МБ і %2 хвилин(и) програвання </translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="973"/>
@@ -7659,32 +7665,32 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleTCOView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="315"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="327"/>
         <source>double-click to select sample</source>
         <translation>Виберіть запис подвійним натисненням миші</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="332"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="344"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Видалити (середня кнопка мишки)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="336"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="348"/>
         <source>Cut</source>
         <translation>Вирізати</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="339"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="351"/>
         <source>Copy</source>
         <translation>Копіювати</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="341"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="353"/>
         <source>Paste</source>
         <translation>Вставити</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="344"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="356"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Заглушити/включити (&lt;%1&gt; + середня кнопка миші)</translation>
     </message>
@@ -7692,18 +7698,18 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="558"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="577"/>
         <source>Volume</source>
         <translation>Гучність</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="560"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="579"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="561"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="563"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="580"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="582"/>
         <source>Sample track</source>
         <translation>Доріжка запису</translation>
     </message>
@@ -7711,32 +7717,32 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="757"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="776"/>
         <source>Track volume</source>
         <translation>Гучність доріжки</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="760"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="779"/>
         <source>Channel volume:</source>
         <translation>Гучність каналу:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="767"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="786"/>
         <source>VOL</source>
         <translation>ГУЧН</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="771"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="790"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="773"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="792"/>
         <source>Panning:</source>
         <translation>Баланс: </translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="775"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="794"/>
         <source>PAN</source>
         <translation>БАЛ</translation>
     </message>
@@ -7744,351 +7750,362 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SetupDialog</name>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="142"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="146"/>
         <source>Setup LMMS</source>
         <translation>Налаштування LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="174"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="959"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="178"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="983"/>
         <source>General settings</source>
         <translation>Загальні налаштування</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="176"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="180"/>
         <source>BUFFER SIZE</source>
         <translation>РОЗМІР БУФЕРУ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="199"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="702"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="203"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="726"/>
         <source>Reset to default-value</source>
         <translation>Відновити значення за замовчуванням</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="208"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="212"/>
         <source>MISC</source>
         <translation>РІЗНЕ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="216"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="220"/>
         <source>Enable tooltips</source>
         <translation>Включити підказки</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="226"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="230"/>
         <source>Show restart warning after changing settings</source>
         <translation>Показувати попередження про перезапуск при зміні налаштувань</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="235"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="239"/>
         <source>Display volume as dBFS </source>
         <translation>Відображати гучність в децибелах  </translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="245"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="249"/>
         <source>Compress project files per default</source>
         <translation>За замовчуванням стискати файли проектів</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="254"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="258"/>
         <source>One instrument track window mode</source>
         <translation>Режим вікна однієї інструментальної доріжки</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="263"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="267"/>
         <source>HQ-mode for output audio-device</source>
         <translation>Режим високої якості для виведення звуку</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="272"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="276"/>
         <source>Compact track buttons</source>
         <translation>Стиснути кнопки доріжки</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="282"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="286"/>
         <source>Sync VST plugins to host playback</source>
         <translation>Синхронізувати VST плагіни з хостом відтворення</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="291"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="295"/>
         <source>Enable note labels in piano roll</source>
         <translation>Включити позначення нот у музичному редакторі</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="300"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="304"/>
         <source>Enable waveform display by default</source>
         <translation>Включити відображення форми хвилі за замовчуванням</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="309"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="313"/>
         <source>Keep effects running even without input</source>
         <translation>Продовжувати роботу ефектів навіть без вхідного сигналу</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="318"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="322"/>
         <source>Create backup file when saving a project</source>
         <translation>Створю запасний файл при збереженні проекту</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="327"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="331"/>
         <source>Reopen last project on start</source>
         <translation>Відкривати останній проект при запуску</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="337"/>
-        <source>PLUGIN EMBEDDING</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="343"/>
-        <source>No embedding</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="346"/>
-        <source>Embed using Qt API</source>
-        <translation type="unfinished"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="345"/>
+        <source>Use built-in NaN handler</source>
+        <translation>Використовувати вбудований обробник NaN</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="350"/>
+        <source>PLUGIN EMBEDDING</source>
+        <translation>ВСТАНОВИТИ УПРАВЛІННЯ</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/SetupDialog.cpp" line="356"/>
+        <source>No embedding</source>
+        <translation>Не встановлено</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/SetupDialog.cpp" line="359"/>
+        <source>Embed using Qt API</source>
+        <translation>Встановлення використовуючи Qt API</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/SetupDialog.cpp" line="363"/>
         <source>Embed using native Win32 API</source>
-        <translation type="unfinished"/>
+        <translation>Встановлення використовуючи рідний Win32 API</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="354"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="367"/>
         <source>Embed using XEmbed protocol</source>
+        <translation>Встановлення використовуючи протокол XEmbed</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/SetupDialog.cpp" line="374"/>
+        <source>Keep plugin windows on top when not embedded</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="358"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="382"/>
         <source>LANGUAGE</source>
         <translation>МОВА</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="422"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="961"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="446"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="985"/>
         <source>Paths</source>
         <translation>Шляхи</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="423"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="447"/>
         <source>Directories</source>
         <translation>Каталоги</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="444"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="468"/>
         <source>LMMS working directory</source>
         <translation>Робочий каталог LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="464"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="488"/>
         <source>Themes directory</source>
         <translation>Каталог тем</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="485"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="509"/>
         <source>Background artwork</source>
         <translation>Фонове зображення</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="504"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="528"/>
         <source>VST-plugin directory</source>
         <translation>Каталог модулів VST</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="523"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="547"/>
         <source>GIG directory</source>
         <translation>Каталог GIG</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="542"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="566"/>
         <source>SF2 directory</source>
         <translation>Каталог SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="563"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="587"/>
         <source>LADSPA plugin directories</source>
         <translation>Каталог модулів LADSPA</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="584"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="608"/>
         <source>STK rawwave directory</source>
         <translation>Каталог STK rawwave</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="605"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="629"/>
         <source>Default Soundfont File</source>
         <translation>Основний Soundfont файл </translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="661"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="964"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="685"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="988"/>
         <source>Performance settings</source>
         <translation>Налаштування продуктивності</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="665"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="689"/>
         <source>Auto save</source>
         <translation>Авто-збереження</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="684"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="708"/>
         <source>Enable auto-save</source>
-        <translation type="unfinished"/>
+        <translation>Увімкнути автоматичне збереження</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="691"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="715"/>
         <source>Allow auto-save while playing</source>
-        <translation type="unfinished"/>
+        <translation>Дозволити автоматичне збереження під час відтворення</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="718"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="742"/>
         <source>UI effects vs. performance</source>
         <translation>Візуальні ефекти / продуктивність</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="724"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="748"/>
         <source>Smooth scroll in Song Editor</source>
         <translation>Плавне прокручування в музичному редакторі</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="731"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="755"/>
         <source>Show playback cursor in AudioFileProcessor</source>
         <translation>Показувати покажчик відтворення в процесорі аудіо файлів</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="750"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="967"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="774"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="991"/>
         <source>Audio settings</source>
         <translation>Параметри звуку</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="752"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="776"/>
         <source>AUDIO INTERFACE</source>
         <translation>ЗВУКОВА СИСТЕМА</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="861"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="969"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="885"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="993"/>
         <source>MIDI settings</source>
         <translation>Параметри MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="863"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="887"/>
         <source>MIDI INTERFACE</source>
         <translation>ІНТЕРФЕЙС MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="986"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1010"/>
         <source>OK</source>
         <translation>ОК</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="991"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1015"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1028"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1052"/>
         <source>Restart LMMS</source>
         <translation>Перезапустіть LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1029"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1053"/>
         <source>Please note that most changes won&apos;t take effect until you restart LMMS!</source>
         <translation>Врахуйте, що більшість налаштувань не вступлять в силу до перезапуску програми!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1147"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1171"/>
         <source>Frames: %1
 Latency: %2 ms</source>
         <translation>Фрагментів: %1
 Затримка: %2 мс</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1168"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1192"/>
         <source>Here you can setup the internal buffer-size used by LMMS. Smaller values result in a lower latency but also may cause unusable sound or bad performance, especially on older computers or systems with a non-realtime kernel.</source>
         <translation>Тут ви можете налаштувати розмір внутрішнього звукового буфера LMMS. Менші значення дають менший час відгуку програми, але підвищують споживання ресурсів - це особливо помітно на старих машинах і системах, ядро ​​яких не підтримує пріоритету реального часу. Якщо спостерігається переривчастий звук, спробуйте збільшити розмір буферу.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1318"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1361"/>
         <source>Choose LMMS working directory</source>
         <translation>Вибір робочого каталогу LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1328"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1371"/>
         <source>Choose your GIG directory</source>
         <translation>Виберіть каталог GIG</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1339"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1382"/>
         <source>Choose your SF2 directory</source>
         <translation>Виберіть каталог SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1361"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1404"/>
         <source>Choose your VST-plugin directory</source>
         <translation>Вибір свого каталогу для модулів VST</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1393"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1436"/>
         <source>Choose artwork-theme directory</source>
         <translation>Вибір каталогу з темою оформлення для LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1415"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1458"/>
         <source>Choose LADSPA plugin directory</source>
         <translation>Вибір каталогу з модулями LADSPA </translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1437"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1480"/>
         <source>Choose STK rawwave directory</source>
         <translation>Вибір каталогу STK rawwave</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1453"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1496"/>
         <source>Choose default SoundFont</source>
         <translation>Вибрати головний SoundFont</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1486"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1529"/>
         <source>Choose background artwork</source>
         <translation>Вибрати фонове зображення</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1538"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1581"/>
         <source>minutes</source>
         <translation>хвилин</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1538"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1581"/>
         <source>minute</source>
         <translation>хвилина</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1540"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1583"/>
         <source>Disabled</source>
-        <translation type="unfinished"/>
+        <translation>Вимкнено</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1541"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1584"/>
         <source>Auto-save interval: %1</source>
-        <translation type="unfinished"/>
+        <translation>Інтервал автоматичного збереження: %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1560"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1603"/>
         <source>Set the time between automatic backup to %1.
 Remember to also save your project manually. You can choose to disable saving while playing, something some older systems find difficult.</source>
-        <translation type="unfinished"/>
+        <translation>Встановіть проміжок часу автоматичного резервного копіювання в %1.
+Не забудьте також зберегти проект вручну. Ви можете вимкнути автозбереження, інколи деяким старим системи тяжко в таком режимі.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1587"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1630"/>
         <source>Here you can select your preferred audio-interface. Depending on the configuration of your system during compilation time you can choose between ALSA, JACK, OSS and more. Below you see a box which offers controls to setup the selected audio-interface.</source>
         <translation>Будь ласка, виберіть звукову систему. Залежно від конфігурації під час компілювання програми, ви можете використовувати ALSA, JACK, OSS та інші. У нижній частині вікна налаштування можна задати специфічні параметри обраної системи.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1617"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1660"/>
         <source>Here you can select your preferred MIDI-interface. Depending on the configuration of your system during compilation time you can choose between ALSA, OSS and more. Below you see a box which offers controls to setup the selected MIDI-interface.</source>
         <translation>Будь ласка, виберіть інтерфейс MIDI. Залежно від конфігурації під час компілювання програми, ви можете використовувати ALSA, OSS та інші. У нижній частині вікна налаштування можна задати специфічні параметри обраного інтерфейсу.</translation>
     </message>
@@ -8187,7 +8204,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/core/Song.cpp" line="1421"/>
         <source>Save project</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти проект</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1452"/>
@@ -8237,7 +8254,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1100"/>
         <source>Version difference</source>
-        <translation type="unfinished"/>
+        <translation>Різниця версій</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1101"/>
@@ -8588,43 +8605,43 @@ Remember to also save your project manually. You can choose to disable saving wh
 <context>
     <name>TimeLineWidget</name>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="119"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="120"/>
         <source>Enable/disable auto-scrolling</source>
         <translation>Увімк/вимк автопрокрутку</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="126"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="127"/>
         <source>Enable/disable loop-points</source>
         <translation>Увімк/вимк точки петлі</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="136"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="137"/>
         <source>After stopping go back to begin</source>
         <translation>Після зупинки переходити до початку</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="139"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="140"/>
         <source>After stopping go back to position at which playing was started</source>
         <translation>Після зупинки переходити до місця, з якого почалося відтворення</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="143"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="144"/>
         <source>After stopping keep position</source>
         <translation>Залишатися на місці зупинки</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="338"/>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="350"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="339"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="351"/>
         <source>Hint</source>
         <translation>Підказка</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="339"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="340"/>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
         <translation>Натисніть &lt;%1&gt;, щоб прибрати прилипання точок циклу.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="351"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="352"/>
         <source>Hold &lt;Shift&gt; to move the begin loop point; Press &lt;%1&gt; to disable magnetic loop points.</source>
         <translation>Зажміть &lt;Shift&gt; щоб змістити початок точок циклу; Натисніть &lt;%1&gt;, щоб прибрати прилипання точок циклу.</translation>
     </message>
@@ -8688,17 +8705,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="117"/>
         <source>Loading cancelled</source>
-        <translation type="unfinished"/>
+        <translation>Завантаження скасовано</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="118"/>
         <source>Project loading was cancelled.</source>
-        <translation type="unfinished"/>
+        <translation>Завантаження проекту скасовано.</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="135"/>
         <source>Loading Track %1 (%2/Total %3)</source>
-        <translation type="unfinished"/>
+        <translation>Завантаження треку %1 (%2/з %3)</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="287"/>
@@ -8717,59 +8734,59 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="718"/>
+        <location filename="../../src/core/Track.cpp" line="721"/>
         <source>Current position</source>
         <translation>Позиція</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="709"/>
-        <location filename="../../src/core/Track.cpp" line="731"/>
+        <location filename="../../src/core/Track.cpp" line="712"/>
+        <location filename="../../src/core/Track.cpp" line="733"/>
         <source>Hint</source>
         <translation>Підказка</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="710"/>
+        <location filename="../../src/core/Track.cpp" line="713"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>Натисніть &lt;%1&gt; і перетягніть, щоб створити копію.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="740"/>
+        <location filename="../../src/core/Track.cpp" line="742"/>
         <source>Current length</source>
         <translation>Тривалість</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="732"/>
+        <location filename="../../src/core/Track.cpp" line="734"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>Для вільної зміни розміру натисніть &lt;%1&gt;.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="741"/>
-        <location filename="../../src/core/Track.cpp" line="912"/>
+        <location filename="../../src/core/Track.cpp" line="743"/>
+        <location filename="../../src/core/Track.cpp" line="917"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (від %3:%4 до %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1002"/>
+        <location filename="../../src/core/Track.cpp" line="997"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Видалити (середня кнопка мишки)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1006"/>
+        <location filename="../../src/core/Track.cpp" line="1001"/>
         <source>Cut</source>
         <translation>Вирізати</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1009"/>
+        <location filename="../../src/core/Track.cpp" line="1004"/>
         <source>Copy</source>
         <translation>Копіювати</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1011"/>
+        <location filename="../../src/core/Track.cpp" line="1006"/>
         <source>Paste</source>
         <translation>Вставити</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1014"/>
+        <location filename="../../src/core/Track.cpp" line="1009"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Заглушити/включити (&lt;%1&gt; + середня кнопка миші)</translation>
     </message>
@@ -9033,119 +9050,119 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="150"/>
         <source> already exists. Do you want to replace it?</source>
-        <translation type="unfinished"/>
+        <translation>вже існує. Замінити його?</translation>
     </message>
 </context>
 <context>
     <name>VestigeInstrumentView</name>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="484"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="490"/>
         <source>Open other VST-plugin</source>
         <translation>Відкрити інший VST плагін</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="487"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="493"/>
         <source>Click here, if you want to open another VST-plugin. After clicking on this button, a file-open-dialog appears and you can select your file.</source>
         <translation>Відкрити інший модуль VST. Після натискання на кнопку з&apos;явиться стандартний діалог вибору файлу, де ви зможете вибрати потрібний модуль.</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="501"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="507"/>
         <source>Control VST-plugin from LMMS host</source>
         <translation>Управління VST плагіном через LMMS хост</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="504"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="510"/>
         <source>Click here, if you want to control VST-plugin from host.</source>
         <translation>Натисніть тут, для контролю VST плагіном через хост.</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="517"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="523"/>
         <source>Open VST-plugin preset</source>
         <translation>Відкрити передустановку VST плагіна</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="520"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="526"/>
         <source>Click here, if you want to open another *.fxp, *.fxb VST-plugin preset.</source>
         <translation>Відкрити іншу .fxp . fxb передустановку VST.</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="533"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="539"/>
         <source>Previous (-)</source>
         <translation>Попередній &lt;-&gt;</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="538"/>
-        <location filename="../../plugins/vestige/vestige.cpp" line="572"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="544"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="578"/>
         <source>Click here, if you want to switch to another VST-plugin preset program.</source>
         <translation>Перемикання на іншу передустановку програми VST плагіна.</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="551"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="557"/>
         <source>Save preset</source>
         <translation>Зберегти передустановку</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="554"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="560"/>
         <source>Click here, if you want to save current VST-plugin preset program.</source>
         <translation>Зберегти поточну передустановку програми VST плагіна.</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="567"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="573"/>
         <source>Next (+)</source>
         <translation>Наступний &lt;+&gt;</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="586"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="592"/>
         <source>Click here to select presets that are currently loaded in VST.</source>
         <translation>Вибір із уже завантажених в VST предустановок.</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="591"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="597"/>
         <source>Show/hide GUI</source>
         <translation>Показати / приховати інтерфейс</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="598"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="604"/>
         <source>Click here to show or hide the graphical user interface (GUI) of your VST-plugin.</source>
         <translation>Приховує / показує графічний користувальницький інтерфейс (GUI) обраного модуля VST.</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="601"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="607"/>
         <source>Turn off all notes</source>
         <translation>Вимкнути всі ноти</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="682"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="688"/>
         <source>Open VST-plugin</source>
         <translation>Відкрити модуль VST</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="686"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="692"/>
         <source>DLL-files (*.dll)</source>
         <translation>Бібліотеки DLL (*.dll)</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="687"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="693"/>
         <source>EXE-files (*.exe)</source>
         <translation>Програми EXE (*.exe)</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="888"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="894"/>
         <source>No VST-plugin loaded</source>
         <translation>Модуль VST не завантажений</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="896"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="902"/>
         <source>Preset</source>
         <translation>Передустановка</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="904"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="910"/>
         <source>by </source>
         <translation>від</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="913"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="919"/>
         <source> - VST plugin control</source>
         <translation>- Управління VST плагіном</translation>
     </message>
@@ -9236,59 +9253,59 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>VstPlugin</name>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="346"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="352"/>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="144"/>
         <source>The VST plugin %1 could not be loaded.</source>
         <translation>VST плагін %1 не може бути завантажено.</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="423"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="425"/>
         <source>Open Preset</source>
         <translation>Відкрити предустановку</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="424"/>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="482"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="426"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="484"/>
         <source>Vst Plugin Preset (*.fxp *.fxb)</source>
         <translation>Передустановка VST плагіна (*.fxp, *.fxb)</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="478"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="480"/>
         <source>: default</source>
         <translation>: основні</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="479"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="481"/>
         <source>&quot;</source>
         <translation>&quot;</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="479"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="481"/>
         <source>&apos;</source>
         <translation>&apos;</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="481"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="483"/>
         <source>Save Preset</source>
         <translation>Зберегти предустановку</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="481"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="483"/>
         <source>.fxp</source>
         <translation>.fxp</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="497"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="499"/>
         <source>.FXP</source>
         <translation>.FXP</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="497"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="499"/>
         <source>.FXB</source>
         <translation>.FXB</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="498"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="500"/>
         <source>.fxb</source>
         <translation>.fxb</translation>
     </message>
@@ -9703,42 +9720,42 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>ZynAddSubFxInstrument</name>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="114"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="115"/>
         <source>Portamento</source>
         <translation>Портаменто</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="115"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="116"/>
         <source>Filter Frequency</source>
         <translation>Фільтр Частот</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="116"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="117"/>
         <source>Filter Resonance</source>
         <translation>Фільтр резонансу</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="117"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="118"/>
         <source>Bandwidth</source>
         <translation>Ширина смуги</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="118"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="119"/>
         <source>FM Gain</source>
         <translation>Підсил FM</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="119"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="120"/>
         <source>Resonance Center Frequency</source>
         <translation>Частоти центру резонансу</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="120"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="121"/>
         <source>Resonance Bandwidth</source>
         <translation>Ширина смуги резонансу</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="121"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="122"/>
         <source>Forward MIDI Control Change Events</source>
         <translation>Переслати зміну подій MIDI управління</translation>
     </message>
@@ -9746,87 +9763,87 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>ZynAddSubFxView</name>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="513"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="518"/>
         <source>Portamento:</source>
         <translation>Портаменто:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="514"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="519"/>
         <source>PORT</source>
         <translation>PORT</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="517"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="522"/>
         <source>Filter Frequency:</source>
         <translation>Фільтр частот:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="518"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="523"/>
         <source>FREQ</source>
         <translation>FREQ</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="521"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="526"/>
         <source>Filter Resonance:</source>
         <translation>Фільтр резонансу:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="522"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="527"/>
         <source>RES</source>
         <translation>RES</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="525"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="530"/>
         <source>Bandwidth:</source>
         <translation>Смуга пропускання:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="526"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="531"/>
         <source>BW</source>
         <translation>BW</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="529"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="534"/>
         <source>FM Gain:</source>
         <translation>Підсилення частоти модуляції (FM):</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="530"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="535"/>
         <source>FM GAIN</source>
         <translation>FM GAIN</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="533"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="538"/>
         <source>Resonance center frequency:</source>
         <translation>Частота центру резонансу:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="534"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="539"/>
         <source>RES CF</source>
         <translation>RES CF</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="537"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="542"/>
         <source>Resonance bandwidth:</source>
         <translation>Ширина смуги резонансу:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="538"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="543"/>
         <source>RES BW</source>
         <translation>RES BW</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="540"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="545"/>
         <source>Forward MIDI Control Changes</source>
         <translation>Переслати зміну подій MiDi управління</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="542"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="547"/>
         <source>Show GUI</source>
         <translation>Показати інтерфейс</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="550"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="555"/>
         <source>Click here to show or hide the graphical user interface (GUI) of ZynAddSubFX.</source>
         <translation>Натисніть сюди щоб сховати чи показати графічний інтерфейс ZynAddSubFX.</translation>
     </message>
@@ -10987,39 +11004,39 @@ Double clicking any of the plugins will bring up information on the ports.</sour
 <context>
     <name>manageVestigeInstrumentView</name>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="937"/>
-        <location filename="../../plugins/vestige/vestige.cpp" line="1200"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="943"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="1206"/>
         <source> - VST plugin control</source>
         <translation>Управління VST плагіном</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="946"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="952"/>
         <source>VST Sync</source>
         <translation>VST синхронізація</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="950"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="956"/>
         <source>Click here if you want to synchronize all parameters with VST plugin.</source>
         <translation>Натисніть тут для синхронізації всіх параметрів VST плагіна.</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="954"/>
-        <location filename="../../plugins/vestige/vestige.cpp" line="1084"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="960"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="1090"/>
         <source>Automated</source>
         <translation>Автоматизовано</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="958"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="964"/>
         <source>Click here if you want to display automated parameters only.</source>
         <translation>Натисніть тут, якщо хочете бачити тільки автоматизовані параметри.</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="963"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="969"/>
         <source>    Close    </source>
         <translation>Закрити</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="967"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="973"/>
         <source>Close VST plugin knob-controller window.</source>
         <translation>Закрити вікно управління регуляторами VST плагіна.</translation>
     </message>
@@ -11826,7 +11843,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSC.cpp" line="37"/>
         <source>Reverb algorithm by Sean Costello</source>
-        <translation type="unfinished"/>
+        <translation>Алгоритм реверберації Шона Костелло</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="57"/>
@@ -11896,7 +11913,7 @@ This chip was used in the Commodore 64 computer.</source>
         <translation>плагін формування сигналу</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="61"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="62"/>
         <source>Embedded ZynAddSubFX</source>
         <translation>Вбудований ZynAddSubFX</translation>
     </message>
@@ -12351,12 +12368,12 @@ This chip was used in the Commodore 64 computer.</source>
 <context>
     <name>vestigeInstrument</name>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="334"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="340"/>
         <source>Loading plugin</source>
         <translation>Завантаження модуля</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="335"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="341"/>
         <source>Please wait while loading VST-plugin...</source>
         <translation>Будь ласка зачекайте поки завантажеться модуль VST...</translation>
     </message>

@@ -6,7 +6,7 @@
 # Translators:
 # Staffan Vilcans, 2018
 # Göran Amredahl <goran@amredahl.se>, 2018
-# Spekular R <Spekularr@gmail.com>, 2018
+# Spekular R <Spekularr@gmail.com>, 2019
 # Jonatan Nyberg, 2019
 # 
 #, fuzzy
@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-02 14:12-0700\n"
+"POT-Creation-Date: 2019-03-08 11:40-0700\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
 "Last-Translator: Jonatan Nyberg, 2019\n"
 "Language-Team: Swedish (https://www.transifex.com/lmms/teams/61632/sv/)\n"
@@ -146,7 +146,7 @@ msgstr ""
 
 #: get-involved.twig:90
 msgid "Subscribe to LMMS-Devel mailing list"
-msgstr "Prenumerera på LMMS-Devel epost-lista"
+msgstr "Prenumerera på LMMS-Devel e-post-lista"
 
 #: get-involved.twig:101
 msgid ""
@@ -187,12 +187,16 @@ msgid ""
 "LMMS is included in most major Linux distribution's package repositories.<br>\n"
 "\tPlease <a href=\"get-involved/#contact\">contact us</a> if your distribution is not listed here."
 msgstr ""
+"LMMS ingår i de flesta stora Linux-distributioners paketförråd.<br>\n"
+"\tVänligen <a href=\"get-involved/#contact\">kontakta oss</a> om din distribution inte är listad här."
 
 #: download/linux.twig:48
 msgid ""
 "For installing LMMS on Debian based distributions such as Debian itself, "
 "Ubuntu or Linux Mint, just click the button below."
 msgstr ""
+"För att installera LMMS på Debianbaserade distributioner som Debian själv, "
+"Ubuntu eller Linux Mint, klicka bara på knappen nedan."
 
 #: download/linux.twig:53
 msgid "Install LMMS now"
@@ -204,7 +208,7 @@ msgstr "Från din pakethanterare"
 
 #: download/linux.twig:57
 msgid "If this doesn't work for you, run this command in a terminal."
-msgstr ""
+msgstr "Om detta inte fungerar för dig, kör det här kommandot i en terminal."
 
 #: download/linux.twig:59
 msgid ""
@@ -212,6 +216,9 @@ msgid ""
 "href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
 "repository</a>."
 msgstr ""
+"Om de traditionella förråd släpar efter på versioner, prova <a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">Kxstudios "
+"förråd</a>."
 
 #: download/linux.twig:60 download/linux.twig:81
 msgid "VST Support"
@@ -224,38 +231,46 @@ msgid ""
 "href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
 "repository</a>, run this command in a terminal."
 msgstr ""
+"Om din distribution erbjuder VST-stöd (kräver installation av Wine) erbjuds "
+"det i allmänhet i ett separat paket. Till exempel med hjälp av <a "
+"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudios "
+"förråd</a>, kör detta kommando i en terminal."
 
 #: download/linux.twig:67 download/linux.twig:73
 msgid "Run the following command as root in a terminal:"
-msgstr ""
+msgstr "Kör följande kommando som root i en terminal:"
 
 #: download/linux.twig:79 download/linux.twig:93
 msgid "Run the following command in a terminal:"
-msgstr ""
+msgstr "Kör följande kommando i en terminal:"
 
 #: download/linux.twig:82
 msgid ""
 "For VST support, please see the <a "
 "href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
 msgstr ""
+"För VST-stöd, vänligen se <a "
+"href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS-wiki-sida</a>"
 
 #: download/linux.twig:99
 msgid ""
 "AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and "
 "more to come in the future), with VST support enabled by default on AMD64."
 msgstr ""
+"AOSC OS skickar LMMS på olika arkitektoniska portar (AMD64/x86_64, ARMv7 och"
+" mer som kommer i framtiden), med VST-stöd aktiverat som standard på AMD64."
 
 #: download/linux.twig:100
 msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
-msgstr ""
+msgstr "För att installera LMMS på AOSC OS med PackageKit (rekommenderas):"
 
 #: download/linux.twig:102
 msgid "To install LMMS on AOSC OS with DPKG:"
-msgstr ""
+msgstr "För att installera LMMS på AOSC OS med DPKG:"
 
 #: download/linux.twig:104
 msgid "To install LMMS on AOSC OS with RPM:"
-msgstr ""
+msgstr "För att installera LMMS på AOSC OS med RPM:"
 
 #: download/linux.twig:110
 msgid "Build LMMS from source"
@@ -268,10 +283,14 @@ msgid ""
 "href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS development wiki "
 "on GitHub</a> for instructions on how to compile LMMS for Linux."
 msgstr ""
+"Om din Linux-distribution inte tillhandahåller ett LMMS-paket (eller "
+"erbjuder en föråldrad version) kan du bygga LMMS själ. Besök <a "
+"href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS utvecklingswiki på"
+" GitHub</a> för instruktioner om hur man kompilerar LMMS för Linux."
 
 #: home.twig:11
 msgid "Let's make music"
-msgstr "\"Let's make music\""
+msgstr "Skapa musik"
 
 #: home.twig:12
 msgid "with a free, cross-platform tool for your computer."
@@ -287,7 +306,7 @@ msgstr "Hjälp till"
 
 #: home.twig:27
 msgid "Making beats has never been easier."
-msgstr "Göra beats har aldrig varit enklare."
+msgstr "Enklare än så här blir det inte."
 
 #: home.twig:32
 msgid "Produce music with your computer"
@@ -298,12 +317,12 @@ msgid ""
 "by creating melodies and beats, synthesizing and mixing sounds, arranging "
 "samples and much more."
 msgstr ""
-"genom att skapa melodier och beats, skapa och blanda ljud, arrangera "
-"samplingar och mycket mer."
+"genom att skapa melodier och takter, syntetisera och mixa ljud, arrangera "
+"samplingar, och mycket mer."
 
 #: home.twig:37
 msgid "Playback instruments, samples and plugins"
-msgstr "Spela upp instrument, samplingar och plugins"
+msgstr "Spela upp instrument, samplingar och insticksmoduler"
 
 #: home.twig:38
 msgid ""
@@ -314,15 +333,15 @@ msgstr ""
 
 #: home.twig:42
 msgid "Bundled with ready-to-use content"
-msgstr ""
+msgstr "Använd massor med inbyggt material"
 
 #: home.twig:43
 msgid ""
 "from an assortment of instrument and effect plugins, presets and samples to "
 "VST and SoundFont support."
 msgstr ""
-"från ett urval av instrument- och effekt-plugins, presets och samplingar "
-"till VST- och SoundFont-stöd."
+"från ett urval av instrument- och effekt-insticksmoduler, presets och "
+"samplingar, till VST- och SoundFont-stöd."
 
 #: home.twig:52
 msgid "Made by musicians, for musicians."
@@ -342,15 +361,15 @@ msgstr "Hämta för MacOS"
 
 #: home.twig:59
 msgid "Pick your flavor."
-msgstr "Välj din smak."
+msgstr "Oavsätt operativsystem."
 
 #: home.twig:60
 msgid "Linux, Windows or macOS."
-msgstr "Linux, Windows eller MacOS"
+msgstr "LMMS funkar på Linux, Windows och MacOS"
 
 #: home.twig:69
 msgid "Houston, we have a problem."
-msgstr "Houston, vi har ett problem."
+msgstr "Houston, we have a problem."
 
 #: home.twig:70
 msgid "Stand by, we got you covered."
@@ -378,11 +397,11 @@ msgstr "Ställ dina frågor här"
 
 #: home.twig:78
 msgid "and answer a few questions while you're waiting."
-msgstr "och svara på ett par frågor medan du väntar."
+msgstr "och svara på några medan du väntar."
 
 #: home.twig:85
 msgid "Sharing means caring."
-msgstr "Att dela betyder att bry sig."
+msgstr "Att dela med sig är grymt."
 
 #: home.twig:90
 msgid "Find musicians"
@@ -398,7 +417,7 @@ msgstr "Var inte blyg."
 
 #: home.twig:93
 msgid "Show us your creations."
-msgstr "Visa oss dina skapelser."
+msgstr "Visa upp dina skapelser."
 
 #: home.twig:101
 msgid "We <3 open source."
@@ -406,12 +425,12 @@ msgstr "Vi <3 open source."
 
 #: home.twig:106
 msgid "Fork us on Github"
-msgstr "Forka oss på Github"
+msgstr "Dela oss på Github"
 
 #: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community-driven project."
-msgstr "LMMS är ett 100% fritt gemenskapsdrivet projekt med öppen källkod."
+msgstr "LMMS är ett 100% gratis gemenskapsdrivet projekt med öppen källkod."
 
 #: home.twig:109
 msgid "Proudly hosted on Github."
@@ -452,11 +471,13 @@ msgstr "Spela med hjälp av MIDI-keyboard eller tangentbord"
 
 #: home.twig:158
 msgid "Consolidate instrument tracks using Beat+Bassline Editor"
-msgstr "Konsolidera instrumentspår med Beat+Bassline Editor"
+msgstr "Konsolidera instrumentspår med Takt+Basgång-redigeraren"
 
 #: home.twig:159
 msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
-msgstr "Finjustera mönster, noter, ackord och melodier med Piano Roll Editor"
+msgstr ""
+"Finjustera mönster, noter, ackord och melodier med redigeraren för "
+"Pianorulle"
 
 #: home.twig:160
 msgid ""
@@ -496,8 +517,9 @@ msgid ""
 "Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
 "additive, subtractive and pad synthesis all in one powerful plugin"
 msgstr ""
-"Inbäddad ZynAddSubFx: Polyfonisk, mutlitimbral, mikrotonal, multi-röst "
-"additiv, subtraktiv och PAD syntes, allt i en enda synt"
+"Inbäddat ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
+"additive, subtraktive och pad syntesis, allt i en enda kraftfull "
+"insticksmodul"
 
 #: home.twig:178
 msgid ""
@@ -526,7 +548,7 @@ msgstr ""
 
 #: home.twig:195
 msgid "Bundled graphic and parametric equalizers"
-msgstr "Medföljande grafiska och parametriska equalizers"
+msgstr "Medföljande grafiska och parametriska utjämnare"
 
 #: home.twig:196
 msgid "Built-in visualization/spectrum analyzer"
@@ -550,7 +572,7 @@ msgstr "Installera LMMS på Linux"
 
 #: download/index.twig:52
 msgid "Click one of the buttons below to download LMMS for Linux."
-msgstr ""
+msgstr "Klicka på en av knapparna nedan för att hämta LMMS för Linux."
 
 #: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:77
 #: download/index.twig:80
@@ -563,6 +585,8 @@ msgid ""
 "Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
 "<code>.AppImage</code> executable before running"
 msgstr ""
+"Kör <code>chmod +x ~/Downloads/*.AppImage</code> för att ställa in "
+"<code>.AppImage</code> körbar innan du kör"
 
 #: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:110
 #: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:185
@@ -606,7 +630,7 @@ msgstr "Föregående utgåvor"
 
 #: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:427
 msgid "Show release notes"
-msgstr ""
+msgstr "Visa versionsanteckningar"
 
 #: showcase.twig:6 navbar.php:12
 msgid "Showcase"
@@ -618,11 +642,11 @@ msgstr "Låtar gjorda med LMMS"
 
 #: showcase.twig:12
 msgid "The Best of LMMS Vol. 5 by LMMS Artists"
-msgstr ""
+msgstr "Bästa av LMMS Vol. 5 av LMMS-artister"
 
 #: showcase.twig:20
 msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr ""
+msgstr "Det bästa av LMMS vol. 4 av LMMS-artister"
 
 #: showcase.twig:28
 msgid "The Best of LMMS Vol.3 by LMMS Artists"
@@ -654,10 +678,13 @@ msgid ""
 "still download releases on <a "
 "href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 msgstr ""
+"Vi är ledsna, något gick fel vid hämtningen av den senaste versionens info. "
+"Du kan fortfarande hämta utgåvor på <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 
-#: foot.twig:24
+#: foot.twig:27
 msgid "Powered by"
-msgstr ""
+msgstr "Drivs av"
 
 #: branding.twig:6 navbar.php:14
 msgid "Branding"
@@ -669,7 +696,7 @@ msgstr "Hämta LMMS-grafik"
 
 #: branding.twig:8
 msgid "LMMS Logo"
-msgstr "LMMS Logo"
+msgstr "LMMS-logo"
 
 #: branding.twig:8 branding.twig:17
 msgid "LMMS Development Team"
@@ -690,17 +717,53 @@ msgstr ""
 
 #: competitions.twig:13
 msgid "Current competitions:"
-msgstr "Aktuella samlingar:"
+msgstr "Aktuella tävlingar:"
 
-#: competitions.twig:15
+#: competitions.twig:16
+msgid "The Best of LMMS vol. VI"
+msgstr "Det bästa av LMMS vol. VI"
+
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:75
+msgid ""
+"We are proud to present to you The Best of LMMS contest volume 6!\n"
+"\t\t\tThe contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight\n"
+"\t\t\t(23:59.59 UTC Time) on April 2nd for a chance to be featured on the BoL v6 album. The compilation will be uploaded to Bandcamp, with all profits going towards LMMS' further development.\n"
+"\n"
+"\t\t\t[Submit here](https://goo.gl/forms/lNmexmoqWiwiKDUf1)\n"
+"\t\t\t#### Competition rules:\n"
+"\t\t\t1. **The Deadline:**\n"
+"\t\t\t\t- Track must be submitted by April 2nd 2019 at 23:59.59 UTC using [this form](https://goo.gl/forms/lNmexmoqWiwiKDUf1).\n"
+"\t\t\t2. **The Track:**\n"
+"\t\t\t\t- Must be produced in LMMS.\n"
+"\t\t\t\t- You may use other programs for mastering and post processing.\n"
+"\t\t\t\t- Must be under 10 minutes long.\n"
+"\t\t\t\t- No winning tracks from previous Best of LMMS albums allowed.\n"
+"\t\t\t\t- No remixes allowed.\n"
+"\t\t\t3. **The Submissions:**\n"
+"\t\t\t\t- You must submit using this form only.\n"
+"\t\t\t\t- No more than ONE entry per artist is allowed.\n"
+"\t\t\t\t- Collaborations count as ONE entry for each artist involved.\n"
+"\t\t\t\t- No collaborating with judges on entries.\n"
+"\t\t\t\t- Only submissions hosted on Soundcloud, YouTube, or Clyp are allowed.\n"
+"\t\t\t\t - The full track should be available at the submission link provided\n"
+"\t\t\t\t- Your entry must be available for listening until the end of the judging process. If not, your entry will be disqualified.\n"
+"\t\t\t4. **The Judges:**\n"
+"\t\t\t\t-The jury consists of: Abludo, Dystany, Heavenity Princess, Jacoby Davis, Pyrif, and Spekular.\n"
+"\t\t\t5. **The Judging:**\n"
+"\t\t\t\t- After the deadline, the judges will make their decisions and release the results within 14 days.\n"
+"\t\t\t6. **Release:**\n"
+"\t\t\t\t- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love."
+msgstr ""
+
+#: competitions.twig:55
 msgid "Past competitions:"
 msgstr "Tidigare tävlingar:"
 
-#: competitions.twig:18
+#: competitions.twig:58
 msgid "The Best of LMMS vol. V"
-msgstr ""
+msgstr "Det Bästa av LMMS vol. V"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:80
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:132
 msgid ""
 "#### The competition has ended on **April 16th, 2018**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
@@ -715,7 +778,7 @@ msgid ""
 "\t\t\tThe contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight\n"
 "\t\t\t(23:59.59) on April 16th (UTC time) for a chance to be featured on the BoL v5 album. The compilation will be uploaded to Bandcamp, with all\n"
 "\t\t\tprofits going towards LMMS' further development.\n"
-"\t\t\t\n"
+"\n"
 "\t\t\t[Submit here](https://goo.gl/47ZXq1)\n"
 "\t\t\t#### Competition rules:\n"
 "\t\t\t1. **The Deadline:**\n"
@@ -743,11 +806,11 @@ msgid ""
 "\t\t\t\\* *This year the judging process has changed, to ensure fairer handling of entries. The change to one submission only is to allow each and every entry to be fully scored by the panel of judges. This was previously handled by a preliminary screening round to help cut down the large amount of entries received. By lowering the amount of up-front entries allowed, the judges will have the time to fully score each track entered.*"
 msgstr ""
 
-#: competitions.twig:71
+#: competitions.twig:111
 msgid "The Best of LMMS vol. IV"
 msgstr "The Best of LMMS vol. IV"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:144
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:196
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -823,11 +886,11 @@ msgstr ""
 "\t\t\t  - De 25 högst poängsatta låtarna kommer ges ut på ett samlingsalbum på Bandcamp med priset \"Betala det du vill\".\n"
 "\t\t\t\t\tAlla mottagna pengar kommer doneras för vidare utveckling till LMMS, programmet vi älskar."
 
-#: competitions.twig:119
+#: competitions.twig:159
 msgid "The Best of LMMS vol. III"
 msgstr "The Best of LMMS vol. III"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:205
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:257
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -879,11 +942,11 @@ msgstr ""
 "\t\t\t5. Lansering. Samlingen kommer släpas på en dedikerad Bandcamp-sida med priset “Betala vad du vill”. Alla insamlade pengar\n"
 "\t\t\t\tkommer doneras till framtida utveckling av LMMS, programmet vi älskar."
 
-#: competitions.twig:155
+#: competitions.twig:195
 msgid "The Best of LMMS vol. II"
 msgstr "The Best of LMMS vol. II"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:254
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:306
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -933,11 +996,11 @@ msgstr ""
 "\t\t\ttext så du inte vet från vem eller hur många feedback'en kommer från. Observera att det inte är garanterat att få någon feedback, detta beror helt på hur mycket tid domarna har.\n"
 "\t\t\tObservera också att domarna bara är vanliga LMMS-artister och oberoende av vilken feedback du får så är domarnas beslut av samlingslåtar slutgiltigt."
 
-#: competitions.twig:190
+#: competitions.twig:230
 msgid "The Best of LMMS vol. I"
 msgstr "The Best of LMMS vol. I"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:302
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:354
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
@@ -1007,7 +1070,7 @@ msgstr "Windows ikon-format"
 
 #: artwork.php:65
 msgid "Apple Icon Format"
-msgstr "Apples ikon-format"
+msgstr "Apples ikonformat"
 
 #: artwork.php:66
 msgid "Unknown File"

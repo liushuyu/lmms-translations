@@ -2,24 +2,24 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
-# shuyu liu <liushuyu011@gmail.com>, 2019
-# 
-#, fuzzy
+# liushuyu011 <liushuyu011@gmail.com>, 2019
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-02 14:12-0700\n"
-"PO-Revision-Date: 2017-06-13 14:13+0000\n"
-"Last-Translator: shuyu liu <liushuyu011@gmail.com>, 2019\n"
+"POT-Creation-Date: 2019-03-08 11:40-0700\n"
+"PO-Revision-Date: 2019-05-28 15:31-0600\n"
+"Last-Translator: liushuyu <liushuyu011@gmail.com>\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/lmms/teams/61632/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: get-involved.twig:6 navbar.php:7
 msgid "Get Involved"
@@ -130,8 +130,7 @@ msgid "Mailing List"
 msgstr "邮件列表"
 
 #: get-involved.twig:89
-msgid ""
-"Posting to the mailing list is the best way to reach out to our developers:"
+msgid "Posting to the mailing list is the best way to reach out to our developers:"
 msgstr "邮件列表是和我们的开发者交流的最佳场所："
 
 #: get-involved.twig:90
@@ -164,9 +163,7 @@ msgid "We host a forum for our users here on this website:"
 msgstr "我们为用户们开设了论坛："
 
 #: get-involved.twig:131
-msgid ""
-"For reporting a bug or suggesting a new feature, please use the GitHub issue"
-" tracker:"
+msgid "For reporting a bug or suggesting a new feature, please use the GitHub issue tracker:"
 msgstr "如果您要报告 bug 或者建议加入新的功能，请使用 GitHub 的问题追踪系统："
 
 #: download/linux.twig:6
@@ -178,9 +175,7 @@ msgstr ""
 "\t如果您的发行版没有列在这个列表上的话，请<a href=\"get-involved/#contact\">联系我们</a>。"
 
 #: download/linux.twig:48
-msgid ""
-"For installing LMMS on Debian based distributions such as Debian itself, "
-"Ubuntu or Linux Mint, just click the button below."
+msgid "For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below."
 msgstr "要在基于 Debian 的发行版如 Debian，Ubuntu 或 Linux Mint 上安装 LMMS，单击下面按钮即可。"
 
 #: download/linux.twig:53
@@ -196,29 +191,16 @@ msgid "If this doesn't work for you, run this command in a terminal."
 msgstr "如果此方法不管用，请在终端中运行以下命令。"
 
 #: download/linux.twig:59
-msgid ""
-"If the traditional repositories lag behind on versions, try the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>."
-msgstr ""
-"如果系统自带的软件源当中的 LMMS 版本太旧，您可以试试 <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"软件源</a>。"
+msgid "If the traditional repositories lag behind on versions, try the <a href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio repository</a>."
+msgstr "如果系统自带的软件源当中的 LMMS 版本太旧，您可以试试 <a href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio 软件源</a>。"
 
 #: download/linux.twig:60 download/linux.twig:81
 msgid "VST Support"
 msgstr "VST 支持"
 
 #: download/linux.twig:61
-msgid ""
-"If your distribution offers VST support (requires the installation of Wine) "
-"it is generally offered in a separate package.  For example, using the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>, run this command in a terminal."
-msgstr ""
-"如果您的发行版提供 VST 支持 （需要安装 Wine），一般来讲，此支持会在另外一个软件包中提供。比如，如果您使用的是 <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"软件源</a>，请在终端中运行以下命令。"
+msgid "If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the <a href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio repository</a>, run this command in a terminal."
+msgstr "如果您的发行版提供 VST 支持 （需要安装 Wine），一般来讲，此支持会在另外一个软件包中提供。比如，如果您使用的是 <a href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio 软件源</a>，请在终端中运行以下命令。"
 
 #: download/linux.twig:67 download/linux.twig:73
 msgid "Run the following command as root in a terminal:"
@@ -229,20 +211,12 @@ msgid "Run the following command in a terminal:"
 msgstr "在命令终端中运行下面指令："
 
 #: download/linux.twig:82
-msgid ""
-"For VST support, please see the <a "
-"href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
-msgstr ""
-"要想启用 VST 支持，请参见 <a href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch "
-"Linux 的 LMMS 参考页面</a>"
+msgid "For VST support, please see the <a href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
+msgstr "要想启用 VST 支持，请参见 <a href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch Linux 的 LMMS 参考页面</a>"
 
 #: download/linux.twig:99
-msgid ""
-"AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and "
-"more to come in the future), with VST support enabled by default on AMD64."
-msgstr ""
-"AOSC OS 在很多处理器架构的版本 (AMD64/x86_64, ARMv7, 未来会有更多) 中都包含了 LMMS，并且在 AMD64 "
-"架构上面默认启用了 VST 支持。"
+msgid "AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64."
+msgstr "AOSC OS 在很多处理器架构的版本 (AMD64/x86_64, ARMv7, 未来会有更多) 中都包含了 LMMS，并且在 AMD64 架构上面默认启用了 VST 支持。"
 
 #: download/linux.twig:100
 msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
@@ -261,15 +235,8 @@ msgid "Build LMMS from source"
 msgstr "从源码手动构建 LMMS"
 
 #: download/linux.twig:111
-msgid ""
-"If your Linux distribution does not provide a lmms package (or only an "
-"outdated one), you can still build LMMS from source. Visit the <a "
-"href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS development wiki "
-"on GitHub</a> for instructions on how to compile LMMS for Linux."
-msgstr ""
-"如果您的 Linux 发行版没有提供 LMMS 软件包 (或者版本很旧)，您可以手动从源码构建 LMMS。详情参见 <a "
-"href=\"https://github.com/LMMS/lmms/wiki/Compiling\">GitHub 上的 LMMS 开发 "
-"wiki</a>。"
+msgid "If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the <a href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS development wiki on GitHub</a> for instructions on how to compile LMMS for Linux."
+msgstr "如果您的 Linux 发行版没有提供 LMMS 软件包 (或者版本很旧)，您可以手动从源码构建 LMMS。详情参见 <a href=\"https://github.com/LMMS/lmms/wiki/Compiling\">GitHub 上的 LMMS 开发 wiki</a>。"
 
 #: home.twig:11
 msgid "Let's make music"
@@ -296,9 +263,7 @@ msgid "Produce music with your computer"
 msgstr "在您的电脑上"
 
 #: home.twig:33
-msgid ""
-"by creating melodies and beats, synthesizing and mixing sounds, arranging "
-"samples and much more."
+msgid "by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more."
 msgstr "通过制作旋律和节拍，合成和混合音频，安排音频片段等方法创作音乐。"
 
 #: home.twig:37
@@ -306,8 +271,7 @@ msgid "Playback instruments, samples and plugins"
 msgstr "乐器、采样、插件"
 
 #: home.twig:38
-msgid ""
-"with a typing or MIDI keyboard in a user-friendly and modern interface."
+msgid "with a typing or MIDI keyboard in a user-friendly and modern interface."
 msgstr "与电脑键盘或 MIDI 键盘配合组成一个用户友好和现代的界面。"
 
 #: home.twig:42
@@ -315,9 +279,7 @@ msgid "Bundled with ready-to-use content"
 msgstr "附带了一些简单实用的东西"
 
 #: home.twig:43
-msgid ""
-"from an assortment of instrument and effect plugins, presets and samples to "
-"VST and SoundFont support."
+msgid "from an assortment of instrument and effect plugins, presets and samples to VST and SoundFont support."
 msgstr "从各种乐器、音效插件、预设及音频采样到 VST 和 SoundFont 支持等组成的易用工具集。"
 
 #: home.twig:52
@@ -454,9 +416,7 @@ msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
 msgstr "使用钢琴键排编辑器微调节奏，音符，和弦及旋律"
 
 #: home.twig:160
-msgid ""
-"Full user-defined track-based automation and computer-controlled automation "
-"sources"
+msgid "Full user-defined track-based automation and computer-controlled automation sources"
 msgstr "完全用户自定义，基于音轨由电脑控制的自动化源。"
 
 #: home.twig:161
@@ -468,33 +428,20 @@ msgid "Musical Instruments"
 msgstr "乐器"
 
 #: home.twig:175
-msgid ""
-"Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
-"Windows)"
+msgid "Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit Windows)"
 msgstr "内置 64 位 VST 乐器支持及 32 位 VST 兼容桥（64 位 Windows）"
 
 #: home.twig:176
-msgid ""
-"16 built in synthesizers, including emultations of Roland ® TB-303, "
-"Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip"
-" and more"
-msgstr ""
-"16 种内建波形合成器，包括但不限于对 Roland ® TB-303、Commodore 64 ® SID 微芯片、Nintendo ® NES、 "
-"Gameboy、 Yamaha ® OPL2 芯片的模拟"
+msgid "16 built in synthesizers, including emultations of Roland ® TB-303, Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip and more"
+msgstr "16 种内建波形合成器，包括但不限于对 Roland ® TB-303、Commodore 64 ® SID 微芯片、Nintendo ® NES、 Gameboy、 Yamaha ® OPL2 芯片的模拟"
 
 #: home.twig:177
-msgid ""
-"Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
-"additive, subtractive and pad synthesis all in one powerful plugin"
+msgid "Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice additive, subtractive and pad synthesis all in one powerful plugin"
 msgstr "内置 ZynAddSubFx：多声道，多音色，微分音，多音色递增，递减及补充合成的强大多合一插件"
 
 #: home.twig:178
-msgid ""
-"Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis "
-"UltraSound ® (GUS) formats for high quality instrument patches and banks"
-msgstr ""
-"原生多音源 SoundFont ® (SF2) 、Giga (GIG)、以及 Gravis UltraSound ® (GUS) "
-"等高质量乐器音色及音源库的支持。"
+msgid "Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis UltraSound ® (GUS) formats for high quality instrument patches and banks"
+msgstr "原生多音源 SoundFont ® (SF2) 、Giga (GIG)、以及 Gravis UltraSound ® (GUS) 等高质量乐器音色及音源库的支持。"
 
 #: home.twig:188
 msgid "Effects Mixing"
@@ -509,8 +456,7 @@ msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
 msgstr "自带 VST ® 音效插件支持 (Linux 和 Windows)"
 
 #: home.twig:194
-msgid ""
-"Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
+msgid "Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
 msgstr "内置压缩器，限幅器，延时，回响，变音以及重低音增强器"
 
 #: home.twig:195
@@ -526,9 +472,7 @@ msgid "Download LMMS"
 msgstr "下载 LMMS"
 
 #: download/index.twig:32
-msgid ""
-"Downloading and using LMMS is free! Just choose the operating system you "
-"want to run LMMS on:"
+msgid "Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:"
 msgstr "下载安装以及使用 LMMS 是免费的！只需在下面选择您将要运行 LMMS 的操作系统："
 
 #: download/index.twig:51
@@ -539,23 +483,15 @@ msgstr "在 Linux 上安装 LMMS"
 msgid "Click one of the buttons below to download LMMS for Linux."
 msgstr "点击下面的按钮下载 Linux 版本的 LMMS"
 
-#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:77
-#: download/index.twig:80
-#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:219
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:77 download/index.twig:80 /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:219
 msgid "Stable Versions"
 msgstr "稳定版本"
 
 #: download/index.twig:59
-msgid ""
-"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
-"<code>.AppImage</code> executable before running"
-msgstr ""
-"请执行<code>chmod +x "
-"~/Downloads/*.AppImage</code>这条指令来设置<code>.AppImage</code>的可执行属性。"
+msgid "Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the <code>.AppImage</code> executable before running"
+msgstr "请执行<code>chmod +x ~/Downloads/*.AppImage</code>这条指令来设置<code>.AppImage</code>的可执行属性。"
 
-#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:110
-#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:185
-#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:246
+#: /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:110 /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:185 /tmp/cache/twig/lmms.io/4d/4d3e356a7b63edc9b1c9c0baccfdac84a086195da92dcf3e9632422e96e742f1.php:246
 msgid "Beta Versions"
 msgstr "测试版本"
 
@@ -568,9 +504,7 @@ msgid "Install LMMS on Windows"
 msgstr "在 Windows 下安装 LMMS"
 
 #: download/index.twig:79
-msgid ""
-"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
-"Windows"
+msgid "Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows"
 msgstr "点击下面其中一个按钮（32 或 64 位）以下载 Windows 版本的 LMMS"
 
 #: download/index.twig:96
@@ -634,15 +568,10 @@ msgstr ""
 "烦请您尽快联系我们，并在 GitHub 上 <a href=\"//github.com/LMMS/lmms.io/issues/new\">回报错误</a>。"
 
 #: /tmp/cache/twig/lmms.io/b3/b3e63410a9484bebba0a59631095bc2c1361dd9d140eaaafc3915982d597681d.php:36
-msgid ""
-"We're sorry, something went wrong fetching the latest release info. You can "
-"still download releases on <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
-msgstr ""
-"非常抱歉，我们在获取最新版本信息时遇到了一些问题。不过您仍然可以在 <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a> 上面完成下载。"
+msgid "We're sorry, something went wrong fetching the latest release info. You can still download releases on <a href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+msgstr "非常抱歉，我们在获取最新版本信息时遇到了一些问题。不过您仍然可以在 <a href=\"//github.com/LMMS/lmms/releases\">GitHub</a> 上面完成下载。"
 
-#: foot.twig:24
+#: foot.twig:27
 msgid "Powered by"
 msgstr "服务器提供商"
 
@@ -678,15 +607,51 @@ msgstr "LMMS 社区官方举办的竞赛"
 msgid "Current competitions:"
 msgstr "当前竞赛："
 
-#: competitions.twig:15
+#: competitions.twig:16
+msgid "The Best of LMMS vol. VI"
+msgstr "LMMS 精选集 VI"
+
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:75
+msgid ""
+"We are proud to present to you The Best of LMMS contest volume 6!\n"
+"\t\t\tThe contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight\n"
+"\t\t\t(23:59.59 UTC Time) on April 2nd for a chance to be featured on the BoL v6 album. The compilation will be uploaded to Bandcamp, with all profits going towards LMMS' further development.\n"
+"\n"
+"\t\t\t[Submit here](https://goo.gl/forms/lNmexmoqWiwiKDUf1)\n"
+"\t\t\t#### Competition rules:\n"
+"\t\t\t1. **The Deadline:**\n"
+"\t\t\t\t- Track must be submitted by April 2nd 2019 at 23:59.59 UTC using [this form](https://goo.gl/forms/lNmexmoqWiwiKDUf1).\n"
+"\t\t\t2. **The Track:**\n"
+"\t\t\t\t- Must be produced in LMMS.\n"
+"\t\t\t\t- You may use other programs for mastering and post processing.\n"
+"\t\t\t\t- Must be under 10 minutes long.\n"
+"\t\t\t\t- No winning tracks from previous Best of LMMS albums allowed.\n"
+"\t\t\t\t- No remixes allowed.\n"
+"\t\t\t3. **The Submissions:**\n"
+"\t\t\t\t- You must submit using this form only.\n"
+"\t\t\t\t- No more than ONE entry per artist is allowed.\n"
+"\t\t\t\t- Collaborations count as ONE entry for each artist involved.\n"
+"\t\t\t\t- No collaborating with judges on entries.\n"
+"\t\t\t\t- Only submissions hosted on Soundcloud, YouTube, or Clyp are allowed.\n"
+"\t\t\t\t - The full track should be available at the submission link provided\n"
+"\t\t\t\t- Your entry must be available for listening until the end of the judging process. If not, your entry will be disqualified.\n"
+"\t\t\t4. **The Judges:**\n"
+"\t\t\t\t-The jury consists of: Abludo, Dystany, Heavenity Princess, Jacoby Davis, Pyrif, and Spekular.\n"
+"\t\t\t5. **The Judging:**\n"
+"\t\t\t\t- After the deadline, the judges will make their decisions and release the results within 14 days.\n"
+"\t\t\t6. **Release:**\n"
+"\t\t\t\t- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love."
+msgstr ""
+
+#: competitions.twig:55
 msgid "Past competitions:"
 msgstr "往期竞赛："
 
-#: competitions.twig:18
+#: competitions.twig:58
 msgid "The Best of LMMS vol. V"
 msgstr "LMMS 精选集 V"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:80
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:132
 msgid ""
 "#### The competition has ended on **April 16th, 2018**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
@@ -701,7 +666,7 @@ msgid ""
 "\t\t\tThe contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight\n"
 "\t\t\t(23:59.59) on April 16th (UTC time) for a chance to be featured on the BoL v5 album. The compilation will be uploaded to Bandcamp, with all\n"
 "\t\t\tprofits going towards LMMS' further development.\n"
-"\t\t\t\n"
+"\n"
 "\t\t\t[Submit here](https://goo.gl/47ZXq1)\n"
 "\t\t\t#### Competition rules:\n"
 "\t\t\t1. **The Deadline:**\n"
@@ -733,44 +698,43 @@ msgstr ""
 "\t\t\t您也可以 [在此](https://docs.google.com/spreadsheets/d/e/2PACX-1vQOjvIBp40ez-2QrPsGHt_LGY2XejaOFZrXWsgPVPXoH7w7QQriUV52_OeCQBL9tcOPlCxdUw2HC6Ud/pubhtml?gid=1958072675&single=true) 欣赏所有的获奖曲目。\n"
 "\t\t\t获奖者：\n"
 "\t\t\t<iframe width=\"100%\" height=\"350\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/519667455&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>\n"
-"\n"
-"\n"
 "\t\t\t#### 原竞赛简介：\n"
-"我们在此非常自豪地向您展示 LMMS 竞赛精选集 5！\n"
+"\t\t\t我们在此非常自豪地向您展示 LMMS 竞赛精选集 IV！\n"
 "\t\t\t该竞赛目的在于鼓励社区成员创作并分享音乐。请在 2018 年 4 月 16 日 23 时 59 分 59 秒前（UTC 时间）在下方链接提交您的作品，\n"
-"\t\t\t您提交的作品将有机会被刊登在 LMMS 竞赛精选集 V 上。该精选集将被上传到 Bandcamp，所有在 Bandcamp 上获取\n"
+"\t\t\t您提交的作品将有机会被刊登在 LMMS 竞赛精选集 5 上。该精选集将被上传到 Bandcamp，所有在 Bandcamp 上获取\n"
 "\t\t\t的利润将赞助 LMMS 未来的开发。\n"
-"\t\t\t\n"
-"\t\t\t[在此提交作品](https://goo.gl/47ZXq1)\n"
+"\t\t\t本年度的投稿将通过 Google 表单处理。我们也将接受上传到 YouTube，Soundcloud 或 Clyp 上的作品。欲知竞赛\n"
+"\t\t\t规则详情请参阅提交表单：\n"
+"\t\t\thttps://goo.gl/47ZXq1\n"
 "\t\t\t#### 竞赛规则：\n"
 "\t\t\t1. **提交期限**\n"
 "\t\t\t  - 所有作品必须在 2018 年 4 月 16 日 23:59.59 前（UTC 时间）通过 [该表单](https://goo.gl/47ZXq1) 提交。\n"
 "\t\t\t2. **作品要求**\n"
-"\t\t\t\t- 必须使用 LMMS 创作。\n"
+"\t\t\t  - 必须使用 LMMS 创作。\n"
 "\t\t\t\t- 您可以使用其他软件进行母带处理和后期处理。\n"
 "\t\t\t\t- 作品长度必须在 10 分钟以下。\n"
 "\t\t\t\t- 不得使用之前在 LMMS 精选集上的获奖作品。\n"
-"\t\t\t\t- 不得使用重混音 (remix) 作品。\n"
+"\t\t\t\t- 不得使用重混音作品。\n"
 "\t\t\t3. **投稿**\n"
-"\t\t\t\t- 您必须使用此表单进行投稿。\n"
-"\t\t\t\t- 每个作者仅限**一份**投稿。*\n"
-"\t\t\t\t- 合作作品中每个参与艺术家作为**一份**投稿。*\n"
+"\t\t\t  - 您必须使用此表单进行投稿。\n"
+"\t\t\t\t- 每个作者仅限**一份**投稿。\n"
+"\t\t\t\t- 合作作品中每个参与艺术家作为**一份**投稿。\n"
 "\t\t\t\t- 只接受 Soundcloud，YouTube 或 Clyp 上上传的投稿。\n"
 "\t\t\t\t- 您的作品必须在裁判过程结束前可供欣赏，否则您的作品将被自动淘汰。\n"
 "\t\t\t4. **裁判**\n"
-"\t\t\t\t- 裁判团成员有：Dull Machine, Etorna_Z, Jernemies, Poleroyd, Umcaruje and Unfa。\n"
+"\t\t\t  - 裁判团成员有：Dull Machine, Etorna_Z, Jernemies, Poleroyd, Umcaruje 及 Unfa。\n"
 "\t\t\t5. **裁判过程**\n"
 "\t\t\t  - 裁判团将在提交期限后 14 天内作出裁判并公布结果。\n"
 "\t\t\t6. **作品公布**\n"
 "\t\t\t  - 前 25 位高分作品将被整理成专辑并发布在 Bandcamp 上，并由买家自定价格。所有从中获得的利润将用于支持 LMMS 的未来开发。\n"
 "\n"
-"\t\t\t\\* *今年为了竞赛更加公平，裁判过程有些变动。为了能让裁判团完整地评判每一份作品，今年每人只能提交一份投稿。在这之前，我们有过一个“预选”环节用以淘汰大部分的投稿从而减少裁判团后期的工作量。今年的竞赛通过减少允许的投稿量来确保裁判们有充足的时间完整且公正地评判每一份作品。*"
+"\t\t\t\\* *今年为了更加公平地评判提交的作品，我们的评选过程发生了变化。选手今年仅能提交一份投稿，此举是为了让裁判团能完整地评价每一份投稿。在此之前，为了缩小评判范围，我们有过一个很粗略的海选阶段。通过减少投稿数量，裁判们能有更多时间评判每一份作品。 *"
 
-#: competitions.twig:71
+#: competitions.twig:111
 msgid "The Best of LMMS vol. IV"
 msgstr "LMMS 精选集 IV"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:144
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:196
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -845,11 +809,11 @@ msgstr ""
 "\t\t\t  - 前 25 位高分作品将被整理成专辑并发布在 Bandcamp 上，并由买家自定价格。\n"
 "\t\t\t\t\t所有从中获得的利润将用于支持 LMMS 的未来开发。"
 
-#: competitions.twig:119
+#: competitions.twig:159
 msgid "The Best of LMMS vol. III"
 msgstr "LMMS 精选集 III"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:205
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:257
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -899,11 +863,11 @@ msgstr ""
 "\t\t\t4. 裁判过程：裁判团将在提交期限后 14 天内作出裁判并公布结果。\n"
 "\t\t\t5. 作品公布：精选集将于一个 LMMS 艺术家专用的 Bandcamp 上公布，价格由买家自定。所有从中获得的利润将用于支持 LMMS 的未来开发。"
 
-#: competitions.twig:155
+#: competitions.twig:195
 msgid "The Best of LMMS vol. II"
 msgstr "LMMS 精选集 II"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:254
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:306
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -950,11 +914,11 @@ msgstr ""
 "\t\t\t能够保持未知。请注意，裁判不能保证给您的作品提出反馈，但他们会在时间允许的情况下尽可能提供反馈。\n"
 "\t\t\t另外还请理解，我们的裁判员是和您一样使用 LMMS 的艺术家，并且无论他们的反馈如何，针对您的作品的裁判结果不容争论。"
 
-#: competitions.twig:190
+#: competitions.twig:230
 msgid "The Best of LMMS vol. I"
 msgstr "LMMS 精选集 I"
 
-#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:302
+#: /tmp/cache/twig/lmms.io/e3/e337b6f0418e80cd2cd1a416643b7d123d0daaf28cb3110db14bc449374f29f5.php:354
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
