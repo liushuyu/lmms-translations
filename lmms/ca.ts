@@ -2822,7 +2822,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="667"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Silenci</translation>
     </message>
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="668"/>
@@ -2845,7 +2845,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="290"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Silenci</translation>
     </message>
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="298"/>
@@ -8600,7 +8600,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/core/Track.cpp" line="1925"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Silenci</translation>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1927"/>
@@ -8675,7 +8675,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="101"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Silenci</translation>
     </message>
 </context>
 <context>
@@ -8753,7 +8753,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="1679"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Silenci</translation>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1684"/>
@@ -11355,7 +11355,7 @@ Fent doble clic a qualsevol connector mostrarà informació sobre els ports.</tr
     <message>
         <location filename="../../plugins/papu/papu_instrument.cpp" line="112"/>
         <source>Treble</source>
-        <translation type="unfinished"/>
+        <translation>Aguts</translation>
     </message>
     <message>
         <location filename="../../plugins/papu/papu_instrument.cpp" line="113"/>
@@ -11505,12 +11505,12 @@ Fent doble clic a qualsevol connector mostrarà informació sobre els ports.</tr
     <message>
         <location filename="../../plugins/papu/papu_instrument.cpp" line="560"/>
         <source>Treble:</source>
-        <translation type="unfinished"/>
+        <translation>Aguts:</translation>
     </message>
     <message>
         <location filename="../../plugins/papu/papu_instrument.cpp" line="562"/>
         <source>Treble</source>
-        <translation type="unfinished"/>
+        <translation>Aguts</translation>
     </message>
     <message>
         <location filename="../../plugins/papu/papu_instrument.cpp" line="565"/>

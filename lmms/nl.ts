@@ -201,7 +201,7 @@ https://www.transifex.com/lmms/teams/61632/nl/</translation>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="525"/>
         <source>Enable ping-pong loop</source>
-        <translation type="unfinished"/>
+        <translation>Ping-pong herhalen inschakelen</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="527"/>
@@ -7873,7 +7873,7 @@ Reden: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="374"/>
         <source>Keep plugin windows on top when not embedded</source>
-        <translation type="unfinished"/>
+        <translation>Plugin-vensters bovenaan houden wanneer niet ingebed</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="382"/>
