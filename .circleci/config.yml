@@ -1,0 +1,16 @@
+version: 2.0
+jobs:
+  build:
+    docker:
+      - image: alpine:3.7
+    steps:
+      - checkout
+      - run:
+          name: Install Dependencies
+          command: |
+            apk update
+            apk add qt5-qttools-dev git bash
+      - run:
+          name: Validate translations
+          command: |
+            ./validate_locales
