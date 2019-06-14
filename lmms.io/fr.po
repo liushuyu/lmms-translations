@@ -135,6 +135,7 @@ msgstr ""
 "\t\t\t\t- après la date limite, les juges prendront leurs décisions et rendront leurs résultats sous 14 jours.\n"
 "\t\t\t6. **Publication :**\n"
 "\t\t\t\t- les 25 morceaux ayant les scores les plus hauts seront publiés sous forme d'un album sur Bandcamp à “prix libre“. Tous les montants perçus seront donnés pour les futurs développements de LMMS, le programme que nous aimons."
+
 #: competitions.twig:67
 msgid "The Best of LMMS vol. V"
 msgstr "Le meilleur de LMMS vol. V"
@@ -220,6 +221,7 @@ msgstr ""
 "\t\t\t\t- les 25 morceaux ayant les scores les plus hauts seront publiés sous forme d'un album sur Bandcamp à “prix libre“. Tous les montants perçus seront donnés pour les futurs développements de LMMS, le programme que nous aimons.\n"
 "\n"
 "\t\t\t\\* *Cette année, le processus d'évaluation a changé afin d'assurer un traitement plus équitable des soumissions. La modification pour une seule soumission est de permettre à chaque soumission d'être entièrement notée par le jury. Cette question était auparavant traitée dans le cadre d'une sélection préliminaire pour aider à réduire le grand nombre de soumissions reçues. En diminuant le nombre de soumissions initiales permises, les juges auront le temps de noter chaque piste soumise.*"
+
 #: competitions.twig:120
 msgid "The Best of LMMS vol. IV"
 msgstr "Le meilleur de LMMS vol. IV"
