@@ -805,7 +805,7 @@ msgstr ""
 
 #: home.twig:37
 msgid "Playback instruments, samples and plugins"
-msgstr "Spela upp instrument, samplingar och insticksmoduler"
+msgstr "Spela upp instrument, samplingar och tillägg"
 
 #: home.twig:38
 msgid ""
@@ -823,8 +823,8 @@ msgid ""
 "from an assortment of instrument and effect plugins, presets and samples to "
 "VST and SoundFont support."
 msgstr ""
-"från ett urval av instrument- och effekt-insticksmoduler, presets och "
-"samplingar, till VST- och SoundFont-stöd."
+"från ett urval av instrument- och effekt-tillägg, presets och samplingar, "
+"till VST- och SoundFont-stöd."
 
 #: home.twig:52
 msgid "Made by musicians, for musicians."
@@ -1001,8 +1001,7 @@ msgid ""
 "additive, subtractive and pad synthesis all in one powerful plugin"
 msgstr ""
 "Inbäddat ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
-"additive, subtraktive och pad syntesis, allt i en enda kraftfull "
-"insticksmodul"
+"additive, subtraktive och pad syntesis, allt i ett enda kraftfullt tillägg"
 
 #: home.twig:178
 msgid ""

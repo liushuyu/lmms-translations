@@ -1739,7 +1739,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="248"/>
         <source>&amp;Remove this plugin</source>
-        <translation>&amp;Ta bort den här insticksmodulen</translation>
+        <translation>&amp;Ta bort det här tillägget</translation>
     </message>
 </context>
 <context>
@@ -4294,7 +4294,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1657"/>
         <source>Plugin</source>
-        <translation>Insticksmodul</translation>
+        <translation>Tillägg</translation>
     </message>
 </context>
 <context>
@@ -4364,7 +4364,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaEffect.cpp" line="78"/>
         <source>Unknown LADSPA plugin %1 requested.</source>
-        <translation>Okänd LADSPA-insticksmodul %1 efterfrågad.</translation>
+        <translation>Okänt LADSPA-tillägg %1 efterfrågad.</translation>
     </message>
 </context>
 <context>
@@ -4649,7 +4649,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="117"/>
         <source>Preparing plugin browser</source>
-        <translation>Förbereder insticksmodulsbläddraren</translation>
+        <translation>Förbereder tilläggsbläddraren</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="119"/>
@@ -7193,7 +7193,7 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="117"/>
         <source>Failed to load plugin &quot;%1&quot;!</source>
-        <translation>Misslyckades att läsa in insticksmodulen &quot;%1&quot;!</translation>
+        <translation>Misslyckades att läsa in tillägget &quot;%1&quot;!</translation>
     </message>
 </context>
 <context>
@@ -7201,7 +7201,7 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="49"/>
         <source>Instrument Plugins</source>
-        <translation>Instrument insticksmoduler</translation>
+        <translation>Instrument-tillägg</translation>
     </message>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="52"/>
@@ -7219,7 +7219,7 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/core/PluginFactory.cpp" line="127"/>
         <source>Plugin not found.</source>
-        <translation>Insticksmodulen hittades inte.</translation>
+        <translation>Tillägget hittades inte.</translation>
     </message>
     <message>
         <location filename="../../src/core/PluginFactory.cpp" line="172"/>
@@ -7552,67 +7552,67 @@ Orsak: &quot;%2&quot;</translation>
 <context>
     <name>SampleBuffer</name>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="288"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="293"/>
         <source>Fail to open file</source>
         <translation>Misslyckas med att öppna filen</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="289"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="294"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
         <translation>Ljudfiler är begränsade till %1 MB i storlek och %2 minuters speltid</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="973"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="978"/>
         <source>Open audio file</source>
         <translation>Öppna ljudfil</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1000"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1005"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Alla ljudfiler (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1002"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
         <source>Wave-Files (*.wav)</source>
         <translation>Wave-filer (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1003"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1008"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>OGG-filer (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1004"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>DrumSynth-filer (*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1005"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>FLAC-filer (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1006"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1011"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>SPEEX-filer (*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1014"/>
         <source>VOC-Files (*.voc)</source>
         <translation>VOC-filer (*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1015"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>AIFF-filer (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1011"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1016"/>
         <source>AU-Files (*.au)</source>
         <translation>AU-filer (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1012"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1017"/>
         <source>RAW-Files (*.raw)</source>
         <translation>RAW-filer (*.raw)</translation>
     </message>
@@ -7620,32 +7620,32 @@ Orsak: &quot;%2&quot;</translation>
 <context>
     <name>SampleTCOView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="327"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="333"/>
         <source>double-click to select sample</source>
         <translation>dubbelklicka för att välja ljudfil</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="344"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="350"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Ta bort (musens mitt-knapp)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="348"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="354"/>
         <source>Cut</source>
         <translation>Klipp ut</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="351"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="357"/>
         <source>Copy</source>
         <translation>Kopiera</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="353"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="359"/>
         <source>Paste</source>
         <translation>Klistra in</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="356"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="362"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Tysta/avtysta (&lt;%1&gt; + mittenklick)</translation>
     </message>
@@ -7653,18 +7653,18 @@ Orsak: &quot;%2&quot;</translation>
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="577"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="583"/>
         <source>Volume</source>
         <translation>Volym</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="579"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="585"/>
         <source>Panning</source>
         <translation>Panorering</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="580"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="582"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="586"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="588"/>
         <source>Sample track</source>
         <translation>Ljudspår</translation>
     </message>
@@ -7672,32 +7672,32 @@ Orsak: &quot;%2&quot;</translation>
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="776"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="785"/>
         <source>Track volume</source>
         <translation>Spårvolym</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="779"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="788"/>
         <source>Channel volume:</source>
         <translation>Kanalvolym:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="786"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="795"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="790"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="799"/>
         <source>Panning</source>
         <translation>Panorering</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="792"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="801"/>
         <source>Panning:</source>
         <translation>Panorering:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="794"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="803"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
@@ -7865,7 +7865,7 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="528"/>
         <source>VST-plugin directory</source>
-        <translation>Mapp för VST-insticksmoduler</translation>
+        <translation>Mapp för VST-tillägg</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="547"/>
@@ -7880,7 +7880,7 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="587"/>
         <source>LADSPA plugin directories</source>
-        <translation>Katalog för LADSPA-insticksmoduler</translation>
+        <translation>Katalog för LADSPA-tillägg</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="608"/>
@@ -8000,7 +8000,7 @@ Latens: %2 ms</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1404"/>
         <source>Choose your VST-plugin directory</source>
-        <translation>Välj mapp för dina VST-insticksmoduler</translation>
+        <translation>Välj mapp för dina VST-tillägg</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1436"/>
@@ -8010,7 +8010,7 @@ Latens: %2 ms</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1458"/>
         <source>Choose LADSPA plugin directory</source>
-        <translation>Välj mapp för LADSPA-insticksmoduler</translation>
+        <translation>Välj mapp för LADSPA-tillägg</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1480"/>
@@ -9022,12 +9022,12 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="507"/>
         <source>Control VST-plugin from LMMS host</source>
-        <translation>Kontrollera VST-insticksmodulen från LMMS-värd</translation>
+        <translation>Kontrollera VST-tillägget från LMMS-värd</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="510"/>
         <source>Click here, if you want to control VST-plugin from host.</source>
-        <translation>Klicka här om du vill styra VST-insticksmodulen från värd.</translation>
+        <translation>Klicka här om du vill styra VST-tillägget från värd.</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="523"/>
@@ -9037,7 +9037,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="526"/>
         <source>Click here, if you want to open another *.fxp, *.fxb VST-plugin preset.</source>
-        <translation>Klicka här om du vill öppna en annan *.fxp, *.FXB VST-insticksmodulsförinställning.</translation>
+        <translation>Klicka här om du vill öppna en annan *.fxp, *.FXB VST-tilläggsförinställning.</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="539"/>
@@ -9048,7 +9048,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
         <location filename="../../plugins/vestige/vestige.cpp" line="544"/>
         <location filename="../../plugins/vestige/vestige.cpp" line="578"/>
         <source>Click here, if you want to switch to another VST-plugin preset program.</source>
-        <translation>Klicka här om du vill byta till ett annat VST-insticksmodulsförinställningsprogram.</translation>
+        <translation>Klicka här om du vill byta till ett annat VST-tilläggsförinställningsprogram.</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="557"/>
@@ -9088,7 +9088,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="688"/>
         <source>Open VST-plugin</source>
-        <translation>Öppna VST-insticksmodul</translation>
+        <translation>Öppna VST-tillägget</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="692"/>
@@ -9103,7 +9103,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="894"/>
         <source>No VST-plugin loaded</source>
-        <translation>Ingen VST-insticksmodul inläst</translation>
+        <translation>Inget VST-tillägg inläst</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="902"/>
@@ -9149,7 +9149,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="106"/>
         <source>Click here, if you want to control VST-plugin from host.</source>
-        <translation>Klicka här om du vill styra VST-insticksmodulen från värd.</translation>
+        <translation>Klicka här om du vill styra VST-tillägget från värd.</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="122"/>
@@ -9159,7 +9159,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="125"/>
         <source>Click here, if you want to open another *.fxp, *.fxb VST-plugin preset.</source>
-        <translation>Klicka här om du vill öppna en annan *.fxp, *.fxb VST-insticksmodulsförinställning.</translation>
+        <translation>Klicka här om du vill öppna en annan *.fxp, *.fxb VST-tilläggsförinställning.</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="145"/>
@@ -9170,7 +9170,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="150"/>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="175"/>
         <source>Click here, if you want to switch to another VST-plugin preset program.</source>
-        <translation>Klicka här om du vill byta till ett annat VST-insticksmodulsförinställningsprogram.</translation>
+        <translation>Klicka här om du vill byta till ett annat VST-tilläggsförinställningsprogram.</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="170"/>
@@ -9210,7 +9210,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
         <location filename="../../plugins/vestige/vestige.cpp" line="352"/>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="144"/>
         <source>The VST plugin %1 could not be loaded.</source>
-        <translation>VST-insticksmodulen %1 kunde inte läsas in.</translation>
+        <translation>VST-tillägget %1 kunde inte läsas in.</translation>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="425"/>
@@ -9266,7 +9266,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="133"/>
         <source>Loading plugin</source>
-        <translation>Läser in insticksmodulen</translation>
+        <translation>Läser in tillägget</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="134"/>
@@ -10304,7 +10304,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="84"/>
         <source>Plugins</source>
-        <translation>Insticksmoduler</translation>
+        <translation>Tillägg</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="93"/>
@@ -11640,7 +11640,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/Amplifier/Amplifier.cpp" line="38"/>
         <source>A native amplifier plugin</source>
-        <translation>En inbyggd förstärkare-insticksmodul</translation>
+        <translation>En inbyggd förstärkare-tillägg</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="57"/>
@@ -11680,22 +11680,22 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/Delay/DelayEffect.cpp" line="38"/>
         <source>A native delay plugin</source>
-        <translation>En inbyggd fördröjning-insticksmodul</translation>
+        <translation>Ett inbyggt fördröjningstillägg</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilter.cpp" line="39"/>
         <source>A Dual filter plugin</source>
-        <translation>En Dual filter-insticksmodul</translation>
+        <translation>Ett Dual filter-tillägg</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor.cpp" line="40"/>
         <source>plugin for processing dynamics in a flexible way</source>
-        <translation>insticksmodul för dynamisk bearbetning på ett flexibelt sätt</translation>
+        <translation>tillägg för dynamisk bearbetning på ett flexibelt sätt</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqEffect.cpp" line="41"/>
         <source>A native eq plugin</source>
-        <translation>En inbyggd eq-insticksmodul</translation>
+        <translation>Ett inbyggt eq-tillägg</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerEffect.cpp" line="36"/>
@@ -11720,7 +11720,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_browser.cpp" line="52"/>
         <source>List installed LADSPA plugins</source>
-        <translation>Lista installerade LADSPA-insticksmoduler</translation>
+        <translation>Lista installerade LADSPA-tillägg</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaEffect.cpp" line="54"/>
@@ -11806,12 +11806,12 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SpectrumAnalyzer.cpp" line="37"/>
         <source>Graphical spectrum analyzer plugin</source>
-        <translation>Grafiska spektrumanalysator insticksmodul</translation>
+        <translation>Grafiska spektrumanalysator tillägg</translation>
     </message>
     <message>
         <location filename="../../plugins/stereo_enhancer/stereo_enhancer.cpp" line="38"/>
         <source>Plugin for enhancing stereo separation of a stereo input file</source>
-        <translation>Insticksmodul för att förbättra stereoseparation av en stereoingångsfil</translation>
+        <translation>Tillägg för att förbättra stereoseparation av en stereoingångsfil</translation>
     </message>
     <message>
         <location filename="../../plugins/stereo_matrix/stereo_matrix.cpp" line="38"/>
@@ -11851,7 +11851,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper.cpp" line="40"/>
         <source>plugin for waveshaping</source>
-        <translation>insticksmodul för vågformande</translation>
+        <translation>tillägg för vågformande</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="62"/>
@@ -12316,7 +12316,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="341"/>
         <source>Please wait while loading VST-plugin...</source>
-        <translation>Vänta medans VST-insticksmodulen läses in...</translation>
+        <translation>Vänta medans VST-tillägget läses in...</translation>
     </message>
 </context>
 <context>
