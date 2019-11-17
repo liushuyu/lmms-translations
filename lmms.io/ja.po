@@ -6,7 +6,7 @@
 # Translators:
 # Muimu Nakayama <muimu@tky2.3web.ne.jp>, 2017
 # fumi, 2017
-# 伊藤黎音 <nanodtmt@gmail.com>, 2018
+# 伊藤黎音 <nanodtmt@gmail.com>, 2019
 # 
 #, fuzzy
 msgid ""
@@ -15,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-28 15:50-0600\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
-"Last-Translator: 伊藤黎音 <nanodtmt@gmail.com>, 2018\n"
+"Last-Translator: 伊藤黎音 <nanodtmt@gmail.com>, 2019\n"
 "Language-Team: Japanese (https://www.transifex.com/lmms/teams/61632/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -54,7 +54,7 @@ msgstr "過去の大会"
 
 #: competitions.twig:17
 msgid "The Best of LMMS vol. VI"
-msgstr ""
+msgstr "The Best of LMMS vol. 6"
 
 #: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:91
 msgid ""

@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Hussam al-Homsi <sawuare@gmail.com>, 2018
+# Hussam al-Homsi <sawuare@gmail.com>, 2019
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-28 15:50-0600\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
-"Last-Translator: Hussam al-Homsi <sawuare@gmail.com>, 2018\n"
+"Last-Translator: Hussam al-Homsi <sawuare@gmail.com>, 2019\n"
 "Language-Team: Arabic (https://www.transifex.com/lmms/teams/61632/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,7 +32,7 @@ msgid ""
 "href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 msgstr ""
 "نحن آسفون، حدث خطأ أثناء جلب معلومات آخر إصدار. لا يزال بإمكانك تحميل "
-"إصدارات على <a href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+"الإصدارات على <a href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 
 #: competitions.twig:10 navbar.php:13
 msgid "Competitions"
@@ -52,7 +52,7 @@ msgstr "المنافسات المنصرمة:"
 
 #: competitions.twig:17
 msgid "The Best of LMMS vol. VI"
-msgstr ""
+msgstr "الأفضل من LMMS السادسة"
 
 #: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:91
 msgid ""
@@ -396,7 +396,7 @@ msgstr "مقاطع مصنوعة باستخدام LMMS"
 
 #: showcase.twig:12 showcase.twig:20
 msgid "The Best of LMMS Vol. 5 by LMMS Artists"
-msgstr ""
+msgstr "الأفضل من LMMS الخامسة بواسطة فناني LMMS"
 
 #: showcase.twig:28
 msgid "The Best of LMMS Vol. 4 by LMMS Artists"
@@ -783,7 +783,7 @@ msgstr ""
 
 #: home.twig:11
 msgid "Let's make music"
-msgstr "دعنا نصنع موسيقى"
+msgstr "هيا نصنع موسيقى"
 
 #: home.twig:12
 msgid "with a free, cross-platform tool for your computer."
@@ -920,7 +920,7 @@ msgstr "شعبنا على GitHub"
 #: home.twig:108
 #, php-format
 msgid "LMMS is a 100% free, open source, community-driven project."
-msgstr "LMMS مشروع مجاني، مفتوح المصدر، مدفوع من قبل المشترك 100%."
+msgstr "LMMS مشروع مجاني، مفتوح المصدر، مدفوع من قبل المجتمع 100%."
 
 #: home.twig:109
 msgid "Proudly hosted on Github."
@@ -1059,7 +1059,7 @@ msgstr "بنية محرر الصور GIMP"
 
 #: artwork.php:58
 msgid "Portable Document Format"
-msgstr "بنية الوثيقة القابلة للنقل"
+msgstr "بنية PDF"
 
 #: artwork.php:59
 msgid "Adobe Photoshop Format"
@@ -1067,15 +1067,15 @@ msgstr "بنية Adobe Photoshop"
 
 #: artwork.php:60
 msgid "PNG Format"
-msgstr "بنية رسوميات الشبكة المحمولة"
+msgstr "بنية PNG"
 
 #: artwork.php:62
 msgid "JPEG Format"
-msgstr "بنية مجموعة مؤسسة المحترفين الضوئيين"
+msgstr "بنية JPEG"
 
 #: artwork.php:63
 msgid "Bitmap Format"
-msgstr "بنية خريطة البت"
+msgstr "بنية Bitmap"
 
 #: artwork.php:64
 msgid "Windows Icon Format"

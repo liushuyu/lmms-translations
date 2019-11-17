@@ -39,17 +39,17 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="194"/>
         <source>Authors</source>
-        <translation>Oluşturanlar</translation>
+        <translation>Yazarlar</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="208"/>
         <source>Involved</source>
-        <translation type="unfinished"/>
+        <translation>İlişkin</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="214"/>
         <source>Contributors ordered by number of commits:</source>
-        <translation type="unfinished"/>
+        <translation>Katkıda bulunanların numara sırasına göre:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="229"/>
@@ -61,9 +61,9 @@
         <source>Current language not translated (or native English).
 
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation>Geçerli dil çevrilmemiş (ya da doğal İngilizce).
+        <translation>Geçerli dil çevrilmemiş (ya da yerel İngilizce).
 
-LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çevirileri geliştirmek isterseniz, bize yardımcı olmaya hoşgeldiniz! Yalnızca sorumluya ulaşın!</translation>
+LMMS&apos;yi başka bir dile çevirmekle ilgileniyorsanız veya mevcut çevirileri geliştirmek istiyorsanız, bize yardımcı olabilirsiniz! Yalnızca sorumluya ulaşın!</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="248"/>
@@ -101,7 +101,7 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="61"/>
         <source>Left gain:</source>
-        <translation>Sol yükseklik:</translation>
+        <translation>Sol kazanç:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="67"/>
@@ -111,7 +111,7 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="68"/>
         <source>Right gain:</source>
-        <translation>Sağ yükseklik:</translation>
+        <translation>Sağ kazanç:</translation>
     </message>
 </context>
 <context>
@@ -129,12 +129,12 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="40"/>
         <source>Left gain</source>
-        <translation>Sol yükseklik</translation>
+        <translation>Sol kazanç</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="41"/>
         <source>Right gain</source>
-        <translation>Sağ yükseklik</translation>
+        <translation>Sağ kazanç</translation>
     </message>
 </context>
 <context>
@@ -160,17 +160,17 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="472"/>
         <source>Click here, if you want to open another audio-file. A dialog will appear where you can select your file. Settings like looping-mode, start and end-points, amplify-value, and so on are not reset. So, it may not sound like the original sample.</source>
-        <translation>Başka ses dosyası açmak istiyorsanız burayı tıklatın. Dosyanızı açabileceğiniz bir iletişim kutusu belirecek. Döngüleme kipi gibi ayarlar, başlangıç ve bitiş noktaları, yükseltme değeri ve benzerleri sıfırlanmaz. Yani, ses özgün örnek gibi olmayabilir.</translation>
+        <translation>Başka ses dosyası açmak istiyorsanız burayı tıklayın. Dosyanızı açabileceğiniz bir iletişim kutusu belirecek. Döngü kipi, başlangıç ve bitiş noktaları, yükseltme değeri vb. ayarlar sıfırlanmaz. Yani ses, esas örnek gibi gelmeyebilir.</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="485"/>
         <source>Reverse sample</source>
-        <translation>Sample&apos;ı ters yüz et</translation>
+        <translation>Örneği ters çevir</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="487"/>
         <source>If you enable this button, the whole sample is reversed. This is useful for cool effects, e.g. a reversed crash.</source>
-        <translation>Bu düğmeyi etkinleştirirseniz, tüm örnek ters çevrilir. Bu harika etkiler için kullanışlıdır, örneğin ters çevrilmiş bir kaza.</translation>
+        <translation>Bu düğmeyi etkinleştirirseniz, tüm örnek ters çevrilir. Bu, harika etkiler için kullanışlıdır, örneğin ters çevrilmiş bir çarpma.</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="500"/>
@@ -180,7 +180,7 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="502"/>
         <source>This button disables looping. The sample plays only once from start to end. </source>
-        <translation>Bu düğme döngülemeyi etkisizleştirir. Örnek yalnızca bir kez baştan sona çalar. </translation>
+        <translation>Bu düğme döngülemeyi devre dışı bırakır. Örnek baştan sona sadece bir kez oynatılır.</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="513"/>
@@ -190,37 +190,37 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="515"/>
         <source>This button enables forwards-looping. The sample loops between the end point and the loop point.</source>
-        <translation>Bu düğme ileriye döngülemeyi etkinleştirir. Örnek döngüler bitiş noktası ve döngü noktası arasındadır.</translation>
+        <translation>Bu düğme ileriye doğru döngü yapmayı sağlar. Örnek, bitiş noktası ile döngü noktası arasında döngüler.</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="525"/>
         <source>Enable ping-pong loop</source>
-        <translation type="unfinished"/>
+        <translation>Ping-pong döngüsünü etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="527"/>
         <source>This button enables ping-pong-looping. The sample loops backwards and forwards between the end point and the loop point.</source>
-        <translation>Bu düğme masa tenisi döngülemesini etkinleştirir. Örnek döngüler bitiş noktası ve döngü noktası arasında ilerler ve geriler.</translation>
+        <translation>Bu düğme ping-pong döngü sağlar. Örnek, bitiş noktası ile döngü noktası arasında ileriye ve geriye doğru döngü yapar.</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="544"/>
         <source>Continue sample playback across notes</source>
-        <translation>Sample&apos;ı notalar arasın geçişlerde kaldığı yerden devam ettir</translation>
+        <translation>Örneği notalar arasında oynatmaya devam et</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="546"/>
         <source>Enabling this option makes the sample continue playing across different notes - if you change pitch, or the note length stops before the end of the sample, then the next note played will continue where it left off. To reset the playback to the start of the sample, insert a note at the bottom of the keyboard (&lt; 20 Hz)</source>
-        <translation>Bu seçeneğin etkinleştirilmesi örneğin farklı notaların karşısında sürekli oynamasını sağlar - perdeyi ya da örnek stops before the end of the sample, then the next note played will continue where it left off. To reset the playback to the start of the sample, insert a note at the bottom of the keyboard (&lt; 20 Hz)</translation>
+        <translation>Bu seçeneğin etkinleştirilmesi, örneğin farklı notalarda çalmaya devam etmesini sağlar - aralığı değiştirirseniz veya nota uzunluğu örneğin sonundan önce durursa, oynanan sonraki nota kaldığı yerden devam eder. Oynatmayı örneğin başlangıcına sıfırlamak için klavyenin altına bir not ekleyin (&lt; 20 Hz)</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="556"/>
         <source>Amplify:</source>
-        <translation>Sesi artır:</translation>
+        <translation>Ses artır:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="558"/>
         <source>With this knob you can set the amplify ratio. When you set a value of 100% your sample isn&apos;t changed. Otherwise it will be amplified up or down (your actual sample-file isn&apos;t touched!)</source>
-        <translation>Bu topuzla yükseltme değeri oranını ayarlayabilirsiniz. Bir değeri 100%&apos;ye ayarladığınızda örneğiniz değiştirilmez. Bunun dışında yükseltilebilir ya da düşürülebilir (gerçek örnek dosyanıza dokunulmaz!)</translation>
+        <translation>Bu düğmeyle yükseltme oranını ayarlayabilirsiniz. Bir değeri 100%&apos;ye ayarladığınızda örneğiniz değişmez. Aksi takdirde yükseltilecek ya da düşürülecektir (gerçek örnek dosyanıza dokunulmaz!)</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="565"/>
@@ -230,7 +230,7 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="567"/>
         <source>With this knob you can set the point where AudioFileProcessor should begin playing your sample. </source>
-        <translation>Bu topuzla AudioFileProcessor&apos;un örneğinizi çalmaya başlaması gerektiği noktayı ayarlayabilirsiniz. </translation>
+        <translation>Bu düğme ile AudioFileProcessor&apos;ün örneğinizi çalmaya başlaması gereken noktayı ayarlayabilirsiniz. </translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="572"/>
@@ -240,17 +240,17 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="574"/>
         <source>With this knob you can set the point where AudioFileProcessor should stop playing your sample. </source>
-        <translation>Bu topuzla AudioFileProcessor&apos;un örneğinizi çalmayı durdurması gerektiği noktayı ayarlayabilirsiniz. </translation>
+        <translation>Bu düğme ile AudioFileProcessor&apos;ün örneğinizi çalmayı durması gereken noktayı ayarlayabilirsiniz. </translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="579"/>
         <source>Loopback point:</source>
-        <translation>Döngü bitiş noktası:</translation>
+        <translation>Geri döngü noktası:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="581"/>
         <source>With this knob you can set the point where the loop starts. </source>
-        <translation>Bu topuzla döngü başlangıç noktasını ayarlayabilirsiniz. </translation>
+        <translation>Bu düğme ile döngünün başlangıç noktasını ayarlayabilirsiniz. </translation>
     </message>
 </context>
 <context>
@@ -258,7 +258,7 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="1024"/>
         <source>Sample length:</source>
-        <translation>Sample uzunluğu:</translation>
+        <translation>Örnek uzunluğu:</translation>
     </message>
 </context>
 <context>
@@ -281,12 +281,12 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="116"/>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation>JACK sunucusu kapanmış gözüküyor. Bağlantı için yeni bir istek yollanılamadı. Bu sebeplerden ötürü LMMS işinizi görmeye devam edemiyor. Lütfen projenizi kaydedin ve JACK ile LMMS&apos;i yeniden başlatın.</translation>
+        <translation>JACK sunucusu kapanmış gibi görünüyor ve yeni bir örnek başlatılamadı. Bu nedenle LMMS devam edemiyor. Projenizi kaydetmeli, JACK ve LMMS&apos;i yeniden başlatmalısınız.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="458"/>
         <source>CLIENT-NAME</source>
-        <translation>İSTEMCI ADI</translation>
+        <translation>İSTEMCİ ADI</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="470"/>
@@ -372,7 +372,7 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="67"/>
         <source>&amp;Reset (%1%2)</source>
-        <translation>&amp;Yeniden başlat (%1%2)</translation>
+        <translation>&amp;Sıfırla (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="74"/>
@@ -387,17 +387,17 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="88"/>
         <source>Edit song-global automation</source>
-        <translation>Şarkıya tanımlı ayarları düzenle</translation>
+        <translation>Global şarkı otomasyonunu düzenle</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="93"/>
         <source>Remove song-global automation</source>
-        <translation>Şarkıya tanımlı ayarları kaldır</translation>
+        <translation>Global şarkı otomasyonunu kaldır</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="102"/>
         <source>Remove all linked controls</source>
-        <translation>Bir yerlere ilişkilendirilmiş olan tüm kontrollerin bağlantılarını kaldır</translation>
+        <translation>Tüm bağlantılı kontrolleri kaldır</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="113"/>
@@ -430,7 +430,7 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1447"/>
         <source>Please open an automation pattern with the context menu of a control!</source>
-        <translation>Lütfen bir kontrolün üzerine sağ tıklayarak onun için bir ayarkayıt bölümü açın.</translation>
+        <translation>Lütfen bir kontrolün içerik menüsü ile bir otomasyon modeli açın!</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1978"/>
@@ -453,27 +453,27 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2222"/>
         <source>Click here if you want to play the current pattern. This is useful while editing it.  The pattern is automatically looped when the end is reached.</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut modeli oynamak istiyorsanız burayı tıklayın. Bu, düzenleme sırasında kullanışlıdır. Sona ulaşıldığında, model otomatik olarak döngülenir.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2226"/>
         <source>Stop playing of current pattern (Space)</source>
-        <translation>Seçili bölümü oynatmayı durdur (Boşluk Tuşu)</translation>
+        <translation>Seçili modeli oynatmayı durdur (Boşluk Tuşu)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2228"/>
         <source>Click here if you want to stop playing of the current pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut modelin oynatılmasını durdurmak istiyorsanız burayı tıklayın.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2232"/>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>İşlemleri düzenle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2235"/>
         <source>Draw mode (Shift+D)</source>
-        <translation>Yazım modu (Shift+D)</translation>
+        <translation>Çizim modu (Shift+D)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2239"/>
@@ -483,32 +483,32 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2242"/>
         <source>Flip vertically</source>
-        <translation>Dikey yönde çevir</translation>
+        <translation>Dikey çevir</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2243"/>
         <source>Flip horizontally</source>
-        <translation>Yatay yönde çevir</translation>
+        <translation>Yatay çevir</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2246"/>
         <source>Click here and the pattern will be inverted.The points are flipped in the y direction. </source>
-        <translation type="unfinished"/>
+        <translation>Buraya tıkladığınızda model ters çevrilecektir. Noktalar y yönünde çevrilir.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2249"/>
         <source>Click here and the pattern will be reversed. The points are flipped in the x direction.</source>
-        <translation type="unfinished"/>
+        <translation>Buraya tıkladığınızda model tersine çevrilecektir. Noktalar x yönünde çevrilir.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2257"/>
         <source>Click here and draw-mode will be activated. In this mode you can add and move single values.  This is the default mode which is used most of the time.  You can also press &apos;Shift+D&apos; on your keyboard to activate this mode.</source>
-        <translation type="unfinished"/>
+        <translation>Buraya tıkladığınızda çizim modu aktif hale gelecektir. Bu modda, tek değerler ekleyebilir ve taşıyabilirsiniz. Bu, çoğu zaman kullanılan varsayılan moddur. Bu modu etkinleştirmek için klavyenizdeki &apos;Shift + D&apos; tuşuna da basabilirsiniz.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2263"/>
         <source>Click here and erase-mode will be activated. In this mode you can erase single values. You can also press &apos;Shift+E&apos; on your keyboard to activate this mode.</source>
-        <translation type="unfinished"/>
+        <translation>Buraya tıkladığınızda silme modu aktif hale gelecektir. Bu modda, tek değerleri silebilirsiniz. Bu modu etkinleştirmek için klavyenizdeki &apos;Shift + E&apos; tuşlarına da basabilirsiniz.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2289"/>
@@ -518,37 +518,37 @@ LMMS&apos;yi başka bir dile çevirmekle ilgilenirseniz ya da varolan çeviriler
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2294"/>
         <source>Discrete progression</source>
-        <translation type="unfinished"/>
+        <translation>Kesikli ilerleme</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2298"/>
         <source>Linear progression</source>
-        <translation type="unfinished"/>
+        <translation>Doğrusal ilerleme</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2300"/>
         <source>Cubic Hermite progression</source>
-        <translation type="unfinished"/>
+        <translation>Kübik Hermite ilerleme</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2307"/>
         <source>Tension value for spline</source>
-        <translation>Sapma için gerginlik değeri</translation>
+        <translation>Sapma için gerilim değeri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2309"/>
         <source>A higher tension value may make a smoother curve but overshoot some values. A low tension value will cause the slope of the curve to level off at each control point.</source>
-        <translation type="unfinished"/>
+        <translation>Daha yüksek bir gerilim değeri daha yumuşak bir eğri oluşturabilir ancak bazı değerleri aşar. Düşük bir gerilim değeri, her kontrol noktasında eğrinin eğiminin düşmesine neden olur.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2317"/>
         <source>Click here to choose discrete progressions for this automation pattern.  The value of the connected object will remain constant between control points and be set immediately to the new value when each control point is reached.</source>
-        <translation type="unfinished"/>
+        <translation>Bu otomasyon modeli için kesikli ilerlemeleri seçmek için buraya tıklayın. Bağlı nesnenin değeri kontrol noktaları arasında sabit kalır ve her kontrol noktasına ulaşıldığında derhal yeni değere ayarlanır.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2323"/>
         <source>Click here to choose linear progressions for this automation pattern.  The value of the connected object will change at a steady rate over time between control points to reach the correct value at each control point without a sudden change.</source>
-        <translation type="unfinished"/>
+        <translation>Bu otomasyon modeli için doğrusal ilerlemeleri seçmek için buraya tıklayın. Bağlı nesnenin değeri, ani bir değişiklik olmadan her kontrol noktasında doğru değere ulaşmak için kontrol noktaları arasında zaman içinde sabit bir hızda değişecektir.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2329"/>
@@ -7031,7 +7031,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4120"/>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>İşlemleri düzenle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4124"/>
@@ -7549,67 +7549,67 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleBuffer</name>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="288"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="293"/>
         <source>Fail to open file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="289"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="294"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="973"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="978"/>
         <source>Open audio file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1000"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1005"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1002"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
         <source>Wave-Files (*.wav)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1003"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1008"/>
         <source>OGG-Files (*.ogg)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1004"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1005"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
         <source>FLAC-Files (*.flac)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1006"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1011"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1014"/>
         <source>VOC-Files (*.voc)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1015"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1011"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1016"/>
         <source>AU-Files (*.au)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1012"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1017"/>
         <source>RAW-Files (*.raw)</source>
         <translation type="unfinished"/>
     </message>
@@ -7617,32 +7617,32 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleTCOView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="327"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="333"/>
         <source>double-click to select sample</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="344"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="350"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Sil (orta klik)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="348"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="354"/>
         <source>Cut</source>
         <translation>Kes</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="351"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="357"/>
         <source>Copy</source>
         <translation>Kopyala</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="353"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="359"/>
         <source>Paste</source>
         <translation>Yapıştır</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="356"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="362"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
@@ -7650,18 +7650,18 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="577"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="583"/>
         <source>Volume</source>
         <translation>Ses Düzeyi</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="579"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="585"/>
         <source>Panning</source>
         <translation>Panning</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="580"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="582"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="586"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="588"/>
         <source>Sample track</source>
         <translation type="unfinished"/>
     </message>
@@ -7669,32 +7669,32 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="776"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="785"/>
         <source>Track volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="779"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="788"/>
         <source>Channel volume:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="786"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="795"/>
         <source>VOL</source>
         <translation>SES</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="790"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="799"/>
         <source>Panning</source>
         <translation>Panning</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="792"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="801"/>
         <source>Panning:</source>
         <translation>Panning:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="794"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="803"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
@@ -8338,7 +8338,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="676"/>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>İşlemleri düzenle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="679"/>

@@ -57,7 +57,7 @@ msgstr "Tidigare tävlingar:"
 
 #: competitions.twig:17
 msgid "The Best of LMMS vol. VI"
-msgstr "Det bästa av LMMS vol. VI"
+msgstr "Bästa av LMMS vol. VI"
 
 #: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:91
 msgid ""
@@ -102,7 +102,7 @@ msgstr ""
 
 #: competitions.twig:67
 msgid "The Best of LMMS vol. V"
-msgstr "Det Bästa av LMMS vol. V"
+msgstr "Bästa av LMMS vol. V"
 
 #: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:153
 msgid ""
@@ -149,7 +149,7 @@ msgstr ""
 
 #: competitions.twig:120
 msgid "The Best of LMMS vol. IV"
-msgstr "The Best of LMMS vol. IV"
+msgstr "Bästa av LMMS vol. IV"
 
 #: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:217
 msgid ""
@@ -229,7 +229,7 @@ msgstr ""
 
 #: competitions.twig:168
 msgid "The Best of LMMS vol. III"
-msgstr "The Best of LMMS vol. III"
+msgstr "Bästa av LMMS vol. III"
 
 #: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:278
 msgid ""
@@ -285,7 +285,7 @@ msgstr ""
 
 #: competitions.twig:204
 msgid "The Best of LMMS vol. II"
-msgstr "The Best of LMMS vol. II"
+msgstr "Bästa av LMMS vol. II"
 
 #: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:327
 msgid ""
@@ -339,7 +339,7 @@ msgstr ""
 
 #: competitions.twig:239
 msgid "The Best of LMMS vol. I"
-msgstr "The Best of LMMS vol. I"
+msgstr "Bästa av LMMS vol. I"
 
 #: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:375
 msgid ""
@@ -383,19 +383,19 @@ msgstr "Bästa av LMMS Vol. 5 av LMMS-artister"
 
 #: showcase.twig:28
 msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr "Det bästa av LMMS vol. 4 av LMMS-artister"
+msgstr "Bästa av LMMS vol. 4 av LMMS-artister"
 
 #: showcase.twig:36
 msgid "The Best of LMMS Vol.3 by LMMS Artists"
-msgstr "The Best of LMMS Vol.3 av LMMS-artister"
+msgstr "Bästa av LMMS Vol.3 av LMMS-artister"
 
 #: showcase.twig:44
 msgid "The Best of LMMS Vol.2 by LMMS Artists"
-msgstr "The Best of LMMS Vol.2 av LMMS-artister"
+msgstr "Bästa av LMMS vol.2 av LMMS-artister"
 
 #: showcase.twig:52
 msgid "The Best of LMMS Vol.1 by LMMS Artists"
-msgstr "The Best of LMMS Vol.1 av LMMS-artister"
+msgstr "Bästa av LMMS Vol.1 av LMMS-artister"
 
 #: get-involved.twig:6 navbar.php:7
 msgid "Get Involved"
@@ -557,7 +557,7 @@ msgstr ""
 
 #: errorpage.twig:6
 msgid "Error <b>%code%</b>"
-msgstr ""
+msgstr "Fel <b>%code%</b>"
 
 #: errorpage.twig:9
 msgid ""
@@ -852,7 +852,7 @@ msgstr "LMMS funkar på Linux, Windows och MacOS"
 
 #: home.twig:69
 msgid "Houston, we have a problem."
-msgstr "Houston, we have a problem."
+msgstr "Houston, vi har ett problem."
 
 #: home.twig:70
 msgid "Stand by, we got you covered."

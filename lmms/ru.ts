@@ -24,7 +24,7 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="118"/>
         <source>LMMS - easy music production for everyone</source>
-        <translation>LMMS - лёгкое создание музыки для всех</translation>
+        <translation>LMMS - лёгкое производство музыки для всех</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="144"/>
@@ -61,11 +61,7 @@
         <source>Current language not translated (or native English).
 
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation>Если Вы заинтересованы в переводе LMMS на другой язык или хотите улучшить существующий перевод, мы приветствуем любую помощь! Просто свяжитесь с разработчиками!
-
-Перевод выполнили:
-Alexey Kouznetsov &lt;alexey/dot/kouznetsov/at/gmail/dot/com&gt;
-Oe Ai &lt;oeai/at/symbiants/dot/com&gt;</translation>
+        <translation>Если Вы заинтересованы в переводе LMMS на другой язык или хотите улучшить существующий перевод, мы приветствуем любую помощь! Просто свяжитесь с разработчиками!</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="248"/>
@@ -212,7 +208,7 @@ Oe Ai &lt;oeai/at/symbiants/dot/com&gt;</translation>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="546"/>
         <source>Enabling this option makes the sample continue playing across different notes - if you change pitch, or the note length stops before the end of the sample, then the next note played will continue where it left off. To reset the playback to the start of the sample, insert a note at the bottom of the keyboard (&lt; 20 Hz)</source>
-        <translation>Включение этой опции продолжит воспроизведение записи по разным нотам - если изменить ускорение или длительность ноты остановится до конца записи, то со следующей ноты запись продолжится там, где остановилась, чтобы сбросить воспроизвдение на начало записи, вставьте ноту внизу у клавиш (&lt;20 Гц)</translation>
+        <translation>Включение этой опции продолжит воспроизведение записи по разным нотам - если изменить ускорение или длительность, ноты остановится до конца записи, то со следующей ноты запись продолжится там, где остановилась, чтобы сбросить воспроизвдение на начало записи, вставьте ноту внизу у клавиш (&lt;20 Гц).</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="556"/>
@@ -222,7 +218,7 @@ Oe Ai &lt;oeai/at/symbiants/dot/com&gt;</translation>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="558"/>
         <source>With this knob you can set the amplify ratio. When you set a value of 100% your sample isn&apos;t changed. Otherwise it will be amplified up or down (your actual sample-file isn&apos;t touched!)</source>
-        <translation>Эта ручка задаёт коэффициент усиления. При значении 100% исходный звук не меняется, в противном случае ― он будет ослаблен или усилен. (Обратите внимание, что исходная запись при этом останется нетронутой.)</translation>
+        <translation>Эта ручка задаёт коэффициент усиления. При значении 100% исходный звук не меняется, в противном случае ― он будет ослаблен или усилен. (При этом исходная запись при этом останется нетронутой.)</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="565"/>
@@ -5903,7 +5899,7 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
         <location filename="../../plugins/monstro/Monstro.cpp" line="1663"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1676"/>
         <source>Finetune left</source>
-        <translation type="unfinished"/>
+        <translation>Тонкая настройка слева</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1663"/>
@@ -5911,13 +5907,13 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
         <location filename="../../plugins/monstro/Monstro.cpp" line="1676"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1677"/>
         <source> cents</source>
-        <translation type="unfinished"/>
+        <translation>Проценты</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1664"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1677"/>
         <source>Finetune right</source>
-        <translation type="unfinished"/>
+        <translation>Тонкая настройка справа</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1665"/>
@@ -6379,12 +6375,12 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="508"/>
         <source>Channel 2 Envelope length</source>
-        <translation type="unfinished"/>
+        <translation>Длина огибающей канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="510"/>
         <source>Channel 2 Duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>Цикл режима канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="513"/>
@@ -6424,7 +6420,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="533"/>
         <source>Channel 4 Noise frequency sweep</source>
-        <translation type="unfinished"/>
+        <translation>Частота размаха канала 4</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="537"/>
@@ -6535,12 +6531,12 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="801"/>
         <source>Enable sweep 2</source>
-        <translation type="unfinished"/>
+        <translation>Включить размах 2</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="823"/>
         <source>Enable channel 3</source>
-        <translation type="unfinished"/>
+        <translation>Включить размах 3</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="830"/>
@@ -6550,17 +6546,17 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="832"/>
         <source>Frequency sweep</source>
-        <translation type="unfinished"/>
+        <translation>Частота размаха</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="834"/>
         <source>Enable channel 4</source>
-        <translation type="unfinished"/>
+        <translation>Включить канал 4</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="835"/>
         <source>Enable envelope 4</source>
-        <translation type="unfinished"/>
+        <translation>Включить огибающую 4</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="836"/>
@@ -6570,7 +6566,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="838"/>
         <source>Quantize noise frequency when using note frequency</source>
-        <translation type="unfinished"/>
+        <translation>Квантовать частоту шума при использовании частоты ноты</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="840"/>
@@ -6659,7 +6655,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="39"/>
         <source>Qsynth: Channel Preset</source>
-        <translation type="unfinished"/>
+        <translation>Преднастройка канала: Qsynth</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="67"/>
@@ -6760,7 +6756,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="631"/>
         <source>use mouse wheel to set velocity of a step</source>
-        <translation type="unfinished"/>
+        <translation>используйте колесо мыши, чтобы установить скорость шага</translation>
     </message>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="636"/>
@@ -6849,7 +6845,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="55"/>
         <source>AMNT</source>
-        <translation>ГЛУБ</translation>
+        <translation>ГЛУБ.</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="57"/>
@@ -6859,7 +6855,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="60"/>
         <source>MULT</source>
-        <translation>МНОЖ</translation>
+        <translation>МНОЖ.</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="62"/>
@@ -7115,7 +7111,7 @@ PM (ФМ) режим значит фазовая модуляция: Осцил�
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4127"/>
         <source>Pitch Bend mode (Shift+T)</source>
-        <translation type="unfinished"/>
+        <translation>Режим изгиба высоты тона (Shift + T)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4163"/>
@@ -7399,7 +7395,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="262"/>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Право</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="264"/>
@@ -7437,7 +7433,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="55"/>
         <source>Compressed MP3-File (*.mp3)</source>
-        <translation type="unfinished"/>
+        <translation>Сжатый mp3 файл (*.mp3)</translation>
     </message>
 </context>
 <context>
@@ -7599,67 +7595,67 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleBuffer</name>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="288"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="293"/>
         <source>Fail to open file</source>
         <translation>Не удается открыть файл</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="289"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="294"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
-        <translation type="unfinished"/>
+        <translation>Аудио файлы ограничены размером в %1 MB и в %2 минуты проигрывания</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="973"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="978"/>
         <source>Open audio file</source>
         <translation>Открыть звуковой файл</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1000"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1005"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Все аудио файлы (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1002"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
         <source>Wave-Files (*.wav)</source>
         <translation>Файлы Wave (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1003"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1008"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>Файлы OGG (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1004"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>Файлы DrumSynth (*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1005"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>Файлы FLAC (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1006"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1011"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>Файлы SPEEX (*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1014"/>
         <source>VOC-Files (*.voc)</source>
         <translation>Файлы VOC (*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1015"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>Файлы AIFF (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1011"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1016"/>
         <source>AU-Files (*.au)</source>
         <translation>Файлы AU (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1012"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1017"/>
         <source>RAW-Files (*.raw)</source>
         <translation>Файлы RAW (*.raw)</translation>
     </message>
@@ -7667,32 +7663,32 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleTCOView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="327"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="333"/>
         <source>double-click to select sample</source>
         <translation>Выберите запись двойным нажатием мыши</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="344"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="350"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Удалить (средняя кнопка мыши)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="348"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="354"/>
         <source>Cut</source>
         <translation>Вырезать</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="351"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="357"/>
         <source>Copy</source>
         <translation>Копировать</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="353"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="359"/>
         <source>Paste</source>
         <translation>Вставить</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="356"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="362"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Заглушить/включить (&lt;%1&gt; + средняя кнопка мыши)</translation>
     </message>
@@ -7700,18 +7696,18 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="577"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="583"/>
         <source>Volume</source>
         <translation>Громкость</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="579"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="585"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="580"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="582"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="586"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="588"/>
         <source>Sample track</source>
         <translation>Дорожка записи</translation>
     </message>
@@ -7719,32 +7715,32 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="776"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="785"/>
         <source>Track volume</source>
         <translation>Громкость дорожки</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="779"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="788"/>
         <source>Channel volume:</source>
         <translation>Громкость канала:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="786"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="795"/>
         <source>VOL</source>
-        <translation>ГРОМ</translation>
+        <translation>ГРОМК.</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="790"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="799"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="792"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="801"/>
         <source>Panning:</source>
         <translation>Баланс:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="794"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="803"/>
         <source>PAN</source>
         <translation>БАЛ</translation>
     </message>
@@ -7846,12 +7842,12 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="345"/>
         <source>Use built-in NaN handler</source>
-        <translation type="unfinished"/>
+        <translation>Использовать встроенный Nan обработчик</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="350"/>
         <source>PLUGIN EMBEDDING</source>
-        <translation type="unfinished"/>
+        <translation>ВСТРАИВАНИЕ ПЛАГИНОВ</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="356"/>
@@ -7876,7 +7872,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="374"/>
         <source>Keep plugin windows on top when not embedded</source>
-        <translation type="unfinished"/>
+        <translation>Держать окна плагинов поверху, если не встроены</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="382"/>
@@ -8255,7 +8251,7 @@ Remember to also save your project manually. You can choose to disable saving wh
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1100"/>
         <source>Version difference</source>
-        <translation>Версия отличается</translation>
+        <translation>Различия версий</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1101"/>
@@ -9346,22 +9342,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="239"/>
         <source>Panning A1</source>
-        <translation type="unfinished"/>
+        <translation>Панорамирование А1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="240"/>
         <source>Panning A2</source>
-        <translation type="unfinished"/>
+        <translation>Панорамирование А2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="241"/>
         <source>Panning B1</source>
-        <translation type="unfinished"/>
+        <translation>Панорамирование В1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="242"/>
         <source>Panning B2</source>
-        <translation type="unfinished"/>
+        <translation>Панорамирование В2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="244"/>
@@ -9501,7 +9497,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="696"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="697"/>
         <source>Left detune</source>
-        <translation type="unfinished"/>
+        <translation>Левая отстройка</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="694"/>
@@ -9513,7 +9509,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="701"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="702"/>
         <source> cents</source>
-        <translation type="unfinished"/>
+        <translation>Проценты</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="699"/>
@@ -9521,7 +9517,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="701"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="702"/>
         <source>Right detune</source>
-        <translation type="unfinished"/>
+        <translation>Правая отстройка</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="704"/>
@@ -9546,7 +9542,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="710"/>
         <source>Mix envelope decay</source>
-        <translation type="unfinished"/>
+        <translation>Смешивание затухания огибающей</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="712"/>
@@ -9556,22 +9552,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="729"/>
         <source>Select oscillator A1</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать генератор А1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="735"/>
         <source>Select oscillator A2</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать генератор А2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="741"/>
         <source>Select oscillator B1</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать генератор В1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="747"/>
         <source>Select oscillator B2</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать генератор В2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="762"/>
@@ -9596,7 +9592,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="793"/>
         <source>Mix output of B2 to B1</source>
-        <translation type="unfinished"/>
+        <translation>Смешать выходные из B2 в B1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="799"/>
@@ -9624,7 +9620,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="859"/>
         <source>Load waveform</source>
-        <translation type="unfinished"/>
+        <translation>Загрузить форму волны</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="863"/>
@@ -9639,7 +9635,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="869"/>
         <source>Click to shift phase by -15 degrees</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите для сдвига фазы на -15 градусов</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="871"/>
@@ -9649,7 +9645,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="875"/>
         <source>Click to shift phase by +15 degrees</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите для сдвига фазы на 15+ градусов</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="877"/>
@@ -9659,7 +9655,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="881"/>
         <source>Click to normalize</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите, чтобы нормализовать</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="884"/>
@@ -9669,7 +9665,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="888"/>
         <source>Click to invert</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите для инвертирования</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="890"/>
@@ -9679,7 +9675,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="894"/>
         <source>Click to smooth</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите для сглаживания</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="898"/>
@@ -9689,7 +9685,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="902"/>
         <source>Click for sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите для синусоидальной волны</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="904"/>
@@ -9700,12 +9696,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="908"/>
         <source>Click for triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите для треугольной волны</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="914"/>
         <source>Click for saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите для пикообразной волны</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="916"/>
@@ -9715,7 +9711,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="920"/>
         <source>Click for square wave</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите для прямоугольной волны</translation>
     </message>
 </context>
 <context>
@@ -9904,7 +9900,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="104"/>
         <source>Sinc</source>
-        <translation type="unfinished"/>
+        <translation>Синх</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="243"/>
@@ -10230,7 +10226,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="73"/>
         <source>Start from note</source>
-        <translation type="unfinished"/>
+        <translation>Стартовая нота</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="74"/>
@@ -10253,7 +10249,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="292"/>
         <source>Frequency Slope:</source>
-        <translation type="unfinished"/>
+        <translation>Частота наклона:</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="296"/>
@@ -10263,12 +10259,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="300"/>
         <source>Envelope Length:</source>
-        <translation type="unfinished"/>
+        <translation>Длина огибающей:</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="304"/>
         <source>Envelope Slope:</source>
-        <translation type="unfinished"/>
+        <translation>Наклон огибающей:</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="308"/>
@@ -10283,12 +10279,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="316"/>
         <source>Distortion Start:</source>
-        <translation type="unfinished"/>
+        <translation>Старт искажения:</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="320"/>
         <source>Distortion End:</source>
-        <translation type="unfinished"/>
+        <translation>Завершение искажения:</translation>
     </message>
 </context>
 <context>
@@ -10629,7 +10625,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="960"/>
         <source>Bandlimited saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Пикообразная волна с ограниченой полосой частот</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="967"/>
@@ -10639,7 +10635,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="970"/>
         <source>Bandlimited square wave</source>
-        <translation type="unfinished"/>
+        <translation>Прямоугольная волна с ограниченной полосой частот</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="977"/>
@@ -10649,12 +10645,12 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="980"/>
         <source>Bandlimited triangle wave</source>
-        <translation>Ограниченная треугольная волна</translation>
+        <translation>Ограниченная треугольная волна с ограниченной частотной полосой</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="987"/>
         <source>Click here for bandlimited triangle wave.</source>
-        <translation>Нажать здесь для треуголной волны с ограниченной полосой.</translation>
+        <translation>Нажать здесь для треугольной волны с ограниченной полосой частот.</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="990"/>
@@ -11651,7 +11647,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="39"/>
         <source>Qsynth: Channel Preset</source>
-        <translation type="unfinished"/>
+        <translation>Преднастройка канала: Qsynth</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="67"/>
@@ -11719,12 +11715,12 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/Bitcrush/Bitcrush.cpp" line="43"/>
         <source>An oversampling bitcrusher</source>
-        <translation type="unfinished"/>
+        <translation>Бит-дробилка с передискретизацией</translation>
     </message>
     <message>
         <location filename="../../plugins/carlapatchbay/carlapatchbay.cpp" line="36"/>
         <source>Carla Patchbay Instrument</source>
-        <translation type="unfinished"/>
+        <translation>Инструмент Carla Patchbay</translation>
     </message>
     <message>
         <location filename="../../plugins/carlarack/carlarack.cpp" line="36"/>
@@ -11734,7 +11730,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQ.cpp" line="38"/>
         <source>A 4-band Crossover Equalizer</source>
-        <translation type="unfinished"/>
+        <translation>4-полосный переходный эквалайзер</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayEffect.cpp" line="38"/>
@@ -11749,7 +11745,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor.cpp" line="40"/>
         <source>plugin for processing dynamics in a flexible way</source>
-        <translation type="unfinished"/>
+        <translation>Плагин для гибкой обработки динамики</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqEffect.cpp" line="41"/>
@@ -11809,7 +11805,7 @@ Double clicking any of the plugins will bring up information on the ports.</sour
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEcho.cpp" line="37"/>
         <source>A multitap echo delay plugin</source>
-        <translation type="unfinished"/>
+        <translation>Плагин мультитач задержки эха</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="47"/>
@@ -11896,7 +11892,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="53"/>
         <source>Vibrating string modeler</source>
-        <translation>Эмуляция вибрирующих струн</translation>
+        <translation>Модуляция вибрирующих струн</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="44"/>
@@ -12012,7 +12008,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="929"/>
         <source>Gain</source>
-        <translation>УСИЛ</translation>
+        <translation>УСИЛ.</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="942"/>

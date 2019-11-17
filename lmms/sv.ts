@@ -193,7 +193,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="525"/>
         <source>Enable ping-pong loop</source>
-        <translation type="unfinished"/>
+        <translation>Aktivera ping-pong loop</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="527"/>
@@ -664,7 +664,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="183"/>
         <source>Set/clear record</source>
-        <translation type="unfinished"/>
+        <translation>Sätt/rensa inspelning</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="186"/>
@@ -773,7 +773,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="183"/>
         <source>Open in Beat+Bassline-Editor</source>
-        <translation>Öppna Takt+Basgång-redigeraren</translation>
+        <translation>Öppna Takt+Basgång-Redigeraren</translation>
     </message>
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="190"/>
@@ -891,7 +891,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="64"/>
         <source>Input Noise:</source>
-        <translation type="unfinished"/>
+        <translation>Brus i ingång</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="72"/>
@@ -906,7 +906,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="78"/>
         <source>Output Clip:</source>
-        <translation type="unfinished"/>
+        <translation>Utmatnings klipp</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="82"/>
@@ -921,7 +921,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="87"/>
         <source>Depth Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Djup Aktiverat</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="90"/>
@@ -1064,7 +1064,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="332"/>
         <source>Cycle Detected.</source>
-        <translation type="unfinished"/>
+        <translation>Cykel Identifierad.</translation>
     </message>
 </context>
 <context>
@@ -1594,7 +1594,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/Effect.cpp" line="50"/>
         <source>Decay</source>
-        <translation>Förfall</translation>
+        <translation>Decay</translation>
     </message>
 </context>
 <context>
@@ -1672,12 +1672,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="70"/>
         <source>The Wet/Dry knob sets the ratio between the input signal and the effect signal that forms the output.</source>
-        <translation type="unfinished"/>
+        <translation>Vredet för Våt/Torr sätter förhållandet mellan ingångssignalen och effekt signalen som formar utgångsdatan.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="76"/>
         <source>DECAY</source>
-        <translation>FÖRFALL</translation>
+        <translation>DECAY</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="79"/>
@@ -1782,7 +1782,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="108"/>
         <source>LFO Predelay</source>
-        <translation type="unfinished"/>
+        <translation>LFO För-fördröjning</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="109"/>
@@ -2014,7 +2014,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="293"/>
         <source>MODULATE ENV-AMOUNT</source>
-        <translation type="unfinished"/>
+        <translation>MODULERA ENV-MÄNGD</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="298"/>
@@ -2167,7 +2167,7 @@ Right clicking will bring up a context menu where you can change the order in wh
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="61"/>
         <source>HP active</source>
-        <translation type="unfinished"/>
+        <translation>HP aktiv</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="62"/>
@@ -3773,7 +3773,7 @@ You can remove and move FX channels in the context menu, which is accessed by ri
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="68"/>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="95"/>
         <source>VELOCITY</source>
-        <translation>HASTIGHET</translation>
+        <translation>VELOCITET</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="80"/>
@@ -3803,17 +3803,17 @@ You can remove and move FX channels in the context menu, which is accessed by ri
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="142"/>
         <source>CUSTOM BASE VELOCITY</source>
-        <translation>ANPASSAD BASHASTIGHET</translation>
+        <translation>ANPASSAD BAS-VELOCITET</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="149"/>
         <source>Specify the velocity normalization base for MIDI-based instruments at 100% note velocity</source>
-        <translation type="unfinished"/>
+        <translation>Ange det grundvärde för normalisering av MIDI-velocitet som motsvarar 100% not-velocitet.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="156"/>
         <source>BASE VELOCITY</source>
-        <translation>BASHASTIGHET</translation>
+        <translation>BAS-VELOCITET</translation>
     </message>
 </context>
 <context>
@@ -4679,7 +4679,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="147"/>
         <source>Root directory</source>
-        <translation>Rotmapp</translation>
+        <translation>Root-mapp</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="151"/>
@@ -5174,12 +5174,12 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="53"/>
         <source>Fixed input velocity</source>
-        <translation>Fast ingångshastighet</translation>
+        <translation>Fast ingångsvelocitet</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="54"/>
         <source>Fixed output velocity</source>
-        <translation>Fast utgångshastighet</translation>
+        <translation>Fast utgångsvelocitet</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="55"/>
@@ -5194,7 +5194,7 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="57"/>
         <source>Base velocity</source>
-        <translation>Bashastighet</translation>
+        <translation>Bas-velocitet</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="58"/>
@@ -5991,7 +5991,7 @@ Each modulation target has 4 knobs, one for each modulator. By default the knobs
         <location filename="../../plugins/monstro/Monstro.cpp" line="1729"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1737"/>
         <source>Release</source>
-        <translation>Släpp</translation>
+        <translation>Release</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1730"/>
@@ -6714,7 +6714,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="631"/>
         <source>use mouse wheel to set velocity of a step</source>
-        <translation>använd mushjulet för att ställa in hastigheten på ett steg</translation>
+        <translation>använd mushjulet för att ställa in velociteten för ett steg</translation>
     </message>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="636"/>
@@ -6871,7 +6871,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="42"/>
         <source>Release</source>
-        <translation>Släpp</translation>
+        <translation>Release</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="43"/>
@@ -6899,7 +6899,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="199"/>
         <source>Note Velocity</source>
-        <translation>Nothastighet</translation>
+        <translation>Not-velocitet</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="200"/>
@@ -6959,7 +6959,7 @@ PM means phase modulation: Oscillator 3&apos;s phase is modulated by oscillator 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="475"/>
         <source>Velocity: %1%</source>
-        <translation>Hastighet: %1%</translation>
+        <translation>Velocitet: %1%</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="484"/>

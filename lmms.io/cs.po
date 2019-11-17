@@ -7,6 +7,7 @@
 # Texxiliator Wolpapzki <johnwolpapzki@gmail.com>, 2017
 # Miroslav Kučera <mkucera66@seznam.cz>, 2017
 # Lukáš Cezner <coalzombik@gmail.com>, 2018
+# GamingasCZ <gamingforyou875@gmail.com>, 2019
 # 
 #, fuzzy
 msgid ""
@@ -15,7 +16,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-28 15:50-0600\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
-"Last-Translator: Lukáš Cezner <coalzombik@gmail.com>, 2018\n"
+"Last-Translator: GamingasCZ <gamingforyou875@gmail.com>, 2019\n"
 "Language-Team: Czech (https://www.transifex.com/lmms/teams/61632/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -55,7 +56,7 @@ msgstr "Předchozí soutěže:"
 
 #: competitions.twig:17
 msgid "The Best of LMMS vol. VI"
-msgstr ""
+msgstr "Nejlepší z LMMS vol. VI"
 
 #: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:91
 msgid ""

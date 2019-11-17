@@ -57,7 +57,7 @@ msgstr "Прошлые участники:"
 
 #: competitions.twig:17
 msgid "The Best of LMMS vol. VI"
-msgstr ""
+msgstr "Лучшее от LMMS том VI"
 
 #: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:91
 msgid ""
