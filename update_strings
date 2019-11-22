@@ -1,0 +1,62 @@
+#!/bin/bash -e
+
+aberr(){ printf "[\e[31mERROR\e[0m]: \e[1m%s\e[0m\n" "$*" >&2; }
+abinfo(){ printf "[\e[96mINFO\e[0m]: \e[1m%s\e[0m\n" "$*" >&2; }
+
+TOP="$(readlink -f $0)"
+TOP="$(dirname $TOP)"
+
+function collect_strings_lmms() {
+    abinfo "Scanning directories..."
+
+    if test -d src/3rdparty/qt5-x11embed/3rdparty/ECM/; then
+    # prevent from collecting strings in ECM
+    rm -rf src/3rdparty/qt5-x11embed/3rdparty/ECM/
+    fi
+
+    if ! lupdate-qt5 -I include/ src/ plugins/ -ts data/locale/en.ts; then
+    aberr "There are some problems when collecting the strings."
+    exit 1
+    fi
+
+    cp -v data/locale/en.ts "$TOP/lmms/en.ts"
+}
+
+function collect_strings_lmms_io() {
+    abinfo "Scanning files..."
+
+    ./dev/update_locale
+    cp -v public/locale/messages.pot "$TOP/lmms.io/lmms.io.pot"
+}
+
+function clone_lmms() {
+    abinfo "Cloning LMMS source directory..."
+    git clone --recursive --depth 1 'https://github.com/LMMS/lmms' "$1"
+}
+
+function clone_lmms_io() {
+    abinfo "Cloning lmms.io source directory..."
+    git clone --recursive --depth 1 'https://github.com/LMMS/lmms.io' "$1"
+    pushd "$1" > /dev/null 2>&1
+    abinfo "Installing PHP libraries..."
+    composer install
+    popd > /dev/null 2>&1
+}
+
+TMPDIR="$(mktemp -d)"
+
+abinfo "Updating translation files for LMMS..."
+
+clone_lmms "$TMPDIR"
+pushd "$TMPDIR"
+collect_strings_lmms "$TMPDIR"
+popd
+rm -rf "$TMPDIR"
+
+abinfo "Updating translation files for lmms.io website..."
+
+clone_lmms_io "$TMPDIR"
+pushd "$TMPDIR"
+collect_strings_lmms_io "$TMPDIR"
+popd
+rm -rf "$TMPDIR"
