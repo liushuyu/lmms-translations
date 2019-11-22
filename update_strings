@@ -60,3 +60,20 @@ pushd "$TMPDIR"
 collect_strings_lmms_io "$TMPDIR"
 popd
 rm -rf "$TMPDIR"
+
+abinfo "Setting up Transifex..."
+
+cat <<EOF > ~/.transifexrc
+[https://www.transifex.com]
+api_hostname = https://api.transifex.com
+hostname = https://www.transifex.com
+password = $TX_API_KEY
+token = 
+username = api
+EOF
+
+abinfo "Now uploading..."
+
+tx push -s
+
+abinfo "Tasks are finished!"
