@@ -16,6 +16,10 @@ jobs:
           command: |
             ./update_strings
       - run:
+          name: Upload Translations
+          command: |
+            ./.circleci/sync.sh
+      - run:
           name: Validate translations
           command: |
             ./validate_locales
