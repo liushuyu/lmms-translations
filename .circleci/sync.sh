@@ -44,7 +44,7 @@ if ! git diff --quiet; then
 
     abinfo "Fetching latest translations from Transifex..."
 
-    tx pull -a
+    tx pull -af
 
     abinfo "Now pushing to GitHub..."
 
