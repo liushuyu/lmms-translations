@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 15:50-0600\n"
+"POT-Creation-Date: 2019-11-22 22:29+0000\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
 "Last-Translator: Roberto Giaconia <derobyj@gmail.com>, 2018\n"
 "Language-Team: Italian (https://www.transifex.com/lmms/teams/61632/it/)\n"
@@ -21,20 +21,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: foot.twig:27
-msgid "Powered by"
-msgstr "Powered by"
-
-#: /tmp/cache/twig/lmms.io/3b/3bf2453e3b5c9de9061a3cec2ed6def0c18087d9fffc4d0f6c832d4c1204028b.php:48
-msgid ""
-"We're sorry, something went wrong fetching the latest release info. You can "
-"still download releases on <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
-msgstr ""
-"Ci dispiace, ma qualcosa è andato storto nel tentativo di ottenere le "
-"informazioni sull'ultima versione. Puoi comunque scaricare il programma su "
-"<a href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 
 #: competitions.twig:10 navbar.php:13
 msgid "Competitions"
@@ -57,7 +43,7 @@ msgstr "Concorsi passati:"
 msgid "The Best of LMMS vol. VI"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:91
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:91
 msgid ""
 "#### The competition has ended on **April 2nd, 2019**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-6)\n"
@@ -102,7 +88,7 @@ msgstr ""
 msgid "The Best of LMMS vol. V"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:153
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:153
 msgid ""
 "#### The competition has ended on **April 16th, 2018**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
@@ -149,7 +135,7 @@ msgstr ""
 msgid "The Best of LMMS vol. IV"
 msgstr "Best of LMMS vol. IV"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:217
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:217
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -229,7 +215,7 @@ msgstr ""
 msgid "The Best of LMMS vol. III"
 msgstr "Best of LMMS vol. III"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:278
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:278
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -285,7 +271,7 @@ msgstr ""
 msgid "The Best of LMMS vol. II"
 msgstr "Best of LMMS vol. II"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:327
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:327
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -339,7 +325,7 @@ msgstr ""
 msgid "The Best of LMMS vol. I"
 msgstr "Best of LMMS vol. I"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:375
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:375
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
@@ -391,33 +377,103 @@ msgstr ""
 "\t\t\t4. Pubblicazione. La compilation verrà pubblicata in un album Bandcamp con prezzo \"Paga quanto vuoi\". Tutto il ricavato verrà\n"
 "\t\t\t\tdonato per lo sviluppo di LMMS, il programma che amiamo."
 
-#: showcase.twig:6 navbar.php:12
-msgid "Showcase"
-msgstr "Vetrina"
+#: branding.twig:6 navbar.php:14
+msgid "Branding"
+msgstr "marchio"
 
-#: showcase.twig:6
-msgid "Tracks made with LMMS"
-msgstr "Tracce realizzate con LMMS"
+#: branding.twig:6
+msgid "Download LMMS Artwork"
+msgstr "Scarica gli Artwork LMMS"
 
-#: showcase.twig:12 showcase.twig:20
-msgid "The Best of LMMS Vol. 5 by LMMS Artists"
+#: branding.twig:8
+msgid "LMMS Logo"
+msgstr "LMMS Logo"
+
+#: branding.twig:8 branding.twig:17
+msgid "LMMS Development Team"
+msgstr "Team di sviluppo LMMS"
+
+#: branding.twig:17
+msgid "LMMS Project Icon"
+msgstr "Icona del progetto LMMS"
+
+#: download/index.twig:32
+msgid "Download LMMS"
+msgstr "Scarica LMMS"
+
+#: download/index.twig:32
+msgid ""
+"Downloading and using LMMS is free! Just choose the operating system you "
+"want to run LMMS on:"
 msgstr ""
+"Scarica e usa LMMS gratuitamente! Seleziona il sistema operativo in cui vuoi"
+" installarlo:"
 
-#: showcase.twig:28
-msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr "Best of LMMS Vol.4 dagli Artisti di LMMS"
+#: download/index.twig:51
+msgid "Install LMMS on Linux"
+msgstr "Installa LMMS su Linux"
 
-#: showcase.twig:36
-msgid "The Best of LMMS Vol.3 by LMMS Artists"
-msgstr "Best of LMMS Vol.3 dagli Artisti di LMMS"
+#: download/index.twig:52
+msgid "Click one of the buttons below to download LMMS for Linux."
+msgstr "Clicca su uno dei pulsanti qua sotto per scaricare LMMS per Linux."
 
-#: showcase.twig:44
-msgid "The Best of LMMS Vol.2 by LMMS Artists"
-msgstr "Best of LMMS Vol.2 dagli Artisti di LMMS"
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:89
+#: download/index.twig:80
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:231
+msgid "Stable Versions"
+msgstr "Versioni Stabili"
 
-#: showcase.twig:52
-msgid "The Best of LMMS Vol.1 by LMMS Artists"
-msgstr "Best of LMMS Vol.1 dagli Artisti di LMMS"
+#: download/index.twig:59
+msgid ""
+"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
+"<code>.AppImage</code> executable before running"
+msgstr ""
+"Esegui <code>chmod +x ~/Downloads/*.AppImage</code> per impostare la "
+"<code>.AppImage</code> come eseguibile, prima di avviarla."
+
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:122
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:197
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:258
+msgid "Beta Versions"
+msgstr "Versioni Beta"
+
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:152
+msgid "Other options"
+msgstr "Altre opzioni"
+
+#: download/index.twig:78
+msgid "Install LMMS on Windows"
+msgstr "Installa LMMS su Windows"
+
+#: download/index.twig:79
+msgid ""
+"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
+"Windows"
+msgstr ""
+"Seleziona uno dei pulsanti seguenti (32bit oppure 64bit) per scaricare LMMS "
+"per Windows"
+
+#: download/index.twig:96
+msgid "Install LMMS on macOS"
+msgstr "Installa LMMS su macOS"
+
+#: download/index.twig:97
+msgid "Click one of the buttons below to download LMMS for macOS"
+msgstr "Seleziona uno dei pulsanti seguenti per scaricare LMMS per macOS"
+
+#: download/index.twig:114
+msgid "Downloads labeled Beta are pre-release software, stability may suffer."
+msgstr ""
+"Le versioni chiamate \"Beta\" sono in fase di sviluppo, potrebbero non "
+"essere stabili."
+
+#: download/index.twig:115
+msgid "Previous releases"
+msgstr "Versioni precedenti"
+
+#: download/index.twig:289
+msgid "Show release notes"
+msgstr "Mostra note di rilascio"
 
 #: get-involved.twig:6 navbar.php:7
 msgid "Get Involved"
@@ -578,6 +634,34 @@ msgstr ""
 "Per segnalare un bug o suggerire una nuova funzionalità, utilizza il tracker"
 " di richieste di GitHub:"
 
+#: showcase.twig:6 navbar.php:12
+msgid "Showcase"
+msgstr "Vetrina"
+
+#: showcase.twig:6
+msgid "Tracks made with LMMS"
+msgstr "Tracce realizzate con LMMS"
+
+#: showcase.twig:12 showcase.twig:20
+msgid "The Best of LMMS Vol. 5 by LMMS Artists"
+msgstr ""
+
+#: showcase.twig:28
+msgid "The Best of LMMS Vol. 4 by LMMS Artists"
+msgstr "Best of LMMS Vol.4 dagli Artisti di LMMS"
+
+#: showcase.twig:36
+msgid "The Best of LMMS Vol.3 by LMMS Artists"
+msgstr "Best of LMMS Vol.3 dagli Artisti di LMMS"
+
+#: showcase.twig:44
+msgid "The Best of LMMS Vol.2 by LMMS Artists"
+msgstr "Best of LMMS Vol.2 dagli Artisti di LMMS"
+
+#: showcase.twig:52
+msgid "The Best of LMMS Vol.1 by LMMS Artists"
+msgstr "Best of LMMS Vol.1 dagli Artisti di LMMS"
+
 #: errorpage.twig:6
 msgid "Error <b>%code%</b>"
 msgstr "Error <b>%code%</b>"
@@ -590,111 +674,11 @@ msgstr ""
 "Se hai seguito un link valido su questo sito, ti preghiamo di contattarci\n"
 "      e di <a href=\"//github.com/LMMS/lmms.io/issues/new\">riportare il problema</a> su GitHub."
 
-#: download/index.twig:32
-msgid "Download LMMS"
-msgstr "Scarica LMMS"
-
-#: download/index.twig:32
-msgid ""
-"Downloading and using LMMS is free! Just choose the operating system you "
-"want to run LMMS on:"
-msgstr ""
-"Scarica e usa LMMS gratuitamente! Seleziona il sistema operativo in cui vuoi"
-" installarlo:"
-
-#: download/index.twig:51
-msgid "Install LMMS on Linux"
-msgstr "Installa LMMS su Linux"
-
-#: download/index.twig:52
-msgid "Click one of the buttons below to download LMMS for Linux."
-msgstr "Clicca su uno dei pulsanti qua sotto per scaricare LMMS per Linux."
-
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:89
-#: download/index.twig:80
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:231
-msgid "Stable Versions"
-msgstr "Versioni Stabili"
-
-#: download/index.twig:59
-msgid ""
-"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
-"<code>.AppImage</code> executable before running"
-msgstr ""
-"Esegui <code>chmod +x ~/Downloads/*.AppImage</code> per impostare la "
-"<code>.AppImage</code> come eseguibile, prima di avviarla."
-
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:122
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:197
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:258
-msgid "Beta Versions"
-msgstr "Versioni Beta"
-
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:152
-msgid "Other options"
-msgstr "Altre opzioni"
-
-#: download/index.twig:78
-msgid "Install LMMS on Windows"
-msgstr "Installa LMMS su Windows"
-
-#: download/index.twig:79
-msgid ""
-"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
-"Windows"
-msgstr ""
-"Seleziona uno dei pulsanti seguenti (32bit oppure 64bit) per scaricare LMMS "
-"per Windows"
-
-#: download/index.twig:96
-msgid "Install LMMS on macOS"
-msgstr "Installa LMMS su macOS"
-
-#: download/index.twig:97
-msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr "Seleziona uno dei pulsanti seguenti per scaricare LMMS per macOS"
-
-#: download/index.twig:114
-msgid "Downloads labeled Beta are pre-release software, stability may suffer."
-msgstr ""
-"Le versioni chiamate \"Beta\" sono in fase di sviluppo, potrebbero non "
-"essere stabili."
-
-#: download/index.twig:115
-msgid "Previous releases"
-msgstr "Versioni precedenti"
-
-#: download/index.twig:289
-msgid "Show release notes"
-msgstr "Mostra note di rilascio"
-
-#: branding.twig:6 navbar.php:14
-msgid "Branding"
-msgstr "marchio"
-
-#: branding.twig:6
-msgid "Download LMMS Artwork"
-msgstr "Scarica gli Artwork LMMS"
-
-#: branding.twig:8
-msgid "LMMS Logo"
-msgstr "LMMS Logo"
-
-#: branding.twig:8 branding.twig:17
-msgid "LMMS Development Team"
-msgstr "Team di sviluppo LMMS"
-
-#: branding.twig:17
-msgid "LMMS Project Icon"
-msgstr "Icona del progetto LMMS"
-
 #: download/linux.twig:6
 msgid ""
 "LMMS is included in most major Linux distribution's package repositories.<br>\n"
-"\tPlease <a href=\"get-involved/#contact\">contact us</a> if your distribution is not listed here."
+"\tPlease <a href=\"/get-involved/#contact\">contact us</a> if your distribution is not listed here."
 msgstr ""
-"LMMS è incluso nei repository dei pacchetti di quasi tutte le maggiori distrubizioni Linux. <br>\n"
-"\tPer favore, <a href=\"get-involved/#contact\">contattaci</a> se la tua distribuzione non è tra quelle elencate."
 
 #: download/linux.twig:48
 msgid ""
@@ -721,12 +705,8 @@ msgstr ""
 #: download/linux.twig:59
 msgid ""
 "If the traditional repositories lag behind on versions, try the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>."
+"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio repository</a>."
 msgstr ""
-"Se i repository tradizionali non offrono versioni aggiornate, prova il <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>."
 
 #: download/linux.twig:60 download/linux.twig:81
 msgid "VST Support"
@@ -736,14 +716,9 @@ msgstr "Supporto VST"
 msgid ""
 "If your distribution offers VST support (requires the installation of Wine) "
 "it is generally offered in a separate package.  For example, using the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>, run this command in a terminal."
+"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio repository</a>, run "
+"this command in a terminal."
 msgstr ""
-"Se la tua distribuzione offre il supporto VST (per cui è richiesta "
-"l'installazione di Wine) solitamente viene offerta in un pacchetto separato."
-" Per esempio, usando il <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>, puoi usare questi comandi su un terminale."
 
 #: download/linux.twig:67 download/linux.twig:73
 msgid "Run the following command as root in a terminal:"
@@ -755,12 +730,8 @@ msgstr "Lancia il comando seguente su un terminale:"
 
 #: download/linux.twig:82
 msgid ""
-"For VST support, please see the <a "
-"href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
+"For VST support, please install wine or wine-staging from the repository"
 msgstr ""
-"Per il supporto VST, visita la <a "
-"href=\"https://wiki.archlinux.org/index.php/LMMS\" target=\"_blank\">pagina "
-"wiki Arch LMMS</a>"
 
 #: download/linux.twig:99
 msgid ""
@@ -778,15 +749,11 @@ msgstr "Per installare LMMS su AOSC OS con PackageKit (consigliato):"
 msgid "To install LMMS on AOSC OS with DPKG:"
 msgstr "Per installare LMMS su AOSC OS con DPKG:"
 
-#: download/linux.twig:104
-msgid "To install LMMS on AOSC OS with RPM:"
-msgstr "Per installare LMMS su AOSC OS con RPM:"
-
-#: download/linux.twig:110
+#: download/linux.twig:108
 msgid "Build LMMS from source"
 msgstr "Compila LMMS dal sorgente"
 
-#: download/linux.twig:111
+#: download/linux.twig:109
 msgid ""
 "If your Linux distribution does not provide a lmms package (or only an "
 "outdated one), you can still build LMMS from source. Visit the <a "
@@ -797,6 +764,20 @@ msgstr ""
 "l'ultima versione), puoi comunque compilare LMMS dal sorgente. Visita il <a "
 "href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS development wiki "
 "su GitHub</a> per istruzioni su come compilare LMMS per Linux."
+
+#: /tmp/cache/twig/lmms.io/95/950f28faa1f77c22cd2dedea8fa64d623f9bae2322cf29746e0c8d410b55cc44.php:48
+msgid ""
+"We're sorry, something went wrong fetching the latest release info. You can "
+"still download releases on <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+msgstr ""
+"Ci dispiace, ma qualcosa è andato storto nel tentativo di ottenere le "
+"informazioni sull'ultima versione. Puoi comunque scaricare il programma su "
+"<a href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+
+#: foot.twig:27
+msgid "Powered by"
+msgstr "Powered by"
 
 #: home.twig:11
 msgid "Let's make music"
@@ -934,8 +915,8 @@ msgid "We <3 open source."
 msgstr "Noi <3 open source."
 
 #: home.twig:106
-msgid "Fork us on Github"
-msgstr "Crea il tuo Fork su Github"
+msgid "Fork us on GitHub"
+msgstr ""
 
 #: home.twig:108
 #, php-format
@@ -945,8 +926,8 @@ msgstr ""
 "utenti."
 
 #: home.twig:109
-msgid "Proudly hosted on Github."
-msgstr "Ospitato con orgoglio su Github."
+msgid "Proudly hosted on GitHub."
+msgstr ""
 
 #: home.twig:124
 msgid "Take a peek."

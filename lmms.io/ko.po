@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 15:50-0600\n"
+"POT-Creation-Date: 2019-11-22 22:29+0000\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
 "Last-Translator: Hyunjin Song <tteu.ingog@gmail.com>, 2019\n"
 "Language-Team: Korean (https://www.transifex.com/lmms/teams/61632/ko/)\n"
@@ -21,19 +21,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: foot.twig:27
-msgid "Powered by"
-msgstr "제공"
-
-#: /tmp/cache/twig/lmms.io/3b/3bf2453e3b5c9de9061a3cec2ed6def0c18087d9fffc4d0f6c832d4c1204028b.php:48
-msgid ""
-"We're sorry, something went wrong fetching the latest release info. You can "
-"still download releases on <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
-msgstr ""
-"최신 배포판 정보를 가져오는 데 실패하였습니다. <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>에서 배포판을 다운로드하실 수 있습니다."
 
 #: competitions.twig:10 navbar.php:13
 msgid "Competitions"
@@ -55,7 +42,7 @@ msgstr "종료된 대회:"
 msgid "The Best of LMMS vol. VI"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:91
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:91
 msgid ""
 "#### The competition has ended on **April 2nd, 2019**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-6)\n"
@@ -100,7 +87,7 @@ msgstr ""
 msgid "The Best of LMMS vol. V"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:153
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:153
 msgid ""
 "#### The competition has ended on **April 16th, 2018**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
@@ -147,7 +134,7 @@ msgstr ""
 msgid "The Best of LMMS vol. IV"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:217
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:217
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -191,7 +178,7 @@ msgstr ""
 msgid "The Best of LMMS vol. III"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:278
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:278
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -223,7 +210,7 @@ msgstr ""
 msgid "The Best of LMMS vol. II"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:327
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:327
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -254,7 +241,7 @@ msgstr ""
 msgid "The Best of LMMS vol. I"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:375
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:375
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
@@ -282,33 +269,97 @@ msgid ""
 "\t\t\t\twill be donated for further development of LMMS, the program that we love."
 msgstr ""
 
-#: showcase.twig:6 navbar.php:12
-msgid "Showcase"
+#: branding.twig:6 navbar.php:14
+msgid "Branding"
 msgstr ""
 
-#: showcase.twig:6
-msgid "Tracks made with LMMS"
-msgstr "LMMS로 만든 곡들"
+#: branding.twig:6
+msgid "Download LMMS Artwork"
+msgstr "LMMS 아트워크 다운로드"
 
-#: showcase.twig:12 showcase.twig:20
-msgid "The Best of LMMS Vol. 5 by LMMS Artists"
+#: branding.twig:8
+msgid "LMMS Logo"
+msgstr "LMMS 로고"
+
+#: branding.twig:8 branding.twig:17
+msgid "LMMS Development Team"
+msgstr "LMMS 개발 팀"
+
+#: branding.twig:17
+msgid "LMMS Project Icon"
+msgstr "LMMS 프로젝트 아이콘"
+
+#: download/index.twig:32
+msgid "Download LMMS"
+msgstr "LMMS 다운로드"
+
+#: download/index.twig:32
+msgid ""
+"Downloading and using LMMS is free! Just choose the operating system you "
+"want to run LMMS on:"
+msgstr "LMMS는 무료로 사용할 수 있습니다! LMMS를 실행할 운영 체제를 선택하세요:"
+
+#: download/index.twig:51
+msgid "Install LMMS on Linux"
+msgstr "리눅스에서 LMMS 설치하기"
+
+#: download/index.twig:52
+msgid "Click one of the buttons below to download LMMS for Linux."
+msgstr "아래의 버튼을 클릭하여 LMMS의 Linux 버전을 다운로드하시기 바랍니다."
+
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:89
+#: download/index.twig:80
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:231
+msgid "Stable Versions"
+msgstr "안정 버전"
+
+#: download/index.twig:59
+msgid ""
+"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
+"<code>.AppImage</code> executable before running"
+msgstr ""
+"<code>chmod +x ~/Downloads/*.AppImage</code>를 실행하여 <code>.AppImage</code> "
+"파일에 실행 권한을 부여하시기 바랍니다."
+
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:122
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:197
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:258
+msgid "Beta Versions"
+msgstr "베타 버전"
+
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:152
+msgid "Other options"
+msgstr "다른 옵션"
+
+#: download/index.twig:78
+msgid "Install LMMS on Windows"
+msgstr "Windows에서 LMMS 설치하기"
+
+#: download/index.twig:79
+msgid ""
+"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
+"Windows"
+msgstr "아래의 버튼(32비트 또는 64비트)을 클릭하여 LMMS의 Windows 버전을 다운로드하시기 바랍니다."
+
+#: download/index.twig:96
+msgid "Install LMMS on macOS"
+msgstr "macOS에서 LMMS 설치하기"
+
+#: download/index.twig:97
+msgid "Click one of the buttons below to download LMMS for macOS"
 msgstr ""
 
-#: showcase.twig:28
-msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr ""
+#: download/index.twig:114
+msgid "Downloads labeled Beta are pre-release software, stability may suffer."
+msgstr "베타 버전으로 표시된 다운로드는 사전 공개 버전으로 안정 버전에 비해 불안정할 수 있습니다."
 
-#: showcase.twig:36
-msgid "The Best of LMMS Vol.3 by LMMS Artists"
-msgstr ""
+#: download/index.twig:115
+msgid "Previous releases"
+msgstr "이전 버전"
 
-#: showcase.twig:44
-msgid "The Best of LMMS Vol.2 by LMMS Artists"
-msgstr ""
-
-#: showcase.twig:52
-msgid "The Best of LMMS Vol.1 by LMMS Artists"
-msgstr ""
+#: download/index.twig:289
+msgid "Show release notes"
+msgstr "릴리스 노트 보기"
 
 #: get-involved.twig:6 navbar.php:7
 msgid "Get Involved"
@@ -459,6 +510,34 @@ msgid ""
 " tracker:"
 msgstr "버그를 제보하시거나 새로운 기능을 제안하실 때에는 GitHub 이슈 트래커를 이용해 주시기 바랍니다:"
 
+#: showcase.twig:6 navbar.php:12
+msgid "Showcase"
+msgstr ""
+
+#: showcase.twig:6
+msgid "Tracks made with LMMS"
+msgstr "LMMS로 만든 곡들"
+
+#: showcase.twig:12 showcase.twig:20
+msgid "The Best of LMMS Vol. 5 by LMMS Artists"
+msgstr ""
+
+#: showcase.twig:28
+msgid "The Best of LMMS Vol. 4 by LMMS Artists"
+msgstr ""
+
+#: showcase.twig:36
+msgid "The Best of LMMS Vol.3 by LMMS Artists"
+msgstr ""
+
+#: showcase.twig:44
+msgid "The Best of LMMS Vol.2 by LMMS Artists"
+msgstr ""
+
+#: showcase.twig:52
+msgid "The Best of LMMS Vol.1 by LMMS Artists"
+msgstr ""
+
 #: errorpage.twig:6
 msgid "Error <b>%code%</b>"
 msgstr "오류 <b>%code%</b>"
@@ -471,105 +550,11 @@ msgstr ""
 "만약 이 사이트 내의 유효한 링크를 통해 이 페이지를 방문하셨다면 저희에게 알려 주시고 GitHub에 <a "
 "href=\"//github.com/LMMS/lmms.io/issues/new\">issue</a>를 열어 주시기 바랍니다."
 
-#: download/index.twig:32
-msgid "Download LMMS"
-msgstr "LMMS 다운로드"
-
-#: download/index.twig:32
-msgid ""
-"Downloading and using LMMS is free! Just choose the operating system you "
-"want to run LMMS on:"
-msgstr "LMMS는 무료로 사용할 수 있습니다! LMMS를 실행할 운영 체제를 선택하세요:"
-
-#: download/index.twig:51
-msgid "Install LMMS on Linux"
-msgstr "리눅스에서 LMMS 설치하기"
-
-#: download/index.twig:52
-msgid "Click one of the buttons below to download LMMS for Linux."
-msgstr "아래의 버튼을 클릭하여 LMMS의 Linux 버전을 다운로드하시기 바랍니다."
-
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:89
-#: download/index.twig:80
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:231
-msgid "Stable Versions"
-msgstr "안정 버전"
-
-#: download/index.twig:59
-msgid ""
-"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
-"<code>.AppImage</code> executable before running"
-msgstr ""
-"<code>chmod +x ~/Downloads/*.AppImage</code>를 실행하여 <code>.AppImage</code> "
-"파일에 실행 권한을 부여하시기 바랍니다."
-
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:122
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:197
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:258
-msgid "Beta Versions"
-msgstr "베타 버전"
-
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:152
-msgid "Other options"
-msgstr "다른 옵션"
-
-#: download/index.twig:78
-msgid "Install LMMS on Windows"
-msgstr "Windows에서 LMMS 설치하기"
-
-#: download/index.twig:79
-msgid ""
-"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
-"Windows"
-msgstr "아래의 버튼(32비트 또는 64비트)을 클릭하여 LMMS의 Windows 버전을 다운로드하시기 바랍니다."
-
-#: download/index.twig:96
-msgid "Install LMMS on macOS"
-msgstr "macOS에서 LMMS 설치하기"
-
-#: download/index.twig:97
-msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr ""
-
-#: download/index.twig:114
-msgid "Downloads labeled Beta are pre-release software, stability may suffer."
-msgstr "베타 버전으로 표시된 다운로드는 사전 공개 버전으로 안정 버전에 비해 불안정할 수 있습니다."
-
-#: download/index.twig:115
-msgid "Previous releases"
-msgstr "이전 버전"
-
-#: download/index.twig:289
-msgid "Show release notes"
-msgstr "릴리스 노트 보기"
-
-#: branding.twig:6 navbar.php:14
-msgid "Branding"
-msgstr ""
-
-#: branding.twig:6
-msgid "Download LMMS Artwork"
-msgstr "LMMS 아트워크 다운로드"
-
-#: branding.twig:8
-msgid "LMMS Logo"
-msgstr "LMMS 로고"
-
-#: branding.twig:8 branding.twig:17
-msgid "LMMS Development Team"
-msgstr "LMMS 개발 팀"
-
-#: branding.twig:17
-msgid "LMMS Project Icon"
-msgstr "LMMS 프로젝트 아이콘"
-
 #: download/linux.twig:6
 msgid ""
 "LMMS is included in most major Linux distribution's package repositories.<br>\n"
-"\tPlease <a href=\"get-involved/#contact\">contact us</a> if your distribution is not listed here."
+"\tPlease <a href=\"/get-involved/#contact\">contact us</a> if your distribution is not listed here."
 msgstr ""
-"LMMS는 대부분의 주요 Linux 배포판의 패키지 저장소에 포함되어 있습니다.\n"
-"\t만약 당신의 배포판이 이 리스트에 없다면<a href=\"get-involved/#contact\">저희에게 연락해 주세요</a>."
 
 #: download/linux.twig:48
 msgid ""
@@ -593,12 +578,8 @@ msgstr "만약 이 방법이 잘 되지 않는다면 터미널에서 다음 명�
 #: download/linux.twig:59
 msgid ""
 "If the traditional repositories lag behind on versions, try the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>."
+"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio repository</a>."
 msgstr ""
-"패키지 저장소가 오래된 버전을 제공한다면 <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"저장소</a>를 사용해 보세요."
 
 #: download/linux.twig:60 download/linux.twig:81
 msgid "VST Support"
@@ -608,12 +589,9 @@ msgstr "VST 지원"
 msgid ""
 "If your distribution offers VST support (requires the installation of Wine) "
 "it is generally offered in a separate package.  For example, using the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>, run this command in a terminal."
+"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio repository</a>, run "
+"this command in a terminal."
 msgstr ""
-"일부 배포판은 별도의 VST 지원 패키지를 제공합니다(Wine 설치 필요). <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"저장소</a>를 사용하는 경우 터미널에서 다음 명령어를 실행하세요."
 
 #: download/linux.twig:67 download/linux.twig:73
 msgid "Run the following command as root in a terminal:"
@@ -625,11 +603,8 @@ msgstr "터미널에서 다음 명령어를 실행하세요:"
 
 #: download/linux.twig:82
 msgid ""
-"For VST support, please see the <a "
-"href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
+"For VST support, please install wine or wine-staging from the repository"
 msgstr ""
-"VST 지원에 관한 내용은<a href=\"https://wiki.archlinux.org/index.php/LMMS\">아치 리눅스 "
-"위키의 LMMS 페이지</a>를 참고하시기 바랍니다."
 
 #: download/linux.twig:99
 msgid ""
@@ -645,15 +620,11 @@ msgstr ""
 msgid "To install LMMS on AOSC OS with DPKG:"
 msgstr ""
 
-#: download/linux.twig:104
-msgid "To install LMMS on AOSC OS with RPM:"
-msgstr ""
-
-#: download/linux.twig:110
+#: download/linux.twig:108
 msgid "Build LMMS from source"
 msgstr "소스 코드로부터 LMMS 빌드하기"
 
-#: download/linux.twig:111
+#: download/linux.twig:109
 msgid ""
 "If your Linux distribution does not provide a lmms package (or only an "
 "outdated one), you can still build LMMS from source. Visit the <a "
@@ -664,6 +635,19 @@ msgstr ""
 "있습니다. 컴파일 방법은 <a "
 "href=\"https://github.com/LMMS/lmms/wiki/Compiling\">GitHub의 LMMS 위키 "
 "페이지</a>를 참고하여 주시기 바랍니다."
+
+#: /tmp/cache/twig/lmms.io/95/950f28faa1f77c22cd2dedea8fa64d623f9bae2322cf29746e0c8d410b55cc44.php:48
+msgid ""
+"We're sorry, something went wrong fetching the latest release info. You can "
+"still download releases on <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+msgstr ""
+"최신 배포판 정보를 가져오는 데 실패하였습니다. <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>에서 배포판을 다운로드하실 수 있습니다."
+
+#: foot.twig:27
+msgid "Powered by"
+msgstr "제공"
 
 #: home.twig:11
 msgid "Let's make music"
@@ -797,8 +781,8 @@ msgid "We <3 open source."
 msgstr "LMMS ❤ 오픈 소스"
 
 #: home.twig:106
-msgid "Fork us on Github"
-msgstr "GitHub에서 포크"
+msgid "Fork us on GitHub"
+msgstr ""
 
 #: home.twig:108
 #, php-format
@@ -806,8 +790,8 @@ msgid "LMMS is a 100% free, open source, community-driven project."
 msgstr "LMMS는 100% 무료로 사용 가능한 오픈 소스 및 공동체 중심의 프로젝트입니다."
 
 #: home.twig:109
-msgid "Proudly hosted on Github."
-msgstr "GitHub를 통해 운영하고 있습니다."
+msgid "Proudly hosted on GitHub."
+msgstr ""
 
 #: home.twig:124
 msgid "Take a peek."

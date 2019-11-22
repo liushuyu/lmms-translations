@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 15:50-0600\n"
+"POT-Creation-Date: 2019-11-22 22:29+0000\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
 "Last-Translator: Aden Aziz <aden.aziz948@gmail.com>, 2018\n"
 "Language-Team: Indonesian (https://www.transifex.com/lmms/teams/61632/id/)\n"
@@ -20,20 +20,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: foot.twig:27
-msgid "Powered by"
-msgstr "Dipersembahkan oleh"
-
-#: /tmp/cache/twig/lmms.io/3b/3bf2453e3b5c9de9061a3cec2ed6def0c18087d9fffc4d0f6c832d4c1204028b.php:48
-msgid ""
-"We're sorry, something went wrong fetching the latest release info. You can "
-"still download releases on <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
-msgstr ""
-"Mohon maaf, ada yang salah ketika mengambil info rilis terbaru. Anda masih "
-"bisa mengunduh rilis di <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 
 #: competitions.twig:10 navbar.php:13
 msgid "Competitions"
@@ -56,7 +42,7 @@ msgstr "Kompetisi masa lalu:"
 msgid "The Best of LMMS vol. VI"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:91
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:91
 msgid ""
 "#### The competition has ended on **April 2nd, 2019**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-6)\n"
@@ -101,7 +87,7 @@ msgstr ""
 msgid "The Best of LMMS vol. V"
 msgstr "Yang Terbaik dari LMMS vol. V"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:153
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:153
 msgid ""
 "#### The competition has ended on **April 16th, 2018**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
@@ -148,7 +134,7 @@ msgstr ""
 msgid "The Best of LMMS vol. IV"
 msgstr "Yang Terbaik dari LMMS vol. IV"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:217
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:217
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -228,7 +214,7 @@ msgstr ""
 msgid "The Best of LMMS vol. III"
 msgstr "Yang terbaik dari LMMS vol. III"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:278
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:278
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -284,7 +270,7 @@ msgstr ""
 msgid "The Best of LMMS vol. II"
 msgstr "Yang terbaik dari LMMS vol. II"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:327
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:327
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -338,7 +324,7 @@ msgstr ""
 msgid "The Best of LMMS vol. I"
 msgstr "Yang Terbaik dari LMMS vol. I"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:375
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:375
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
@@ -390,33 +376,103 @@ msgstr ""
 "\t\t\t4. Rilisnya. Kompilasi tersebut akan dirilis pada Bandcamp artis bandingan LMMS khusus dengan harga \"Bayar berapapun yang Anda inginkan\". Semua dana yang diterima\n"
 "\t\t\t\tAkan disumbangkan untuk pengembangan lebih lanjut dari LMMS, program yang kita cintai."
 
-#: showcase.twig:6 navbar.php:12
-msgid "Showcase"
-msgstr "Tempat Pamer"
+#: branding.twig:6 navbar.php:14
+msgid "Branding"
+msgstr "Branding"
 
-#: showcase.twig:6
-msgid "Tracks made with LMMS"
-msgstr "Trek yang dibuat oleh LMMS"
+#: branding.twig:6
+msgid "Download LMMS Artwork"
+msgstr "Unduh Karya seni LMMS"
 
-#: showcase.twig:12 showcase.twig:20
-msgid "The Best of LMMS Vol. 5 by LMMS Artists"
+#: branding.twig:8
+msgid "LMMS Logo"
+msgstr "Logo LMMS"
+
+#: branding.twig:8 branding.twig:17
+msgid "LMMS Development Team"
+msgstr "Tim Pengembang LMMS"
+
+#: branding.twig:17
+msgid "LMMS Project Icon"
+msgstr "Ikon Proyek LMMS"
+
+#: download/index.twig:32
+msgid "Download LMMS"
+msgstr "Unduh LMMS"
+
+#: download/index.twig:32
+msgid ""
+"Downloading and using LMMS is free! Just choose the operating system you "
+"want to run LMMS on:"
 msgstr ""
+"Mengunduh dan menggunakan LMMS itu gratis! Tinggal pilih sistem operasi "
+"dimana LMMS akan dijalankan:"
 
-#: showcase.twig:28
-msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr "Yang Terbaik dari LMMS Vol. 4 oleh Artis LMMS"
+#: download/index.twig:51
+msgid "Install LMMS on Linux"
+msgstr "Pasang LMMS di Linux"
 
-#: showcase.twig:36
-msgid "The Best of LMMS Vol.3 by LMMS Artists"
-msgstr "Yang Terbaik dari LMMS Vol.3 oleh Artis LMMS"
+#: download/index.twig:52
+msgid "Click one of the buttons below to download LMMS for Linux."
+msgstr "Klik salah satu tombol di bawah ini untuk mengunduh LMMS untuk Linux."
 
-#: showcase.twig:44
-msgid "The Best of LMMS Vol.2 by LMMS Artists"
-msgstr "Yang Terbaik dari LMMS Vol.2 oleh Artis LMMS"
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:89
+#: download/index.twig:80
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:231
+msgid "Stable Versions"
+msgstr "Versi Stabil"
 
-#: showcase.twig:52
-msgid "The Best of LMMS Vol.1 by LMMS Artists"
-msgstr "Yang Terbaik dari LMMS Vol.1 oleh Artis LMMS"
+#: download/index.twig:59
+msgid ""
+"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
+"<code>.AppImage</code> executable before running"
+msgstr ""
+"Jalankan <code>chmod +x ~/Downloads/*.AppImage</code> untuk mengatur "
+"executable <code>.AppImage</code> sebelum dijalankan"
+
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:122
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:197
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:258
+msgid "Beta Versions"
+msgstr "Versi Beta"
+
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:152
+msgid "Other options"
+msgstr "Opsi lain"
+
+#: download/index.twig:78
+msgid "Install LMMS on Windows"
+msgstr "Pasang LMMS di Windows"
+
+#: download/index.twig:79
+msgid ""
+"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
+"Windows"
+msgstr ""
+"Klik salah satu tombol dibawah (32bit atau 64bit) untuk mengunduh LMMS untuk"
+" Windows"
+
+#: download/index.twig:96
+msgid "Install LMMS on macOS"
+msgstr "Pasang LMMS di macOS"
+
+#: download/index.twig:97
+msgid "Click one of the buttons below to download LMMS for macOS"
+msgstr "Klik salah satu tombol dibawah ini untuk mengunduh LMMS untuk macOS"
+
+#: download/index.twig:114
+msgid "Downloads labeled Beta are pre-release software, stability may suffer."
+msgstr ""
+"Unduhan berlabel Beta adalah perangkat lunak pra-rilis, stabilitas mungkin "
+"akan terganggu."
+
+#: download/index.twig:115
+msgid "Previous releases"
+msgstr "Rilis sebelumnya"
+
+#: download/index.twig:289
+msgid "Show release notes"
+msgstr "Tampilkan catatan rilis"
 
 #: get-involved.twig:6 navbar.php:7
 msgid "Get Involved"
@@ -577,6 +633,34 @@ msgstr ""
 "Untuk melaporkan bug atau menyarankan fitur baru, silakan gunakan pelacak "
 "isu GitHub:"
 
+#: showcase.twig:6 navbar.php:12
+msgid "Showcase"
+msgstr "Tempat Pamer"
+
+#: showcase.twig:6
+msgid "Tracks made with LMMS"
+msgstr "Trek yang dibuat oleh LMMS"
+
+#: showcase.twig:12 showcase.twig:20
+msgid "The Best of LMMS Vol. 5 by LMMS Artists"
+msgstr ""
+
+#: showcase.twig:28
+msgid "The Best of LMMS Vol. 4 by LMMS Artists"
+msgstr "Yang Terbaik dari LMMS Vol. 4 oleh Artis LMMS"
+
+#: showcase.twig:36
+msgid "The Best of LMMS Vol.3 by LMMS Artists"
+msgstr "Yang Terbaik dari LMMS Vol.3 oleh Artis LMMS"
+
+#: showcase.twig:44
+msgid "The Best of LMMS Vol.2 by LMMS Artists"
+msgstr "Yang Terbaik dari LMMS Vol.2 oleh Artis LMMS"
+
+#: showcase.twig:52
+msgid "The Best of LMMS Vol.1 by LMMS Artists"
+msgstr "Yang Terbaik dari LMMS Vol.1 oleh Artis LMMS"
+
 #: errorpage.twig:6
 msgid "Error <b>%code%</b>"
 msgstr "Kesalahan <b>%code%</b>"
@@ -589,111 +673,11 @@ msgstr ""
 "Jika anda mengikuti link yang valid pada situs ini, mohon hubungi kami\n"
 "tentang hal tersebut dan <a href=\"//github.com/LMMS/lmms.io/issues/new\">tambahkan isu</a> di GitHub."
 
-#: download/index.twig:32
-msgid "Download LMMS"
-msgstr "Unduh LMMS"
-
-#: download/index.twig:32
-msgid ""
-"Downloading and using LMMS is free! Just choose the operating system you "
-"want to run LMMS on:"
-msgstr ""
-"Mengunduh dan menggunakan LMMS itu gratis! Tinggal pilih sistem operasi "
-"dimana LMMS akan dijalankan:"
-
-#: download/index.twig:51
-msgid "Install LMMS on Linux"
-msgstr "Pasang LMMS di Linux"
-
-#: download/index.twig:52
-msgid "Click one of the buttons below to download LMMS for Linux."
-msgstr "Klik salah satu tombol di bawah ini untuk mengunduh LMMS untuk Linux."
-
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:89
-#: download/index.twig:80
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:231
-msgid "Stable Versions"
-msgstr "Versi Stabil"
-
-#: download/index.twig:59
-msgid ""
-"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
-"<code>.AppImage</code> executable before running"
-msgstr ""
-"Jalankan <code>chmod +x ~/Downloads/*.AppImage</code> untuk mengatur "
-"executable <code>.AppImage</code> sebelum dijalankan"
-
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:122
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:197
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:258
-msgid "Beta Versions"
-msgstr "Versi Beta"
-
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:152
-msgid "Other options"
-msgstr "Opsi lain"
-
-#: download/index.twig:78
-msgid "Install LMMS on Windows"
-msgstr "Pasang LMMS di Windows"
-
-#: download/index.twig:79
-msgid ""
-"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
-"Windows"
-msgstr ""
-"Klik salah satu tombol dibawah (32bit atau 64bit) untuk mengunduh LMMS untuk"
-" Windows"
-
-#: download/index.twig:96
-msgid "Install LMMS on macOS"
-msgstr "Pasang LMMS di macOS"
-
-#: download/index.twig:97
-msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr "Klik salah satu tombol dibawah ini untuk mengunduh LMMS untuk macOS"
-
-#: download/index.twig:114
-msgid "Downloads labeled Beta are pre-release software, stability may suffer."
-msgstr ""
-"Unduhan berlabel Beta adalah perangkat lunak pra-rilis, stabilitas mungkin "
-"akan terganggu."
-
-#: download/index.twig:115
-msgid "Previous releases"
-msgstr "Rilis sebelumnya"
-
-#: download/index.twig:289
-msgid "Show release notes"
-msgstr "Tampilkan catatan rilis"
-
-#: branding.twig:6 navbar.php:14
-msgid "Branding"
-msgstr "Branding"
-
-#: branding.twig:6
-msgid "Download LMMS Artwork"
-msgstr "Unduh Karya seni LMMS"
-
-#: branding.twig:8
-msgid "LMMS Logo"
-msgstr "Logo LMMS"
-
-#: branding.twig:8 branding.twig:17
-msgid "LMMS Development Team"
-msgstr "Tim Pengembang LMMS"
-
-#: branding.twig:17
-msgid "LMMS Project Icon"
-msgstr "Ikon Proyek LMMS"
-
 #: download/linux.twig:6
 msgid ""
 "LMMS is included in most major Linux distribution's package repositories.<br>\n"
-"\tPlease <a href=\"get-involved/#contact\">contact us</a> if your distribution is not listed here."
+"\tPlease <a href=\"/get-involved/#contact\">contact us</a> if your distribution is not listed here."
 msgstr ""
-"LMMS disertakan dalam sebagian besar paket repositori distribusi Linux.<br>\n"
-"\tMohon <a href=\"get-involved/#contact\">hubungi kami</a> jika distribusi Anda tidak terdaftar disini."
 
 #: download/linux.twig:48
 msgid ""
@@ -718,12 +702,8 @@ msgstr "Jika ini tidak bekerja, jalankan perintah ini di terminal."
 #: download/linux.twig:59
 msgid ""
 "If the traditional repositories lag behind on versions, try the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>."
+"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio repository</a>."
 msgstr ""
-"Jika repositori tradisional terasa lag, cobalah <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">repositori "
-"KXStudio</a>."
 
 #: download/linux.twig:60 download/linux.twig:81
 msgid "VST Support"
@@ -733,13 +713,9 @@ msgstr "Dukungan VST"
 msgid ""
 "If your distribution offers VST support (requires the installation of Wine) "
 "it is generally offered in a separate package.  For example, using the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>, run this command in a terminal."
+"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio repository</a>, run "
+"this command in a terminal."
 msgstr ""
-"JIka distro Anda menawarkan dukungan VST (membutuhkan pemasangan Wine) "
-"Biasanya ditawarkan dalam paket terpisah. Sebagai contoh, menggunakan <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\"> repositori "
-"KXStudio</a>, jalankan perintah ini didalam terminal."
 
 #: download/linux.twig:67 download/linux.twig:73
 msgid "Run the following command as root in a terminal:"
@@ -751,11 +727,8 @@ msgstr "Jalankan perintah berikut di terminal:"
 
 #: download/linux.twig:82
 msgid ""
-"For VST support, please see the <a "
-"href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
+"For VST support, please install wine or wine-staging from the repository"
 msgstr ""
-"Untuk dukungan VST, silakan lihat <a "
-"href=\"https://wiki.archlinux.org/index.php/LMMS\">Laman wiki Arch LMMS</a>"
 
 #: download/linux.twig:99
 msgid ""
@@ -774,15 +747,11 @@ msgstr "Untuk memasang LMMS di OS AOSC dengan PackageKit (direkomendasikan):"
 msgid "To install LMMS on AOSC OS with DPKG:"
 msgstr "Untuk memasang LMMS di OS AOSC dengan DPKG:"
 
-#: download/linux.twig:104
-msgid "To install LMMS on AOSC OS with RPM:"
-msgstr "Untuk memasang LMMS di OS AOSC dengan RPM:"
-
-#: download/linux.twig:110
+#: download/linux.twig:108
 msgid "Build LMMS from source"
 msgstr "Bangun LMMS dari sumber"
 
-#: download/linux.twig:111
+#: download/linux.twig:109
 msgid ""
 "If your Linux distribution does not provide a lmms package (or only an "
 "outdated one), you can still build LMMS from source. Visit the <a "
@@ -794,6 +763,20 @@ msgstr ""
 "<a href=\"https://github.com/LMMS/lmms/wiki/Compiling\">wiki pengembangan "
 "LMMS di GitHub</a> untuk mendapatkan petunjuk bagaimana mengkompilasi LMMS "
 "untuk Linux."
+
+#: /tmp/cache/twig/lmms.io/95/950f28faa1f77c22cd2dedea8fa64d623f9bae2322cf29746e0c8d410b55cc44.php:48
+msgid ""
+"We're sorry, something went wrong fetching the latest release info. You can "
+"still download releases on <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+msgstr ""
+"Mohon maaf, ada yang salah ketika mengambil info rilis terbaru. Anda masih "
+"bisa mengunduh rilis di <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+
+#: foot.twig:27
+msgid "Powered by"
+msgstr "Dipersembahkan oleh"
 
 #: home.twig:11
 msgid "Let's make music"
@@ -931,8 +914,8 @@ msgid "We <3 open source."
 msgstr "Kami <3 sumber terbuka."
 
 #: home.twig:106
-msgid "Fork us on Github"
-msgstr "Fork kami di Github"
+msgid "Fork us on GitHub"
+msgstr ""
 
 #: home.twig:108
 #, php-format
@@ -940,8 +923,8 @@ msgid "LMMS is a 100% free, open source, community-driven project."
 msgstr "LMMS adalah proyek 100% gratis, sumber terbuka, berbasis komunitas."
 
 #: home.twig:109
-msgid "Proudly hosted on Github."
-msgstr "Dengan bangga dihosting di Github."
+msgid "Proudly hosted on GitHub."
+msgstr ""
 
 #: home.twig:124
 msgid "Take a peek."

@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 15:50-0600\n"
+"POT-Creation-Date: 2019-11-22 22:29+0000\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
 "Last-Translator: Promovis Romania <promovis@gmail.com>, 2018\n"
 "Language-Team: Romanian (https://www.transifex.com/lmms/teams/61632/ro/)\n"
@@ -21,20 +21,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
-
-#: foot.twig:27
-msgid "Powered by"
-msgstr "Susținut de"
-
-#: /tmp/cache/twig/lmms.io/3b/3bf2453e3b5c9de9061a3cec2ed6def0c18087d9fffc4d0f6c832d4c1204028b.php:48
-msgid ""
-"We're sorry, something went wrong fetching the latest release info. You can "
-"still download releases on <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
-msgstr ""
-"Ne cerem scuze, a aparut o problema cu gasirea ultimei versiuni LMMS. Alte "
-"versiuni se gasesc la <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
 
 #: competitions.twig:10 navbar.php:13
 msgid "Competitions"
@@ -56,7 +42,7 @@ msgstr "Competitii anterioare:"
 msgid "The Best of LMMS vol. VI"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:91
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:91
 msgid ""
 "#### The competition has ended on **April 2nd, 2019**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-6)\n"
@@ -101,7 +87,7 @@ msgstr ""
 msgid "The Best of LMMS vol. V"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:153
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:153
 msgid ""
 "#### The competition has ended on **April 16th, 2018**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
@@ -148,7 +134,7 @@ msgstr ""
 msgid "The Best of LMMS vol. IV"
 msgstr "Top Cantece LMMS vol. IV"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:217
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:217
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -216,7 +202,7 @@ msgstr ""
 msgid "The Best of LMMS vol. III"
 msgstr "Top Cantece LMMS vol. III"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:278
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:278
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -272,7 +258,7 @@ msgstr ""
 msgid "The Best of LMMS vol. II"
 msgstr "Top Cantece LMMS vol. II"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:327
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:327
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -327,7 +313,7 @@ msgstr ""
 msgid "The Best of LMMS vol. I"
 msgstr "Top Cantece LMMS vol. I"
 
-#: /tmp/cache/twig/lmms.io/49/490c976f2062954d74bde708e2eb894481e144f4b313e2a9d1bad2b650162c0a.php:375
+#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:375
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
@@ -379,33 +365,105 @@ msgstr ""
 "\t\t\t5. Lansatea. Topul va i lansat pe contul LMMS de Bandcamp pentru artisti cu optiunea “Plateste cat vrei”. Toate fondurile\n"
 "\t\t\t\tvor fi donate pentru imbunatatirea LMMS, programul pe care il iubim."
 
-#: showcase.twig:6 navbar.php:12
-msgid "Showcase"
-msgstr "Prezentare"
+#: branding.twig:6 navbar.php:14
+msgid "Branding"
+msgstr "Marca"
 
-#: showcase.twig:6
-msgid "Tracks made with LMMS"
-msgstr "Piese compuse cu LMMS"
+#: branding.twig:6
+msgid "Download LMMS Artwork"
+msgstr "Descarcati Imagini cu LMMS"
 
-#: showcase.twig:12 showcase.twig:20
-msgid "The Best of LMMS Vol. 5 by LMMS Artists"
+#: branding.twig:8
+msgid "LMMS Logo"
+msgstr "LMMS Logo"
+
+#: branding.twig:8 branding.twig:17
+msgid "LMMS Development Team"
+msgstr "Echipa de dezvoltare LMMS"
+
+#: branding.twig:17
+msgid "LMMS Project Icon"
+msgstr "Imagine de Proiect LMMS"
+
+#: download/index.twig:32
+msgid "Download LMMS"
+msgstr "Descarcati LMMS"
+
+#: download/index.twig:32
+msgid ""
+"Downloading and using LMMS is free! Just choose the operating system you "
+"want to run LMMS on:"
 msgstr ""
+"Descarcarea si folosirea LMMS este gratiuta! Selectati doar sistemul de "
+"operare pe care vreti sa folositi LMMS:"
 
-#: showcase.twig:28
-msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr "Top piese compuse cu LMMS, Vol. 4 de artiștii LMMS"
+#: download/index.twig:51
+msgid "Install LMMS on Linux"
+msgstr "Instalati LMMS pe Linux"
 
-#: showcase.twig:36
-msgid "The Best of LMMS Vol.3 by LMMS Artists"
-msgstr "Topul Pieselor LMMS Vol.3 de Artistii LMMS"
+#: download/index.twig:52
+msgid "Click one of the buttons below to download LMMS for Linux."
+msgstr ""
+"Faceți clic pe unul dintre butoanele de mai jos pentru a descărca LMMS "
+"pentru Linux."
 
-#: showcase.twig:44
-msgid "The Best of LMMS Vol.2 by LMMS Artists"
-msgstr "Topul Pieselor LMMS Vol.2 de Artistii LMMS"
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:89
+#: download/index.twig:80
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:231
+msgid "Stable Versions"
+msgstr "Versiuni Stabile"
 
-#: showcase.twig:52
-msgid "The Best of LMMS Vol.1 by LMMS Artists"
-msgstr "Topul Pieselor LMMS Vol.1 de Artistii LMMS"
+#: download/index.twig:59
+msgid ""
+"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
+"<code>.AppImage</code> executable before running"
+msgstr ""
+"Executați <code>chmod + x ~ / Downloads / *. AppImage</code> pentru a seta "
+"permisiunile asupra executabilului <code>.AppImage</code> înainte de a-l "
+"rula"
+
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:122
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:197
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:258
+msgid "Beta Versions"
+msgstr "Versiuni Beta"
+
+#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:152
+msgid "Other options"
+msgstr "Alte opțiuni"
+
+#: download/index.twig:78
+msgid "Install LMMS on Windows"
+msgstr "Instalați LMMS pentru Windows"
+
+#: download/index.twig:79
+msgid ""
+"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
+"Windows"
+msgstr ""
+"Apasati unul don butoanele de mai jos (32bit sau 64bit) pentru a descarca "
+"LMMS pentru Windows"
+
+#: download/index.twig:96
+msgid "Install LMMS on macOS"
+msgstr "Instalati LMMS pe macOS"
+
+#: download/index.twig:97
+msgid "Click one of the buttons below to download LMMS for macOS"
+msgstr ""
+"Apasati unul don butoanele urmatoare pentru a descarca LMMS pentru macOS"
+
+#: download/index.twig:114
+msgid "Downloads labeled Beta are pre-release software, stability may suffer."
+msgstr "Link-urile marcate \"Beta\" nu au fost lansate si nu sunt stabile. "
+
+#: download/index.twig:115
+msgid "Previous releases"
+msgstr "Lansari anterioare"
+
+#: download/index.twig:289
+msgid "Show release notes"
+msgstr "Arata detalii pentru aceasta versiune"
 
 #: get-involved.twig:6 navbar.php:7
 msgid "Get Involved"
@@ -566,6 +624,34 @@ msgstr ""
 "Pentru a sesiza un bug sau pentru a sugera o imbunatatire, va rugam sa "
 "folositi tracker-ul GitHub issue:"
 
+#: showcase.twig:6 navbar.php:12
+msgid "Showcase"
+msgstr "Prezentare"
+
+#: showcase.twig:6
+msgid "Tracks made with LMMS"
+msgstr "Piese compuse cu LMMS"
+
+#: showcase.twig:12 showcase.twig:20
+msgid "The Best of LMMS Vol. 5 by LMMS Artists"
+msgstr ""
+
+#: showcase.twig:28
+msgid "The Best of LMMS Vol. 4 by LMMS Artists"
+msgstr "Top piese compuse cu LMMS, Vol. 4 de artiștii LMMS"
+
+#: showcase.twig:36
+msgid "The Best of LMMS Vol.3 by LMMS Artists"
+msgstr "Topul Pieselor LMMS Vol.3 de Artistii LMMS"
+
+#: showcase.twig:44
+msgid "The Best of LMMS Vol.2 by LMMS Artists"
+msgstr "Topul Pieselor LMMS Vol.2 de Artistii LMMS"
+
+#: showcase.twig:52
+msgid "The Best of LMMS Vol.1 by LMMS Artists"
+msgstr "Topul Pieselor LMMS Vol.1 de Artistii LMMS"
+
 #: errorpage.twig:6
 msgid "Error <b>%code%</b>"
 msgstr "<b>%cod%</b> de eroare"
@@ -579,114 +665,11 @@ msgstr ""
 " acest lucru și <a href=\"//github.com/LMMS/lmms.io/issues/new\">să "
 "semnalați problema pe GitHub</a> (GitHub issue)."
 
-#: download/index.twig:32
-msgid "Download LMMS"
-msgstr "Descarcati LMMS"
-
-#: download/index.twig:32
-msgid ""
-"Downloading and using LMMS is free! Just choose the operating system you "
-"want to run LMMS on:"
-msgstr ""
-"Descarcarea si folosirea LMMS este gratiuta! Selectati doar sistemul de "
-"operare pe care vreti sa folositi LMMS:"
-
-#: download/index.twig:51
-msgid "Install LMMS on Linux"
-msgstr "Instalati LMMS pe Linux"
-
-#: download/index.twig:52
-msgid "Click one of the buttons below to download LMMS for Linux."
-msgstr ""
-"Faceți clic pe unul dintre butoanele de mai jos pentru a descărca LMMS "
-"pentru Linux."
-
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:89
-#: download/index.twig:80
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:231
-msgid "Stable Versions"
-msgstr "Versiuni Stabile"
-
-#: download/index.twig:59
-msgid ""
-"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
-"<code>.AppImage</code> executable before running"
-msgstr ""
-"Executați <code>chmod + x ~ / Downloads / *. AppImage</code> pentru a seta "
-"permisiunile asupra executabilului <code>.AppImage</code> înainte de a-l "
-"rula"
-
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:122
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:197
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:258
-msgid "Beta Versions"
-msgstr "Versiuni Beta"
-
-#: /tmp/cache/twig/lmms.io/a2/a2ed50594b6920b34fbfc5fbd9d5a33077f9857a8552c0880481c7a4272a36d8.php:152
-msgid "Other options"
-msgstr "Alte opțiuni"
-
-#: download/index.twig:78
-msgid "Install LMMS on Windows"
-msgstr "Instalați LMMS pentru Windows"
-
-#: download/index.twig:79
-msgid ""
-"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
-"Windows"
-msgstr ""
-"Apasati unul don butoanele de mai jos (32bit sau 64bit) pentru a descarca "
-"LMMS pentru Windows"
-
-#: download/index.twig:96
-msgid "Install LMMS on macOS"
-msgstr "Instalati LMMS pe macOS"
-
-#: download/index.twig:97
-msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr ""
-"Apasati unul don butoanele urmatoare pentru a descarca LMMS pentru macOS"
-
-#: download/index.twig:114
-msgid "Downloads labeled Beta are pre-release software, stability may suffer."
-msgstr "Link-urile marcate \"Beta\" nu au fost lansate si nu sunt stabile. "
-
-#: download/index.twig:115
-msgid "Previous releases"
-msgstr "Lansari anterioare"
-
-#: download/index.twig:289
-msgid "Show release notes"
-msgstr "Arata detalii pentru aceasta versiune"
-
-#: branding.twig:6 navbar.php:14
-msgid "Branding"
-msgstr "Marca"
-
-#: branding.twig:6
-msgid "Download LMMS Artwork"
-msgstr "Descarcati Imagini cu LMMS"
-
-#: branding.twig:8
-msgid "LMMS Logo"
-msgstr "LMMS Logo"
-
-#: branding.twig:8 branding.twig:17
-msgid "LMMS Development Team"
-msgstr "Echipa de dezvoltare LMMS"
-
-#: branding.twig:17
-msgid "LMMS Project Icon"
-msgstr "Imagine de Proiect LMMS"
-
 #: download/linux.twig:6
 msgid ""
 "LMMS is included in most major Linux distribution's package repositories.<br>\n"
-"\tPlease <a href=\"get-involved/#contact\">contact us</a> if your distribution is not listed here."
+"\tPlease <a href=\"/get-involved/#contact\">contact us</a> if your distribution is not listed here."
 msgstr ""
-"LMMS este inclus în majoritatea distribuțiilor Linux importante.<br>\tVă "
-"rugăm <a href=\"get-involved/#contact\">să ne contactați</a> dacă "
-"distribuția dvs. nu este listată aici."
 
 #: download/linux.twig:48
 msgid ""
@@ -711,13 +694,8 @@ msgstr "Daca nu functioneaza, scrieti aceasta comanda in terminal"
 #: download/linux.twig:59
 msgid ""
 "If the traditional repositories lag behind on versions, try the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>."
+"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio repository</a>."
 msgstr ""
-"Dacă depozitele de pachete tradiționale nu conțin versiunile actualizate, "
-"încercați  <a "
-"href=\"http\\://kxstudio.sourceforge.net/Repositories#Ubuntu\">depozitul "
-"KXStudio</a>."
 
 #: download/linux.twig:60 download/linux.twig:81
 msgid "VST Support"
@@ -727,14 +705,9 @@ msgstr "Suport VST"
 msgid ""
 "If your distribution offers VST support (requires the installation of Wine) "
 "it is generally offered in a separate package.  For example, using the <a "
-"href=\"http://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio "
-"repository</a>, run this command in a terminal."
+"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio repository</a>, run "
+"this command in a terminal."
 msgstr ""
-"Dacă distribuția dvs. oferă suport pentru VST (necesită instalarea Wine), "
-"acesta este în general oferit într-un pachet separat. De exemplu, utilizând "
-"depozitul  <a "
-"href=\"http\\://kxstudio.sourceforge.net/Repositories#Ubuntu\">KXStudio</a>,"
-" rulați această comandă într-un terminal."
 
 #: download/linux.twig:67 download/linux.twig:73
 msgid "Run the following command as root in a terminal:"
@@ -746,11 +719,8 @@ msgstr "Rulați următoarea comandă într-un terminal:"
 
 #: download/linux.twig:82
 msgid ""
-"For VST support, please see the <a "
-"href=\"https://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki page</a>"
+"For VST support, please install wine or wine-staging from the repository"
 msgstr ""
-"Pentru suportul VST, consultați pagina <a "
-"href=\"https\\://wiki.archlinux.org/index.php/LMMS\">Arch LMMS wiki</a>"
 
 #: download/linux.twig:99
 msgid ""
@@ -771,15 +741,11 @@ msgstr ""
 msgid "To install LMMS on AOSC OS with DPKG:"
 msgstr "Pentru a instala LMMS în sistemul de operare AOSC cu DPKG:"
 
-#: download/linux.twig:104
-msgid "To install LMMS on AOSC OS with RPM:"
-msgstr "Pentru a instala LMMS în sistemul de operare AOSC cu RPM:"
-
-#: download/linux.twig:110
+#: download/linux.twig:108
 msgid "Build LMMS from source"
 msgstr "Compilați LMMS din sursă"
 
-#: download/linux.twig:111
+#: download/linux.twig:109
 msgid ""
 "If your Linux distribution does not provide a lmms package (or only an "
 "outdated one), you can still build LMMS from source. Visit the <a "
@@ -790,6 +756,20 @@ msgstr ""
 "învechit), puteți totuși compila LMMS din surse. Vizitați wiki-ul de "
 "dezvoltare  <a href=\"https\\://github.com/LMMS/lmms/wiki/Compiling\">LMMS "
 "pe GitHub</a> pentru instrucțiuni despre cum să compilați LMMS pentru Linux."
+
+#: /tmp/cache/twig/lmms.io/95/950f28faa1f77c22cd2dedea8fa64d623f9bae2322cf29746e0c8d410b55cc44.php:48
+msgid ""
+"We're sorry, something went wrong fetching the latest release info. You can "
+"still download releases on <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+msgstr ""
+"Ne cerem scuze, a aparut o problema cu gasirea ultimei versiuni LMMS. Alte "
+"versiuni se gasesc la <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+
+#: foot.twig:27
+msgid "Powered by"
+msgstr "Susținut de"
 
 #: home.twig:11
 msgid "Let's make music"
@@ -927,8 +907,8 @@ msgid "We <3 open source."
 msgstr "Noi <3 open source."
 
 #: home.twig:106
-msgid "Fork us on Github"
-msgstr "Urmariti-ne pe GitHub"
+msgid "Fork us on GitHub"
+msgstr ""
 
 #: home.twig:108
 #, php-format
@@ -936,8 +916,8 @@ msgid "LMMS is a 100% free, open source, community-driven project."
 msgstr "LMMS este un proiect 100% gratuit, open source, bazat pe comunitate."
 
 #: home.twig:109
-msgid "Proudly hosted on Github."
-msgstr "Găzduit cu mândrie pe Github."
+msgid "Proudly hosted on GitHub."
+msgstr ""
 
 #: home.twig:124
 msgid "Take a peek."
