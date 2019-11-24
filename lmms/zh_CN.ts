@@ -2489,16 +2489,11 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="447"/>
-        <source>does not appear to be a valid</source>
-        <translation>并不是一个有效的</translation>
+        <source>%1 does not appear to be a valid %2 file</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="448"/>
-        <source>file</source>
-        <translation>文件</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="782"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="781"/>
         <source>--- Factory files ---</source>
         <translation>---软件自带文件---</translation>
     </message>
@@ -7833,22 +7828,6 @@ Reason: &quot;%2&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="186"/>
-        <source>FFT block bize</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="187"/>
-        <source>FFT block size</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="202"/>
-        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="203"/>
-        <source>FFT window type</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="229"/>
         <source>Envelope res.</source>
         <translation type="unfinished"/>
@@ -7997,6 +7976,18 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="297"/>
         <source>Access advanced settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="186"/>
+        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="187"/>
+        <source>FFT block size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="202"/>
+        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="203"/>
+        <source>FFT window type</source>
         <translation type="unfinished"/>
     </message>
 </context>

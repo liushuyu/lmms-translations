@@ -24,8 +24,7 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="100"/>
         <source>LMMS - easy music production for everyone.</source>
-        <translation>LMMS-produção de música fácil para todos. 
-</translation>
+        <translation>LMMS-produção de música fácil para todos. </translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="126"/>
@@ -153,7 +152,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="469"/>
         <source>Open sample</source>
-        <translation type="unfinished"/>
+        <translation>Abrir amostra</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="478"/>
@@ -173,7 +172,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="508"/>
         <source>Enable ping-pong loop</source>
-        <translation type="unfinished"/>
+        <translation>Habilitar loop ping-pong</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="523"/>
@@ -188,12 +187,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="532"/>
         <source>Start point:</source>
-        <translation type="unfinished"/>
+        <translation>Ponto de início:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="536"/>
         <source>End point:</source>
-        <translation type="unfinished"/>
+        <translation>Ponto de fim:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="540"/>
@@ -239,7 +238,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="469"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Canais</translation>
     </message>
 </context>
 <context>
@@ -247,12 +246,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="330"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="342"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Canais</translation>
     </message>
 </context>
 <context>
@@ -265,7 +264,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="422"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo</translation>
     </message>
 </context>
 <context>
@@ -273,12 +272,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="317"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="329"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Canais</translation>
     </message>
 </context>
 <context>
@@ -286,7 +285,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo</translation>
     </message>
 </context>
 <context>
@@ -294,12 +293,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="196"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="208"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Canais</translation>
     </message>
 </context>
 <context>
@@ -312,7 +311,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="436"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo</translation>
     </message>
 </context>
 <context>
@@ -2481,16 +2480,11 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="447"/>
-        <source>does not appear to be a valid</source>
-        <translation>não parece ser válido</translation>
+        <source>%1 does not appear to be a valid %2 file</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="448"/>
-        <source>file</source>
-        <translation>arquivo</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="782"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="781"/>
         <source>--- Factory files ---</source>
         <translation>--- Arquivos de fábrica ---</translation>
     </message>
@@ -4875,7 +4869,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="456"/>
         <source>Metronome</source>
-        <translation type="unfinished"/>
+        <translation>Metrônomo</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="475"/>
@@ -5275,7 +5269,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     <message>
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="45"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo</translation>
     </message>
 </context>
 <context>
@@ -7128,12 +7122,12 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4534"/>
         <source>Scale</source>
-        <translation type="unfinished"/>
+        <translation>Escala</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4543"/>
         <source>Chord</source>
-        <translation type="unfinished"/>
+        <translation>Acorde</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4548"/>
@@ -7557,7 +7551,7 @@ Motivo: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="38"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Pausar</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="39"/>
@@ -7734,12 +7728,12 @@ Motivo: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="86"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Pausar</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="87"/>
         <source>Pause data acquisition</source>
-        <translation type="unfinished"/>
+        <translation>Pausar aquisição de dados</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="98"/>
@@ -7821,22 +7815,6 @@ Motivo: &quot;%2&quot;</translation>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="172"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="173"/>
         <source>Amplitude range</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="186"/>
-        <source>FFT block bize</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="187"/>
-        <source>FFT block size</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="202"/>
-        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="203"/>
-        <source>FFT window type</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7988,6 +7966,18 @@ Motivo: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="297"/>
         <source>Access advanced settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="186"/>
+        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="187"/>
+        <source>FFT block size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="202"/>
+        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="203"/>
+        <source>FFT window type</source>
         <translation type="unfinished"/>
     </message>
 </context>

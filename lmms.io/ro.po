@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-22 22:29+0000\n"
+"POT-Creation-Date: 2019-11-24 08:09+0000\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
 "Last-Translator: Promovis Romania <promovis@gmail.com>, 2018\n"
 "Language-Team: Romanian (https://www.transifex.com/lmms/teams/61632/ro/)\n"
@@ -42,7 +42,7 @@ msgstr "Competitii anterioare:"
 msgid "The Best of LMMS vol. VI"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:91
+#: /tmp/cache/twig/lmms.io/10/10f74b9e544b38d27dbfbf6804e0ead2449159ec84d3396d9da4881f37ab8cb8.php:91
 msgid ""
 "#### The competition has ended on **April 2nd, 2019**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-6)\n"
@@ -87,7 +87,7 @@ msgstr ""
 msgid "The Best of LMMS vol. V"
 msgstr ""
 
-#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:153
+#: /tmp/cache/twig/lmms.io/10/10f74b9e544b38d27dbfbf6804e0ead2449159ec84d3396d9da4881f37ab8cb8.php:153
 msgid ""
 "#### The competition has ended on **April 16th, 2018**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
@@ -134,7 +134,7 @@ msgstr ""
 msgid "The Best of LMMS vol. IV"
 msgstr "Top Cantece LMMS vol. IV"
 
-#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:217
+#: /tmp/cache/twig/lmms.io/10/10f74b9e544b38d27dbfbf6804e0ead2449159ec84d3396d9da4881f37ab8cb8.php:217
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -202,7 +202,7 @@ msgstr ""
 msgid "The Best of LMMS vol. III"
 msgstr "Top Cantece LMMS vol. III"
 
-#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:278
+#: /tmp/cache/twig/lmms.io/10/10f74b9e544b38d27dbfbf6804e0ead2449159ec84d3396d9da4881f37ab8cb8.php:278
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -258,7 +258,7 @@ msgstr ""
 msgid "The Best of LMMS vol. II"
 msgstr "Top Cantece LMMS vol. II"
 
-#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:327
+#: /tmp/cache/twig/lmms.io/10/10f74b9e544b38d27dbfbf6804e0ead2449159ec84d3396d9da4881f37ab8cb8.php:327
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -313,7 +313,7 @@ msgstr ""
 msgid "The Best of LMMS vol. I"
 msgstr "Top Cantece LMMS vol. I"
 
-#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:375
+#: /tmp/cache/twig/lmms.io/10/10f74b9e544b38d27dbfbf6804e0ead2449159ec84d3396d9da4881f37ab8cb8.php:375
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
@@ -364,306 +364,6 @@ msgstr ""
 "\t\t\t4. Procesul de jurizare. Dupa data limita, juriul va lua decizii si va anunta rezultatele in urmatoarele 14 zile.\n"
 "\t\t\t5. Lansatea. Topul va i lansat pe contul LMMS de Bandcamp pentru artisti cu optiunea “Plateste cat vrei”. Toate fondurile\n"
 "\t\t\t\tvor fi donate pentru imbunatatirea LMMS, programul pe care il iubim."
-
-#: branding.twig:6 navbar.php:14
-msgid "Branding"
-msgstr "Marca"
-
-#: branding.twig:6
-msgid "Download LMMS Artwork"
-msgstr "Descarcati Imagini cu LMMS"
-
-#: branding.twig:8
-msgid "LMMS Logo"
-msgstr "LMMS Logo"
-
-#: branding.twig:8 branding.twig:17
-msgid "LMMS Development Team"
-msgstr "Echipa de dezvoltare LMMS"
-
-#: branding.twig:17
-msgid "LMMS Project Icon"
-msgstr "Imagine de Proiect LMMS"
-
-#: download/index.twig:32
-msgid "Download LMMS"
-msgstr "Descarcati LMMS"
-
-#: download/index.twig:32
-msgid ""
-"Downloading and using LMMS is free! Just choose the operating system you "
-"want to run LMMS on:"
-msgstr ""
-"Descarcarea si folosirea LMMS este gratiuta! Selectati doar sistemul de "
-"operare pe care vreti sa folositi LMMS:"
-
-#: download/index.twig:51
-msgid "Install LMMS on Linux"
-msgstr "Instalati LMMS pe Linux"
-
-#: download/index.twig:52
-msgid "Click one of the buttons below to download LMMS for Linux."
-msgstr ""
-"Faceți clic pe unul dintre butoanele de mai jos pentru a descărca LMMS "
-"pentru Linux."
-
-#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:89
-#: download/index.twig:80
-#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:231
-msgid "Stable Versions"
-msgstr "Versiuni Stabile"
-
-#: download/index.twig:59
-msgid ""
-"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
-"<code>.AppImage</code> executable before running"
-msgstr ""
-"Executați <code>chmod + x ~ / Downloads / *. AppImage</code> pentru a seta "
-"permisiunile asupra executabilului <code>.AppImage</code> înainte de a-l "
-"rula"
-
-#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:122
-#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:197
-#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:258
-msgid "Beta Versions"
-msgstr "Versiuni Beta"
-
-#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:152
-msgid "Other options"
-msgstr "Alte opțiuni"
-
-#: download/index.twig:78
-msgid "Install LMMS on Windows"
-msgstr "Instalați LMMS pentru Windows"
-
-#: download/index.twig:79
-msgid ""
-"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
-"Windows"
-msgstr ""
-"Apasati unul don butoanele de mai jos (32bit sau 64bit) pentru a descarca "
-"LMMS pentru Windows"
-
-#: download/index.twig:96
-msgid "Install LMMS on macOS"
-msgstr "Instalati LMMS pe macOS"
-
-#: download/index.twig:97
-msgid "Click one of the buttons below to download LMMS for macOS"
-msgstr ""
-"Apasati unul don butoanele urmatoare pentru a descarca LMMS pentru macOS"
-
-#: download/index.twig:114
-msgid "Downloads labeled Beta are pre-release software, stability may suffer."
-msgstr "Link-urile marcate \"Beta\" nu au fost lansate si nu sunt stabile. "
-
-#: download/index.twig:115
-msgid "Previous releases"
-msgstr "Lansari anterioare"
-
-#: download/index.twig:289
-msgid "Show release notes"
-msgstr "Arata detalii pentru aceasta versiune"
-
-#: get-involved.twig:6 navbar.php:7
-msgid "Get Involved"
-msgstr "Implica-te"
-
-#: get-involved.twig:6
-msgid ""
-"LMMS is a free, open-source software built entirely by a small number of\n"
-"\tvolunteers in their free time. But to keep the project going, we need this\n"
-"\tnumber to grow. So if you feel like giving something back to the community,\n"
-"\tjoin us in making LMMS better!"
-msgstr ""
-"LMMS este un software gratuit, open-source construit in totalitate de un numar mic de\n"
-"\tvoluntari in timpul lor liber. Dar, pentru a mentine proiectul avem nevoie ca acest\n"
-"\tnumar sa creasca. Deci, casa simtit ca este impul sa dati inapoi comunitatii,\n"
-"\talaturati-va noua si ajutati-ne sa imbunatatim LMMS!"
-
-#: get-involved.twig:11
-msgid "What you can do"
-msgstr "Ce puteți face"
-
-#: get-involved.twig:12
-msgid "There are multiple ways of contributing:"
-msgstr "Sunt mai multe moduri de a contribui:"
-
-#: get-involved.twig:18
-msgid "Join Development"
-msgstr "Alaturati-va echipei de Programare"
-
-#: get-involved.twig:21
-msgid ""
-"We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt\n"
-"\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
-"\t\t\t\t\t   coding!"
-msgstr ""
-"Numarul de programatori LMMS este foarte redul la momentul de fata si orice ajutor este binevenit. LMMS este construit in C++ folosing Framework-ul Qt \n"
-"\t\t\t\t\t, deci daca sunteti cat de putin familiar cu acestea, nu ezitati sa va suflecati manecile si sa incpeti sa\t\t\t\t\t codati. "
-
-#: get-involved.twig:24
-msgid ""
-"See our <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> and our\n"
-"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker</a> to get started. Furthermore, the LMMS\n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
-"\t\t\t\t\t   to introduce yourself."
-msgstr ""
-"Vizitati <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> si\n"
-"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker-ul nostru</a> pentru inceput. Mai mult decat atat,\n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">lista de mail LMMS</a> este un loc gorzav\n"
-"\t\t\t\t\t   pentru a va introduce."
-
-#: get-involved.twig:35
-msgid "Website & Docs"
-msgstr "Pagina Web & Documentatie"
-
-#: get-involved.twig:38
-msgid ""
-"You can help us by improving this website or documenting the software. The website sources are in our\n"
-"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, our documentation is hosted using a\n"
-"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki instance</a>."
-msgstr ""
-"Ne puteti ajuta sa imbunatatim aceasta pagina web sau documentatia LMMS . Sursele paginii web se gasesc ls\n"
-"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a> iar documentatia noastra este sustinuta la\n"
-"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">instanta MediaWiki</a>."
-
-#: get-involved.twig:41
-msgid ""
-"Public registration on our Wiki is disabled due to spam issues. Please post to the\n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> if you're\n"
-"\t\t\t\t\t   interested in helping out with the documentation!"
-msgstr ""
-"Inregistrarea publica pe pagina Wiki nu este permisa din cauza de posibile mesaje spam. Va rugam, postati folosind\n"
-"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">lista de mail</a> daca sunteti\n"
-"\t\t\t\t\t   interesati sa ajutati cu documentatia!"
-
-#: get-involved.twig:53
-msgid "Donate"
-msgstr "Donatii"
-
-#: get-involved.twig:56
-msgid ""
-"Even though donations are not the thing we need the most (that'd be developers), they help us pay\n"
-"\t\t\t\t\t   our bills, for our domain lmms.io for instance."
-msgstr ""
-"Chiar daca donatiile nu sunt resursa de care acem cea mai mare nevoie (aceea ar fi programatorii), banii primiti de ajuta sa ne platim\n"
-"\t\t\t\t\t   taxele de intretinere, pentru domeniul lmms.io de exemplu."
-
-#: get-involved.twig:59
-msgid "Donate via PayPal"
-msgstr "Donati cu PayPal"
-
-#: get-involved.twig:68
-msgid "Translations"
-msgstr "Traduceri"
-
-#: get-involved.twig:71
-msgid ""
-"If your language is missing in LMMS, help the project and other users speaking the same language by\n"
-"\t\t\t\t\t   translating the software. You can find instructions on the page\n"
-"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
-"\t\t\t\t\t   GitHub Wiki."
-msgstr ""
-"Daca limba dumneavoastra lipseste din LMMS, ajutati proiectul si alti utilizatori care vorbesc aceeasi limba ca si dumneavoastra\n"
-"\t\t\t\t\t   translatand acest software. Puteti gasi instructiuni la pagina\n"
-"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creati o localizare</a>\" inclusa in\n"
-"\t\t\t\t\t   GitHub Wiki-ul nostru."
-
-#: get-involved.twig:80
-msgid "How to get in touch"
-msgstr "Cum sa ne contactati"
-
-#: get-involved.twig:86
-msgid "Mailing List"
-msgstr "Lista de Mail"
-
-#: get-involved.twig:89
-msgid ""
-"Posting to the mailing list is the best way to reach out to our developers:"
-msgstr ""
-"Post-urile pe lista de mail sunt cea mai buna varianta de a contacta "
-"programatorii nostrii:"
-
-#: get-involved.twig:90
-msgid "Subscribe to LMMS-Devel mailing list"
-msgstr "Abonati-va la lista de mailing LMMS-Devel"
-
-#: get-involved.twig:101
-msgid ""
-"Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
-"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
-msgstr ""
-"Canalul nostru IRC este <a "
-"href=\"http\\://webchat.freenode.net/?channels=%23lmms\"># lmms</a> "
-"pe\t\t\t\t<a href=\"https\\://freenode.net\">Freenode</a>."
-
-#: get-involved.twig:103
-msgid ""
-"<a href=\"https://discordapp.com/\">Discord</a>\n"
-"\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
-"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
-msgstr ""
-"<a href=\"https\\://discordapp.com/\">Discord</a> este o alternativă mai "
-"modernă față de IRC. Alăturați-vă serverului nostru <a href=\"/chat/\">prin "
-"clic aici</a>."
-
-#: get-involved.twig:116 navbar.php:9
-msgid "Forum"
-msgstr "Forum"
-
-#: get-involved.twig:119
-msgid "We host a forum for our users here on this website:"
-msgstr "Gazduim un forum pentru userii noistrii la acest site:"
-
-#: get-involved.twig:131
-msgid ""
-"For reporting a bug or suggesting a new feature, please use the GitHub issue"
-" tracker:"
-msgstr ""
-"Pentru a sesiza un bug sau pentru a sugera o imbunatatire, va rugam sa "
-"folositi tracker-ul GitHub issue:"
-
-#: showcase.twig:6 navbar.php:12
-msgid "Showcase"
-msgstr "Prezentare"
-
-#: showcase.twig:6
-msgid "Tracks made with LMMS"
-msgstr "Piese compuse cu LMMS"
-
-#: showcase.twig:12 showcase.twig:20
-msgid "The Best of LMMS Vol. 5 by LMMS Artists"
-msgstr ""
-
-#: showcase.twig:28
-msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr "Top piese compuse cu LMMS, Vol. 4 de artiștii LMMS"
-
-#: showcase.twig:36
-msgid "The Best of LMMS Vol.3 by LMMS Artists"
-msgstr "Topul Pieselor LMMS Vol.3 de Artistii LMMS"
-
-#: showcase.twig:44
-msgid "The Best of LMMS Vol.2 by LMMS Artists"
-msgstr "Topul Pieselor LMMS Vol.2 de Artistii LMMS"
-
-#: showcase.twig:52
-msgid "The Best of LMMS Vol.1 by LMMS Artists"
-msgstr "Topul Pieselor LMMS Vol.1 de Artistii LMMS"
-
-#: errorpage.twig:6
-msgid "Error <b>%code%</b>"
-msgstr "<b>%cod%</b> de eroare"
-
-#: errorpage.twig:9
-msgid ""
-"If you followed a valid link on this site, please contact us\n"
-"      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
-msgstr ""
-"Dacă ați urmat un link valid pe acest site, vă rugăm să ne contactați despre"
-" acest lucru și <a href=\"//github.com/LMMS/lmms.io/issues/new\">să "
-"semnalați problema pe GitHub</a> (GitHub issue)."
 
 #: download/linux.twig:6
 msgid ""
@@ -757,19 +457,85 @@ msgstr ""
 "dezvoltare  <a href=\"https\\://github.com/LMMS/lmms/wiki/Compiling\">LMMS "
 "pe GitHub</a> pentru instrucțiuni despre cum să compilați LMMS pentru Linux."
 
-#: /tmp/cache/twig/lmms.io/95/950f28faa1f77c22cd2dedea8fa64d623f9bae2322cf29746e0c8d410b55cc44.php:48
-msgid ""
-"We're sorry, something went wrong fetching the latest release info. You can "
-"still download releases on <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
-msgstr ""
-"Ne cerem scuze, a aparut o problema cu gasirea ultimei versiuni LMMS. Alte "
-"versiuni se gasesc la <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+#: download/index.twig:32
+msgid "Download LMMS"
+msgstr "Descarcati LMMS"
 
-#: foot.twig:27
-msgid "Powered by"
-msgstr "Susținut de"
+#: download/index.twig:32
+msgid ""
+"Downloading and using LMMS is free! Just choose the operating system you "
+"want to run LMMS on:"
+msgstr ""
+"Descarcarea si folosirea LMMS este gratiuta! Selectati doar sistemul de "
+"operare pe care vreti sa folositi LMMS:"
+
+#: download/index.twig:51
+msgid "Install LMMS on Linux"
+msgstr "Instalati LMMS pe Linux"
+
+#: download/index.twig:52
+msgid "Click one of the buttons below to download LMMS for Linux."
+msgstr ""
+"Faceți clic pe unul dintre butoanele de mai jos pentru a descărca LMMS "
+"pentru Linux."
+
+#: /tmp/cache/twig/lmms.io/18/188ce72be8f89e02da49df472f65840dc98cd42094a45e37f15c770b19b066cb.php:89
+#: download/index.twig:80
+#: /tmp/cache/twig/lmms.io/18/188ce72be8f89e02da49df472f65840dc98cd42094a45e37f15c770b19b066cb.php:231
+msgid "Stable Versions"
+msgstr "Versiuni Stabile"
+
+#: download/index.twig:59
+msgid ""
+"Run <code>chmod +x ~/Downloads/*.AppImage</code> to set the "
+"<code>.AppImage</code> executable before running"
+msgstr ""
+"Executați <code>chmod + x ~ / Downloads / *. AppImage</code> pentru a seta "
+"permisiunile asupra executabilului <code>.AppImage</code> înainte de a-l "
+"rula"
+
+#: /tmp/cache/twig/lmms.io/18/188ce72be8f89e02da49df472f65840dc98cd42094a45e37f15c770b19b066cb.php:122
+#: /tmp/cache/twig/lmms.io/18/188ce72be8f89e02da49df472f65840dc98cd42094a45e37f15c770b19b066cb.php:197
+#: /tmp/cache/twig/lmms.io/18/188ce72be8f89e02da49df472f65840dc98cd42094a45e37f15c770b19b066cb.php:258
+msgid "Beta Versions"
+msgstr "Versiuni Beta"
+
+#: /tmp/cache/twig/lmms.io/18/188ce72be8f89e02da49df472f65840dc98cd42094a45e37f15c770b19b066cb.php:152
+msgid "Other options"
+msgstr "Alte opțiuni"
+
+#: download/index.twig:78
+msgid "Install LMMS on Windows"
+msgstr "Instalați LMMS pentru Windows"
+
+#: download/index.twig:79
+msgid ""
+"Click one of the buttons below (either 32bit or 64bit) to download LMMS for "
+"Windows"
+msgstr ""
+"Apasati unul don butoanele de mai jos (32bit sau 64bit) pentru a descarca "
+"LMMS pentru Windows"
+
+#: download/index.twig:96
+msgid "Install LMMS on macOS"
+msgstr "Instalati LMMS pe macOS"
+
+#: download/index.twig:97
+msgid "Click one of the buttons below to download LMMS for macOS"
+msgstr ""
+"Apasati unul don butoanele urmatoare pentru a descarca LMMS pentru macOS"
+
+#: download/index.twig:114
+msgid "Downloads labeled Beta are pre-release software, stability may suffer."
+msgstr "Link-urile marcate \"Beta\" nu au fost lansate si nu sunt stabile. "
+
+#: download/index.twig:115
+msgid "Previous releases"
+msgstr "Lansari anterioare"
+
+#: download/index.twig:289
+msgid "Show release notes"
+msgstr "Arata detalii pentru aceasta versiune"
 
 #: home.twig:11
 msgid "Let's make music"
@@ -1038,6 +804,240 @@ msgstr "Egalizatori grafici si parametrici all-in-one"
 #: home.twig:196
 msgid "Built-in visualization/spectrum analyzer"
 msgstr "Modul incorporat vizualizare / analizor de spectru"
+
+#: branding.twig:6 navbar.php:14
+msgid "Branding"
+msgstr "Marca"
+
+#: branding.twig:6
+msgid "Download LMMS Artwork"
+msgstr "Descarcati Imagini cu LMMS"
+
+#: branding.twig:8
+msgid "LMMS Logo"
+msgstr "LMMS Logo"
+
+#: branding.twig:8 branding.twig:17
+msgid "LMMS Development Team"
+msgstr "Echipa de dezvoltare LMMS"
+
+#: branding.twig:17
+msgid "LMMS Project Icon"
+msgstr "Imagine de Proiect LMMS"
+
+#: /tmp/cache/twig/lmms.io/83/838302d214c8b4111d0e7a984c9a925150c7c3063f00eb9645ccc830bc0bbfee.php:48
+msgid ""
+"We're sorry, something went wrong fetching the latest release info. You can "
+"still download releases on <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+msgstr ""
+"Ne cerem scuze, a aparut o problema cu gasirea ultimei versiuni LMMS. Alte "
+"versiuni se gasesc la <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+
+#: foot.twig:27
+msgid "Powered by"
+msgstr "Susținut de"
+
+#: showcase.twig:6 navbar.php:12
+msgid "Showcase"
+msgstr "Prezentare"
+
+#: showcase.twig:6
+msgid "Tracks made with LMMS"
+msgstr "Piese compuse cu LMMS"
+
+#: showcase.twig:12 showcase.twig:20
+msgid "The Best of LMMS Vol. 5 by LMMS Artists"
+msgstr ""
+
+#: showcase.twig:28
+msgid "The Best of LMMS Vol. 4 by LMMS Artists"
+msgstr "Top piese compuse cu LMMS, Vol. 4 de artiștii LMMS"
+
+#: showcase.twig:36
+msgid "The Best of LMMS Vol.3 by LMMS Artists"
+msgstr "Topul Pieselor LMMS Vol.3 de Artistii LMMS"
+
+#: showcase.twig:44
+msgid "The Best of LMMS Vol.2 by LMMS Artists"
+msgstr "Topul Pieselor LMMS Vol.2 de Artistii LMMS"
+
+#: showcase.twig:52
+msgid "The Best of LMMS Vol.1 by LMMS Artists"
+msgstr "Topul Pieselor LMMS Vol.1 de Artistii LMMS"
+
+#: errorpage.twig:6
+msgid "Error <b>%code%</b>"
+msgstr "<b>%cod%</b> de eroare"
+
+#: errorpage.twig:9
+msgid ""
+"If you followed a valid link on this site, please contact us\n"
+"      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
+msgstr ""
+"Dacă ați urmat un link valid pe acest site, vă rugăm să ne contactați despre"
+" acest lucru și <a href=\"//github.com/LMMS/lmms.io/issues/new\">să "
+"semnalați problema pe GitHub</a> (GitHub issue)."
+
+#: get-involved.twig:6 navbar.php:7
+msgid "Get Involved"
+msgstr "Implica-te"
+
+#: get-involved.twig:6
+msgid ""
+"LMMS is a free, open-source software built entirely by a small number of\n"
+"\tvolunteers in their free time. But to keep the project going, we need this\n"
+"\tnumber to grow. So if you feel like giving something back to the community,\n"
+"\tjoin us in making LMMS better!"
+msgstr ""
+"LMMS este un software gratuit, open-source construit in totalitate de un numar mic de\n"
+"\tvoluntari in timpul lor liber. Dar, pentru a mentine proiectul avem nevoie ca acest\n"
+"\tnumar sa creasca. Deci, casa simtit ca este impul sa dati inapoi comunitatii,\n"
+"\talaturati-va noua si ajutati-ne sa imbunatatim LMMS!"
+
+#: get-involved.twig:11
+msgid "What you can do"
+msgstr "Ce puteți face"
+
+#: get-involved.twig:12
+msgid "There are multiple ways of contributing:"
+msgstr "Sunt mai multe moduri de a contribui:"
+
+#: get-involved.twig:18
+msgid "Join Development"
+msgstr "Alaturati-va echipei de Programare"
+
+#: get-involved.twig:21
+msgid ""
+"We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt\n"
+"\t\t\t\t\t   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with\n"
+"\t\t\t\t\t   coding!"
+msgstr ""
+"Numarul de programatori LMMS este foarte redul la momentul de fata si orice ajutor este binevenit. LMMS este construit in C++ folosing Framework-ul Qt \n"
+"\t\t\t\t\t, deci daca sunteti cat de putin familiar cu acestea, nu ezitati sa va suflecati manecile si sa incpeti sa\t\t\t\t\t codati. "
+
+#: get-involved.twig:24
+msgid ""
+"See our <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> and our\n"
+"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker</a> to get started. Furthermore, the LMMS\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> is a great place\n"
+"\t\t\t\t\t   to introduce yourself."
+msgstr ""
+"Vizitati <a href=\"//github.com/LMMS/lmms/wiki\">GitHub Wiki</a> si\n"
+"\t\t\t\t\t   <a href=\"//github.com/LMMS/lmms/issues\">bug tracker-ul nostru</a> pentru inceput. Mai mult decat atat,\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">lista de mail LMMS</a> este un loc gorzav\n"
+"\t\t\t\t\t   pentru a va introduce."
+
+#: get-involved.twig:35
+msgid "Website & Docs"
+msgstr "Pagina Web & Documentatie"
+
+#: get-involved.twig:38
+msgid ""
+"You can help us by improving this website or documenting the software. The website sources are in our\n"
+"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a>, our documentation is hosted using a\n"
+"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">MediaWiki instance</a>."
+msgstr ""
+"Ne puteti ajuta sa imbunatatim aceasta pagina web sau documentatia LMMS . Sursele paginii web se gasesc ls\n"
+"\t\t\t\t\t   GitHub repo <a href=\"//github.com/LMMS/lmms.io\">LMMS/lmms.io</a> iar documentatia noastra este sustinuta la\n"
+"\t\t\t\t\t   <a href=\"//lmms.io/wiki\">instanta MediaWiki</a>."
+
+#: get-involved.twig:41
+msgid ""
+"Public registration on our Wiki is disabled due to spam issues. Please post to the\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">mailing list</a> if you're\n"
+"\t\t\t\t\t   interested in helping out with the documentation!"
+msgstr ""
+"Inregistrarea publica pe pagina Wiki nu este permisa din cauza de posibile mesaje spam. Va rugam, postati folosind\n"
+"\t\t\t\t\t   <a href=\"https://lists.sourceforge.net/lists/listinfo/lmms-devel\">lista de mail</a> daca sunteti\n"
+"\t\t\t\t\t   interesati sa ajutati cu documentatia!"
+
+#: get-involved.twig:53
+msgid "Donate"
+msgstr "Donatii"
+
+#: get-involved.twig:56
+msgid ""
+"Even though donations are not the thing we need the most (that'd be developers), they help us pay\n"
+"\t\t\t\t\t   our bills, for our domain lmms.io for instance."
+msgstr ""
+"Chiar daca donatiile nu sunt resursa de care acem cea mai mare nevoie (aceea ar fi programatorii), banii primiti de ajuta sa ne platim\n"
+"\t\t\t\t\t   taxele de intretinere, pentru domeniul lmms.io de exemplu."
+
+#: get-involved.twig:59
+msgid "Donate via PayPal"
+msgstr "Donati cu PayPal"
+
+#: get-involved.twig:68
+msgid "Translations"
+msgstr "Traduceri"
+
+#: get-involved.twig:71
+msgid ""
+"If your language is missing in LMMS, help the project and other users speaking the same language by\n"
+"\t\t\t\t\t   translating the software. You can find instructions on the page\n"
+"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creating a localization</a>\" in our\n"
+"\t\t\t\t\t   GitHub Wiki."
+msgstr ""
+"Daca limba dumneavoastra lipseste din LMMS, ajutati proiectul si alti utilizatori care vorbesc aceeasi limba ca si dumneavoastra\n"
+"\t\t\t\t\t   translatand acest software. Puteti gasi instructiuni la pagina\n"
+"\t\t\t\t\t   \"<a href=\"//github.com/LMMS/lmms/wiki/Creating-a-localization\">Creati o localizare</a>\" inclusa in\n"
+"\t\t\t\t\t   GitHub Wiki-ul nostru."
+
+#: get-involved.twig:80
+msgid "How to get in touch"
+msgstr "Cum sa ne contactati"
+
+#: get-involved.twig:86
+msgid "Mailing List"
+msgstr "Lista de Mail"
+
+#: get-involved.twig:89
+msgid ""
+"Posting to the mailing list is the best way to reach out to our developers:"
+msgstr ""
+"Post-urile pe lista de mail sunt cea mai buna varianta de a contacta "
+"programatorii nostrii:"
+
+#: get-involved.twig:90
+msgid "Subscribe to LMMS-Devel mailing list"
+msgstr "Abonati-va la lista de mailing LMMS-Devel"
+
+#: get-involved.twig:101
+msgid ""
+"Our IRC channel is <a href=\"http://webchat.freenode.net/?channels=%23lmms\">#lmms</a> on\n"
+"\t\t\t\t\t<a href=\"https://freenode.net\">Freenode</a>."
+msgstr ""
+"Canalul nostru IRC este <a "
+"href=\"http\\://webchat.freenode.net/?channels=%23lmms\"># lmms</a> "
+"pe\t\t\t\t<a href=\"https\\://freenode.net\">Freenode</a>."
+
+#: get-involved.twig:103
+msgid ""
+"<a href=\"https://discordapp.com/\">Discord</a>\n"
+"\t\t\t\t\tis a more modern alternative to IRC. Join our server \n"
+"\t\t\t\t\t<a href=\"/chat/\">by clicking here</a>."
+msgstr ""
+"<a href=\"https\\://discordapp.com/\">Discord</a> este o alternativă mai "
+"modernă față de IRC. Alăturați-vă serverului nostru <a href=\"/chat/\">prin "
+"clic aici</a>."
+
+#: get-involved.twig:116 navbar.php:9
+msgid "Forum"
+msgstr "Forum"
+
+#: get-involved.twig:119
+msgid "We host a forum for our users here on this website:"
+msgstr "Gazduim un forum pentru userii noistrii la acest site:"
+
+#: get-involved.twig:131
+msgid ""
+"For reporting a bug or suggesting a new feature, please use the GitHub issue"
+" tracker:"
+msgstr ""
+"Pentru a sesiza un bug sau pentru a sugera o imbunatatire, va rugam sa "
+"folositi tracker-ul GitHub issue:"
 
 #: artwork.php:18
 msgid "Author:"

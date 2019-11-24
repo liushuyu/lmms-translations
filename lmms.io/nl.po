@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-22 22:29+0000\n"
+"POT-Creation-Date: 2019-11-24 08:09+0000\n"
 "PO-Revision-Date: 2017-06-13 14:13+0000\n"
 "Last-Translator: Thomas De Rocker, 2019\n"
 "Language-Team: Dutch (https://www.transifex.com/lmms/teams/61632/nl/)\n"
@@ -43,7 +43,7 @@ msgstr "Vorige wedstrijden:"
 msgid "The Best of LMMS vol. VI"
 msgstr "The Best of LMMS vol. VI"
 
-#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:91
+#: /tmp/cache/twig/lmms.io/10/10f74b9e544b38d27dbfbf6804e0ead2449159ec84d3396d9da4881f37ab8cb8.php:91
 msgid ""
 "#### The competition has ended on **April 2nd, 2019**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-6)\n"
@@ -125,7 +125,7 @@ msgstr ""
 msgid "The Best of LMMS vol. V"
 msgstr "The Best of LMMS vol. V"
 
-#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:153
+#: /tmp/cache/twig/lmms.io/10/10f74b9e544b38d27dbfbf6804e0ead2449159ec84d3396d9da4881f37ab8cb8.php:153
 msgid ""
 "#### The competition has ended on **April 16th, 2018**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)\n"
@@ -210,7 +210,7 @@ msgstr ""
 msgid "The Best of LMMS vol. IV"
 msgstr "The Best of LMMS vol. IV"
 
-#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:217
+#: /tmp/cache/twig/lmms.io/10/10f74b9e544b38d27dbfbf6804e0ead2449159ec84d3396d9da4881f37ab8cb8.php:217
 msgid ""
 "#### The competition has ended on **April 16th, 2017**.\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)\n"
@@ -290,7 +290,7 @@ msgstr ""
 msgid "The Best of LMMS vol. III"
 msgstr "The Best of LMMS vol. III"
 
-#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:278
+#: /tmp/cache/twig/lmms.io/10/10f74b9e544b38d27dbfbf6804e0ead2449159ec84d3396d9da4881f37ab8cb8.php:278
 msgid ""
 "#### The competition has ended on **March 16th, 2016.**\n"
 "\t\t\tSupport LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)\n"
@@ -346,7 +346,7 @@ msgstr ""
 msgid "The Best of LMMS vol. II"
 msgstr "The Best of LMMS vol. II"
 
-#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:327
+#: /tmp/cache/twig/lmms.io/10/10f74b9e544b38d27dbfbf6804e0ead2449159ec84d3396d9da4881f37ab8cb8.php:327
 msgid ""
 "#### The competition has ended on **April 1st, 2015.**\n"
 "\n"
@@ -400,7 +400,7 @@ msgstr ""
 msgid "The Best of LMMS vol. I"
 msgstr "The Best of LMMS vol. I"
 
-#: /tmp/cache/twig/lmms.io/02/0204d07f37085df4710455f1ccf5ba83746bd50486e0ecd47ff8eb07237f4c2d.php:375
+#: /tmp/cache/twig/lmms.io/10/10f74b9e544b38d27dbfbf6804e0ead2449159ec84d3396d9da4881f37ab8cb8.php:375
 msgid ""
 "#### The competition has ended on **February 15th, 2014.**\n"
 "\n"
@@ -452,25 +452,105 @@ msgstr ""
 "\t\t\t4. Release. The compilation will be released on a dedicated LMMS artists Bandcamp with the price of “Pay what you want”. All the received funds\n"
 "\t\t\t\twill be donated for further development of LMMS, the program that we love."
 
-#: branding.twig:6 navbar.php:14
-msgid "Branding"
-msgstr "Huisstijl"
+#: download/linux.twig:6
+msgid ""
+"LMMS is included in most major Linux distribution's package repositories.<br>\n"
+"\tPlease <a href=\"/get-involved/#contact\">contact us</a> if your distribution is not listed here."
+msgstr ""
+"LMMS is bijgesloten in de meeste grote Linuxdistributie-package repositories.<br>\n"
+"\t<a href=\"/get-involved/#contact\">Neem contact met ons op</a> als uw distributie hier niet genoemd wordt."
 
-#: branding.twig:6
-msgid "Download LMMS Artwork"
-msgstr "LMMS-logo's downloaden"
+#: download/linux.twig:48
+msgid ""
+"For installing LMMS on Debian based distributions such as Debian itself, "
+"Ubuntu or Linux Mint, just click the button below."
+msgstr ""
+"Voor het installeren van LMMS op Debian-gebaseerde distributies zoals Debian"
+" zelf, Ubuntu of Linux Mint, klikt u op de onderstaande knop."
 
-#: branding.twig:8
-msgid "LMMS Logo"
-msgstr "LMMS-logo"
+#: download/linux.twig:53
+msgid "Install LMMS now"
+msgstr "LMMS nu installeren"
 
-#: branding.twig:8 branding.twig:17
-msgid "LMMS Development Team"
-msgstr "LMMS-ontwikkelingsteam"
+#: download/linux.twig:54
+msgid "From your package manager"
+msgstr "Van uw package-beheerder"
 
-#: branding.twig:17
-msgid "LMMS Project Icon"
-msgstr "LMMS-projectpictogram"
+#: download/linux.twig:57
+msgid "If this doesn't work for you, run this command in a terminal."
+msgstr "Als dit voor u niet werkt, start u deze opdracht in een terminal."
+
+#: download/linux.twig:59
+msgid ""
+"If the traditional repositories lag behind on versions, try the <a "
+"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio repository</a>."
+msgstr ""
+"Als de traditionele repositories achterlopen op versies, probeer dan de <a "
+"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio-repository</a>."
+
+#: download/linux.twig:60 download/linux.twig:81
+msgid "VST Support"
+msgstr "VST-ondersteuning"
+
+#: download/linux.twig:61
+msgid ""
+"If your distribution offers VST support (requires the installation of Wine) "
+"it is generally offered in a separate package.  For example, using the <a "
+"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio repository</a>, run "
+"this command in a terminal."
+msgstr ""
+"Als uw distributie VST-ondersteuning aanbiedt (vereist de installatie van "
+"Wine), wordt het over het algemeen in een aparte package aangeboden. "
+"Bijvoorbeeld bij het gebruik van de <a "
+"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio-repository</a> start"
+" u deze opdracht in een terminal."
+
+#: download/linux.twig:67 download/linux.twig:73
+msgid "Run the following command as root in a terminal:"
+msgstr "Start de volgende opdracht als root in een terminal:"
+
+#: download/linux.twig:79 download/linux.twig:93
+msgid "Run the following command in a terminal:"
+msgstr "Start de volgende opdracht in een terminal:"
+
+#: download/linux.twig:82
+msgid ""
+"For VST support, please install wine or wine-staging from the repository"
+msgstr ""
+"Installeer wine of wine-staging van de repository voor VST-ondersteuning"
+
+#: download/linux.twig:99
+msgid ""
+"AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and "
+"more to come in the future), with VST support enabled by default on AMD64."
+msgstr ""
+"AOSC OS levert LMMS op verschillende architecturale \"ports\" (AMD64/x86_64,"
+" ARMv7 en meer in de toekomst), met VST-ondersteuning standaard ingeschakeld"
+" op AMD64."
+
+#: download/linux.twig:100
+msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
+msgstr "Om LMMS te installeren op AOSC OS met PackageKit (aanbevolen):"
+
+#: download/linux.twig:102
+msgid "To install LMMS on AOSC OS with DPKG:"
+msgstr "Om LMMS te installeren op AOSC OS met DPKG:"
+
+#: download/linux.twig:108
+msgid "Build LMMS from source"
+msgstr "LMMS bouwen vanaf broncode"
+
+#: download/linux.twig:109
+msgid ""
+"If your Linux distribution does not provide a lmms package (or only an "
+"outdated one), you can still build LMMS from source. Visit the <a "
+"href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS development wiki "
+"on GitHub</a> for instructions on how to compile LMMS for Linux."
+msgstr ""
+"Als uw Linux-distributie geen lmms-pakket voorziet (of alleen een verouderd)"
+" kunt u LMMS nog steeds vanaf broncode opbouwen. Bezoek de <a "
+"href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS-ontwikkelingswiki "
+"op GitHub</a> voor instructies over hoe LMMS te compileren voor Linux."
 
 #: download/index.twig:32
 msgid "Download LMMS"
@@ -492,9 +572,9 @@ msgstr "LMMS op Linux installeren"
 msgid "Click one of the buttons below to download LMMS for Linux."
 msgstr "Klik op een van onderstaande knoppen om LMMS voor Linux te downloaden"
 
-#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:89
+#: /tmp/cache/twig/lmms.io/18/188ce72be8f89e02da49df472f65840dc98cd42094a45e37f15c770b19b066cb.php:89
 #: download/index.twig:80
-#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:231
+#: /tmp/cache/twig/lmms.io/18/188ce72be8f89e02da49df472f65840dc98cd42094a45e37f15c770b19b066cb.php:231
 msgid "Stable Versions"
 msgstr "Stabiele versies"
 
@@ -506,13 +586,13 @@ msgstr ""
 "Start <code>chmod +x ~/Downloads/*.AppImage</code> om de "
 "<code>.AppImage</code> executable in te stellen voor het starten"
 
-#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:122
-#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:197
-#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:258
+#: /tmp/cache/twig/lmms.io/18/188ce72be8f89e02da49df472f65840dc98cd42094a45e37f15c770b19b066cb.php:122
+#: /tmp/cache/twig/lmms.io/18/188ce72be8f89e02da49df472f65840dc98cd42094a45e37f15c770b19b066cb.php:197
+#: /tmp/cache/twig/lmms.io/18/188ce72be8f89e02da49df472f65840dc98cd42094a45e37f15c770b19b066cb.php:258
 msgid "Beta Versions"
 msgstr "Bèta-versies"
 
-#: /tmp/cache/twig/lmms.io/1d/1da5935a5b18c34077ea6c9d075257d650bce54d3cb2dc420d54a85752c2bc67.php:152
+#: /tmp/cache/twig/lmms.io/18/188ce72be8f89e02da49df472f65840dc98cd42094a45e37f15c770b19b066cb.php:152
 msgid "Other options"
 msgstr "Andere opties"
 
@@ -550,6 +630,349 @@ msgstr "Vorige releases"
 #: download/index.twig:289
 msgid "Show release notes"
 msgstr "Vrijgave-opmerkingen weergeven"
+
+#: home.twig:11
+msgid "Let's make music"
+msgstr "Laat ons muziek maken"
+
+#: home.twig:12
+msgid "with a free, cross-platform tool for your computer."
+msgstr "met een gratis, platformoverschrijdende tool voor uw computer."
+
+#: home.twig:14
+msgid "Download now"
+msgstr "Nu downloaden"
+
+#: home.twig:15 home.twig:107
+msgid "Get involved"
+msgstr "Betrokken raken"
+
+#: home.twig:27
+msgid "Making beats has never been easier."
+msgstr "Beats maken was nog nooit zo gemakkelijk."
+
+#: home.twig:32
+msgid "Produce music with your computer"
+msgstr "Muziek produceren met uw computer"
+
+#: home.twig:33
+msgid ""
+"by creating melodies and beats, synthesizing and mixing sounds, arranging "
+"samples and much more."
+msgstr ""
+"door melodieën en beats te maken, geluiden te synthetiseren en mixen, "
+"samples te ordenen en veel meer."
+
+#: home.twig:37
+msgid "Playback instruments, samples and plugins"
+msgstr "Instrumenten, samples en plug-ins afspelen"
+
+#: home.twig:38
+msgid ""
+"with a typing or MIDI keyboard in a user-friendly and modern interface."
+msgstr ""
+"met een gewoon of MIDI-toetsenbord in een gebruiksvriendelijke en moderne "
+"interface."
+
+#: home.twig:42
+msgid "Bundled with ready-to-use content"
+msgstr "Gebundeld met kant-en-klare inhoud"
+
+#: home.twig:43
+msgid ""
+"from an assortment of instrument and effect plugins, presets and samples to "
+"VST and SoundFont support."
+msgstr ""
+"van een assortiment van instrument- en effect-plug-ins, presets en samples "
+"tot VST en SoundFont-ondersteuning."
+
+#: home.twig:52
+msgid "Made by musicians, for musicians."
+msgstr "Gemaakt door muzikanten, voor muzikanten."
+
+#: home.twig:56
+msgid "Download for Linux"
+msgstr "Downloaden voor Linux"
+
+#: home.twig:57
+msgid "Download for Windows"
+msgstr "Downloaden voor Windows"
+
+#: home.twig:58
+msgid "Download for macOS"
+msgstr "Downloaden voor macOS"
+
+#: home.twig:59
+msgid "Pick your flavor."
+msgstr "Kies uw smaak."
+
+#: home.twig:60
+msgid "Linux, Windows or macOS."
+msgstr "Linux, Windows of macOS."
+
+#: home.twig:69
+msgid "Houston, we have a problem."
+msgstr "Houston, we have a problem."
+
+#: home.twig:70
+msgid "Stand by, we got you covered."
+msgstr "Stand by, we got you covered."
+
+#: home.twig:73
+msgid "Visit our forum"
+msgstr "Bezoek ons forum"
+
+#: home.twig:74
+msgid "Visit our Facebook page"
+msgstr "Bezoek onze Facebook-pagina"
+
+#: home.twig:75
+msgid "Chat now on Discord"
+msgstr "Nu op Discord chatten"
+
+#: home.twig:76
+msgid "Visit our GitHub page"
+msgstr "Bezoek onze GitHub-pagina"
+
+#: home.twig:77
+msgid "Ask your questions here"
+msgstr "Stel uw vragen hier"
+
+#: home.twig:78
+msgid "and answer a few questions while you're waiting."
+msgstr "en beantwoord er een paar terwijl u wacht."
+
+#: home.twig:85
+msgid "Sharing means caring."
+msgstr "Sharing means caring."
+
+#: home.twig:90
+msgid "Find musicians"
+msgstr "Muzikanten zoeken"
+
+#: home.twig:91
+msgid "Visit the LMMS Sharing Platform (LSP)"
+msgstr "Bezoek het LMMS Sharing Platform (LSP)"
+
+#: home.twig:92
+msgid "Don't be modest."
+msgstr "Wees niet verlegen."
+
+#: home.twig:93
+msgid "Show us your creations."
+msgstr "Toon ons uw creaties."
+
+#: home.twig:101
+msgid "We <3 open source."
+msgstr "Wij <3 opensource."
+
+#: home.twig:106
+msgid "Fork us on GitHub"
+msgstr "Fork ons op GitHub"
+
+#: home.twig:108
+#, php-format
+msgid "LMMS is a 100% free, open source, community-driven project."
+msgstr "LMMS is een 100 % gratis, opensource, gemeenschaps-gedreven project."
+
+#: home.twig:109
+msgid "Proudly hosted on GitHub."
+msgstr "Trots gehost op GitHub."
+
+#: home.twig:124
+msgid "Take a peek."
+msgstr "Neem een kijkje."
+
+#: home.twig:127
+msgid "Watch our promo video."
+msgstr "Bekijk onze promo-video"
+
+#: home.twig:139
+msgid "Click anywhere to close this dialog"
+msgstr "Klik om het even waar om dit venster te sluiten"
+
+#: home.twig:147
+msgid "Featuring:"
+msgstr "Functies:"
+
+#: home.twig:151
+msgid "Core Functionality"
+msgstr "Kernfunctionaliteit"
+
+#: home.twig:155
+msgid "Compose music on Windows, Linux and macOS"
+msgstr "Muziek componeren op Windows, Linux en macOS"
+
+#: home.twig:156
+msgid "Sequence, compose, mix and automate songs in one simple interface"
+msgstr ""
+"Songs sequencen, componeren, mixen en automatiseren in een simpele interface"
+
+#: home.twig:157
+msgid "Note playback via MIDI or typing keyboard"
+msgstr "Noten afspelen via MIDI- of gewoon toetsenbord"
+
+#: home.twig:158
+msgid "Consolidate instrument tracks using Beat+Bassline Editor"
+msgstr "Instrument-tracks aaneensluiten via de beat/baslijn-editor"
+
+#: home.twig:159
+msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
+msgstr ""
+"Patronen, noten, akkoorden en melodieën fijnstemmen met de piano roll "
+"editor."
+
+#: home.twig:160
+msgid ""
+"Full user-defined track-based automation and computer-controlled automation "
+"sources"
+msgstr ""
+"Volledige gebruikersgedefinieerde track-gebaseerde automatisering en "
+"computerbediende automatiseringsbronnen"
+
+#: home.twig:161
+msgid "Import of MIDI files and Hydrogen project files"
+msgstr "Importeren van MIDI-bestanden en Hydrogen-projectbestanden"
+
+#: home.twig:171
+msgid "Musical Instruments"
+msgstr "Muziekinstrumenten"
+
+#: home.twig:175
+msgid ""
+"Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
+"Windows)"
+msgstr ""
+"Ingebouwde 64-bit VST-instrument-ondersteuning met 32-bit VST-bridge (64-bit"
+" Windows)"
+
+#: home.twig:176
+msgid ""
+"16 built in synthesizers, including emultations of Roland ® TB-303, "
+"Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip"
+" and more"
+msgstr ""
+"16 ingebouwde synthesizers, inclusief emulaties van Roland® TB-303, "
+"Commodore 64® SID-microchip, Nintendo® NES en GameBoy, Yamaha® OPL2-chip en "
+"meer"
+
+#: home.twig:177
+msgid ""
+"Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
+"additive, subtractive and pad synthesis all in one powerful plugin"
+msgstr ""
+"Ingebouwde ZynAddSubFx: polyfonische, multitimbrale, microtonale, "
+"meerstemmige additieve, subtractieve en pad-synthese in een krachtige plug-"
+"in"
+
+#: home.twig:178
+msgid ""
+"Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis "
+"UltraSound ® (GUS) formats for high quality instrument patches and banks"
+msgstr ""
+"Ingebouwde multisample-ondersteuning voor SoundFont® (SF2), Giga (GIG) en "
+"Gravis UltraSound® (GUS) formaten voor instrument-patches en banks van hoge "
+"kwaliteit"
+
+#: home.twig:188
+msgid "Effects Mixing"
+msgstr "Effect-mixing"
+
+#: home.twig:192
+msgid "Drop-in LADSPA plug-in support"
+msgstr "Drop-in LADSPA plug-in ondersteuning"
+
+#: home.twig:193
+msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
+msgstr "Drop-in VST ® effect plug-in ondersteuning (Linux en Windows)"
+
+#: home.twig:194
+msgid ""
+"Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
+msgstr ""
+"Ingebouwde compressor, limiter, delay, reverb, distortion en bass-enhancer"
+
+#: home.twig:195
+msgid "Bundled graphic and parametric equalizers"
+msgstr "Gebundelde grafische en parametrische equalizers"
+
+#: home.twig:196
+msgid "Built-in visualization/spectrum analyzer"
+msgstr "Ingebouwde visualisatie/spectrum-analyser"
+
+#: branding.twig:6 navbar.php:14
+msgid "Branding"
+msgstr "Huisstijl"
+
+#: branding.twig:6
+msgid "Download LMMS Artwork"
+msgstr "LMMS-logo's downloaden"
+
+#: branding.twig:8
+msgid "LMMS Logo"
+msgstr "LMMS-logo"
+
+#: branding.twig:8 branding.twig:17
+msgid "LMMS Development Team"
+msgstr "LMMS-ontwikkelingsteam"
+
+#: branding.twig:17
+msgid "LMMS Project Icon"
+msgstr "LMMS-projectpictogram"
+
+#: /tmp/cache/twig/lmms.io/83/838302d214c8b4111d0e7a984c9a925150c7c3063f00eb9645ccc830bc0bbfee.php:48
+msgid ""
+"We're sorry, something went wrong fetching the latest release info. You can "
+"still download releases on <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+msgstr ""
+"Het spijt ons, er ging iets mis bij het ophalen van de laatste release-info."
+" U kunt releases nog steeds downloaden op <a "
+"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
+
+#: foot.twig:27
+msgid "Powered by"
+msgstr "Mogelijk gemaakt door"
+
+#: showcase.twig:6 navbar.php:12
+msgid "Showcase"
+msgstr "Showcase"
+
+#: showcase.twig:6
+msgid "Tracks made with LMMS"
+msgstr "Tracks met LMMS gemaakt"
+
+#: showcase.twig:12 showcase.twig:20
+msgid "The Best of LMMS Vol. 5 by LMMS Artists"
+msgstr "The Best of LMMS Vol. 5 door LMMS-artiesten"
+
+#: showcase.twig:28
+msgid "The Best of LMMS Vol. 4 by LMMS Artists"
+msgstr "The Best of LMMS Vol. 4 door LMMS-artiesten"
+
+#: showcase.twig:36
+msgid "The Best of LMMS Vol.3 by LMMS Artists"
+msgstr "The Best of LMMS Vol.3 door LMMS-artiesten"
+
+#: showcase.twig:44
+msgid "The Best of LMMS Vol.2 by LMMS Artists"
+msgstr "The Best of LMMS Vol.2 door LMMS-artiesten"
+
+#: showcase.twig:52
+msgid "The Best of LMMS Vol.1 by LMMS Artists"
+msgstr "The Best of LMMS Vol.1 door LMMS-artiesten"
+
+#: errorpage.twig:6
+msgid "Error <b>%code%</b>"
+msgstr "Fout <b>%code%</b>"
+
+#: errorpage.twig:9
+msgid ""
+"If you followed a valid link on this site, please contact us\n"
+"      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
+msgstr ""
+"Als u een geldige link volgde op deze site, contacteer ons hierover en\n"
+"      <a href=\"//github.com/LMMS/lmms.io/issues/new\">meld een probleem</a> op GitHub."
 
 #: get-involved.twig:6 navbar.php:7
 msgid "Get Involved"
@@ -709,419 +1132,6 @@ msgid ""
 msgstr ""
 "Voor het rapporteren van een bug of het suggereren van een nieuwe functie, "
 "bezoekt u de GitHub-issue-tracker:"
-
-#: showcase.twig:6 navbar.php:12
-msgid "Showcase"
-msgstr "Showcase"
-
-#: showcase.twig:6
-msgid "Tracks made with LMMS"
-msgstr "Tracks met LMMS gemaakt"
-
-#: showcase.twig:12 showcase.twig:20
-msgid "The Best of LMMS Vol. 5 by LMMS Artists"
-msgstr "The Best of LMMS Vol. 5 door LMMS-artiesten"
-
-#: showcase.twig:28
-msgid "The Best of LMMS Vol. 4 by LMMS Artists"
-msgstr "The Best of LMMS Vol. 4 door LMMS-artiesten"
-
-#: showcase.twig:36
-msgid "The Best of LMMS Vol.3 by LMMS Artists"
-msgstr "The Best of LMMS Vol.3 door LMMS-artiesten"
-
-#: showcase.twig:44
-msgid "The Best of LMMS Vol.2 by LMMS Artists"
-msgstr "The Best of LMMS Vol.2 door LMMS-artiesten"
-
-#: showcase.twig:52
-msgid "The Best of LMMS Vol.1 by LMMS Artists"
-msgstr "The Best of LMMS Vol.1 door LMMS-artiesten"
-
-#: errorpage.twig:6
-msgid "Error <b>%code%</b>"
-msgstr "Fout <b>%code%</b>"
-
-#: errorpage.twig:9
-msgid ""
-"If you followed a valid link on this site, please contact us\n"
-"      about it and <a href=\"//github.com/LMMS/lmms.io/issues/new\">file an issue</a> on GitHub."
-msgstr ""
-"Als u een geldige link volgde op deze site, contacteer ons hierover en\n"
-"      <a href=\"//github.com/LMMS/lmms.io/issues/new\">meld een probleem</a> op GitHub."
-
-#: download/linux.twig:6
-msgid ""
-"LMMS is included in most major Linux distribution's package repositories.<br>\n"
-"\tPlease <a href=\"/get-involved/#contact\">contact us</a> if your distribution is not listed here."
-msgstr ""
-
-#: download/linux.twig:48
-msgid ""
-"For installing LMMS on Debian based distributions such as Debian itself, "
-"Ubuntu or Linux Mint, just click the button below."
-msgstr ""
-"Voor het installeren van LMMS op Debian-gebaseerde distributies zoals Debian"
-" zelf, Ubuntu of Linux Mint, klikt u op de onderstaande knop."
-
-#: download/linux.twig:53
-msgid "Install LMMS now"
-msgstr "LMMS nu installeren"
-
-#: download/linux.twig:54
-msgid "From your package manager"
-msgstr "Van uw package-beheerder"
-
-#: download/linux.twig:57
-msgid "If this doesn't work for you, run this command in a terminal."
-msgstr "Als dit voor u niet werkt, start u deze opdracht in een terminal."
-
-#: download/linux.twig:59
-msgid ""
-"If the traditional repositories lag behind on versions, try the <a "
-"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio repository</a>."
-msgstr ""
-
-#: download/linux.twig:60 download/linux.twig:81
-msgid "VST Support"
-msgstr "VST-ondersteuning"
-
-#: download/linux.twig:61
-msgid ""
-"If your distribution offers VST support (requires the installation of Wine) "
-"it is generally offered in a separate package.  For example, using the <a "
-"href=\"https://kx.studio/Repositories#Ubuntu\">KXStudio repository</a>, run "
-"this command in a terminal."
-msgstr ""
-
-#: download/linux.twig:67 download/linux.twig:73
-msgid "Run the following command as root in a terminal:"
-msgstr "Start de volgende opdracht als root in een terminal:"
-
-#: download/linux.twig:79 download/linux.twig:93
-msgid "Run the following command in a terminal:"
-msgstr "Start de volgende opdracht in een terminal:"
-
-#: download/linux.twig:82
-msgid ""
-"For VST support, please install wine or wine-staging from the repository"
-msgstr ""
-
-#: download/linux.twig:99
-msgid ""
-"AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and "
-"more to come in the future), with VST support enabled by default on AMD64."
-msgstr ""
-"AOSC OS levert LMMS op verschillende architecturale \"ports\" (AMD64/x86_64,"
-" ARMv7 en meer in de toekomst), met VST-ondersteuning standaard ingeschakeld"
-" op AMD64."
-
-#: download/linux.twig:100
-msgid "To install LMMS on AOSC OS with PackageKit (recommended):"
-msgstr "Om LMMS te installeren op AOSC OS met PackageKit (aanbevolen):"
-
-#: download/linux.twig:102
-msgid "To install LMMS on AOSC OS with DPKG:"
-msgstr "Om LMMS te installeren op AOSC OS met DPKG:"
-
-#: download/linux.twig:108
-msgid "Build LMMS from source"
-msgstr "LMMS bouwen vanaf broncode"
-
-#: download/linux.twig:109
-msgid ""
-"If your Linux distribution does not provide a lmms package (or only an "
-"outdated one), you can still build LMMS from source. Visit the <a "
-"href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS development wiki "
-"on GitHub</a> for instructions on how to compile LMMS for Linux."
-msgstr ""
-"Als uw Linux-distributie geen lmms-pakket voorziet (of alleen een verouderd)"
-" kunt u LMMS nog steeds vanaf broncode opbouwen. Bezoek de <a "
-"href=\"https://github.com/LMMS/lmms/wiki/Compiling\">LMMS-ontwikkelingswiki "
-"op GitHub</a> voor instructies over hoe LMMS te compileren voor Linux."
-
-#: /tmp/cache/twig/lmms.io/95/950f28faa1f77c22cd2dedea8fa64d623f9bae2322cf29746e0c8d410b55cc44.php:48
-msgid ""
-"We're sorry, something went wrong fetching the latest release info. You can "
-"still download releases on <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
-msgstr ""
-"Het spijt ons, er ging iets mis bij het ophalen van de laatste release-info."
-" U kunt releases nog steeds downloaden op <a "
-"href=\"//github.com/LMMS/lmms/releases\">GitHub</a>."
-
-#: foot.twig:27
-msgid "Powered by"
-msgstr "Mogelijk gemaakt door"
-
-#: home.twig:11
-msgid "Let's make music"
-msgstr "Laat ons muziek maken"
-
-#: home.twig:12
-msgid "with a free, cross-platform tool for your computer."
-msgstr "met een gratis, platformoverschrijdende tool voor uw computer."
-
-#: home.twig:14
-msgid "Download now"
-msgstr "Nu downloaden"
-
-#: home.twig:15 home.twig:107
-msgid "Get involved"
-msgstr "Betrokken raken"
-
-#: home.twig:27
-msgid "Making beats has never been easier."
-msgstr "Beats maken was nog nooit zo gemakkelijk."
-
-#: home.twig:32
-msgid "Produce music with your computer"
-msgstr "Muziek produceren met uw computer"
-
-#: home.twig:33
-msgid ""
-"by creating melodies and beats, synthesizing and mixing sounds, arranging "
-"samples and much more."
-msgstr ""
-"door melodieën en beats te maken, geluiden te synthetiseren en mixen, "
-"samples te ordenen en veel meer."
-
-#: home.twig:37
-msgid "Playback instruments, samples and plugins"
-msgstr "Instrumenten, samples en plug-ins afspelen"
-
-#: home.twig:38
-msgid ""
-"with a typing or MIDI keyboard in a user-friendly and modern interface."
-msgstr ""
-"met een gewoon of MIDI-toetsenbord in een gebruiksvriendelijke en moderne "
-"interface."
-
-#: home.twig:42
-msgid "Bundled with ready-to-use content"
-msgstr "Gebundeld met kant-en-klare inhoud"
-
-#: home.twig:43
-msgid ""
-"from an assortment of instrument and effect plugins, presets and samples to "
-"VST and SoundFont support."
-msgstr ""
-"van een assortiment van instrument- en effect-plug-ins, presets en samples "
-"tot VST en SoundFont-ondersteuning."
-
-#: home.twig:52
-msgid "Made by musicians, for musicians."
-msgstr "Gemaakt door muzikanten, voor muzikanten."
-
-#: home.twig:56
-msgid "Download for Linux"
-msgstr "Downloaden voor Linux"
-
-#: home.twig:57
-msgid "Download for Windows"
-msgstr "Downloaden voor Windows"
-
-#: home.twig:58
-msgid "Download for macOS"
-msgstr "Downloaden voor macOS"
-
-#: home.twig:59
-msgid "Pick your flavor."
-msgstr "Kies uw smaak."
-
-#: home.twig:60
-msgid "Linux, Windows or macOS."
-msgstr "Linux, Windows of macOS."
-
-#: home.twig:69
-msgid "Houston, we have a problem."
-msgstr "Houston, we have a problem."
-
-#: home.twig:70
-msgid "Stand by, we got you covered."
-msgstr "Stand by, we got you covered."
-
-#: home.twig:73
-msgid "Visit our forum"
-msgstr "Bezoek ons forum"
-
-#: home.twig:74
-msgid "Visit our Facebook page"
-msgstr "Bezoek onze Facebook-pagina"
-
-#: home.twig:75
-msgid "Chat now on Discord"
-msgstr "Nu op Discord chatten"
-
-#: home.twig:76
-msgid "Visit our GitHub page"
-msgstr "Bezoek onze GitHub-pagina"
-
-#: home.twig:77
-msgid "Ask your questions here"
-msgstr "Stel uw vragen hier"
-
-#: home.twig:78
-msgid "and answer a few questions while you're waiting."
-msgstr "en beantwoord er een paar terwijl u wacht."
-
-#: home.twig:85
-msgid "Sharing means caring."
-msgstr "Sharing means caring."
-
-#: home.twig:90
-msgid "Find musicians"
-msgstr "Muzikanten zoeken"
-
-#: home.twig:91
-msgid "Visit the LMMS Sharing Platform (LSP)"
-msgstr "Bezoek het LMMS Sharing Platform (LSP)"
-
-#: home.twig:92
-msgid "Don't be modest."
-msgstr "Wees niet verlegen."
-
-#: home.twig:93
-msgid "Show us your creations."
-msgstr "Toon ons uw creaties."
-
-#: home.twig:101
-msgid "We <3 open source."
-msgstr "Wij <3 opensource."
-
-#: home.twig:106
-msgid "Fork us on GitHub"
-msgstr ""
-
-#: home.twig:108
-#, php-format
-msgid "LMMS is a 100% free, open source, community-driven project."
-msgstr "LMMS is een 100 % gratis, opensource, gemeenschaps-gedreven project."
-
-#: home.twig:109
-msgid "Proudly hosted on GitHub."
-msgstr ""
-
-#: home.twig:124
-msgid "Take a peek."
-msgstr "Neem een kijkje."
-
-#: home.twig:127
-msgid "Watch our promo video."
-msgstr "Bekijk onze promo-video"
-
-#: home.twig:139
-msgid "Click anywhere to close this dialog"
-msgstr "Klik om het even waar om dit venster te sluiten"
-
-#: home.twig:147
-msgid "Featuring:"
-msgstr "Functies:"
-
-#: home.twig:151
-msgid "Core Functionality"
-msgstr "Kernfunctionaliteit"
-
-#: home.twig:155
-msgid "Compose music on Windows, Linux and macOS"
-msgstr "Muziek componeren op Windows, Linux en macOS"
-
-#: home.twig:156
-msgid "Sequence, compose, mix and automate songs in one simple interface"
-msgstr ""
-"Songs sequencen, componeren, mixen en automatiseren in een simpele interface"
-
-#: home.twig:157
-msgid "Note playback via MIDI or typing keyboard"
-msgstr "Noten afspelen via MIDI- of gewoon toetsenbord"
-
-#: home.twig:158
-msgid "Consolidate instrument tracks using Beat+Bassline Editor"
-msgstr "Instrument-tracks aaneensluiten via de beat/baslijn-editor"
-
-#: home.twig:159
-msgid "Fine tune patterns, notes, chords and melodies using Piano Roll Editor"
-msgstr ""
-"Patronen, noten, akkoorden en melodieën fijnstemmen met de piano roll "
-"editor."
-
-#: home.twig:160
-msgid ""
-"Full user-defined track-based automation and computer-controlled automation "
-"sources"
-msgstr ""
-"Volledige gebruikersgedefinieerde track-gebaseerde automatisering en "
-"computerbediende automatiseringsbronnen"
-
-#: home.twig:161
-msgid "Import of MIDI files and Hydrogen project files"
-msgstr "Importeren van MIDI-bestanden en Hydrogen-projectbestanden"
-
-#: home.twig:171
-msgid "Musical Instruments"
-msgstr "Muziekinstrumenten"
-
-#: home.twig:175
-msgid ""
-"Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit "
-"Windows)"
-msgstr ""
-"Ingebouwde 64-bit VST-instrument-ondersteuning met 32-bit VST-bridge (64-bit"
-" Windows)"
-
-#: home.twig:176
-msgid ""
-"16 built in synthesizers, including emultations of Roland ® TB-303, "
-"Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip"
-" and more"
-msgstr ""
-"16 ingebouwde synthesizers, inclusief emulaties van Roland® TB-303, "
-"Commodore 64® SID-microchip, Nintendo® NES en GameBoy, Yamaha® OPL2-chip en "
-"meer"
-
-#: home.twig:177
-msgid ""
-"Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice "
-"additive, subtractive and pad synthesis all in one powerful plugin"
-msgstr ""
-"Ingebouwde ZynAddSubFx: polyfonische, multitimbrale, microtonale, "
-"meerstemmige additieve, subtractieve en pad-synthese in een krachtige plug-"
-"in"
-
-#: home.twig:178
-msgid ""
-"Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis "
-"UltraSound ® (GUS) formats for high quality instrument patches and banks"
-msgstr ""
-"Ingebouwde multisample-ondersteuning voor SoundFont® (SF2), Giga (GIG) en "
-"Gravis UltraSound® (GUS) formaten voor instrument-patches en banks van hoge "
-"kwaliteit"
-
-#: home.twig:188
-msgid "Effects Mixing"
-msgstr "Effect-mixing"
-
-#: home.twig:192
-msgid "Drop-in LADSPA plug-in support"
-msgstr "Drop-in LADSPA plug-in ondersteuning"
-
-#: home.twig:193
-msgid "Drop-in VST ® effect plug-in support (Linux and Windows)"
-msgstr "Drop-in VST ® effect plug-in ondersteuning (Linux en Windows)"
-
-#: home.twig:194
-msgid ""
-"Built-in compressor, limiter, delay, reverb, distortion and bass enhancer"
-msgstr ""
-"Ingebouwde compressor, limiter, delay, reverb, distortion en bass-enhancer"
-
-#: home.twig:195
-msgid "Bundled graphic and parametric equalizers"
-msgstr "Gebundelde grafische en parametrische equalizers"
-
-#: home.twig:196
-msgid "Built-in visualization/spectrum analyzer"
-msgstr "Ingebouwde visualisatie/spectrum-analyser"
 
 #: artwork.php:18
 msgid "Author:"

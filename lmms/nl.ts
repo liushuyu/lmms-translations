@@ -234,12 +234,12 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="457"/>
         <source>Client name</source>
-        <translation type="unfinished"/>
+        <translation>Naam client</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="469"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanalen</translation>
     </message>
 </context>
 <context>
@@ -247,12 +247,12 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="330"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Apparaat</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="342"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanalen</translation>
     </message>
 </context>
 <context>
@@ -260,12 +260,12 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="415"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Backend</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="422"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Apparaat</translation>
     </message>
 </context>
 <context>
@@ -273,12 +273,12 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="317"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Apparaat</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="329"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanalen</translation>
     </message>
 </context>
 <context>
@@ -286,7 +286,7 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Apparaat</translation>
     </message>
 </context>
 <context>
@@ -294,12 +294,12 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="196"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Apparaat</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="208"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanalen</translation>
     </message>
 </context>
 <context>
@@ -307,12 +307,12 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="429"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Backend</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="436"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Apparaat</translation>
     </message>
 </context>
 <context>
@@ -1501,7 +1501,7 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="98"/>
         <source>Toggle Step Recording</source>
-        <translation type="unfinished"/>
+        <translation>Stap-opnemen in-/uitschakelen</translation>
     </message>
 </context>
 <context>
@@ -2174,12 +2174,12 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="61"/>
         <source>Render Looped Section:</source>
-        <translation type="unfinished"/>
+        <translation>Herhaalde sectie renderen:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="68"/>
         <source> time(s)</source>
-        <translation type="unfinished"/>
+        <translation> keer</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="89"/>
@@ -2481,16 +2481,11 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="447"/>
-        <source>does not appear to be a valid</source>
-        <translation>lijkt niet geldig te zijn</translation>
+        <source>%1 does not appear to be a valid %2 file</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="448"/>
-        <source>file</source>
-        <translation>bestand</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="782"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="781"/>
         <source>--- Factory files ---</source>
         <translation>--- Factory-bestanden ---</translation>
     </message>
@@ -4747,7 +4742,7 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="177"/>
         <source>Loading background picture</source>
-        <translation type="unfinished"/>
+        <translation>Achtergrondafbeelding laden</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="291"/>
@@ -5166,7 +5161,7 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="110"/>
         <source>You have not set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
-        <translation type="unfinished"/>
+        <translation>U heeft geen standaard soundfont ingesteld in de instellingen (Bewerken -&gt; Instellingen). Hierdoor wordt er geen geluid afgespeeld na het importeren van dit MIDI-bestand. Download een General MIDI soundfont, selecteer deze in de instellingen probeer opnieuw.</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="122"/>
@@ -5176,12 +5171,12 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="314"/>
         <source>MIDI Time Signature Numerator</source>
-        <translation type="unfinished"/>
+        <translation>MIDI tijdsaanduiding-teller</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="317"/>
         <source>MIDI Time Signature Denominator</source>
-        <translation type="unfinished"/>
+        <translation>MIDI tijdsaanduiding-noemer</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="320"/>
@@ -5277,7 +5272,7 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
     <message>
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="45"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Apparaat</translation>
     </message>
 </context>
 <context>
@@ -6504,7 +6499,7 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="120"/>
         <source>Op 2 sustain</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 sustain</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="121"/>
@@ -6751,7 +6746,7 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="680"/>
         <source>Set as ghost in piano-roll</source>
-        <translation type="unfinished"/>
+        <translation>Als ghost instellen in piano-roll</translation>
     </message>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="689"/>
@@ -7045,7 +7040,7 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4436"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
-        <translation type="unfinished"/>
+        <translation>Noten van MIDI-apparaat/kanaal-piano opnemen, een stap per keer</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4437"/>
@@ -7140,7 +7135,7 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4548"/>
         <source>Clear ghost notes</source>
-        <translation type="unfinished"/>
+        <translation>Ghost-noten leegmaken</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4611"/>
@@ -7559,22 +7554,22 @@ Reden: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="38"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Pauzeren</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="39"/>
         <source>Reference freeze</source>
-        <translation type="unfinished"/>
+        <translation>Referentie bevriezen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="41"/>
         <source>Waterfall</source>
-        <translation type="unfinished"/>
+        <translation>Waterval</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="42"/>
         <source>Averaging</source>
-        <translation type="unfinished"/>
+        <translation>Averaging</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="43"/>
@@ -7584,90 +7579,90 @@ Reden: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="44"/>
         <source>Peak hold</source>
-        <translation type="unfinished"/>
+        <translation>Piek vasthouden</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="46"/>
         <source>Logarithmic frequency</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmische frequentie</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="47"/>
         <source>Logarithmic amplitude</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmische amplitude</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="50"/>
         <source>Frequency range</source>
-        <translation type="unfinished"/>
+        <translation>Frequentiebereik</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="51"/>
         <source>Amplitude range</source>
-        <translation type="unfinished"/>
+        <translation>Amplitudebereik</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="52"/>
         <source>FFT block size</source>
-        <translation type="unfinished"/>
+        <translation>FFT-blokgrootte</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="53"/>
         <source>FFT window type</source>
-        <translation type="unfinished"/>
+        <translation>FFT-venstertype</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="56"/>
         <source>Peak envelope resolution</source>
-        <translation type="unfinished"/>
+        <translation>Piek envelope-resolutie</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="57"/>
         <source>Spectrum display resolution</source>
-        <translation type="unfinished"/>
+        <translation>Spectrumweergave-resolutie</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="58"/>
         <source>Peak decay multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Piek decay vermenigvuldiger</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="59"/>
         <source>Averaging weight</source>
-        <translation type="unfinished"/>
+        <translation>Averaging-gewicht</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="60"/>
         <source>Waterfall history size</source>
-        <translation type="unfinished"/>
+        <translation>Waterval-geschiedenisgrootte</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="61"/>
         <source>Waterfall gamma correction</source>
-        <translation type="unfinished"/>
+        <translation>Waterval-gammacorrectie</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="62"/>
         <source>FFT window overlap</source>
-        <translation type="unfinished"/>
+        <translation>FFT-venster-overlap</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="63"/>
         <source>FFT zero padding</source>
-        <translation type="unfinished"/>
+        <translation>FFT-voorloopnullen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="67"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="72"/>
         <source>Full (auto)</source>
-        <translation type="unfinished"/>
+        <translation>Volledig (auto)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="68"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="75"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="78"/>
         <source>Audible</source>
-        <translation type="unfinished"/>
+        <translation>Hoorbaar</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="69"/>
@@ -7677,58 +7672,58 @@ Reden: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="70"/>
         <source>Mids</source>
-        <translation type="unfinished"/>
+        <translation>Middentonen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="71"/>
         <source>High</source>
-        <translation type="unfinished"/>
+        <translation>Hoge tonen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="74"/>
         <source>Extended</source>
-        <translation type="unfinished"/>
+        <translation>Uitgebreid</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="76"/>
         <source>Loud</source>
-        <translation type="unfinished"/>
+        <translation>Luid</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="77"/>
         <source>Silent</source>
-        <translation type="unfinished"/>
+        <translation>Stil</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="86"/>
         <source>(High time res.)</source>
-        <translation type="unfinished"/>
+        <translation>(hoge tijdresolutie)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="90"/>
         <source>(High freq. res.)</source>
-        <translation type="unfinished"/>
+        <translation>(hoge freq.-resolutie)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="100"/>
         <source>Rectangular (Off)</source>
-        <translation type="unfinished"/>
+        <translation>Rechthoekig (uit)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="101"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="104"/>
         <source>Blackman-Harris (Default)</source>
-        <translation type="unfinished"/>
+        <translation>Blackman-Harris (standaard)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="102"/>
         <source>Hamming</source>
-        <translation type="unfinished"/>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="103"/>
         <source>Hanning</source>
-        <translation type="unfinished"/>
+        <translation>Hanning</translation>
     </message>
 </context>
 <context>
@@ -7736,42 +7731,42 @@ Reden: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="86"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Pauzeren</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="87"/>
         <source>Pause data acquisition</source>
-        <translation type="unfinished"/>
+        <translation>Verzamelen van gegevens pauzeren</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="98"/>
         <source>Reference freeze</source>
-        <translation type="unfinished"/>
+        <translation>Referentie bevriezen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="99"/>
         <source>Freeze current input as a reference / disable falloff in peak-hold mode.</source>
-        <translation type="unfinished"/>
+        <translation>Huidige invoer als referentie bevriezen / uitval in piek-houd-modus uitschakelen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="111"/>
         <source>Waterfall</source>
-        <translation type="unfinished"/>
+        <translation>Waterval</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="112"/>
         <source>Display real-time spectrogram</source>
-        <translation type="unfinished"/>
+        <translation>Realtime-spectrogram weergeven</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="118"/>
         <source>Averaging</source>
-        <translation type="unfinished"/>
+        <translation>Averaging</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="119"/>
         <source>Enable exponential moving average</source>
-        <translation type="unfinished"/>
+        <translation>Exponentieel voortschrijdend gemiddelde inschakelen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="125"/>
@@ -7781,216 +7776,212 @@ Reden: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="126"/>
         <source>Display stereo channels separately</source>
-        <translation type="unfinished"/>
+        <translation>Stereokanalen apart weergeven</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="132"/>
         <source>Peak hold</source>
-        <translation type="unfinished"/>
+        <translation>Piek vasthouden</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="133"/>
         <source>Display envelope of peak values</source>
-        <translation type="unfinished"/>
+        <translation>Envelope van piekwaarden weergeven</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="140"/>
         <source>Logarithmic frequency</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmische frequentie</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="141"/>
         <source>Switch between logarithmic and linear frequency scale</source>
-        <translation type="unfinished"/>
+        <translation>Wisselen tussen logaritmische en lineaire frequentieschaal</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="152"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="153"/>
         <source>Frequency range</source>
-        <translation type="unfinished"/>
+        <translation>Frequentiebereik</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="160"/>
         <source>Logarithmic amplitude</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmische amplitude</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="161"/>
         <source>Switch between logarithmic and linear amplitude scale</source>
-        <translation type="unfinished"/>
+        <translation>Wisselen tussen logaritmische en lineaire amplitudeschaal</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="172"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="173"/>
         <source>Amplitude range</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="186"/>
-        <source>FFT block bize</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="187"/>
-        <source>FFT block size</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="202"/>
-        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="203"/>
-        <source>FFT window type</source>
-        <translation type="unfinished"/>
+        <translation>Amplitudebereik</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="229"/>
         <source>Envelope res.</source>
-        <translation type="unfinished"/>
+        <translation>Envelope-resolutie</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="230"/>
         <source>Increase envelope resolution for better details, decrease for better GUI performance.</source>
-        <translation type="unfinished"/>
+        <translation>Envelope-resolutie vergroten voor betere details, verkleinen voor betere GUI-prestaties.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="231"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="239"/>
         <source>Draw at most</source>
-        <translation type="unfinished"/>
+        <translation>Maximaal</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="231"/>
         <source> envelope points per pixel</source>
-        <translation type="unfinished"/>
+        <translation> envelope-punten per pixel tekenen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="237"/>
         <source>Spectrum res.</source>
-        <translation type="unfinished"/>
+        <translation>Spectrumresolutie</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="238"/>
         <source>Increase spectrum resolution for better details, decrease for better GUI performance.</source>
-        <translation type="unfinished"/>
+        <translation>Spectrumresolutie vergroten voor betere details, verkleinen voor betere GUI-prestaties.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="239"/>
         <source> spectrum points per pixel</source>
-        <translation type="unfinished"/>
+        <translation>spectrum-punten per pixel tekenen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="245"/>
         <source>Falloff factor</source>
-        <translation type="unfinished"/>
+        <translation>Afval-factor</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="246"/>
         <source>Decrease to make peaks fall faster.</source>
-        <translation type="unfinished"/>
+        <translation>Vergroten om pieken sneller te laten vallen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="247"/>
         <source>Multiply buffered value by</source>
-        <translation type="unfinished"/>
+        <translation>Gebufferde waarde vermenigvuldigen met</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="253"/>
         <source>Averaging weight</source>
-        <translation type="unfinished"/>
+        <translation>Averaging-gewicht</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="254"/>
         <source>Decrease to make averaging slower and smoother.</source>
-        <translation type="unfinished"/>
+        <translation>Verkleinen om averaging trager en zachter te maken</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="255"/>
         <source>New sample contributes</source>
-        <translation type="unfinished"/>
+        <translation>Nieuw sample draagt bij</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="261"/>
         <source>Waterfall height</source>
-        <translation type="unfinished"/>
+        <translation>Hoogte waterval</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="262"/>
         <source>Increase to get slower scrolling, decrease to see fast transitions better. Warning: medium CPU usage.</source>
-        <translation type="unfinished"/>
+        <translation>Vergroten om trager scrollen te krijgen, verkleinen om snelle overgangen beter te zien. Waarschuwing: gemiddeld CPU-gebruik.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="263"/>
         <source>Keep</source>
-        <translation type="unfinished"/>
+        <translation> </translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="263"/>
         <source> lines</source>
-        <translation type="unfinished"/>
+        <translation> lijnen houden</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="271"/>
         <source>Waterfall gamma</source>
-        <translation type="unfinished"/>
+        <translation>Waterval-gamma</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="272"/>
         <source>Decrease to see very weak signals, increase to get better contrast.</source>
-        <translation type="unfinished"/>
+        <translation>Verkleinen om zeer zwakke signalen te zien, vergroten om beter contrast te krijgen.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="273"/>
         <source>Gamma value:</source>
-        <translation type="unfinished"/>
+        <translation>Gammawaarde:</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="279"/>
         <source>Window overlap</source>
-        <translation type="unfinished"/>
+        <translation>Venster-overlap</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="280"/>
         <source>Increase to prevent missing fast transitions arriving near FFT window edges. Warning: high CPU usage.</source>
-        <translation type="unfinished"/>
+        <translation>Vergroten om ontbrekende snelle overgangen in de buurt van FFT-vensterranden te voorkomen. Waarschuwing: hoog CPU-gebruik.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="281"/>
         <source>Each sample processed</source>
-        <translation type="unfinished"/>
+        <translation>Elke sample wordt</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="281"/>
         <source> times</source>
-        <translation type="unfinished"/>
+        <translation>keer verwerkt</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="287"/>
         <source>Zero padding</source>
-        <translation type="unfinished"/>
+        <translation>Voorloopnullen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="288"/>
         <source>Increase to get smoother-looking spectrum. Warning: high CPU usage.</source>
-        <translation type="unfinished"/>
+        <translation>Vergroten om een vloeiender uitziend spectrum te verkrijgen. Waarschuwing: hoog CPU-gebruik.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="289"/>
         <source>Processing buffer is</source>
-        <translation type="unfinished"/>
+        <translation>Verwerkingsbuffer is</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="289"/>
         <source> steps larger than input block</source>
-        <translation type="unfinished"/>
+        <translation> stappen groter dan invoerblok</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="296"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"/>
+        <translation>Geavanceerde instellingen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="297"/>
         <source>Access advanced settings</source>
-        <translation type="unfinished"/>
+        <translation>Geavanceerde instellingen openen</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="186"/>
+        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="187"/>
+        <source>FFT block size</source>
+        <translation>FFT-blokgrootte</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="202"/>
+        <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="203"/>
+        <source>FFT window type</source>
+        <translation>FFT-venstertype</translation>
     </message>
 </context>
 <context>
@@ -8166,7 +8157,7 @@ Reden: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="991"/>
         <source>Sample volume</source>
-        <translation type="unfinished"/>
+        <translation>Sample-volume</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="993"/>
@@ -8209,7 +8200,7 @@ Reden: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="181"/>
         <source>Discard MIDI connections</source>
-        <translation type="unfinished"/>
+        <translation>MIDI-verbindingen weggooien</translation>
     </message>
 </context>
 <context>
@@ -8233,48 +8224,48 @@ Reden: &quot;%2&quot;</translation>
         <location filename="../../src/gui/SetupDialog.cpp" line="190"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="782"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Algemeen</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="217"/>
         <source>Graphical user interface (GUI)</source>
-        <translation type="unfinished"/>
+        <translation>Grafische gebruikersinterface (GUI)</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="240"/>
         <source>Projects</source>
-        <translation type="unfinished"/>
+        <translation>Projecten</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="254"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Taal</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="314"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="785"/>
         <source>Performance</source>
-        <translation type="unfinished"/>
+        <translation>Prestaties</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="319"/>
         <source>Autosave</source>
-        <translation type="unfinished"/>
+        <translation>Automatisch opslaan</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="338"/>
         <source>Enable autosave</source>
-        <translation type="unfinished"/>
+        <translation>Automatisch opslaan inschakelen</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="345"/>
         <source>Allow autosave while playing</source>
-        <translation type="unfinished"/>
+        <translation>Automatisch opslaan toestaan tijdens afspelen</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="365"/>
         <source>User interface (UI) effects vs. performance</source>
-        <translation type="unfinished"/>
+        <translation>Gebruikersinterface-effecten vs. prestaties</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="379"/>
@@ -8284,7 +8275,7 @@ Reden: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="383"/>
         <source>VST plugins embedding:</source>
-        <translation type="unfinished"/>
+        <translation>Inbedden van VST-plugins:</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="389"/>
@@ -8320,17 +8311,17 @@ Reden: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="443"/>
         <source>Audio interface</source>
-        <translation type="unfinished"/>
+        <translation>Audio-interface</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="541"/>
         <source>HQ mode for output audio device</source>
-        <translation type="unfinished"/>
+        <translation>HQ-modus voor audio-apparaat-uitvoer</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="550"/>
         <source>Buffer size</source>
-        <translation type="unfinished"/>
+        <translation>Buffergrootte</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="594"/>
@@ -8341,47 +8332,47 @@ Reden: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="598"/>
         <source>MIDI interface</source>
-        <translation type="unfinished"/>
+        <translation>MIDI-interface</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="814"/>
         <source>Some changes require restarting.</source>
-        <translation type="unfinished"/>
+        <translation>Sommige wijzigingen vereisen een nieuwe start.</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1019"/>
         <source>Autosave interval: %1</source>
-        <translation type="unfinished"/>
+        <translation>Interval automatisch opslaan: %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1158"/>
         <source>Choose the LMMS working directory</source>
-        <translation type="unfinished"/>
+        <translation>Kies de LMMS-werkmap</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1175"/>
         <source>Choose your VST plugins directory</source>
-        <translation type="unfinished"/>
+        <translation>Kies uw VST-plugin-map</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1192"/>
         <source>Choose your LADSPA plugins directory</source>
-        <translation type="unfinished"/>
+        <translation>Kies uw LADSPA-pluginmap</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1235"/>
         <source>Choose your default SF2</source>
-        <translation type="unfinished"/>
+        <translation>Kies uw standaard SF2</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1273"/>
         <source>Choose your theme directory</source>
-        <translation type="unfinished"/>
+        <translation>Kies uw thema-map</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1307"/>
         <source>Choose your background picture</source>
-        <translation type="unfinished"/>
+        <translation>Kies uw achtergrondafbeelding</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="690"/>
@@ -8647,23 +8638,23 @@ Verzeker u ervan dat u ten minste leesrechten heeft voor het bestand en probeer 
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="978"/>
         <source>Snap controls</source>
-        <translation type="unfinished"/>
+        <translation>Vastklik-bedieningen</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="986"/>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="1021"/>
         <source>Clip snapping size</source>
-        <translation type="unfinished"/>
+        <translation>Vastklikgrootte van clip</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="990"/>
         <source>Toggle proportional snap on/off</source>
-        <translation type="unfinished"/>
+        <translation>Proportioneel vastklikken aan/uit</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="1017"/>
         <source>Base snapping size</source>
-        <translation type="unfinished"/>
+        <translation>Basis-vastklikgrootte</translation>
     </message>
 </context>
 <context>
@@ -8676,7 +8667,7 @@ Verzeker u ervan dat u ten minste leesrechten heeft voor het bestand en probeer 
     <message>
         <location filename="../../src/gui/widgets/StepRecorderWidget.cpp" line="79"/>
         <source>Move recording curser using &lt;Left/Right&gt; arrows</source>
-        <translation type="unfinished"/>
+        <translation>Opname-cursor verplaatsen met pijl links/rechts</translation>
     </message>
 </context>
 <context>
@@ -9248,7 +9239,7 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="69"/>
         <source>Save Options</source>
-        <translation type="unfinished"/>
+        <translation>Opties voor opslaan</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="163"/>
@@ -11554,7 +11545,7 @@ Deze chip werd gebruikt in de Commodore 64 computer.</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/Analyzer.cpp" line="45"/>
         <source>A graphical spectrum analyzer.</source>
-        <translation type="unfinished"/>
+        <translation>Een grafische spectrum-analyzer.</translation>
     </message>
 </context>
 <context>
