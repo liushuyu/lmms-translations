@@ -26,7 +26,7 @@ function collect_strings_lmms_io() {
     abinfo "Scanning files..."
 
     ./dev/update_locale
-    cp -v public/locale/messages.pot "$TOP/lmms.io/lmms.io.pot"
+    cp -v translations/messages.en.xlf "$TOP/lmms.io/messages.en.xlf"
 }
 
 function clone_lmms() {

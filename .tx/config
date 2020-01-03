@@ -10,7 +10,7 @@ source_lang = en
 type = QT
 
 [lmms.lmmsio]
-file_filter = lmms.io/<lang>.po
-source_file = lmms.io/lmms.io.pot
+file_filter = lmms.io/messages.<lang>.xlf
+source_file = lmms.io/messages.en.xlf
 source_lang = en
-type = PO
+type = XLIFF
