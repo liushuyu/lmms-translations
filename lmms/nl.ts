@@ -2482,7 +2482,7 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="447"/>
         <source>%1 does not appear to be a valid %2 file</source>
-        <translation type="unfinished"/>
+        <translation>%1 lijkt geen geldig %2-bestand te zijn</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="781"/>

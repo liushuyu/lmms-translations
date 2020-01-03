@@ -233,12 +233,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="457"/>
         <source>Client name</source>
-        <translation type="unfinished"/>
+        <translation>Jméno klienta</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="469"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanály</translation>
     </message>
 </context>
 <context>
@@ -246,12 +246,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="330"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Zařízení</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="342"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanály</translation>
     </message>
 </context>
 <context>
@@ -259,12 +259,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="415"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Backend</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="422"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Zařízení</translation>
     </message>
 </context>
 <context>
@@ -272,12 +272,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="317"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Zařízení</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="329"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanály</translation>
     </message>
 </context>
 <context>
@@ -285,7 +285,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Zařízení</translation>
     </message>
 </context>
 <context>
@@ -293,12 +293,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="196"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Zařízení</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="208"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanály</translation>
     </message>
 </context>
 <context>
@@ -306,12 +306,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="429"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Backend</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="436"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Zařízení</translation>
     </message>
 </context>
 <context>
@@ -4741,7 +4741,7 @@ Ujistěte se prosím, zda máte povolen zápis do souboru a do složky obsahují
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="177"/>
         <source>Loading background picture</source>
-        <translation type="unfinished"/>
+        <translation>Načítání obrázku pozadí</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="291"/>
@@ -5160,7 +5160,7 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="110"/>
         <source>You have not set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Nemáte nastaven výchozí soundfont v dialogovém okně (Edit-&gt; Nastavení). Z tohoto důvodu nebude po importu MIDI souboru přehráván žádný zvuk. Stáhněte si nějaký General MIDI soundfont, zadejte jej v dialogovém okně nastavení a zkuste to znovu.</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="122"/>
@@ -5271,7 +5271,7 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
     <message>
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="45"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Zařízení</translation>
     </message>
 </context>
 <context>
@@ -7553,7 +7553,7 @@ Důvod: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="38"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Pauza</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="39"/>
@@ -7563,7 +7563,7 @@ Důvod: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="41"/>
         <source>Waterfall</source>
-        <translation type="unfinished"/>
+        <translation>Vodopád</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="42"/>
@@ -7583,32 +7583,32 @@ Důvod: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="46"/>
         <source>Logarithmic frequency</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmická frekvence</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="47"/>
         <source>Logarithmic amplitude</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmická amplituda</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="50"/>
         <source>Frequency range</source>
-        <translation type="unfinished"/>
+        <translation>Frekvenční rozsah</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="51"/>
         <source>Amplitude range</source>
-        <translation type="unfinished"/>
+        <translation>Rozsah amplitudy</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="52"/>
         <source>FFT block size</source>
-        <translation type="unfinished"/>
+        <translation>Velikost FFT bloku</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="53"/>
         <source>FFT window type</source>
-        <translation type="unfinished"/>
+        <translation>Typ FFT okna</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="56"/>
@@ -7643,7 +7643,7 @@ Důvod: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="62"/>
         <source>FFT window overlap</source>
-        <translation type="unfinished"/>
+        <translation>Překrývání FFT oken</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="63"/>
@@ -7681,17 +7681,17 @@ Důvod: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="74"/>
         <source>Extended</source>
-        <translation type="unfinished"/>
+        <translation>Rozšířený</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="76"/>
         <source>Loud</source>
-        <translation type="unfinished"/>
+        <translation>Hlasitý</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="77"/>
         <source>Silent</source>
-        <translation type="unfinished"/>
+        <translation>Tichý</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="86"/>
@@ -7730,7 +7730,7 @@ Důvod: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="86"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Pauza</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="87"/>
@@ -7750,7 +7750,7 @@ Důvod: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="111"/>
         <source>Waterfall</source>
-        <translation type="unfinished"/>
+        <translation>Vodopád</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="112"/>
@@ -7790,7 +7790,7 @@ Důvod: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="140"/>
         <source>Logarithmic frequency</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmická frekvence</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="141"/>
@@ -7801,12 +7801,12 @@ Důvod: &quot;%2&quot;</translation>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="152"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="153"/>
         <source>Frequency range</source>
-        <translation type="unfinished"/>
+        <translation>Frekvenční rozsah</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="160"/>
         <source>Logarithmic amplitude</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmická amplituda</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="161"/>
@@ -7817,7 +7817,7 @@ Důvod: &quot;%2&quot;</translation>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="172"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="173"/>
         <source>Amplitude range</source>
-        <translation type="unfinished"/>
+        <translation>Rozsah amplitudy</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="229"/>
@@ -7908,7 +7908,7 @@ Důvod: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="271"/>
         <source>Waterfall gamma</source>
-        <translation type="unfinished"/>
+        <translation>Gamma vodopádu</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="272"/>
@@ -7918,12 +7918,12 @@ Důvod: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="273"/>
         <source>Gamma value:</source>
-        <translation type="unfinished"/>
+        <translation>Hodnota gamma:</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="279"/>
         <source>Window overlap</source>
-        <translation type="unfinished"/>
+        <translation>Překrývání oken</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="280"/>
@@ -7974,13 +7974,13 @@ Důvod: &quot;%2&quot;</translation>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="186"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="187"/>
         <source>FFT block size</source>
-        <translation type="unfinished"/>
+        <translation>Velikost FFT bloku</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="202"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="203"/>
         <source>FFT window type</source>
-        <translation type="unfinished"/>
+        <translation>Typ FFT okna</translation>
     </message>
 </context>
 <context>
@@ -8223,43 +8223,43 @@ Důvod: &quot;%2&quot;</translation>
         <location filename="../../src/gui/SetupDialog.cpp" line="190"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="782"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Hlavní</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="217"/>
         <source>Graphical user interface (GUI)</source>
-        <translation type="unfinished"/>
+        <translation>Grafické uživatelské rozhraní (GUI)</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="240"/>
         <source>Projects</source>
-        <translation type="unfinished"/>
+        <translation>Projekty</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="254"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Jazyk</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="314"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="785"/>
         <source>Performance</source>
-        <translation type="unfinished"/>
+        <translation>Výkon</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="319"/>
         <source>Autosave</source>
-        <translation type="unfinished"/>
+        <translation>Automatické ukládání</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="338"/>
         <source>Enable autosave</source>
-        <translation type="unfinished"/>
+        <translation>Povolit automatické ukládání</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="345"/>
         <source>Allow autosave while playing</source>
-        <translation type="unfinished"/>
+        <translation>Povolit automatické ukládání během přehrávání</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="365"/>
@@ -8341,7 +8341,7 @@ Důvod: &quot;%2&quot;</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1019"/>
         <source>Autosave interval: %1</source>
-        <translation type="unfinished"/>
+        <translation>Interval automatického ukládání: %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1158"/>
@@ -9238,7 +9238,7 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="69"/>
         <source>Save Options</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti ukládání</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="163"/>
@@ -11544,7 +11544,7 @@ Tento čip byl používán v počítačích Commodore 64.</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/Analyzer.cpp" line="45"/>
         <source>A graphical spectrum analyzer.</source>
-        <translation type="unfinished"/>
+        <translation>Grafický analyzátor spektra</translation>
     </message>
 </context>
 <context>

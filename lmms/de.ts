@@ -14,7 +14,7 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="50"/>
         <source>Version %1 (%2/%3, Qt %4, %5).</source>
-        <translation type="unfinished"/>
+        <translation>Version %1 (%2/%3, Qt %4, %5).</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="78"/>
@@ -24,17 +24,17 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="100"/>
         <source>LMMS - easy music production for everyone.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS - Muskproduktion für jedermann</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="126"/>
         <source>Copyright © %1.</source>
-        <translation type="unfinished"/>
+        <translation>Copyright © %1.</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="152"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#33cc33;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#33cc33;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="176"/>
@@ -152,7 +152,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="469"/>
         <source>Open sample</source>
-        <translation type="unfinished"/>
+        <translation>Sample öffnen</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="478"/>
@@ -172,7 +172,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="508"/>
         <source>Enable ping-pong loop</source>
-        <translation type="unfinished"/>
+        <translation>Ping Pong Loop aktivieren</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="523"/>
@@ -187,12 +187,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="532"/>
         <source>Start point:</source>
-        <translation type="unfinished"/>
+        <translation>Anfangspunkt: </translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="536"/>
         <source>End point:</source>
-        <translation type="unfinished"/>
+        <translation>Endpunkt:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="540"/>
@@ -238,7 +238,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="469"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanäle</translation>
     </message>
 </context>
 <context>
@@ -246,12 +246,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="330"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Gerät</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="342"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanäle</translation>
     </message>
 </context>
 <context>
@@ -264,7 +264,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="422"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Gerät</translation>
     </message>
 </context>
 <context>
@@ -272,12 +272,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="317"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Gerät</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="329"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanäle</translation>
     </message>
 </context>
 <context>
@@ -285,7 +285,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Gerät</translation>
     </message>
 </context>
 <context>
@@ -293,12 +293,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="196"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Gerät</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="208"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanäle</translation>
     </message>
 </context>
 <context>
@@ -311,7 +311,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="436"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Gerät</translation>
     </message>
 </context>
 <context>
@@ -485,12 +485,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2339"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Horizontales Zoomen</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2358"/>
         <source>Vertical zooming</source>
-        <translation type="unfinished"/>
+        <translation>Vertikales Zoomen</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2381"/>
@@ -594,7 +594,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="47"/>
         <source>Beat+Bassline Editor</source>
-        <translation>Zeige/verstecke Beat+Bassline Editor</translation>
+        <translation>Beat+Bassline Editor</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="69"/>
@@ -790,7 +790,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="82"/>
         <source>Rate enabled</source>
-        <translation type="unfinished"/>
+        <translation>Rate aktiviert</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="85"/>
@@ -800,7 +800,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="87"/>
         <source>Depth enabled</source>
-        <translation type="unfinished"/>
+        <translation>Tiefe aktiviert</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="90"/>
@@ -878,12 +878,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="44"/>
         <source>Rate enabled</source>
-        <translation type="unfinished"/>
+        <translation>Rate aktiviert</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="45"/>
         <source>Depth enabled</source>
-        <translation type="unfinished"/>
+        <translation>Tiefe aktiviert</translation>
     </message>
 </context>
 <context>
@@ -996,7 +996,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="128"/>
         <source>Confirm delete? There are existing connection(s) associated with this controller. There is no way to undo.</source>
-        <translation type="unfinished"/>
+        <translation>Löschen bestätigen? Es existiert/en Verbindung(en) mit dem assoziatierten Kontroller. Es gibt keine Möglichkeit es rückgängig zu machen.</translation>
     </message>
 </context>
 <context>
@@ -1037,12 +1037,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="52"/>
         <source>Band 1/2 crossover:</source>
-        <translation type="unfinished"/>
+        <translation>Band 1/2 Crossover:</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="58"/>
         <source>Band 2/3 crossover:</source>
-        <translation type="unfinished"/>
+        <translation>Band 2/3 Crossover:</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="64"/>
@@ -1145,7 +1145,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="37"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>LFO Frequenz</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="38"/>
@@ -1188,7 +1188,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="64"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>LFO Frequenz</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="70"/>
@@ -1467,7 +1467,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="76"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="99"/>
         <source>Tripole</source>
-        <translation type="unfinished"/>
+        <translation>Tripol</translation>
     </message>
 </context>
 <context>
@@ -1508,7 +1508,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/Effect.cpp" line="46"/>
         <source>Effect enabled</source>
-        <translation>Effekt eingeschaltet</translation>
+        <translation>Effekt aktiviert</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="47"/>
@@ -1684,7 +1684,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="114"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>LFO Frequenz</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="115"/>
@@ -1916,7 +1916,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="53"/>
         <source>HP freq</source>
-        <translation type="unfinished"/>
+        <translation>HP Freq</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="54"/>
@@ -1951,7 +1951,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="60"/>
         <source>LP freq</source>
-        <translation type="unfinished"/>
+        <translation>TP Freq</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="61"/>
@@ -2418,7 +2418,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/widgets/Fader.cpp" line="222"/>
         <location filename="../../src/gui/widgets/Fader.cpp" line="232"/>
         <source>Set value</source>
-        <translation type="unfinished"/>
+        <translation>Wert setzen</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Fader.cpp" line="223"/>
@@ -2498,7 +2498,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="38"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>LFO Frequenz</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="39"/>
@@ -3042,7 +3042,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="953"/>
         <source>Choose patch</source>
-        <translation type="unfinished"/>
+        <translation>Patch wählen</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="970"/>
@@ -4052,7 +4052,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="104"/>
         <source>Tripole</source>
-        <translation type="unfinished"/>
+        <translation>Tripol</translation>
     </message>
 </context>
 <context>
@@ -4350,7 +4350,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/widgets/Knob.cpp" line="773"/>
         <location filename="../../src/gui/widgets/Knob.cpp" line="790"/>
         <source>Set value</source>
-        <translation type="unfinished"/>
+        <translation>Wert setzen</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="774"/>
@@ -4410,7 +4410,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="167"/>
         <source>Set value</source>
-        <translation type="unfinished"/>
+        <translation>Wert setzen</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="168"/>
@@ -4498,7 +4498,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="72"/>
         <source>Base:</source>
-        <translation type="unfinished"/>
+        <translation>Basis</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="75"/>
@@ -4508,7 +4508,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="77"/>
         <source>LFO frequency:</source>
-        <translation type="unfinished"/>
+        <translation>LFO Frequenz:</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="80"/>
@@ -4533,7 +4533,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="87"/>
         <source> degrees</source>
-        <translation type="unfinished"/>
+        <translation>Grad</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="96"/>
@@ -4579,17 +4579,17 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="184"/>
         <source>Mutliply modulation frequency by 1</source>
-        <translation type="unfinished"/>
+        <translation>Multipliziere Modulationsfrequenz mit 1</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="193"/>
         <source>Mutliply modulation frequency by 100</source>
-        <translation type="unfinished"/>
+        <translation>Multipliziere Modulationsfrequenz mit 100</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="202"/>
         <source>Divide modulation frequency by 100</source>
-        <translation type="unfinished"/>
+        <translation>Dividiere Modulationsfrequenz mit 100</translation>
     </message>
 </context>
 <context>
@@ -4738,7 +4738,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="177"/>
         <source>Loading background picture</source>
-        <translation type="unfinished"/>
+        <translation>Lade Hintegrundbild</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="291"/>
@@ -4868,7 +4868,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="456"/>
         <source>Metronome</source>
-        <translation type="unfinished"/>
+        <translation>Metronom</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="475"/>
@@ -4983,7 +4983,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="931"/>
         <source>This will overwrite your current default template.</source>
-        <translation type="unfinished"/>
+        <translation>Das wird Ihre aktuelle Standardvorlage überschreiben.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="964"/>
@@ -5015,7 +5015,7 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1138"/>
         <source>Smooth scroll</source>
-        <translation type="unfinished"/>
+        <translation>Sanftes Scrollen</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1152"/>
@@ -5101,7 +5101,7 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="53"/>
         <source>Meter numerator</source>
-        <translation type="unfinished"/>
+        <translation>Taktzähler</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="73"/>
@@ -5112,7 +5112,7 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="74"/>
         <source>Meter denominator</source>
-        <translation type="unfinished"/>
+        <translation>Taktnenner</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="77"/>
@@ -5157,7 +5157,8 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="110"/>
         <source>You have not set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
-        <translation type="unfinished"/>
+        <translation> 97% match 
+Sie haben keine Standard-Soundfont im Einstellungsdialog (Bearbeiten-&gt;Einstellungen) festgelegt. Deshalb werden Sie nach dem Import der MIDI-Datei während der Wiedergabe nichts hören. Sie sollten eine General-MIDI-Soundfont herunterladen, diese in dem Einstellungdialog angeben und es erneut versuchen.</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="122"/>
@@ -5268,7 +5269,7 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     <message>
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="45"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Gerät</translation>
     </message>
 </context>
 <context>
@@ -5276,12 +5277,12 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="832"/>
         <source>Osc 1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Oszilator 1 Lautstärke</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="833"/>
         <source>Osc 1 panning</source>
-        <translation type="unfinished"/>
+        <translation>Oszillator 1 Balance</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="834"/>
@@ -6133,7 +6134,7 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="96"/>
         <source>Stages</source>
-        <translation type="unfinished"/>
+        <translation>Stufen</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="97"/>
@@ -6362,7 +6363,7 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="830"/>
         <source>Noise Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Rauschfrequenz</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="832"/>
@@ -6816,7 +6817,7 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="52"/>
         <source>Base:</source>
-        <translation type="unfinished"/>
+        <translation>Basis</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="55"/>
@@ -7106,7 +7107,7 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4507"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Horizontales Zoomen</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4516"/>
@@ -7116,7 +7117,7 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4525"/>
         <source>Note length</source>
-        <translation type="unfinished"/>
+        <translation>Notenlänge</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4534"/>
@@ -7126,7 +7127,7 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4543"/>
         <source>Chord</source>
-        <translation type="unfinished"/>
+        <translation>Akkord</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4548"/>
@@ -7363,22 +7364,22 @@ Grund: »%2«</translation>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="45"/>
         <source>WAV (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>WAV (*.wav)</translation>
     </message>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="48"/>
         <source>FLAC (*.flac)</source>
-        <translation type="unfinished"/>
+        <translation>FLAC (*.flac)</translation>
     </message>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="53"/>
         <source>OGG (*.ogg)</source>
-        <translation type="unfinished"/>
+        <translation>OGG (*.ogg)</translation>
     </message>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="62"/>
         <source>MP3 (*.mp3)</source>
-        <translation type="unfinished"/>
+        <translation>MP3 (*.mp3)</translation>
     </message>
 </context>
 <context>
@@ -7668,12 +7669,12 @@ Grund: »%2«</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="70"/>
         <source>Mids</source>
-        <translation type="unfinished"/>
+        <translation>Mitten</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="71"/>
         <source>High</source>
-        <translation type="unfinished"/>
+        <translation>Höhen</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="74"/>
@@ -7683,12 +7684,12 @@ Grund: »%2«</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="76"/>
         <source>Loud</source>
-        <translation type="unfinished"/>
+        <translation>Laut</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="77"/>
         <source>Silent</source>
-        <translation type="unfinished"/>
+        <translation>Leise</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="86"/>
@@ -8235,7 +8236,7 @@ Grund: »%2«</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="254"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Sprache</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="314"/>
@@ -8343,32 +8344,32 @@ Grund: »%2«</translation>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1158"/>
         <source>Choose the LMMS working directory</source>
-        <translation type="unfinished"/>
+        <translation>LMMS-Arbeitsverzeichnis wählen</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1175"/>
         <source>Choose your VST plugins directory</source>
-        <translation type="unfinished"/>
+        <translation>Wählen Sie Ihr VST-Plugin-Verzeichnis</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1192"/>
         <source>Choose your LADSPA plugins directory</source>
-        <translation type="unfinished"/>
+        <translation>Wählen Sie Ihr LADSPA-Plugin-Verzeichnis</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1235"/>
         <source>Choose your default SF2</source>
-        <translation type="unfinished"/>
+        <translation>Wählen Sie Ihr Standard SF2</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1273"/>
         <source>Choose your theme directory</source>
-        <translation type="unfinished"/>
+        <translation>Wählen Sie Ihr Theme-Verzeichnis</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1307"/>
         <source>Choose your background picture</source>
-        <translation type="unfinished"/>
+        <translation>Wählen Sie Ihr Hintergrundbild</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="690"/>
@@ -8628,7 +8629,7 @@ Latenz: %2 ms</translation>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="972"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Horizontales Zoomen</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="978"/>
@@ -9216,7 +9217,7 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="660"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Benutzerdefinierte Welle</translation>
     </message>
 </context>
 <context>
@@ -9934,7 +9935,7 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="389"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="393"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Benutzerdefinierte Welle</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="395"/>
@@ -10243,7 +10244,7 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="404"/>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="411"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Benutzerdefinierte Welle</translation>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="413"/>
@@ -11627,7 +11628,7 @@ Dieser Chip wurde in Commodore 64 Computern genutzt.</translation>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="928"/>
         <source>Choose patch</source>
-        <translation type="unfinished"/>
+        <translation>Patch wählen</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="963"/>
@@ -12093,7 +12094,7 @@ Dieser Chip wurde in Commodore 64 Computern genutzt.</translation>
         <location filename="../../plugins/vibed/vibed.cpp" line="533"/>
         <location filename="../../plugins/vibed/vibed.cpp" line="540"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Benutzerdefinierte Welle</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="545"/>
@@ -12105,7 +12106,7 @@ Dieser Chip wurde in Commodore 64 Computern genutzt.</translation>
         <location filename="../../plugins/vibed/vibed.cpp" line="557"/>
         <location filename="../../plugins/vibed/vibed.cpp" line="565"/>
         <source>Normalize waveform</source>
-        <translation type="unfinished"/>
+        <translation>Wellenform normalisieren</translation>
     </message>
 </context>
 <context>
