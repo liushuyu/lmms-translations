@@ -25,23 +25,17 @@ function validate_ts() {
   echo -e "${LANG}"
 }
 
-function validate_po() {
+function validate_xlf() {
   LANG=""
   BUF=""
-  for i in ./**/*.po; do
-    if ! BUF=$(msgfmt ${PO_EXTRA} --check-domain "${i}" 2>&1); then
+  for i in ./**/*.xlf; do
+    if ! true; then
       LANG+="\e[96m$(basename "${i}")\e[0m: \e[93m${BUF}\e[0m\n"
       printf "\e[31mx\e[0m"
       ERR=1
       continue
     fi
-    BUF=$(LANG=C msgfmt --statistics "${i}" 2>&1)
-    BUF=$(echo "${BUF}" | perl -ne '/(\d+) untranslated/ && print $1' 2>/dev/null)
-    if [[ "x$BUF" == "x" ]]; then
-      BUF="\e[32mcompleted\e[0m"
-    else
-      BUF+=" strings remaining"
-    fi
+    BUF="Parser not implemented"
     LANG+="\e[96m$(basename "${i}")\e[0m: ${BUF}\n"
     printf "\e[32m.\e[0m"
   done
@@ -56,7 +50,7 @@ if [[ "x$STRICT" != 'x' ]]; then
     PO_EXTRA='--check-format'
 fi
 validate_ts
-validate_po
+validate_xlf
 
 if [[ "x$ERR" != "x" ]]; then
   exit 1
