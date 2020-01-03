@@ -38,6 +38,8 @@ function clone_lmms_io() {
     abinfo "Cloning lmms.io source directory..."
     git clone --recursive --depth 1 'https://github.com/LMMS/lmms.io' "$1"
     pushd "$1" > /dev/null 2>&1
+    MY_PHP="$(php7 -v | cut -f2 -d' ' | head -n1 | cut -f1-2 -d'.')"
+    sed -i "s/7.4/${MY_PHP}/" symfony.lock
     abinfo "Installing PHP libraries..."
     composer install
     popd > /dev/null 2>&1
