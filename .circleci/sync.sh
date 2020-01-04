@@ -13,6 +13,7 @@ function push_repo_translation() {
             FILE_RES="${FILE_RES/./}" # remove .
             FILE_LANG="${i#*/}" # strip content before /
             FILE_LANG="${FILE_LANG%.*}" # strip content after .
+            FILE_LANG="${FILE_LANG/messages./}" # remove substring 'messages.'
             abinfo "Pushing resource ${FILE_RES} (${FILE_LANG})..."
             tx push -r "lmms.${FILE_RES}" -l "${FILE_LANG}" -t 
         done
