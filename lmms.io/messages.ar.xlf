@@ -6,12 +6,12 @@
     <body>
       <trans-unit id="1ur_gjW" resname="Download">
         <source>Download</source>
-        <target>حمل</target>
+        <target>نزل</target>
         
       </trans-unit>
       <trans-unit id="Tdd9OuD" resname="Get Involved">
         <source>Get Involved</source>
-        <target>تورط</target>
+        <target>ساهم</target>
         
       </trans-unit>
       <trans-unit id="wgWSTeD" resname="Documentation">
@@ -46,7 +46,7 @@
       </trans-unit>
       <trans-unit id="mhXcnGL" resname="Showcase">
         <source>Showcase</source>
-        <target>خزانة العرض</target>
+        <target>المعرض</target>
         
       </trans-unit>
       <trans-unit id="uCmXDvQ" resname="Competitions">
@@ -61,7 +61,7 @@
       </trans-unit>
       <trans-unit id="H2zLuBd" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
         <source>We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</source>
-        <target>نحن آسفون، حدث خطأ أثناء جلب معلومات آخر إصدار. لا يزال بإمكانك تحميل الإصدارات على &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</target>
+        <target>نحن آسفون، حدث خطأ أثناء جلب معلومات آخر إصدار. لا يزال بإمكانك تنزيل الإصدارات على &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="f.UFHnN" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
@@ -71,12 +71,12 @@
       </trans-unit>
       <trans-unit id="LO1QDjg" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
         <source>For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.</source>
-        <target>لتركيب LMMS على موزعات مبنية على Debian مثل Debian في حد ذاته، Ubuntu أو Linux Mint، فقط انقر على الزر أدناه.</target>
+        <target>لتثبيت LMMS على موزعات مبنية على Debian مثل Debian في حد ذاته، Ubuntu أو Linux Mint، فقط انقر على الزر أدناه.</target>
         
       </trans-unit>
       <trans-unit id="G4TfEor" resname="Install LMMS now">
         <source>Install LMMS now</source>
-        <target>ركب LMMS الآن</target>
+        <target>ثبت LMMS الآن</target>
         
       </trans-unit>
       <trans-unit id="UQygByz" resname="From your package manager">
@@ -86,11 +86,12 @@
       </trans-unit>
       <trans-unit id="EOXdih0" resname="If this doesn't work for you, run this command in a terminal.">
         <source>If this doesn't work for you, run this command in a terminal.</source>
-        <target>إذا لم يعمل هذا لأجلك، أجر هذا الأمر في نهاية.</target>
+        <target>إذا لم يعمل هذا، أجر هذا الأمر في نهاية.</target>
         
       </trans-unit>
       <trans-unit id="unby17C" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
         <source>If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.</source>
+        <target>إذا لم تواكب المستودعات التقليدية الإصدارات، جرب &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;مستودع KXStudio&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="jHa21vl" resname="VST Support">
@@ -114,6 +115,7 @@
       </trans-unit>
       <trans-unit id="eJUdOr0" resname="For VST support, please install wine or wine-staging from the repository">
         <source>For VST support, please install wine or wine-staging from the repository</source>
+        <target>لدعم VST، ثبت wine أو wine-staging من المستودع</target>
         
       </trans-unit>
       <trans-unit id=".uMu3cY" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
@@ -123,12 +125,12 @@
       </trans-unit>
       <trans-unit id="H1vkGQS" resname="To install LMMS on AOSC OS with PackageKit (recommended):">
         <source>To install LMMS on AOSC OS with PackageKit (recommended):</source>
-        <target>لكي تركب LMMS على AOSC OS بواسطة PackageKit (موصى به):</target>
+        <target>لكي تثبت LMMS على AOSC OS بواسطة PackageKit (موصى به):</target>
         
       </trans-unit>
       <trans-unit id="i6lvwc6" resname="To install LMMS on AOSC OS with DPKG:">
         <source>To install LMMS on AOSC OS with DPKG:</source>
-        <target>لكي تركب LMMS على AOSC OS بواسطة RPM:</target>
+        <target>لكي تثبت LMMS على AOSC OS بواسطة RPM:</target>
         
       </trans-unit>
       <trans-unit id="4ya_6rI" resname="Build LMMS from source">
@@ -138,27 +140,27 @@
       </trans-unit>
       <trans-unit id="D9BgqO1" resname="If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.">
         <source>If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.</source>
-        <target>إذا كان موزعك من Linux لا يوفر رزمة LMMS (أو واحدة مماتة فقط)، لا يزال يمكنك بناء LMMS من المصدر. زر &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling-&quot;&gt;ويكي تطوير LMMS على GitHub&lt;/a&gt; لتعليمات على كيفية تجميع LMMS لأجل Linux.</target>
+        <target>إذا كان موزعك من Linux لا يوفر رزمة LMMS (أو واحدة مماتة فقط)، لا يزال يمكنك بناء LMMS من المصدر. زر &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;ويكي تطوير LMMS على GitHub&lt;/a&gt; لتعليمات عن كيفية تجميع LMMS لـ Linux.</target>
         
       </trans-unit>
       <trans-unit id="IAenq0c" resname="Download LMMS">
         <source>Download LMMS</source>
-        <target>حمل LMMS</target>
+        <target>نزل LMMS</target>
         
       </trans-unit>
       <trans-unit id="618mGB6" resname="Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:">
         <source>Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:</source>
-        <target>تحميل و استخدام LMMS مجاني! فقط اختر نظام التشغيل الذي تريد أن تشغل LMMS عليه:</target>
+        <target>تنزيل و استخدام LMMS مجاني! فقط اختر نظام التشغيل الذي تريد أن تشغل LMMS عليه:</target>
         
       </trans-unit>
       <trans-unit id="PmTQgHE" resname="Install LMMS on Linux">
         <source>Install LMMS on Linux</source>
-        <target>ركب LMMS على Linux</target>
+        <target>ثبت LMMS على Linux</target>
         
       </trans-unit>
       <trans-unit id="I.sR1nc" resname="Click one of the buttons below to download LMMS for Linux.">
         <source>Click one of the buttons below to download LMMS for Linux.</source>
-        <target>انقر أحد الأزرار أدناه لتنزل LMMS لأجل Linux.</target>
+        <target>انقر أحد الأزرار أدناه لتنزل LMMS لـ Linux.</target>
         
       </trans-unit>
       <trans-unit id="ovu1A1m" resname="Stable Versions">
@@ -183,27 +185,27 @@
       </trans-unit>
       <trans-unit id="0kZzFXf" resname="Install LMMS on Windows">
         <source>Install LMMS on Windows</source>
-        <target>ركب LMMS على Windows</target>
+        <target>ثبت LMMS على Windows</target>
         
       </trans-unit>
       <trans-unit id="yAy2ARB" resname="Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows">
         <source>Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows</source>
-        <target>انقر أحد الأزرار أدناه (إما 32-بت أو 64-بت) لتحمل لأجل Windows</target>
+        <target>انقر أحد الأزرار أدناه (إما 32-بت أو 64-بت) لتنزل LMMS لـ Windows</target>
         
       </trans-unit>
       <trans-unit id="in50er8" resname="Install LMMS on macOS">
         <source>Install LMMS on macOS</source>
-        <target>ركب LMMS على macOS</target>
+        <target>ثبت LMMS على macOS</target>
         
       </trans-unit>
       <trans-unit id="6saYqj7" resname="Click one of the buttons below to download LMMS for macOS">
         <source>Click one of the buttons below to download LMMS for macOS</source>
-        <target>انقر أحد الأزرار أدناه لتحمل لأجل macOS</target>
+        <target>انقر أحد الأزرار أدناه لتنزل LMMS لـ macOS</target>
         
       </trans-unit>
       <trans-unit id="QNAnU4Y" resname="Downloads labeled Beta are pre-release software, stability may suffer.">
         <source>Downloads labeled Beta are pre-release software, stability may suffer.</source>
-        <target>التحميلات المصنفة &quot;بائية&quot; هي يرمجيات قبل إصدارية، قد يعاني الاستقرار.</target>
+        <target>التنزيلات المصنفة &quot;بائية&quot; هي برمجيات قبل إصدارية، قد يقل الاستقرار.</target>
         
       </trans-unit>
       <trans-unit id="VA2zwSI" resname="Previous releases">
@@ -223,7 +225,7 @@
 	join us in making LMMS better!</source>
         <target>LMMS هو برنامج مفتوح المصدر و مجاني مبني كليا من قبل عدد صغير من
 	المتطوعين في وقتهم الفارغ. لكن لنبقي المشروع موجودا، نحتاج إلى أن
-	بكير هذا العدد. و هكذا إذا كنت ترغب في إعادة شيء ما إلى المشترك،
+	بكير هذا العدد. و هكذا إذا كنت ترغب في إعادة شيء ما إلى المجتمع،
 	التحق بنا في جعل LMMS أفضل!</target>
         
       </trans-unit>
@@ -234,7 +236,7 @@
       </trans-unit>
       <trans-unit id="0Y_zD6N" resname="There are multiple ways of contributing:">
         <source>There are multiple ways of contributing:</source>
-        <target>هناك عدة طرق للمشاركة:</target>
+        <target>هناك عدة طرق للمساهمة:</target>
         
       </trans-unit>
       <trans-unit id="gnURxlL" resname="Join Development">
@@ -256,8 +258,8 @@
 					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place
 					   to introduce yourself.</source>
-        <target>انظر&lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;ويكي GitHub&lt;/a&gt; خاصتنا و
-					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;مراقب الأخطاء&lt;/a&gt; خاصتنا لتبدأ.</target>
+        <target>انظر &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;ويكينا على GitHub&lt;/a&gt; و &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;مراقب الأخطاء&lt;/a&gt; لتبدأ.
+&lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;قائمة البريد&lt;/a&gt; مكان جيد لتعرف نفسك.</target>
         
       </trans-unit>
       <trans-unit id="FSzxUcg" resname="Website &amp; Docs">
@@ -333,7 +335,7 @@
       </trans-unit>
       <trans-unit id="vTqq2U0" resname="Subscribe to LMMS-Devel mailing list">
         <source>Subscribe to LMMS-Devel mailing list</source>
-        <target>اشترك بقائمة بريد مطوري-LMMS</target>
+        <target>اشترك بقائمة بريد LMMS-Devel</target>
         
       </trans-unit>
       <trans-unit id="iSQeC4T" resname="Our IRC channel is &lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt; on&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;https://freenode.net&quot;&gt;Freenode&lt;/a&gt;.">
@@ -374,12 +376,12 @@
       </trans-unit>
       <trans-unit id="ADl38LV" resname="Download now">
         <source>Download now</source>
-        <target>حمل الآن</target>
+        <target>نزل الآن</target>
         
       </trans-unit>
       <trans-unit id="LLpAwlQ" resname="Get involved">
         <source>Get involved</source>
-        <target>تورط</target>
+        <target>ساهم</target>
         
       </trans-unit>
       <trans-unit id="zDYCQUA" resname="Making beats has never been easier.">
@@ -424,22 +426,22 @@
       </trans-unit>
       <trans-unit id="ZG2n1Jx" resname="Download for Linux">
         <source>Download for Linux</source>
-        <target>حمل لأجل Linux</target>
+        <target>نزل لـ Linux</target>
         
       </trans-unit>
       <trans-unit id="Yur47Wq" resname="Download for Windows">
         <source>Download for Windows</source>
-        <target>حمل لأجل Windows</target>
+        <target>نزل لـ Windows</target>
         
       </trans-unit>
       <trans-unit id="WRDAWeq" resname="Download for macOS">
         <source>Download for macOS</source>
-        <target>حمل لأجل macOS</target>
+        <target>نزل لـ macOS</target>
         
       </trans-unit>
       <trans-unit id="QBixtUo" resname="Pick your flavor.">
         <source>Pick your flavor.</source>
-        <target>انتقي نكهتك.</target>
+        <target>انتق نكهتك.</target>
         
       </trans-unit>
       <trans-unit id="CaD6ze3" resname="Linux, Windows or macOS.">
@@ -469,7 +471,7 @@
       </trans-unit>
       <trans-unit id="60mvs3d" resname="Chat now on Discord">
         <source>Chat now on Discord</source>
-        <target>تحادث على Discord</target>
+        <target>دردش على Discord</target>
         
       </trans-unit>
       <trans-unit id="p1CbBjh" resname="Visit our GitHub page">
@@ -499,7 +501,7 @@
       </trans-unit>
       <trans-unit id="29NrAWW" resname="Visit the LMMS Sharing Platform (LSP)">
         <source>Visit the LMMS Sharing Platform (LSP)</source>
-        <target>زر منصة مشاركة LMMS (LSP)</target>
+        <target>زر منصة مشاركة LMMS</target>
         
       </trans-unit>
       <trans-unit id="vZEmrHQ" resname="Don't be modest.">
@@ -519,6 +521,7 @@
       </trans-unit>
       <trans-unit id="opjPraT" resname="Fork us on GitHub">
         <source>Fork us on GitHub</source>
+        <target>شعّبنا على GitHub</target>
         
       </trans-unit>
       <trans-unit id="4m3F_E2" resname="LMMS is a 100% free, open source, community-driven project.">
@@ -528,6 +531,7 @@
       </trans-unit>
       <trans-unit id="B_SpjYT" resname="Proudly hosted on GitHub.">
         <source>Proudly hosted on GitHub.</source>
+        <target>مستضاف بفخر على GitHub</target>
         
       </trans-unit>
       <trans-unit id="cjwuqX6" resname="Take a peek.">
@@ -537,7 +541,7 @@
       </trans-unit>
       <trans-unit id="73lMPDq" resname="Watch our promo video.">
         <source>Watch our promo video.</source>
-        <target>شاهد ڤ‍يديو الترويج خاصتنا.</target>
+        <target>شاهد فيديو الترويج خاصتنا.</target>
         
       </trans-unit>
       <trans-unit id="VnDwhfQ" resname="Click anywhere to close this dialog">
@@ -642,12 +646,12 @@
       </trans-unit>
       <trans-unit id="PoXBpT3" resname="Built-in visualization/spectrum analyzer">
         <source>Built-in visualization/spectrum analyzer</source>
-        <target>مرسم ذبذبات و محلل طيف مبنيان-داخلياً</target>
+        <target>مرسم ذبذبات و محلل طيف مبنيان داخلياً</target>
         
       </trans-unit>
       <trans-unit id="xhQMvx4" resname="Download LMMS Artwork">
         <source>Download LMMS Artwork</source>
-        <target>حمل عمل LMMS الفني</target>
+        <target>نزل عمل LMMS الفني</target>
         
       </trans-unit>
       <trans-unit id="Hq18WDE" resname="LMMS Logo">
@@ -667,7 +671,7 @@
       </trans-unit>
       <trans-unit id="ly35agX" resname="Official competitions organised by LMMS and its community members">
         <source>Official competitions organised by LMMS and its community members</source>
-        <target>المنافسات الرسمية المنظمة من قبل LMMS و أعضاء مشتركه</target>
+        <target>المنافسات الرسمية المنظمة من قبل LMMS و أعضاء مجتمعه</target>
         
       </trans-unit>
       <trans-unit id="hzCq1ff" resname="Current competitions:">
@@ -925,7 +929,7 @@
       </trans-unit>
       <trans-unit id=".cXS6UE" resname="Powered by">
         <source>Powered by</source>
-        <target>ممد بواسطة</target>
+        <target>برعاية</target>
         
       </trans-unit>
       <trans-unit id="laP8ZYf" resname="Author:">
@@ -940,51 +944,52 @@
       </trans-unit>
       <trans-unit id="VqvyA1L" resname="Scalable Vector Format">
         <source>Scalable Vector Format</source>
-        <target>بنية الرسوميات المتجهة المتغيرة</target>
+        <target>صيغة الرسوميات المتجهة المتغيرة</target>
         
       </trans-unit>
       <trans-unit id="5izmwVw" resname="PNG Format">
         <source>PNG Format</source>
-        <target>بنية PNG</target>
+        <target>صيغة PNG</target>
         
       </trans-unit>
       <trans-unit id="9pbDeQ2" resname="Gimp Image Editor Format">
         <source>Gimp Image Editor Format</source>
-        <target>بنية محرر الصور GIMP</target>
+        <target>صيغة محرر الصور GIMP</target>
         
       </trans-unit>
       <trans-unit id="zPnNJNw" resname="Portable Document Format">
         <source>Portable Document Format</source>
-        <target>بنية PDF</target>
+        <target>صيغة PDF</target>
         
       </trans-unit>
       <trans-unit id="Fa8w_Q9" resname="Adobe Photoshop Format">
         <source>Adobe Photoshop Format</source>
-        <target>بنية Adobe Photoshop</target>
+        <target>صيغة Adobe Photoshop</target>
         
       </trans-unit>
       <trans-unit id="CBjpoqc" resname="JPEG Format">
         <source>JPEG Format</source>
-        <target>بنية JPEG</target>
+        <target>صيغة JPEG</target>
         
       </trans-unit>
       <trans-unit id="FneECEa" resname="Bitmap Format">
         <source>Bitmap Format</source>
-        <target>بنية Bitmap</target>
+        <target>صيغة Bitmap</target>
         
       </trans-unit>
       <trans-unit id="HjfR4tA" resname="Windows Icon Format">
         <source>Windows Icon Format</source>
-        <target>بنية أيقونات Windows</target>
+        <target>صيغة أيقونات Windows</target>
         
       </trans-unit>
       <trans-unit id="lzCF.IZ" resname="Apple Icon Format">
         <source>Apple Icon Format</source>
-        <target>بنية أيقونات Apple</target>
+        <target>صيغة أيقونات Apple</target>
         
       </trans-unit>
       <trans-unit id="OnhpU4i" resname="Home">
         <source>Home</source>
+        <target>الصفحة الرئيسية</target>
         
       </trans-unit>
       <trans-unit id="R0s_HGS" resname="Tracks made with LMMS">
@@ -994,27 +999,27 @@
       </trans-unit>
       <trans-unit id="U7C6Upb" resname="The Best of LMMS Vol. 5 by LMMS Artists">
         <source>The Best of LMMS Vol. 5 by LMMS Artists</source>
-        <target>الأفضل من LMMS الخامسة بواسطة فناني LMMS</target>
+        <target>الأفضل من LMMS الخامسة من قبل فناني LMMS</target>
         
       </trans-unit>
       <trans-unit id="VlSWT7Z" resname="The Best of LMMS Vol. 4 by LMMS Artists">
         <source>The Best of LMMS Vol. 4 by LMMS Artists</source>
-        <target>الأفضل من LMMS الرابعة بواسطة فناني LMMS</target>
+        <target>الأفضل من LMMS الرابعة من قبل فناني LMMS</target>
         
       </trans-unit>
       <trans-unit id="SmxHy9V" resname="The Best of LMMS Vol.3 by LMMS Artists">
         <source>The Best of LMMS Vol.3 by LMMS Artists</source>
-        <target>الأفضل من LMMS الثالثة بواسطة فناني LMMS</target>
+        <target>الأفضل من LMMS الثالثة من قبل فناني LMMS</target>
         
       </trans-unit>
       <trans-unit id="lSUTfcX" resname="The Best of LMMS Vol.2 by LMMS Artists">
         <source>The Best of LMMS Vol.2 by LMMS Artists</source>
-        <target>الأفضل من LMMS الثانية بواسطة فناني LMMS</target>
+        <target>الأفضل من LMMS الثانية من قبل فناني LMMS</target>
         
       </trans-unit>
       <trans-unit id="dcu1CCI" resname="The Best of LMMS Vol.1 by LMMS Artists">
         <source>The Best of LMMS Vol.1 by LMMS Artists</source>
-        <target>الأفضل من LMMS الأولى بواسطة فناني LMMS</target>
+        <target>الأفضل من LMMS الأولى من قبل فناني LMMS</target>
         
       </trans-unit>
     </body>

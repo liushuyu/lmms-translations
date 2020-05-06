@@ -61,35 +61,44 @@
       </trans-unit>
       <trans-unit id="H2zLuBd" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
         <source>We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</source>
+        <target>Zerbait gaizki gertatu da azken bertsioaren informazioa atzitzean. Azken bertsioa &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt; webgunetik deskargatu daiteke.</target>
         
       </trans-unit>
       <trans-unit id="f.UFHnN" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 	Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>LMMS Linux banaketa gehienetako pakete-biltegietan dago.&lt;br&gt;
+&lt;a href=&quot;/get-involved/#contact&quot;&gt;Jarri harremanetan gurekin&lt;/a&gt; zure banaketa ez badago zerrenda honetan.</target>
         
       </trans-unit>
       <trans-unit id="LO1QDjg" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
         <source>For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.</source>
+        <target>LMMS Debianen oinarritutako baneketetan (Debian bera, Ubuntu edo Linux Mint, adibidez) instalatzeko, egin klik beheko botoian.</target>
         
       </trans-unit>
       <trans-unit id="G4TfEor" resname="Install LMMS now">
         <source>Install LMMS now</source>
+        <target>Inatalatu LMMS orain</target>
         
       </trans-unit>
       <trans-unit id="UQygByz" resname="From your package manager">
         <source>From your package manager</source>
+        <target>Zure pakete-kudeatzailetik</target>
         
       </trans-unit>
       <trans-unit id="EOXdih0" resname="If this doesn't work for you, run this command in a terminal.">
         <source>If this doesn't work for you, run this command in a terminal.</source>
+        <target>Horrek ez badu funtzionatzen, exekutatu honako komandoa terminalean.</target>
         
       </trans-unit>
       <trans-unit id="unby17C" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
         <source>If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.</source>
+        <target>Betiko biltegietako bertsioa zaharra bada, probatu &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio biltegia&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="jHa21vl" resname="VST Support">
         <source>VST Support</source>
+        <target>VST euskarria</target>
         
       </trans-unit>
       <trans-unit id="PN0uK90" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
@@ -98,14 +107,17 @@
       </trans-unit>
       <trans-unit id="f.eEeY2" resname="Run the following command as root in a terminal:">
         <source>Run the following command as root in a terminal:</source>
+        <target>Exekutatu honako komandoa erro modura terminal batean::</target>
         
       </trans-unit>
       <trans-unit id="z9xAq9s" resname="Run the following command in a terminal:">
         <source>Run the following command in a terminal:</source>
+        <target>Exekutatu honako komandoa terminal batean:</target>
         
       </trans-unit>
       <trans-unit id="eJUdOr0" resname="For VST support, please install wine or wine-staging from the repository">
         <source>For VST support, please install wine or wine-staging from the repository</source>
+        <target>VST euskarrirako, instalatu wine edo wine-staging biltegitik</target>
         
       </trans-unit>
       <trans-unit id=".uMu3cY" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
@@ -145,6 +157,7 @@
       </trans-unit>
       <trans-unit id="I.sR1nc" resname="Click one of the buttons below to download LMMS for Linux.">
         <source>Click one of the buttons below to download LMMS for Linux.</source>
+        <target>Egin klik beheko botoietako batean LMMS Linuxerako deskargatzeko</target>
         
       </trans-unit>
       <trans-unit id="ovu1A1m" resname="Stable Versions">
@@ -163,6 +176,7 @@
       </trans-unit>
       <trans-unit id="LL6EZV6" resname="Other options">
         <source>Other options</source>
+        <target>Beste aukera batzu</target>
         
       </trans-unit>
       <trans-unit id="0kZzFXf" resname="Install LMMS on Windows">
@@ -176,10 +190,12 @@
       </trans-unit>
       <trans-unit id="in50er8" resname="Install LMMS on macOS">
         <source>Install LMMS on macOS</source>
+        <target>Instalatu LMMS macOS sisteman</target>
         
       </trans-unit>
       <trans-unit id="6saYqj7" resname="Click one of the buttons below to download LMMS for macOS">
         <source>Click one of the buttons below to download LMMS for macOS</source>
+        <target>Egin klik beheko botoietako batean macOS sistemarako LMMS deskargatzeko</target>
         
       </trans-unit>
       <trans-unit id="QNAnU4Y" resname="Downloads labeled Beta are pre-release software, stability may suffer.">
@@ -385,6 +401,7 @@
       </trans-unit>
       <trans-unit id="QBixtUo" resname="Pick your flavor.">
         <source>Pick your flavor.</source>
+        <target>Aukeratu zure zaporea.</target>
         
       </trans-unit>
       <trans-unit id="CaD6ze3" resname="Linux, Windows or macOS.">
@@ -394,6 +411,7 @@
       </trans-unit>
       <trans-unit id="vEX6OG8" resname="Houston, we have a problem.">
         <source>Houston, we have a problem.</source>
+        <target>Houston, arazo bat dugu</target>
         
       </trans-unit>
       <trans-unit id="J5pmILO" resname="Stand by, we got you covered.">
@@ -436,6 +454,7 @@
       </trans-unit>
       <trans-unit id="tYjliwJ" resname="Find musicians">
         <source>Find musicians</source>
+        <target>Aurkitu musikariak</target>
         
       </trans-unit>
       <trans-unit id="29NrAWW" resname="Visit the LMMS Sharing Platform (LSP)">
@@ -444,14 +463,17 @@
       </trans-unit>
       <trans-unit id="vZEmrHQ" resname="Don't be modest.">
         <source>Don't be modest.</source>
+        <target>Ez izan apala</target>
         
       </trans-unit>
       <trans-unit id="E6hLz_I" resname="Show us your creations.">
         <source>Show us your creations.</source>
+        <target>Erakutsi zure sortzelanak.</target>
         
       </trans-unit>
       <trans-unit id="e0XmaMu" resname="We &lt;3 open source.">
         <source>We &lt;3 open source.</source>
+        <target>Guk &lt;3 kode irekia.</target>
         
       </trans-unit>
       <trans-unit id="opjPraT" resname="Fork us on GitHub">

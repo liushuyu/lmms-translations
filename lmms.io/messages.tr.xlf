@@ -21,6 +21,7 @@
       </trans-unit>
       <trans-unit id="evAjxDA" resname="Docs">
         <source>Docs</source>
+        <target>Dökümanlar</target>
         
       </trans-unit>
       <trans-unit id="Tae9Qqu" resname="Forum">
@@ -30,6 +31,7 @@
       </trans-unit>
       <trans-unit id="yHBYjoP" resname="Sharing Platform">
         <source>Sharing Platform</source>
+        <target>Paylaşım Platformu</target>
         
       </trans-unit>
       <trans-unit id="KYh6X.m" resname="Share">
@@ -39,6 +41,7 @@
       </trans-unit>
       <trans-unit id="1H18sOT" resname="More">
         <source>More</source>
+        <target>Daha Fazlası</target>
         
       </trans-unit>
       <trans-unit id="mhXcnGL" resname="Showcase">
@@ -48,6 +51,7 @@
       </trans-unit>
       <trans-unit id="uCmXDvQ" resname="Competitions">
         <source>Competitions</source>
+        <target>Yarışmalar</target>
         
       </trans-unit>
       <trans-unit id="1BeqFto" resname="Branding">
@@ -56,11 +60,14 @@
       </trans-unit>
       <trans-unit id="H2zLuBd" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
         <source>We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</source>
+        <target>Özür dileriz, son sürümün bilgilerini indirirken bir hata gerçekleşti.Unutmayın &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt; üzerinden de indirebilirsiniz. </target>
         
       </trans-unit>
       <trans-unit id="f.UFHnN" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 	Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>LMMS  çoğu Linux dağıtımının  paketlerinde repertuarında (package repository) bulunmaktadır.&lt;br&gt;
+	Sizin Linux dağıtımınız burada listlenmemişse , lütfen bizimle &lt;a href=&quot;/get-involved/#contact&quot;&gt; iletişime geçiniz &lt;/a&gt;</target>
         
       </trans-unit>
       <trans-unit id="LO1QDjg" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
@@ -75,10 +82,12 @@
       </trans-unit>
       <trans-unit id="UQygByz" resname="From your package manager">
         <source>From your package manager</source>
+        <target>Paket yöneticinizden</target>
         
       </trans-unit>
       <trans-unit id="EOXdih0" resname="If this doesn't work for you, run this command in a terminal.">
         <source>If this doesn't work for you, run this command in a terminal.</source>
+        <target>Eğer bu çalışmazsa, komutu terminalde çalıştırın.</target>
         
       </trans-unit>
       <trans-unit id="unby17C" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
@@ -87,6 +96,7 @@
       </trans-unit>
       <trans-unit id="jHa21vl" resname="VST Support">
         <source>VST Support</source>
+        <target>VST Desteği</target>
         
       </trans-unit>
       <trans-unit id="PN0uK90" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
@@ -95,14 +105,17 @@
       </trans-unit>
       <trans-unit id="f.eEeY2" resname="Run the following command as root in a terminal:">
         <source>Run the following command as root in a terminal:</source>
+        <target>Aşağıdaki komutu terminalde yönetici (root) olarak çalıştırın:</target>
         
       </trans-unit>
       <trans-unit id="z9xAq9s" resname="Run the following command in a terminal:">
         <source>Run the following command in a terminal:</source>
+        <target>Aşağıdaki komutu terminalde çalıştırın:</target>
         
       </trans-unit>
       <trans-unit id="eJUdOr0" resname="For VST support, please install wine or wine-staging from the repository">
         <source>For VST support, please install wine or wine-staging from the repository</source>
+        <target>VST desteği için, lütfen wine veya wine-staging 'i repository'den yükleyiniz.</target>
         
       </trans-unit>
       <trans-unit id=".uMu3cY" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
@@ -115,10 +128,12 @@
       </trans-unit>
       <trans-unit id="i6lvwc6" resname="To install LMMS on AOSC OS with DPKG:">
         <source>To install LMMS on AOSC OS with DPKG:</source>
+        <target>LMMS'yi AOSC OS ile DPKG'de yüklememk için : </target>
         
       </trans-unit>
       <trans-unit id="4ya_6rI" resname="Build LMMS from source">
         <source>Build LMMS from source</source>
+        <target>Kaynak kodundan LMMS derleyin</target>
         
       </trans-unit>
       <trans-unit id="D9BgqO1" resname="If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.">
@@ -147,14 +162,17 @@
       </trans-unit>
       <trans-unit id="ovu1A1m" resname="Stable Versions">
         <source>Stable Versions</source>
+        <target>Kararlı Sürümler</target>
         
       </trans-unit>
       <trans-unit id="GUjytCK" resname="Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running">
         <source>Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running</source>
+        <target>&lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; komutunu &lt;code&gt;.AppImage&lt;/code&gt; dosyasını yürütülebilir (executube) hale getirmek için çalıştırın.</target>
         
       </trans-unit>
       <trans-unit id="A8g9Yp6" resname="Beta Versions">
         <source>Beta Versions</source>
+        <target>Beta Sürümleri</target>
         
       </trans-unit>
       <trans-unit id="LL6EZV6" resname="Other options">
@@ -186,10 +204,12 @@
       </trans-unit>
       <trans-unit id="VA2zwSI" resname="Previous releases">
         <source>Previous releases</source>
+        <target>Önceki sürümler</target>
         
       </trans-unit>
       <trans-unit id="NkbaYUi" resname="Show release notes">
         <source>Show release notes</source>
+        <target>Sürüm notlarını göster</target>
         
       </trans-unit>
       <trans-unit id="qcNxvc6" resname="LMMS is a free, open-source software built entirely by a small number of&#10;&#9;volunteers in their free time. But to keep the project going, we need this&#10;&#9;number to grow. So if you feel like giving something back to the community,&#10;&#9;join us in making LMMS better!">
@@ -903,10 +923,12 @@
       </trans-unit>
       <trans-unit id="lzCF.IZ" resname="Apple Icon Format">
         <source>Apple Icon Format</source>
+        <target>Apple ikon formatı</target>
         
       </trans-unit>
       <trans-unit id="OnhpU4i" resname="Home">
         <source>Home</source>
+        <target>Ana Sayfa</target>
         
       </trans-unit>
       <trans-unit id="R0s_HGS" resname="Tracks made with LMMS">
@@ -916,6 +938,7 @@
       </trans-unit>
       <trans-unit id="U7C6Upb" resname="The Best of LMMS Vol. 5 by LMMS Artists">
         <source>The Best of LMMS Vol. 5 by LMMS Artists</source>
+        <target>LMMS'in En İyileri Vol. 5 by LMMS Sanatçıları</target>
         
       </trans-unit>
       <trans-unit id="VlSWT7Z" resname="The Best of LMMS Vol. 4 by LMMS Artists">

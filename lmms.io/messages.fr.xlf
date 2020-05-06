@@ -1018,14 +1018,6 @@
         <target>Le meilleur de LMMS vol.1 par des artistes LMMS</target>
         
       </trans-unit>
-      <trans-unit id="XaEX_Ha" resname="LMMS Sharing Platform">
-        <source>LMMS Sharing Platform</source>
-        
-      </trans-unit>
-      <trans-unit id="CxpKTzu" resname="Share your work with the LMMS community.">
-        <source>Share your work with the LMMS community.</source>
-        
-      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="wgWSTeD" resname="Documentation">
         <source>Documentation</source>
-        <target>Dokumenty</target>
+        <target>Dokumentace</target>
         
       </trans-unit>
       <trans-unit id="evAjxDA" resname="Docs">
@@ -41,7 +41,7 @@
       </trans-unit>
       <trans-unit id="1H18sOT" resname="More">
         <source>More</source>
-        <target>Víc</target>
+        <target>Více</target>
         
       </trans-unit>
       <trans-unit id="mhXcnGL" resname="Showcase">
@@ -994,6 +994,7 @@
       </trans-unit>
       <trans-unit id="OnhpU4i" resname="Home">
         <source>Home</source>
+        <target>Domů</target>
         
       </trans-unit>
       <trans-unit id="R0s_HGS" resname="Tracks made with LMMS">

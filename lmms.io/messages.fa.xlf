@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="Tdd9OuD" resname="Get Involved">
         <source>Get Involved</source>
-        <target>درگیر کاری شدن</target>
+        <target>مشارکت کنید</target>
         
       </trans-unit>
       <trans-unit id="wgWSTeD" resname="Documentation">
@@ -934,10 +934,12 @@
       </trans-unit>
       <trans-unit id="OnhpU4i" resname="Home">
         <source>Home</source>
+        <target>خانه</target>
         
       </trans-unit>
       <trans-unit id="R0s_HGS" resname="Tracks made with LMMS">
         <source>Tracks made with LMMS</source>
+        <target>آهنگ های ساخته شده با LMMS</target>
         
       </trans-unit>
       <trans-unit id="U7C6Upb" resname="The Best of LMMS Vol. 5 by LMMS Artists">

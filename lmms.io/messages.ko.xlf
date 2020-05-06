@@ -46,6 +46,7 @@
       </trans-unit>
       <trans-unit id="mhXcnGL" resname="Showcase">
         <source>Showcase</source>
+        <target>쇼케이스</target>
         
       </trans-unit>
       <trans-unit id="uCmXDvQ" resname="Competitions">
@@ -55,6 +56,7 @@
       </trans-unit>
       <trans-unit id="1BeqFto" resname="Branding">
         <source>Branding</source>
+        <target>브랜딩</target>
         
       </trans-unit>
       <trans-unit id="H2zLuBd" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
@@ -65,11 +67,13 @@
       <trans-unit id="f.UFHnN" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 	Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>주요 Linux 배포판의 경우, 많은 경우 패키지 저장소에 LMMS 패키지가 있습니다.&lt;br&gt;
+	만약 여러분이 사용하시는 배포판이 이 목록에 없다면 &lt;a href=&quot;/get-involved/#contact&quot;&gt;저희에게 연락&lt;/a&gt;해 주세요.</target>
         
       </trans-unit>
       <trans-unit id="LO1QDjg" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
         <source>For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.</source>
-        <target>LMMS를 Debian 기반의 배포판(Debian, Ubuntu, Linux Mint 등)에서 사용하시려면 아래에 버튼을 클릭하세요.</target>
+        <target>LMMS를 Debian 기반의 배포판(Debian, Ubuntu, Linux Mint 등)에서 사용하시려면 아래에 있는 버튼을 클릭하세요.</target>
         
       </trans-unit>
       <trans-unit id="G4TfEor" resname="Install LMMS now">
@@ -89,6 +93,7 @@
       </trans-unit>
       <trans-unit id="unby17C" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
         <source>If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.</source>
+        <target>배포판이 제공하는 패키지가 오래되었다면 &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio 저장소&lt;/a&gt;를 이용해 보세요.</target>
         
       </trans-unit>
       <trans-unit id="jHa21vl" resname="VST Support">
@@ -98,6 +103,7 @@
       </trans-unit>
       <trans-unit id="PN0uK90" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
         <source>If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.</source>
+        <target>만약 배포판의 패키지가 VST를 지원한다면 (Wine을 설치해야 함) 별도의 VST 지원 패키지의 형태로 배포되고 있을 수도 있습니다.  만약 &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio 저장소&lt;/a&gt;를 사용하신다면 다음 명령어를 통해 VST 지원 패키지를 설치할 수 있습니다.</target>
         
       </trans-unit>
       <trans-unit id="f.eEeY2" resname="Run the following command as root in a terminal:">
@@ -112,18 +118,22 @@
       </trans-unit>
       <trans-unit id="eJUdOr0" resname="For VST support, please install wine or wine-staging from the repository">
         <source>For VST support, please install wine or wine-staging from the repository</source>
+        <target>VST를 사용하려면 wine 또는 wine-staging 패키지를 설치하시기 바랍니다.</target>
         
       </trans-unit>
       <trans-unit id=".uMu3cY" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
         <source>AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.</source>
+        <target>AOSC OS는 다양한 CPU 아키텍처(AMD64/x86_64, ARMv7 등)에 대해 LMMS 패키지를 제공합니다. AMD64 버전은 VST를 기본적으로 지원합니다.</target>
         
       </trans-unit>
       <trans-unit id="H1vkGQS" resname="To install LMMS on AOSC OS with PackageKit (recommended):">
         <source>To install LMMS on AOSC OS with PackageKit (recommended):</source>
+        <target>AOSC OS에서 PackageKit으로 LMMS 설치 (권장):</target>
         
       </trans-unit>
       <trans-unit id="i6lvwc6" resname="To install LMMS on AOSC OS with DPKG:">
         <source>To install LMMS on AOSC OS with DPKG:</source>
+        <target>AOSC OS에서 DPKG로 LMMS 설치:</target>
         
       </trans-unit>
       <trans-unit id="4ya_6rI" resname="Build LMMS from source">
@@ -193,6 +203,7 @@
       </trans-unit>
       <trans-unit id="6saYqj7" resname="Click one of the buttons below to download LMMS for macOS">
         <source>Click one of the buttons below to download LMMS for macOS</source>
+        <target>아래의 버튼 중 하나를 클릭하여 LMMS의 macOS 버전을 다운로드하시기 바랍니다.</target>
         
       </trans-unit>
       <trans-unit id="QNAnU4Y" resname="Downloads labeled Beta are pre-release software, stability may suffer.">
@@ -264,6 +275,9 @@
         <source>Public registration on our Wiki is disabled due to spam issues. Please post to the
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're
 					   interested in helping out with the documentation!</source>
+        <target>스팸 문제로 인해 위키 자동 가입이 불가능합니다.
+					   만약 LMMS 문서에 기여하고 싶으시다면 
+					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;메일링 리스트&lt;/a&gt;를 통해 가입 요청을 해 주세요.</target>
         
       </trans-unit>
       <trans-unit id="yR7g8nm" resname="Donate">
@@ -307,6 +321,7 @@
       </trans-unit>
       <trans-unit id="6PT.eyE" resname="Posting to the mailing list is the best way to reach out to our developers:">
         <source>Posting to the mailing list is the best way to reach out to our developers:</source>
+        <target>개발자에게 연락하는 좋은 방법 중 하나는 메일링 리스트에 메일을 보내는 것입니다.</target>
         
       </trans-unit>
       <trans-unit id="vTqq2U0" resname="Subscribe to LMMS-Devel mailing list">
@@ -424,7 +439,7 @@
       </trans-unit>
       <trans-unit id="vEX6OG8" resname="Houston, we have a problem.">
         <source>Houston, we have a problem.</source>
-        <target>이런, 문제가 생겼어요.</target>
+        <target>문제가 생겼나요?</target>
         
       </trans-unit>
       <trans-unit id="J5pmILO" resname="Stand by, we got you covered.">
@@ -494,6 +509,7 @@
       </trans-unit>
       <trans-unit id="opjPraT" resname="Fork us on GitHub">
         <source>Fork us on GitHub</source>
+        <target>GitHub에서 프로젝트 Fork</target>
         
       </trans-unit>
       <trans-unit id="4m3F_E2" resname="LMMS is a 100% free, open source, community-driven project.">
@@ -503,6 +519,7 @@
       </trans-unit>
       <trans-unit id="B_SpjYT" resname="Proudly hosted on GitHub.">
         <source>Proudly hosted on GitHub.</source>
+        <target>LMMS 개발은 GitHub을 통해 이루어집니다.</target>
         
       </trans-unit>
       <trans-unit id="cjwuqX6" resname="Take a peek.">
@@ -512,7 +529,7 @@
       </trans-unit>
       <trans-unit id="73lMPDq" resname="Watch our promo video.">
         <source>Watch our promo video.</source>
-        <target>프로모션 동영상을 시청합니다.</target>
+        <target>홍보 동영상을 시청해 보세요.</target>
         
       </trans-unit>
       <trans-unit id="VnDwhfQ" resname="Click anywhere to close this dialog">

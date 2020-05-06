@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="VA2zwSI" resname="Previous releases">
         <source>Previous releases</source>
-        <target>Föregående utgåvor</target>
+        <target>Tidigare utgåvor</target>
         
       </trans-unit>
       <trans-unit id="NkbaYUi" resname="Show release notes">
@@ -442,7 +442,7 @@
       </trans-unit>
       <trans-unit id="QBixtUo" resname="Pick your flavor.">
         <source>Pick your flavor.</source>
-        <target>Oavsätt operativsystem.</target>
+        <target>Oavsett operativsystem.</target>
         
       </trans-unit>
       <trans-unit id="CaD6ze3" resname="Linux, Windows or macOS.">
@@ -522,7 +522,7 @@
       </trans-unit>
       <trans-unit id="opjPraT" resname="Fork us on GitHub">
         <source>Fork us on GitHub</source>
-        <target>Dela oss på GitHub</target>
+        <target>Förgrena oss på GitHub</target>
         
       </trans-unit>
       <trans-unit id="4m3F_E2" resname="LMMS is a 100% free, open source, community-driven project.">
@@ -990,6 +990,7 @@
       </trans-unit>
       <trans-unit id="OnhpU4i" resname="Home">
         <source>Home</source>
+        <target>Hem</target>
         
       </trans-unit>
       <trans-unit id="R0s_HGS" resname="Tracks made with LMMS">

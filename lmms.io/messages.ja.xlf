@@ -67,6 +67,7 @@
       <trans-unit id="f.UFHnN" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 	Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>LMMSは多くのLinuxディストリビューションのパッケージレポジトリにあります。&lt;br&gt;もし、ない場合は&lt;a href=&quot;/get-involved/#contact&quot;&gt;私たちに連絡&lt;/a&gt;してください。</target>
         
       </trans-unit>
       <trans-unit id="LO1QDjg" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
@@ -100,6 +101,7 @@
       </trans-unit>
       <trans-unit id="PN0uK90" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
         <source>If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.</source>
+        <target>もし、VSTを使用したい場合 (Wineのインストールが必要) 、公式のVST用のパッケージがあります。&lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio&lt;/a&gt;を使用している場合には、以下のコマンドを端末で実行してください。</target>
         
       </trans-unit>
       <trans-unit id="f.eEeY2" resname="Run the following command as root in a terminal:">
@@ -510,6 +512,7 @@ Qtはフレームワークなので何か知っていれば、遠慮せずに開
       </trans-unit>
       <trans-unit id="opjPraT" resname="Fork us on GitHub">
         <source>Fork us on GitHub</source>
+        <target>Githubからソースコードを入手</target>
         
       </trans-unit>
       <trans-unit id="4m3F_E2" resname="LMMS is a 100% free, open source, community-driven project.">
@@ -519,6 +522,7 @@ Qtはフレームワークなので何か知っていれば、遠慮せずに開
       </trans-unit>
       <trans-unit id="B_SpjYT" resname="Proudly hosted on GitHub.">
         <source>Proudly hosted on GitHub.</source>
+        <target>Githubで管理されています</target>
         
       </trans-unit>
       <trans-unit id="cjwuqX6" resname="Take a peek.">
@@ -975,6 +979,7 @@ Qtはフレームワークなので何か知っていれば、遠慮せずに開
       </trans-unit>
       <trans-unit id="OnhpU4i" resname="Home">
         <source>Home</source>
+        <target>ホーム</target>
         
       </trans-unit>
       <trans-unit id="R0s_HGS" resname="Tracks made with LMMS">
@@ -984,6 +989,7 @@ Qtはフレームワークなので何か知っていれば、遠慮せずに開
       </trans-unit>
       <trans-unit id="U7C6Upb" resname="The Best of LMMS Vol. 5 by LMMS Artists">
         <source>The Best of LMMS Vol. 5 by LMMS Artists</source>
+        <target>The Best of LMMS vol.5</target>
         
       </trans-unit>
       <trans-unit id="VlSWT7Z" resname="The Best of LMMS Vol. 4 by LMMS Artists">

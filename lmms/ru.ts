@@ -9,7 +9,7 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="43"/>
         <source>LMMS</source>
-        <translation>ЛММС</translation>
+        <translation>LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="50"/>
@@ -24,12 +24,12 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="100"/>
         <source>LMMS - easy music production for everyone.</source>
-        <translation>LMMS — простое создание музыки для каждого.</translation>
+        <translation>LMMS — простое создание музыки для всех.</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="126"/>
         <source>Copyright © %1.</source>
-        <translation>Авторское право © %1.</translation>
+        <translation>Все права защищены © %1.</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="152"/>
@@ -60,7 +60,20 @@
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="220"/>
         <source>Current language not translated (or native English).
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation>Текущий язык не переведён. Если вы заинтересованы переводить LMMS на другие языки или же хотите улучшить существующий перевод, всегда пожалуйста! Просто свяжитесь с сопровождающим.</translation>
+        <translation>Хотите перевести LMMS на другой язык или улучшить существующий перевод — всегда пожалуйста! Свяжитесь с командой переводчиков: 
+https://www.transifex.com/lmms/teams/61632/ru/
+https://matrix.to/#/#lmms.ru.team:matrix.org
+
+На русский язык переводили :
+
+Алексей Кузнецов (2006)
+Symbiants / OeAi (2014)
+Василий Павлов (2019)
+Алексей &quot;Lexeii&quot; Бобылёв (2020)  
+Андрей Степанов (2018) 
+Andrew344 (2016)
+Кирилл Рагузин (2018)
+Simple88 (2016)</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="229"/>
@@ -83,7 +96,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="53"/>
         <source>PAN</source>
-        <translation>БАЛ</translation>
+        <translation>БАЛАНС</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="54"/>
@@ -93,22 +106,22 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="60"/>
         <source>LEFT</source>
-        <translation>Лево</translation>
+        <translation>СЛЕВА</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="61"/>
         <source>Left gain:</source>
-        <translation>Лево мощность:</translation>
+        <translation>Усиление левого канала:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="67"/>
         <source>RIGHT</source>
-        <translation>Право</translation>
+        <translation>СПРАВА</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="68"/>
         <source>Right gain:</source>
-        <translation>Право мощность:</translation>
+        <translation>Усиление правого канала:</translation>
     </message>
 </context>
 <context>
@@ -126,12 +139,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="40"/>
         <source>Left gain</source>
-        <translation>Лево мощн</translation>
+        <translation>Усиление (Л)</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="41"/>
         <source>Right gain</source>
-        <translation>Право мощн</translation>
+        <translation>Усиление (П)</translation>
     </message>
 </context>
 <context>
@@ -152,12 +165,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="469"/>
         <source>Open sample</source>
-        <translation>Открыть семпл</translation>
+        <translation>Открыть сэмпл</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="478"/>
         <source>Reverse sample</source>
-        <translation>Отзеркалить запись</translation>
+        <translation>Развернуть сэмпл</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="489"/>
@@ -172,12 +185,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="508"/>
         <source>Enable ping-pong loop</source>
-        <translation type="unfinished"/>
+        <translation>Включить петлю «вперёд-назад»</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="523"/>
         <source>Continue sample playback across notes</source>
-        <translation>Продолжить воспроизведение записи по нотам</translation>
+        <translation>Продолжить воспроизведение сэмпла по нотам</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="528"/>
@@ -205,7 +218,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="982"/>
         <source>Sample length:</source>
-        <translation>Длина записи:</translation>
+        <translation>Длительность сэмпла:</translation>
     </message>
 </context>
 <context>
@@ -218,17 +231,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="106"/>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation>LMMS не был подключен к JACK по какой-то причине, поэтому LMMS подключение к JACK было перезапущено. Вам придётся заново вручную создать соединения.</translation>
+        <translation>LMMS не был подключен к JACK по какой-то причине, поэтому подключение LMMS к JACK было перезапущено. Вам придётся заново вручную создать соединения.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="114"/>
         <source>JACK server down</source>
-        <translation>JACK-сервер не доступен</translation>
+        <translation>JACK-сервер недоступен</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="115"/>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation>Возможно JACK-сервер был выключен и запуск нового процесса не удался, поэтому ЛММС не может продолжить работу. Вам следует сохранить проект и перезапустить JACK и LMMS.</translation>
+        <translation>Возможно JACK-сервер был выключен и запуск нового процесса не удался, поэтому LMMS не может продолжить работу. Вам следует сохранить проект и перезапустить JACK и LMMS.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="457"/>
@@ -259,7 +272,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="415"/>
         <source>Backend</source>
-        <translation>Внутренний интерфейс</translation>
+        <translation>Интерфейс</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="422"/>
@@ -306,7 +319,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="429"/>
         <source>Backend</source>
-        <translation>Внутренний интерфейс</translation>
+        <translation>Интерфейс</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="436"/>
@@ -319,17 +332,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="58"/>
         <source>&amp;Reset (%1%2)</source>
-        <translation>&amp;R Сбросить (%1%2)</translation>
+        <translation>&amp;Сбросить (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="65"/>
         <source>&amp;Copy value (%1%2)</source>
-        <translation>&amp;C Копировать значение (%1%2)</translation>
+        <translation>&amp;Копировать значение (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="73"/>
         <source>&amp;Paste value (%1%2)</source>
-        <translation>&amp;P Вставить значение (%1%2)</translation>
+        <translation>&amp;Вставить значение (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="76"/>
@@ -339,12 +352,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="84"/>
         <source>Edit song-global automation</source>
-        <translation>Изменить глоабльную автоматизацию композиции</translation>
+        <translation>Изменить глобальную автоматизацию</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="89"/>
         <source>Remove song-global automation</source>
-        <translation>Убрать глобальную автоматизацию композиции</translation>
+        <translation>Убрать глобальную автоматизацию</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="98"/>
@@ -354,17 +367,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="109"/>
         <source>Connected to %1</source>
-        <translation>Подсоединено к %1</translation>
+        <translation>Соединено с «%1»</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="113"/>
         <source>Connected to controller</source>
-        <translation>Подсоединено к контроллеру</translation>
+        <translation>Соединено с контроллером</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="119"/>
         <source>Edit connection...</source>
-        <translation>Настроить соединение...</translation>
+        <translation>Изменить соединение…</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="122"/>
@@ -380,17 +393,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomationEditor</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1450"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1462"/>
         <source>Please open an automation pattern with the context menu of a control!</source>
-        <translation>Откройте редатор автоматизации через контекстное меню регулятора!</translation>
+        <translation>Откройте редактор автоматизации через контекстное меню регулятора!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1992"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2004"/>
         <source>Values copied</source>
         <translation>Значения скопированы</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1993"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2005"/>
         <source>All selected values were copied to the clipboard.</source>
         <translation>Все выбранные значения скопированы в буфер обмена.</translation>
     </message>
@@ -398,126 +411,126 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomationEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2234"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2246"/>
         <source>Play/pause current pattern (Space)</source>
-        <translation>Игра/Пауза текущей мелодии (Пробел)</translation>
+        <translation>Игра/пауза текущей мелодии (Пробел)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2236"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2248"/>
         <source>Stop playing of current pattern (Space)</source>
-        <translation>Остановить воспроизведение текущей мелодии (Пробел)</translation>
+        <translation>Остановить воспроизведение текущего паттерна (пробел)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2239"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2251"/>
         <source>Edit actions</source>
-        <translation>Правка:</translation>
+        <translation>Панель правки</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2242"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2254"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Режим рисования (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2246"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2258"/>
         <source>Erase mode (Shift+E)</source>
-        <translation>Режим стирания (Shift-E)</translation>
+        <translation>Режим стирания (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2249"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2261"/>
         <source>Flip vertically</source>
         <translation>Перевернуть вертикально</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2250"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2262"/>
         <source>Flip horizontally</source>
         <translation>Перевернуть горизонтально</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2267"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2279"/>
         <source>Interpolation controls</source>
         <translation>Управление интерполяцией</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2272"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2284"/>
         <source>Discrete progression</source>
         <translation>Дискретная прогрессия</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2276"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2288"/>
         <source>Linear progression</source>
         <translation>Линейная прогрессия</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2278"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2290"/>
         <source>Cubic Hermite progression</source>
         <translation>Кубическая Эрмитова прогрессия</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2285"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2297"/>
         <source>Tension value for spline</source>
-        <translation>Величина напряжения для сплайна</translation>
+        <translation>Жёсткость на изгибе</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2294"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2306"/>
         <source>Tension: </source>
-        <translation>Напряжение:</translation>
+        <translation>Жёсткость:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2303"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2315"/>
         <source>Cut selected values (%1+X)</source>
-        <translation>Вырезать выбранные ноты (%1+X)</translation>
+        <translation>Вырезать выбранные значения (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2305"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2317"/>
         <source>Copy selected values (%1+C)</source>
-        <translation>Копировать выбранные ноты в буфер (%1+C)</translation>
+        <translation>Копировать выбранные значения (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2307"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2319"/>
         <source>Paste values from clipboard (%1+V)</source>
         <translation>Вставить запомненные значения (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2332"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2344"/>
         <source>Zoom controls</source>
-        <translation>Приблизить управление</translation>
+        <translation>Управление приближением</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2339"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2351"/>
         <source>Horizontal zooming</source>
-        <translation>Горизонтальное увеличение</translation>
+        <translation>Горизонтальное приближение</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2358"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2370"/>
         <source>Vertical zooming</source>
-        <translation>Вертикальное увеличение</translation>
+        <translation>Вертикальное приближение</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2381"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2393"/>
         <source>Quantization controls</source>
         <translation>Управление квантованием</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2388"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2400"/>
         <source>Quantization</source>
         <translation>Квантование</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2424"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2541"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2436"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2553"/>
         <source>Automation Editor - no pattern</source>
-        <translation>Редактор автоматизаци — нет шаблона</translation>
+        <translation>Редактор автоматизации — без паттерна</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2428"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2545"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2440"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2557"/>
         <source>Automation Editor - %1</source>
         <translation>Редактор автоматизации — %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2482"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2494"/>
         <source>Model is already connected to this pattern.</source>
-        <translation>Модель уже подключена к этому шаблону.</translation>
+        <translation>Модель уже подключена к этому паттерну.</translation>
     </message>
 </context>
 <context>
@@ -525,7 +538,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/AutomationPattern.cpp" line="623"/>
         <source>Drag a control while pressing &lt;%1&gt;</source>
-        <translation>Тяните контроль удерживая &lt;%1&gt;</translation>
+        <translation>Перетащите элемент управления, удерживая &lt;%1&gt;</translation>
     </message>
 </context>
 <context>
@@ -578,7 +591,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="446"/>
         <source>Model is already connected to this pattern.</source>
-        <translation>Модель уже подключена к этому шаблону.</translation>
+        <translation>Модель уже подключена к этому паттерну.</translation>
     </message>
 </context>
 <context>
@@ -594,12 +607,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="47"/>
         <source>Beat+Bassline Editor</source>
-        <translation>Ритм+Бас Редактор</translation>
+        <translation>Ритм+Бас Композитор</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="69"/>
         <source>Play/pause current beat/bassline (Space)</source>
-        <translation>Игра/пауза текущей линии ритма/баса (&lt;Space&gt;)</translation>
+        <translation>Игра/пауза текущей линии ритма/баса (пробел)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="70"/>
@@ -614,7 +627,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="84"/>
         <source>Track and step actions</source>
-        <translation>Действия для дорожки или ее части</translation>
+        <translation>Действия для дорожки или такта</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="87"/>
@@ -652,7 +665,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="164"/>
         <source>Open in Beat+Bassline-Editor</source>
-        <translation>Открыть в редакторе ритм + баса</translation>
+        <translation>Открыть в Композиторе-Ритм+Баса</translation>
     </message>
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="171"/>
@@ -680,7 +693,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="385"/>
         <source>Beat/Bassline %1</source>
-        <translation>Ритм-Бас Линия %1</translation>
+        <translation>Ритм/Бас Линия %1</translation>
     </message>
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="534"/>
@@ -703,17 +716,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="54"/>
         <source>GAIN</source>
-        <translation>МОЩ</translation>
+        <translation>УСИЛ</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="55"/>
         <source>Gain:</source>
-        <translation>Мощность:</translation>
+        <translation>Усиление:</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="59"/>
         <source>RATIO</source>
-        <translation>ОТН</translation>
+        <translation>ОТНОШ</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="60"/>
@@ -731,7 +744,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="37"/>
         <source>Gain</source>
-        <translation>Мощность</translation>
+        <translation>Усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="38"/>
@@ -744,18 +757,18 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="47"/>
         <source>IN</source>
-        <translation>ВХОД</translation>
+        <translation>ВХ</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="50"/>
         <source>OUT</source>
-        <translation>ВЫХОД</translation>
+        <translation>ВЫХ</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="57"/>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="71"/>
         <source>GAIN</source>
-        <translation>МОЩ</translation>
+        <translation>УСИЛ</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="58"/>
@@ -765,7 +778,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="63"/>
         <source>NOISE</source>
-        <translation>Шум</translation>
+        <translation>ШУМ</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="64"/>
@@ -810,7 +823,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="97"/>
         <source>FREQ</source>
-        <translation>FREQ</translation>
+        <translation>ЧАСТ</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="98"/>
@@ -863,7 +876,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="41"/>
         <source>Sample rate</source>
-        <translation>Битрейт семпла</translation>
+        <translation>Частота сэмплирования</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="42"/>
@@ -887,11 +900,1695 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
 </context>
 <context>
+    <name>CarlaAboutW</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="14"/>
+        <source>About Carla</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="24"/>
+        <source>About</source>
+        <translation>О программе</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="30"/>
+        <source>About text here</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="102"/>
+        <source>Extended licensing here</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="113"/>
+        <source>Artwork</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="144"/>
+        <source>Using KDE Oxygen icon set, designed by Oxygen Team.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="230"/>
+        <source>Contains some knobs, backgrounds and other small artwork from Calf Studio Gear, OpenAV and OpenOctave projects.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="465"/>
+        <source>VST is a trademark of Steinberg Media Technologies GmbH.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="579"/>
+        <source>Special thanks to António Saraiva for a few extra icons and artwork!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="589"/>
+        <source>The LV2 logo has been designed by Thorsten Wilms, based on a concept from Peter Shorthose.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="605"/>
+        <source>MIDI Keyboard designed by Thorsten Wilms.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="647"/>
+        <source>Carla, Carla-Control and Patchbay icons designed by DoosC.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="671"/>
+        <source>Features</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="677"/>
+        <source>AU/AudioUnit:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="697"/>
+        <source>LADSPA:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="716"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="774"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="806"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="825"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="929"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="942"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1015"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1022"/>
+        <source>TextLabel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="742"/>
+        <source>VST2:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="755"/>
+        <source>DSSI:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="787"/>
+        <source>LV2:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="916"/>
+        <source>VST3:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="956"/>
+        <source>OSC</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="962"/>
+        <source>Host URLs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="982"/>
+        <source>Valid commands:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="992"/>
+        <source>valid osc commands here</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1005"/>
+        <source>Example:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1072"/>
+        <source>License</source>
+        <translation>Лицензия</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1081"/>
+        <source>                    GNU GENERAL PUBLIC LICENSE
+                       Version 2, June 1991
+
+ Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
+ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The licenses for most software are designed to take away your
+freedom to share and change it.  By contrast, the GNU General Public
+License is intended to guarantee your freedom to share and change free
+software--to make sure the software is free for all its users.  This
+General Public License applies to most of the Free Software
+Foundation's software and to any other program whose authors commit to
+using it.  (Some other Free Software Foundation software is covered by
+the GNU Lesser General Public License instead.)  You can apply it to
+your programs, too.
+
+  When we speak of free software, we are referring to freedom, not
+price.  Our General Public Licenses are designed to make sure that you
+have the freedom to distribute copies of free software (and charge for
+this service if you wish), that you receive source code or can get it
+if you want it, that you can change the software or use pieces of it
+in new free programs; and that you know you can do these things.
+
+  To protect your rights, we need to make restrictions that forbid
+anyone to deny you these rights or to ask you to surrender the rights.
+These restrictions translate to certain responsibilities for you if you
+distribute copies of the software, or if you modify it.
+
+  For example, if you distribute copies of such a program, whether
+gratis or for a fee, you must give the recipients all the rights that
+you have.  You must make sure that they, too, receive or can get the
+source code.  And you must show them these terms so they know their
+rights.
+
+  We protect your rights with two steps: (1) copyright the software, and
+(2) offer you this license which gives you legal permission to copy,
+distribute and/or modify the software.
+
+  Also, for each author's protection and ours, we want to make certain
+that everyone understands that there is no warranty for this free
+software.  If the software is modified by someone else and passed on, we
+want its recipients to know that what they have is not the original, so
+that any problems introduced by others will not reflect on the original
+authors' reputations.
+
+  Finally, any free program is threatened constantly by software
+patents.  We wish to avoid the danger that redistributors of a free
+program will individually obtain patent licenses, in effect making the
+program proprietary.  To prevent this, we have made it clear that any
+patent must be licensed for everyone's free use or not licensed at all.
+
+  The precise terms and conditions for copying, distribution and
+modification follow.
+
+                    GNU GENERAL PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. This License applies to any program or other work which contains
+a notice placed by the copyright holder saying it may be distributed
+under the terms of this General Public License.  The &quot;Program&quot;, below,
+refers to any such program or work, and a &quot;work based on the Program&quot;
+means either the Program or any derivative work under copyright law:
+that is to say, a work containing the Program or a portion of it,
+either verbatim or with modifications and/or translated into another
+language.  (Hereinafter, translation is included without limitation in
+the term &quot;modification&quot;.)  Each licensee is addressed as &quot;you&quot;.
+
+Activities other than copying, distribution and modification are not
+covered by this License; they are outside its scope.  The act of
+running the Program is not restricted, and the output from the Program
+is covered only if its contents constitute a work based on the
+Program (independent of having been made by running the Program).
+Whether that is true depends on what the Program does.
+
+  1. You may copy and distribute verbatim copies of the Program's
+source code as you receive it, in any medium, provided that you
+conspicuously and appropriately publish on each copy an appropriate
+copyright notice and disclaimer of warranty; keep intact all the
+notices that refer to this License and to the absence of any warranty;
+and give any other recipients of the Program a copy of this License
+along with the Program.
+
+You may charge a fee for the physical act of transferring a copy, and
+you may at your option offer warranty protection in exchange for a fee.
+
+  2. You may modify your copy or copies of the Program or any portion
+of it, thus forming a work based on the Program, and copy and
+distribute such modifications or work under the terms of Section 1
+above, provided that you also meet all of these conditions:
+
+    a) You must cause the modified files to carry prominent notices
+    stating that you changed the files and the date of any change.
+
+    b) You must cause any work that you distribute or publish, that in
+    whole or in part contains or is derived from the Program or any
+    part thereof, to be licensed as a whole at no charge to all third
+    parties under the terms of this License.
+
+    c) If the modified program normally reads commands interactively
+    when run, you must cause it, when started running for such
+    interactive use in the most ordinary way, to print or display an
+    announcement including an appropriate copyright notice and a
+    notice that there is no warranty (or else, saying that you provide
+    a warranty) and that users may redistribute the program under
+    these conditions, and telling the user how to view a copy of this
+    License.  (Exception: if the Program itself is interactive but
+    does not normally print such an announcement, your work based on
+    the Program is not required to print an announcement.)
+
+These requirements apply to the modified work as a whole.  If
+identifiable sections of that work are not derived from the Program,
+and can be reasonably considered independent and separate works in
+themselves, then this License, and its terms, do not apply to those
+sections when you distribute them as separate works.  But when you
+distribute the same sections as part of a whole which is a work based
+on the Program, the distribution of the whole must be on the terms of
+this License, whose permissions for other licensees extend to the
+entire whole, and thus to each and every part regardless of who wrote it.
+
+Thus, it is not the intent of this section to claim rights or contest
+your rights to work written entirely by you; rather, the intent is to
+exercise the right to control the distribution of derivative or
+collective works based on the Program.
+
+In addition, mere aggregation of another work not based on the Program
+with the Program (or with a work based on the Program) on a volume of
+a storage or distribution medium does not bring the other work under
+the scope of this License.
+
+  3. You may copy and distribute the Program (or a work based on it,
+under Section 2) in object code or executable form under the terms of
+Sections 1 and 2 above provided that you also do one of the following:
+
+    a) Accompany it with the complete corresponding machine-readable
+    source code, which must be distributed under the terms of Sections
+    1 and 2 above on a medium customarily used for software interchange; or,
+
+    b) Accompany it with a written offer, valid for at least three
+    years, to give any third party, for a charge no more than your
+    cost of physically performing source distribution, a complete
+    machine-readable copy of the corresponding source code, to be
+    distributed under the terms of Sections 1 and 2 above on a medium
+    customarily used for software interchange; or,
+
+    c) Accompany it with the information you received as to the offer
+    to distribute corresponding source code.  (This alternative is
+    allowed only for noncommercial distribution and only if you
+    received the program in object code or executable form with such
+    an offer, in accord with Subsection b above.)
+
+The source code for a work means the preferred form of the work for
+making modifications to it.  For an executable work, complete source
+code means all the source code for all modules it contains, plus any
+associated interface definition files, plus the scripts used to
+control compilation and installation of the executable.  However, as a
+special exception, the source code distributed need not include
+anything that is normally distributed (in either source or binary
+form) with the major components (compiler, kernel, and so on) of the
+operating system on which the executable runs, unless that component
+itself accompanies the executable.
+
+If distribution of executable or object code is made by offering
+access to copy from a designated place, then offering equivalent
+access to copy the source code from the same place counts as
+distribution of the source code, even though third parties are not
+compelled to copy the source along with the object code.
+
+  4. You may not copy, modify, sublicense, or distribute the Program
+except as expressly provided under this License.  Any attempt
+otherwise to copy, modify, sublicense or distribute the Program is
+void, and will automatically terminate your rights under this License.
+However, parties who have received copies, or rights, from you under
+this License will not have their licenses terminated so long as such
+parties remain in full compliance.
+
+  5. You are not required to accept this License, since you have not
+signed it.  However, nothing else grants you permission to modify or
+distribute the Program or its derivative works.  These actions are
+prohibited by law if you do not accept this License.  Therefore, by
+modifying or distributing the Program (or any work based on the
+Program), you indicate your acceptance of this License to do so, and
+all its terms and conditions for copying, distributing or modifying
+the Program or works based on it.
+
+  6. Each time you redistribute the Program (or any work based on the
+Program), the recipient automatically receives a license from the
+original licensor to copy, distribute or modify the Program subject to
+these terms and conditions.  You may not impose any further
+restrictions on the recipients' exercise of the rights granted herein.
+You are not responsible for enforcing compliance by third parties to
+this License.
+
+  7. If, as a consequence of a court judgment or allegation of patent
+infringement or for any other reason (not limited to patent issues),
+conditions are imposed on you (whether by court order, agreement or
+otherwise) that contradict the conditions of this License, they do not
+excuse you from the conditions of this License.  If you cannot
+distribute so as to satisfy simultaneously your obligations under this
+License and any other pertinent obligations, then as a consequence you
+may not distribute the Program at all.  For example, if a patent
+license would not permit royalty-free redistribution of the Program by
+all those who receive copies directly or indirectly through you, then
+the only way you could satisfy both it and this License would be to
+refrain entirely from distribution of the Program.
+
+If any portion of this section is held invalid or unenforceable under
+any particular circumstance, the balance of the section is intended to
+apply and the section as a whole is intended to apply in other
+circumstances.
+
+It is not the purpose of this section to induce you to infringe any
+patents or other property right claims or to contest validity of any
+such claims; this section has the sole purpose of protecting the
+integrity of the free software distribution system, which is
+implemented by public license practices.  Many people have made
+generous contributions to the wide range of software distributed
+through that system in reliance on consistent application of that
+system; it is up to the author/donor to decide if he or she is willing
+to distribute software through any other system and a licensee cannot
+impose that choice.
+
+This section is intended to make thoroughly clear what is believed to
+be a consequence of the rest of this License.
+
+  8. If the distribution and/or use of the Program is restricted in
+certain countries either by patents or by copyrighted interfaces, the
+original copyright holder who places the Program under this License
+may add an explicit geographical distribution limitation excluding
+those countries, so that distribution is permitted only in or among
+countries not thus excluded.  In such case, this License incorporates
+the limitation as if written in the body of this License.
+
+  9. The Free Software Foundation may publish revised and/or new versions
+of the General Public License from time to time.  Such new versions will
+be similar in spirit to the present version, but may differ in detail to
+address new problems or concerns.
+
+Each version is given a distinguishing version number.  If the Program
+specifies a version number of this License which applies to it and &quot;any
+later version&quot;, you have the option of following the terms and conditions
+either of that version or of any later version published by the Free
+Software Foundation.  If the Program does not specify a version number of
+this License, you may choose any version ever published by the Free Software
+Foundation.
+
+  10. If you wish to incorporate parts of the Program into other free
+programs whose distribution conditions are different, write to the author
+to ask for permission.  For software which is copyrighted by the Free
+Software Foundation, write to the Free Software Foundation; we sometimes
+make exceptions for this.  Our decision will be guided by the two goals
+of preserving the free status of all derivatives of our free software and
+of promoting the sharing and reuse of software generally.
+
+                            NO WARRANTY
+
+  11. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
+FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN
+OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES
+PROVIDE THE PROGRAM &quot;AS IS&quot; WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED
+OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS
+TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.  SHOULD THE
+PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING,
+REPAIR OR CORRECTION.
+
+  12. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR
+REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,
+INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING
+OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED
+TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY
+YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER
+PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+                     END OF TERMS AND CONDITIONS
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="67"/>
+        <source>OSC Bridge Version</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="69"/>
+        <source>Plugin Version</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="71"/>
+        <source>&lt;br&gt;Version %1&lt;br&gt;Carla is a fully-featured audio plugin host%2.&lt;br&gt;&lt;br&gt;Copyright (C) 2011-2019 falkTX&lt;br&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="100"/>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="101"/>
+        <source>(Engine not running)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="123"/>
+        <source>Everything! (Including LRDF)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="124"/>
+        <source>Everything! (Including CustomData/Chunks)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="125"/>
+        <source>About 110&amp;#37; complete (using custom extensions)&lt;br/&gt;Implemented Feature/Extensions:&lt;ul&gt;&lt;li&gt;http://lv2plug.in/ns/ext/atom&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/buf-size&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/data-access&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/event&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/instance-access&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/log&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/midi&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/options&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/parameters&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/port-props&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/presets&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/resize-port&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/state&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/time&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/uri-map&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/urid&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/worker&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/extensions/ui&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/extensions/units&lt;/li&gt;&lt;li&gt;http://home.gna.org/lv2dynparam/rtmempool/v1&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/external-ui&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/programs&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/props&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/rtmempool&lt;/li&gt;&lt;li&gt;http://ll-plugins.nongnu.org/lv2/ext/midimap&lt;/li&gt;&lt;li&gt;http://ll-plugins.nongnu.org/lv2/ext/miditype&lt;/li&gt;&lt;/ul&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="161"/>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="162"/>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="171"/>
+        <source>Using Juce host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="164"/>
+        <source>About 85% complete (missing vst bank/presets and some minor stuff)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>CarlaHostW</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="14"/>
+        <source>MainWindow</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="40"/>
+        <source>Rack</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="144"/>
+        <source>Patchbay</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="179"/>
+        <source>Logs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="214"/>
+        <source>Loading...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="249"/>
+        <source>Buffer Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="272"/>
+        <source>Sample Rate:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="295"/>
+        <source>? Xruns</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="324"/>
+        <source>DSP Load: %p%</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="344"/>
+        <source>&amp;File</source>
+        <translation>&amp;Файл</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="357"/>
+        <source>&amp;Engine</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="367"/>
+        <source>&amp;Plugin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="371"/>
+        <source>Macros (all plugins)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="395"/>
+        <source>&amp;Canvas</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="399"/>
+        <source>Zoom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="418"/>
+        <source>&amp;Settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="429"/>
+        <source>&amp;Help</source>
+        <translation>&amp;Справка</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="444"/>
+        <source>toolBar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="540"/>
+        <source>Disk</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="564"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1190"/>
+        <source>Home</source>
+        <translation>Home</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="613"/>
+        <source>Transport</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="619"/>
+        <source>Playback Controls</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="681"/>
+        <source>Time Information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="689"/>
+        <source>Frame:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="704"/>
+        <source>000&apos;000&apos;000</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="731"/>
+        <source>Time:</source>
+        <translation>Время:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="746"/>
+        <source>00:00:00</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="773"/>
+        <source>BBT:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="788"/>
+        <source>000|00|0000</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="816"/>
+        <source>Settings</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="822"/>
+        <source> BPM</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="838"/>
+        <source>Use JACK Transport</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="845"/>
+        <source>Use Ableton Link</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="955"/>
+        <source>&amp;New</source>
+        <translation>&amp;Создать</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="958"/>
+        <source>Ctrl+N</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="967"/>
+        <source>&amp;Open...</source>
+        <translation>&amp;Открыть...</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="970"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="973"/>
+        <source>Open...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="976"/>
+        <source>Ctrl+O</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="985"/>
+        <source>&amp;Save</source>
+        <translation>Со&amp;хранить</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="988"/>
+        <source>Ctrl+S</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="997"/>
+        <source>Save &amp;As...</source>
+        <translation>Сохранить &amp;как...</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1000"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1003"/>
+        <source>Save As...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1006"/>
+        <source>Ctrl+Shift+S</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1015"/>
+        <source>&amp;Quit</source>
+        <translation>В&amp;ыход</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1018"/>
+        <source>Ctrl+Q</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1027"/>
+        <source>&amp;Start</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1030"/>
+        <source>F5</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1039"/>
+        <source>St&amp;op</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1042"/>
+        <source>F6</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1051"/>
+        <source>&amp;Add Plugin...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1054"/>
+        <source>Ctrl+A</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1063"/>
+        <source>&amp;Remove All</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1068"/>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1073"/>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1078"/>
+        <source>0% Wet (Bypass)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1083"/>
+        <source>100% Wet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1088"/>
+        <source>0% Volume (Mute)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1093"/>
+        <source>100% Volume</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1098"/>
+        <source>Center Balance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1110"/>
+        <source>&amp;Play</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1113"/>
+        <source>Ctrl+Shift+P</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1122"/>
+        <source>&amp;Stop</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1125"/>
+        <source>Ctrl+Shift+X</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1134"/>
+        <source>&amp;Backwards</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1137"/>
+        <source>Ctrl+Shift+B</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1146"/>
+        <source>&amp;Forwards</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1149"/>
+        <source>Ctrl+Shift+F</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1158"/>
+        <source>&amp;Arrange</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1161"/>
+        <source>Ctrl+G</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1170"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1324"/>
+        <source>&amp;Refresh</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1173"/>
+        <source>Ctrl+R</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1178"/>
+        <source>Save &amp;Image...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1187"/>
+        <source>Auto-Fit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1199"/>
+        <source>Zoom In</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1202"/>
+        <source>Ctrl++</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1211"/>
+        <source>Zoom Out</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1214"/>
+        <source>Ctrl+-</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1223"/>
+        <source>Zoom 100%</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1226"/>
+        <source>Ctrl+1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1234"/>
+        <source>Show &amp;Toolbar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1243"/>
+        <source>&amp;Configure Carla</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1248"/>
+        <source>&amp;About</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1253"/>
+        <source>About &amp;JUCE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1258"/>
+        <source>About &amp;Qt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1266"/>
+        <source>Show Canvas &amp;Meters</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1274"/>
+        <source>Show Canvas &amp;Keyboard</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1282"/>
+        <source>Show Internal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1290"/>
+        <source>Show External</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1298"/>
+        <source>Show Time Panel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1306"/>
+        <source>Show &amp;Side Panel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1315"/>
+        <source>&amp;Connect...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1329"/>
+        <source>Compact Slots</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1334"/>
+        <source>Expand Slots</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1339"/>
+        <source>Perform secret 1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1344"/>
+        <source>Perform secret 2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1349"/>
+        <source>Perform secret 3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1354"/>
+        <source>Perform secret 4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1359"/>
+        <source>Perform secret 5</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1368"/>
+        <source>Add &amp;JACK Application...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1377"/>
+        <source>&amp;Configure driver...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1386"/>
+        <source>Panic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1391"/>
+        <source>Open custom driver panel...</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>CarlaHostWindow</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="313"/>
+        <source>Export as...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="703"/>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="721"/>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1716"/>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1722"/>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="704"/>
+        <source>Failed to load project</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="721"/>
+        <source>Failed to save project</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1335"/>
+        <source>Quit</source>
+        <translation>Покинуть</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1336"/>
+        <source>Are you sure you want to quit Carla?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1717"/>
+        <source>Could not connect to Audio backend '%1', possible reasons:
+%2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1723"/>
+        <source>Could not connect to Audio backend &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1740"/>
+        <source>Warning</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1741"/>
+        <source>There are still some plugins loaded, you need to remove them to stop the engine.
+Do you want to do this now?</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>CarlaInstrumentView</name>
     <message>
-        <location filename="../../plugins/carlabase/carla.cpp" line="478"/>
+        <location filename="../../plugins/carlabase/carla.cpp" line="485"/>
         <source>Show GUI</source>
         <translation>Показать интерфейс</translation>
+    </message>
+</context>
+<context>
+    <name>CarlaSettingsW</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="20"/>
+        <source>Settings</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="71"/>
+        <source>main</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="76"/>
+        <source>canvas</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="81"/>
+        <source>engine</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="86"/>
+        <source>osc</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="91"/>
+        <source>file-paths</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="96"/>
+        <source>plugin-paths</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="101"/>
+        <source>wine</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="106"/>
+        <source>experimental</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="111"/>
+        <source>Widget</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="116"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2675"/>
+        <source>Main</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="134"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2722"/>
+        <source>Canvas</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="152"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2762"/>
+        <source>Engine</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="194"/>
+        <source>File Paths</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="212"/>
+        <source>Plugin Paths</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="230"/>
+        <source>Wine</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="248"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="504"/>
+        <source>Experimental</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="284"/>
+        <source>&lt;b&gt;Main&lt;/b&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="331"/>
+        <source>Paths</source>
+        <translation>Пути</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="339"/>
+        <source>Default project folder:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="377"/>
+        <source>Interface</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="383"/>
+        <source>Interface refresh interval:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="393"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1023"/>
+        <source> ms</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="425"/>
+        <source>Show console output in Logs tab (needs engine restart)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="432"/>
+        <source>Show a confirmation dialog before quitting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="442"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="580"/>
+        <source>Theme</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="448"/>
+        <source>Use Carla &quot;PRO&quot; theme (needs restart)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="458"/>
+        <source>Color scheme:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="472"/>
+        <source>Black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="477"/>
+        <source>System</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="510"/>
+        <source>Enable experimental features</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="542"/>
+        <source>&lt;b&gt;Canvas&lt;/b&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="612"/>
+        <source>Bezier Lines</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="622"/>
+        <source>Theme:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="658"/>
+        <source>Size:</source>
+        <translation>Размер:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="669"/>
+        <source>775x600</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="674"/>
+        <source>1550x1200</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="679"/>
+        <source>3100x2400</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="684"/>
+        <source>4650x3600</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="689"/>
+        <source>6200x4800</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="713"/>
+        <source>Options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="719"/>
+        <source>Auto-hide groups with no ports</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="726"/>
+        <source>Auto-select items on hover</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="733"/>
+        <source>Basic eye-candy (group shadows)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="743"/>
+        <source>Render Hints</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="749"/>
+        <source>Anti-Aliasing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="759"/>
+        <source>Full canvas repaints (slower, but prevents drawing issues)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="791"/>
+        <source>&lt;b&gt;Engine&lt;/b&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="829"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1224"/>
+        <source>Core</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="858"/>
+        <source>Single Client</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="863"/>
+        <source>Multiple Clients</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="868"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="892"/>
+        <source>Continuous Rack</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="873"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="897"/>
+        <source>Patchbay</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="909"/>
+        <source>Audio driver:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="919"/>
+        <source>Process mode:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="929"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="942"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1373"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1444"/>
+        <source>Maximum number of parameters to allow in the built-in &apos;Edit&apos; dialog</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="932"/>
+        <source>Max Parameters:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="952"/>
+        <source>...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="991"/>
+        <source>Reset Xrun counter after project load</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1001"/>
+        <source>Plugin UIs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1007"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1020"/>
+        <source>How much time to wait for OSC GUIs to ping back the host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1010"/>
+        <source>UI Bridge Timeout:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1049"/>
+        <source>Use OSC-GUI bridges when possible, this way separating the UI from DSP code</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1052"/>
+        <source>Use UI bridges instead of direct handling when possible</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1059"/>
+        <source>Make plugin UIs always-on-top</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1066"/>
+        <source>Make plugin UIs appear on top of Carla (needs restart)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1073"/>
+        <source>NOTE: Plugin-bridge UIs cannot be managed by Carla on macOS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1133"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1582"/>
+        <source>Restart the engine to load the new settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1177"/>
+        <source>&lt;b&gt;OSC&lt;/b&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1230"/>
+        <source>Enable OSC</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1266"/>
+        <source>Enable TCP port</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1275"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1408"/>
+        <source>Use specific port:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1319"/>
+        <source>Overridden by CARLA_OSC_TCP_PORT env var</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1386"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1457"/>
+        <source>Use randomly assigned port</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1399"/>
+        <source>Enable UDP port</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1504"/>
+        <source>Overridden by CARLA_OSC_UDP_PORT env var</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1641"/>
+        <source>DSSI UIs require OSC UDP port enabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1690"/>
+        <source>&lt;b&gt;File Paths&lt;/b&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1749"/>
+        <source>Audio</source>
+        <translation>Аудио</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1754"/>
+        <source>MIDI</source>
+        <translation>MIDI</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1781"/>
+        <source>Used for the &quot;audiofile&quot; plugin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1798"/>
+        <source>Used for the &quot;midifile&quot; plugin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1861"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2185"/>
+        <source>Add...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1872"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2196"/>
+        <source>Remove</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1899"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2223"/>
+        <source>Change...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1936"/>
+        <source>&lt;b&gt;Plugin Paths&lt;/b&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1995"/>
+        <source>LADSPA</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2000"/>
+        <source>DSSI</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2005"/>
+        <source>LV2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2010"/>
+        <source>VST2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2015"/>
+        <source>VST3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2020"/>
+        <source>SF2/3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2025"/>
+        <source>SFZ</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2120"/>
+        <source>Restart Carla to find new plugins</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2260"/>
+        <source>&lt;b&gt;Wine&lt;/b&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2307"/>
+        <source>Executable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2313"/>
+        <source>Path to &apos;wine&apos; binary:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2329"/>
+        <source>Prefix</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2335"/>
+        <source>Auto-detect Wine prefix based on plugin filename</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2342"/>
+        <source>Fallback:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2355"/>
+        <source>Note: WINEPREFIX env var is preferred over this fallback</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2368"/>
+        <source>Realtime Priority</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2413"/>
+        <source>Base priority:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2423"/>
+        <source>WineServer priority:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2509"/>
+        <source>These options are not available for Carla as plugin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2566"/>
+        <source>&lt;b&gt;Experimental&lt;/b&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2653"/>
+        <source>Experimental options! Likely to be unstable!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2681"/>
+        <source>Enable plugin bridges</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2691"/>
+        <source>Enable Wine bridges</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2698"/>
+        <source>Enable jack applications</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2705"/>
+        <source>Export single plugins to LV2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2712"/>
+        <source>Load Carla backend in global namespace (NOT RECOMMENDED)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2728"/>
+        <source>Fancy eye-candy (fade-in/out groups, glow connections)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2735"/>
+        <source>Use OpenGL for rendering (needs restart)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2745"/>
+        <source>High Quality Anti-Aliasing (OpenGL only)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2752"/>
+        <source>Render Ardour-style &quot;Inline Displays&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2768"/>
+        <source>Force mono plugins as stereo by running 2 instances at the same time.
+This mode is not available for VST plugins.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2772"/>
+        <source>Force mono plugins as stereo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2779"/>
+        <source>Prevent plugins from doing bad stuff (needs restart)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2789"/>
+        <source>Whenever possible, run the plugins in bridge mode.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2792"/>
+        <source>Run plugins in bridge mode when possible</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_settings.cpp" line="1457"/>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_settings.cpp" line="1547"/>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_settings.cpp" line="1626"/>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_settings.cpp" line="1671"/>
+        <source>Add Path</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -943,7 +2640,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="174"/>
         <source>MIDI-devices to receive MIDI-events from</source>
-        <translation>Устройства MiDi для приёма событий</translation>
+        <translation>Устройства MIDI для приёма событий</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="184"/>
@@ -953,7 +2650,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="202"/>
         <source>MAPPING FUNCTION</source>
-        <translation>ПЕРЕОПРЕДЕЛЕНИЕ</translation>
+        <translation>ЗАДАТЬ ФУНКЦИЮ</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="220"/>
@@ -963,7 +2660,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="226"/>
         <source>Cancel</source>
-        <translation>Отменить</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="334"/>
@@ -981,7 +2678,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="49"/>
         <source>Controller Rack</source>
-        <translation>Рэка контроллеров</translation>
+        <translation>Стойка контроллеров</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="64"/>
@@ -1004,7 +2701,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="69"/>
         <source>Controls</source>
-        <translation>Управление</translation>
+        <translation> Контроль </translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="146"/>
@@ -1024,12 +2721,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="178"/>
         <source>&amp;Remove this controller</source>
-        <translation>Убрать этот контроллер</translation>
+        <translation>&amp;Убрать этот контроллер</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="180"/>
         <source>Re&amp;name this controller</source>
-        <translation>Переименовать этот контроллер</translation>
+        <translation>Пере&amp;именовать этот контроллер</translation>
     </message>
 </context>
 <context>
@@ -1037,17 +2734,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="52"/>
         <source>Band 1/2 crossover:</source>
-        <translation>Полоса 1/2 кроссовер:</translation>
+        <translation>Пересечение 1/2 Полосы:</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="58"/>
         <source>Band 2/3 crossover:</source>
-        <translation>Полоса 2/3 кроссовер:</translation>
+        <translation>Пересечение 2/3 Полосы:</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="64"/>
         <source>Band 3/4 crossover:</source>
-        <translation>Полоса 3/4 кроссовер:</translation>
+        <translation>Пересечение 3/4 Полосы:</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="71"/>
@@ -1145,12 +2842,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="37"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="38"/>
         <source>LFO amount</source>
-        <translation type="unfinished"/>
+        <translation>Объём LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="39"/>
@@ -1168,17 +2865,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="50"/>
         <source>Delay time</source>
-        <translation type="unfinished"/>
+        <translation>Время задержки</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="56"/>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>ВОЗВ</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="57"/>
         <source>Feedback amount</source>
-        <translation>Количество обратной связи</translation>
+        <translation>Уровень возврата</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="63"/>
@@ -1188,7 +2885,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="64"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="70"/>
@@ -1198,7 +2895,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="71"/>
         <source>LFO amount</source>
-        <translation type="unfinished"/>
+        <translation>Объём LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="73"/>
@@ -1212,18 +2909,235 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     </message>
 </context>
 <context>
+    <name>Dialog</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="14"/>
+        <source>Add JACK Application</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="20"/>
+        <source>Note: Features not implemented yet are greyed out</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="27"/>
+        <source>Application</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="49"/>
+        <source>Name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="85"/>
+        <source>Application:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="104"/>
+        <source>From template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="117"/>
+        <source>Custom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="137"/>
+        <source>Template:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="167"/>
+        <source>Command:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="187"/>
+        <source>Setup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="224"/>
+        <source>Session Manager:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="238"/>
+        <source>None</source>
+        <translation>Нет</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="277"/>
+        <source>Audio inputs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="339"/>
+        <source>MIDI inputs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="391"/>
+        <source>Audio outputs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="440"/>
+        <source>MIDI outputs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="470"/>
+        <source>Take control of main application window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="480"/>
+        <source>Workarounds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="486"/>
+        <source>Wait for external application start (Advanced, for Debug only)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="496"/>
+        <source>Capture only the first X11 Window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="532"/>
+        <source>Use previous client output buffer as input for the next client</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="539"/>
+        <source>Simulate 16 JACK MIDI outputs, with MIDI channel as port index</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="583"/>
+        <source>Error here</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="14"/>
+        <source>Carla Control - Connect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="20"/>
+        <source>Remote setup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="26"/>
+        <source>UDP Port:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="36"/>
+        <source>Remote host:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="66"/>
+        <source>TCP Port:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="114"/>
+        <source>Reported host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="142"/>
+        <source>Automatic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="171"/>
+        <source>Custom:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="220"/>
+        <source>In some networks (like USB connections), the remote system cannot reach the local network. You can specify here which hostname or IP to make the remote Carla connect to.
+If you are unsure, leave it as &apos;Automatic&apos;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/inputdialog_value.ui" line="14"/>
+        <source>Set value</source>
+        <translation>Установить значение</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/inputdialog_value.ui" line="20"/>
+        <source>TextLabel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/inputdialog_value.ui" line="30"/>
+        <source>Scale Points</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DriverSettingsW</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings_driver.ui" line="20"/>
+        <source>Driver Settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings_driver.ui" line="79"/>
+        <source>Device:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings_driver.ui" line="95"/>
+        <source>Buffer size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings_driver.ui" line="114"/>
+        <source>Sample rate:</source>
+        <translation>Частота сэмплирования:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings_driver.ui" line="141"/>
+        <source>Triple buffer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings_driver.ui" line="187"/>
+        <source>Show Driver Control Panel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings_driver.ui" line="249"/>
+        <source>Restart the engine to load the new settings</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>DualFilterControlDialog</name>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="54"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="58"/>
         <source>FREQ</source>
-        <translation>FREQ</translation>
+        <translation>ЧАСТ</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="54"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="58"/>
         <source>Cutoff frequency</source>
-        <translation>Срез частот</translation>
+        <translation>Частота среза</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="55"/>
@@ -1241,13 +3155,13 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="56"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="60"/>
         <source>GAIN</source>
-        <translation>МОЩ</translation>
+        <translation>УСИЛ</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="56"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="60"/>
         <source>Gain</source>
-        <translation>УСИЛ</translation>
+        <translation>Усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="57"/>
@@ -1272,12 +3186,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="72"/>
         <source>Enable/disable filter 1</source>
-        <translation type="unfinished"/>
+        <translation>Вкл/Выкл фильтр 1 </translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="75"/>
         <source>Enable/disable filter 2</source>
-        <translation type="unfinished"/>
+        <translation>Вкл/Выкл фильтр 2</translation>
     </message>
 </context>
 <context>
@@ -1295,12 +3209,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="43"/>
         <source>Cutoff frequency 1</source>
-        <translation type="unfinished"/>
+        <translation>Частота среза 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="44"/>
         <source>Q/Resonance 1</source>
-        <translation type="unfinished"/>
+        <translation>Q/Резонанс 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="45"/>
@@ -1325,12 +3239,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="51"/>
         <source>Cutoff frequency 2</source>
-        <translation type="unfinished"/>
+        <translation>Частота среза 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="52"/>
         <source>Q/Resonance 2</source>
-        <translation type="unfinished"/>
+        <translation>Q/Резонанс 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="53"/>
@@ -1341,25 +3255,25 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="55"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="78"/>
         <source>Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>Пропуск низких</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="56"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="79"/>
         <source>Hi-pass</source>
-        <translation type="unfinished"/>
+        <translation>Пропуск высоких</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="57"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="80"/>
         <source>Band-pass csg</source>
-        <translation type="unfinished"/>
+        <translation>Полосовой csg</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="58"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="81"/>
         <source>Band-pass czpg</source>
-        <translation type="unfinished"/>
+        <translation>Полосовой czpg</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="59"/>
@@ -1371,7 +3285,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="60"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="83"/>
         <source>All-pass</source>
-        <translation type="unfinished"/>
+        <translation>Фазовый</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="61"/>
@@ -1383,49 +3297,49 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="62"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="85"/>
         <source>2x Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>2x ФНЧ</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="63"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="86"/>
         <source>RC Low-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФНЧ 12дБ/окт</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="64"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="87"/>
         <source>RC Band-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC полосовой 12 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="65"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="88"/>
         <source>RC High-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФВЧ 12 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="66"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="89"/>
         <source>RC Low-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФНЧ 24 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="67"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="90"/>
         <source>RC Band-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC полосовой 24 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="68"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="91"/>
         <source>RC High-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФВЧ 24 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="69"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="92"/>
         <source>Vocal Formant</source>
-        <translation type="unfinished"/>
+        <translation>Формантный</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="70"/>
@@ -1437,37 +3351,37 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="71"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="94"/>
         <source>SV Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV нижних частот</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="72"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="95"/>
         <source>SV Band-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV полосовой</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="73"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="96"/>
         <source>SV High-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV верхних частот</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="74"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="97"/>
         <source>SV Notch</source>
-        <translation type="unfinished"/>
+        <translation>SV режекторный (полосно-заграждающий)</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="75"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="98"/>
         <source>Fast Formant</source>
-        <translation type="unfinished"/>
+        <translation>Быстрый формантный</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="76"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="99"/>
         <source>Tripole</source>
-        <translation>Триполи</translation>
+        <translation>Трёхполюсный</translation>
     </message>
 </context>
 <context>
@@ -1500,7 +3414,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="98"/>
         <source>Toggle Step Recording</source>
-        <translation type="unfinished"/>
+        <translation>Вкл пошаговую запись</translation>
     </message>
 </context>
 <context>
@@ -1513,17 +3427,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/Effect.cpp" line="47"/>
         <source>Wet/Dry mix</source>
-        <translation>Насыщенность</translation>
+        <translation>Микс чистый/обраб звук</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="48"/>
         <source>Gate</source>
-        <translation>Шлюз</translation>
+        <translation>Порог</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="49"/>
         <source>Decay</source>
-        <translation>Затихание</translation>
+        <translation>Спад</translation>
     </message>
 </context>
 <context>
@@ -1531,7 +3445,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/EffectChain.cpp" line="39"/>
         <source>Effects enabled</source>
-        <translation>Эффекты включёны</translation>
+        <translation>Эффекты включены</translation>
     </message>
 </context>
 <context>
@@ -1586,17 +3500,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="64"/>
         <source>W/D</source>
-        <translation>НАСЫЩ</translation>
+        <translation>МИКС</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="67"/>
         <source>Wet Level:</source>
-        <translation>Уровень насыщенности:</translation>
+        <translation>Уровень обработанного звука:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="71"/>
         <source>DECAY</source>
-        <translation>ЗАТУХАНИЕ</translation>
+        <translation>СПАД</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="74"/>
@@ -1606,32 +3520,32 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="78"/>
         <source>GATE</source>
-        <translation>ШЛЮЗ</translation>
+        <translation>ПОРОГ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="81"/>
         <source>Gate:</source>
-        <translation>Шлюз:</translation>
+        <translation>Порог:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="88"/>
         <source>Controls</source>
-        <translation>Управление</translation>
+        <translation> Контроль </translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="196"/>
         <source>Move &amp;up</source>
-        <translation>&amp;u Переместить выше</translation>
+        <translation>Переместить &amp;выше</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="199"/>
         <source>Move &amp;down</source>
-        <translation>&amp;d Переместить ниже</translation>
+        <translation>Переместить &amp;ниже</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="203"/>
         <source>&amp;Remove this plugin</source>
-        <translation>&amp;R Убрать фильтр</translation>
+        <translation>&amp;Убрать фильтр</translation>
     </message>
 </context>
 <context>
@@ -1639,72 +3553,72 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="96"/>
         <source>Env pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>Огиб предзадержка</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="97"/>
         <source>Env attack</source>
-        <translation type="unfinished"/>
+        <translation>Атака огиб.</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="98"/>
         <source>Env hold</source>
-        <translation type="unfinished"/>
+        <translation>Удержание огиб.</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="99"/>
         <source>Env decay</source>
-        <translation>Кривая затухания</translation>
+        <translation>Спад огиб.</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="100"/>
         <source>Env sustain</source>
-        <translation type="unfinished"/>
+        <translation>Выдержка огиб.</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="101"/>
         <source>Env release</source>
-        <translation type="unfinished"/>
+        <translation>Затухание огиб.</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="102"/>
         <source>Env mod amount</source>
-        <translation type="unfinished"/>
+        <translation>Объём мод огиба</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="110"/>
         <source>LFO pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>LFO предзадержка</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="111"/>
         <source>LFO attack</source>
-        <translation type="unfinished"/>
+        <translation>Атака LFO</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="114"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота LFO</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="115"/>
         <source>LFO mod amount</source>
-        <translation type="unfinished"/>
+        <translation>Глубина мод LFO</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="116"/>
         <source>LFO wave shape</source>
-        <translation type="unfinished"/>
+        <translation>Форма LFO волны</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="117"/>
         <source>LFO frequency x 100</source>
-        <translation type="unfinished"/>
+        <translation>Частота x 100 LFO </translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="118"/>
         <source>Modulate env amount</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать уровень огибающей</translation>
     </message>
 </context>
 <context>
@@ -1719,7 +3633,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="100"/>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="144"/>
         <source>Pre-delay:</source>
-        <translation type="unfinished"/>
+        <translation>Предзадержка:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="104"/>
@@ -1731,12 +3645,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="106"/>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="150"/>
         <source>Attack:</source>
-        <translation>Вступление:</translation>
+        <translation>Атака:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="110"/>
         <source>HOLD</source>
-        <translation>HOLD</translation>
+        <translation>УДЕРЖ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="112"/>
@@ -1751,7 +3665,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="118"/>
         <source>Decay:</source>
-        <translation>Затухание:</translation>
+        <translation>Спад:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="122"/>
@@ -1771,7 +3685,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="130"/>
         <source>Release:</source>
-        <translation>Убывание:</translation>
+        <translation>Затухание:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="134"/>
@@ -1788,7 +3702,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="154"/>
         <source>SPD</source>
-        <translation>SPD</translation>
+        <translation>СКРСТ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="156"/>
@@ -1798,22 +3712,22 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="218"/>
         <source>FREQ x 100</source>
-        <translation>ЧАСТОТА x 100</translation>
+        <translation>ЧАСТ x 100</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="221"/>
         <source>Multiply LFO frequency by 100</source>
-        <translation type="unfinished"/>
+        <translation>Умножить частоту LFO на 100</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="224"/>
         <source>MODULATE ENV AMOUNT</source>
-        <translation type="unfinished"/>
+        <translation>МОДУЛИР УР ОГИБАЮЩ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="229"/>
         <source>Control envelope amount by this LFO</source>
-        <translation type="unfinished"/>
+        <translation>Управлять объёмом огибающей через этот LFO</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="504"/>
@@ -1828,7 +3742,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="521"/>
         <source>Drag and drop a sample into this window.</source>
-        <translation type="unfinished"/>
+        <translation>Перетащить сэмпл в это окно.</translation>
     </message>
 </context>
 <context>
@@ -1846,7 +3760,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="39"/>
         <source>Low-shelf gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление уровня низких</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="40"/>
@@ -1871,7 +3785,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="44"/>
         <source>High-shelf gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление уровня высоких</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="45"/>
@@ -1881,47 +3795,47 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="46"/>
         <source>Low-shelf res</source>
-        <translation type="unfinished"/>
+        <translation>Резо уровня низких</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="47"/>
         <source>Peak 1 BW</source>
-        <translation>Пик 1 BW</translation>
+        <translation>Пик 1 ДИАП</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="48"/>
         <source>Peak 2 BW</source>
-        <translation>Пик 2 BW</translation>
+        <translation>Пик 2 ДИАП</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="49"/>
         <source>Peak 3 BW</source>
-        <translation>Пик 3 BW</translation>
+        <translation>Пик 3 ДИАП</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="50"/>
         <source>Peak 4 BW</source>
-        <translation>Пик 4 BW</translation>
+        <translation>Пик 4 ДИАП</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="51"/>
         <source>High-shelf res</source>
-        <translation type="unfinished"/>
+        <translation>Резо уровня высоких</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="52"/>
         <source>LP res</source>
-        <translation>НЧ резон</translation>
+        <translation>НЧ резо</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="53"/>
         <source>HP freq</source>
-        <translation>НЧ част</translation>
+        <translation>ВЧ част</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="54"/>
         <source>Low-shelf freq</source>
-        <translation type="unfinished"/>
+        <translation>Уровень низких част</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="55"/>
@@ -1946,7 +3860,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="59"/>
         <source>High-shelf freq</source>
-        <translation type="unfinished"/>
+        <translation>Уровень высоких част</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="60"/>
@@ -1961,7 +3875,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="62"/>
         <source>Low-shelf active</source>
-        <translation type="unfinished"/>
+        <translation>Уровень низких активен</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="63"/>
@@ -1981,12 +3895,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="66"/>
         <source>Peak 4 active</source>
-        <translation>Пик 3 активен</translation>
+        <translation>Пик 4 активен</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="67"/>
         <source>High-shelf active</source>
-        <translation type="unfinished"/>
+        <translation>Уровень высоких активен</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="68"/>
@@ -2026,12 +3940,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="75"/>
         <source>Low-pass type</source>
-        <translation type="unfinished"/>
+        <translation>Тип прохождения низких (LP)</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="76"/>
         <source>High-pass type</source>
-        <translation type="unfinished"/>
+        <translation>Тип прохождения высоких (HP)</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="77"/>
@@ -2054,7 +3968,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="68"/>
         <source>Low-shelf</source>
-        <translation type="unfinished"/>
+        <translation>Уровень низких</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="69"/>
@@ -2074,12 +3988,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="72"/>
         <source>Peak 4</source>
-        <translation>Пик 3</translation>
+        <translation>Пик 4</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="73"/>
         <source>High-shelf</source>
-        <translation type="unfinished"/>
+        <translation>Уровень высоких</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="74"/>
@@ -2096,7 +4010,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="88"/>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="100"/>
         <source>Gain</source>
-        <translation>Мощность</translation>
+        <translation>Усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="85"/>
@@ -2126,12 +4040,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="200"/>
         <source>LP group</source>
-        <translation type="unfinished"/>
+        <translation>Группа НЧ (LoPass)</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="206"/>
         <source>HP group</source>
-        <translation type="unfinished"/>
+        <translation>Группа ВЧ (HiPass)</translation>
     </message>
 </context>
 <context>
@@ -2144,7 +4058,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="136"/>
         <source>BW: </source>
-        <translation>BW</translation>
+        <translation>ДИАП:</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="148"/>
@@ -2163,7 +4077,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="32"/>
         <source>Export as loop (remove extra bar)</source>
-        <translation type="unfinished"/>
+        <translation>Экспортировать как петлю (убрать лишний такт)</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="39"/>
@@ -2173,17 +4087,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="61"/>
         <source>Render Looped Section:</source>
-        <translation type="unfinished"/>
+        <translation>Рендерить закольцованную секцию</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="68"/>
         <source> time(s)</source>
-        <translation type="unfinished"/>
+        <translation>время(с)</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="89"/>
         <source>File format settings</source>
-        <translation type="unfinished"/>
+        <translation>Настройки формата файла</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="95"/>
@@ -2193,32 +4107,32 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="120"/>
         <source>Sampling rate:</source>
-        <translation type="unfinished"/>
+        <translation>Частота сэмплирования:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="128"/>
         <source>44100 Hz</source>
-        <translation>44.1 КГц</translation>
+        <translation>44,1 кГц</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="133"/>
         <source>48000 Hz</source>
-        <translation>48 КГц</translation>
+        <translation>48 кГц</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="138"/>
         <source>88200 Hz</source>
-        <translation>88.2 КГц</translation>
+        <translation>88,2 кГц</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="143"/>
         <source>96000 Hz</source>
-        <translation>96 КГц</translation>
+        <translation>96 кГц</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="148"/>
         <source>192000 Hz</source>
-        <translation>192 КГц</translation>
+        <translation>192 кГц</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="174"/>
@@ -2238,7 +4152,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="195"/>
         <source>32 Bit float</source>
-        <translation type="unfinished"/>
+        <translation>32 Bit с запятой</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="221"/>
@@ -2258,52 +4172,52 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="242"/>
         <source>Joint stereo</source>
-        <translation type="unfinished"/>
+        <translation>Объединённое стерео</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="268"/>
         <source>Compression level:</source>
-        <translation type="unfinished"/>
+        <translation>Уровень компрессии:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="300"/>
         <source>Bitrate:</source>
-        <translation>Частота бит:</translation>
+        <translation>Битрейт:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="311"/>
         <source>64 KBit/s</source>
-        <translation>64 КБит/с</translation>
+        <translation>64 кбит/с</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="316"/>
         <source>128 KBit/s</source>
-        <translation>128 КБит/с</translation>
+        <translation>128 кбит/с</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="321"/>
         <source>160 KBit/s</source>
-        <translation>160 КБит/с</translation>
+        <translation>160 кбит/с</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="326"/>
         <source>192 KBit/s</source>
-        <translation>192 КБит/с</translation>
+        <translation>192 кбит/с</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="331"/>
         <source>256 KBit/s</source>
-        <translation>256 КБит/с</translation>
+        <translation>256 кбит/с</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="336"/>
         <source>320 KBit/s</source>
-        <translation>320 КБит/с</translation>
+        <translation>320 кбит/с</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="344"/>
         <source>Use variable bitrate</source>
-        <translation>Использовать плавающую глубину битности</translation>
+        <translation>Переменный битрейт</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="370"/>
@@ -2318,27 +4232,27 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="387"/>
         <source>Zero order hold</source>
-        <translation>Удержание нулевой задержки</translation>
+        <translation>Удержание нулевого порядка</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="392"/>
         <source>Sinc worst (fastest)</source>
-        <translation type="unfinished"/>
+        <translation>Sinc худший (быстрее)</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="397"/>
         <source>Sinc medium (recommended)</source>
-        <translation type="unfinished"/>
+        <translation>Sinc средний (рекомендовано)</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="402"/>
         <source>Sinc best (slowest)</source>
-        <translation type="unfinished"/>
+        <translation>Sinc лучший (медленно)</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="410"/>
         <source>Oversampling:</source>
-        <translation type="unfinished"/>
+        <translation>Сверхсэмплирование:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="418"/>
@@ -2368,7 +4282,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="481"/>
         <source>Cancel</source>
-        <translation>Отменить</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="46"/>
@@ -2418,7 +4332,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/widgets/Fader.cpp" line="222"/>
         <location filename="../../src/gui/widgets/Fader.cpp" line="232"/>
         <source>Set value</source>
-        <translation type="unfinished"/>
+        <translation>Установить значение</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Fader.cpp" line="223"/>
@@ -2430,17 +4344,17 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>FileBrowser</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="75"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="76"/>
         <source>Browser</source>
         <translation>Обозреватель файлов</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="85"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="86"/>
         <source>Search</source>
         <translation>Поиск</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="93"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="94"/>
         <source>Refresh list</source>
         <translation>Обновить список</translation>
     </message>
@@ -2448,42 +4362,47 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="363"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="381"/>
         <source>Send to active instrument-track</source>
-        <translation>Послать на активную инструментальную-дорожку</translation>
+        <translation>Отправить на активную инструментальную-дорожку</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="366"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="384"/>
         <source>Open in new instrument-track/Song Editor</source>
-        <translation>Отркрыть в новой инструментальной дорожке/редакторе песни</translation>
+        <translation>Открыть в новой инструментальной дорожке/композиторе мелодии</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="370"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="387"/>
         <source>Open in new instrument-track/B+B Editor</source>
-        <translation>Открыть в новой инструментальной дорожке/Б+Б редакторе</translation>
+        <translation>Открыть в новой инструментальной дорожке/Р+Б Композиторе</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="421"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="394"/>
+        <source>Open containing folder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="447"/>
         <source>Loading sample</source>
-        <translation>Загрузка записи</translation>
+        <translation>Загрузка сэмпла</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="422"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="448"/>
         <source>Please wait, loading sample for preview...</source>
-        <translation>Пж. ждите, запись загружается для просмотра...</translation>
+        <translation>Ждите, сэмпл загружается для просмотра...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="446"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="472"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="447"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="473"/>
         <source>%1 does not appear to be a valid %2 file</source>
-        <translation type="unfinished"/>
+        <translation>%1 не похож на правильный %2 файл</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="781"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="829"/>
         <source>--- Factory files ---</source>
         <translation>--- Заводские файлы ---</translation>
     </message>
@@ -2498,7 +4417,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="38"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="39"/>
@@ -2508,7 +4427,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="40"/>
         <source>Regen</source>
-        <translation type="unfinished"/>
+        <translation>Восстан</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="41"/>
@@ -2556,22 +4475,22 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="68"/>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>ВОЗВ</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="69"/>
         <source>Feedback amount:</source>
-        <translation>Количество обратной связи</translation>
+        <translation>Уровень возврата:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="75"/>
         <source>NOISE</source>
-        <translation>Шум</translation>
+        <translation>ШУМ</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="76"/>
         <source>White noise amount:</source>
-        <translation>Количество белого шума:</translation>
+        <translation>Уровень белого шума:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="78"/>
@@ -2584,17 +4503,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="72"/>
         <source>Sweep time</source>
-        <translation>Время распространения</translation>
+        <translation>Время колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="73"/>
         <source>Sweep direction</source>
-        <translation>Направление распространения</translation>
+        <translation>Направление колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="75"/>
         <source>Sweep rate shift amount</source>
-        <translation type="unfinished"/>
+        <translation>Величина сдвига частоты колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="77"/>
@@ -2605,36 +4524,36 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="79"/>
         <source>Channel 1 volume</source>
-        <translation>Громкость первого канала</translation>
+        <translation>Громкость 1 канала</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="81"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="90"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="101"/>
         <source>Volume sweep direction</source>
-        <translation>Объём направления распространения</translation>
+        <translation>Объём направления колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="83"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="92"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="103"/>
         <source>Length of each step in sweep</source>
-        <translation>Длина каждого такта в распространении</translation>
+        <translation>Длина каждого такта колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="88"/>
         <source>Channel 2 volume</source>
-        <translation>Громкость второго канала</translation>
+        <translation>Громкость 2 канала</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="96"/>
         <source>Channel 3 volume</source>
-        <translation>Громкость третьего канала</translation>
+        <translation>Громкость 3 канала</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="99"/>
         <source>Channel 4 volume</source>
-        <translation>Громкость четвёртого канала</translation>
+        <translation>Громкость 4 канала</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="105"/>
@@ -2649,47 +4568,47 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="108"/>
         <source>Left output level</source>
-        <translation type="unfinished"/>
+        <translation>Левый уровень выхода</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="109"/>
         <source>Channel 1 to SO2 (Left)</source>
-        <translation>От первого канала к SO2 (левый канал)</translation>
+        <translation>Канал 1 к SO2 (Слева)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="110"/>
         <source>Channel 2 to SO2 (Left)</source>
-        <translation>От второго канала к SO2 (левый канал)</translation>
+        <translation>Канал 2 к SO2 (Слева)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="111"/>
         <source>Channel 3 to SO2 (Left)</source>
-        <translation>От третьего канала к SO2 (левый канал)</translation>
+        <translation>Канал 3 к SO2 (Слева)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="112"/>
         <source>Channel 4 to SO2 (Left)</source>
-        <translation>От четвёртого канала к SO2 (левый канал)</translation>
+        <translation>Канал 4 к SO2 (Слева)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="113"/>
         <source>Channel 1 to SO1 (Right)</source>
-        <translation>От первого канала к SO1 (правый канал)</translation>
+        <translation>Канал 1 к SO1 (Справа)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="114"/>
         <source>Channel 2 to SO1 (Right)</source>
-        <translation>От второго канала к SO1 (правый канал)</translation>
+        <translation>Канал 2 к SO1 (Справа)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="115"/>
         <source>Channel 3 to SO1 (Right)</source>
-        <translation>От третьего канала к SO1 (правый канал)</translation>
+        <translation>Канал 3 к SO1 (Справа)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="116"/>
         <source>Channel 4 to SO1 (Right)</source>
-        <translation>От четвёртого канала к SO1 (правый канал)</translation>
+        <translation>Канал 4 к SO1 (Справа)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="117"/>
@@ -2707,28 +4626,28 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="469"/>
         <source>Sweep time:</source>
-        <translation type="unfinished"/>
+        <translation>Время колебаний:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="471"/>
         <source>Sweep time</source>
-        <translation>Время распространения</translation>
+        <translation>Время колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="474"/>
         <source>Sweep rate shift amount:</source>
-        <translation type="unfinished"/>
+        <translation>Величина сдвига частоты колебаний:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="477"/>
         <source>Sweep rate shift amount</source>
-        <translation type="unfinished"/>
+        <translation>Величина сдвига частоты колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="480"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="500"/>
         <source>Wave pattern duty cycle:</source>
-        <translation type="unfinished"/>
+        <translation>Рабочий цикл волны:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="483"/>
@@ -2739,76 +4658,76 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="486"/>
         <source>Square channel 1 volume:</source>
-        <translation type="unfinished"/>
+        <translation>Квадрат канал 1 громкость:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="489"/>
         <source>Square channel 1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Квадрат канал 1 громкость</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="492"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="512"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="532"/>
         <source>Length of each step in sweep:</source>
-        <translation>Длина каждого такта в развёртке:</translation>
+        <translation>Длина каждого такта колебаний:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="495"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="515"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="535"/>
         <source>Length of each step in sweep</source>
-        <translation>Длина каждого такта в распространении</translation>
+        <translation>Длина каждого такта колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="506"/>
         <source>Square channel 2 volume:</source>
-        <translation type="unfinished"/>
+        <translation>Квадрат канал 2 громкость:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="509"/>
         <source>Square channel 2 volume</source>
-        <translation type="unfinished"/>
+        <translation>Квадрат канал 2 громкость</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="520"/>
         <source>Wave pattern channel volume:</source>
-        <translation type="unfinished"/>
+        <translation>Громкость канала шаблонной волны:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="522"/>
         <source>Wave pattern channel volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость канала шаблонной волны</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="527"/>
         <source>Noise channel volume:</source>
-        <translation type="unfinished"/>
+        <translation>Громкость канала помех:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="529"/>
         <source>Noise channel volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость канала помех</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="540"/>
         <source>SO1 volume (Right):</source>
-        <translation type="unfinished"/>
+        <translation>Громкость SO1 (Справа):</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="542"/>
         <source>SO1 volume (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Громкость SO1 (Справа)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="545"/>
         <source>SO2 volume (Left):</source>
-        <translation type="unfinished"/>
+        <translation>Громкость SO2 (Слева):</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="547"/>
         <source>SO2 volume (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Громкость SO2 (Слева):</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="550"/>
@@ -2833,7 +4752,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="566"/>
         <source>Sweep direction</source>
-        <translation>Направление распространения</translation>
+        <translation>Направление колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="575"/>
@@ -2842,57 +4761,57 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="593"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="600"/>
         <source>Volume sweep direction</source>
-        <translation>Объём направления распространения</translation>
+        <translation>Объём направления колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="609"/>
         <source>Shift register width</source>
-        <translation type="unfinished"/>
+        <translation>Сместить ширину регистра</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="619"/>
         <source>Channel 1 to SO1 (Right)</source>
-        <translation>От первого канала к SO1 (правый канал)</translation>
+        <translation>Канал 1 к SO1 (Справа)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="626"/>
         <source>Channel 2 to SO1 (Right)</source>
-        <translation>От второго канала к SO1 (правый канал)</translation>
+        <translation>Канал 2 к SO1 (Справа)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="633"/>
         <source>Channel 3 to SO1 (Right)</source>
-        <translation>От третьего канала к SO1 (правый канал)</translation>
+        <translation>Канал 3 к SO1 (Справа)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="641"/>
         <source>Channel 4 to SO1 (Right)</source>
-        <translation>От четвёртого канала к SO1 (правый канал)</translation>
+        <translation>Канал 4 к SO1 (Справа)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="648"/>
         <source>Channel 1 to SO2 (Left)</source>
-        <translation>От первого канала к SO2 (левый канал)</translation>
+        <translation>Канал 1 к SO2 (Слева)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="655"/>
         <source>Channel 2 to SO2 (Left)</source>
-        <translation>От второго канала к SO2 (левый канал)</translation>
+        <translation>Канал 2 к SO2 (Слева)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="662"/>
         <source>Channel 3 to SO2 (Left)</source>
-        <translation>От третьего канала к SO2 (левый канал)</translation>
+        <translation>Канал 3 к SO2 (Слева)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="670"/>
         <source>Channel 4 to SO2 (Left)</source>
-        <translation>От четвёртого канала к SO2 (левый канал)</translation>
+        <translation>Канал 4 к SO2 (Слева)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="678"/>
         <source>Wave pattern graph</source>
-        <translation type="unfinished"/>
+        <translation>Рисунок волны</translation>
     </message>
 </context>
 <context>
@@ -2905,27 +4824,27 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="229"/>
         <source>Move &amp;left</source>
-        <translation>Двигать влево &amp;L</translation>
+        <translation>Подвинуть в&amp;лево</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="230"/>
         <source>Move &amp;right</source>
-        <translation>Двигать вправо &amp;r</translation>
+        <translation>Подвинуть в&amp;право</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="232"/>
         <source>Rename &amp;channel</source>
-        <translation>Переименовать канал &amp;c</translation>
+        <translation>Пере&amp;именовать канал</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="237"/>
         <source>R&amp;emove channel</source>
-        <translation>Удалить канал &amp;e</translation>
+        <translation>&amp;Удалить канал</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="240"/>
         <source>Remove &amp;unused channels</source>
-        <translation>Удалить неиспользуемые каналы &amp;u</translation>
+        <translation>Удалить &amp;неиспользуемые каналы</translation>
     </message>
 </context>
 <context>
@@ -2953,7 +4872,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/core/FxMixer.cpp" line="817"/>
         <location filename="../../src/core/FxMixer.cpp" line="819"/>
         <source>FX %1</source>
-        <translation>Эффект %1</translation>
+        <translation>ЭФ %1</translation>
     </message>
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="703"/>
@@ -2981,12 +4900,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="288"/>
         <source>FX Fader %1</source>
-        <translation type="unfinished"/>
+        <translation>Регулятор ЭФ %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="297"/>
         <source>Mute</source>
-        <translation>Тихо</translation>
+        <translation>Заглушить</translation>
     </message>
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="305"/>
@@ -3028,7 +4947,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="86"/>
         <source>Gain</source>
-        <translation>Мощность</translation>
+        <translation>Усиление</translation>
     </message>
 </context>
 <context>
@@ -3042,7 +4961,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="953"/>
         <source>Choose patch</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать патч</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="970"/>
@@ -3075,7 +4994,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="126"/>
         <source>Preparing song editor</source>
-        <translation>Подготовка редактора песни</translation>
+        <translation>Подготовка композитора</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="130"/>
@@ -3095,7 +5014,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="142"/>
         <source>Preparing beat/bassline editor</source>
-        <translation>Подготовка Ритм+Бас редактора</translation>
+        <translation>Подготовка Ритм+Бас композитора</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="146"/>
@@ -3128,7 +5047,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
         <source>Cycle steps</source>
-        <translation type="unfinished"/>
+        <translation>Шагов в цикле</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="306"/>
@@ -3138,7 +5057,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="307"/>
         <source>Miss rate</source>
-        <translation type="unfinished"/>
+        <translation>Частость обхода</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
@@ -3231,7 +5150,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="121"/>
         <source>Cycle notes:</source>
-        <translation type="unfinished"/>
+        <translation>Нот в цикле:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="121"/>
@@ -3258,17 +5177,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="128"/>
         <source>MISS</source>
-        <translation>ПРОПУСК</translation>
+        <translation>MISS</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="129"/>
         <source>Miss rate:</source>
-        <translation type="unfinished"/>
+        <translation>Частость обхода:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="132"/>
         <source>TIME</source>
-        <translation>TIME</translation>
+        <translation>ВРЕМЯ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="133"/>
@@ -3677,22 +5596,22 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="118"/>
         <source>Jap in sen</source>
-        <translation type="unfinished"/>
+        <translation>Японский лад Ин Сен</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="119"/>
         <source>Major bebop</source>
-        <translation type="unfinished"/>
+        <translation>Мажор бибоп</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="120"/>
         <source>Dominant bebop</source>
-        <translation type="unfinished"/>
+        <translation>Бибоп доминанта</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="121"/>
         <source>Blues</source>
-        <translation>Blues</translation>
+        <translation>Блюз</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="122"/>
@@ -3702,7 +5621,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="123"/>
         <source>Enigmatic</source>
-        <translation type="unfinished"/>
+        <translation>Загадочный</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="124"/>
@@ -3717,42 +5636,42 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="126"/>
         <source>Hungarian minor</source>
-        <translation type="unfinished"/>
+        <translation>Венгерский минор</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="127"/>
         <source>Dorian</source>
-        <translation>Дорийский</translation>
+        <translation>Дорийский лад</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="128"/>
         <source>Phrygian</source>
-        <translation>Фригийский</translation>
+        <translation>Фригийский лад</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="129"/>
         <source>Lydian</source>
-        <translation>Лидийский</translation>
+        <translation>Лидийский лад</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="130"/>
         <source>Mixolydian</source>
-        <translation>Миксолидийский</translation>
+        <translation>Миксолидийский лад</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="131"/>
         <source>Aeolian</source>
-        <translation>Эолийский</translation>
+        <translation>Эолийский лад</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="132"/>
         <source>Locrian</source>
-        <translation type="unfinished"/>
+        <translation>Локрийский лад</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="133"/>
         <source>Minor</source>
-        <translation type="unfinished"/>
+        <translation>Минор</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="134"/>
@@ -3762,7 +5681,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="135"/>
         <source>Half-Whole Diminished</source>
-        <translation type="unfinished"/>
+        <translation>Вполовину уменьшенный</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="137"/>
@@ -3772,12 +5691,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="138"/>
         <source>Phrygian dominant</source>
-        <translation type="unfinished"/>
+        <translation>Фригийская доминанта</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="139"/>
         <source>Persian</source>
-        <translation type="unfinished"/>
+        <translation>Персидский</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="207"/>
@@ -3800,7 +5719,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="41"/>
         <source>STACKING</source>
-        <translation>СТЫКОВКА</translation>
+        <translation>СКЛАДЫВ.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="55"/>
@@ -3834,13 +5753,13 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="60"/>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="87"/>
         <source>CHANNEL</source>
-        <translation>CHANNEL</translation>
+        <translation>КАНАЛ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="67"/>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="94"/>
         <source>VELOCITY</source>
-        <translation>VELOCITY</translation>
+        <translation>УСКОР.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="79"/>
@@ -3855,17 +5774,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="106"/>
         <source>NOTE</source>
-        <translation>NOTE</translation>
+        <translation>НОТА</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="124"/>
         <source>MIDI devices to receive MIDI events from</source>
-        <translation>MiDi устройства-источники событий</translation>
+        <translation>MIDI-устройства — источники событий</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="132"/>
         <source>MIDI devices to send MIDI events to</source>
-        <translation>MiDi устройства для отправки событий на них</translation>
+        <translation>MIDI-устройства для отправки событий на них</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="141"/>
@@ -3875,12 +5794,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="148"/>
         <source>Specify the velocity normalization base for MIDI-based instruments at 100% note velocity.</source>
-        <translation type="unfinished"/>
+        <translation>Указать нормализацию базовой силы нажатия MIDI-инструментов на 100% силы нажатия.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="155"/>
         <source>BASE VELOCITY</source>
-        <translation>БАЗОВАЯ СКОРОСТЬ</translation>
+        <translation>БАЗОВ. СКОРОСТЬ</translation>
     </message>
 </context>
 <context>
@@ -3888,12 +5807,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="211"/>
         <source>MASTER PITCH</source>
-        <translation>Мастер-высота</translation>
+        <translation>ОСНОВНОЙ ТОН</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="215"/>
         <source>Enables the use of master pitch</source>
-        <translation>Включает использование мастер питч</translation>
+        <translation>Использовать основной тон</translation>
     </message>
 </context>
 <context>
@@ -3901,7 +5820,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="48"/>
         <source>VOLUME</source>
-        <translation>VOLUME</translation>
+        <translation>ГРОМКОСТЬ</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="49"/>
@@ -3922,7 +5841,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="54"/>
         <source>RESO</source>
-        <translation>RESO</translation>
+        <translation>РЕЗО</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="55"/>
@@ -3942,37 +5861,37 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="67"/>
         <source>Q/Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Ур/Резонанса</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="83"/>
         <source>Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>Уровень низких</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="84"/>
         <source>Hi-pass</source>
-        <translation type="unfinished"/>
+        <translation>Уровень высоких</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="85"/>
         <source>Band-pass csg</source>
-        <translation type="unfinished"/>
+        <translation>Полосовой csg</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="86"/>
         <source>Band-pass czpg</source>
-        <translation type="unfinished"/>
+        <translation>Полосовой czpg</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="87"/>
         <source>Notch</source>
-        <translation>Полосно-заграждающий</translation>
+        <translation>Notch (вырез)</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="88"/>
         <source>All-pass</source>
-        <translation type="unfinished"/>
+        <translation>Пропускать все</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="89"/>
@@ -3982,42 +5901,42 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="90"/>
         <source>2x Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>2x ФНЧ</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="91"/>
         <source>RC Low-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФНЧ 12дБ/окт</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="92"/>
         <source>RC Band-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC полосовой 12 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="93"/>
         <source>RC High-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФВЧ 12 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="94"/>
         <source>RC Low-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФНЧ 24 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="95"/>
         <source>RC Band-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC полосовой 24 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="96"/>
         <source>RC High-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФВЧ 24 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="97"/>
         <source>Vocal Formant</source>
-        <translation type="unfinished"/>
+        <translation>Формантный</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="98"/>
@@ -4027,32 +5946,32 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="99"/>
         <source>SV Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV нижних частот</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="100"/>
         <source>SV Band-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV полосовой</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="101"/>
         <source>SV High-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV верхних частот</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="102"/>
         <source>SV Notch</source>
-        <translation type="unfinished"/>
+        <translation>SV Notch (вырез)</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="103"/>
         <source>Fast Formant</source>
-        <translation type="unfinished"/>
+        <translation>Быстрый формантный</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="104"/>
         <source>Tripole</source>
-        <translation>Триполи</translation>
+        <translation>Трёхполюсный</translation>
     </message>
 </context>
 <context>
@@ -4060,7 +5979,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="55"/>
         <source>TARGET</source>
-        <translation>ЦЕЛЬ</translation>
+        <translation>РАЗМЕТКА</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="70"/>
@@ -4085,12 +6004,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="88"/>
         <source>Q/RESO</source>
-        <translation type="unfinished"/>
+        <translation>УР/РЕЗО</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="90"/>
         <source>Q/Resonance:</source>
-        <translation type="unfinished"/>
+        <translation>УР/Резонанса:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="93"/>
@@ -4109,7 +6028,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="94"/>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="104"/>
         <source>unnamed_track</source>
-        <translation>безымянная_дорожка</translation>
+        <translation>дорожка без имени</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="101"/>
@@ -4144,7 +6063,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="108"/>
         <source>Master pitch</source>
-        <translation>Основная тональность </translation>
+        <translation>Основной тон</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="128"/>
@@ -4156,52 +6075,52 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>InstrumentTrackView</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="928"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="930"/>
         <source>Volume</source>
         <translation>Громкость</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="931"/>
-        <source>Volume:</source>
-        <translation>Громкость:</translation>
-    </message>
-    <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="933"/>
-        <source>VOL</source>
-        <translation>ГРОМ</translation>
+        <source>Volume:</source>
+        <translation>Уровень громкости:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="937"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="935"/>
+        <source>VOL</source>
+        <translation>УР</translation>
+    </message>
+    <message>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="939"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="939"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="941"/>
         <source>Panning:</source>
         <translation>Баланс:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="941"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="943"/>
         <source>PAN</source>
         <translation>БАЛ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="944"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="946"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="976"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="978"/>
         <source>Input</source>
         <translation>Вход</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="977"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="979"/>
         <source>Output</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1267"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1252"/>
         <source>FX %1: %2</source>
         <translation>ЭФ %1: %2</translation>
     </message>
@@ -4209,156 +6128,209 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1296"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1281"/>
         <source>GENERAL SETTINGS</source>
         <translation>ОСНОВНЫЕ НАСТРОЙКИ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1342"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1327"/>
         <source>Volume</source>
         <translation>Громкость</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1344"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1329"/>
         <source>Volume:</source>
         <translation>Громкость:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1349"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1334"/>
         <source>VOL</source>
         <translation>ГРОМ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1356"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1341"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1357"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1342"/>
         <source>Panning:</source>
-        <translation>Стереобаланс:</translation>
+        <translation>Баланс:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1362"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1347"/>
         <source>PAN</source>
         <translation>БАЛ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1372"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1357"/>
         <source>Pitch</source>
         <translation>Тональность</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1373"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1358"/>
         <source>Pitch:</source>
         <translation>Тональность:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1373"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1358"/>
         <source>cents</source>
-        <translation>процентов</translation>
+        <translation>сотые</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1378"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1363"/>
         <source>PITCH</source>
         <translation>ТОН</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1385"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1370"/>
         <source>Pitch range (semitones)</source>
         <translation>Диапазон тональности (полутона)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1390"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1375"/>
         <source>RANGE</source>
         <translation>ДИАП</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1400"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1385"/>
         <source>FX channel</source>
         <translation>Канал ЭФ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1405"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1390"/>
         <source>FX</source>
         <translation>ЭФ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1415"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1400"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>Сохранить текущую инструментаьную дорожку в файл предустановок</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1419"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1404"/>
         <source>SAVE</source>
         <translation>Сохранить</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1458"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1443"/>
         <source>Envelope, filter &amp; LFO</source>
-        <translation type="unfinished"/>
+        <translation>Огибающ., фильтр и LFO</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1459"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1444"/>
         <source>Chord stacking &amp; arpeggio</source>
-        <translation type="unfinished"/>
+        <translation>Аккорды и арпеджио</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1460"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1445"/>
         <source>Effects</source>
         <translation>Эффекты</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1446"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1462"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1447"/>
         <source>Miscellaneous</source>
         <translation>Разное</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1586"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1571"/>
         <source>Save preset</source>
         <translation>Сохранить предустановку</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1586"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1571"/>
         <source>XML preset file (*.xpf)</source>
         <translation>XML файл настроек (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1641"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1626"/>
         <source>Plugin</source>
         <translation>Модуль</translation>
     </message>
 </context>
 <context>
+    <name>JackApplicationW</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_database.cpp" line="356"/>
+        <source>NSM applications cannot use abstract or absolute paths</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_database.cpp" line="358"/>
+        <source>NSM applications cannot use CLI arguments</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_database.cpp" line="360"/>
+        <source>You need to save the current Carla project before NSM can be used</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>JuceAboutW</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about_juce.ui" line="14"/>
+        <source>About JUCE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about_juce.ui" line="61"/>
+        <source>&lt;b&gt;About JUCE&lt;/b&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about_juce.ui" line="84"/>
+        <source>This program uses JUCE version 3.x.x.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_about_juce.ui" line="107"/>
+        <source>JUCE (Jules' Utility Class Extensions) is an all-encompassing C++ class library for developing cross-platform software.
+
+It contains pretty much everything you're likely to need to create most applications, and is particularly well-suited for building highly-customised GUIs, and for handling graphics and sound.
+
+JUCE is licensed under the GNU Public Licence version 2.0.
+One module (juce_core) is permissively licensed under the ISC.
+
+Copyright (C) 2017 ROLI Ltd.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="217"/>
+        <source>This program uses JUCE version %1.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="532"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="525"/>
         <source>Set linear</source>
         <translation>Установить линейно</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="532"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="525"/>
         <source>Set logarithmic</source>
         <translation>Установить логарифмически</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="773"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="790"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="766"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="783"/>
         <source>Set value</source>
-        <translation type="unfinished"/>
+        <translation>Установить величину</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="774"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="767"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Введите новое значение от –96,0 дБВ до 6,0 дБВ: </translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="791"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="784"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Введите новое значение от %1 до %2:</translation>
     </message>
@@ -4410,7 +6382,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="167"/>
         <source>Set value</source>
-        <translation type="unfinished"/>
+        <translation>Установить величину</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="168"/>
@@ -4493,12 +6465,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="70"/>
         <source>BASE</source>
-        <translation>БАЗА</translation>
+        <translation>BASE</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="72"/>
         <source>Base:</source>
-        <translation type="unfinished"/>
+        <translation>Основа:</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="75"/>
@@ -4508,7 +6480,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="77"/>
         <source>LFO frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Частота LFO:</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="80"/>
@@ -4518,7 +6490,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="82"/>
         <source>Modulation amount:</source>
-        <translation>Количество модуляции:</translation>
+        <translation>Глубина модуляции:</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="85"/>
@@ -4548,7 +6520,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="115"/>
         <source>Saw wave</source>
-        <translation>Зигзаг</translation>
+        <translation>Пило-волна</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="124"/>
@@ -4558,7 +6530,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="134"/>
         <source>Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Муг пило-волна</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="143"/>
@@ -4574,22 +6546,23 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="164"/>
         <source>User-defined shape.
 Double click to pick a file.</source>
-        <translation type="unfinished"/>
+        <translation>Пользовательская форма.
+Выбрать файл двойным кликом.</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="184"/>
         <source>Mutliply modulation frequency by 1</source>
-        <translation type="unfinished"/>
+        <translation>Умножить частоту модуляции на 1</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="193"/>
         <source>Mutliply modulation frequency by 100</source>
-        <translation type="unfinished"/>
+        <translation>Умножить частоту модуляции на 100</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="202"/>
         <source>Divide modulation frequency by 100</source>
-        <translation type="unfinished"/>
+        <translation>Разделить частоту модуляции на 100</translation>
     </message>
 </context>
 <context>
@@ -4597,7 +6570,7 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/Engine.cpp" line="55"/>
         <source>Generating wavetables</source>
-        <translation>Генерация волн</translation>
+        <translation>Генерация волновых таблиц</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="59"/>
@@ -4607,7 +6580,7 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/Engine.cpp" line="70"/>
         <source>Opening audio and midi devices</source>
-        <translation>Открываем аудио и миди устройства</translation>
+        <translation>Открываем аудио и MIDI-устройства</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="76"/>
@@ -4664,7 +6637,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/core/main.cpp" line="854"/>
         <location filename="../../src/core/main.cpp" line="869"/>
         <source>Discard</source>
-        <translation>Отказать</translation>
+        <translation>Отклонить</translation>
     </message>
     <message>
         <location filename="../../src/core/main.cpp" line="855"/>
@@ -4677,417 +6650,417 @@ Please make sure you have write permission to the file and the directory contain
         <translation>Версия %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="121"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="122"/>
         <source>Preparing plugin browser</source>
         <translation>Подготовка обзора плагинов</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="123"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="124"/>
         <source>Preparing file browsers</source>
         <translation>Подготовка обзора файлов</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="128"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="129"/>
         <source>My Projects</source>
         <translation>Мои проекты</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="134"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="135"/>
         <source>My Samples</source>
         <translation>Мои сэмплы</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="141"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="142"/>
         <source>My Presets</source>
         <translation>Мои предустановки</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="145"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="146"/>
         <source>My Home</source>
         <translation>Моя домашняя папка</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="151"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="152"/>
         <source>Root directory</source>
         <translation>Корневая директория</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="155"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="156"/>
         <source>Volumes</source>
-        <translation>Громкость 1 оциллятора</translation>
+        <translation>Громкости</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="158"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="159"/>
         <source>My Computer</source>
         <translation>Мой компьютер</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="274"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="281"/>
         <source>&amp;File</source>
-        <translation>&amp;F Файл</translation>
+        <translation>&amp;Файл</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="276"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="283"/>
         <source>&amp;New</source>
-        <translation>&amp;N Новый</translation>
+        <translation>&amp;Создать</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="284"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="291"/>
         <source>&amp;Open...</source>
         <translation>&amp;Открыть...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="177"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="178"/>
         <source>Loading background picture</source>
-        <translation type="unfinished"/>
+        <translation>Загружается фоновая картинка</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="291"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="298"/>
         <source>&amp;Save</source>
-        <translation>&amp;S Сохранить</translation>
+        <translation>Со&amp;хранить</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="295"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="302"/>
         <source>Save &amp;As...</source>
-        <translation>&amp;A Сохранить как...</translation>
+        <translation>Сохранить &amp;как...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="299"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="306"/>
         <source>Save as New &amp;Version</source>
-        <translation>&amp;V Сохранить как новую версию</translation>
+        <translation>Сохранить как новую &amp;версию</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="304"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="311"/>
         <source>Save as default template</source>
-        <translation>Сохранить как обычный шаблон</translation>
+        <translation>Сохранить как начальный шаблон </translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="309"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="316"/>
         <source>Import...</source>
         <translation>Импорт...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="313"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="320"/>
         <source>E&amp;xport...</source>
-        <translation>&amp;X Экспорт...</translation>
+        <translation>&amp;Экспорт...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="318"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="325"/>
         <source>E&amp;xport Tracks...</source>
-        <translation>&amp;x Экспорт дорожек...</translation>
+        <translation>Экспорт &amp;дорожек...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="324"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="331"/>
         <source>Export &amp;MIDI...</source>
-        <translation>Экспорт &amp;MIDI...</translation>
+        <translation>Экс&amp;порт MIDI...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="333"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="340"/>
         <source>&amp;Quit</source>
-        <translation>&amp;Q Выйти</translation>
+        <translation>В&amp;ыход</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="339"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="346"/>
         <source>&amp;Edit</source>
-        <translation>&amp;E Правка</translation>
+        <translation>&amp;Правка</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="341"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="348"/>
         <source>Undo</source>
-        <translation>Откатить действие</translation>
+        <translation>Отменить действие</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="345"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="352"/>
         <source>Redo</source>
-        <translation>Возврат действия</translation>
+        <translation>Вернуть действие</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="360"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="367"/>
         <source>Settings</source>
         <translation>Параметры</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="365"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="372"/>
         <source>&amp;View</source>
-        <translation>&amp;Просмотр</translation>
+        <translation>&amp;Вид</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="381"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="388"/>
         <source>&amp;Tools</source>
-        <translation>&amp;T Сервис</translation>
+        <translation>С&amp;ервис</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="389"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="396"/>
         <source>&amp;Help</source>
-        <translation>&amp;H Справка</translation>
+        <translation>&amp;Справка</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="394"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="401"/>
         <source>Online Help</source>
         <translation>Помощь онлайн</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="400"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="407"/>
         <source>Help</source>
         <translation>Справка</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="408"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="415"/>
         <source>About</source>
         <translation>О программе</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="414"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="421"/>
         <source>Create new project</source>
         <translation>Создать новый проект</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="420"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="427"/>
         <source>Create new project from template</source>
         <translation>Создать новый проект по шаблону</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="428"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="435"/>
         <source>Open existing project</source>
         <translation>Открыть существующий проект</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="435"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="442"/>
         <source>Recently opened projects</source>
         <translation>Недавние проекты</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="442"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="449"/>
         <source>Save current project</source>
         <translation>Сохранить текущий проект</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="449"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="456"/>
         <source>Export current project</source>
         <translation>Экспорт проекта</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="456"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="463"/>
         <source>Metronome</source>
-        <translation type="unfinished"/>
+        <translation>Метроном</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="475"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1089"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="482"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1096"/>
         <source>Song Editor</source>
-        <translation>Показать/скрыть музыкальный редактор</translation>
+        <translation>Композитор</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="483"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1093"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="490"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1100"/>
         <source>Beat+Bassline Editor</source>
-        <translation>Показать/скрыть ритм-бас редактор</translation>
+        <translation>Ритм+Бас Композитор</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="492"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1097"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="499"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1104"/>
         <source>Piano Roll</source>
-        <translation>Показать/скрыть нотный редактор</translation>
+        <translation>Редактор нот</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="500"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1101"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="507"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1108"/>
         <source>Automation Editor</source>
-        <translation>Показать/скрыть редактор автоматизации</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="509"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1106"/>
-        <source>FX Mixer</source>
-        <translation>Показать/скрыть микшер ЭФ</translation>
+        <translation>Редактор автоматизации</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="516"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1113"/>
+        <source>FX Mixer</source>
+        <translation>Микшер Эффектов</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/MainWindow.cpp" line="523"/>
         <source>Show/hide controller rack</source>
-        <translation>Показать/скрыть управление контроллерами</translation>
+        <translation>Показать/скрыть стойку контроллеров</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="524"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="531"/>
         <source>Show/hide project notes</source>
-        <translation>Показать/скрыть заметки проекта</translation>
+        <translation>Показать/скрыть Заметки к проекту</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="627"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="634"/>
         <source>Untitled</source>
-        <translation>Неназванный</translation>
+        <translation>Без названия</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="642"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="649"/>
         <source>Recover session. Please save your work!</source>
         <translation>Восстановление сессии. Пожалуйста, сохраните свою работу!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="645"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="652"/>
         <source>LMMS %1</source>
         <translation>LMMS %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="664"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="671"/>
         <source>Recovered project not saved</source>
         <translation>Восстановленный проект не сохранён.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="665"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="672"/>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
         <translation>Проект был восстановлен из предыдущей сессии. Сейчас он не сохранён и будет потерян, если его не сохранить.
 Хотите сохранить его сейчас?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="670"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="677"/>
         <source>Project not saved</source>
         <translation>Проект не сохранён</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="671"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="678"/>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
-        <translation>Проект был изменён. Сохранить его сейчас?</translation>
+        <translation>Проект был изменён с момента последнего сохранения. Сохранить его сейчас?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="807"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="814"/>
         <source>Open Project</source>
         <translation>Открыть проект</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="807"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="814"/>
         <source>LMMS (*.mmp *.mmpz)</source>
         <translation>LMMS (*.mmp *.mmpz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="850"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="857"/>
         <source>Save Project</source>
         <translation>Сохранить проект</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="851"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="858"/>
         <source>LMMS Project</source>
         <translation>ЛММС Проект</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="852"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="859"/>
         <source>LMMS Project Template</source>
         <translation>Шаблон ЛММС Проекта</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="882"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="889"/>
         <source>Save project template</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить шаблон проекта</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="930"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="937"/>
         <source>Overwrite default template?</source>
         <translation>Перезаписать обычный шаблон?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="931"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="938"/>
         <source>This will overwrite your current default template.</source>
         <translation>Это перезапишет текущий обычный шаблон.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="964"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="971"/>
         <source>Help not available</source>
         <translation>Справка недоступна</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="965"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="972"/>
         <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>Пока что справка для LMMS не написана.
 Вероятно, Вы сможете найти нужные материалы на http://lmms.sf.net/wiki .</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1110"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1117"/>
         <source>Controller Rack</source>
-        <translation>Показать/скрыть управление контроллерами</translation>
+        <translation>Стойка контроллеров</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1114"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1121"/>
         <source>Project Notes</source>
-        <translation>Показать/скрыть заметки к проекту</translation>
+        <translation>Заметки к проекту</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1124"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1131"/>
         <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
+        <translation>Громкость в дБ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1138"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1145"/>
         <source>Smooth scroll</source>
         <translation>Плавная прокрутка</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1152"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1159"/>
         <source>Enable note labels in piano roll</source>
         <translation>Включить обозначение нот в музыкальном редакторе</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1427"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1435"/>
         <source>MIDI File (*.mid)</source>
         <translation>MIDI-файл (*.mid)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1439"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1496"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1447"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1504"/>
         <source>untitled</source>
-        <translation>Неназванное</translation>
+        <translation>без названия</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1443"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1499"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1451"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1507"/>
         <source>Select file for project-export...</source>
         <translation>Выбор файла для экспорта проекта...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1468"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1476"/>
         <source>Select directory for writing exported tracks...</source>
         <translation>Выберите папку для записи экспортированных дорожек...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1530"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1538"/>
         <source>Save project</source>
         <translation>Сохранить проект </translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1547"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1555"/>
         <source>Project saved</source>
         <translation>Проект сохранён</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1547"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1555"/>
         <source>The project %1 is now saved.</source>
         <translation>Проект %1 сохранён.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1554"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1562"/>
         <source>Project NOT saved.</source>
         <translation>Проект НЕ СОХРАНЁН.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1554"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1562"/>
         <source>The project %1 was not saved!</source>
-        <translation>Проект %1 не сохранён!</translation>
+        <translation>Проект %1 не был сохранён!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1593"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1601"/>
         <source>Import file</source>
         <translation>Импорт файла</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1595"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1603"/>
         <source>MIDI sequences</source>
-        <translation>MiDi последовательности</translation>
+        <translation>MIDI-последовательности</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1597"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1605"/>
         <source>Hydrogen projects</source>
         <translation>Hydrogen проекты</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1599"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1607"/>
         <source>All file types</source>
         <translation>Все типы файлов</translation>
     </message>
@@ -5098,28 +7071,28 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="52"/>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="59"/>
         <source>Meter Numerator</source>
-        <translation>Шкала чисел</translation>
+        <translation>Доли</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="53"/>
         <source>Meter numerator</source>
-        <translation type="unfinished"/>
+        <translation>Число долей</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="73"/>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="84"/>
         <source>Meter Denominator</source>
-        <translation>Шкала делений</translation>
+        <translation>Длительность</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="74"/>
         <source>Meter denominator</source>
-        <translation type="unfinished"/>
+        <translation>Длительность доли</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="77"/>
         <source>TIME SIG</source>
-        <translation>ПЕРИОД</translation>
+        <translation>ТАКТ</translation>
     </message>
 </context>
 <context>
@@ -5127,12 +7100,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/core/MeterModel.cpp" line="32"/>
         <source>Numerator</source>
-        <translation>Числитель</translation>
+        <translation>Число долей</translation>
     </message>
     <message>
         <location filename="../../src/core/MeterModel.cpp" line="33"/>
         <source>Denominator</source>
-        <translation>Знаменатель</translation>
+        <translation>Длительность доли</translation>
     </message>
 </context>
 <context>
@@ -5145,7 +7118,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/core/midi/MidiController.cpp" line="38"/>
         <source>unnamed_midi_controller</source>
-        <translation>нераспознанный миди контроллер</translation>
+        <translation>MIDI-контроллер без имени</translation>
     </message>
 </context>
 <context>
@@ -5154,40 +7127,40 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="109"/>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="121"/>
         <source>Setup incomplete</source>
-        <translation>установка не завершена</translation>
+        <translation>Установка не завершена</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="110"/>
         <source>You have not set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Вы не установили основной SoundFont в настройках (Правка -&gt; Параметры). Поэтому звук не будет воспроизводиться после импортирования этого MIDI-файла. Вам следует загрузить General MIDI SoundFont, определить его в настройках и попробовать снова.   </translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="122"/>
         <source>You did not compile LMMS with support for SoundFont2 player, which is used to add default sound to imported MIDI files. Therefore no sound will be played back after importing this MIDI file.</source>
-        <translation>Вы не включили поддержку проигрывателя SoundFont2 при компиляции ЛММС, он используется для добавления основного звука в импортируемые Миди файлы, поэтому звука не будет после импорта этого миди файла.</translation>
+        <translation>Вы не включили поддержку проигрывателя SoundFont2 при компиляции LMMS, он используется для добавления основного звука в импортируемые MIDI-файлы, поэтому звука не будет после импорта этого MIDI-файла.</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="314"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="335"/>
         <source>MIDI Time Signature Numerator</source>
-        <translation type="unfinished"/>
+        <translation>Число долей времени MIDI</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="317"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="338"/>
         <source>MIDI Time Signature Denominator</source>
-        <translation type="unfinished"/>
+        <translation>Длительность доли времени MIDI</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="320"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="341"/>
         <source>Numerator</source>
-        <translation>Числитель</translation>
+        <translation>Число долей</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="324"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="345"/>
         <source>Denominator</source>
-        <translation>Знаменатель</translation>
+        <translation>Длительность доли</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="385"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="406"/>
         <source>Track</source>
         <translation>Дорожка</translation>
     </message>
@@ -5208,16 +7181,251 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     </message>
 </context>
 <context>
+    <name>MidiPatternW</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="14"/>
+        <source>MIDI Pattern</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="39"/>
+        <source>Time Signature:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="56"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="259"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="339"/>
+        <source>1/4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="61"/>
+        <source>2/4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="66"/>
+        <source>3/4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="71"/>
+        <source>4/4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="76"/>
+        <source>5/4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="81"/>
+        <source>6/4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="105"/>
+        <source>Measures:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="119"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="274"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="354"/>
+        <source>1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="124"/>
+        <source>2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="129"/>
+        <source>3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="134"/>
+        <source>4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="139"/>
+        <source>5</source>
+        <translation>5</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="144"/>
+        <source>6</source>
+        <translation>6</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="149"/>
+        <source>7</source>
+        <translation>7</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="154"/>
+        <source>8</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="159"/>
+        <source>9</source>
+        <translation>9</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="164"/>
+        <source>10</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="169"/>
+        <source>11</source>
+        <translation>11</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="174"/>
+        <source>12</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="179"/>
+        <source>13</source>
+        <translation>13</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="184"/>
+        <source>14</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="189"/>
+        <source>15</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="194"/>
+        <source>16</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="218"/>
+        <source>Default Length:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="229"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="309"/>
+        <source>1/16</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="234"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="314"/>
+        <source>1/15</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="239"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="319"/>
+        <source>1/12</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="244"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="324"/>
+        <source>1/9</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="249"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="329"/>
+        <source>1/8</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="254"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="334"/>
+        <source>1/6</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="264"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="344"/>
+        <source>1/3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="269"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="349"/>
+        <source>1/2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="298"/>
+        <source>Quantize:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="411"/>
+        <source>&amp;File</source>
+        <translation>&amp;Файл</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="417"/>
+        <source>&amp;Edit</source>
+        <translation>&amp;Правка</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="429"/>
+        <source>&amp;Quit</source>
+        <translation>В&amp;ыход</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="437"/>
+        <source>&amp;Insert Mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="440"/>
+        <source>F</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="448"/>
+        <source>&amp;Velocity Mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="451"/>
+        <source>D</source>
+        <translation>Ре-диез D</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="456"/>
+        <source>Select All</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="459"/>
+        <source>A</source>
+        <translation>Ля диез A</translation>
+    </message>
+</context>
+<context>
     <name>MidiPort</name>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="49"/>
         <source>Input channel</source>
-        <translation>Вход</translation>
+        <translation>Канал входа</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="50"/>
         <source>Output channel</source>
-        <translation>Выход</translation>
+        <translation>Канал выхода</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="51"/>
@@ -5247,7 +7455,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="56"/>
         <source>Output MIDI program</source>
-        <translation>Программа для вывода MiDi</translation>
+        <translation>Программа для вывода MIDI</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="57"/>
@@ -5278,252 +7486,252 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="832"/>
         <source>Osc 1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 громкость</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="833"/>
         <source>Osc 1 panning</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 баланс</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="834"/>
         <source>Osc 1 coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 грубая подстройка</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="835"/>
         <source>Osc 1 fine detune left</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 точная подстройка слева</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="836"/>
         <source>Osc 1 fine detune right</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 точная подстройка справа</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="837"/>
         <source>Osc 1 stereo phase offset</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 сдвиг стерео-фазы</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="838"/>
         <source>Osc 1 pulse width</source>
-        <translation type="unfinished"/>
+        <translation>Осц 1 длина импульса</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="839"/>
         <source>Osc 1 sync send on rise</source>
-        <translation type="unfinished"/>
+        <translation>Осц 1 посыл синхро на подъёме</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="840"/>
         <source>Osc 1 sync send on fall</source>
-        <translation type="unfinished"/>
+        <translation>Осц 1 посыл синхро на спаде</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="842"/>
         <source>Osc 2 volume</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 громкость</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="843"/>
         <source>Osc 2 panning</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 баланс</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="844"/>
         <source>Osc 2 coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 грубая подстройка</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="845"/>
         <source>Osc 2 fine detune left</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 точная подстройка слева</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="846"/>
         <source>Osc 2 fine detune right</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 точная подстройка справа</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="847"/>
         <source>Osc 2 stereo phase offset</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 сдвиг стерео-фазы</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="848"/>
         <source>Osc 2 waveform</source>
-        <translation type="unfinished"/>
+        <translation>Осц 2 форма волны</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="849"/>
         <source>Osc 2 sync hard</source>
-        <translation type="unfinished"/>
+        <translation>Осц 2 синхро сильная</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="850"/>
         <source>Osc 2 sync reverse</source>
-        <translation type="unfinished"/>
+        <translation>Осц 2 синхро обратная</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="852"/>
         <source>Osc 3 volume</source>
-        <translation type="unfinished"/>
+        <translation>Ген 3 громкость</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="853"/>
         <source>Osc 3 panning</source>
-        <translation type="unfinished"/>
+        <translation>Ген 3 баланс</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="854"/>
         <source>Osc 3 coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Ген 3 грубая подстройка</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="855"/>
         <source>Osc 3 Stereo phase offset</source>
-        <translation type="unfinished"/>
+        <translation>Ген 3 сдвиг стерео-фазы</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="856"/>
         <source>Osc 3 sub-oscillator mix</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 доп-осциллятор микс</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="857"/>
         <source>Osc 3 waveform 1</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 форма волны 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="858"/>
         <source>Osc 3 waveform 2</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 форма волны 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="859"/>
         <source>Osc 3 sync hard</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 синхр сильная</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="860"/>
         <source>Osc 3 Sync reverse</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 синхр обратная</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="862"/>
         <source>LFO 1 waveform</source>
-        <translation type="unfinished"/>
+        <translation>Форма 1 LFO волны</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="863"/>
         <source>LFO 1 attack</source>
-        <translation type="unfinished"/>
+        <translation>LFO 1 атака</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="864"/>
         <source>LFO 1 rate</source>
-        <translation type="unfinished"/>
+        <translation>LFO 1 частота</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="865"/>
         <source>LFO 1 phase</source>
-        <translation type="unfinished"/>
+        <translation>LFO 1 фаза</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="867"/>
         <source>LFO 2 waveform</source>
-        <translation type="unfinished"/>
+        <translation>Форма 2 LFO волны</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="868"/>
         <source>LFO 2 attack</source>
-        <translation type="unfinished"/>
+        <translation>LFO 2 атака</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="869"/>
         <source>LFO 2 rate</source>
-        <translation type="unfinished"/>
+        <translation>LFO 2 частота</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="870"/>
         <source>LFO 2 phase</source>
-        <translation type="unfinished"/>
+        <translation>LFO 2 фаза</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="872"/>
         <source>Env 1 pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>Огиб 1 предзадержка</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="873"/>
         <source>Env 1 attack</source>
-        <translation type="unfinished"/>
+        <translation>Огиб 1 атака</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="874"/>
         <source>Env 1 hold</source>
-        <translation type="unfinished"/>
+        <translation>Огиб. 1 удержание</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="875"/>
         <source>Env 1 decay</source>
-        <translation type="unfinished"/>
+        <translation>Огиб. 1 спад</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="876"/>
         <source>Env 1 sustain</source>
-        <translation type="unfinished"/>
+        <translation>Огиб. 1 выдержка</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="877"/>
         <source>Env 1 release</source>
-        <translation type="unfinished"/>
+        <translation>Огиб. 1 затухание</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="878"/>
         <source>Env 1 slope</source>
-        <translation type="unfinished"/>
+        <translation>Огиб 1 уклон</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="880"/>
         <source>Env 2 pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>Огиб 2 предзадержка</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="881"/>
         <source>Env 2 attack</source>
-        <translation type="unfinished"/>
+        <translation>Огиб 2 атака</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="882"/>
         <source>Env 2 hold</source>
-        <translation type="unfinished"/>
+        <translation>Огиб. 2 удержание</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="883"/>
         <source>Env 2 decay</source>
-        <translation type="unfinished"/>
+        <translation>Огиб. 2 спад</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="884"/>
         <source>Env 2 sustain</source>
-        <translation type="unfinished"/>
+        <translation>Огиб. 2 выдержка</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="885"/>
         <source>Env 2 release</source>
-        <translation type="unfinished"/>
+        <translation>Огиб. 2 затухание</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="886"/>
         <source>Env 2 slope</source>
-        <translation type="unfinished"/>
+        <translation>Огиб 2 уклон</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="888"/>
         <source>Osc 2+3 modulation</source>
-        <translation type="unfinished"/>
+        <translation>Осц 2+3 модуляция</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="890"/>
@@ -5533,222 +7741,222 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="892"/>
         <source>Osc 1 - Vol env 1</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 - Громк. огиб. 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="893"/>
         <source>Osc 1 - Vol env 2</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 - Громк. огиб. 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="894"/>
         <source>Osc 1 - Vol LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 - Громк. LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="895"/>
         <source>Osc 1 - Vol LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 - Громк. LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="897"/>
         <source>Osc 2 - Vol env 1</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 - Громк. огиб. 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="898"/>
         <source>Osc 2 - Vol env 2</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 - Громк. огиб. 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="899"/>
         <source>Osc 2 - Vol LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 - Громк. LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="900"/>
         <source>Osc 2 - Vol LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 - Громк. LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="902"/>
         <source>Osc 3 - Vol env 1</source>
-        <translation type="unfinished"/>
+        <translation>Ген 3 - Громк. огиб. 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="903"/>
         <source>Osc 3 - Vol env 2</source>
-        <translation type="unfinished"/>
+        <translation>Ген 3 - Громк. огиб. 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="904"/>
         <source>Osc 3 - Vol LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Ген 3 - Громк. LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="905"/>
         <source>Osc 3 - Vol LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Ген 3 - Громк. LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="907"/>
         <source>Osc 1 - Phs env 1</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 - Фаза огиб. 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="908"/>
         <source>Osc 1 - Phs env 2</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 - Фаза огиб. 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="909"/>
         <source>Osc 1 - Phs LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 - Фаза LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="910"/>
         <source>Osc 1 - Phs LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Ген 1 - Фаза LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="912"/>
         <source>Osc 2 - Phs env 1</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 - Фаза огиб. 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="913"/>
         <source>Osc 2 - Phs env 2</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 - Фаза огиб. 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="914"/>
         <source>Osc 2 - Phs LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 - Фаза LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="915"/>
         <source>Osc 2 - Phs LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Ген 2 - Фаза LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="917"/>
         <source>Osc 3 - Phs env 1</source>
-        <translation type="unfinished"/>
+        <translation>Ген 3 - Фаза огиб. 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="918"/>
         <source>Osc 3 - Phs env 2</source>
-        <translation type="unfinished"/>
+        <translation>Ген 3 - Фаза огиб. 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="919"/>
         <source>Osc 3 - Phs LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Ген 3 - Фаза LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="920"/>
         <source>Osc 3 - Phs LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Ген 3 - Фаза LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="922"/>
         <source>Osc 1 - Pit env 1</source>
-        <translation type="unfinished"/>
+        <translation>Осц 1 - Pit огиб 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="923"/>
         <source>Osc 1 - Pit env 2</source>
-        <translation type="unfinished"/>
+        <translation>Осц 1 - Pit огиб 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="924"/>
         <source>Osc 1 - Pit LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Осц 1 - Pit LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="925"/>
         <source>Osc 1 - Pit LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Осц 1 - Pit LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="927"/>
         <source>Osc 2 - Pit env 1</source>
-        <translation type="unfinished"/>
+        <translation>Осц 2 - Pit огиб 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="928"/>
         <source>Osc 2 - Pit env 2</source>
-        <translation type="unfinished"/>
+        <translation>Осц 2 - Pit огиб 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="929"/>
         <source>Osc 2 - Pit LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Осц 2 - Pit LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="930"/>
         <source>Osc 2 - Pit LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Осц 2 - Pit LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="932"/>
         <source>Osc 3 - Pit env 1</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 - Pit огиб 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="933"/>
         <source>Osc 3 - Pit env 2</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 - Pit огиб 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="934"/>
         <source>Osc 3 - Pit LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 - Pit LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="935"/>
         <source>Osc 3 - Pit LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 - Pit LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="937"/>
         <source>Osc 1 - PW env 1</source>
-        <translation type="unfinished"/>
+        <translation>Осц 1 - PW Огиб 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="938"/>
         <source>Osc 1 - PW env 2</source>
-        <translation type="unfinished"/>
+        <translation>Осц 1 - PW Огиб 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="939"/>
         <source>Osc 1 - PW LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Осц 1 - PW LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="940"/>
         <source>Osc 1 - PW LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Осц 1 - PW LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="942"/>
         <source>Osc 3 - Sub env 1</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 - Доп огиб 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="943"/>
         <source>Osc 3 - Sub env 2</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 - Доп огиб 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="944"/>
         <source>Osc 3 - Sub LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 - Доп LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="945"/>
         <source>Osc 3 - Sub LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Осц 3 - Доп LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="313"/>
@@ -5759,27 +7967,27 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="314"/>
         <source>Bandlimited Triangle wave</source>
-        <translation>Ограниченная по частоте треугольная волна</translation>
+        <translation>Тембр. треугольная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="315"/>
         <source>Bandlimited Saw wave</source>
-        <translation>Ограниченная по частоте острая волна</translation>
+        <translation>Тембр. пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="316"/>
         <source>Bandlimited Ramp wave</source>
-        <translation>Ограничение по частоте ниспадающая волна</translation>
+        <translation>Тембр. пологая волна</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="317"/>
         <source>Bandlimited Square wave</source>
-        <translation>Ограниченная по частоте квадратная волна</translation>
+        <translation>Тембр. квадратная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="318"/>
         <source>Bandlimited Moog saw wave</source>
-        <translation>Ограниченная по частоте Муг-зигзаг волна</translation>
+        <translation>Тембр. Муг пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="319"/>
@@ -5790,7 +7998,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="320"/>
         <source>Absolute sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Идеальная синусоида</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="321"/>
@@ -5811,12 +8019,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="324"/>
         <source>Digital Saw wave</source>
-        <translation>Цифровая острая волна</translation>
+        <translation>Цифровая пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="325"/>
         <source>Digital Ramp wave</source>
-        <translation type="unfinished"/>
+        <translation>Цифровая пологая волна</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="326"/>
@@ -5826,7 +8034,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="327"/>
         <source>Digital Moog saw wave</source>
-        <translation>Цифровая Муг острая волна</translation>
+        <translation>Цифровая Муг пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="332"/>
@@ -5836,12 +8044,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="333"/>
         <source>Saw wave</source>
-        <translation>Зигзаг</translation>
+        <translation>Пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="334"/>
         <source>Ramp wave</source>
-        <translation type="unfinished"/>
+        <translation>Пологая волна</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="335"/>
@@ -5851,12 +8059,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="336"/>
         <source>Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Муг пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="338"/>
         <source>Abs. sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Идеальная синусоида</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="340"/>
@@ -5900,7 +8108,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1659"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1675"/>
         <source>Coarse detune</source>
-        <translation>Грубая расстройка</translation>
+        <translation>Грубая подстройка</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1646"/>
@@ -5913,7 +8121,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1647"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1660"/>
         <source>Fine tune left</source>
-        <translation type="unfinished"/>
+        <translation>Точная настройка слева</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1647"/>
@@ -5921,13 +8129,13 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1660"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1661"/>
         <source> cents</source>
-        <translation>Проценты</translation>
+        <translation>Центы</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1648"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1661"/>
         <source>Fine tune right</source>
-        <translation type="unfinished"/>
+        <translation>Точная настройка справа</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1649"/>
@@ -5963,27 +8171,27 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1670"/>
         <source>Hard sync oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Жёсткая синхр осциллятора 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1671"/>
         <source>Reverse sync oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Обратная синхр осциллятора 2 </translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1677"/>
         <source>Sub-osc mix</source>
-        <translation type="unfinished"/>
+        <translation>Микс доп-осц</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1689"/>
         <source>Hard sync oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Жёсткая синхр генератора 3</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1690"/>
         <source>Reverse sync oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Обратная синхр генератора 3</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1696"/>
@@ -5991,7 +8199,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1709"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1717"/>
         <source>Attack</source>
-        <translation>Вступление</translation>
+        <translation>Атака</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1697"/>
@@ -6003,25 +8211,25 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1698"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1706"/>
         <source>Phase</source>
-        <translation type="unfinished"/>
+        <translation>Фаза</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1708"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1716"/>
         <source>Pre-delay</source>
-        <translation>Пре-дилэй</translation>
+        <translation>Предзадержка</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1710"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1718"/>
         <source>Hold</source>
-        <translation>Удерживание</translation>
+        <translation>Удержание</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1711"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1719"/>
         <source>Decay</source>
-        <translation>Затихание</translation>
+        <translation>Спад</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1712"/>
@@ -6033,7 +8241,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1713"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1721"/>
         <source>Release</source>
-        <translation>Убывание</translation>
+        <translation>Затухание</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1714"/>
@@ -6044,22 +8252,22 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1729"/>
         <source>Mix osc 2 with osc 3</source>
-        <translation type="unfinished"/>
+        <translation>Смешать осц. 2 с осц. 3</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1735"/>
         <source>Modulate amplitude of osc 3 by osc 2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать амплитуду осц. 3 сигналом с 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1741"/>
         <source>Modulate frequency of osc 3 by osc 2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать частоту осц. 3 сигналом с 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1747"/>
         <source>Modulate phase of osc 3 by osc 2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать фазу осц. 3 сигналом с 2</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1768"/>
@@ -6125,22 +8333,22 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="90"/>
         <source>Dry</source>
-        <translation>Высушить</translation>
+        <translation>Чистый</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="91"/>
         <source>Dry gain:</source>
-        <translation>Высушить заново</translation>
+        <translation>Чистый звук усиление:</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="96"/>
         <source>Stages</source>
-        <translation type="unfinished"/>
+        <translation>Уровни</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="97"/>
         <source>Low-pass stages:</source>
-        <translation type="unfinished"/>
+        <translation>Уровни прохода низких:</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="100"/>
@@ -6150,7 +8358,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="103"/>
         <source>Swap left and right input channels for reflections</source>
-        <translation type="unfinished"/>
+        <translation>Поменять левый и правый каналы входа для отражений</translation>
     </message>
 </context>
 <context>
@@ -6158,97 +8366,97 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="489"/>
         <source>Channel 1 coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Грубая подстройка канала 1</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="490"/>
         <source>Channel 1 volume</source>
-        <translation>Громкость первого канала</translation>
+        <translation>Громкость канала 1</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="494"/>
         <source>Channel 1 envelope length</source>
-        <translation type="unfinished"/>
+        <translation>Длительность огибающей канала 1</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="496"/>
         <source>Channel 1 duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>Рабочий цикл канала 1</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="499"/>
         <source>Channel 1 sweep amount</source>
-        <translation type="unfinished"/>
+        <translation>Уровень колебаний канала 1</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="500"/>
         <source>Channel 1 sweep rate</source>
-        <translation type="unfinished"/>
+        <translation>Частота колебаний канала 1</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="503"/>
         <source>Channel 2 Coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Грубая подстройка канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="504"/>
         <source>Channel 2 Volume</source>
-        <translation>Громкость 2 канала</translation>
+        <translation>Громкость канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="508"/>
         <source>Channel 2 envelope length</source>
-        <translation type="unfinished"/>
+        <translation>Длительность огибающей канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="510"/>
         <source>Channel 2 duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>Рабочий цикл канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="513"/>
         <source>Channel 2 sweep amount</source>
-        <translation type="unfinished"/>
+        <translation>Уровень колебаний канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="514"/>
         <source>Channel 2 sweep rate</source>
-        <translation type="unfinished"/>
+        <translation>Частота колебаний канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="518"/>
         <source>Channel 3 coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Грубая подстройка канала 3</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="519"/>
         <source>Channel 3 volume</source>
-        <translation>Громкость третьего канала</translation>
+        <translation>Громкость канала 3</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="523"/>
         <source>Channel 4 volume</source>
-        <translation>Громкость четвёртого канала</translation>
+        <translation>Громкость канала 4</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="527"/>
         <source>Channel 4 envelope length</source>
-        <translation type="unfinished"/>
+        <translation>Длительность огибающей канала 4</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="531"/>
         <source>Channel 4 noise frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота шума канала 4</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="533"/>
         <source>Channel 4 noise frequency sweep</source>
-        <translation type="unfinished"/>
+        <translation>Частота помех колебаний канала 4</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="537"/>
         <source>Master volume</source>
-        <translation>Основная громкость</translation>
+        <translation>Главная громкость</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="538"/>
@@ -6271,7 +8479,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/nes/Nes.cpp" line="794"/>
         <location filename="../../plugins/nes/Nes.cpp" line="825"/>
         <source>Coarse detune</source>
-        <translation>Грубая расстройка</translation>
+        <translation>Грубая подстройка</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="764"/>
@@ -6288,29 +8496,29 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="767"/>
         <source>Enable envelope 1</source>
-        <translation>Включить кривую 1</translation>
+        <translation>Включить огибающую 1</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="768"/>
         <source>Enable envelope 1 loop</source>
-        <translation type="unfinished"/>
+        <translation>Включить петлю огибающей 1</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="770"/>
         <source>Enable sweep 1</source>
-        <translation type="unfinished"/>
+        <translation>Включить колебание 1</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="771"/>
         <location filename="../../plugins/nes/Nes.cpp" line="802"/>
         <source>Sweep amount</source>
-        <translation>Амплитуда биений</translation>
+        <translation>Амплитуда колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="772"/>
         <location filename="../../plugins/nes/Nes.cpp" line="803"/>
         <source>Sweep rate</source>
-        <translation>Частота биений</translation>
+        <translation>Частота колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="775"/>
@@ -6344,22 +8552,22 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="798"/>
         <source>Enable envelope 2</source>
-        <translation>Включить кривую 2</translation>
+        <translation>Включить огибающую 2</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="799"/>
         <source>Enable envelope 2 loop</source>
-        <translation>Включить повтор кривой 2</translation>
+        <translation>Включить петлю огибающей 2</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="801"/>
         <source>Enable sweep 2</source>
-        <translation>Включить размах 2</translation>
+        <translation>Включить колебание 2</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="823"/>
         <source>Enable channel 3</source>
-        <translation>Включить размах 3</translation>
+        <translation>Включить канал 3</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="830"/>
@@ -6369,7 +8577,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="832"/>
         <source>Frequency sweep</source>
-        <translation>Частота размаха</translation>
+        <translation>Частота колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="834"/>
@@ -6384,7 +8592,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="836"/>
         <source>Enable envelope 4 loop</source>
-        <translation type="unfinished"/>
+        <translation>Включить петлю огибающей 4</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="838"/>
@@ -6404,7 +8612,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="845"/>
         <source>Master volume</source>
-        <translation>Основная громкость</translation>
+        <translation>Главная громкость</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="846"/>
@@ -6422,127 +8630,127 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="99"/>
         <source>Op 1 attack</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 атака</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="100"/>
         <source>Op 1 decay</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 спад</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="101"/>
         <source>Op 1 sustain</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 выдержка</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="102"/>
         <source>Op 1 release</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 затухание</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="103"/>
         <source>Op 1 level</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 уровень</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="104"/>
         <source>Op 1 level scaling</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 увеличение уровня</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="105"/>
         <source>Op 1 frequency multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 множитель частоты</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="106"/>
         <source>Op 1 feedback</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 возврат</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="107"/>
         <source>Op 1 key scaling rate</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 скорость увеличения нот</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="108"/>
         <source>Op 1 percussive envelope</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 огибающая ударников</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="109"/>
         <source>Op 1 tremolo</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 тремоло</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="110"/>
         <source>Op 1 vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 вибрато</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="115"/>
         <source>Op 1 waveform</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 форма волны</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="118"/>
         <source>Op 2 attack</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 атака</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="119"/>
         <source>Op 2 decay</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 спад</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="120"/>
         <source>Op 2 sustain</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 выдержка</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="121"/>
         <source>Op 2 release</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 затухание</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="122"/>
         <source>Op 2 level</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 уровень</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="123"/>
         <source>Op 2 level scaling</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 увеличение уровня</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="124"/>
         <source>Op 2 frequency multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 множитель частоты</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="125"/>
         <source>Op 2 key scaling rate</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 скорость увеличения нот</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="126"/>
         <source>Op 2 percussive envelope</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 огибающая ударников</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="127"/>
         <source>Op 2 tremolo</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 Тремоло</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="128"/>
         <source>Op 2 vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 Вибрато</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="133"/>
         <source>Op 2 waveform</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 Волна</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="135"/>
@@ -6566,19 +8774,19 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="803"/>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="805"/>
         <source>Attack</source>
-        <translation>Вступление</translation>
+        <translation>Атака</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="807"/>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="809"/>
         <source>Decay</source>
-        <translation>Затихание</translation>
+        <translation>Спад</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="811"/>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="813"/>
         <source>Release</source>
-        <translation>Убывание</translation>
+        <translation>Затухание</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="815"/>
@@ -6615,32 +8823,32 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/organic/organic.cpp" line="576"/>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="77"/>
         <source>Osc %1 fine detuning left</source>
-        <translation>Подстройка левого канала осциллятора %1 тонкая</translation>
+        <translation>Тонкая подстройка осц %1 слева</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="75"/>
         <source>Osc %1 coarse detuning</source>
-        <translation>Подстройка осциллятора %1 грубая</translation>
+        <translation>Подстройка осц %1 грубая</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="79"/>
         <source>Osc %1 fine detuning right</source>
-        <translation>Подстройка правого канала осциллятора %1 тонкая</translation>
+        <translation>Тонкая подстройка осц %1 справа</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="81"/>
         <source>Osc %1 phase-offset</source>
-        <translation>Сдвиг фазы для осциллятора %1</translation>
+        <translation>Сдвиг фазы для осц %1</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="83"/>
         <source>Osc %1 stereo phase-detuning</source>
-        <translation>Подстройка стерео-фазы осциллятора %1</translation>
+        <translation>Подстройка стерео-фазы осц %1</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="86"/>
         <source>Osc %1 wave shape</source>
-        <translation>Гладкость сигнала осциллятора %1</translation>
+        <translation>Гладкость сигнала осц %1</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="89"/>
@@ -6653,7 +8861,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="39"/>
         <source>Qsynth: Channel Preset</source>
-        <translation>Преднастройка канала: Qsynth</translation>
+        <translation>Qsynth: преднастройка канала</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="67"/>
@@ -6668,7 +8876,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="98"/>
         <source>Program selector</source>
-        <translation>Выбор программ</translation>
+        <translation>Выбор программы</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="123"/>
@@ -6696,17 +8904,17 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/patman/patman.cpp" line="466"/>
         <source>Open patch</source>
-        <translation type="unfinished"/>
+        <translation>Открыть патч</translation>
     </message>
     <message>
         <location filename="../../plugins/patman/patman.cpp" line="468"/>
         <source>Loop</source>
-        <translation>Повтор</translation>
+        <translation>Петля</translation>
     </message>
     <message>
         <location filename="../../plugins/patman/patman.cpp" line="476"/>
         <source>Loop mode</source>
-        <translation>Режим повтора</translation>
+        <translation>Режим петли</translation>
     </message>
     <message>
         <location filename="../../plugins/patman/patman.cpp" line="478"/>
@@ -6716,7 +8924,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/patman/patman.cpp" line="486"/>
         <source>Tune mode</source>
-        <translation>Тип подстройки</translation>
+        <translation>Режим подстройки</translation>
     </message>
     <message>
         <location filename="../../plugins/patman/patman.cpp" line="488"/>
@@ -6744,7 +8952,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="680"/>
         <source>Set as ghost in piano-roll</source>
-        <translation type="unfinished"/>
+        <translation>Установить как призрак в пиано-ролл</translation>
     </message>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="689"/>
@@ -6782,17 +8990,17 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/core/PeakController.cpp" line="45"/>
         <source>Peak Controller</source>
-        <translation>Контроллер вершин</translation>
+        <translation>Пиковый контроллер</translation>
     </message>
     <message>
         <location filename="../../src/core/PeakController.cpp" line="213"/>
         <source>Peak Controller Bug</source>
-        <translation>Контроллер вершин с багом</translation>
+        <translation>Ошибка в пиковом контроллере</translation>
     </message>
     <message>
         <location filename="../../src/core/PeakController.cpp" line="214"/>
         <source>Due to a bug in older version of LMMS, the peak controllers may not be connect properly. Please ensure that peak controllers are connected properly and re-save this file. Sorry for any inconvenience caused.</source>
-        <translation>Из-за ошибки в старой версии LMMS контроллеры вершин не могут правильно подключаться. Пж. убедитесь, что контроллеры вершин правильно подсоединены и пересохраните этот файл, извините, за причинённые неудобства.</translation>
+        <translation>Из-за ошибки в более старой версии LMMS пиковые контроллеры могут быть подключены неправильно. Убедитесь, что пиковые контроллеры подключены правильно, и повторно сохраните этот файл. Извините за причинённые неудобства.</translation>
     </message>
 </context>
 <context>
@@ -6818,7 +9026,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="52"/>
         <source>Base:</source>
-        <translation type="unfinished"/>
+        <translation>Основа:</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="55"/>
@@ -6838,17 +9046,17 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="62"/>
         <source>Amount multiplicator:</source>
-        <translation>Суммарный мультипликатор:</translation>
+        <translation>Множитель:</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="65"/>
         <source>ATCK</source>
-        <translation>ВСТУП</translation>
+        <translation>АТК</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="67"/>
         <source>Attack:</source>
-        <translation>Вступление:</translation>
+        <translation>Атака:</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="70"/>
@@ -6858,12 +9066,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="72"/>
         <source>Release:</source>
-        <translation>Убывание:</translation>
+        <translation>Затухание:</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="75"/>
         <source>TRSH</source>
-        <translation>ПОР</translation>
+        <translation>ПОРОГ</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="77"/>
@@ -6896,12 +9104,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="41"/>
         <source>Attack</source>
-        <translation>Вступление</translation>
+        <translation>Атака</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="42"/>
         <source>Release</source>
-        <translation>Убывание</translation>
+        <translation>Затухание</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="43"/>
@@ -6921,231 +9129,236 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="46"/>
         <source>Amount multiplicator</source>
-        <translation>Суммарный мультипликатор</translation>
+        <translation>Множитель</translation>
     </message>
 </context>
 <context>
     <name>PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="203"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="212"/>
         <source>Note Velocity</source>
-        <translation>Громкость нот</translation>
+        <translation>Сила нажатия нот</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="204"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="213"/>
         <source>Note Panning</source>
-        <translation>Стереофония нот</translation>
+        <translation>Стерео-баланс нот</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="217"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="226"/>
         <source>Mark/unmark current semitone</source>
-        <translation>Отметить/Снять отметку с текущего полутона</translation>
+        <translation>Поставить или снять отметку с этого полутона</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="218"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="227"/>
         <source>Mark/unmark all corresponding octave semitones</source>
-        <translation>Отметить/Снять отметку со всех соответствующих октав полутонов</translation>
+        <translation>Поставить или снять отметку с этого полутона во всех октавах</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="219"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="228"/>
         <source>Mark current scale</source>
-        <translation>Отметить текущий подъём</translation>
+        <translation>Отметить выбранную гамму</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="220"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="229"/>
         <source>Mark current chord</source>
-        <translation>Отметить текущий аккорд</translation>
+        <translation>Отметить выбранный аккорд</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="221"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="230"/>
         <source>Unmark all</source>
-        <translation>Снять выделение</translation>
+        <translation>Снять всё выделение</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="222"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="231"/>
         <source>Select all notes on this key</source>
-        <translation>Выбрать все ноты по этой кнопке</translation>
+        <translation>Выбрать все ноты на этой клавише</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="354"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="372"/>
         <source>Note lock</source>
         <translation>Фиксация нот</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="370"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="388"/>
         <source>Last note</source>
         <translation>По посл. ноте</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="397"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="415"/>
         <source>No scale</source>
-        <translation>Без подъёма</translation>
+        <translation>Без гаммы</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="412"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="430"/>
         <source>No chord</source>
-        <translation>Убрать аккорды</translation>
+        <translation>Без аккорда</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="473"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="491"/>
         <source>Velocity: %1%</source>
-        <translation>Громкость %1%</translation>
+        <translation>Сила нажатия: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="482"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="500"/>
         <source>Panning: %1% left</source>
-        <translation>Баланс: %1% лево</translation>
+        <translation>Баланс: %1% слева</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="486"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="504"/>
         <source>Panning: %1% right</source>
-        <translation>Баланс: %1% право</translation>
+        <translation>Баланс: %1% справа</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="490"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="508"/>
         <source>Panning: center</source>
         <translation>Баланс: центр</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3387"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3401"/>
         <source>Please open a pattern by double-clicking on it!</source>
-        <translation>Откройте мелодию с помощью двойного щелчка мышью!</translation>
+        <translation>Откройте паттерн двойным щелчком!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4003"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4022"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4001"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4020"/>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation>Введите новое значение от %1 до %2:</translation>
+        <translation>Новое значение от %1 до %2:</translation>
     </message>
 </context>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4433"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4464"/>
         <source>Play/pause current pattern (Space)</source>
-        <translation>Игра/Пауза текущей мелодии (Пробел)</translation>
+        <translation>Игра/пауза текущей мелодии (пробел)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4434"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4465"/>
         <source>Record notes from MIDI-device/channel-piano</source>
-        <translation>Записать ноты с музыкального инструмента (MIDI)/канала</translation>
+        <translation>Записать ноты с MIDI-устройства или с канала фортепиано</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4435"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4466"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
-        <translation>Записать ноты с цифрового музыкального инструмента (MIDI) во время воспроизведения композиции или дорожки Ритм-Баса</translation>
+        <translation>Записать ноты с MIDI-устройства или с канала фортепиано во время воспроизведения композиции или дорожки Ритм-Баса</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4436"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4467"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
-        <translation type="unfinished"/>
+        <translation>Записать ноты с MIDI-устройства или с канала фортепиано, по одному шагу за раз</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4437"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4468"/>
         <source>Stop playing of current pattern (Space)</source>
-        <translation>Остановить воспроизведение текущей мелодии (Пробел)</translation>
+        <translation>Остановить воспроизведение текущей мелодии (пробел)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4439"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4470"/>
         <source>Edit actions</source>
-        <translation>Правка:</translation>
+        <translation>Панель правки</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4443"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4474"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Режим рисования (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4444"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4475"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Режим стирания (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4445"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4476"/>
         <source>Select mode (Shift+S)</source>
         <translation>Режим выбора нот (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4446"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4477"/>
         <source>Pitch Bend mode (Shift+T)</source>
-        <translation>Режим изгиба высоты тона (Shift + T)</translation>
+        <translation>Режим изгиба высоты тона (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4457"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4488"/>
         <source>Quantize</source>
-        <translation type="unfinished"/>
+        <translation>Квантовать</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4468"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4499"/>
         <source>Copy paste controls</source>
         <translation>Копировать-вставить управление</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4471"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4502"/>
         <source>Cut (%1+X)</source>
-        <translation type="unfinished"/>
+        <translation>Вырезать (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4474"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4505"/>
         <source>Copy (%1+C)</source>
-        <translation type="unfinished"/>
+        <translation>Копировать (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4477"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4508"/>
         <source>Paste (%1+V)</source>
-        <translation type="unfinished"/>
+        <translation>Вставить (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4492"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4523"/>
         <source>Timeline controls</source>
-        <translation>Управление временем</translation>
+        <translation>Панель графика</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4499"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4530"/>
         <source>Zoom and note controls</source>
-        <translation>Контроль нот и увеличения.</translation>
+        <translation>Панель масштабирования и нот</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4507"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4538"/>
         <source>Horizontal zooming</source>
-        <translation>Горизонтальное увеличение</translation>
+        <translation>Горизонтальный масштаб</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4516"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4546"/>
+        <source>Vertical zooming</source>
+        <translation>Вертикальное приближение</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4555"/>
         <source>Quantization</source>
         <translation>Квантование</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4525"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4564"/>
         <source>Note length</source>
-        <translation>Длина ноты</translation>
+        <translation>Длительность ноты</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4534"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4573"/>
         <source>Scale</source>
-        <translation type="unfinished"/>
+        <translation>Гамма</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4543"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4582"/>
         <source>Chord</source>
-        <translation type="unfinished"/>
+        <translation>Аккорд</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4548"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4587"/>
         <source>Clear ghost notes</source>
-        <translation type="unfinished"/>
+        <translation>Очистить призрачные ноты</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4611"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4767"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4653"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4809"/>
         <source>Piano-Roll - %1</source>
-        <translation>Нотный редактор - %1</translation>
+        <translation>Нотный редактор — %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4617"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4771"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4659"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4813"/>
         <source>Piano-Roll - no pattern</source>
-        <translation>Пианоролл — нет шаблона</translation>
+        <translation>Нотный редактор — нет паттерна</translation>
     </message>
 </context>
 <context>
@@ -7173,12 +9386,12 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="247"/>
         <source>Error while loading plugin</source>
-        <translation>Ошибка загрузки модуля</translation>
+        <translation>Ошибка загрузки плагина</translation>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="248"/>
         <source>Failed to load plugin &quot;%1&quot;!</source>
-        <translation>Не получилось загрузить модуль «%1»!</translation>
+        <translation>Не удалось загрузить модуль «%1»!</translation>
     </message>
 </context>
 <context>
@@ -7191,12 +9404,491 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="46"/>
         <source>Instrument browser</source>
-        <translation>Обзор инструментов</translation>
+        <translation>Инструменты</translation>
     </message>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="57"/>
         <source>Drag an instrument into either the Song-Editor, the Beat+Bassline Editor or into an existing instrument track.</source>
-        <translation>Вы можете переносить нужные вам инструменты из этой панели в музыкальный, ритм-бас редактор или в существующую дорожку инструмента.</translation>
+        <translation>Вы можете переносить нужные вам инструменты из этой панели в Композитор, Ритм+Бас или в существующую дорожку инструмента.</translation>
+    </message>
+</context>
+<context>
+    <name>PluginDatabaseW</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="14"/>
+        <source>Carla - Add New</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="32"/>
+        <source>Format</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="38"/>
+        <source>Internal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="45"/>
+        <source>LADSPA</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="52"/>
+        <source>DSSI</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="59"/>
+        <source>LV2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="66"/>
+        <source>VST2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="73"/>
+        <source>VST3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="80"/>
+        <source>AU</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="87"/>
+        <source>Sound Kits</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="116"/>
+        <source>Type</source>
+        <translation>Тип</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="122"/>
+        <source>Effects</source>
+        <translation>Эффекты</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="129"/>
+        <source>Instruments</source>
+        <translation>Инструменты</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="136"/>
+        <source>MIDI Plugins</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="143"/>
+        <source>Other/Misc</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="172"/>
+        <source>Architecture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="178"/>
+        <source>Native</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="185"/>
+        <source>Bridged</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="192"/>
+        <source>Bridged (Wine)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="251"/>
+        <source>Requirements</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="258"/>
+        <source>With Custom GUI </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="265"/>
+        <source>With CV Ports</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="272"/>
+        <source>Real-time safe only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="279"/>
+        <source>Stereo only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="286"/>
+        <source>With Inline Display</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="293"/>
+        <source>Favorites only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="306"/>
+        <source>(Number of Plugins go here)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="329"/>
+        <source>&amp;Add Plugin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="340"/>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="362"/>
+        <source>Refresh</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="373"/>
+        <source>Reset filters</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="409"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="436"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="453"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="603"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="610"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="617"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="624"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="631"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="638"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="645"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="652"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="659"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="666"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="673"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="680"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="687"/>
+        <source>TextLabel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="416"/>
+        <source>Format:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="426"/>
+        <source>Architecture:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="443"/>
+        <source>Type:</source>
+        <translation>Тип:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="473"/>
+        <source>MIDI Ins:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="483"/>
+        <source>Audio Ins:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="493"/>
+        <source>CV Outs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="503"/>
+        <source>MIDI Outs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="513"/>
+        <source>Parameter Ins:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="523"/>
+        <source>Parameter Outs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="533"/>
+        <source>Audio Outs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="543"/>
+        <source>CV Ins:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="553"/>
+        <source>UniqueID:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="563"/>
+        <source>Has Inline Display:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="573"/>
+        <source>Has Custom GUI:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="583"/>
+        <source>Is Synth:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="593"/>
+        <source>Is Bridged:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="700"/>
+        <source>Information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="804"/>
+        <source>Name</source>
+        <translation>Имя</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="809"/>
+        <source>Label/URI</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="814"/>
+        <source>Maker</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="819"/>
+        <source>Binary/Filename</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="827"/>
+        <source>Focus Text Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="830"/>
+        <source>Ctrl+F</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>PluginEdit</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="14"/>
+        <source>Plugin Editor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="27"/>
+        <source>Edit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="33"/>
+        <source>Control</source>
+        <translation>Контроль</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="54"/>
+        <source>MIDI Control Channel:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="67"/>
+        <source>N</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="128"/>
+        <source>Output dry/wet (100%)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="150"/>
+        <source>Output volume (100%)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="203"/>
+        <source>Balance Left (0%)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="225"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="266"/>
+        <source>Balance Right (0%)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="282"/>
+        <source>Use Balance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="292"/>
+        <source>Use Panning</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="325"/>
+        <source>Settings</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="331"/>
+        <source>Use Chunks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="357"/>
+        <source>    Audio:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="364"/>
+        <source>Fixed-Size Buffer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="371"/>
+        <source>Force Stereo (needs reload)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="397"/>
+        <source>    MIDI:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="404"/>
+        <source>Map Program Changes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="411"/>
+        <source>Send Bank/Program Changes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="418"/>
+        <source>Send Control Changes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="425"/>
+        <source>Send Channel Pressure</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="432"/>
+        <source>Send Note Aftertouch</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="439"/>
+        <source>Send Pitchbend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="446"/>
+        <source>Send All Sound/Notes Off</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="474"/>
+        <source>
+Plugin Name
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="554"/>
+        <source>Program:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="609"/>
+        <source>MIDI Program:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="633"/>
+        <source>Save State</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="647"/>
+        <source>Load State</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="684"/>
+        <source>Information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="708"/>
+        <source>Label/URI:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="718"/>
+        <source>Name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="792"/>
+        <source>Type:</source>
+        <translation>Тип:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="802"/>
+        <source>Maker:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="812"/>
+        <source>Copyright:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="822"/>
+        <source>Unique ID:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7204,12 +9896,249 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/PluginFactory.cpp" line="134"/>
         <source>Plugin not found.</source>
-        <translation>Плагин не найден</translation>
+        <translation>Плагин не найден.</translation>
     </message>
     <message>
         <location filename="../../src/core/PluginFactory.cpp" line="178"/>
         <source>LMMS plugin %1 does not have a plugin descriptor named %2!</source>
-        <translation>ЛММС плагин %1 не имеет описания плагина с именем %2!</translation>
+        <translation>Плагин LMMS «%1» не имеет дескриптора с именем «%2»!</translation>
+    </message>
+</context>
+<context>
+    <name>PluginParameter</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_parameter.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_parameter.ui" line="23"/>
+        <source>Parameter Name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_parameter.ui" line="46"/>
+        <source>...</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>PluginRefreshW</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="14"/>
+        <source>Carla - Refresh</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="38"/>
+        <source>Search for new...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="49"/>
+        <source>LADSPA</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="56"/>
+        <source>DSSI</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="63"/>
+        <source>LV2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="70"/>
+        <source>VST2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="77"/>
+        <source>VST3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="84"/>
+        <source>AU</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="104"/>
+        <source>SF2/3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="111"/>
+        <source>SFZ</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="161"/>
+        <source>Native</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="168"/>
+        <source>POSIX 32bit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="175"/>
+        <source>POSIX 64bit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="182"/>
+        <source>Windows 32bit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="189"/>
+        <source>Windows 64bit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="232"/>
+        <source>Available tools:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="282"/>
+        <source>python3-rdflib (LADSPA-RDF support)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="289"/>
+        <source>carla-discovery-win64</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="296"/>
+        <source>carla-discovery-native</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="341"/>
+        <source>carla-discovery-posix32</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="386"/>
+        <source>carla-discovery-posix64</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="393"/>
+        <source>carla-discovery-win32</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="416"/>
+        <source>Options:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="428"/>
+        <source>Carla will run small processing checks when scanning the plugins (to make sure they won't crash).
+You can disable these checks to get a faster scanning time (at your own risk).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="432"/>
+        <source>Run processing checks while scanning</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="502"/>
+        <source>Press &apos;Scan&apos; to begin the search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="509"/>
+        <source>Scan</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="520"/>
+        <source>&gt;&gt; Skip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="527"/>
+        <source>Close</source>
+        <translation>Закрыть</translation>
+    </message>
+</context>
+<context>
+    <name>PluginWidget</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="17"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_classic.ui" line="17"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_compact.ui" line="17"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_default.ui" line="17"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_presets.ui" line="17"/>
+        <source>Frame</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="64"/>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="74"/>
+        <source>On/Off</source>
+        <translation>Вкл/Выкл</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="147"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_compact.ui" line="227"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_default.ui" line="232"/>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_presets.ui" line="229"/>
+        <source>PluginName</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="178"/>
+        <source>MIDI</source>
+        <translation>MIDI</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="223"/>
+        <source>AUDIO IN</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="250"/>
+        <source>AUDIO OUT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="306"/>
+        <source>GUI</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="316"/>
+        <source>Edit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="326"/>
+        <source>Remove</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_classic.ui" line="164"/>
+        <source>Plugin Name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_presets.ui" line="266"/>
+        <source>Preset:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7217,22 +10146,22 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="70"/>
         <source>Project Notes</source>
-        <translation>Показать/скрыть заметки к проекту</translation>
+        <translation>Заметки к проекту</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="92"/>
         <source>Enter project notes here</source>
-        <translation>Напишите заметки, касающиеся проекта здесь</translation>
+        <translation>Напишите заметки, касающиеся проекта, здесь</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="113"/>
         <source>Edit Actions</source>
-        <translation>Правка</translation>
+        <translation>Панель правки</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="116"/>
         <source>&amp;Undo</source>
-        <translation>&amp;U Отменить</translation>
+        <translation>&amp;Отменить</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="118"/>
@@ -7242,7 +10171,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="122"/>
         <source>&amp;Redo</source>
-        <translation>&amp;R Повторить</translation>
+        <translation>Ве&amp;рнуть</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="124"/>
@@ -7252,7 +10181,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="128"/>
         <source>&amp;Copy</source>
-        <translation>&amp;C Копировать</translation>
+        <translation>&amp;Копировать</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="130"/>
@@ -7262,7 +10191,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="134"/>
         <source>Cu&amp;t</source>
-        <translation>&amp;t Вырезать</translation>
+        <translation>&amp;Вырезать</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="136"/>
@@ -7272,7 +10201,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="140"/>
         <source>&amp;Paste</source>
-        <translation>&amp;P Вставить</translation>
+        <translation>Вст&amp;авить</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="142"/>
@@ -7282,12 +10211,12 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="147"/>
         <source>Format Actions</source>
-        <translation>Форматирование</translation>
+        <translation>Панель форматирования</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="171"/>
         <source>&amp;Bold</source>
-        <translation>&amp;b Полужирный</translation>
+        <translation>&amp;Жирный</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="172"/>
@@ -7297,7 +10226,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="178"/>
         <source>&amp;Italic</source>
-        <translation>&amp;i Курсив</translation>
+        <translation>&amp;Курсив</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="179"/>
@@ -7307,7 +10236,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="186"/>
         <source>&amp;Underline</source>
-        <translation>&amp;U Подчеркнутый</translation>
+        <translation>Под&amp;чёркнутый</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="187"/>
@@ -7317,7 +10246,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="198"/>
         <source>&amp;Left</source>
-        <translation>&amp;L По левому краю</translation>
+        <translation>По &amp;левому краю</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="199"/>
@@ -7332,32 +10261,32 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="207"/>
         <source>%1+E</source>
-        <translation type="unfinished"/>
+        <translation>%1+E</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="212"/>
         <source>&amp;Right</source>
-        <translation>&amp;Право</translation>
+        <translation>По &amp;правому краю</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="214"/>
         <source>%1+R</source>
-        <translation type="unfinished"/>
+        <translation>%1+R</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="220"/>
         <source>&amp;Justify</source>
-        <translation>&amp;Выравнивать</translation>
+        <translation>По &amp;ширине</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="221"/>
         <source>%1+J</source>
-        <translation type="unfinished"/>
+        <translation>%1+J</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="228"/>
         <source>&amp;Color...</source>
-        <translation>&amp;Цвет...</translation>
+        <translation>Ц&amp;вет...</translation>
     </message>
 </context>
 <context>
@@ -7365,22 +10294,22 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="45"/>
         <source>WAV (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>WAV (*.wav)</translation>
     </message>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="48"/>
         <source>FLAC (*.flac)</source>
-        <translation type="unfinished"/>
+        <translation>FLAC (*.flac)</translation>
     </message>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="53"/>
         <source>OGG (*.ogg)</source>
-        <translation type="unfinished"/>
+        <translation>OGG (*.ogg)</translation>
     </message>
     <message>
         <location filename="../../src/core/ProjectRenderer.cpp" line="62"/>
         <source>MP3 (*.mp3)</source>
-        <translation type="unfinished"/>
+        <translation>MP3 (*.mp3)</translation>
     </message>
 </context>
 <context>
@@ -7396,19 +10325,19 @@ Reason: &quot;%2&quot;</source>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="144"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="75"/>
         <source>Maker: </source>
-        <translation>Создатель: </translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="159"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="90"/>
         <source>Copyright: </source>
-        <translation>Правообладатель: </translation>
+        <translation>Авторское право:</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="169"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="100"/>
         <source>Requires Real Time: </source>
-        <translation>Требуется обработка в реальном времени:</translation>
+        <translation>Требует работать в реальном времени:</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="171"/>
@@ -7418,7 +10347,7 @@ Reason: &quot;%2&quot;</source>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="108"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="114"/>
         <source>Yes</source>
-        <translation>Да</translation>
+        <translation>да</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="172"/>
@@ -7428,7 +10357,7 @@ Reason: &quot;%2&quot;</source>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="109"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="115"/>
         <source>No</source>
-        <translation>Нет</translation>
+        <translation>нет</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="176"/>
@@ -7440,19 +10369,19 @@ Reason: &quot;%2&quot;</source>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="183"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="112"/>
         <source>In Place Broken: </source>
-        <translation>Вместо сломанного:</translation>
+        <translation>Неисправен:</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="190"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="118"/>
         <source>Channels In: </source>
-        <translation>Каналы в: </translation>
+        <translation>Каналов на входе:</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="195"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="122"/>
         <source>Channels Out: </source>
-        <translation>Каналы из: </translation>
+        <translation>Каналов на выходе:</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="67"/>
@@ -7470,7 +10399,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/menus/RecentProjectsMenu.cpp" line="14"/>
         <source>&amp;Recently Opened Projects</source>
-        <translation>&amp;R Недавние проекты</translation>
+        <translation>&amp;Недавние проекты</translation>
     </message>
 </context>
 <context>
@@ -7486,12 +10415,12 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="43"/>
         <source>Input</source>
-        <translation>Ввод</translation>
+        <translation>Вход</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="44"/>
         <source>Input gain:</source>
-        <translation>Входная мощность:</translation>
+        <translation>Входное усиление:</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="49"/>
@@ -7516,12 +10445,12 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="61"/>
         <source>Output</source>
-        <translation>Вывод</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="62"/>
         <source>Output gain:</source>
-        <translation>Выходная мощность:</translation>
+        <translation>Выходное усиление:</translation>
     </message>
 </context>
 <context>
@@ -7529,7 +10458,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="36"/>
         <source>Input gain</source>
-        <translation>Входная мощность</translation>
+        <translation>Входное усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="37"/>
@@ -7544,7 +10473,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="39"/>
         <source>Output gain</source>
-        <translation>Выходная мощность</translation>
+        <translation>Выходное усиление</translation>
     </message>
 </context>
 <context>
@@ -7552,22 +10481,22 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="38"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Пауза</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="39"/>
         <source>Reference freeze</source>
-        <translation type="unfinished"/>
+        <translation>Заморозить эталон</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="41"/>
         <source>Waterfall</source>
-        <translation type="unfinished"/>
+        <translation>Спад</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="42"/>
         <source>Averaging</source>
-        <translation type="unfinished"/>
+        <translation>Усреднение</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="43"/>
@@ -7577,151 +10506,151 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="44"/>
         <source>Peak hold</source>
-        <translation type="unfinished"/>
+        <translation>Держать пик</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="46"/>
         <source>Logarithmic frequency</source>
-        <translation type="unfinished"/>
+        <translation>Логарифмическая частота</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="47"/>
         <source>Logarithmic amplitude</source>
-        <translation type="unfinished"/>
+        <translation>Логарифмическая амплитуда</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="50"/>
         <source>Frequency range</source>
-        <translation type="unfinished"/>
+        <translation>Диапазон частот</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="51"/>
         <source>Amplitude range</source>
-        <translation type="unfinished"/>
+        <translation>Диапазон амплитуд</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="52"/>
         <source>FFT block size</source>
-        <translation type="unfinished"/>
+        <translation>Размер блока FFT</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="53"/>
         <source>FFT window type</source>
-        <translation type="unfinished"/>
+        <translation>Тип окна FFT</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="56"/>
         <source>Peak envelope resolution</source>
-        <translation type="unfinished"/>
+        <translation>Разрешение огибающей пика</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="57"/>
         <source>Spectrum display resolution</source>
-        <translation type="unfinished"/>
+        <translation>Разрешение отображения спектра</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="58"/>
         <source>Peak decay multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Множитель спада пика</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="59"/>
         <source>Averaging weight</source>
-        <translation type="unfinished"/>
+        <translation>Средний вес</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="60"/>
         <source>Waterfall history size</source>
-        <translation type="unfinished"/>
+        <translation>Размер истории спада</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="61"/>
         <source>Waterfall gamma correction</source>
-        <translation type="unfinished"/>
+        <translation>Гамма-коррекция спада</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="62"/>
         <source>FFT window overlap</source>
-        <translation type="unfinished"/>
+        <translation>Перекрытие окон FFT</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="63"/>
         <source>FFT zero padding</source>
-        <translation type="unfinished"/>
+        <translation>FFT нулевой отступ</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="67"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="72"/>
         <source>Full (auto)</source>
-        <translation type="unfinished"/>
+        <translation>Полностью (авто)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="68"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="75"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="78"/>
         <source>Audible</source>
-        <translation type="unfinished"/>
+        <translation>Слышимые</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="69"/>
         <source>Bass</source>
-        <translation>Нижние</translation>
+        <translation>Басы</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="70"/>
         <source>Mids</source>
-        <translation type="unfinished"/>
+        <translation>Средние</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="71"/>
         <source>High</source>
-        <translation type="unfinished"/>
+        <translation>Высокие</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="74"/>
         <source>Extended</source>
-        <translation type="unfinished"/>
+        <translation>Расширенно</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="76"/>
         <source>Loud</source>
-        <translation type="unfinished"/>
+        <translation>Громкие</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="77"/>
         <source>Silent</source>
-        <translation type="unfinished"/>
+        <translation>Тихие</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="86"/>
         <source>(High time res.)</source>
-        <translation type="unfinished"/>
+        <translation>(Высокое разрешение по времени)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="90"/>
         <source>(High freq. res.)</source>
-        <translation type="unfinished"/>
+        <translation>(Высокое разрешение по частоте)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="100"/>
         <source>Rectangular (Off)</source>
-        <translation type="unfinished"/>
+        <translation>Прямоугольный (откл.)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="101"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="104"/>
         <source>Blackman-Harris (Default)</source>
-        <translation type="unfinished"/>
+        <translation>Блэкман-Харрис (по умолчанию)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="102"/>
         <source>Hamming</source>
-        <translation type="unfinished"/>
+        <translation>Хэмминг (Сглажив)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="103"/>
         <source>Hanning</source>
-        <translation type="unfinished"/>
+        <translation>Хэннинга (Сглажив)</translation>
     </message>
 </context>
 <context>
@@ -7729,42 +10658,42 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="86"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Пауза</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="87"/>
         <source>Pause data acquisition</source>
-        <translation type="unfinished"/>
+        <translation>Приостановить сбор данных</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="98"/>
         <source>Reference freeze</source>
-        <translation type="unfinished"/>
+        <translation>Заморозить эталон</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="99"/>
         <source>Freeze current input as a reference / disable falloff in peak-hold mode.</source>
-        <translation type="unfinished"/>
+        <translation>Заморозить текущий входной сигнал в качестве эталона; отключить спад в режиме удержания пика.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="111"/>
         <source>Waterfall</source>
-        <translation type="unfinished"/>
+        <translation>Спад</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="112"/>
         <source>Display real-time spectrogram</source>
-        <translation type="unfinished"/>
+        <translation>Показать спектрограмму в реальном времени</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="118"/>
         <source>Averaging</source>
-        <translation type="unfinished"/>
+        <translation>Усреднение</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="119"/>
         <source>Enable exponential moving average</source>
-        <translation type="unfinished"/>
+        <translation>Включить экспоненциальное скользящее среднее</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="125"/>
@@ -7774,212 +10703,212 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="126"/>
         <source>Display stereo channels separately</source>
-        <translation type="unfinished"/>
+        <translation>Отображать стерео-каналы раздельно</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="132"/>
         <source>Peak hold</source>
-        <translation type="unfinished"/>
+        <translation>Держать пик</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="133"/>
         <source>Display envelope of peak values</source>
-        <translation type="unfinished"/>
+        <translation>Показать огибающую пиковых значений</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="140"/>
         <source>Logarithmic frequency</source>
-        <translation type="unfinished"/>
+        <translation>Логарифмическая частота</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="141"/>
         <source>Switch between logarithmic and linear frequency scale</source>
-        <translation type="unfinished"/>
+        <translation>Переключиться между логарифмической и линейной шкалой частоты</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="152"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="153"/>
         <source>Frequency range</source>
-        <translation type="unfinished"/>
+        <translation>Диапазон частот</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="160"/>
         <source>Logarithmic amplitude</source>
-        <translation type="unfinished"/>
+        <translation>Логарифмическая амплитуда</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="161"/>
         <source>Switch between logarithmic and linear amplitude scale</source>
-        <translation type="unfinished"/>
+        <translation>Переключить между логарифмическим и линейным усилением амплитуды</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="172"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="173"/>
         <source>Amplitude range</source>
-        <translation type="unfinished"/>
+        <translation>Диапазон амплитуд</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="229"/>
         <source>Envelope res.</source>
-        <translation type="unfinished"/>
+        <translation>Разрешение огибающей</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="230"/>
         <source>Increase envelope resolution for better details, decrease for better GUI performance.</source>
-        <translation type="unfinished"/>
+        <translation>Увеличьте разрешение огибающей, чтобы улучшить детализацию, или уменьшите, чтобы улучшить производительность графического интерфейса.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="231"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="239"/>
         <source>Draw at most</source>
-        <translation type="unfinished"/>
+        <translation>Максимально точек на пиксель в спектре :</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="231"/>
         <source> envelope points per pixel</source>
-        <translation type="unfinished"/>
+        <translation>точки огибающей на пиксель</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="237"/>
         <source>Spectrum res.</source>
-        <translation type="unfinished"/>
+        <translation>Разрешение спектра</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="238"/>
         <source>Increase spectrum resolution for better details, decrease for better GUI performance.</source>
-        <translation type="unfinished"/>
+        <translation>Увеличьте разрешение спектра, чтобы улучшить детализацию, или уменьшите, чтобы улучшить производительность графического интерфейса.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="239"/>
         <source> spectrum points per pixel</source>
-        <translation type="unfinished"/>
+        <translation>точки спектра на пиксель</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="245"/>
         <source>Falloff factor</source>
-        <translation type="unfinished"/>
+        <translation>Коэффициент спада</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="246"/>
         <source>Decrease to make peaks fall faster.</source>
-        <translation type="unfinished"/>
+        <translation>Снизьте, чтобы пики спадали быстрее</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="247"/>
         <source>Multiply buffered value by</source>
-        <translation type="unfinished"/>
+        <translation>Умножить значение буфера на</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="253"/>
         <source>Averaging weight</source>
-        <translation type="unfinished"/>
+        <translation>Средний вес</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="254"/>
         <source>Decrease to make averaging slower and smoother.</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшите, чтобы усреднение было медленнее и плавнее.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="255"/>
         <source>New sample contributes</source>
-        <translation type="unfinished"/>
+        <translation>Вхождения нового сэмпла</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="261"/>
         <source>Waterfall height</source>
-        <translation type="unfinished"/>
+        <translation>Высота спада</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="262"/>
         <source>Increase to get slower scrolling, decrease to see fast transitions better. Warning: medium CPU usage.</source>
-        <translation type="unfinished"/>
+        <translation>Увеличьте, чтобы получить более плавные движения, и уменьшите, чтобы лучше видеть быстрые переходы. Внимание: средняя загрузка ЦП.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="263"/>
         <source>Keep</source>
-        <translation type="unfinished"/>
+        <translation>Оставить</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="263"/>
         <source> lines</source>
-        <translation type="unfinished"/>
+        <translation>линии</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="271"/>
         <source>Waterfall gamma</source>
-        <translation type="unfinished"/>
+        <translation>Гамма спада</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="272"/>
         <source>Decrease to see very weak signals, increase to get better contrast.</source>
-        <translation type="unfinished"/>
+        <translation>Снизьте, чтобы увидеть очень слабые сигналы, и увеличьте, чтобы получить лучший контраст.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="273"/>
         <source>Gamma value:</source>
-        <translation type="unfinished"/>
+        <translation>Гамма значение:</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="279"/>
         <source>Window overlap</source>
-        <translation type="unfinished"/>
+        <translation>Перекрытие окна</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="280"/>
         <source>Increase to prevent missing fast transitions arriving near FFT window edges. Warning: high CPU usage.</source>
-        <translation type="unfinished"/>
+        <translation>Увеличьте, чтобы не пропускать быстрые переходы, которые приближаются к краям окна FFT. Внимание: сильно нагружает процессор!</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="281"/>
         <source>Each sample processed</source>
-        <translation type="unfinished"/>
+        <translation>Количество раз обработки сэмпла: </translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="281"/>
         <source> times</source>
-        <translation type="unfinished"/>
+        <translation>раз</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="287"/>
         <source>Zero padding</source>
-        <translation type="unfinished"/>
+        <translation>Нулевой отступ</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="288"/>
         <source>Increase to get smoother-looking spectrum. Warning: high CPU usage.</source>
-        <translation type="unfinished"/>
+        <translation>Увеличьте, чтобы получить более плавный спектр. Внимание: сильно нагружает процессор.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="289"/>
         <source>Processing buffer is</source>
-        <translation type="unfinished"/>
+        <translation>Буфер обработки </translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="289"/>
         <source> steps larger than input block</source>
-        <translation type="unfinished"/>
+        <translation>Шагов больше, чем в блоке ввода</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="296"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"/>
+        <translation>Расширенные настройки</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="297"/>
         <source>Access advanced settings</source>
-        <translation type="unfinished"/>
+        <translation>Доступ к расширенным настройкам</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="186"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="187"/>
         <source>FFT block size</source>
-        <translation type="unfinished"/>
+        <translation>Размер блока FFT</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="202"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="203"/>
         <source>FFT window type</source>
-        <translation type="unfinished"/>
+        <translation>Тип окна FFT</translation>
     </message>
 </context>
 <context>
@@ -7992,7 +10921,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="282"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
-        <translation>Аудио файлы ограничены размером в %1 MB и в %2 минуты проигрывания</translation>
+        <translation>Звуковые файлы ограничены размером %1 МБ и длительностью %2 мин.</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="979"/>
@@ -8002,7 +10931,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1006"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
-        <translation>Все аудио файлы (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
+        <translation>Все звуковые файлы (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1008"/>
@@ -8055,7 +10984,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="337"/>
         <source>Double-click to open sample</source>
-        <translation type="unfinished"/>
+        <translation>Дважды щелкните, чтобы открыть сэмпл</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="354"/>
@@ -8086,23 +11015,23 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="591"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="590"/>
         <source>Volume</source>
         <translation>Громкость</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="593"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="591"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="594"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="592"/>
         <source>FX channel</source>
         <translation>Канал ЭФ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="595"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="597"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="593"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="596"/>
         <source>Sample track</source>
         <translation>Дорожка записи</translation>
     </message>
@@ -8110,37 +11039,37 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="808"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="816"/>
         <source>Track volume</source>
         <translation>Громкость дорожки</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="811"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="819"/>
         <source>Channel volume:</source>
         <translation>Громкость канала:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="818"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="826"/>
         <source>VOL</source>
-        <translation>ГРОМК.</translation>
+        <translation>УР</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="822"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="830"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="824"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="832"/>
         <source>Panning:</source>
         <translation>Баланс:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="826"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="834"/>
         <source>PAN</source>
         <translation>БАЛ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="875"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="904"/>
         <source>FX %1: %2</source>
         <translation>ЭФ %1: %2</translation>
     </message>
@@ -8148,47 +11077,47 @@ Reason: &quot;%2&quot;</source>
 <context>
     <name>SampleTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="956"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="985"/>
         <source>GENERAL SETTINGS</source>
         <translation>ОСНОВНЫЕ НАСТРОЙКИ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="991"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1020"/>
         <source>Sample volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость сэмпла</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="993"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1022"/>
         <source>Volume:</source>
         <translation>Громкость:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="998"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1027"/>
         <source>VOL</source>
-        <translation>ГРОМК.</translation>
+        <translation>ГРОМК</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1005"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1034"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1006"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1035"/>
         <source>Panning:</source>
         <translation>Баланс:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1011"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1040"/>
         <source>PAN</source>
         <translation>БАЛ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1021"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1050"/>
         <source>FX channel</source>
         <translation>Канал ЭФ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1026"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1055"/>
         <source>FX</source>
         <translation>ЭФ</translation>
     </message>
@@ -8198,225 +11127,225 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="181"/>
         <source>Discard MIDI connections</source>
-        <translation type="unfinished"/>
+        <translation>Отклонить MIDI-соединения</translation>
     </message>
 </context>
 <context>
     <name>SetupDialog</name>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="576"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="580"/>
         <source>Reset to default value</source>
         <translation>Сбросить до настроек по умолчанию</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="535"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="539"/>
         <source>Use built-in NaN handler</source>
-        <translation>Использовать встроенный Nan обработчик</translation>
+        <translation>Использовать встроенный Nan-обработчик</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="149"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="151"/>
         <source>Settings</source>
-        <translation>Параметры</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="190"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="782"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="192"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="786"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Основные</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="217"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="219"/>
         <source>Graphical user interface (GUI)</source>
-        <translation type="unfinished"/>
+        <translation>Графический интерфейс пользователя (GUI)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="240"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="244"/>
         <source>Projects</source>
-        <translation type="unfinished"/>
+        <translation>Проекты</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="254"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="258"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Язык</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="314"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="785"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="318"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="789"/>
         <source>Performance</source>
-        <translation type="unfinished"/>
+        <translation>Производительность</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="319"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="323"/>
         <source>Autosave</source>
-        <translation type="unfinished"/>
+        <translation>Автосохранение</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="338"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="342"/>
         <source>Enable autosave</source>
-        <translation type="unfinished"/>
+        <translation>Включить автоматическое сохранение</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="345"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="349"/>
         <source>Allow autosave while playing</source>
-        <translation type="unfinished"/>
+        <translation>Разрешить автосохранение во время воспроизведения.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="365"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="369"/>
         <source>User interface (UI) effects vs. performance</source>
-        <translation type="unfinished"/>
+        <translation>Эффекты интерфейса и производительность</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="379"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="383"/>
         <source>Plugins</source>
         <translation>Модули</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="383"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="387"/>
         <source>VST plugins embedding:</source>
-        <translation type="unfinished"/>
+        <translation>Встраивание VST-плагинов:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="389"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="393"/>
         <source>No embedding</source>
         <translation>Не встраивать</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="392"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="396"/>
         <source>Embed using Qt API</source>
-        <translation>Встроить с использованием QT API</translation>
+        <translation>Встроить с использованием Qt API</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="396"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="400"/>
         <source>Embed using native Win32 API</source>
         <translation>Встроить с использованием Win32 API</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="400"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="404"/>
         <source>Embed using XEmbed protocol</source>
         <translation>Встроить с использованием протокола XEmbed</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="409"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="413"/>
         <source>Keep plugin windows on top when not embedded</source>
         <translation>Держать окна плагинов поверху, если не встроены</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="439"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="788"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="443"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="792"/>
         <source>Audio</source>
         <translation>Аудио</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="443"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="447"/>
         <source>Audio interface</source>
-        <translation type="unfinished"/>
+        <translation>Аудио-интерфейс</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="541"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="545"/>
         <source>HQ mode for output audio device</source>
-        <translation type="unfinished"/>
+        <translation>Высококачественный режим аудио-устройства</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="550"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="554"/>
         <source>Buffer size</source>
-        <translation type="unfinished"/>
+        <translation>Размер буфера</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="594"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="791"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="598"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="795"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="598"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="602"/>
         <source>MIDI interface</source>
-        <translation type="unfinished"/>
+        <translation>Интерфейс MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="814"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="818"/>
         <source>Some changes require restarting.</source>
-        <translation type="unfinished"/>
+        <translation>Некоторые изменения требуют перезагрузки программы.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1019"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1031"/>
         <source>Autosave interval: %1</source>
-        <translation type="unfinished"/>
+        <translation>Интервал автосохранения: %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1158"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1170"/>
         <source>Choose the LMMS working directory</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать рабочий каталог LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1175"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1187"/>
         <source>Choose your VST plugins directory</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать каталог плагинов VST</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1192"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1204"/>
         <source>Choose your LADSPA plugins directory</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать каталог плагинов LADSPA</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1235"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1247"/>
         <source>Choose your default SF2</source>
-        <translation type="unfinished"/>
+        <translation>Выберите основной SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1273"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1285"/>
         <source>Choose your theme directory</source>
-        <translation type="unfinished"/>
+        <translation>Выберите свою папку для тем</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1307"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1319"/>
         <source>Choose your background picture</source>
-        <translation type="unfinished"/>
+        <translation>Выберите свою картинку фона</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="690"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="794"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="694"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="798"/>
         <source>Paths</source>
         <translation>Пути</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="820"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="824"/>
         <source>OK</source>
         <translation>ОК</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="827"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="831"/>
         <source>Cancel</source>
-        <translation>Отменить</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1128"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1140"/>
         <source>Frames: %1
 Latency: %2 ms</source>
         <translation>Фрагментов: %1
-Отклик: %2</translation>
+Отклик: %2 мс</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1256"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1268"/>
         <source>Choose your GIG directory</source>
         <translation>Выберите вашу папку GIG</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1217"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1229"/>
         <source>Choose your SF2 directory</source>
         <translation>Выберите вашу папку SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1015"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1027"/>
         <source>minutes</source>
         <translation>Минуты</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1015"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1027"/>
         <source>minute</source>
         <translation>Минута</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1017"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1029"/>
         <source>Disabled</source>
         <translation>Отключено</translation>
     </message>
@@ -8439,22 +11368,22 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/Song.cpp" line="70"/>
         <source>Master volume</source>
-        <translation>Основная громкость</translation>
+        <translation>Главная громкость</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="71"/>
         <source>Master pitch</source>
-        <translation>Основная тональность </translation>
+        <translation>Основной тон</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1196"/>
+        <location filename="../../src/core/Song.cpp" line="1198"/>
         <source>LMMS Error report</source>
         <translation>Отчет об ошибке LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1440"/>
-        <source>The following errors occured while loading: </source>
-        <translation>Следующие ошибки возникли при загрузке:</translation>
+        <location filename="../../src/core/Song.cpp" line="1442"/>
+        <source>The following errors occurred while loading: </source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8462,24 +11391,24 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="106"/>
         <source>Could not open file</source>
-        <translation>Не могу открыть файл</translation>
+        <translation>Не удалось открыть файл</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="107"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
-        <translation>Невозможно открыть файл %1, вероятно, нет разрешений на его чтение.
-Пж. убедитесь, что есть по крайней мере права на чтение этого файла и попробуйте ещё раз.</translation>
+        <translation>Не удалось открыть файл %1. Вероятно, у вас нет прав на его чтение.
+Проверьте, есть ли у вас права на чтение этого файла и попробуйте снова.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="252"/>
         <source>Could not write file</source>
-        <translation>Не могу записать файл</translation>
+        <translation>Не удалось записать файл</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="253"/>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
-        <translation>Невозможно открыть %1 для записи, возможно, нет разрешений на запись в этот файл, пж. удостоверьтесь, что есть доступ к этому файлу и попробуйте снова.</translation>
+        <translation>Не удалось открыть %1 для записи. Возможно, у вас нет прав на запись в этот файл. Проверьте, есть ли у вас права на запись в этот файл и попробуйте снова.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1468"/>
@@ -8489,7 +11418,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1469"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
-        <translation>Файл %1 возможно содержит ошибки из-за которых не может загрузиться.</translation>
+        <translation>Файл %1 возможно содержит ошибки, поэтому не может загрузиться.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1499"/>
@@ -8519,12 +11448,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="123"/>
         <source>TEMPO</source>
-        <translation>ТЕМПО</translation>
+        <translation>ТЕМП</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="124"/>
         <source>Tempo in BPM</source>
-        <translation>Темпо в BPM</translation>
+        <translation>Темп в BPM</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="130"/>
@@ -8536,123 +11465,124 @@ Latency: %2 ms</source>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="161"/>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="173"/>
         <source>Master volume</source>
-        <translation>Основная громкость</translation>
+        <translation>Главная громкость</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="187"/>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="194"/>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="205"/>
         <source>Master pitch</source>
-        <translation>Основная тональность </translation>
+        <translation>Основной тон</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="676"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="677"/>
         <source>Value: %1%</source>
         <translation>Значение: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="718"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="719"/>
         <source>Value: %1 semitones</source>
-        <translation>Значение: %1 полутон(а/ов)</translation>
+        <translation>Полутонов: %1</translation>
     </message>
 </context>
 <context>
     <name>SongEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="907"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="908"/>
         <source>Song-Editor</source>
-        <translation>Музыкальный редактор</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="917"/>
-        <source>Play song (Space)</source>
-        <translation>Начать воспроизведение (Пробел)</translation>
+        <translation>Композитор</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="918"/>
+        <source>Play song (Space)</source>
+        <translation>Играть песню (пробел)</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="919"/>
         <source>Record samples from Audio-device</source>
         <translation>Записать сэмпл со звукового устройства</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="919"/>
-        <source>Record samples from Audio-device while playing song or BB track</source>
-        <translation>Записать сэмпл с аудио-устройства во время воспроизведения в музыкальном или ритм/бас редакторе</translation>
-    </message>
-    <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="920"/>
+        <source>Record samples from Audio-device while playing song or BB track</source>
+        <translation>Записать сэмпл с аудио-устройства во время воспроизведения 
+в музыкальном или ритм/бас редакторе</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="921"/>
         <source>Stop song (Space)</source>
-        <translation>Остановить воспроизведение (Пробел)</translation>
+        <translation>Остановить песню (пробел)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="924"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="925"/>
         <source>Track actions</source>
-        <translation>Действия трека</translation>
+        <translation>Панель трека</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="927"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="928"/>
         <source>Add beat/bassline</source>
         <translation>Добавить ритм/бас</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="930"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="931"/>
         <source>Add sample-track</source>
         <translation>Добавить дорожку записи</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="933"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="934"/>
         <source>Add automation-track</source>
         <translation>Добавить дорожку автоматизации</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="945"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="946"/>
         <source>Edit actions</source>
-        <translation>Правка:</translation>
+        <translation>Панель правки</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="948"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="949"/>
         <source>Draw mode</source>
         <translation>Режим рисования</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="949"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="950"/>
         <source>Edit mode (select and move)</source>
-        <translation>Правка (выделение/перемещение)</translation>
+        <translation>Режим исправлений (выбирать и двигать)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="958"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="959"/>
         <source>Timeline controls</source>
-        <translation>Управление временем</translation>
+        <translation>Контроль таймлайна</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="962"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="963"/>
         <source>Zoom controls</source>
-        <translation>Приблизить управление</translation>
+        <translation>Управление приближением.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="972"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="973"/>
         <source>Horizontal zooming</source>
-        <translation>Горизонтальное увеличение</translation>
+        <translation>Горизонтальное приближение</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="978"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="979"/>
         <source>Snap controls</source>
-        <translation type="unfinished"/>
+        <translation>Контроль выравнивания</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="986"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1021"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="987"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1022"/>
         <source>Clip snapping size</source>
-        <translation type="unfinished"/>
+        <translation>Ограничить размер выравнивания</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="990"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="991"/>
         <source>Toggle proportional snap on/off</source>
-        <translation type="unfinished"/>
+        <translation>Вкл./выкл. пропорциональное выравнивание</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1017"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1018"/>
         <source>Base snapping size</source>
-        <translation type="unfinished"/>
+        <translation>Базовый размер выравнивания</translation>
     </message>
 </context>
 <context>
@@ -8665,7 +11595,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/widgets/StepRecorderWidget.cpp" line="79"/>
         <source>Move recording curser using &lt;Left/Right&gt; arrows</source>
-        <translation type="unfinished"/>
+        <translation>Двигать курсор записи стрелками влево-вправо</translation>
     </message>
 </context>
 <context>
@@ -8700,7 +11630,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/menus/TemplatesMenu.cpp" line="12"/>
         <source>New from template</source>
-        <translation>Новый на основе шаблона</translation>
+        <translation>Создать на основе шаблона</translation>
     </message>
 </context>
 <context>
@@ -8714,12 +11644,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="102"/>
         <source>No Sync</source>
-        <translation>Синхронизации нет</translation>
+        <translation>Без синхронизации</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="106"/>
         <source>Eight beats</source>
-        <translation>Восемь ударов (две ноты)</translation>
+        <translation>Восемь ударов</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="112"/>
@@ -8729,27 +11659,27 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="118"/>
         <source>Half note</source>
-        <translation>Полунота</translation>
+        <translation>Половинная нота</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="124"/>
         <source>Quarter note</source>
-        <translation>Четверть ноты</translation>
+        <translation>Четвертная нота</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="130"/>
         <source>8th note</source>
-        <translation>Восьмая ноты</translation>
+        <translation>Восьмая нота</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="136"/>
         <source>16th note</source>
-        <translation>1/16 ноты</translation>
+        <translation>1/16 нота</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="140"/>
         <source>32nd note</source>
-        <translation>1/32 ноты</translation>
+        <translation>1/32 нота</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="143"/>
@@ -8774,27 +11704,27 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="181"/>
         <source>Synced to Half Note</source>
-        <translation>Синхро по половине ноты</translation>
+        <translation>Синхро по половинной ноте</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="185"/>
         <source>Synced to Quarter Note</source>
-        <translation>Синхро по четверти ноты</translation>
+        <translation>Синхро по четвертной ноте</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="189"/>
         <source>Synced to 8th Note</source>
-        <translation>Синхро по 1/8 ноты</translation>
+        <translation>Синхро по 1/8 ноте</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="193"/>
         <source>Synced to 16th Note</source>
-        <translation>Синхро по 1/16 ноты</translation>
+        <translation>Синхро по 1/16 ноте</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="197"/>
         <source>Synced to 32nd Note</source>
-        <translation>Синхро по 1/32 ноты</translation>
+        <translation>Синхро по 1/32 ноте</translation>
     </message>
 </context>
 <context>
@@ -8802,7 +11732,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="52"/>
         <source>Time units</source>
-        <translation type="unfinished"/>
+        <translation>Единицы времени</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="68"/>
@@ -8840,12 +11770,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="116"/>
         <source>Auto scrolling</source>
-        <translation type="unfinished"/>
+        <translation>Авто-перемотка</translation>
     </message>
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="123"/>
         <source>Loop points</source>
-        <translation type="unfinished"/>
+        <translation>Точки петли</translation>
     </message>
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="133"/>
@@ -8876,12 +11806,12 @@ Latency: %2 ms</source>
 <context>
     <name>Track</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2093"/>
+        <location filename="../../src/core/Track.cpp" line="2097"/>
         <source>Mute</source>
-        <translation>Тихо</translation>
+        <translation>Заглушить</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2095"/>
+        <location filename="../../src/core/Track.cpp" line="2099"/>
         <source>Solo</source>
         <translation>Соло</translation>
     </message>
@@ -8891,41 +11821,41 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="83"/>
         <source>Couldn&apos;t import file</source>
-        <translation>Не могу импортировать файл</translation>
+        <translation>Не удалось импортировать файл</translation>
     </message>
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="84"/>
         <source>Couldn't find a filter for importing file %1.
 You should convert this file into a format supported by LMMS using another software.</source>
-        <translation>Не могу найти фильтр для импорта файла  %1.
-Для подключения этого файла преобразуйте его в формат, поддерживаемый LMMS.</translation>
+        <translation>Не удалось найти фильтр для импорта файла %1.
+Преобразуйте его в формат, поддерживаемый LMMS, используя стороннее ПО.</translation>
     </message>
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="103"/>
         <source>Couldn&apos;t open file</source>
-        <translation>Не могу открыть файл</translation>
+        <translation>Не удалось открыть файл</translation>
     </message>
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="104"/>
         <source>Couldn't open file %1 for reading.
 Please make sure you have read-permission to the file and the directory containing the file and try again!</source>
-        <translation>Не могу открыть файл %1 для записи.
-Проверьте, обладаете ли вы правами на запись в выбранный файл и содержащий его каталог и попробуйте снова!</translation>
+        <translation>Не удалось открыть файл %1 для записи.
+Проверьте, обладаете ли вы правами на чтение файла и содержащий его каталог и попробуйте снова!</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="95"/>
         <source>Loading project...</source>
-        <translation>Чтение проекта...</translation>
+        <translation>Загрузка проекта...</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="96"/>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="290"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="311"/>
         <source>Cancel</source>
-        <translation>Отменить</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="100"/>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="291"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="312"/>
         <source>Please wait...</source>
         <translation>Подождите, пожалуйста...</translation>
     </message>
@@ -8942,10 +11872,10 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="135"/>
         <source>Loading Track %1 (%2/Total %3)</source>
-        <translation type="unfinished"/>
+        <translation>Загружается дорожка %1 (%2 из %3)</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="289"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="310"/>
         <source>Importing MIDI-file...</source>
         <translation>Импортирую файл MIDI...</translation>
     </message>
@@ -8955,7 +11885,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="104"/>
         <source>Mute</source>
-        <translation>Тихо</translation>
+        <translation>Заглушить</translation>
     </message>
 </context>
 <context>
@@ -8979,7 +11909,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="805"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
-        <translation>Нажмите &lt;%1&gt; и тащите мышью, чтобы создать копию.</translation>
+        <translation>Удерживайте &lt;%1&gt; при перетаскивании, чтобы создать копию.</translation>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="806"/>
@@ -9014,65 +11944,65 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="1126"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation>Тихо/громко (&lt;%1&gt; + middle click)</translation>
+        <translation>Тихо/громко (&lt;%1&gt; + щелчок средней кнопкой)</translation>
     </message>
 </context>
 <context>
     <name>TrackOperationsWidget</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1829"/>
+        <location filename="../../src/core/Track.cpp" line="1833"/>
         <source>Press &lt;%1&gt; while clicking on move-grip to begin a new drag&apos;n&apos;drop action.</source>
-        <translation type="unfinished"/>
+        <translation>Удерживайте нажатой клавишу &lt;%1&gt; при щелчке по захвату перемещения, чтобы начать новое перетаскивание.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1844"/>
+        <location filename="../../src/core/Track.cpp" line="1848"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1847"/>
-        <location filename="../../src/core/Track.cpp" line="1870"/>
+        <location filename="../../src/core/Track.cpp" line="1851"/>
+        <location filename="../../src/core/Track.cpp" line="1874"/>
         <source>Mute</source>
-        <translation>Тихо</translation>
+        <translation>Заглушить</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1852"/>
-        <location filename="../../src/core/Track.cpp" line="1873"/>
+        <location filename="../../src/core/Track.cpp" line="1856"/>
+        <location filename="../../src/core/Track.cpp" line="1877"/>
         <source>Solo</source>
         <translation>Соло</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2018"/>
+        <location filename="../../src/core/Track.cpp" line="2022"/>
         <source>Clone this track</source>
         <translation>Клонировать дорожку</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2021"/>
+        <location filename="../../src/core/Track.cpp" line="2025"/>
         <source>Remove this track</source>
         <translation>Удалить дорожку</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2026"/>
+        <location filename="../../src/core/Track.cpp" line="2030"/>
         <source>Clear this track</source>
         <translation>Очистить эту дорожку</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2028"/>
+        <location filename="../../src/core/Track.cpp" line="2032"/>
         <source>FX %1: %2</source>
         <translation>ЭФ %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2028"/>
+        <location filename="../../src/core/Track.cpp" line="2032"/>
         <source>Assign to new FX Channel</source>
         <translation>Назначить на другой канал ЭФфектов</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2040"/>
+        <location filename="../../src/core/Track.cpp" line="2044"/>
         <source>Turn all recording on</source>
         <translation>Включить всё на запись</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2041"/>
+        <location filename="../../src/core/Track.cpp" line="2045"/>
         <source>Turn all recording off</source>
         <translation>Выключить всю запись</translation>
     </message>
@@ -9082,67 +12012,67 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="443"/>
         <source>Modulate phase of oscillator 1 by oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать фазу осциллятора 1 сигналом с 2</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="451"/>
         <source>Modulate amplitude of oscillator 1 by oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать амплитуду осциллятора 1 сигналом с 2</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="459"/>
         <source>Mix output of oscillators 1 &amp; 2</source>
-        <translation type="unfinished"/>
+        <translation>Смешать выход осцилляторов 1 и 2</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="467"/>
         <source>Synchronize oscillator 1 with oscillator 2</source>
-        <translation>Синхронизировать первый осциллятор по второму</translation>
+        <translation>Синхронизировать осциллятор 1 с осц 2</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="476"/>
         <source>Modulate frequency of oscillator 1 by oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать частоту осциллятора 1 сигналом с 2</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="493"/>
         <source>Modulate phase of oscillator 2 by oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать фазу осциллятора 2 сигналом с 3</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="501"/>
         <source>Modulate amplitude of oscillator 2 by oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать амплитуду осциллятора 2 сигналом с 3</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="509"/>
         <source>Mix output of oscillators 2 &amp; 3</source>
-        <translation type="unfinished"/>
+        <translation>Смешать выход осцилляторов 2 и 3</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="517"/>
         <source>Synchronize oscillator 2 with oscillator 3</source>
-        <translation>Синхронизировать осциллятор 2 и 3</translation>
+        <translation>Синхронизировать осциллятор 2 с осц 3</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="525"/>
         <source>Modulate frequency of oscillator 2 by oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать частоту осциллятора 2 сигналом с 3</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="545"/>
         <source>Osc %1 volume:</source>
-        <translation>Громкость осциллятора %1:</translation>
+        <translation>Громкость осц %1:</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="551"/>
         <source>Osc %1 panning:</source>
-        <translation>Баланс для осциллятора %1:</translation>
+        <translation>Баланс осц %1:</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="556"/>
         <source>Osc %1 coarse detuning:</source>
-        <translation>Грубая подстройка осциллятора %1:</translation>
+        <translation>Грубая подстройка осц %1:</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="557"/>
@@ -9152,34 +12082,34 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="562"/>
         <source>Osc %1 fine detuning left:</source>
-        <translation>Точная подстройка левого канала осциллятора %1:</translation>
+        <translation>Точная подстройка осц %1 слева:</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="564"/>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="571"/>
         <source>cents</source>
-        <translation>Проценты</translation>
+        <translation>цент[а,ов]</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="569"/>
         <source>Osc %1 fine detuning right:</source>
-        <translation>Точная подстройка правого канала осциллятора %1:</translation>
+        <translation>Точная подстройка осц %1 справа:</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="576"/>
         <source>Osc %1 phase-offset:</source>
-        <translation>Сдвиг фазы осциллятора %1:</translation>
+        <translation>Сдвиг фазы осц %1:</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="578"/>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="585"/>
         <source>degrees</source>
-        <translation>градусы</translation>
+        <translation>°</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="583"/>
         <source>Osc %1 stereo phase-detuning:</source>
-        <translation>Подстройка стерео фазы осциллятора %1:</translation>
+        <translation>Подстройка стерео-фазы осциллятора %1:</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="596"/>
@@ -9194,17 +12124,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="615"/>
         <source>Saw wave</source>
-        <translation>Зигзаг</translation>
+        <translation>Пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="624"/>
         <source>Square wave</source>
-        <translation>Квадрат</translation>
+        <translation>Квадрат-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="634"/>
         <source>Moog-like saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Типа муг пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="643"/>
@@ -9219,6 +12149,62 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="660"/>
         <source>User-defined wave</source>
+        <translation>Своя волна</translation>
+    </message>
+</context>
+<context>
+    <name>VecControls</name>
+    <message>
+        <location filename="../../plugins/Vectorscope/VecControls.cpp" line="38"/>
+        <source>Display persistence amount</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Vectorscope/VecControls.cpp" line="39"/>
+        <source>Logarithmic scale</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Vectorscope/VecControls.cpp" line="40"/>
+        <source>High quality</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>VecControlsDialog</name>
+    <message>
+        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="63"/>
+        <source>HQ</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="64"/>
+        <source>Double the resolution and simulate continuous analog-like trace.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="71"/>
+        <source>Log. scale</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="72"/>
+        <source>Display amplitude on logarithmic scale to better see small values.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="83"/>
+        <source>Persist.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="84"/>
+        <source>Trace persistence: higher amount means the trace will stay bright for longer time.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="85"/>
+        <source>Trace persistence</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -9227,22 +12213,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="50"/>
         <source>Increment version number</source>
-        <translation>Увеличивающийся номер версии</translation>
+        <translation>Увеличить номер версии</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="52"/>
         <source>Decrement version number</source>
-        <translation>Понижающийся номер версии</translation>
+        <translation>Уменьшить номер версии</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="69"/>
         <source>Save Options</source>
-        <translation type="unfinished"/>
+        <translation>Параметры сохранения</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="163"/>
         <source> already exists. Do you want to replace it?</source>
-        <translation>уже существует. Хотите перезаписать?</translation>
+        <translation>уже существует. Заменить?</translation>
     </message>
 </context>
 <context>
@@ -9251,32 +12237,32 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/vestige/vestige.cpp" line="490"/>
         <location filename="../../plugins/vestige/vestige.cpp" line="662"/>
         <source>Open VST plugin</source>
-        <translation type="unfinished"/>
+        <translation>Открыть VST-плагин</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="502"/>
         <source>Control VST plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>Контроль VST-модуля из хоста LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="515"/>
         <source>Open VST plugin preset</source>
-        <translation type="unfinished"/>
+        <translation>Открыть пресет VST-плагина</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="528"/>
         <source>Previous (-)</source>
-        <translation>Предыдущий &lt;-&gt;</translation>
+        <translation>Предыдущий (−)</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="543"/>
         <source>Save preset</source>
-        <translation>Сохранить предустановку</translation>
+        <translation>Сохранить настройку</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="556"/>
         <source>Next (+)</source>
-        <translation>Следующий &lt;+&gt;</translation>
+        <translation>Следующий (+)</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="574"/>
@@ -9291,7 +12277,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="666"/>
         <source>DLL-files (*.dll)</source>
-        <translation>Бибилиотеки DLL (*.dll)</translation>
+        <translation>Библиотеки DLL (*.dll)</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="667"/>
@@ -9301,7 +12287,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="868"/>
         <source>No VST plugin loaded</source>
-        <translation type="unfinished"/>
+        <translation>Нет загруженного VST-модуля</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="876"/>
@@ -9316,7 +12302,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="893"/>
         <source> - VST plugin control</source>
-        <translation>- управление VST плагином</translation>
+        <translation> - управление VST-плагином</translation>
     </message>
 </context>
 <context>
@@ -9324,12 +12310,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/widgets/VisualizationWidget.cpp" line="61"/>
         <source>Oscilloscope</source>
-        <translation>Осцилоскоп</translation>
+        <translation>Осциллограф</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/VisualizationWidget.cpp" line="191"/>
         <source>Click to enable</source>
-        <translation>Нажать для включения</translation>
+        <translation>Включить мышью</translation>
     </message>
 </context>
 <context>
@@ -9337,27 +12323,27 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="76"/>
         <source>Show/hide</source>
-        <translation>Показать/Скрыть</translation>
+        <translation>Показать/скрыть</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="103"/>
         <source>Control VST plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>Контроль VST-модуля из хоста LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="119"/>
         <source>Open VST plugin preset</source>
-        <translation type="unfinished"/>
+        <translation>Открыть пресет VST-плагина</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="139"/>
         <source>Previous (-)</source>
-        <translation>Предыдущий &lt;-&gt;</translation>
+        <translation>Предыдущий (−)</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="161"/>
         <source>Next (+)</source>
-        <translation>Следующий &lt;+&gt;</translation>
+        <translation>Следующий (+)</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="195"/>
@@ -9382,7 +12368,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/vestige/vestige.cpp" line="352"/>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="144"/>
         <source>The VST plugin %1 could not be loaded.</source>
-        <translation>VST плагин %1 не может быть загружен.</translation>
+        <translation>VST-плагин %1 не загружается.</translation>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="481"/>
@@ -9393,7 +12379,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="482"/>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="540"/>
         <source>Vst Plugin Preset (*.fxp *.fxb)</source>
-        <translation>Предустановка VST плагина (*.fxp *.fxb)</translation>
+        <translation>Предустановка VST-плагина (*.fxp *.fxb)</translation>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="536"/>
@@ -9413,7 +12399,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="539"/>
         <source>Save Preset</source>
-        <translation>Сохранить предустановку</translation>
+        <translation>Сохранить настройку</translation>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="539"/>
@@ -9438,12 +12424,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="133"/>
         <source>Loading plugin</source>
-        <translation>Загрузка модуля</translation>
+        <translation>Загрузка плагина</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="134"/>
         <source>Please wait while loading VST plugin...</source>
-        <translation>Пожалуйста, подождите пока грузится VST плагин...</translation>
+        <translation>Пожалуйста, подождите пока грузится VST-плагин...</translation>
     </message>
 </context>
 <context>
@@ -9471,22 +12457,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="239"/>
         <source>Panning A1</source>
-        <translation>Панорамирование А1</translation>
+        <translation>Панорама А1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="240"/>
         <source>Panning A2</source>
-        <translation>Панорамирование А2</translation>
+        <translation>Панорама А2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="241"/>
         <source>Panning B1</source>
-        <translation>Панорамирование В1</translation>
+        <translation>Панорама В1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="242"/>
         <source>Panning B2</source>
-        <translation>Панорамирование В2</translation>
+        <translation>Панорама В2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="244"/>
@@ -9511,82 +12497,82 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="249"/>
         <source>Left detune A1</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка левого А1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="250"/>
         <source>Left detune A2</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка левого A2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="251"/>
         <source>Left detune B1</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка левого B1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="252"/>
         <source>Left detune B2</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка левого B2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="254"/>
         <source>Right detune A1</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка правого A1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="255"/>
         <source>Right detune A2</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка правого A2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="256"/>
         <source>Right detune B1</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка правого B1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="257"/>
         <source>Right detune B2</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка правого B2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="264"/>
         <source>A-B Mix</source>
-        <translation type="unfinished"/>
+        <translation>Микс A-B</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="265"/>
         <source>A-B Mix envelope amount</source>
-        <translation type="unfinished"/>
+        <translation>Уровень A-B микса огибающей</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="267"/>
         <source>A-B Mix envelope attack</source>
-        <translation type="unfinished"/>
+        <translation>Атака A-B микса огибающей</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="268"/>
         <source>A-B Mix envelope hold</source>
-        <translation type="unfinished"/>
+        <translation>Удержание A-B микса огибающей</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="269"/>
         <source>A-B Mix envelope decay</source>
-        <translation type="unfinished"/>
+        <translation>Спад A-B микса огибающей</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="271"/>
         <source>A1-B2 Crosstalk</source>
-        <translation type="unfinished"/>
+        <translation>Смешивание A1-B2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="273"/>
         <source>A2-A1 modulation</source>
-        <translation type="unfinished"/>
+        <translation>A2-A1 Модуляция</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="274"/>
         <source>B2-B1 modulation</source>
-        <translation type="unfinished"/>
+        <translation>B2-B1 Модуляция</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="276"/>
@@ -9626,7 +12612,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="696"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="697"/>
         <source>Left detune</source>
-        <translation>Левая отстройка</translation>
+        <translation>Подстройка слева</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="694"/>
@@ -9638,7 +12624,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="701"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="702"/>
         <source> cents</source>
-        <translation>Проценты</translation>
+        <translation>центы</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="699"/>
@@ -9646,37 +12632,37 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="701"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="702"/>
         <source>Right detune</source>
-        <translation>Правая отстройка</translation>
+        <translation>Подстройка справа</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="704"/>
         <source>A-B Mix</source>
-        <translation type="unfinished"/>
+        <translation>Микс A-B</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="706"/>
         <source>Mix envelope amount</source>
-        <translation type="unfinished"/>
+        <translation>Уровень огибающей микса</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="708"/>
         <source>Mix envelope attack</source>
-        <translation type="unfinished"/>
+        <translation>Атака огибающей микса</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="709"/>
         <source>Mix envelope hold</source>
-        <translation type="unfinished"/>
+        <translation>Удержание огибающей микса</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="710"/>
         <source>Mix envelope decay</source>
-        <translation>Смешивание затухания огибающей</translation>
+        <translation>Спад огибающей микса</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="712"/>
         <source>Crosstalk</source>
-        <translation type="unfinished"/>
+        <translation>Смешивание</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="729"/>
@@ -9701,42 +12687,42 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="762"/>
         <source>Mix output of A2 to A1</source>
-        <translation type="unfinished"/>
+        <translation>Смешать выход А2 с А1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="768"/>
         <source>Modulate amplitude of A1 by output of A2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать амплитуду A1 выходом с A2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="774"/>
         <source>Ring modulate A1 and A2</source>
-        <translation type="unfinished"/>
+        <translation>Кольцевая модуляция A1 и A2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="780"/>
         <source>Modulate phase of A1 by output of A2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать фазу A1 выходом с A2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="793"/>
         <source>Mix output of B2 to B1</source>
-        <translation>Смешать выходные из B2 в B1</translation>
+        <translation>Смешать выход из B2 в B1</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="799"/>
         <source>Modulate amplitude of B1 by output of B2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать амплитуду B1 выходом с B2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="805"/>
         <source>Ring modulate B1 and B2</source>
-        <translation type="unfinished"/>
+        <translation>Кольцевая модуляция B1 и B2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="811"/>
         <source>Modulate phase of B1 by output of B2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать фазу B1 выходом с B2</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="828"/>
@@ -9744,7 +12730,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="844"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="852"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation>Здесь вы можете рисовать собственный сигнал передвигая зажатой мышью по этому графу.</translation>
+        <translation>Нарисуйте кривую сигнала, двигая зажатую мышь по этому графу.</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="859"/>
@@ -9754,7 +12740,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="863"/>
         <source>Load a waveform from a sample file</source>
-        <translation>Загрузить форму волны из семпл-файла</translation>
+        <translation>Загрузить форму волны из сэмпл-файла</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="865"/>
@@ -9764,7 +12750,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="869"/>
         <source>Shift phase by -15 degrees</source>
-        <translation type="unfinished"/>
+        <translation>Сдвинуть фазу на -15°</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="871"/>
@@ -9774,7 +12760,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="875"/>
         <source>Shift phase by +15 degrees</source>
-        <translation type="unfinished"/>
+        <translation>Сдвинуть фазу на +15°</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="877"/>
@@ -9810,13 +12796,13 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="914"/>
         <source>Saw wave</source>
-        <translation>Зигзаг</translation>
+        <translation>Пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="916"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="920"/>
         <source>Square wave</source>
-        <translation>Квадрат</translation>
+        <translation>Квадрат-волна</translation>
     </message>
 </context>
 <context>
@@ -9829,17 +12815,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="91"/>
         <source>A1</source>
-        <translation type="unfinished"/>
+        <translation>A1</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="92"/>
         <source>A2</source>
-        <translation type="unfinished"/>
+        <translation>A2</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="93"/>
         <source>A3</source>
-        <translation type="unfinished"/>
+        <translation>A3</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="94"/>
@@ -9859,17 +12845,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="100"/>
         <source>Panning 1</source>
-        <translation type="unfinished"/>
+        <translation>Баланс 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="101"/>
         <source>Panning 2</source>
-        <translation type="unfinished"/>
+        <translation>Баланс 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="102"/>
         <source>Rel trans</source>
-        <translation type="unfinished"/>
+        <translation>Реле перехода</translation>
     </message>
 </context>
 <context>
@@ -9877,32 +12863,32 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="304"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation>Здесь вы можете рисовать собственный сигнал.</translation>
+        <translation>Нарисуйте свою форму волны двигая зажатой мышью по графу.</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="322"/>
         <source>Select oscillator W1</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать осциллятор W1</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="328"/>
         <source>Select oscillator W2</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать осциллятор W2</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="334"/>
         <source>Select oscillator W3</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать осциллятор W3</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="340"/>
         <source>Select output O1</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать выход О1</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="346"/>
         <source>Select output O2</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать выход О2</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="352"/>
@@ -9919,7 +12905,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="370"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="375"/>
         <source>Moog-saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Муг пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="377"/>
@@ -9931,13 +12917,13 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="383"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="387"/>
         <source>Saw wave</source>
-        <translation>Зигзаг</translation>
+        <translation>Пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="389"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="393"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Своя волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="395"/>
@@ -9949,7 +12935,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="403"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="408"/>
         <source>Square wave</source>
-        <translation>Квадрат</translation>
+        <translation>Квадрат-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="410"/>
@@ -9960,42 +12946,42 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="419"/>
         <source>WaveInterpolate</source>
-        <translation type="unfinished"/>
+        <translation>Волн. интерполяция</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="423"/>
         <source>ExpressionValid</source>
-        <translation type="unfinished"/>
+        <translation>ВыражениеВерно</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="433"/>
         <source>General purpose 1:</source>
-        <translation type="unfinished"/>
+        <translation>Общего назначения 1:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="437"/>
         <source>General purpose 2:</source>
-        <translation type="unfinished"/>
+        <translation>Общего назначения 2:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="441"/>
         <source>General purpose 3:</source>
-        <translation type="unfinished"/>
+        <translation>Общего назначения 3:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="445"/>
         <source>O1 panning:</source>
-        <translation type="unfinished"/>
+        <translation>O1 баланс:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="449"/>
         <source>O2 panning:</source>
-        <translation type="unfinished"/>
+        <translation>О2 баланс:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="453"/>
         <source>Release transition:</source>
-        <translation>Высвобождение перехода:</translation>
+        <translation>Переход затухания:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="466"/>
@@ -10013,17 +12999,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="115"/>
         <source>Filter frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота фильтра</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="116"/>
         <source>Filter resonance</source>
-        <translation type="unfinished"/>
+        <translation>Резонанс фильтра</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="117"/>
         <source>Bandwidth</source>
-        <translation>Ширина полосы</translation>
+        <translation>Полоса пропускания</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="118"/>
@@ -10033,17 +13019,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="119"/>
         <source>Resonance center frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота центра резонанса</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="120"/>
         <source>Resonance bandwidth</source>
-        <translation type="unfinished"/>
+        <translation>Полоса пропуска резонанса</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="121"/>
         <source>Forward MIDI control change events</source>
-        <translation type="unfinished"/>
+        <translation>Передавать события изменений MIDI управления</translation>
     </message>
 </context>
 <context>
@@ -10061,7 +13047,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="518"/>
         <source>Filter frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Частота фильтра:</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="519"/>
@@ -10071,7 +13057,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="522"/>
         <source>Filter resonance:</source>
-        <translation type="unfinished"/>
+        <translation>Резонанс фильтра:</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="523"/>
@@ -10091,12 +13077,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="530"/>
         <source>FM gain:</source>
-        <translation type="unfinished"/>
+        <translation>FM усиление:</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="531"/>
         <source>FM GAIN</source>
-        <translation>FM GAIN</translation>
+        <translation>FM УСИЛ</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="534"/>
@@ -10111,7 +13097,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="538"/>
         <source>Resonance bandwidth:</source>
-        <translation>Ширина полосы резонанса:</translation>
+        <translation>Полоса пропуска резонанса:</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="539"/>
@@ -10121,7 +13107,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="541"/>
         <source>Forward MIDI control changes</source>
-        <translation type="unfinished"/>
+        <translation>Передавать изменения MIDI управления</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="543"/>
@@ -10139,12 +13125,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="78"/>
         <source>Start of sample</source>
-        <translation>Начало записи</translation>
+        <translation>Начало сэмпла</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="79"/>
         <source>End of sample</source>
-        <translation>Конец записи</translation>
+        <translation>Конец сэмпла</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="80"/>
@@ -10154,7 +13140,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="81"/>
         <source>Reverse sample</source>
-        <translation>Перевернуть запись</translation>
+        <translation>Перевернуть сэмпл</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="82"/>
@@ -10179,12 +13165,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="103"/>
         <source>Linear</source>
-        <translation>Линеарный</translation>
+        <translation>Линейный</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="104"/>
         <source>Sinc</source>
-        <translation>Синх</translation>
+        <translation>Sinc</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="243"/>
@@ -10197,7 +13183,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="141"/>
         <source>Sample length</source>
-        <translation type="unfinished"/>
+        <translation>Длина сэмпла</translation>
     </message>
 </context>
 <context>
@@ -10205,7 +13191,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="340"/>
         <source>Sample length</source>
-        <translation type="unfinished"/>
+        <translation>Длина сэмпла</translation>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="347"/>
@@ -10228,7 +13214,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="376"/>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="383"/>
         <source>Saw wave</source>
-        <translation>Зигзаг</translation>
+        <translation>Пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="385"/>
@@ -10246,7 +13232,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="404"/>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="411"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Своя волна</translation>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="413"/>
@@ -10275,17 +13261,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="66"/>
         <source>Input gain:</source>
-        <translation>Входная мощность:</translation>
+        <translation>Входное усиление:</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="73"/>
         <source>OUTPUT</source>
-        <translation>Выход</translation>
+        <translation>ВЫХОД</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="74"/>
         <source>Output gain:</source>
-        <translation>Выходная мощность:</translation>
+        <translation>Выходное усиление:</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="79"/>
@@ -10300,12 +13286,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="85"/>
         <source>RELEASE</source>
-        <translation>ОТПУСК</translation>
+        <translation>ЗАТУХАНИЕ</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="86"/>
         <source>Peak release time:</source>
-        <translation>Время отпуска пика:</translation>
+        <translation>Время затухания пика:</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="90"/>
@@ -10317,19 +13303,19 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="97"/>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="102"/>
         <source>Smooth wavegraph</source>
-        <translation>Сглаженный волновой график</translation>
+        <translation>Сгладить волновой график</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="104"/>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="109"/>
         <source>Increase wavegraph amplitude by 1 dB</source>
-        <translation>Увеличить амплитуду графика волны на 1 dB</translation>
+        <translation>Увеличить амплитуду графика волны на 1 дБ</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="111"/>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="116"/>
         <source>Decrease wavegraph amplitude by 1 dB</source>
-        <translation>Уменьшить амплитуду графика волны на 1 dB</translation>
+        <translation>Уменьшить амплитуду графика волны на 1 дБ</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="119"/>
@@ -10339,7 +13325,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="124"/>
         <source>Process based on the maximum of both stereo channels</source>
-        <translation>Процесс основанный на максимуме от обоих каналов</translation>
+        <translation>Обработка по максимуму обоих стерео каналов</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="126"/>
@@ -10349,17 +13335,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="131"/>
         <source>Process based on the average of both stereo channels</source>
-        <translation>Процесс основанный на средней обоих каналов</translation>
+        <translation>Обработка по средней обоих стерео-каналов</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="133"/>
         <source>Stereo mode: unlinked</source>
-        <translation>Режим стерео: без связей</translation>
+        <translation>Режим стерео: раздельно</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="138"/>
         <source>Process each stereo channel independently</source>
-        <translation>Обрабатывает каждый стерео канал независимо</translation>
+        <translation>Обрабатывает каждый стерео-канал независимо</translation>
     </message>
 </context>
 <context>
@@ -10382,7 +13368,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_controls.cpp" line="45"/>
         <source>Release time</source>
-        <translation>Время отпуска</translation>
+        <translation>Время затухания</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_controls.cpp" line="47"/>
@@ -10393,7 +13379,7 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>graphModel</name>
     <message>
-        <location filename="../../src/gui/widgets/Graph.cpp" line="457"/>
+        <location filename="../../src/gui/widgets/Graph.cpp" line="458"/>
         <source>Graph</source>
         <translation>Граф</translation>
     </message>
@@ -10418,12 +13404,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="66"/>
         <source>Start distortion</source>
-        <translation>Начало искажения</translation>
+        <translation>Начало перегруза</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="67"/>
         <source>End distortion</source>
-        <translation>Конец искажения</translation>
+        <translation>Конец перегруза</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="68"/>
@@ -10433,7 +13419,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="69"/>
         <source>Envelope slope</source>
-        <translation type="unfinished"/>
+        <translation>Уклон огибающей</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="70"/>
@@ -10443,22 +13429,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="71"/>
         <source>Click</source>
-        <translation>Клик</translation>
+        <translation>Щелчок</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="72"/>
         <source>Frequency slope</source>
-        <translation type="unfinished"/>
+        <translation>Уклон частоты</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="73"/>
         <source>Start from note</source>
-        <translation>Стартовая нота</translation>
+        <translation>Начать с ноты</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="74"/>
         <source>End to note</source>
-        <translation>Конец для ноты</translation>
+        <translation>Закончить нотой</translation>
     </message>
 </context>
 <context>
@@ -10496,7 +13482,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="308"/>
         <source>Click:</source>
-        <translation>Клик:</translation>
+        <translation>Щелчок:</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="312"/>
@@ -10506,12 +13492,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="316"/>
         <source>Start distortion:</source>
-        <translation>Начало искажения:</translation>
+        <translation>Начало перегруза:</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="320"/>
         <source>End distortion:</source>
-        <translation>Конец искажения:</translation>
+        <translation>Конец перегруза:</translation>
     </message>
 </context>
 <context>
@@ -10615,7 +13601,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="75"/>
         <source>Control</source>
-        <translation>Управление</translation>
+        <translation>Контроль</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="77"/>
@@ -10659,7 +13645,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="277"/>
         <source>VCF Resonance</source>
-        <translation>Усиление VCF</translation>
+        <translation>Резонанс VCF</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="278"/>
@@ -10674,7 +13660,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="280"/>
         <source>Distortion</source>
-        <translation>Искажение</translation>
+        <translation>Перегруз</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="281"/>
@@ -10684,7 +13670,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="282"/>
         <source>Slide Decay</source>
-        <translation>Сдвиг затухания</translation>
+        <translation>Сдвиг спада</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="283"/>
@@ -10717,7 +13703,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="816"/>
         <source>Resonance:</source>
-        <translation>Отзвук:</translation>
+        <translation>Резонанс:</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="821"/>
@@ -10727,32 +13713,32 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="826"/>
         <source>Decay:</source>
-        <translation>Затухание:</translation>
+        <translation>Спад:</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="842"/>
         <source>303-es-que, 24dB/octave, 3 pole filter</source>
-        <translation>303-ий, 24дБ/октаву, 3-польный фильтр</translation>
+        <translation>303-й, 24 дБ/окт., 3-полюсный фильтр</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="847"/>
         <source>Slide Decay:</source>
-        <translation>Сдвиг затухания:</translation>
+        <translation>Сдвиг спада:</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="852"/>
         <source>DIST:</source>
-        <translation>ИСК:</translation>
+        <translation>DIST:</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="860"/>
         <source>Saw wave</source>
-        <translation>Зигзаг</translation>
+        <translation>Пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="867"/>
         <source>Click here for a saw-wave.</source>
-        <translation>Сгенерировать зигзаг.</translation>
+        <translation>Клик для пило волны</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="870"/>
@@ -10762,17 +13748,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="877"/>
         <source>Click here for a triangle-wave.</source>
-        <translation>Сгенерировать треугольный сигнал.</translation>
+        <translation>Нажать здесь для треугольной волны.</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="879"/>
         <source>Square wave</source>
-        <translation>Квадрат</translation>
+        <translation>Квадрат-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="886"/>
         <source>Click here for a square-wave.</source>
-        <translation>Сгенерировать квадрат.</translation>
+        <translation>Жми тут для квадрат волны.</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="889"/>
@@ -10782,7 +13768,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="896"/>
         <source>Click here for a square-wave with a rounded end.</source>
-        <translation>Создать квадратную волну закруглённую в конце.</translation>
+        <translation>Жми тут для квадратной волны скруглённой в конце.</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="899"/>
@@ -10802,7 +13788,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="915"/>
         <source>Click for a sine-wave.</source>
-        <translation>Сгенерировать гармонический (синусоидальный) сигнал.</translation>
+        <translation>Создать синусоиду.</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="918"/>
@@ -10813,52 +13799,52 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="925"/>
         <source>Click here for an exponential wave.</source>
-        <translation>Генерировать экспоненциальный сигнал.</translation>
+        <translation>Создать экспоненциальный сигнал.</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="936"/>
         <source>Click here for white-noise.</source>
-        <translation>Сгенерировать белый шум.</translation>
+        <translation>Создать белый шум.</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="939"/>
         <source>Bandlimited saw wave</source>
-        <translation>Пикообразная волна с ограниченой полосой частот</translation>
+        <translation>Тембр. пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="946"/>
         <source>Click here for bandlimited saw wave.</source>
-        <translation>Нажать здесь для пилообразной волны с ограниченной полосой.</translation>
+        <translation>Нажать здесь для тембр. пило-волны.</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="949"/>
         <source>Bandlimited square wave</source>
-        <translation>Прямоугольная волна с ограниченной полосой частот</translation>
+        <translation>Тембр. квадратная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="956"/>
         <source>Click here for bandlimited square wave.</source>
-        <translation>Нажать здесь для квадратной волны с ограниченной полосой.</translation>
+        <translation>Нажать здесь для тембр. квадратной волны </translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="959"/>
         <source>Bandlimited triangle wave</source>
-        <translation>Ограниченная треугольная волна с ограниченной частотной полосой</translation>
+        <translation>Тембр. треугольная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="966"/>
         <source>Click here for bandlimited triangle wave.</source>
-        <translation>Нажать здесь для треугольной волны с ограниченной полосой частот.</translation>
+        <translation>Нажать здесь для тембр. треугольной волны.</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="969"/>
         <source>Bandlimited moog saw wave</source>
-        <translation>Пружинная волна с ограниченной полосой</translation>
+        <translation>Тембр. пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="976"/>
         <source>Click here for bandlimited moog saw wave.</source>
-        <translation>Нажать здесь для пилообразной муг (moog) волны с ограниченной полосой.</translation>
+        <translation>Нажать здесь для тембр. пило-муг (moog) волны.</translation>
     </message>
 </context>
 <context>
@@ -10876,17 +13862,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="70"/>
         <source>Vibrato gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление вибрато</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="71"/>
         <source>Vibrato frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота вибрато</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="72"/>
         <source>Stick mix</source>
-        <translation type="unfinished"/>
+        <translation>Уровень барабанных палочек</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="73"/>
@@ -10906,7 +13892,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="76"/>
         <source>LFO depth</source>
-        <translation type="unfinished"/>
+        <translation>Глубина LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="77"/>
@@ -10951,7 +13937,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="95"/>
         <source>Agogo</source>
-        <translation>Дискотека</translation>
+        <translation>Агого</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="97"/>
@@ -10976,7 +13962,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="105"/>
         <source>Two fixed</source>
-        <translation type="unfinished"/>
+        <translation>Два постоянно</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="107"/>
@@ -10991,12 +13977,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="115"/>
         <source>Uniform bar</source>
-        <translation type="unfinished"/>
+        <translation>Одинаковый размер</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="117"/>
         <source>Tuned bar</source>
-        <translation type="unfinished"/>
+        <translation>Регулируемый размер</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="119"/>
@@ -11012,147 +13998,147 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>malletsInstrumentView</name>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="403"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="405"/>
         <source>Instrument</source>
         <translation>Инструмент</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="411"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="413"/>
         <source>Spread</source>
         <translation>Разброс</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="413"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="415"/>
         <source>Spread:</source>
         <translation>Разброс:</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="418"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="420"/>
         <source>Missing files</source>
         <translation>Файлы отсутствуют</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="419"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="421"/>
         <source>Your Stk-installation seems to be incomplete. Please make sure the full Stk-package is installed!</source>
         <translation>Похоже устновка Stk прошла не полностью. Пожалуйста, убедитесь, что пакет Stk полностью установлен!</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="453"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="455"/>
         <source>Hardness</source>
         <translation>Жёсткость</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="455"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="457"/>
         <source>Hardness:</source>
         <translation>Жёсткость:</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="458"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="460"/>
         <source>Position</source>
         <translation>Положение</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="460"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="462"/>
         <source>Position:</source>
         <translation>Положение:</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="463"/>
-        <source>Vibrato gain</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="465"/>
-        <source>Vibrato gain:</source>
-        <translation type="unfinished"/>
+        <source>Vibrato gain</source>
+        <translation>Усиление вибрато</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="468"/>
-        <source>Vibrato frequency</source>
-        <translation type="unfinished"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="467"/>
+        <source>Vibrato gain:</source>
+        <translation>Усиление вибрато:</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="470"/>
-        <source>Vibrato frequency:</source>
-        <translation type="unfinished"/>
+        <source>Vibrato frequency</source>
+        <translation>Частота вибрато</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="473"/>
-        <source>Stick mix</source>
-        <translation type="unfinished"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="472"/>
+        <source>Vibrato frequency:</source>
+        <translation>Частота вибрато:</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="475"/>
-        <source>Stick mix:</source>
-        <translation type="unfinished"/>
+        <source>Stick mix</source>
+        <translation>Уровень барабанных палочек</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="489"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="477"/>
+        <source>Stick mix:</source>
+        <translation>Уровень палочек:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="491"/>
         <source>Modulator</source>
         <translation>Модулятор</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="491"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="493"/>
         <source>Modulator:</source>
         <translation>Модулятор:</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="494"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="496"/>
         <source>Crossfade</source>
         <translation>Переход</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="496"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="498"/>
         <source>Crossfade:</source>
         <translation>Переход:</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="499"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="501"/>
         <source>LFO speed</source>
         <translation>Скорость LFO</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="501"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="503"/>
         <source>LFO speed:</source>
         <translation>Скорость LFO:</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="504"/>
-        <source>LFO depth</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="506"/>
-        <source>LFO depth:</source>
-        <translation type="unfinished"/>
+        <source>LFO depth</source>
+        <translation>Глубина LFO</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="509"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="508"/>
+        <source>LFO depth:</source>
+        <translation>Глубина LFO:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="511"/>
         <source>ADSR</source>
         <translation>ADSR</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="511"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="513"/>
         <source>ADSR:</source>
         <translation>ADSR:</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="529"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="531"/>
         <source>Pressure</source>
         <translation>Давление</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="531"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="533"/>
         <source>Pressure:</source>
         <translation>Давление:</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="539"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="541"/>
         <source>Speed</source>
         <translation>Скорость</translation>
     </message>
     <message>
-        <location filename="../../plugins/stk/mallets/mallets.cpp" line="541"/>
+        <location filename="../../plugins/stk/mallets/mallets.cpp" line="543"/>
         <source>Speed:</source>
         <translation>Скорость:</translation>
     </message>
@@ -11211,7 +14197,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="81"/>
         <source>Distortion</source>
-        <translation>Искажение</translation>
+        <translation>Перегруз</translation>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="82"/>
@@ -11224,7 +14210,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="435"/>
         <source>Distortion:</source>
-        <translation>Искажение:</translation>
+        <translation>Перегруз:</translation>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="443"/>
@@ -11255,7 +14241,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="529"/>
         <source>Osc %1 stereo detuning</source>
-        <translation>Осц %1 стерео расстройка</translation>
+        <translation>Осц %1 стерео подстройка</translation>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="531"/>
@@ -11273,7 +14259,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="39"/>
         <source>Qsynth: Channel Preset</source>
-        <translation>Преднастройка канала: Qsynth</translation>
+        <translation>Qsynth : предустановка канала</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="67"/>
@@ -11288,7 +14274,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="98"/>
         <source>Program selector</source>
-        <translation>Выбор программ</translation>
+        <translation>Выбор программы</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="123"/>
@@ -11344,14 +14330,14 @@ Please make sure you have read-permission to the file and the directory containi
         <translation>Бит-дробилка с передискретизацией</translation>
     </message>
     <message>
-        <location filename="../../plugins/carlapatchbay/carlapatchbay.cpp" line="37"/>
+        <location filename="../../plugins/carlapatchbay/carlapatchbay.cpp" line="38"/>
         <source>Carla Patchbay Instrument</source>
         <translation>Инструмент Carla Patchbay</translation>
     </message>
     <message>
-        <location filename="../../plugins/carlarack/carlarack.cpp" line="37"/>
+        <location filename="../../plugins/carlarack/carlarack.cpp" line="38"/>
         <source>Carla Rack Instrument</source>
-        <translation>Карла инструментальная стойка</translation>
+        <translation>Инструментальная стойка Carla</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQ.cpp" line="39"/>
@@ -11361,12 +14347,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Delay/DelayEffect.cpp" line="38"/>
         <source>A native delay plugin</source>
-        <translation>Встроенный delay плагин</translation>
+        <translation>Встроенный плагин задержки</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilter.cpp" line="39"/>
         <source>A Dual filter plugin</source>
-        <translation>Двух фильтровый плагин</translation>
+        <translation>Плагин двойного фильтра</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor.cpp" line="41"/>
@@ -11381,12 +14367,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Flanger/FlangerEffect.cpp" line="38"/>
         <source>A native flanger plugin</source>
-        <translation type="unfinished"/>
+        <translation>Встроенный плагин фланжера</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="56"/>
         <source>Emulation of GameBoy (TM) APU</source>
-        <translation>Эмуляция GameBoy (TM)</translation>
+        <translation>Эмуляция GameBoy™ APU</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="65"/>
@@ -11396,7 +14382,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="32"/>
         <source>Filter for importing Hydrogen files into LMMS</source>
-        <translation>Фильтр для импорта Hydrogen файлов в LMMS</translation>
+        <translation>Фильтр для импорта файлов Hydrogen в LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="48"/>
@@ -11421,22 +14407,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/MidiExport/MidiExport.cpp" line="50"/>
         <source>Filter for exporting MIDI-files from LMMS</source>
-        <translation>Фильтр для экспорта MIDI файлов из LMMS</translation>
+        <translation>Фильтр для экспорта MIDI-файлов из LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="67"/>
         <source>Filter for importing MIDI-files into LMMS</source>
-        <translation>Фильтр для включения файла MIDI в проект ЛММС</translation>
+        <translation>Фильтр для импорта MIDI-файлов в LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="48"/>
         <source>Monstrous 3-oscillator synth with modulation matrix</source>
-        <translation>Монстро 3-осциляторный синт с матрицей модуляции</translation>
+        <translation>Чудовищный 3-осциляторный синт с матрицей модуляции</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEcho.cpp" line="37"/>
         <source>A multitap echo delay plugin</source>
-        <translation>Плагин мультитач задержки эха</translation>
+        <translation>Плагин многократной задержки эха</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="47"/>
@@ -11446,7 +14432,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="71"/>
         <source>2-operator FM Synth</source>
-        <translation>2-режимный синт модуляции частот (FM synth)</translation>
+        <translation>2-параметровый FM-синт</translation>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="54"/>
@@ -11466,7 +14452,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSC.cpp" line="38"/>
         <source>Reverb algorithm by Sean Costello</source>
-        <translation type="unfinished"/>
+        <translation>Алгоритм реверберации Шона Костелло</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="58"/>
@@ -11476,14 +14462,14 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/sfxr/sfxr.cpp" line="65"/>
         <source>LMMS port of sfxr</source>
-        <translation>LMMS порт SFXR</translation>
+        <translation>LMMS-порт SFXR</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="78"/>
         <source>Emulation of the MOS6581 and MOS8580 SID.
 This chip was used in the Commodore 64 computer.</source>
-        <translation>Эмуляция MOS6581 и MOS8580.
-Использовалось на компьютере Commodore 64.</translation>
+        <translation>Эмуляция SID MOS6581 и MOS8580.
+Этот чип использовался в компьютере Commodore 64.</translation>
     </message>
     <message>
         <location filename="../../plugins/stereo_enhancer/stereo_enhancer.cpp" line="38"/>
@@ -11503,22 +14489,22 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="52"/>
         <source>Three powerful oscillators you can modulate in several ways</source>
-        <translation>Три мощных осциллятора, которые можно модулировать несколькими способами</translation>
+        <translation>Три мощных осциллятора, модулируемые несколькими способами</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="72"/>
         <source>VST-host for using VST(i)-plugins within LMMS</source>
-        <translation>VST - хост для поддержки модулей VST(i) в LMMS</translation>
+        <translation>VST-хост для поддержки модулей VST(i) в LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="51"/>
         <source>Vibrating string modeler</source>
-        <translation>Модуляция вибрирующих струн</translation>
+        <translation>Моделирование вибрирующих струн</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="44"/>
         <source>plugin for using arbitrary VST effects inside LMMS.</source>
-        <translation>Плагин для использования любых VST эффектов в ЛММС</translation>
+        <translation>Плагин для использования любых VST-эффектов в LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="47"/>
@@ -11533,7 +14519,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="56"/>
         <source>Mathematical expression parser</source>
-        <translation type="unfinished"/>
+        <translation>Анализатор математических выражений</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="61"/>
@@ -11543,6 +14529,11 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/Analyzer.cpp" line="45"/>
         <source>A graphical spectrum analyzer.</source>
+        <translation>Графический анализатор спектра</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vectorscope/Vectorscope.cpp" line="36"/>
+        <source>A stereo field visualizer.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -11566,17 +14557,17 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="101"/>
         <source>Reverb</source>
-        <translation>Эхо</translation>
+        <translation>Реверберация</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="102"/>
         <source>Reverb room size</source>
-        <translation type="unfinished"/>
+        <translation>Размер помещения реверберации</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="103"/>
         <source>Reverb damping</source>
-        <translation type="unfinished"/>
+        <translation>Затухание реверберации</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="104"/>
@@ -11591,12 +14582,12 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="106"/>
         <source>Chorus</source>
-        <translation>Хор (припев)</translation>
+        <translation>Хорус</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="107"/>
         <source>Chorus voices</source>
-        <translation type="unfinished"/>
+        <translation>Голоса хоруса</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="108"/>
@@ -11606,17 +14597,17 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="109"/>
         <source>Chorus speed</source>
-        <translation type="unfinished"/>
+        <translation>Скорость хоруса</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="110"/>
         <source>Chorus depth</source>
-        <translation type="unfinished"/>
+        <translation>Глубина хоруса</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="409"/>
         <source>A soundfont %1 could not be loaded.</source>
-        <translation>Soundfont %1 не удаётся загрузить.</translation>
+        <translation>SoundFont %1 не удаётся загрузить.</translation>
     </message>
 </context>
 <context>
@@ -11630,7 +14621,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="928"/>
         <source>Choose patch</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать патч</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="963"/>
@@ -11640,17 +14631,17 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="976"/>
         <source>Apply reverb (if supported)</source>
-        <translation>Создать эхо (если поддерживается)</translation>
+        <translation>Применить эффект реверберации (если поддерживается)</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="980"/>
         <source>Room size:</source>
-        <translation type="unfinished"/>
+        <translation>Размер помещения:</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="984"/>
         <source>Damping:</source>
-        <translation type="unfinished"/>
+        <translation>Приглушение:</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="988"/>
@@ -11666,7 +14657,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1012"/>
         <source>Apply chorus (if supported)</source>
-        <translation>Создать эффект хора (если поддерживается)</translation>
+        <translation>Применить эффект хорус (если поддерживается)</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1015"/>
@@ -11686,7 +14677,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1137"/>
         <source>SoundFont Files (*.sf2 *.sf3)</source>
-        <translation type="unfinished"/>
+        <translation>Файлы SoundFont (*.sf2 *.sf3)</translation>
     </message>
 </context>
 <context>
@@ -11702,12 +14693,12 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="125"/>
         <source>Cutoff frequency</source>
-        <translation>Срез частот</translation>
+        <translation>Частота среза</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="126"/>
         <source>Resonance</source>
-        <translation>Усиление</translation>
+        <translation>Резонанс</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="127"/>
@@ -11717,7 +14708,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="130"/>
         <source>Voice 3 off</source>
-        <translation>Голос 3 откл</translation>
+        <translation>Голос 3 откл.</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="131"/>
@@ -11740,7 +14731,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="499"/>
         <source>Resonance:</source>
-        <translation>Усиление:</translation>
+        <translation>Резонанс:</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="503"/>
@@ -11751,22 +14742,22 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="510"/>
         <source>High-pass filter </source>
-        <translation type="unfinished"/>
+        <translation>Фильтр верхних частот</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="516"/>
         <source>Band-pass filter </source>
-        <translation type="unfinished"/>
+        <translation>Полосовой фильтр</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="522"/>
         <source>Low-pass filter </source>
-        <translation type="unfinished"/>
+        <translation>Фильтр нижних частот</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="534"/>
         <source>Voice 3 off </source>
-        <translation type="unfinished"/>
+        <translation>Голос 3 откл.</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="540"/>
@@ -11782,13 +14773,13 @@ This chip was used in the Commodore 64 computer.</source>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="555"/>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="670"/>
         <source>Attack:</source>
-        <translation>Вступление:</translation>
+        <translation>Атака:</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="559"/>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="676"/>
         <source>Decay:</source>
-        <translation>Затухание:</translation>
+        <translation>Спад:</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="563"/>
@@ -11799,22 +14790,22 @@ This chip was used in the Commodore 64 computer.</source>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="567"/>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="682"/>
         <source>Release:</source>
-        <translation>Убывание:</translation>
+        <translation>Затухание:</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="571"/>
         <source>Pulse Width:</source>
-        <translation>Длительность импульса:</translation>
+        <translation>Длина импульса:</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="575"/>
         <source>Coarse:</source>
-        <translation>Грубость:</translation>
+        <translation>Грубо:</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="584"/>
         <source>Pulse wave</source>
-        <translation type="unfinished"/>
+        <translation>Пульсирующая волна</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="592"/>
@@ -11824,7 +14815,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="600"/>
         <source>Saw wave</source>
-        <translation>Зигзаг</translation>
+        <translation>Пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="608"/>
@@ -11839,12 +14830,12 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="634"/>
         <source>Ring modulation</source>
-        <translation type="unfinished"/>
+        <translation>Круговая модуляция</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="643"/>
         <source>Filtered</source>
-        <translation>Фильтровать</translation>
+        <translation>Фильтр.</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="652"/>
@@ -11854,7 +14845,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="688"/>
         <source>Pulse width:</source>
-        <translation type="unfinished"/>
+        <translation>Длина импульса</translation>
     </message>
 </context>
 <context>
@@ -11934,7 +14925,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="341"/>
         <source>Please wait while loading the VST plugin...</source>
-        <translation type="unfinished"/>
+        <translation>Подождите, пока грузится VST-плагин…</translation>
     </message>
 </context>
 <context>
@@ -11942,12 +14933,12 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="76"/>
         <source>String %1 volume</source>
-        <translation>Громкость %1-й струны</translation>
+        <translation>Громкость %1 струны</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="80"/>
         <source>String %1 stiffness</source>
-        <translation>Жёсткость %1-й струны</translation>
+        <translation>Жёсткость %1 струны</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="84"/>
@@ -11957,27 +14948,27 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="88"/>
         <source>Pickup %1 position</source>
-        <translation>Положение %1-го звукоснимателя</translation>
+        <translation>Положение %1 звукоснимателя</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="92"/>
         <source>String %1 panning</source>
-        <translation type="unfinished"/>
+        <translation>Стерео-баланс струны %1</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="96"/>
         <source>String %1 detune</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка струны %1</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="100"/>
         <source>String %1 fuzziness</source>
-        <translation type="unfinished"/>
+        <translation>Плавание струны:</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="104"/>
         <source>String %1 length</source>
-        <translation type="unfinished"/>
+        <translation>Длина струны %1</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="108"/>
@@ -11987,7 +14978,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="112"/>
         <source>String %1</source>
-        <translation type="unfinished"/>
+        <translation>Струна %1</translation>
     </message>
 </context>
 <context>
@@ -11995,12 +14986,12 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="363"/>
         <source>String volume:</source>
-        <translation type="unfinished"/>
+        <translation>Громкость струны:</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="367"/>
         <source>String stiffness:</source>
-        <translation>Жёсткость:</translation>
+        <translation>Натяжение струны:</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="373"/>
@@ -12015,12 +15006,12 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="382"/>
         <source>String panning:</source>
-        <translation type="unfinished"/>
+        <translation>Стерео-баланс струны:</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="386"/>
         <source>String detune:</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка струны:</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="390"/>
@@ -12035,7 +15026,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="401"/>
         <source>Impulse</source>
-        <translation type="unfinished"/>
+        <translation>Импульс</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="426"/>
@@ -12055,7 +15046,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="462"/>
         <source>Enable/disable string</source>
-        <translation type="unfinished"/>
+        <translation>Включить/отключить струну</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="466"/>
@@ -12078,7 +15069,7 @@ This chip was used in the Commodore 64 computer.</source>
         <location filename="../../plugins/vibed/vibed.cpp" line="497"/>
         <location filename="../../plugins/vibed/vibed.cpp" line="504"/>
         <source>Saw wave</source>
-        <translation>Зигзаг</translation>
+        <translation>Пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="509"/>
@@ -12096,7 +15087,7 @@ This chip was used in the Commodore 64 computer.</source>
         <location filename="../../plugins/vibed/vibed.cpp" line="533"/>
         <location filename="../../plugins/vibed/vibed.cpp" line="540"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Своя волна</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="545"/>
@@ -12121,37 +15112,37 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="97"/>
         <source>Voice %1 attack</source>
-        <translation>Вступление %1-го голоса</translation>
+        <translation>Атака %1 голоса</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="99"/>
         <source>Voice %1 decay</source>
-        <translation>Затухание %1-го голоса</translation>
+        <translation>Спад %1 голоса</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="101"/>
         <source>Voice %1 sustain</source>
-        <translation>Выдержка для %1-го голоса</translation>
+        <translation>Выдержка %1 голоса</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="103"/>
         <source>Voice %1 release</source>
-        <translation>Убывание %1-го голоса</translation>
+        <translation>Затухание голоса %1</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="105"/>
         <source>Voice %1 coarse detuning</source>
-        <translation>Подстройка %1-го голоса (грубо)</translation>
+        <translation>Подстройка %1 голоса (грубо)</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="107"/>
         <source>Voice %1 wave shape</source>
-        <translation>Форма сигнала для %1-го голоса</translation>
+        <translation>Форма сигнала для %1 голоса</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="109"/>
         <source>Voice %1 sync</source>
-        <translation>Синхронизация %1-го голоса</translation>
+        <translation>Синхронизация %1 голоса</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="110"/>
@@ -12161,7 +15152,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="111"/>
         <source>Voice %1 filtered</source>
-        <translation>Фильтрованный %1-й голос</translation>
+        <translation>Фильтрованный %1 голос</translation>
     </message>
     <message>
         <location filename="../../plugins/sid/sid_instrument.cpp" line="112"/>
@@ -12184,7 +15175,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="73"/>
         <source>OUTPUT</source>
-        <translation>Выход</translation>
+        <translation>ВЫХОД</translation>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="74"/>
@@ -12201,24 +15192,24 @@ This chip was used in the Commodore 64 computer.</source>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="83"/>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="88"/>
         <source>Smooth wavegraph</source>
-        <translation>Сглаженный волновой график</translation>
+        <translation>Сгладить волновой график</translation>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="90"/>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="95"/>
         <source>Increase wavegraph amplitude by 1 dB</source>
-        <translation>Увеличить амплитуду графика волны на 1 dB</translation>
+        <translation>Увеличить амплитуду графика волны на 1 дБ</translation>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="97"/>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="102"/>
         <source>Decrease wavegraph amplitude by 1 dB</source>
-        <translation>Уменьшить амплитуду графика волны на 1 dB</translation>
+        <translation>Уменьшить амплитуду графика волны на 1 дБ</translation>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="105"/>
         <source>Clip input</source>
-        <translation>Срезать выходной сигнал</translation>
+        <translation>Срезать входной сигнал</translation>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="108"/>
