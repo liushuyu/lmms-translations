@@ -6362,7 +6362,7 @@ Copyright (C) 2017 ROLI Ltd.</source>
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaEffect.cpp" line="80"/>
         <source>Unknown LADSPA plugin %1 requested.</source>
-        <translation>Le greffon LDASPA %1 demandé est inconnu.</translation>
+        <translation>Le greffon LADSPA %1 demandé est inconnu.</translation>
     </message>
 </context>
 <context>
