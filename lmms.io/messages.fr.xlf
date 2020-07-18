@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="evAjxDA" resname="Docs">
         <source>Docs</source>
-        <target>Docs</target>
+        <target>Documents</target>
         
       </trans-unit>
       <trans-unit id="Tae9Qqu" resname="Forum">
@@ -41,7 +41,7 @@
       </trans-unit>
       <trans-unit id="1H18sOT" resname="More">
         <source>More</source>
-        <target>Davantage</target>
+        <target>Plus</target>
         
       </trans-unit>
       <trans-unit id="mhXcnGL" resname="Showcase">
@@ -61,17 +61,19 @@
       </trans-unit>
       <trans-unit id="H2zLuBd" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
         <source>We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</source>
-        <target>Navré, quelque chose a été de travers lors de la réception des infos de la dernière version. Vous pouvez toujours télécharger les version sur &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt; (en anglais).</target>
+        <target>Nous sommes désolés, quelque chose s'est mal passé lors de la recherche des dernières informations de version. Vous pouvez toujours télécharger les versions sur &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="f.UFHnN" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 	Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>LMMS est inclus dans les dépôts de paquets de la plupart des grandes distributions Linux.&lt;br&gt;
+Veuillez &lt;a href=&quot;/get-involved/#contact&quot;&gt;nous contacter&lt;/a&gt; si votre distribution n'est pas répertoriée ici.</target>
         
       </trans-unit>
       <trans-unit id="LO1QDjg" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
         <source>For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.</source>
-        <target>Pour installer LMMS sur des distributions basées sur Debian comme Debian elle-même, Ubuntu, ou Linux Mint, cliquez simplement sur le bouton ci-dessous.</target>
+        <target>Pour installer LMMS sur des distributions basées sur Debian, comme Debian lui-même, Ubuntu ou Linux Mint, il vous suffit simplement de cliquer sur le bouton ci-dessous.</target>
         
       </trans-unit>
       <trans-unit id="G4TfEor" resname="Install LMMS now">
@@ -86,11 +88,12 @@
       </trans-unit>
       <trans-unit id="EOXdih0" resname="If this doesn't work for you, run this command in a terminal.">
         <source>If this doesn't work for you, run this command in a terminal.</source>
-        <target>Si cela ne fonctionnait pas pour vous, lancez cette commande dans un terminal.</target>
+        <target>Si cela ne fonctionne pas pour vous, exécutez cette commande dans un terminal.</target>
         
       </trans-unit>
       <trans-unit id="unby17C" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
         <source>If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.</source>
+        <target>Si les dépôts traditionnels sont en retard sur les versions, essayez le &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;dépôt KXStudio&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="jHa21vl" resname="VST Support">
@@ -100,20 +103,22 @@
       </trans-unit>
       <trans-unit id="PN0uK90" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
         <source>If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.</source>
+        <target>Si votre distribution offre un support VST (qui nécessite l'installation de Wine), celui-ci est généralement proposé dans un package séparé. Par exemple, en utilisant le &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;dépôt KXStudio&lt;/a&gt;, exécutez cette commande dans un terminal.</target>
         
       </trans-unit>
       <trans-unit id="f.eEeY2" resname="Run the following command as root in a terminal:">
         <source>Run the following command as root in a terminal:</source>
-        <target>Lancez la commande suivante en tant qu'administrateur dans un terminal :</target>
+        <target>Exécutez la commande suivante en tant qu'administrateur dans un terminal :</target>
         
       </trans-unit>
       <trans-unit id="z9xAq9s" resname="Run the following command in a terminal:">
         <source>Run the following command in a terminal:</source>
-        <target>Lancez la commande suivante dans un terminal :</target>
+        <target>Exécutez la commande suivante dans un terminal :</target>
         
       </trans-unit>
       <trans-unit id="eJUdOr0" resname="For VST support, please install wine or wine-staging from the repository">
         <source>For VST support, please install wine or wine-staging from the repository</source>
+        <target>Pour le support VST, veuillez installer wine ou wine-staging à partir du dépôt</target>
         
       </trans-unit>
       <trans-unit id=".uMu3cY" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
@@ -138,7 +143,7 @@
       </trans-unit>
       <trans-unit id="D9BgqO1" resname="If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.">
         <source>If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.</source>
-        <target>Si votre distribution Linux ne fournit pas de paquet lmms (ou seulement un vieu paquet), vous pouvez toujours construire LMMS depuis les sources. Visitez le &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;wiki de développement de LMMS sur GitHub&lt;/a&gt; pour des instructions concernant la compilation de LMMS pour Linux.</target>
+        <target>Si votre distribution Linux ne fournit pas de paquet lmms (ou uniquement un paquet obsolète), vous pouvez toujours construire LMMS à partir des sources. Visitez le &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;wiki de développement LMMS sur GitHub&lt;/a&gt; pour obtenir des instructions sur la façon de compiler LMMS pour Linux.</target>
         
       </trans-unit>
       <trans-unit id="IAenq0c" resname="Download LMMS">
@@ -148,7 +153,7 @@
       </trans-unit>
       <trans-unit id="618mGB6" resname="Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:">
         <source>Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:</source>
-        <target>Télécharger et utiliser LMMS est libre et gratuit ! Choisissez simplement le système d'exploitation sur lequel vous allez utiliser LMMS :</target>
+        <target>Le téléchargement et l'utilisation de LMMS sont gratuits ! Il vous suffit de choisir le système d'exploitation sur lequel vous souhaitez utiliser LMMS :</target>
         
       </trans-unit>
       <trans-unit id="PmTQgHE" resname="Install LMMS on Linux">
@@ -168,7 +173,7 @@
       </trans-unit>
       <trans-unit id="GUjytCK" resname="Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running">
         <source>Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running</source>
-        <target>Faite un &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; pour paramétrer l'exécutable &lt;code&gt;.AppImage&lt;/code&gt; avant son lancement</target>
+        <target>Effectuez un &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; pour paramétrer l'exécutable &lt;code&gt;.AppImage&lt;/code&gt; avant son lancement</target>
         
       </trans-unit>
       <trans-unit id="A8g9Yp6" resname="Beta Versions">
@@ -203,7 +208,7 @@
       </trans-unit>
       <trans-unit id="QNAnU4Y" resname="Downloads labeled Beta are pre-release software, stability may suffer.">
         <source>Downloads labeled Beta are pre-release software, stability may suffer.</source>
-        <target>Les téléchargements étiquetés bêta sont des pré-versions du logiciel, la stabilité pourrait ne pas être au rendez-vous</target>
+        <target>Les téléchargements étiquetés &quot;Bêta&quot; sont des pré-versions du logiciel ; la stabilité pourrait ne pas être au rendez-vous.</target>
         
       </trans-unit>
       <trans-unit id="VA2zwSI" resname="Previous releases">
@@ -213,7 +218,7 @@
       </trans-unit>
       <trans-unit id="NkbaYUi" resname="Show release notes">
         <source>Show release notes</source>
-        <target>Afficher les notes de versions (en anglais)</target>
+        <target>Afficher les notes de version</target>
         
       </trans-unit>
       <trans-unit id="qcNxvc6" resname="LMMS is a free, open-source software built entirely by a small number of&#10;&#9;volunteers in their free time. But to keep the project going, we need this&#10;&#9;number to grow. So if you feel like giving something back to the community,&#10;&#9;join us in making LMMS better!">
@@ -221,10 +226,10 @@
 	volunteers in their free time. But to keep the project going, we need this
 	number to grow. So if you feel like giving something back to the community,
 	join us in making LMMS better!</source>
-        <target>LMMS est un logiciel libre, à source ouverte, et gratuit, fabriqué entièrement par un petit nombre de
-	volontaires sur leur temps libre. Pour pouvoir continuer ce projet, nous avons besoin que ce
-	nombre grandisse. Si vous souhaitez redonner quelque chose à la communauté, rejoignez-nous pour
-	améliorer LMMS !</target>
+        <target>LMMS est un logiciel libre et gratuit, entièrement construit par un petit nombre de
+	bénévoles pendant leur temps libre. Mais pour que le projet continue, nous avons besoin
+	que ce nombre augmente. Alors si vous souhaitez donner quelque chose en retour à la communauté,
+	rejoignez-nous pour améliorer LMMS !</target>
         
       </trans-unit>
       <trans-unit id="9CFIxXY" resname="What you can do">
@@ -234,7 +239,7 @@
       </trans-unit>
       <trans-unit id="0Y_zD6N" resname="There are multiple ways of contributing:">
         <source>There are multiple ways of contributing:</source>
-        <target>Il y a plusieurs façons de s'impliquer :</target>
+        <target>Il existe de nombreuses façons de contribuer :</target>
         
       </trans-unit>
       <trans-unit id="gnURxlL" resname="Join Development">
@@ -246,9 +251,9 @@
         <source>We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt
 					   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with
 					   coding!</source>
-        <target>Nous avons vraiment besoin de nouveaux développeurs qui rejoignent notre équipe. LMMS est écrit en C++ et utilise le
-					   cadre de travail Qt. Si vous les connaissez un tant soit peu, n'hésitez pas à vous salir avec
-					   le code !</target>
+        <target>Nous avons désespérément besoin de nouveaux développeurs pour rejoindre notre équipe. LMMS est écrit en C++ à l'aide du
+					  Framework Qt. Si vous vous y connaissez un peu, n'hésitez pas à vous lancer
+					  dans le codage !</target>
         
       </trans-unit>
       <trans-unit id="YIACglk" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
@@ -256,33 +261,32 @@
 					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place
 					   to introduce yourself.</source>
-        <target>Consultez notre &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;Wiki GitHub&lt;/a&gt; (en anglais) et notre
-					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;logiciel de suivi des bogues&lt;/a&gt; (en anglais) pour commencer. En outre, la
-					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;liste de diffusion&lt;/a&gt; (en anglais) de LMMS
-					   est un bon endroit pour vous présenter.</target>
+        <target>Pour commencer, consultez notre &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;Wiki GitHub&lt;/a&gt; et notre
+					  &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;outil de suivi des bugs&lt;/a&gt;. De plus, la &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;liste de diffusion&lt;/a&gt; LMMS est un excellent endroit
+					 pour vous présenter.</target>
         
       </trans-unit>
       <trans-unit id="FSzxUcg" resname="Website &amp; Docs">
         <source>Website &amp; Docs</source>
-        <target>Site internet &amp; documentation</target>
+        <target>Site Web et documents</target>
         
       </trans-unit>
       <trans-unit id="5DVpnpU" resname="You can help us by improving this website or documenting the software. The website sources are in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.">
         <source>You can help us by improving this website or documenting the software. The website sources are in our
 					   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a
 					   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.</source>
-        <target>Vous pouvez nous aider à améliorer le site web ou à documenter le logiciel. Les sources du site web sont dans notre dépôt
-					   GitHub &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt; (en anglais), notre documentation est hébergée sur une
-					   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;instance MediaWiki&lt;/a&gt; (en anglais).</target>
+        <target>Vous pouvez nous aider en améliorant ce site Web ou en documentant le logiciel. Les sources du site Web sont disponibles dans
+					   notre dépôt GitHub &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, et notre documentation est hébergée
+					   par &lt;a href=&quot;//lmms.io/wiki&quot;&gt;une instance de MediaWiki&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="mxP7dw_" resname="Public registration on our Wiki is disabled due to spam issues. Please post to the&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're&#10;&#9;&#9;&#9;&#9;&#9;   interested in helping out with the documentation!">
         <source>Public registration on our Wiki is disabled due to spam issues. Please post to the
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're
 					   interested in helping out with the documentation!</source>
-        <target>Les inscriptions publiques à notre Wiki sont désactivées à cause de problèmes de spam. Veuillez envoyer un message à la
-					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;liste de diffusion&lt;/a&gt; (en anglais) si vous
-					   êtes intéressés pour aider avec la documentation !</target>
+        <target>L'enregistrement public sur notre Wiki est désactivé en raison de problèmes de spam. Veuillez nous envoyer un message sur la
+					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;liste de diffusion&lt;/a&gt; si vous
+					   souhaitez nous aider avec la documentation !</target>
         
       </trans-unit>
       <trans-unit id="yR7g8nm" resname="Donate">
@@ -293,12 +297,13 @@
       <trans-unit id="LUNpyrn" resname="Even though donations are not the thing we need the most (that'd be developers), they help us pay&#10;&#9;&#9;&#9;&#9;&#9;   our bills, for our domain lmms.io for instance.">
         <source>Even though donations are not the thing we need the most (that'd be developers), they help us pay
 					   our bills, for our domain lmms.io for instance.</source>
-        <target>Même si les donations ne sont pas ce dont nous avons le plus besoin (nous avons besoin de développeurs), elles nous aident à payer nos factures, pour le domaine lmms.io par exemple.</target>
+        <target>Même si les dons ne sont pas ce dont nous avons le plus besoin (ce serait plutôt les développeurs), ils nous aident à payer
+					   nos factures, pour notre domaine lmms.io par exemple.</target>
         
       </trans-unit>
       <trans-unit id="7yTl1LS" resname="Donate via PayPal">
         <source>Donate via PayPal</source>
-        <target>Faire un don par paypal</target>
+        <target>Faire un don via PayPal</target>
         
       </trans-unit>
       <trans-unit id="JmpBuQ1" resname="Translations">
@@ -311,15 +316,15 @@
 					   translating the software. You can find instructions on the page
 					   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our
 					   GitHub Wiki.</source>
-        <target>Si votre langue n'est pas présente dans LMMS, vous pouvez aider le projet et d'autres utilisateurs parlant la même langue en
-					   traduisant le logiciel. Vous trouverez les instructions sur la page
-					   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; (en anglais) dans
-					   notre Wiki GitHub.</target>
+        <target>Si votre langue n'est pas présente dans LMMS, vous pouvez aider le projet et les autres utilisateurs parlant la même langue en
+					   traduisant le logiciel. Vous trouverez des instructions sur la page
+ 					   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Créer une localisation&lt;/a&gt;&quot; dans notre
+					    Wiki GitHub.</target>
         
       </trans-unit>
       <trans-unit id="u6Bz942" resname="How to get in touch">
         <source>How to get in touch</source>
-        <target>Comment entrer en contact</target>
+        <target>Comment nous contacter</target>
         
       </trans-unit>
       <trans-unit id="nSgPM_a" resname="Mailing List">
@@ -329,7 +334,7 @@
       </trans-unit>
       <trans-unit id="6PT.eyE" resname="Posting to the mailing list is the best way to reach out to our developers:">
         <source>Posting to the mailing list is the best way to reach out to our developers:</source>
-        <target>Envoyer un message (en anglais) à la liste de diffusion est la meilleure façon de joindre nos développeurs :</target>
+        <target>Envoyer un message à la liste de diffusion est le meilleur moyen de contacter nos développeurs :</target>
         
       </trans-unit>
       <trans-unit id="vTqq2U0" resname="Subscribe to LMMS-Devel mailing list">
@@ -341,7 +346,7 @@
         <source>Our IRC channel is &lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt; on
 					&lt;a href=&quot;https://freenode.net&quot;&gt;Freenode&lt;/a&gt;.</source>
         <target>Notre canal IRC est &lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt; sur
-					&lt;a href=&quot;https://freenode.net&quot;&gt;Freenode&lt;/a&gt; (en anglais).</target>
+					&lt;a href=&quot;https://freenode.net&quot;&gt;Freenode&lt;/a&gt;. </target>
         
       </trans-unit>
       <trans-unit id="nzuqhLv" resname="&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;is a more modern alternative to IRC. Join our server &#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.">
@@ -350,22 +355,22 @@
 					&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.</source>
         <target>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
 					est une alternative plus moderne à IRC. Rejoignez notre serveur 
-					&lt;a href=&quot;/chat/&quot;&gt;en cliquant ici&lt;/a&gt; (en anglais).</target>
+					&lt;a href=&quot;/chat/&quot;&gt;en cliquant ici&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="vgrQxiN" resname="We host a forum for our users here on this website:">
         <source>We host a forum for our users here on this website:</source>
-        <target>Nous hébergeons un forum pour nos utilisateurs sur ce site web :</target>
+        <target>Nous hébergeons un forum pour nos utilisateurs sur ce site Web :</target>
         
       </trans-unit>
       <trans-unit id="P3vlK3." resname="For reporting a bug or suggesting a new feature, please use the GitHub issue tracker:">
         <source>For reporting a bug or suggesting a new feature, please use the GitHub issue tracker:</source>
-        <target>Pour signaler un bogue ou suggérer une nouvelle fonctionnalité, veuillez utiliser le traqueur d'issues Github :</target>
+        <target>Pour signaler un bug ou suggérer une nouvelle fonctionnalité, veuillez utiliser l'outil de suivi des problèmes GitHub :</target>
         
       </trans-unit>
       <trans-unit id="TWZRGVx" resname="Let's make music">
         <source>Let's make music</source>
-        <target>Faire de la musique</target>
+        <target>Faisons de la musique</target>
         
       </trans-unit>
       <trans-unit id="Jo.VN3p" resname="with a free, cross-platform tool for your computer.">
@@ -390,32 +395,32 @@
       </trans-unit>
       <trans-unit id="HXvrE6h" resname="Produce music with your computer">
         <source>Produce music with your computer</source>
-        <target>Produire de la musique avec votre ordinateur</target>
+        <target>Produisez de la musique avec votre ordinateur</target>
         
       </trans-unit>
       <trans-unit id="8k_3.h_" resname="by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.">
         <source>by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.</source>
-        <target>en créant des mélodies et des rythmes, en synthétisant et en mixant des sons, en arrangeant des échantillons, et plus encore.</target>
+        <target>en créant des mélodies et des rythmes, en synthétisant et en mixant des sons, en arrangeant des échantillons, et bien plus encore.</target>
         
       </trans-unit>
       <trans-unit id="1ANtx56" resname="Playback instruments, samples and plugins">
         <source>Playback instruments, samples and plugins</source>
-        <target>Lecture d'instruments, d'échantillons, et greffons</target>
+        <target>Lecture d'instruments, d'échantillons et de plugins</target>
         
       </trans-unit>
       <trans-unit id="c_9n6oH" resname="with a typing or MIDI keyboard in a user-friendly and modern interface.">
         <source>with a typing or MIDI keyboard in a user-friendly and modern interface.</source>
-        <target>à l'aide d'un clavier alphanumérique ou MIDI, d'une manière facile et avec une interface moderne.</target>
+        <target>à l'aide d'un clavier alphanumérique ou MIDI, dans une interface moderne et conviviale.</target>
         
       </trans-unit>
       <trans-unit id="h73sjrb" resname="Bundled with ready-to-use content">
         <source>Bundled with ready-to-use content</source>
-        <target>Empaqueté avec des contenus prêts à être utilisés</target>
+        <target>Fourni avec des contenus prêts à être utilisés</target>
         
       </trans-unit>
       <trans-unit id="lBGEdiH" resname="from an assortment of instrument and effect plugins, presets and samples to VST and SoundFont support.">
         <source>from an assortment of instrument and effect plugins, presets and samples to VST and SoundFont support.</source>
-        <target>allant d'un ensemble d'instruments et de greffons d'effet, ainsi que des pré-réglages et des échantillons, et aussi un support VST et SoundFont.</target>
+        <target>avec un ensemble de plugins d'instruments et d'effets, ainsi que des pré-réglages, des échantillons et un support VST et SoundFont.</target>
         
       </trans-unit>
       <trans-unit id="rELUYJ6" resname="Made by musicians, for musicians.">
@@ -440,7 +445,7 @@
       </trans-unit>
       <trans-unit id="QBixtUo" resname="Pick your flavor.">
         <source>Pick your flavor.</source>
-        <target>Choisissez votre saveur</target>
+        <target>Choisissez votre système d'exploitation.</target>
         
       </trans-unit>
       <trans-unit id="CaD6ze3" resname="Linux, Windows or macOS.">
@@ -450,12 +455,12 @@
       </trans-unit>
       <trans-unit id="vEX6OG8" resname="Houston, we have a problem.">
         <source>Houston, we have a problem.</source>
-        <target>Houston, on a un problème.</target>
+        <target>Houston, nous avons un problème.</target>
         
       </trans-unit>
       <trans-unit id="J5pmILO" resname="Stand by, we got you covered.">
         <source>Stand by, we got you covered.</source>
-        <target>Patientez, on s'occupe de vous.</target>
+        <target>Patientez, nous nous occupons de vous.</target>
         
       </trans-unit>
       <trans-unit id="3vJMQyC" resname="Visit our forum">
@@ -475,7 +480,7 @@
       </trans-unit>
       <trans-unit id="p1CbBjh" resname="Visit our GitHub page">
         <source>Visit our GitHub page</source>
-        <target>Visiter notre page github</target>
+        <target>Visiter notre page GitHub</target>
         
       </trans-unit>
       <trans-unit id="Q.2pUhd" resname="Ask your questions here">
@@ -490,12 +495,12 @@
       </trans-unit>
       <trans-unit id="AZtpftd" resname="Sharing means caring.">
         <source>Sharing means caring.</source>
-        <target>Partager signifie prendre soin.</target>
+        <target>Partager, c'est se soucier des autres.</target>
         
       </trans-unit>
       <trans-unit id="tYjliwJ" resname="Find musicians">
         <source>Find musicians</source>
-        <target>Trouver des musiciens</target>
+        <target>Découvrez des musiciens</target>
         
       </trans-unit>
       <trans-unit id="29NrAWW" resname="Visit the LMMS Sharing Platform (LSP)">
@@ -510,35 +515,37 @@
       </trans-unit>
       <trans-unit id="E6hLz_I" resname="Show us your creations.">
         <source>Show us your creations.</source>
-        <target>Montrez nous vos créations.</target>
+        <target>Montrez-nous vos créations.</target>
         
       </trans-unit>
       <trans-unit id="e0XmaMu" resname="We &lt;3 open source.">
         <source>We &lt;3 open source.</source>
-        <target>Nous &lt;3 les sources ouvertes.</target>
+        <target>Nous adorons l'open source.</target>
         
       </trans-unit>
       <trans-unit id="opjPraT" resname="Fork us on GitHub">
         <source>Fork us on GitHub</source>
+        <target>Créer un fork sur GitHub</target>
         
       </trans-unit>
       <trans-unit id="4m3F_E2" resname="LMMS is a 100% free, open source, community-driven project.">
         <source>LMMS is a 100% free, open source, community-driven project.</source>
-        <target>LMMS est un projet 100% gratuit, à sources ouvertes, piloté par la communauté.</target>
+        <target>LMMS est un projet communautaire 100% gratuit et open source.</target>
         
       </trans-unit>
       <trans-unit id="B_SpjYT" resname="Proudly hosted on GitHub.">
         <source>Proudly hosted on GitHub.</source>
+        <target>Fièrement hébergé sur GitHub.</target>
         
       </trans-unit>
       <trans-unit id="cjwuqX6" resname="Take a peek.">
         <source>Take a peek.</source>
-        <target>Jeter un coup d'œil.</target>
+        <target>Jetez-y un coup d'œil.</target>
         
       </trans-unit>
       <trans-unit id="73lMPDq" resname="Watch our promo video.">
         <source>Watch our promo video.</source>
-        <target>Visionner notre vidéo de promo.</target>
+        <target>Regardez notre vidéo promotionnelle.</target>
         
       </trans-unit>
       <trans-unit id="VnDwhfQ" resname="Click anywhere to close this dialog">
@@ -558,27 +565,27 @@
       </trans-unit>
       <trans-unit id="HLWVAGp" resname="Compose music on Windows, Linux and macOS">
         <source>Compose music on Windows, Linux and macOS</source>
-        <target>Composer de la musique sur Windows, Linux, et macOS</target>
+        <target>Composez de la musique sur Windows, Linux et macOS</target>
         
       </trans-unit>
       <trans-unit id="JmUgjfR" resname="Sequence, compose, mix and automate songs in one simple interface">
         <source>Sequence, compose, mix and automate songs in one simple interface</source>
-        <target>Séquencer, composer, mixer, et automatiser des morceaux avec une interface unique et simple</target>
+        <target>Séquencez, composez, mixez et automatisez des chansons dans une interface simple</target>
         
       </trans-unit>
       <trans-unit id="q85N8NQ" resname="Note playback via MIDI or typing keyboard">
         <source>Note playback via MIDI or typing keyboard</source>
-        <target>Lecture de note via un clavier MIDI ou alphanumérique</target>
+        <target>Lecture de notes via un clavier MIDI ou alphanumérique</target>
         
       </trans-unit>
       <trans-unit id="UpGfL75" resname="Consolidate instrument tracks using Beat+Bassline Editor">
         <source>Consolidate instrument tracks using Beat+Bassline Editor</source>
-        <target>Consolider des pistes d'instrument en utilisant l'éditeur de rythme et de ligne de basse</target>
+        <target>Consolider des pistes d'instruments en utilisant l'éditeur de rythme et de ligne de basse</target>
         
       </trans-unit>
       <trans-unit id="73.8zRG" resname="Fine tune patterns, notes, chords and melodies using Piano Roll Editor">
         <source>Fine tune patterns, notes, chords and melodies using Piano Roll Editor</source>
-        <target>Accorder précisément des motifs, des notes, des accords, et des mélodies en utilisant l'éditeur piano-roll</target>
+        <target>Accordez précisément des motifs rythmiques, des notes, des accords et des mélodies en utilisant l'éditeur Piano Roll</target>
         
       </trans-unit>
       <trans-unit id="X4f.0Yt" resname="Full user-defined track-based automation and computer-controlled automation sources">
@@ -588,7 +595,7 @@
       </trans-unit>
       <trans-unit id=".oFCngq" resname="Import of MIDI files and Hydrogen project files">
         <source>Import of MIDI files and Hydrogen project files</source>
-        <target>Importation de fichiers MIDI et de fichiers-projet Hydrogen</target>
+        <target>Importation de fichiers MIDI et de fichiers de projet Hydrogen</target>
         
       </trans-unit>
       <trans-unit id="w1G_1Tb" resname="Musical Instruments">
@@ -598,52 +605,52 @@
       </trans-unit>
       <trans-unit id="6W6XaNr" resname="Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit Windows)">
         <source>Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit Windows)</source>
-        <target>Support inclus d'instrument VST 64-bit avec pont VST 32-bits (Windows 64-bits)</target>
+        <target>Prise en charge intégrée des instruments VST 64 bits avec pont VST 32 bits (Windows 64 bits)</target>
         
       </trans-unit>
       <trans-unit id="koI1Kzb" resname="16 built in synthesizers, including emultations of Roland ® TB-303, Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip and more">
         <source>16 built in synthesizers, including emultations of Roland ® TB-303, Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip and more</source>
-        <target>16 synthétiseurs embarqués, incluant des émulations du Roland ® TB-303, micro-puce Commodore 64 ® SID, Nintendo ® NES et GameBoy, puce Yamaha ® OPL2  et d'autres</target>
+        <target>16 synthétiseurs intégrés, comprenant des émulations de Roland ® TB-303, la puce SID Commodore 64 ®, la Nintendo ® NES et la GameBoy, la puce OPL2 de Yamaha ® et bien plus encore</target>
         
       </trans-unit>
       <trans-unit id="OwdwPKG" resname="Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice additive, subtractive and pad synthesis all in one powerful plugin">
         <source>Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice additive, subtractive and pad synthesis all in one powerful plugin</source>
-        <target>ZynAddSubFx embarqué : synthèse polyphonique, multitimbrale, microtonale, multi-voix, additive, soustractive et pad, tout-en-un dans un greffon puissant</target>
+        <target>ZynAddSubFx intégré : synthèse polyphonique, mutlitimbrale, microtonale, additive multi-voix, soustractive et pad, le tout dans un puissant plugin</target>
         
       </trans-unit>
       <trans-unit id="UqEEpjy" resname="Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis UltraSound ® (GUS) formats for high quality instrument patches and banks">
         <source>Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis UltraSound ® (GUS) formats for high quality instrument patches and banks</source>
-        <target>Support multi-échantillon natif pour les formats SoundFont ® (SF2), Giga (GIG) et Gravis UltraSound ® (GUS) pour des patches et des banques d'instrument de haute qualité.</target>
+        <target>Support multi-échantillon natif pour les formats SoundFont ® (SF2), Giga (GIG) et Gravis UltraSound ® (GUS) pour des patchs et des banques d'instruments de haute qualité.</target>
         
       </trans-unit>
       <trans-unit id="CasBlNK" resname="Effects Mixing">
         <source>Effects Mixing</source>
-        <target>Effets de mixage</target>
+        <target>Mixage des effets</target>
         
       </trans-unit>
       <trans-unit id="SNZn7PZ" resname="Drop-in LADSPA plug-in support">
         <source>Drop-in LADSPA plug-in support</source>
-        <target>Support direct des greffons LADSPA</target>
+        <target>Prise en charge des plugins LADSPA</target>
         
       </trans-unit>
       <trans-unit id="b1z.R0m" resname="Drop-in VST ® effect plug-in support (Linux and Windows)">
         <source>Drop-in VST ® effect plug-in support (Linux and Windows)</source>
-        <target>Support direct des greffons d'effets VST ® (Linux et Windows)</target>
+        <target>Prise en charge des plugins d'effets VST ® (Linux et Windows)</target>
         
       </trans-unit>
       <trans-unit id="_c4RPsG" resname="Built-in compressor, limiter, delay, reverb, distortion and bass enhancer">
         <source>Built-in compressor, limiter, delay, reverb, distortion and bass enhancer</source>
-        <target>Compresseur, limiteur, délai, réverb', distorsion et améliorateur de basse embarqués</target>
+        <target>Compresseur, limiteur, délai, réverbération, distorsion et amplificateur de basse intégrés</target>
         
       </trans-unit>
       <trans-unit id="tUrf1x9" resname="Bundled graphic and parametric equalizers">
         <source>Bundled graphic and parametric equalizers</source>
-        <target>Égaliseurs paramétriques et graphiques embarqués</target>
+        <target>Égaliseurs graphiques et paramétriques inclus</target>
         
       </trans-unit>
       <trans-unit id="PoXBpT3" resname="Built-in visualization/spectrum analyzer">
         <source>Built-in visualization/spectrum analyzer</source>
-        <target>Visualisateur et analyseur de spectre embarqués</target>
+        <target>Visualiseur et analyseur de spectre intégré</target>
         
       </trans-unit>
       <trans-unit id="xhQMvx4" resname="Download LMMS Artwork">
@@ -653,7 +660,7 @@
       </trans-unit>
       <trans-unit id="Hq18WDE" resname="LMMS Logo">
         <source>LMMS Logo</source>
-        <target>Logo LMMS</target>
+        <target>Logo de LMMS</target>
         
       </trans-unit>
       <trans-unit id="Xe7IQc6" resname="LMMS Development Team">
@@ -663,7 +670,7 @@
       </trans-unit>
       <trans-unit id="aFA0PDs" resname="LMMS Project Icon">
         <source>LMMS Project Icon</source>
-        <target>Icône du projet LMMS</target>
+        <target>Icône de projet LMMS</target>
         
       </trans-unit>
       <trans-unit id="ly35agX" resname="Official competitions organised by LMMS and its community members">
@@ -921,7 +928,7 @@
         <source>If you followed a valid link on this site, please contact us
       about it and &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/new&quot;&gt;file an issue&lt;/a&gt; on GitHub.</source>
         <target>Si vous avez suivi un lien présent sur ce site, veuillez nous contacter
-      à ce propos et &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/new&quot;&gt;remplir une issue&lt;/a&gt; (en anglais) sur GitHub.</target>
+      à ce sujet et &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/new&quot;&gt;déposer un problème&lt;/a&gt; sur GitHub.</target>
         
       </trans-unit>
       <trans-unit id=".cXS6UE" resname="Powered by">
@@ -941,7 +948,7 @@
       </trans-unit>
       <trans-unit id="VqvyA1L" resname="Scalable Vector Format">
         <source>Scalable Vector Format</source>
-        <target>Format Vecteur Extensif</target>
+        <target>Format vectoriel évolutif</target>
         
       </trans-unit>
       <trans-unit id="5izmwVw" resname="PNG Format">
@@ -961,7 +968,7 @@
       </trans-unit>
       <trans-unit id="Fa8w_Q9" resname="Adobe Photoshop Format">
         <source>Adobe Photoshop Format</source>
-        <target>Format photoshop adobe</target>
+        <target>Format Adobe Photoshop</target>
         
       </trans-unit>
       <trans-unit id="CBjpoqc" resname="JPEG Format">
@@ -971,26 +978,27 @@
       </trans-unit>
       <trans-unit id="FneECEa" resname="Bitmap Format">
         <source>Bitmap Format</source>
-        <target>Format bitmap</target>
+        <target>Format Bitmap</target>
         
       </trans-unit>
       <trans-unit id="HjfR4tA" resname="Windows Icon Format">
         <source>Windows Icon Format</source>
-        <target>Format d'icône windows</target>
+        <target>Format d'icône Windows</target>
         
       </trans-unit>
       <trans-unit id="lzCF.IZ" resname="Apple Icon Format">
         <source>Apple Icon Format</source>
-        <target>Format d'icône apple</target>
+        <target>Format d'icône Apple</target>
         
       </trans-unit>
       <trans-unit id="OnhpU4i" resname="Home">
         <source>Home</source>
+        <target>Accueil</target>
         
       </trans-unit>
       <trans-unit id="R0s_HGS" resname="Tracks made with LMMS">
         <source>Tracks made with LMMS</source>
-        <target>Pistes faites avec LMMS</target>
+        <target>Titres réalisés avec LMMS</target>
         
       </trans-unit>
       <trans-unit id="U7C6Upb" resname="The Best of LMMS Vol. 5 by LMMS Artists">
@@ -1000,7 +1008,7 @@
       </trans-unit>
       <trans-unit id="VlSWT7Z" resname="The Best of LMMS Vol. 4 by LMMS Artists">
         <source>The Best of LMMS Vol. 4 by LMMS Artists</source>
-        <target>Le meilleur de LMMS Vol. 4 par des artistes LMMS</target>
+        <target>Le meilleur de LMMS vol. 4 par des artistes LMMS</target>
         
       </trans-unit>
       <trans-unit id="SmxHy9V" resname="The Best of LMMS Vol.3 by LMMS Artists">
@@ -1016,6 +1024,58 @@
       <trans-unit id="dcu1CCI" resname="The Best of LMMS Vol.1 by LMMS Artists">
         <source>The Best of LMMS Vol.1 by LMMS Artists</source>
         <target>Le meilleur de LMMS vol.1 par des artistes LMMS</target>
+        
+      </trans-unit>
+      <trans-unit id="yzGLm.Z" resname="The Best of LMMS vol. VII">
+        <source>The Best of LMMS vol. VII</source>
+        
+      </trans-unit>
+      <trans-unit id="legSd3M" resname="#### The competition has ended on **April 16th, 2020**.&#10;&#9;&#9;&#9;Support LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-7)&#10;&#10;&#9;&#9;&#9;Listen to all entries [here.](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vR6tbmbsWPReJdh2jnCixmKlisIiWTY2QPAz_y1OjSmuwGl0PjKuXgJQ7cXuKtlrYtLqBBEa_IYeVC0/pubhtml?gid=491403559&amp;single=true)&#10;&#10;&#9;&#9;&#9;Winners:&#10;&#9;&#9;&#9;&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/1051302979&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;&#10;&#10;&#9;&#9;&#9;#### Original description:&#10;&#9;&#9;&#9;We are proud to present to you The Best of LMMS contest volume 7!&#10;&#9;&#9;&#9;The contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight&#10;&#9;&#9;&#9;(23:59.59 UTC Time) on April 16th for a chance to be featured on the BoL v6 album. The compilation will be uploaded to Bandcamp, with all profits going towards LMMS' further development.&#10;&#10;&#9;&#9;&#9;[Submit here](https://docs.google.com/forms/d/e/1FAIpQLSdpUGSa1JWK17_YQzc-cVQZ95toF0RQ7-c4yfdRjRtjaHAwzA/closedform)&#10;&#9;&#9;&#9;#### Competition rules:&#10;&#9;&#9;&#9;1. **The Deadline:**&#10;&#9;&#9;&#9;&#9;- Track must be submitted by April 16th 2020 at 23:59.59 UTC using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdpUGSa1JWK17_YQzc-cVQZ95toF0RQ7-c4yfdRjRtjaHAwzA/closedform).&#10;&#9;&#9;&#9;2. **The Track:**&#10;&#9;&#9;&#9;&#9;- Must be produced in LMMS.&#10;&#9;&#9;&#9;&#9;- You may use other programs for mastering and post processing.&#10;&#9;&#9;&#9;&#9;- Must be under 10 minutes long.&#10;&#9;&#9;&#9;&#9;- No winning tracks from previous Best of LMMS albums allowed.&#10;&#9;&#9;&#9;&#9;- No remixes allowed.&#10;&#9;&#9;&#9;3. **The Submissions:**&#10;&#9;&#9;&#9;&#9;- You must submit using this form only.&#10;&#9;&#9;&#9;&#9;- No more than ONE entry per artist is allowed.&#10;&#9;&#9;&#9;&#9;- Collaborations count as ONE entry for each artist involved.&#10;&#9;&#9;&#9;&#9;- No collaborating with judges on entries.&#10;&#9;&#9;&#9;&#9;- Only submissions hosted on Soundcloud, YouTube, or Clyp are allowed.&#10;&#9;&#9;&#9;&#9; - The full track should be available at the submission link provided&#10;&#9;&#9;&#9;&#9;- Your entry must be available for listening until the end of the judging process. If not, your entry will be disqualified.&#10;&#9;&#9;&#9;4. **The Judges:**&#10;&#9;&#9;&#9;&#9;- The jury consists of: Cubician, Etorna_Z, Noeroti, Leche, Satori and Umcaruje.&#10;&#9;&#9;&#9;5. **The Judging:**&#10;&#9;&#9;&#9;&#9;- After the deadline, the judges will make their decisions and release the results within 14 days.&#10;&#9;&#9;&#9;6. **Release:**&#10;&#9;&#9;&#9;&#9;- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.">
+        <source>#### The competition has ended on **April 16th, 2020**.
+			Support LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-7)
+
+			Listen to all entries [here.](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vR6tbmbsWPReJdh2jnCixmKlisIiWTY2QPAz_y1OjSmuwGl0PjKuXgJQ7cXuKtlrYtLqBBEa_IYeVC0/pubhtml?gid=491403559&amp;single=true)
+
+			Winners:
+			&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/1051302979&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+			#### Original description:
+			We are proud to present to you The Best of LMMS contest volume 7!
+			The contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight
+			(23:59.59 UTC Time) on April 16th for a chance to be featured on the BoL v6 album. The compilation will be uploaded to Bandcamp, with all profits going towards LMMS' further development.
+
+			[Submit here](https://docs.google.com/forms/d/e/1FAIpQLSdpUGSa1JWK17_YQzc-cVQZ95toF0RQ7-c4yfdRjRtjaHAwzA/closedform)
+			#### Competition rules:
+			1. **The Deadline:**
+				- Track must be submitted by April 16th 2020 at 23:59.59 UTC using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdpUGSa1JWK17_YQzc-cVQZ95toF0RQ7-c4yfdRjRtjaHAwzA/closedform).
+			2. **The Track:**
+				- Must be produced in LMMS.
+				- You may use other programs for mastering and post processing.
+				- Must be under 10 minutes long.
+				- No winning tracks from previous Best of LMMS albums allowed.
+				- No remixes allowed.
+			3. **The Submissions:**
+				- You must submit using this form only.
+				- No more than ONE entry per artist is allowed.
+				- Collaborations count as ONE entry for each artist involved.
+				- No collaborating with judges on entries.
+				- Only submissions hosted on Soundcloud, YouTube, or Clyp are allowed.
+				 - The full track should be available at the submission link provided
+				- Your entry must be available for listening until the end of the judging process. If not, your entry will be disqualified.
+			4. **The Judges:**
+				- The jury consists of: Cubician, Etorna_Z, Noeroti, Leche, Satori and Umcaruje.
+			5. **The Judging:**
+				- After the deadline, the judges will make their decisions and release the results within 14 days.
+			6. **Release:**
+				- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.</source>
+        
+      </trans-unit>
+      <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
+        <source>The Best of LMMS Vol. 7 by LMMS Artists</source>
+        
+      </trans-unit>
+      <trans-unit id="nk3f9aW" resname="The Best of LMMS Vol. 6 by LMMS Artists">
+        <source>The Best of LMMS Vol. 6 by LMMS Artists</source>
         
       </trans-unit>
     </body>
