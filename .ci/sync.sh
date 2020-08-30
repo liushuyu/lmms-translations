@@ -49,12 +49,12 @@ if ! git diff --quiet; then
 
     abinfo "Now pushing to GitHub..."
 
-    git config --global user.email "8292071+lmmsservice@users.noreply.github.com"
-    git config --global user.name 'LMMS Service'
+    git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    git config --global user.name 'github-actions[bot]'
     git checkout master
     git add lmms/ lmms.io/
     git commit -m "Automatically generated translations [skip ci]"
-    git push https://${GH_API_KEY}@github.com/liushuyu/lmms-translations.git
+    git push
 fi
 
 abinfo "Tasks are finished!"

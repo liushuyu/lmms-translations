@@ -13,13 +13,13 @@ jobs:
     container: alpine:3.8
 
     steps:
-      - uses: actions/checkout@v2
-
       - name: Install Dependencies
         run: |
           apk update
           apk add qt5-qttools-dev git bash python3 composer php7-tokenizer php7-simplexml php7-session php7-dom php7-ctype php7-xml php7-apcu php7-pdo php7-openssl php7-intl php7-gd php7-gettext php7-curl gettext coreutils curl
           python3 -m pip install transifex-client
+
+      - uses: actions/checkout@v2
 
       - name: Validate translations
         run: ./validate_locales
@@ -29,4 +29,6 @@ jobs:
 
       - name: Upload Translations
         run: ./.ci/sync.sh
+        env:
+          TX_API_KEY: ${{ secrets.TX_API_KEY }}
         if: ${{ !github.base_ref }}
