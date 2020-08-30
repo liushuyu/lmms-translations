@@ -1,0 +1,25 @@
+name: CI
+on:
+  schedule:
+    - cron: '0 7 * * 0'
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: alpine:3.8
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install Dependencies
+        run: |
+          apk update
+          apk add qt5-qttools-dev git bash python3 composer php7-tokenizer php7-simplexml php7-session php7-dom php7-ctype php7-xml php7-apcu php7-pdo php7-openssl php7-intl php7-gd php7-gettext php7-curl gettext coreutils curl
+          python3 -m pip install transifex-client
+
+      - name: Validate translations
+        run: ./validate_locales
