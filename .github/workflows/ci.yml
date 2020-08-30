@@ -23,3 +23,10 @@ jobs:
 
       - name: Validate translations
         run: ./validate_locales
+
+      - name: Update Translation Files
+        run: ./update_strings
+
+      - name: Upload Translations
+        run: ./.ci/sync.sh
+        if: ${{ !github.base_ref }}

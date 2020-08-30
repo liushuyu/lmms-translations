@@ -18,7 +18,7 @@ function push_repo_translation() {
             tx push -r "lmms.${FILE_RES}" -l "${FILE_LANG}" -t 
         done
     else
-        abinfo "No previos translation changes detected."
+        abinfo "No previous translation changes detected."
     fi
     set -e
 }
