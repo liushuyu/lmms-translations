@@ -381,17 +381,17 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
 <context>
     <name>AutomationEditor</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1456"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1457"/>
         <source>Please open an automation pattern with the context menu of a control!</source>
         <translation>Open een automatiseringspatroon met het contextmenu van een control!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2021"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2028"/>
         <source>Values copied</source>
         <translation>Waarden gekopieerd</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2022"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2029"/>
         <source>All selected values were copied to the clipboard.</source>
         <translation>Alle geselecteerde waarden zijn naar het klembord gekopieerd. </translation>
     </message>
@@ -399,124 +399,124 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
 <context>
     <name>AutomationEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2248"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2255"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Huidig patroon afspelen/pauzeren (Spatie)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2250"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2257"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Stoppen met afspelen van huidig patroon (Spatie)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2253"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2260"/>
         <source>Edit actions</source>
         <translation>Bewerking-acties</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2256"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2263"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Tekenmodus (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2260"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2267"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Wissen-modus (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2263"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2270"/>
         <source>Flip vertically</source>
         <translation>Verticaal omdraaien</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2264"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2271"/>
         <source>Flip horizontally</source>
         <translation>Horizontaal omdraaien</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2281"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2288"/>
         <source>Interpolation controls</source>
         <translation>Interpolatiebediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2286"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2293"/>
         <source>Discrete progression</source>
         <translation>Discrete progressie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2290"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2297"/>
         <source>Linear progression</source>
         <translation>Lineaire progressie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2292"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2299"/>
         <source>Cubic Hermite progression</source>
         <translation>Kubische Hermite-progressie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2299"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2306"/>
         <source>Tension value for spline</source>
         <translation>Spanningswaarde voor spline</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2308"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2315"/>
         <source>Tension: </source>
         <translation>Spanning:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2317"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2324"/>
         <source>Cut selected values (%1+X)</source>
         <translation>Geselecteerde waardes knippen (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2319"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2326"/>
         <source>Copy selected values (%1+C)</source>
         <translation>Geselecteerde waardes kopiëren (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2321"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2328"/>
         <source>Paste values from clipboard (%1+V)</source>
         <translation>Waardes van het klembord plakken (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2346"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2353"/>
         <source>Zoom controls</source>
         <translation>Zoombediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2353"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2360"/>
         <source>Horizontal zooming</source>
         <translation>Horizontaal zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2372"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2379"/>
         <source>Vertical zooming</source>
         <translation>Verticaal zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2395"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2402"/>
         <source>Quantization controls</source>
         <translation>Kwantisatiebediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2402"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2409"/>
         <source>Quantization</source>
         <translation>Kwantisatie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2438"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2555"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2445"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2562"/>
         <source>Automation Editor - no pattern</source>
         <translation>Automatisering-editor - geen patroon</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2442"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2559"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2449"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2566"/>
         <source>Automation Editor - %1</source>
         <translation>Automatisering-editor - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2496"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2503"/>
         <source>Model is already connected to this pattern.</source>
         <translation>Model is reeds verbonden met dit patroon.</translation>
     </message>
@@ -6317,28 +6317,28 @@ Copyright (C) 2017 ROLI Ltd.</source>
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="525"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="526"/>
         <source>Set linear</source>
         <translation>Lineair instellen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="525"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="526"/>
         <source>Set logarithmic</source>
         <translation>Logaritmisch instellen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="766"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="783"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="767"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="784"/>
         <source>Set value</source>
         <translation>Waarde instellen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="767"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="768"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Voer een nieuwe waarde in tussen -96,0 dBFS en 6,0 dBFS:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="784"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="785"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Voer een nieuwe waarde in tussen %1 en %2:</translation>
     </message>
@@ -6388,12 +6388,12 @@ Copyright (C) 2017 ROLI Ltd.</source>
 <context>
     <name>LcdSpinBox</name>
     <message>
-        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="171"/>
+        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="170"/>
         <source>Set value</source>
         <translation>Waarde instellen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="172"/>
+        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="171"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Voer een nieuwe waarde in tussen %1 en %2:</translation>
     </message>
@@ -7136,43 +7136,43 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
 <context>
     <name>MidiImport</name>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="109"/>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="121"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="110"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="122"/>
         <source>Setup incomplete</source>
         <translation>Setup niet voltooid</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="110"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="111"/>
         <source>You have not set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
         <translation>U heeft geen standaard soundfont ingesteld in de instellingen (Bewerken -&gt; Instellingen). Hierdoor wordt er geen geluid afgespeeld na het importeren van dit MIDI-bestand. Download een General MIDI soundfont, selecteer deze in de instellingen probeer opnieuw.</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="122"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="123"/>
         <source>You did not compile LMMS with support for SoundFont2 player, which is used to add default sound to imported MIDI files. Therefore no sound will be played back after importing this MIDI file.</source>
         <translation>U heeft LMMS niet gecompileerd met ondersteuning voor de SoundFont2-speler, die gebruikt wordt om standaardgeluid toe te voegen aan geïmporteerde MIDI-bestanden. Daarom zal er geen geluid afgespeeld worden na het importeren van dit MIDI-bestand.</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="335"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="337"/>
         <source>MIDI Time Signature Numerator</source>
         <translation>MIDI tijdsaanduiding-teller</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="338"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="340"/>
         <source>MIDI Time Signature Denominator</source>
         <translation>MIDI tijdsaanduiding-noemer</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="341"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="343"/>
         <source>Numerator</source>
         <translation>Noemer</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="345"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="347"/>
         <source>Denominator</source>
         <translation>Teller</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="406"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="408"/>
         <source>Track</source>
         <translation>Track</translation>
     </message>
@@ -8970,42 +8970,42 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
 <context>
     <name>PatternView</name>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="674"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="672"/>
         <source>Open in piano-roll</source>
         <translation>In piano-roll openen</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="680"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="678"/>
         <source>Set as ghost in piano-roll</source>
         <translation>Als ghost instellen in piano-roll</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="689"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="687"/>
         <source>Clear all notes</source>
         <translation>Alle noten leegmaken</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="692"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="690"/>
         <source>Reset name</source>
         <translation>Naam herstellen</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="695"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="693"/>
         <source>Change name</source>
         <translation>Naam wijzigen</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="703"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="701"/>
         <source>Add steps</source>
         <translation>Stappen toevoegen</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="705"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="703"/>
         <source>Remove steps</source>
         <translation>Stappen verwijderen</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="707"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="705"/>
         <source>Clone Steps</source>
         <translation>Stappen klonen</translation>
     </message>
@@ -9160,93 +9160,93 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
 <context>
     <name>PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="210"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="211"/>
         <source>Note Velocity</source>
         <translation>Nootsnelheid</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="211"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="212"/>
         <source>Note Panning</source>
         <translation>Noot-balans</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="224"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="225"/>
         <source>Mark/unmark current semitone</source>
         <translation>Huidige semitoon markeren/niet markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="225"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="226"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>Alle corresponderende octaaf-semitonen markeren/niet markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="226"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="227"/>
         <source>Mark current scale</source>
         <translation>Huidige toonladder markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="227"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="228"/>
         <source>Mark current chord</source>
         <translation>Huidig akkoord markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="228"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="229"/>
         <source>Unmark all</source>
         <translation>Niets markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="229"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="230"/>
         <source>Select all notes on this key</source>
         <translation>Alle noten op deze sleutel selecteren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="343"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="344"/>
         <source>Note lock</source>
         <translation>Nootvergrendeling</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="353"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="354"/>
         <source>Last note</source>
         <translation>Laatste noot</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="380"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="381"/>
         <source>No scale</source>
         <translation>Geen toonladder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="395"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="396"/>
         <source>No chord</source>
         <translation>Geen akkoord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="456"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="457"/>
         <source>Velocity: %1%</source>
         <translation>Snelheid: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="465"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="466"/>
         <source>Panning: %1% left</source>
         <translation>Balans: %1 % links</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="469"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="470"/>
         <source>Panning: %1% right</source>
         <translation>Balans: %1 % rechts</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="473"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="474"/>
         <source>Panning: center</source>
         <translation>Balans: midden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3196"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3197"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Open een patroon door erop te dubbelklikken!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3820"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3839"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3827"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3846"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Voer een nieuwe waarde in tussen %1 en %2:</translation>
     </message>
@@ -9254,134 +9254,134 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4274"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4281"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Huidig patroon afspelen/pauzeren (Spatie)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4275"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4282"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Noten van MIDI-apparaat/kanaal-piano opnemen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4276"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4283"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Noten van MIDI-apparaat/kanaal-piano opnemen tijdens het afspelen van song of BB-spoor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4277"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4284"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Noten van MIDI-apparaat/kanaal-piano opnemen, een stap per keer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4278"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4285"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Stoppen met afspelen van huidig patroon (Spatie)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4280"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4287"/>
         <source>Edit actions</source>
         <translation>Acties bewerken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4284"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4291"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Tekenmodus (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4285"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4292"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Wissen-modus (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4286"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4293"/>
         <source>Select mode (Shift+S)</source>
         <translation>Selecteermodus (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4287"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4294"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Toonhoogte-buigmodus (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4298"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4305"/>
         <source>Quantize</source>
         <translation>Kwantiseren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4309"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4316"/>
         <source>Copy paste controls</source>
         <translation>Bedieningen kopiëren en plakken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4312"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4319"/>
         <source>Cut (%1+X)</source>
         <translation>Knippen (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4315"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4322"/>
         <source>Copy (%1+C)</source>
         <translation>Kopiëren (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4318"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4325"/>
         <source>Paste (%1+V)</source>
         <translation>Plakken (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4333"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4340"/>
         <source>Timeline controls</source>
         <translation>Tijdlijnbediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4340"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4347"/>
         <source>Zoom and note controls</source>
         <translation>Zoom- en nootbediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4348"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4355"/>
         <source>Horizontal zooming</source>
         <translation>Horizontaal zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4356"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4363"/>
         <source>Vertical zooming</source>
         <translation>Verticaal zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4365"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4372"/>
         <source>Quantization</source>
         <translation>Kwantisatie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4374"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4381"/>
         <source>Note length</source>
         <translation>Noot-lengte</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4383"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4390"/>
         <source>Scale</source>
         <translation>Toonladder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4392"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4399"/>
         <source>Chord</source>
         <translation>Akkoord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4397"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4404"/>
         <source>Clear ghost notes</source>
         <translation>Ghost-noten leegmaken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4463"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4634"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4470"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4641"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano-roll - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4469"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4638"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4476"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4645"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Piano-roll - geen patroon</translation>
     </message>
@@ -9557,7 +9557,7 @@ Reden: &quot;%2&quot;</translation>
         <translation>Filter voor exporteren van MIDI-bestanden van LMMS</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="67"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="68"/>
         <source>Filter for importing MIDI-files into LMMS</source>
         <translation>Filter, om MIDI-bestanden in LMMS te importeren</translation>
     </message>
@@ -10171,7 +10171,7 @@ Plugin Name
         <translation>Plug-in niet gevonden.</translation>
     </message>
     <message>
-        <location filename="../../src/core/PluginFactory.cpp" line="178"/>
+        <location filename="../../src/core/PluginFactory.cpp" line="183"/>
         <source>LMMS plugin %1 does not have a plugin descriptor named %2!</source>
         <translation>LMMS-plugin %1 heeft geen plugin-descriptor die %2 heet!</translation>
     </message>
@@ -11443,7 +11443,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SaveOptionsWidget</name>
     <message>
-        <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="181"/>
+        <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="182"/>
         <source>Discard MIDI connections</source>
         <translation>MIDI-verbindingen weggooien</translation>
     </message>
@@ -11819,12 +11819,12 @@ Latentie: %2 ms</translation>
         <translation>LMMS-foutrapport</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1451"/>
+        <location filename="../../src/core/Song.cpp" line="1455"/>
         <source> (repeated %1 times)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1458"/>
+        <location filename="../../src/core/Song.cpp" line="1462"/>
         <source>The following errors occurred while loading: </source>
         <translation type="unfinished"/>
     </message>
@@ -11884,46 +11884,46 @@ Verzeker u ervan dat u ten minste leesrechten heeft voor het bestand en probeer 
         <translation>project</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="109"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="110"/>
         <source>Tempo</source>
         <translation>Tempo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="111"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="112"/>
         <source>TEMPO</source>
         <translation>TEMPO</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="112"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="113"/>
         <source>Tempo in BPM</source>
         <translation>Tempo in BPM</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="118"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="119"/>
         <source>High quality mode</source>
         <translation>Hogekwaliteitsmodus</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="142"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="149"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="161"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="143"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="150"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="162"/>
         <source>Master volume</source>
         <translation>Master-volume</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="175"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="182"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="193"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="176"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="183"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="194"/>
         <source>Master pitch</source>
         <translation>Master-toonhoogte</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="665"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="673"/>
         <source>Value: %1%</source>
         <translation>Waarde: %1 %</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="707"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="715"/>
         <source>Value: %1 semitones</source>
         <translation>Waarde: %1 semitonen</translation>
     </message>
@@ -11931,98 +11931,98 @@ Verzeker u ervan dat u ten minste leesrechten heeft voor het bestand en probeer 
 <context>
     <name>SongEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="896"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="904"/>
         <source>Song-Editor</source>
         <translation>Song-editor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="906"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="914"/>
         <source>Play song (Space)</source>
         <translation>Song afspelen (spatie)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="907"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="915"/>
         <source>Record samples from Audio-device</source>
         <translation>Samples van audio-apparaat opnemen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="908"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="916"/>
         <source>Record samples from Audio-device while playing song or BB track</source>
         <translation>Samples van audio-apparaat opnemen tijdens het afspelen van song of bb-track</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="909"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="917"/>
         <source>Stop song (Space)</source>
         <translation>Song stoppen (spatie)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="913"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="921"/>
         <source>Track actions</source>
         <translation>Track-acties</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="916"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="924"/>
         <source>Add beat/bassline</source>
         <translation>Beat-/baslijn toevoegen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="919"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="927"/>
         <source>Add sample-track</source>
         <translation>Sample-track toevoegen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="922"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="930"/>
         <source>Add automation-track</source>
         <translation>Automatisering-track toevoegen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="934"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="942"/>
         <source>Edit actions</source>
         <translation>Bewerking-acties</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="937"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="945"/>
         <source>Draw mode</source>
         <translation>Tekenmodus</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="938"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="946"/>
         <source>Edit mode (select and move)</source>
         <translation>Bewerken-modus (selecteren en verplaatsen)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="947"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="955"/>
         <source>Timeline controls</source>
         <translation>Tijdlijnbediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="951"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="959"/>
         <source>Zoom controls</source>
         <translation>Zoombediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="961"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="969"/>
         <source>Horizontal zooming</source>
         <translation>Horizontaal zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="967"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="975"/>
         <source>Snap controls</source>
         <translation>Vastklik-bedieningen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="975"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1010"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="983"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1018"/>
         <source>Clip snapping size</source>
         <translation>Vastklikgrootte van clip</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="979"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="987"/>
         <source>Toggle proportional snap on/off</source>
         <translation>Proportioneel vastklikken aan/uit</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1006"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1014"/>
         <source>Base snapping size</source>
         <translation>Basis-vastklikgrootte</translation>
     </message>
@@ -12291,13 +12291,13 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="96"/>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="311"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="312"/>
         <source>Cancel</source>
         <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="100"/>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="312"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="313"/>
         <source>Please wait...</source>
         <translation>Even geduld...</translation>
     </message>
@@ -12317,7 +12317,7 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
         <translation>Track %1 laden (%2/totaal %3)</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="310"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="311"/>
         <source>Importing MIDI-file...</source>
         <translation>MIDI-bestand importeren...</translation>
     </message>
@@ -12681,22 +12681,22 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
 <context>
     <name>VersionedSaveDialog</name>
     <message>
-        <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="50"/>
+        <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="51"/>
         <source>Increment version number</source>
         <translation>Versienummer verhogen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="52"/>
+        <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="53"/>
         <source>Decrement version number</source>
         <translation>Versienummer verlagen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="69"/>
+        <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="70"/>
         <source>Save Options</source>
         <translation>Opties voor opslaan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="163"/>
+        <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="164"/>
         <source> already exists. Do you want to replace it?</source>
         <translation>bestaat reeds. Wilt u het vervangen?</translation>
     </message>
@@ -14143,153 +14143,153 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
 <context>
     <name>lb302SynthView</name>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="811"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="818"/>
         <source>Cutoff Freq:</source>
         <translation>Cutoff-freq:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="816"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="823"/>
         <source>Resonance:</source>
         <translation>Resonantie:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="821"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="828"/>
         <source>Env Mod:</source>
         <translation>Env-mod:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="826"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="833"/>
         <source>Decay:</source>
         <translation>Decay:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="842"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="849"/>
         <source>303-es-que, 24dB/octave, 3 pole filter</source>
         <translation>303-es-que, 24dB/octave, 3 pole filter</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="847"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="854"/>
         <source>Slide Decay:</source>
         <translation>Slide-decay:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="852"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="859"/>
         <source>DIST:</source>
         <translation>DIST:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="860"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="867"/>
         <source>Saw wave</source>
         <translation>Zaagtandgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="867"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="874"/>
         <source>Click here for a saw-wave.</source>
         <translation>Klik hier voor een zaagtandgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="870"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="877"/>
         <source>Triangle wave</source>
         <translation>Driehoeksgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="877"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="884"/>
         <source>Click here for a triangle-wave.</source>
         <translation>Klik hier voor een driehoeksgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="879"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="886"/>
         <source>Square wave</source>
         <translation>Blokgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="886"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="893"/>
         <source>Click here for a square-wave.</source>
         <translation>Klik hier voor een blokgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="889"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="896"/>
         <source>Rounded square wave</source>
         <translation>Afgeronde blokgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="896"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="903"/>
         <source>Click here for a square-wave with a rounded end.</source>
         <translation>Klik hier voor een blokgolf met afgerond einde.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="899"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="906"/>
         <source>Moog wave</source>
         <translation>Moog-golf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="906"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="913"/>
         <source>Click here for a moog-like wave.</source>
         <translation>Klik hier voor een moog-achtige golf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="908"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="915"/>
         <source>Sine wave</source>
         <translation>Sinusgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="915"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="922"/>
         <source>Click for a sine-wave.</source>
         <translation>Klikken voor sinusgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="918"/>
-        <location filename="../../plugins/lb302/lb302.cpp" line="929"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="925"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="936"/>
         <source>White noise wave</source>
         <translation>Witte-ruisgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="925"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="932"/>
         <source>Click here for an exponential wave.</source>
         <translation>Klik hier voor een exponentiële golf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="936"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="943"/>
         <source>Click here for white-noise.</source>
         <translation>Klik hier voor witte ruis.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="939"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="946"/>
         <source>Bandlimited saw wave</source>
         <translation>Bandgelimiteerde zaagtandgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="946"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="953"/>
         <source>Click here for bandlimited saw wave.</source>
         <translation>Klik hier voor een bandgelimiteerde zaagtandgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="949"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="956"/>
         <source>Bandlimited square wave</source>
         <translation>Bandgelimiteerde blokgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="956"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="963"/>
         <source>Click here for bandlimited square wave.</source>
         <translation>Klik hier voor een bandgelimiteerde blokgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="959"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="966"/>
         <source>Bandlimited triangle wave</source>
         <translation>Bandgelimiteerde driehoeksgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="966"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="973"/>
         <source>Click here for bandlimited triangle wave.</source>
         <translation>Klik hier voor een bandgelimiteerde driehoeksgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="969"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="976"/>
         <source>Bandlimited moog saw wave</source>
         <translation>Bandgelimiteerde moog-zaagtandgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="976"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="983"/>
         <source>Click here for bandlimited moog saw wave.</source>
         <translation>Klik hier voor een bandgelimiteerde moog-zaagtandgolf.</translation>
     </message>
