@@ -6610,56 +6610,56 @@ Fai doppio click per scegliere un file.</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="480"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="498"/>
         <source>Configuration file</source>
         <translation>File di configurazione</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="481"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>Si è riscontrato un errore nell&apos;analisi del file di configurazione alle linee %1:%2: %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="599"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
         <source>Could not open file</source>
         <translation>Non è stato possibile aprire il file</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="600"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>Impossibile scrivere sul file %1.
 Si prega di controllare i permessi di scrittura sul file e la cartella che lo contiene, e poi riprovare!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="847"/>
+        <location filename="../../src/core/main.cpp" line="850"/>
         <source>Project recovery</source>
         <translation>Recupero del progetto</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="862"/>
+        <location filename="../../src/core/main.cpp" line="865"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>E&apos; stato trovato un file di riserva. Questo accade se la sessione precedente non è stata chiusa in modo appropriato o un&apos;altra istanza di LMMS è già in esecuzione. Recuperare il progetto di questa sessione?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="867"/>
-        <location filename="../../src/core/main.cpp" line="887"/>
+        <location filename="../../src/core/main.cpp" line="870"/>
+        <location filename="../../src/core/main.cpp" line="890"/>
         <source>Recover</source>
         <translation>Recupera</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="868"/>
+        <location filename="../../src/core/main.cpp" line="871"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Recupera il file. Non usare instanze multiple di LMMS quando effettui il recupero.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="870"/>
-        <location filename="../../src/core/main.cpp" line="885"/>
+        <location filename="../../src/core/main.cpp" line="873"/>
+        <location filename="../../src/core/main.cpp" line="888"/>
         <source>Discard</source>
         <translation>Elimina</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="871"/>
+        <location filename="../../src/core/main.cpp" line="874"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Avvia una sessione predefinita ed elimina i file ripristinati. Questo azione non è reversibile.</translation>
     </message>
@@ -11846,54 +11846,54 @@ Latenza: %2 ms</translation>
 <context>
     <name>SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="106"/>
+        <location filename="../../src/core/DataFile.cpp" line="129"/>
         <source>Could not open file</source>
         <translation>Non è stato possibile aprire il file</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="107"/>
+        <location filename="../../src/core/DataFile.cpp" line="130"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>Impossibile aprire il file %1. Probabilmente non disponi dei permessi necessari alla sua lettura.
 Assicurati di avere almeno i permessi di lettura del file e prova di nuovo.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="255"/>
+        <location filename="../../src/core/DataFile.cpp" line="278"/>
         <source>Could not write file</source>
         <translation>Impossibile scrivere il file</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="256"/>
+        <location filename="../../src/core/DataFile.cpp" line="279"/>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
         <translation>Impossibile aprire il file %1 per la scrittura. Probabilmente non disponi dei permessi necessari alla scrittura di questo file. Assicurati di avere tali permessi e prova di nuovo.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1471"/>
+        <location filename="../../src/core/DataFile.cpp" line="1418"/>
         <source>Error in file</source>
         <translation>Errore nel file</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1472"/>
+        <location filename="../../src/core/DataFile.cpp" line="1419"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Il file %1 sembra contenere errori, quindi non può essere caricato.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1502"/>
+        <location filename="../../src/core/DataFile.cpp" line="1462"/>
         <source>Version difference</source>
         <translation>Differenza di versione</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1503"/>
+        <location filename="../../src/core/DataFile.cpp" line="1463"/>
         <source>This %1 was created with LMMS %2.</source>
         <translation>%1 creato con LMMS %2.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1508"/>
+        <location filename="../../src/core/DataFile.cpp" line="1468"/>
         <source>template</source>
         <translation>modello</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1509"/>
+        <location filename="../../src/core/DataFile.cpp" line="1469"/>
         <source>project</source>
         <translation>progetto</translation>
     </message>

@@ -6599,56 +6599,56 @@ Dubbelklikken om een bestand te kiezen.</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="480"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="498"/>
         <source>Configuration file</source>
         <translation>Configuratiebestand</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="481"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>Fout bij verwerken van configuratiebestand op regel %1:%2: %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="599"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
         <source>Could not open file</source>
         <translation>Kan bestand niet openen</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="600"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>Kon bestand %1 niet openen om te schrijven.
 Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die het bestand bevat en probeer het opnieuw!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="847"/>
+        <location filename="../../src/core/main.cpp" line="850"/>
         <source>Project recovery</source>
         <translation>Projectherstel</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="862"/>
+        <location filename="../../src/core/main.cpp" line="865"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>Er is een herstelbestand aanwezig. Het lijkt alsof de laatste sessie niet goed afgesloten is of een andere instantie van LMMS al uitgevoerd wordt. Wilt u het project van deze sessie herstellen?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="867"/>
-        <location filename="../../src/core/main.cpp" line="887"/>
+        <location filename="../../src/core/main.cpp" line="870"/>
+        <location filename="../../src/core/main.cpp" line="890"/>
         <source>Recover</source>
         <translation>Herstellen</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="868"/>
+        <location filename="../../src/core/main.cpp" line="871"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Bestand herstellen. Gelieve niet meerdere instanties van LMMS uit te voeren wanneer u dit doet.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="870"/>
-        <location filename="../../src/core/main.cpp" line="885"/>
+        <location filename="../../src/core/main.cpp" line="873"/>
+        <location filename="../../src/core/main.cpp" line="888"/>
         <source>Discard</source>
         <translation>Verwerpen</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="871"/>
+        <location filename="../../src/core/main.cpp" line="874"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Start een standaard sessie en verwijder de herstelde bestanden. Dit is onomkeerbaar.</translation>
     </message>
@@ -11832,54 +11832,54 @@ Latentie: %2 ms</translation>
 <context>
     <name>SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="106"/>
+        <location filename="../../src/core/DataFile.cpp" line="129"/>
         <source>Could not open file</source>
         <translation>Kan bestand niet openen</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="107"/>
+        <location filename="../../src/core/DataFile.cpp" line="130"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>Kon bestand %1 niet openen. U heeft waarschijnlijk geen toestemming om dit bestand te lezen.
 Verzeker u ervan dat u ten minste leesrechten heeft voor het bestand en probeer het opnieuw.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="255"/>
+        <location filename="../../src/core/DataFile.cpp" line="278"/>
         <source>Could not write file</source>
         <translation>Kan bestand niet schrijven</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="256"/>
+        <location filename="../../src/core/DataFile.cpp" line="279"/>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
         <translation>Kon %1 niet openen om te schrijven. U heeft waarschijnlijk geen toestemming om naar dit bestand te schrijven. Verzeker u ervan dat u schrijfbevoegdheid heeft voor het bestand en probeer het opnieuw.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1471"/>
+        <location filename="../../src/core/DataFile.cpp" line="1418"/>
         <source>Error in file</source>
         <translation>Fout in bestand</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1472"/>
+        <location filename="../../src/core/DataFile.cpp" line="1419"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Bestand %1 lijkt fouten te bevatten en kan daardoor niet geladen worden.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1502"/>
+        <location filename="../../src/core/DataFile.cpp" line="1462"/>
         <source>Version difference</source>
         <translation>Versie-verschil</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1503"/>
+        <location filename="../../src/core/DataFile.cpp" line="1463"/>
         <source>This %1 was created with LMMS %2.</source>
         <translation>Dit %1 werd aangemaakt met LMMS %2.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1508"/>
+        <location filename="../../src/core/DataFile.cpp" line="1468"/>
         <source>template</source>
         <translation>sjabloon</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1509"/>
+        <location filename="../../src/core/DataFile.cpp" line="1469"/>
         <source>project</source>
         <translation>project</translation>
     </message>

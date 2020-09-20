@@ -6598,56 +6598,56 @@ Poklepejte pro výběr souboru.</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="480"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="498"/>
         <source>Configuration file</source>
         <translation>Soubor nastavení</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="481"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>Chyba při kontrole konfiguračního souboru na řádku %1:%2: %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="599"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
         <source>Could not open file</source>
         <translation>Nemohu otevřít soubor</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="600"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>Nelze otevřít soubor %1 pro zápis.
 Ujistěte se prosím, zda máte povolen zápis do souboru a do složky obsahující soubor a zkuste znovu!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="847"/>
+        <location filename="../../src/core/main.cpp" line="850"/>
         <source>Project recovery</source>
         <translation>Obnovení projektu</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="862"/>
+        <location filename="../../src/core/main.cpp" line="865"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>Je k dispozici soubor pro obnovu. Zdá se, že poslední práce nebyla správně ukončena nebo že je již spuštěna jiná instance LMMS. Chcete obnovit tuto verzi projektu?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="867"/>
-        <location filename="../../src/core/main.cpp" line="887"/>
+        <location filename="../../src/core/main.cpp" line="870"/>
+        <location filename="../../src/core/main.cpp" line="890"/>
         <source>Recover</source>
         <translation>Obnovit</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="868"/>
+        <location filename="../../src/core/main.cpp" line="871"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Obnovit soubor. Před dokončením prosím nespouštějte další instance LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="870"/>
-        <location filename="../../src/core/main.cpp" line="885"/>
+        <location filename="../../src/core/main.cpp" line="873"/>
+        <location filename="../../src/core/main.cpp" line="888"/>
         <source>Discard</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="871"/>
+        <location filename="../../src/core/main.cpp" line="874"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Spustit LMMS do výchozího stavu a smazat obnovené soubory. Tento krok je nevratný.</translation>
     </message>
@@ -11831,54 +11831,54 @@ Zpoždění %2 ms</translation>
 <context>
     <name>SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="106"/>
+        <location filename="../../src/core/DataFile.cpp" line="129"/>
         <source>Could not open file</source>
         <translation>Nemohu otevřít soubor</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="107"/>
+        <location filename="../../src/core/DataFile.cpp" line="130"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>Nelze otevřít soubor %1. Pravděpodobně nemáte oprávnění číst tento soubor.
  Ujistěte se prosím, že máte oprávnění alespoň číst tento soubor a zkuste to znovu.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="255"/>
+        <location filename="../../src/core/DataFile.cpp" line="278"/>
         <source>Could not write file</source>
         <translation>Nemohu zapsat soubor</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="256"/>
+        <location filename="../../src/core/DataFile.cpp" line="279"/>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
         <translation>Nelze zapisovat do souboru %1. Pravděpodobně nemáte oprávnění zapisovat do tohoto souboru. Ujistěte se prosím, že máte oprávnění zapisovat do tohoto souboru a zkuse to znovu.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1471"/>
+        <location filename="../../src/core/DataFile.cpp" line="1418"/>
         <source>Error in file</source>
         <translation>Chyba v souboru</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1472"/>
+        <location filename="../../src/core/DataFile.cpp" line="1419"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Soubor %1 pravděpodobně obsahuje chyby, a proto nemohl být načten.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1502"/>
+        <location filename="../../src/core/DataFile.cpp" line="1462"/>
         <source>Version difference</source>
         <translation>Rozdíl verzí</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1503"/>
+        <location filename="../../src/core/DataFile.cpp" line="1463"/>
         <source>This %1 was created with LMMS %2.</source>
         <translation>%1 byl vytvořen v LMMS %2.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1508"/>
+        <location filename="../../src/core/DataFile.cpp" line="1468"/>
         <source>template</source>
         <translation>šablona</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1509"/>
+        <location filename="../../src/core/DataFile.cpp" line="1469"/>
         <source>project</source>
         <translation>projekt</translation>
     </message>
