@@ -317,62 +317,62 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomatableModel</name>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="58"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="59"/>
         <source>&amp;Reset (%1%2)</source>
         <translation>&amp;Reimposta (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="65"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="66"/>
         <source>&amp;Copy value (%1%2)</source>
         <translation>&amp;Copia valore (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="73"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="74"/>
         <source>&amp;Paste value (%1%2)</source>
         <translation>&amp;Incolla valore (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="76"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="77"/>
         <source>&amp;Paste value</source>
         <translation>&amp;Incolla valore</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="84"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="85"/>
         <source>Edit song-global automation</source>
         <translation>Modifica automazione globale della canzone</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="89"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="90"/>
         <source>Remove song-global automation</source>
         <translation>Rimuovi automazione globale della canzone</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="98"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="99"/>
         <source>Remove all linked controls</source>
         <translation>Rimuovi tutti i controlli collegati</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="109"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="110"/>
         <source>Connected to %1</source>
         <translation>Connesso a %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="113"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="114"/>
         <source>Connected to controller</source>
         <translation>Connesso al controller</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="119"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="120"/>
         <source>Edit connection...</source>
         <translation>Modifica connessione...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="122"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="123"/>
         <source>Remove connection</source>
         <translation>Rimuovi connessione</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="128"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="129"/>
         <source>Connect to controller...</source>
         <translation>Connetti al controller...</translation>
     </message>
@@ -683,12 +683,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>BBTrack</name>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="385"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="382"/>
         <source>Beat/Bassline %1</source>
         <translation>Beat/Bassline %1</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="534"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="531"/>
         <source>Clone of %1</source>
         <translation>Clone di %1</translation>
     </message>
@@ -4327,14 +4327,12 @@ Si prega di controllare i permessi di scrittura sul file e la cartella che lo co
 <context>
     <name>Fader</name>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="222"/>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="232"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="220"/>
         <source>Set value</source>
         <translation>Imposta valore</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="223"/>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="233"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="221"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Inserire un valore compreso tra %1 e %2:</translation>
     </message>
@@ -6087,52 +6085,52 @@ Si prega di controllare i permessi di scrittura sul file e la cartella che lo co
 <context>
     <name>InstrumentTrackView</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1000"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="989"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1003"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="992"/>
         <source>Volume:</source>
         <translation>Volume:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1005"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="994"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1009"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="998"/>
         <source>Panning</source>
         <translation>Panning</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1011"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1000"/>
         <source>Panning:</source>
         <translation>Panning:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1013"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1002"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1016"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1005"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1048"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1037"/>
         <source>Input</source>
         <translation>Ingresso</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1049"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1038"/>
         <source>Output</source>
         <translation>Uscita</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1322"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1311"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
@@ -6140,127 +6138,127 @@ Si prega di controllare i permessi di scrittura sul file e la cartella che lo co
 <context>
     <name>InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1351"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1340"/>
         <source>GENERAL SETTINGS</source>
         <translation>IMPOSTAZIONI GENERALI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1397"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1386"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1399"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1388"/>
         <source>Volume:</source>
         <translation>Volume:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1404"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1393"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1411"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1400"/>
         <source>Panning</source>
         <translation>Panning</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1412"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1401"/>
         <source>Panning:</source>
         <translation>Panning:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1417"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1406"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1427"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1416"/>
         <source>Pitch</source>
         <translation>Altezza</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1428"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1417"/>
         <source>Pitch:</source>
         <translation>Altezza:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1428"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1417"/>
         <source>cents</source>
         <translation>centesimi</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1433"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1422"/>
         <source>PITCH</source>
         <translation>ALTEZZA</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1440"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1429"/>
         <source>Pitch range (semitones)</source>
         <translation>Ampiezza dell&apos;altezza (in semitoni)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1445"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1434"/>
         <source>RANGE</source>
         <translation>AMPIEZZA</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1455"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1444"/>
         <source>FX channel</source>
         <translation>Canale FX</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1460"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1449"/>
         <source>FX</source>
         <translation>FX</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1470"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1459"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>Salva le impostazioni di questa traccia in un file preset</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1474"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1463"/>
         <source>SAVE</source>
         <translation>SALVA</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1513"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1502"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation>Inviluppo, filtro e LFO</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1514"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1503"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation>Accordi e arpeggi</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1515"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
         <source>Effects</source>
         <translation>Effetti</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1516"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1505"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1517"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1506"/>
         <source>Miscellaneous</source>
         <translation>Varie</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1641"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1630"/>
         <source>Save preset</source>
         <translation>Salva il preset</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1641"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1630"/>
         <source>XML preset file (*.xpf)</source>
         <translation>File di preset XML (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1696"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1685"/>
         <source>Plugin</source>
         <translation>Plugin</translation>
     </message>
@@ -8981,42 +8979,42 @@ Visitare http://lmms.sf.net/wiki  per la documentazione di LMMS.</translation>
 <context>
     <name>PatternView</name>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="672"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="668"/>
         <source>Open in piano-roll</source>
         <translation>Apri nel piano-roll</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="678"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="674"/>
         <source>Set as ghost in piano-roll</source>
         <translation>Imposta come fantasma in piano-roll</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="687"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="683"/>
         <source>Clear all notes</source>
         <translation>Cancella tutte le note</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="690"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="686"/>
         <source>Reset name</source>
         <translation>Reimposta il nome</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="693"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="689"/>
         <source>Change name</source>
         <translation>Cambia nome</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="701"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="697"/>
         <source>Add steps</source>
         <translation>Aggiungi note</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="703"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="699"/>
         <source>Remove steps</source>
         <translation>Elimina note</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="705"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="701"/>
         <source>Clone Steps</source>
         <translation>Clona gli step</translation>
     </message>
@@ -11868,32 +11866,32 @@ Assicurati di avere almeno i permessi di lettura del file e prova di nuovo.</tra
         <translation>Impossibile aprire il file %1 per la scrittura. Probabilmente non disponi dei permessi necessari alla scrittura di questo file. Assicurati di avere tali permessi e prova di nuovo.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1418"/>
+        <location filename="../../src/core/DataFile.cpp" line="1447"/>
         <source>Error in file</source>
         <translation>Errore nel file</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1419"/>
+        <location filename="../../src/core/DataFile.cpp" line="1448"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Il file %1 sembra contenere errori, quindi non può essere caricato.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1462"/>
+        <location filename="../../src/core/DataFile.cpp" line="1491"/>
         <source>Version difference</source>
         <translation>Differenza di versione</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1463"/>
-        <source>This %1 was created with LMMS %2.</source>
-        <translation>%1 creato con LMMS %2.</translation>
+        <location filename="../../src/core/DataFile.cpp" line="1492"/>
+        <source>This %1 was created with LMMS %2</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1468"/>
+        <location filename="../../src/core/DataFile.cpp" line="1488"/>
         <source>template</source>
         <translation>modello</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1469"/>
+        <location filename="../../src/core/DataFile.cpp" line="1488"/>
         <source>project</source>
         <translation>progetto</translation>
     </message>
@@ -12262,12 +12260,12 @@ Assicurati di avere almeno i permessi di lettura del file e prova di nuovo.</tra
 <context>
     <name>Track</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2339"/>
+        <location filename="../../src/core/Track.cpp" line="2332"/>
         <source>Mute</source>
         <translation>Muto</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2341"/>
+        <location filename="../../src/core/Track.cpp" line="2334"/>
         <source>Solo</source>
         <translation>Solo</translation>
     </message>
@@ -12426,7 +12424,7 @@ Assicurarsi di avere i permessi in lettura per il file e per la directory che lo
 <context>
     <name>TrackContentWidget</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2010"/>
+        <location filename="../../src/core/Track.cpp" line="2003"/>
         <source>Paste</source>
         <translation>Incolla</translation>
     </message>
@@ -12434,59 +12432,59 @@ Assicurarsi di avere i permessi in lettura per il file e per la directory che lo
 <context>
     <name>TrackOperationsWidget</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2081"/>
+        <location filename="../../src/core/Track.cpp" line="2074"/>
         <source>Press &lt;%1&gt; while clicking on move-grip to begin a new drag&apos;n&apos;drop action.</source>
         <translation>Premi &lt;%1&gt; mentre fai clic sul controllo per iniziare una nuova azione di trascinamento della selezione.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2096"/>
+        <location filename="../../src/core/Track.cpp" line="2089"/>
         <source>Actions</source>
         <translation>Azioni</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2099"/>
-        <location filename="../../src/core/Track.cpp" line="2122"/>
+        <location filename="../../src/core/Track.cpp" line="2092"/>
+        <location filename="../../src/core/Track.cpp" line="2115"/>
         <source>Mute</source>
         <translation>Muto</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2104"/>
-        <location filename="../../src/core/Track.cpp" line="2125"/>
+        <location filename="../../src/core/Track.cpp" line="2097"/>
+        <location filename="../../src/core/Track.cpp" line="2118"/>
         <source>Solo</source>
         <translation>Solo</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2264"/>
+        <location filename="../../src/core/Track.cpp" line="2257"/>
         <source>Clone this track</source>
         <translation>Clona questa traccia</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2267"/>
+        <location filename="../../src/core/Track.cpp" line="2260"/>
         <source>Remove this track</source>
         <translation>Elimina questa traccia</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2272"/>
+        <location filename="../../src/core/Track.cpp" line="2265"/>
         <source>Clear this track</source>
         <translation>Pulisci questa traccia</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2274"/>
+        <location filename="../../src/core/Track.cpp" line="2267"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2274"/>
+        <location filename="../../src/core/Track.cpp" line="2267"/>
         <source>Assign to new FX Channel</source>
         <translation>Assegna ad un nuovo canale FX</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2286"/>
+        <location filename="../../src/core/Track.cpp" line="2279"/>
         <source>Turn all recording on</source>
         <translation>Accendi tutti i processi di registrazione</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2287"/>
+        <location filename="../../src/core/Track.cpp" line="2280"/>
         <source>Turn all recording off</source>
         <translation>Spegni tutti i processi di registrazione</translation>
     </message>
