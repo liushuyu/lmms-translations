@@ -4336,17 +4336,17 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
 <context>
     <name>FileBrowser</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="76"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="77"/>
         <source>Browser</source>
         <translation>Verkenner</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="86"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="87"/>
         <source>Search</source>
         <translation>Zoeken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="94"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="95"/>
         <source>Refresh list</source>
         <translation>Lijst verversen</translation>
     </message>
@@ -4354,47 +4354,67 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="381"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="444"/>
         <source>Send to active instrument-track</source>
         <translation>Naar actieve instrument-track zenden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="384"/>
-        <source>Open in new instrument-track/Song Editor</source>
-        <translation>In nieuwe instrument-track/song-editor openen</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="387"/>
-        <source>Open in new instrument-track/B+B Editor</source>
-        <translation>In nieuwe instrument-track/B+B-editor openen</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="394"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="452"/>
         <source>Open containing folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="447"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="456"/>
+        <source>Song Editor</source>
+        <translation>Song-editor</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="461"/>
+        <source>BB Editor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="480"/>
+        <source>Send to new AudioFileProcessor instance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="481"/>
+        <source>Send to new instrument track</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="485"/>
+        <source> (%2Enter)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="495"/>
+        <source>Send to new sample track (Shift + Enter)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="554"/>
         <source>Loading sample</source>
         <translation>Sample laden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="448"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="555"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>Even geduld, sample laden voor voorbeeld...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="476"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="582"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="477"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="583"/>
         <source>%1 does not appear to be a valid %2 file</source>
         <translation>%1 lijkt geen geldig %2-bestand te zijn</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="833"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="956"/>
         <source>--- Factory files ---</source>
         <translation>--- Factory-bestanden ---</translation>
     </message>
@@ -9208,43 +9228,48 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
         <translation>Laatste noot</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="381"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="378"/>
+        <source>No key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="388"/>
         <source>No scale</source>
         <translation>Geen toonladder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="396"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="405"/>
         <source>No chord</source>
         <translation>Geen akkoord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="457"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="466"/>
         <source>Velocity: %1%</source>
         <translation>Snelheid: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="466"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="475"/>
         <source>Panning: %1% left</source>
         <translation>Balans: %1 % links</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="470"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="479"/>
         <source>Panning: %1% right</source>
         <translation>Balans: %1 % rechts</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="474"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="483"/>
         <source>Panning: center</source>
         <translation>Balans: midden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3197"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3214"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Open een patroon door erop te dubbelklikken!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3827"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3846"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3844"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3863"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Voer een nieuwe waarde in tussen %1 en %2:</translation>
     </message>
@@ -9252,134 +9277,139 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4281"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4302"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Huidig patroon afspelen/pauzeren (Spatie)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4282"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4303"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Noten van MIDI-apparaat/kanaal-piano opnemen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4283"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4304"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Noten van MIDI-apparaat/kanaal-piano opnemen tijdens het afspelen van song of BB-spoor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4284"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4305"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Noten van MIDI-apparaat/kanaal-piano opnemen, een stap per keer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4285"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4306"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Stoppen met afspelen van huidig patroon (Spatie)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4287"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4308"/>
         <source>Edit actions</source>
         <translation>Acties bewerken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4291"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4312"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Tekenmodus (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4292"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4313"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Wissen-modus (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4293"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4314"/>
         <source>Select mode (Shift+S)</source>
         <translation>Selecteermodus (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4294"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4315"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Toonhoogte-buigmodus (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4326"/>
         <source>Quantize</source>
         <translation>Kwantiseren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4316"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4337"/>
         <source>Copy paste controls</source>
         <translation>Bedieningen kopiëren en plakken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4319"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4340"/>
         <source>Cut (%1+X)</source>
         <translation>Knippen (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4322"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4343"/>
         <source>Copy (%1+C)</source>
         <translation>Kopiëren (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4325"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4346"/>
         <source>Paste (%1+V)</source>
         <translation>Plakken (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4340"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4361"/>
         <source>Timeline controls</source>
         <translation>Tijdlijnbediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4347"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4368"/>
         <source>Zoom and note controls</source>
         <translation>Zoom- en nootbediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4355"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4376"/>
         <source>Horizontal zooming</source>
         <translation>Horizontaal zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4363"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4384"/>
         <source>Vertical zooming</source>
         <translation>Verticaal zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4372"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4393"/>
         <source>Quantization</source>
         <translation>Kwantisatie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4381"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4402"/>
         <source>Note length</source>
         <translation>Noot-lengte</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4390"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4408"/>
+        <source>Key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4417"/>
         <source>Scale</source>
         <translation>Toonladder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4399"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4426"/>
         <source>Chord</source>
         <translation>Akkoord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4404"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4431"/>
         <source>Clear ghost notes</source>
         <translation>Ghost-noten leegmaken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4470"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4641"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4531"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4702"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano-roll - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4476"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4645"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4537"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4706"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Piano-roll - geen patroon</translation>
     </message>
@@ -14083,57 +14113,57 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
 <context>
     <name>lb302Synth</name>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="276"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="279"/>
         <source>VCF Cutoff Frequency</source>
         <translation>VCF cutoff-frequentie</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="277"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="280"/>
         <source>VCF Resonance</source>
         <translation>VCF resonantie</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="278"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="281"/>
         <source>VCF Envelope Mod</source>
         <translation>VCF envelope-mod</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="279"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="282"/>
         <source>VCF Envelope Decay</source>
         <translation>VCF envelope-decay</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="280"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="283"/>
         <source>Distortion</source>
         <translation>Vervorming</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="281"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="284"/>
         <source>Waveform</source>
         <translation>Golfvorm</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="282"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="285"/>
         <source>Slide Decay</source>
         <translation>Slide-decay</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="283"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="286"/>
         <source>Slide</source>
         <translation>Slide</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="284"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="287"/>
         <source>Accent</source>
         <translation>Accent</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="285"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="288"/>
         <source>Dead</source>
         <translation>Dead</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="286"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="289"/>
         <source>24dB/oct Filter</source>
         <translation>24dB/oct-filter</translation>
     </message>
@@ -14141,153 +14171,153 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
 <context>
     <name>lb302SynthView</name>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="818"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="821"/>
         <source>Cutoff Freq:</source>
         <translation>Cutoff-freq:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="823"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="826"/>
         <source>Resonance:</source>
         <translation>Resonantie:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="828"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="831"/>
         <source>Env Mod:</source>
         <translation>Env-mod:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="833"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="836"/>
         <source>Decay:</source>
         <translation>Decay:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="849"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="852"/>
         <source>303-es-que, 24dB/octave, 3 pole filter</source>
         <translation>303-es-que, 24dB/octave, 3 pole filter</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="854"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="857"/>
         <source>Slide Decay:</source>
         <translation>Slide-decay:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="859"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="862"/>
         <source>DIST:</source>
         <translation>DIST:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="867"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="870"/>
         <source>Saw wave</source>
         <translation>Zaagtandgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="874"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="877"/>
         <source>Click here for a saw-wave.</source>
         <translation>Klik hier voor een zaagtandgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="877"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="880"/>
         <source>Triangle wave</source>
         <translation>Driehoeksgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="884"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="887"/>
         <source>Click here for a triangle-wave.</source>
         <translation>Klik hier voor een driehoeksgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="886"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="889"/>
         <source>Square wave</source>
         <translation>Blokgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="893"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="896"/>
         <source>Click here for a square-wave.</source>
         <translation>Klik hier voor een blokgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="896"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="899"/>
         <source>Rounded square wave</source>
         <translation>Afgeronde blokgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="903"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="906"/>
         <source>Click here for a square-wave with a rounded end.</source>
         <translation>Klik hier voor een blokgolf met afgerond einde.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="906"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="909"/>
         <source>Moog wave</source>
         <translation>Moog-golf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="913"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="916"/>
         <source>Click here for a moog-like wave.</source>
         <translation>Klik hier voor een moog-achtige golf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="915"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="918"/>
         <source>Sine wave</source>
         <translation>Sinusgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="922"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="925"/>
         <source>Click for a sine-wave.</source>
         <translation>Klikken voor sinusgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="925"/>
-        <location filename="../../plugins/lb302/lb302.cpp" line="936"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="928"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="939"/>
         <source>White noise wave</source>
         <translation>Witte-ruisgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="932"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="935"/>
         <source>Click here for an exponential wave.</source>
         <translation>Klik hier voor een exponentiële golf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="943"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="946"/>
         <source>Click here for white-noise.</source>
         <translation>Klik hier voor witte ruis.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="946"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="949"/>
         <source>Bandlimited saw wave</source>
         <translation>Bandgelimiteerde zaagtandgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="953"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="956"/>
         <source>Click here for bandlimited saw wave.</source>
         <translation>Klik hier voor een bandgelimiteerde zaagtandgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="956"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="959"/>
         <source>Bandlimited square wave</source>
         <translation>Bandgelimiteerde blokgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="963"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="966"/>
         <source>Click here for bandlimited square wave.</source>
         <translation>Klik hier voor een bandgelimiteerde blokgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="966"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="969"/>
         <source>Bandlimited triangle wave</source>
         <translation>Bandgelimiteerde driehoeksgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="973"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="976"/>
         <source>Click here for bandlimited triangle wave.</source>
         <translation>Klik hier voor een bandgelimiteerde driehoeksgolf.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="976"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="979"/>
         <source>Bandlimited moog saw wave</source>
         <translation>Bandgelimiteerde moog-zaagtandgolf</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="983"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="986"/>
         <source>Click here for bandlimited moog saw wave.</source>
         <translation>Klik hier voor een bandgelimiteerde moog-zaagtandgolf.</translation>
     </message>

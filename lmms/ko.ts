@@ -4338,17 +4338,17 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>FileBrowser</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="76"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="77"/>
         <source>Browser</source>
         <translation>탐색기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="86"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="87"/>
         <source>Search</source>
         <translation>검색</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="94"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="95"/>
         <source>Refresh list</source>
         <translation>목록 새로고침</translation>
     </message>
@@ -4356,47 +4356,67 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="381"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="444"/>
         <source>Send to active instrument-track</source>
         <translation>활성화된 악기 트랙에서 열기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="384"/>
-        <source>Open in new instrument-track/Song Editor</source>
-        <translation>새로운 악기 트랙이나 노래 편집기에서 열기</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="387"/>
-        <source>Open in new instrument-track/B+B Editor</source>
-        <translation>새로운 악기 트랙이나 비트/베이스 라인 편집기에서 열기</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="394"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="452"/>
         <source>Open containing folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="447"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="456"/>
+        <source>Song Editor</source>
+        <translation>노래 편집기</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="461"/>
+        <source>BB Editor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="480"/>
+        <source>Send to new AudioFileProcessor instance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="481"/>
+        <source>Send to new instrument track</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="485"/>
+        <source> (%2Enter)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="495"/>
+        <source>Send to new sample track (Shift + Enter)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="554"/>
         <source>Loading sample</source>
         <translation>샘플을 로딩하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="448"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="555"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>미리보기를 위하여 샘플을 로딩하는 중입니다. 잠시 기다려 주세요...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="476"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="582"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="477"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="583"/>
         <source>%1 does not appear to be a valid %2 file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="833"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="956"/>
         <source>--- Factory files ---</source>
         <translation type="unfinished"/>
     </message>
@@ -9209,43 +9229,48 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>마지막 박자</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="381"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="378"/>
+        <source>No key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="388"/>
         <source>No scale</source>
         <translation>음계 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="396"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="405"/>
         <source>No chord</source>
         <translation>코드 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="457"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="466"/>
         <source>Velocity: %1%</source>
         <translation>벨로시티: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="466"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="475"/>
         <source>Panning: %1% left</source>
         <translation>패닝: %1% 왼쪽</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="470"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="479"/>
         <source>Panning: %1% right</source>
         <translation>패닝: %1% 오른쪽</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="474"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="483"/>
         <source>Panning: center</source>
         <translation>패닝: 가운데</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3197"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3214"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>더블클릭하여 패턴을 열어주세요!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3827"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3846"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3844"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3863"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>%1부터 %2까지의 값을 입력하세요:</translation>
     </message>
@@ -9253,134 +9278,139 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4281"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4302"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>현재 패턴 재생/일시정지 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4282"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4303"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4283"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4304"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4284"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4305"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4285"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4306"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>현재 패턴 정지 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4287"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4308"/>
         <source>Edit actions</source>
         <translation>편집 동작</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4291"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4312"/>
         <source>Draw mode (Shift+D)</source>
         <translation>그리기 모드 (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4292"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4313"/>
         <source>Erase mode (Shift+E)</source>
         <translation>지우기 모드 (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4293"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4314"/>
         <source>Select mode (Shift+S)</source>
         <translation>선택 모드 (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4294"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4315"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4326"/>
         <source>Quantize</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4316"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4337"/>
         <source>Copy paste controls</source>
         <translation>복사/붙여넣기 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4319"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4340"/>
         <source>Cut (%1+X)</source>
         <translation>잘라내기 (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4322"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4343"/>
         <source>Copy (%1+C)</source>
         <translation>복사 (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4325"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4346"/>
         <source>Paste (%1+V)</source>
         <translation>붙여넣기 (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4340"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4361"/>
         <source>Timeline controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4347"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4368"/>
         <source>Zoom and note controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4355"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4376"/>
         <source>Horizontal zooming</source>
         <translation>수평 줌</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4363"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4384"/>
         <source>Vertical zooming</source>
         <translation>수직 줌</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4372"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4393"/>
         <source>Quantization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4381"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4402"/>
         <source>Note length</source>
         <translation>음표 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4390"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4408"/>
+        <source>Key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4417"/>
         <source>Scale</source>
         <translation>음계</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4399"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4426"/>
         <source>Chord</source>
         <translation>코드</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4404"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4431"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4470"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4641"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4531"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4702"/>
         <source>Piano-Roll - %1</source>
         <translation>피아노-롤 - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4476"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4645"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4537"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4706"/>
         <source>Piano-Roll - no pattern</source>
         <translation>피아노-롤 - 패턴 없음</translation>
     </message>
@@ -14081,57 +14111,57 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lb302Synth</name>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="276"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="279"/>
         <source>VCF Cutoff Frequency</source>
         <translation>VCF 차단 주파수</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="277"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="280"/>
         <source>VCF Resonance</source>
         <translation>VCF 공명</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="278"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="281"/>
         <source>VCF Envelope Mod</source>
         <translation>VCF 엔벨로프 모드</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="279"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="282"/>
         <source>VCF Envelope Decay</source>
         <translation>VCF 엔벨로프 감쇠</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="280"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="283"/>
         <source>Distortion</source>
         <translation>디스토션</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="281"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="284"/>
         <source>Waveform</source>
         <translation>파형</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="282"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="285"/>
         <source>Slide Decay</source>
         <translation>슬라이드 감소</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="283"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="286"/>
         <source>Slide</source>
         <translation>슬라이드</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="284"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="287"/>
         <source>Accent</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="285"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="288"/>
         <source>Dead</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="286"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="289"/>
         <source>24dB/oct Filter</source>
         <translation>24dB/oct 필터</translation>
     </message>
@@ -14139,153 +14169,153 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lb302SynthView</name>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="818"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="821"/>
         <source>Cutoff Freq:</source>
         <translation>차단 주파수:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="823"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="826"/>
         <source>Resonance:</source>
         <translation>공명:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="828"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="831"/>
         <source>Env Mod:</source>
         <translation>엔벨로프 변조:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="833"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="836"/>
         <source>Decay:</source>
         <translation>감쇠:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="849"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="852"/>
         <source>303-es-que, 24dB/octave, 3 pole filter</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="854"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="857"/>
         <source>Slide Decay:</source>
         <translation>슬라이드 감쇠:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="859"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="862"/>
         <source>DIST:</source>
         <translation>디스토션:</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="867"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="870"/>
         <source>Saw wave</source>
         <translation>톱니파</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="874"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="877"/>
         <source>Click here for a saw-wave.</source>
         <translation>클릭하여 톱니파를 선택합니다.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="877"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="880"/>
         <source>Triangle wave</source>
         <translation>삼각파</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="884"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="887"/>
         <source>Click here for a triangle-wave.</source>
         <translation>클릭하여 삼각파를 선택합니다.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="886"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="889"/>
         <source>Square wave</source>
         <translation>사각파</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="893"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="896"/>
         <source>Click here for a square-wave.</source>
         <translation>클릭하여 사각파를 선택합니다.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="896"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="899"/>
         <source>Rounded square wave</source>
         <translation>둥근 사각파</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="903"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="906"/>
         <source>Click here for a square-wave with a rounded end.</source>
         <translation>클릭하여 둥근 사각파를 선택합니다.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="906"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="909"/>
         <source>Moog wave</source>
         <translation>Moog 톱니파</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="913"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="916"/>
         <source>Click here for a moog-like wave.</source>
         <translation>클릭하여 Moog 톱니파를 선택합니다.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="915"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="918"/>
         <source>Sine wave</source>
         <translation>사인파</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="922"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="925"/>
         <source>Click for a sine-wave.</source>
         <translation>클릭하여 사인파를 선택합니다.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="925"/>
-        <location filename="../../plugins/lb302/lb302.cpp" line="936"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="928"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="939"/>
         <source>White noise wave</source>
         <translation>화이트 노이즈</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="932"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="935"/>
         <source>Click here for an exponential wave.</source>
         <translation>클릭하여 지수형 파형을 선택합니다.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="943"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="946"/>
         <source>Click here for white-noise.</source>
         <translation>클릭하여 화이트 노이즈를 선택합니다.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="946"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="949"/>
         <source>Bandlimited saw wave</source>
         <translation>대역 제한 톱니파</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="953"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="956"/>
         <source>Click here for bandlimited saw wave.</source>
         <translation>클릭하여 대역 제한 톱니파를 선택합니다.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="956"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="959"/>
         <source>Bandlimited square wave</source>
         <translation>대역 제한 사각파</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="963"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="966"/>
         <source>Click here for bandlimited square wave.</source>
         <translation>클릭하여 대역 제한 사각파를 선택합니다.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="966"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="969"/>
         <source>Bandlimited triangle wave</source>
         <translation>대역 제한 삼각파</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="973"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="976"/>
         <source>Click here for bandlimited triangle wave.</source>
         <translation>클릭하여 대역 제한 삼각파를 선택합니다.</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="976"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="979"/>
         <source>Bandlimited moog saw wave</source>
         <translation>대역 제한 Moog 톱니파</translation>
     </message>
     <message>
-        <location filename="../../plugins/lb302/lb302.cpp" line="983"/>
+        <location filename="../../plugins/lb302/lb302.cpp" line="986"/>
         <source>Click here for bandlimited moog saw wave.</source>
         <translation>클릭하여 대역 제한 Moog 톱니파를 선택합니다.</translation>
     </message>
