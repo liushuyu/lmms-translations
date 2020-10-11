@@ -150,52 +150,52 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AudioFileProcessorView</name>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="469"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="470"/>
         <source>Open sample</source>
         <translation>Načíst sampl</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="478"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="479"/>
         <source>Reverse sample</source>
         <translation>Přehrávat pozpátku</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="489"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="490"/>
         <source>Disable loop</source>
         <translation>Vypnout smyčku</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="499"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="500"/>
         <source>Enable loop</source>
         <translation>Zapnout smyčku</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="508"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="509"/>
         <source>Enable ping-pong loop</source>
         <translation>Zapnout ping-pongovou smyčku</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="523"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="524"/>
         <source>Continue sample playback across notes</source>
         <translation>Pokračovat v přehrávání samplu přes znějící tóny</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="528"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="529"/>
         <source>Amplify:</source>
         <translation>Zesílení:</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="532"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="533"/>
         <source>Start point:</source>
         <translation>Počáteční bod:</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="536"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="537"/>
         <source>End point:</source>
         <translation>Koncový bod:</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="540"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="541"/>
         <source>Loopback point:</source>
         <translation>Začátek smyčky:</translation>
     </message>
@@ -203,7 +203,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AudioFileProcessorWaveView</name>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="982"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="986"/>
         <source>Sample length:</source>
         <translation>Délka samplu:</translation>
     </message>
@@ -3189,189 +3189,189 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
 <context>
     <name>DualFilterControls</name>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="41"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="40"/>
         <source>Filter 1 enabled</source>
         <translation>Filtr 1 zapnutý</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="42"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="41"/>
         <source>Filter 1 type</source>
         <translation>Typ filtru 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="43"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="42"/>
         <source>Cutoff frequency 1</source>
         <translation>Frekvence oříznutí 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="44"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="43"/>
         <source>Q/Resonance 1</source>
         <translation>Q/rezonance 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="45"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="44"/>
         <source>Gain 1</source>
         <translation>Zesílení 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="47"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="46"/>
         <source>Mix</source>
         <translation>Mix</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="49"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="48"/>
         <source>Filter 2 enabled</source>
         <translation>Filtr 1 zapnutý</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="50"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="49"/>
         <source>Filter 2 type</source>
         <translation>Typ filtru 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="51"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="50"/>
         <source>Cutoff frequency 2</source>
         <translation>Frekvence oříznutí 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="52"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="51"/>
         <source>Q/Resonance 2</source>
         <translation>Q/rezonance 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="53"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="52"/>
         <source>Gain 2</source>
         <translation>Zesílení 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="55"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="78"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="54"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="77"/>
         <source>Low-pass</source>
         <translation>Dolní propust</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="56"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="79"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="55"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="78"/>
         <source>Hi-pass</source>
         <translation>Horní propust</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="57"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="80"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="56"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="79"/>
         <source>Band-pass csg</source>
         <translation>Pásmová propust csg</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="58"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="81"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="57"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="80"/>
         <source>Band-pass czpg</source>
         <translation>Pásmová propust czpg</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="59"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="82"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="58"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="81"/>
         <source>Notch</source>
         <translation>Pásmová zádrž</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="60"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="83"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="59"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="82"/>
         <source>All-pass</source>
         <translation>All-pass</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="61"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="84"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="60"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="83"/>
         <source>Moog</source>
         <translation>Moogův filtr</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="62"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="85"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="61"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="84"/>
         <source>2x Low-pass</source>
         <translation>2x dolní propust</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="63"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="86"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="62"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="85"/>
         <source>RC Low-pass 12 dB/oct</source>
         <translation>RC dolní propust 12 dB/okt</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="64"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="87"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="63"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="86"/>
         <source>RC Band-pass 12 dB/oct</source>
         <translation>RC pásmová propust 12 dB/okt</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="65"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="88"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="64"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="87"/>
         <source>RC High-pass 12 dB/oct</source>
         <translation>RC horní propust 12 dB/okt</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="66"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="89"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="65"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="88"/>
         <source>RC Low-pass 24 dB/oct</source>
         <translation>RC dolní propust 24 dB/okt</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="67"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="90"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="66"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="89"/>
         <source>RC Band-pass 24 dB/oct</source>
         <translation>RC pásmová propust 24 dB/okt</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="68"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="91"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="67"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="90"/>
         <source>RC High-pass 24 dB/oct</source>
         <translation>RC horní propust 24 dB/okt</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="69"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="92"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="68"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="91"/>
         <source>Vocal Formant</source>
         <translation>Vokální formant</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="70"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="93"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="69"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="92"/>
         <source>2x Moog</source>
         <translation>2x Moogův filtr</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="71"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="94"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="70"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="93"/>
         <source>SV Low-pass</source>
         <translation>SV dolní propust</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="72"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="95"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="71"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="94"/>
         <source>SV Band-pass</source>
         <translation>SV pásmová propust</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="73"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="96"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="72"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="95"/>
         <source>SV High-pass</source>
         <translation>SV horní propust</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="74"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="97"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="73"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="96"/>
         <source>SV Notch</source>
         <translation>SV pásmová zádrž</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="75"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="98"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="74"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="97"/>
         <source>Fast Formant</source>
         <translation>Rychlý formantový filtr</translation>
     </message>
     <message>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="76"/>
-        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="99"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="75"/>
+        <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="98"/>
         <source>Tripole</source>
         <translation>Třípólový filtr</translation>
     </message>
@@ -5056,92 +5056,92 @@ Ověřte si prosím, zda máte povolen zápis do souboru a do složky, ve které
 <context>
     <name>InstrumentFunctionArpeggio</name>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="301"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="300"/>
         <source>Arpeggio</source>
         <translation>Arpeggio</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="303"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="302"/>
         <source>Arpeggio type</source>
         <translation>Typ arpeggia</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="304"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="303"/>
         <source>Arpeggio range</source>
         <translation>Rozsah arpeggia</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="304"/>
         <source>Cycle steps</source>
         <translation>Počet kroků v cyklu</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="306"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
         <source>Skip rate</source>
         <translation>Míra vynechávání</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="307"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="306"/>
         <source>Miss rate</source>
         <translation>Míra míjení</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="307"/>
         <source>Arpeggio time</source>
         <translation>Trvání arpeggia</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
         <source>Arpeggio gate</source>
         <translation>Brána arpeggia</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="310"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
         <source>Arpeggio direction</source>
         <translation>Směr arpeggia</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="311"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="310"/>
         <source>Arpeggio mode</source>
         <translation>Styl arpeggia</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="318"/>
         <source>Up</source>
         <translation>Nahoru</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
         <source>Down</source>
         <translation>Dolů</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
         <source>Up and down</source>
         <translation>Nahoru a dolů</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="322"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
         <source>Down and up</source>
         <translation>Dolů a nahoru</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="323"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="322"/>
         <source>Random</source>
         <translation>Náhodné</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="325"/>
         <source>Free</source>
         <translation>Volné</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="327"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
         <source>Sort</source>
         <translation>Tříděné</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="328"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="327"/>
         <source>Sync</source>
         <translation>Synchronizované</translation>
     </message>
@@ -5254,488 +5254,488 @@ Ověřte si prosím, zda máte povolen zápis do souboru a do složky, ve které
 <context>
     <name>InstrumentFunctionNoteStacking</name>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="38"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="37"/>
         <source>octave</source>
         <translation>Oktáva</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="39"/>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="111"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="38"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="110"/>
         <source>Major</source>
         <translation>Dur</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="40"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="39"/>
         <source>Majb5</source>
         <translation>Maj5b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="41"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="40"/>
         <source>minor</source>
         <translation>Moll</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="42"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="41"/>
         <source>minb5</source>
         <translation>m5b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="43"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="42"/>
         <source>sus2</source>
         <translation>sus2</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="44"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="43"/>
         <source>sus4</source>
         <translation>sus4</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="45"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="44"/>
         <source>aug</source>
         <translation>aug</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="46"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="45"/>
         <source>augsus4</source>
         <translation>aug sus4</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="47"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="46"/>
         <source>tri</source>
         <translation>tri</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="49"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="48"/>
         <source>6</source>
         <translation>6</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="50"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="49"/>
         <source>6sus4</source>
         <translation>6 sus4</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="51"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="50"/>
         <source>6add9</source>
         <translation>6 add9</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="52"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="51"/>
         <source>m6</source>
         <translation>m6</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="53"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="52"/>
         <source>m6add9</source>
         <translation>m6 add9</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="55"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="54"/>
         <source>7</source>
         <translation>7</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="56"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="55"/>
         <source>7sus4</source>
         <translation>7 sus4</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="57"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="56"/>
         <source>7#5</source>
         <translation>7/5#</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="58"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="57"/>
         <source>7b5</source>
         <translation>7/5b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="59"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="58"/>
         <source>7#9</source>
         <translation>7/9#</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="60"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="59"/>
         <source>7b9</source>
         <translation>7/9b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="61"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="60"/>
         <source>7#5#9</source>
         <translation>7/5#/9#</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="62"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="61"/>
         <source>7#5b9</source>
         <translation>7/5#/9b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="63"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="62"/>
         <source>7b5b9</source>
         <translation>7/5b/9b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="64"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="63"/>
         <source>7add11</source>
         <translation>7 add11</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="65"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="64"/>
         <source>7add13</source>
         <translation>7 add13</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="66"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="65"/>
         <source>7#11</source>
         <translation>7/11#</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="67"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="66"/>
         <source>Maj7</source>
         <translation>Maj7</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="68"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="67"/>
         <source>Maj7b5</source>
         <translation>Maj7/5b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="69"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="68"/>
         <source>Maj7#5</source>
         <translation>Maj7/5#</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="70"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="69"/>
         <source>Maj7#11</source>
         <translation>Maj7/11#</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="71"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="70"/>
         <source>Maj7add13</source>
         <translation>Maj7 add13</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="72"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="71"/>
         <source>m7</source>
         <translation>m7</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="73"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="72"/>
         <source>m7b5</source>
         <translation>m7/5b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="74"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="73"/>
         <source>m7b9</source>
         <translation>m7/9b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="75"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="74"/>
         <source>m7add11</source>
         <translation>m7 add11 </translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="76"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="75"/>
         <source>m7add13</source>
         <translation>m7 add13</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="77"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="76"/>
         <source>m-Maj7</source>
         <translation>m-Maj7</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="78"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="77"/>
         <source>m-Maj7add11</source>
         <translation>m-Maj7 add11</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="79"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="78"/>
         <source>m-Maj7add13</source>
         <translation>m-Maj7 add13</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="81"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="80"/>
         <source>9</source>
         <translation>9</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="82"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="81"/>
         <source>9sus4</source>
         <translation>9 sus4</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="83"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="82"/>
         <source>add9</source>
         <translation>add9</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="84"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="83"/>
         <source>9#5</source>
         <translation>9/5#</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="85"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="84"/>
         <source>9b5</source>
         <translation>9/5b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="86"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="85"/>
         <source>9#11</source>
         <translation>9/11#</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="87"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="86"/>
         <source>9b13</source>
         <translation>9/13b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="88"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="87"/>
         <source>Maj9</source>
         <translation>Maj9</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="89"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="88"/>
         <source>Maj9sus4</source>
         <translation>Maj9 sus4</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="90"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="89"/>
         <source>Maj9#5</source>
         <translation>Maj9/5#</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="91"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="90"/>
         <source>Maj9#11</source>
         <translation>Maj9/11#</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="92"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="91"/>
         <source>m9</source>
         <translation>m9</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="93"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="92"/>
         <source>madd9</source>
         <translation>m add9</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="94"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="93"/>
         <source>m9b5</source>
         <translation>m9/5b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="95"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="94"/>
         <source>m9-Maj7</source>
         <translation>m9-Maj7</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="97"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="96"/>
         <source>11</source>
         <translation>11</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="98"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="97"/>
         <source>11b9</source>
         <translation>11/9b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="99"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="98"/>
         <source>Maj11</source>
         <translation>Maj11</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="100"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="99"/>
         <source>m11</source>
         <translation>m11</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="101"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="100"/>
         <source>m-Maj11</source>
         <translation>m-Maj11</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="103"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="102"/>
         <source>13</source>
         <translation>13</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="104"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="103"/>
         <source>13#9</source>
         <translation>13/9#</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="105"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="104"/>
         <source>13b9</source>
         <translation>13/9b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="106"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="105"/>
         <source>13b5b9</source>
         <translation>13/9b/5b</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="107"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="106"/>
         <source>Maj13</source>
         <translation>Maj13</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="108"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="107"/>
         <source>m13</source>
         <translation>m13</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="109"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="108"/>
         <source>m-Maj13</source>
         <translation>m-Maj13</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="112"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="111"/>
         <source>Harmonic minor</source>
         <translation>Mollová harmonická</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="113"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="112"/>
         <source>Melodic minor</source>
         <translation>Mollová melodická</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="114"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="113"/>
         <source>Whole tone</source>
         <translation>Celotónová stupnice</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="115"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="114"/>
         <source>Diminished</source>
         <translation>Zmenšená</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="116"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="115"/>
         <source>Major pentatonic</source>
         <translation>Durová pentatonika</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="117"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="116"/>
         <source>Minor pentatonic</source>
         <translation>Mollová pentatonika</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="118"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="117"/>
         <source>Jap in sen</source>
         <translation>Japonská (in sen) stupnice</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="119"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="118"/>
         <source>Major bebop</source>
         <translation>Durová bebopová</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="120"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="119"/>
         <source>Dominant bebop</source>
         <translation>Dominantní bebopová</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="121"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="120"/>
         <source>Blues</source>
         <translation>Bluesová stupnice</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="122"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="121"/>
         <source>Arabic</source>
         <translation>Arabská</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="123"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="122"/>
         <source>Enigmatic</source>
         <translation>Enigmatická</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="124"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="123"/>
         <source>Neopolitan</source>
         <translation>Neapolská</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="125"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="124"/>
         <source>Neopolitan minor</source>
         <translation>Mollová neapolská</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="126"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="125"/>
         <source>Hungarian minor</source>
         <translation>Mollová maďarská</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="127"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="126"/>
         <source>Dorian</source>
         <translation>Dórská</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="128"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="127"/>
         <source>Phrygian</source>
         <translation>Frygický</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="129"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="128"/>
         <source>Lydian</source>
         <translation>Lydická</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="130"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="129"/>
         <source>Mixolydian</source>
         <translation>Mixolydická</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="131"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="130"/>
         <source>Aeolian</source>
         <translation>Aiolská</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="132"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="131"/>
         <source>Locrian</source>
         <translation>Lokrická</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="133"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="132"/>
         <source>Minor</source>
         <translation>Moll</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="134"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="133"/>
         <source>Chromatic</source>
         <translation>Chromatická</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="135"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="134"/>
         <source>Half-Whole Diminished</source>
         <translation>Zmenšená (půltón–celý tón)</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="137"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="136"/>
         <source>5</source>
         <translation>5</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="138"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="137"/>
         <source>Phrygian dominant</source>
         <translation>Frygická dominanta</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="139"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="138"/>
         <source>Persian</source>
         <translation>Perská</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="207"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="206"/>
         <source>Chords</source>
         <translation>Akordy</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="209"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="208"/>
         <source>Chord type</source>
         <translation>Typ akordu</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="210"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="209"/>
         <source>Chord range</source>
         <translation>Rozsah akordu</translation>
     </message>
@@ -5848,158 +5848,158 @@ Ověřte si prosím, zda máte povolen zápis do souboru a do složky, ve které
 <context>
     <name>InstrumentSoundShaping</name>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="48"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="47"/>
         <source>VOLUME</source>
         <translation>HLASITOST</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="49"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="48"/>
         <source>Volume</source>
         <translation>Hlasitost</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="50"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="49"/>
         <source>CUTOFF</source>
         <translation>SEŘÍZNUTÍ</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="51"/>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="64"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="50"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="63"/>
         <source>Cutoff frequency</source>
         <translation>Frekvence oříznutí</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="52"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="51"/>
         <source>RESO</source>
         <translation>REZONANCE</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="53"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="52"/>
         <source>Resonance</source>
         <translation>Rezonance</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="60"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="59"/>
         <source>Envelopes/LFOs</source>
         <translation>Obálky/LFO</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="63"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="62"/>
         <source>Filter type</source>
         <translation>Typ filtru</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="65"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="64"/>
         <source>Q/Resonance</source>
         <translation>Q/rezonance</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="81"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="80"/>
         <source>Low-pass</source>
         <translation>Dolní propust</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="82"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="81"/>
         <source>Hi-pass</source>
         <translation>Horní propust</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="83"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="82"/>
         <source>Band-pass csg</source>
         <translation>Pásmová propust csg</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="84"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="83"/>
         <source>Band-pass czpg</source>
         <translation>Pásmová propust czpg</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="85"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="84"/>
         <source>Notch</source>
         <translation>Pásmová zádrž</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="86"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="85"/>
         <source>All-pass</source>
         <translation>All-pass</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="87"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="86"/>
         <source>Moog</source>
         <translation>Moogův filtr</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="88"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="87"/>
         <source>2x Low-pass</source>
         <translation>2x dolní propust</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="89"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="88"/>
         <source>RC Low-pass 12 dB/oct</source>
         <translation>RC dolní propust 12 dB/okt</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="90"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="89"/>
         <source>RC Band-pass 12 dB/oct</source>
         <translation>RC pásmová propust 12 dB/okt</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="91"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="90"/>
         <source>RC High-pass 12 dB/oct</source>
         <translation>RC horní propust 12 dB/okt</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="92"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="91"/>
         <source>RC Low-pass 24 dB/oct</source>
         <translation>RC dolní propust 24 dB/okt</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="93"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="92"/>
         <source>RC Band-pass 24 dB/oct</source>
         <translation>RC pásmová propust 24 dB/okt</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="94"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="93"/>
         <source>RC High-pass 24 dB/oct</source>
         <translation>RC horní propust 24 dB/okt</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="95"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="94"/>
         <source>Vocal Formant</source>
         <translation>Vokální formant</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="96"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="95"/>
         <source>2x Moog</source>
         <translation>2x Moogův filtr</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="97"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="96"/>
         <source>SV Low-pass</source>
         <translation>SV dolní propust</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="98"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="97"/>
         <source>SV Band-pass</source>
         <translation>SV pásmová propust</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="99"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="98"/>
         <source>SV High-pass</source>
         <translation>SV horní propust</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="100"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="99"/>
         <source>SV Notch</source>
         <translation>SV pásmová zádrž</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="101"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="100"/>
         <source>Fast Formant</source>
         <translation>Rychlý formantový filtr</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="102"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="101"/>
         <source>Tripole</source>
         <translation>Třípólový filtr</translation>
     </message>
@@ -6092,7 +6092,7 @@ Ověřte si prosím, zda máte povolen zápis do souboru a do složky, ve které
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="124"/>
-        <location filename="../../plugins/vestige/vestige.cpp" line="334"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="335"/>
         <source>Default preset</source>
         <translation>Výchozí předvolba</translation>
     </message>
@@ -7988,120 +7988,120 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
         <translation>Osc 3 – suboscilátor LFO 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="313"/>
-        <location filename="../../plugins/monstro/Monstro.h" line="331"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="312"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="330"/>
         <source>Sine wave</source>
         <translation>Sinusová vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="314"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="313"/>
         <source>Bandlimited Triangle wave</source>
         <translation>Pásmově zúžená trojúhelníková vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="315"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="314"/>
         <source>Bandlimited Saw wave</source>
         <translation>Pásmově zúžená pilovitá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="316"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="315"/>
         <source>Bandlimited Ramp wave</source>
         <translation>Pásmově zúžená šikmá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="317"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="316"/>
         <source>Bandlimited Square wave</source>
         <translation>Pásmově zúžená pravoúhlá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="318"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="317"/>
         <source>Bandlimited Moog saw wave</source>
         <translation>Pásmově zúžená pilovitá vlna typu Moog</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="319"/>
-        <location filename="../../plugins/monstro/Monstro.h" line="337"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="318"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="336"/>
         <source>Soft square wave</source>
         <translation>Zaoblená pravoúhlá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="320"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="319"/>
         <source>Absolute sine wave</source>
         <translation>Absolutní sinusová vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="321"/>
-        <location filename="../../plugins/monstro/Monstro.h" line="339"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="320"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="338"/>
         <source>Exponential wave</source>
         <translation>Exponenciální vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="322"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="321"/>
         <source>White noise</source>
         <translation>Bílý šum</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="323"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="322"/>
         <source>Digital Triangle wave</source>
         <translation>Digitální trojúhelníková vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="324"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="323"/>
         <source>Digital Saw wave</source>
         <translation>Digitální pilovitá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="325"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="324"/>
         <source>Digital Ramp wave</source>
         <translation>Digitální šikmá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="326"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="325"/>
         <source>Digital Square wave</source>
         <translation>Digitální pravoúhlá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="327"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="326"/>
         <source>Digital Moog saw wave</source>
         <translation>Digitální pilovitá vlna typu Moog</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="332"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="331"/>
         <source>Triangle wave</source>
         <translation>Trojúhelníková vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="333"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="332"/>
         <source>Saw wave</source>
         <translation>Pilovitá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="334"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="333"/>
         <source>Ramp wave</source>
         <translation>Šikmá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="335"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="334"/>
         <source>Square wave</source>
         <translation>Pravoúhlá vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="336"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="335"/>
         <source>Moog saw wave</source>
         <translation>Pilovitá vlna typu Moog</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="338"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="337"/>
         <source>Abs. sine wave</source>
         <translation>Abs. sinusová vlna</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="340"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="339"/>
         <source>Random</source>
         <translation>Náhodná</translation>
     </message>
     <message>
-        <location filename="../../plugins/monstro/Monstro.h" line="341"/>
+        <location filename="../../plugins/monstro/Monstro.h" line="340"/>
         <source>Random smooth</source>
         <translation>Vyhlazená náhodná</translation>
     </message>
@@ -8944,42 +8944,42 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
 <context>
     <name>PatmanView</name>
     <message>
-        <location filename="../../plugins/patman/patman.cpp" line="465"/>
+        <location filename="../../plugins/patman/patman.cpp" line="466"/>
         <source>Open patch</source>
         <translation>Otevřít patch</translation>
     </message>
     <message>
-        <location filename="../../plugins/patman/patman.cpp" line="467"/>
+        <location filename="../../plugins/patman/patman.cpp" line="468"/>
         <source>Loop</source>
         <translation>Smyčka</translation>
     </message>
     <message>
-        <location filename="../../plugins/patman/patman.cpp" line="475"/>
+        <location filename="../../plugins/patman/patman.cpp" line="476"/>
         <source>Loop mode</source>
         <translation>Režim smyčky</translation>
     </message>
     <message>
-        <location filename="../../plugins/patman/patman.cpp" line="477"/>
+        <location filename="../../plugins/patman/patman.cpp" line="478"/>
         <source>Tune</source>
         <translation>Ladění</translation>
     </message>
     <message>
-        <location filename="../../plugins/patman/patman.cpp" line="485"/>
+        <location filename="../../plugins/patman/patman.cpp" line="486"/>
         <source>Tune mode</source>
         <translation>Režim ladění</translation>
     </message>
     <message>
-        <location filename="../../plugins/patman/patman.cpp" line="487"/>
+        <location filename="../../plugins/patman/patman.cpp" line="488"/>
         <source>No file selected</source>
         <translation>Není vybrán žádný soubor</translation>
     </message>
     <message>
-        <location filename="../../plugins/patman/patman.cpp" line="504"/>
+        <location filename="../../plugins/patman/patman.cpp" line="505"/>
         <source>Open patch file</source>
         <translation>Otevřít soubor patch</translation>
     </message>
     <message>
-        <location filename="../../plugins/patman/patman.cpp" line="508"/>
+        <location filename="../../plugins/patman/patman.cpp" line="509"/>
         <source>Patch-Files (*.pat)</source>
         <translation>Soubor patch (*.pat)</translation>
     </message>
@@ -9177,98 +9177,98 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
 <context>
     <name>PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="211"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="210"/>
         <source>Note Velocity</source>
         <translation>Dynamika noty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="212"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="211"/>
         <source>Note Panning</source>
         <translation>Panoráma noty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="225"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="224"/>
         <source>Mark/unmark current semitone</source>
         <translation>Zvýraznit/Skrýt zvolený tón</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="226"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="225"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>Zvýraznit/Skrýt zvolený tón ve všech oktávách</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="227"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="226"/>
         <source>Mark current scale</source>
         <translation>Zvýraznit zvolenou stupnici</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="228"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="227"/>
         <source>Mark current chord</source>
         <translation>Zvýraznit zvolený akord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="229"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="228"/>
         <source>Unmark all</source>
         <translation>Skrýt vše</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="230"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="229"/>
         <source>Select all notes on this key</source>
         <translation>Vybrat všechny noty zvolené výšky</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="344"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="343"/>
         <source>Note lock</source>
         <translation>Zamknout notu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="354"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="353"/>
         <source>Last note</source>
         <translation>Podle poslední noty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="378"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="377"/>
         <source>No key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="388"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="387"/>
         <source>No scale</source>
         <translation>Žádná stupnice</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="405"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="404"/>
         <source>No chord</source>
         <translation>Žádný akord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="466"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="465"/>
         <source>Velocity: %1%</source>
         <translation>Dynamika: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="475"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="474"/>
         <source>Panning: %1% left</source>
         <translation>Panoráma: %1% vlevo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="479"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="478"/>
         <source>Panning: %1% right</source>
         <translation>Panoráma: %1% vpravo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="483"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="482"/>
         <source>Panning: center</source>
         <translation>Panoráma: střed</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3214"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3213"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Otevřete prosím záznam poklepáním!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3844"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3863"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3843"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3862"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Vložte prosím novou hodnotu mezi %1 a %2:</translation>
     </message>
@@ -9474,7 +9474,7 @@ Důvod: &quot;%2&quot;</translation>
         <translation>Nativní plugin zesilovače</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="58"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="59"/>
         <source>Simple sampler with various settings for using samples (e.g. drums) in an instrument-track</source>
         <translation>Jednoduchý sampler s bohatým nastavením pro používání samplů (např. bicích nástrojů) v nástrojové stopě</translation>
     </message>
@@ -9574,7 +9574,7 @@ Důvod: &quot;%2&quot;</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Lv2Instrument/Lv2Instrument.cpp" line="47"/>
+        <location filename="../../plugins/Lv2Instrument/Lv2Instrument.cpp" line="48"/>
         <source>plugin for using arbitrary LV2 instruments inside LMMS.</source>
         <translation type="unfinished"/>
     </message>
@@ -9614,7 +9614,7 @@ Důvod: &quot;%2&quot;</translation>
         <translation>Aditivní syntezátor pro zvuky podobné varhanám</translation>
     </message>
     <message>
-        <location filename="../../plugins/patman/patman.cpp" line="57"/>
+        <location filename="../../plugins/patman/patman.cpp" line="58"/>
         <source>GUS-compatible patch instrument</source>
         <translation>GUS kompatibilní patch instrument</translation>
     </message>
@@ -9676,7 +9676,7 @@ Tento čip byl používán v počítačích Commodore 64.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="74"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="75"/>
         <source>VST-host for using VST(i)-plugins within LMMS</source>
         <translation>VST host pro užití VST(i) pluginů v LMMS</translation>
     </message>
@@ -9706,7 +9706,7 @@ Tento čip byl používán v počítačích Commodore 64.</translation>
         <translation>Parser matematických výrazů</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="61"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="62"/>
         <source>Embedded ZynAddSubFX</source>
         <translation>Vestavěný ZynAddSubFX</translation>
     </message>
@@ -11239,67 +11239,67 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleBuffer</name>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="280"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="282"/>
         <source>Fail to open file</source>
         <translation>Chyba otevírání souboru</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="281"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="283"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
         <translation>Audio soubory jsou omezeny na %1 MB velikosti a %2 minut délky</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="978"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="980"/>
         <source>Open audio file</source>
         <translation>Otevřít audio soubor</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1005"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Všechny audio soubory (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
         <source>Wave-Files (*.wav)</source>
         <translation>WAV soubory (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1008"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>OGG soubory (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1011"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>DrumSynth soubory (*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1012"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>FLAC soubory (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1011"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1013"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>SPEEX soubory (*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1014"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1016"/>
         <source>VOC-Files (*.voc)</source>
         <translation>VOC soubory (*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1015"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1017"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>Soubory AIFF (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1016"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1018"/>
         <source>AU-Files (*.au)</source>
         <translation>AU soubory (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1017"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1019"/>
         <source>RAW-Files (*.raw)</source>
         <translation>RAW soubory (*.raw)</translation>
     </message>
@@ -12023,33 +12023,48 @@ Zpoždění %2 ms</translation>
         <translation>Ovládání časové osy</translation>
     </message>
     <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="958"/>
+        <source>Bar insert controls</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="959"/>
+        <source>Insert bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="960"/>
+        <source>Remove bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="966"/>
         <source>Zoom controls</source>
         <translation>Ovládání zvětšení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="969"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="976"/>
         <source>Horizontal zooming</source>
         <translation>Horizontální zvětšení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="975"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="982"/>
         <source>Snap controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="983"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1018"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="990"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1025"/>
         <source>Clip snapping size</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="987"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="994"/>
         <source>Toggle proportional snap on/off</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1014"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1021"/>
         <source>Base snapping size</source>
         <translation type="unfinished"/>
     </message>
@@ -12275,12 +12290,12 @@ Zpoždění %2 ms</translation>
 <context>
     <name>Track</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2332"/>
+        <location filename="../../src/core/Track.cpp" line="2284"/>
         <source>Mute</source>
         <translation>Ztlumit</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2334"/>
+        <location filename="../../src/core/Track.cpp" line="2286"/>
         <source>Solo</source>
         <translation>Sólo</translation>
     </message>
@@ -12360,78 +12375,78 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="798"/>
+        <location filename="../../src/core/Track.cpp" line="775"/>
         <source>Current position</source>
         <translation>Aktuální pozice</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="806"/>
+        <location filename="../../src/core/Track.cpp" line="783"/>
         <source>Current length</source>
         <translation>Aktuální délka</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="807"/>
-        <location filename="../../src/core/Track.cpp" line="1052"/>
+        <location filename="../../src/core/Track.cpp" line="784"/>
+        <location filename="../../src/core/Track.cpp" line="1029"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 do %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="826"/>
+        <location filename="../../src/core/Track.cpp" line="803"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>K vytvoření kopie stiskněte &lt;%1&gt; a táhněte myší.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="827"/>
+        <location filename="../../src/core/Track.cpp" line="804"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>Stiskněte &lt;%1&gt; pro volnou změnu velikosti.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="828"/>
+        <location filename="../../src/core/Track.cpp" line="805"/>
         <source>Hint</source>
         <translation>Rada</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1142"/>
+        <location filename="../../src/core/Track.cpp" line="1119"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Smazat (prostřední tlačítko myši)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1143"/>
+        <location filename="../../src/core/Track.cpp" line="1120"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1151"/>
+        <location filename="../../src/core/Track.cpp" line="1128"/>
         <source>Cut</source>
         <translation>Vyjmout</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1152"/>
+        <location filename="../../src/core/Track.cpp" line="1129"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1159"/>
+        <location filename="../../src/core/Track.cpp" line="1136"/>
         <source>Copy</source>
         <translation>Kopírovat</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1160"/>
+        <location filename="../../src/core/Track.cpp" line="1137"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1165"/>
+        <location filename="../../src/core/Track.cpp" line="1142"/>
         <source>Paste</source>
         <translation>Vložit</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1173"/>
+        <location filename="../../src/core/Track.cpp" line="1150"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Ztlumit/Odtlumit (&lt;%1&gt; + prostřední tlačítko)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1174"/>
+        <location filename="../../src/core/Track.cpp" line="1151"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
@@ -12439,7 +12454,7 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
 <context>
     <name>TrackContentWidget</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2003"/>
+        <location filename="../../src/core/Track.cpp" line="1953"/>
         <source>Paste</source>
         <translation>Vložit</translation>
     </message>
@@ -12447,59 +12462,59 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
 <context>
     <name>TrackOperationsWidget</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2074"/>
+        <location filename="../../src/core/Track.cpp" line="2026"/>
         <source>Press &lt;%1&gt; while clicking on move-grip to begin a new drag&apos;n&apos;drop action.</source>
         <translation>Při klepnutí na úchop držte &lt;%1&gt; pro zkopírování přetahované stopy.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2089"/>
+        <location filename="../../src/core/Track.cpp" line="2041"/>
         <source>Actions</source>
         <translation>Akce</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2092"/>
-        <location filename="../../src/core/Track.cpp" line="2115"/>
+        <location filename="../../src/core/Track.cpp" line="2044"/>
+        <location filename="../../src/core/Track.cpp" line="2067"/>
         <source>Mute</source>
         <translation>Ztlumit</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2097"/>
-        <location filename="../../src/core/Track.cpp" line="2118"/>
+        <location filename="../../src/core/Track.cpp" line="2049"/>
+        <location filename="../../src/core/Track.cpp" line="2070"/>
         <source>Solo</source>
         <translation>Sólo</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2257"/>
+        <location filename="../../src/core/Track.cpp" line="2209"/>
         <source>Clone this track</source>
         <translation>Klonovat tuto stopu</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2260"/>
+        <location filename="../../src/core/Track.cpp" line="2212"/>
         <source>Remove this track</source>
         <translation>Odstranit tuto stopu</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2265"/>
+        <location filename="../../src/core/Track.cpp" line="2217"/>
         <source>Clear this track</source>
         <translation>Smazat tuto stopu</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2267"/>
+        <location filename="../../src/core/Track.cpp" line="2219"/>
         <source>FX %1: %2</source>
         <translation>Efekt %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2267"/>
+        <location filename="../../src/core/Track.cpp" line="2219"/>
         <source>Assign to new FX Channel</source>
         <translation>Přiřadit k novému efektovému kanálu</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2279"/>
+        <location filename="../../src/core/Track.cpp" line="2231"/>
         <source>Turn all recording on</source>
         <translation>Spustit všechna nahrávání</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2280"/>
+        <location filename="../../src/core/Track.cpp" line="2232"/>
         <source>Turn all recording off</source>
         <translation>Zastavit všechna nahrávání</translation>
     </message>
@@ -12731,73 +12746,73 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
 <context>
     <name>VestigeInstrumentView</name>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="506"/>
-        <location filename="../../plugins/vestige/vestige.cpp" line="678"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="507"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="679"/>
         <source>Open VST plugin</source>
         <translation>Otevřít VST plugin</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="518"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="519"/>
         <source>Control VST plugin from LMMS host</source>
         <translation>Ovládání VST pluginu hostitelským programem LMMS</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="531"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="532"/>
         <source>Open VST plugin preset</source>
         <translation>Otevřít předvolby VST pluginu</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="544"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="545"/>
         <source>Previous (-)</source>
         <translation>Předchozí (-)</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="559"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="560"/>
         <source>Save preset</source>
         <translation>Uložit předvolbu</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="572"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="573"/>
         <source>Next (+)</source>
         <translation>Další (+)</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="590"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="591"/>
         <source>Show/hide GUI</source>
         <translation>Zobrazit/Skrýt grafické rozhraní</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="597"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="598"/>
         <source>Turn off all notes</source>
         <translation>Vypnout všechny noty</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="682"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="683"/>
         <source>DLL-files (*.dll)</source>
         <translation>DLL soubory (*.dll)</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="683"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="684"/>
         <source>EXE-files (*.exe)</source>
         <translation>EXE soubory (*.exe)</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="884"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="888"/>
         <source>No VST plugin loaded</source>
         <translation>VST plugin není nahrán</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="892"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="896"/>
         <source>Preset</source>
         <translation>Předvolba</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="900"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="904"/>
         <source>by </source>
         <translation>od</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="909"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="913"/>
         <source> - VST plugin control</source>
         <translation>– ovládání VST pluginu</translation>
     </message>
@@ -12849,7 +12864,7 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
 <context>
     <name>VstPlugin</name>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="365"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="366"/>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="144"/>
         <source>The VST plugin %1 could not be loaded.</source>
         <translation>VST plugin %1  nelze načíst.</translation>
@@ -13466,42 +13481,42 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
 <context>
     <name>ZynAddSubFxInstrument</name>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="114"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="115"/>
         <source>Portamento</source>
         <translation>Portamento</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="115"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="116"/>
         <source>Filter frequency</source>
         <translation>Frekvence filtru</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="116"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="117"/>
         <source>Filter resonance</source>
         <translation>Rezonance filtru</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="117"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="118"/>
         <source>Bandwidth</source>
         <translation>Šířka pásma</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="118"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="119"/>
         <source>FM gain</source>
         <translation>Zesílení FM</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="119"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="120"/>
         <source>Resonance center frequency</source>
         <translation>Střední frekvence rezonance</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="120"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="121"/>
         <source>Resonance bandwidth</source>
         <translation>Šířka pásma rezonance</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="121"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="122"/>
         <source>Forward MIDI control change events</source>
         <translation>Odesílat události MIDI control change</translation>
     </message>
@@ -13509,82 +13524,82 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
 <context>
     <name>ZynAddSubFxView</name>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="514"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="515"/>
         <source>Portamento:</source>
         <translation>Portamento:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="515"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="516"/>
         <source>PORT</source>
         <translation>PORT</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="518"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="519"/>
         <source>Filter frequency:</source>
         <translation>Frekvence filtru:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="519"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="520"/>
         <source>FREQ</source>
         <translation>FREKV</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="522"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="523"/>
         <source>Filter resonance:</source>
         <translation>Rezonance filtru:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="523"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="524"/>
         <source>RES</source>
         <translation>REZ</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="526"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="527"/>
         <source>Bandwidth:</source>
         <translation>Šířka pásma:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="527"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="528"/>
         <source>BW</source>
         <translation>ŠP</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="530"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="531"/>
         <source>FM gain:</source>
         <translation>Zesílení FM:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="531"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="532"/>
         <source>FM GAIN</source>
         <translation>ZISK FM</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="534"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="535"/>
         <source>Resonance center frequency:</source>
         <translation>Střední frekvence rezonance:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="535"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="536"/>
         <source>RES CF</source>
         <translation>SF REZ</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="538"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="539"/>
         <source>Resonance bandwidth:</source>
         <translation>Šířka pásma rezonance:</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="539"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="540"/>
         <source>RES BW</source>
         <translation>ŠP REZ</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="541"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="542"/>
         <source>Forward MIDI control changes</source>
         <translation>Odesílat události MIDI control change</translation>
     </message>
     <message>
-        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="543"/>
+        <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="544"/>
         <source>Show GUI</source>
         <translation>Ukázat grafické rozhraní</translation>
     </message>
@@ -13592,62 +13607,62 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
 <context>
     <name>audioFileProcessor</name>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="78"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="79"/>
         <source>Amplify</source>
         <translation>Zesílení</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="79"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="80"/>
         <source>Start of sample</source>
         <translation>Začátek samplu</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="80"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="81"/>
         <source>End of sample</source>
         <translation>Konec samplu</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="81"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="82"/>
         <source>Loopback point</source>
         <translation>Začátek smyčky</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="82"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="83"/>
         <source>Reverse sample</source>
         <translation>Přehrávat pozpátku</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="83"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="84"/>
         <source>Loop mode</source>
         <translation>Režim smyčky</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="84"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="85"/>
         <source>Stutter</source>
         <translation>Pokračování v přehrávání samplu při změně noty</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="85"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="86"/>
         <source>Interpolation mode</source>
         <translation>Režim interpolace</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="103"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="104"/>
         <source>None</source>
         <translation>Žádný</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="104"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="105"/>
         <source>Linear</source>
         <translation>Lineární</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="105"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="106"/>
         <source>Sinc</source>
         <translation>Sinusový</translation>
     </message>
     <message>
-        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="244"/>
+        <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="245"/>
         <source>Sample not found: %1</source>
         <translation>Vzorek nenalezen: %1</translation>
     </message>
@@ -14644,24 +14659,24 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
 <context>
     <name>manageVestigeInstrumentView</name>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="933"/>
-        <location filename="../../plugins/vestige/vestige.cpp" line="1219"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="937"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="1226"/>
         <source> - VST plugin control</source>
         <translation>- ovládání VST pluginu</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="942"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="946"/>
         <source>VST Sync</source>
         <translation>VST synch</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="948"/>
-        <location filename="../../plugins/vestige/vestige.cpp" line="1071"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="952"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="1075"/>
         <source>Automated</source>
         <translation>Automaticky</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="955"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="959"/>
         <source>    Close    </source>
         <translation>Zavřít</translation>
     </message>
@@ -15152,12 +15167,12 @@ Přesvědčte se prosím, že máte právo ke čtení tohoto souboru a příslu�
 <context>
     <name>vestigeInstrument</name>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="353"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="354"/>
         <source>Loading plugin</source>
         <translation>Načítám plugin</translation>
     </message>
     <message>
-        <location filename="../../plugins/vestige/vestige.cpp" line="354"/>
+        <location filename="../../plugins/vestige/vestige.cpp" line="355"/>
         <source>Please wait while loading the VST plugin...</source>
         <translation>Počkejte prosím, než se načte VST plugin...</translation>
     </message>
