@@ -2225,7 +2225,7 @@ Voulez-vous le faire maintenant ?</translation>
 <context>
     <name>CarlaInstrumentView</name>
     <message>
-        <location filename="../../plugins/carlabase/carla.cpp" line="485"/>
+        <location filename="../../plugins/carlabase/carla.cpp" line="426"/>
         <source>Show GUI</source>
         <translation>Montrer l&apos;interface graphique</translation>
     </message>

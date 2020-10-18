@@ -1942,7 +1942,7 @@ Do you want to do this now?</source>
 <context>
     <name>CarlaInstrumentView</name>
     <message>
-        <location filename="../../plugins/carlabase/carla.cpp" line="485"/>
+        <location filename="../../plugins/carlabase/carla.cpp" line="426"/>
         <source>Show GUI</source>
         <translation type="unfinished"/>
     </message>
