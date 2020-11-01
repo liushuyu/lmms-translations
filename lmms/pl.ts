@@ -236,12 +236,12 @@ Radek Słowik</translation>
         <translation>Wydaje się, że serwer JACK został wyłączony i uruchomienie nowej instancji nie powiodło się więc LMMS nie może kontynuować pracy. Należy zapisać projekt i uruchomić serwer JACK i LMMSa ponownie.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="458"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
         <source>Client name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="470"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
         <source>Channels</source>
         <translation type="unfinished"/>
     </message>
@@ -309,12 +309,12 @@ Radek Słowik</translation>
 <context>
     <name>AudioSoundIo::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSoundIo.cpp" line="429"/>
+        <location filename="../../src/core/audio/AudioSoundIo.cpp" line="458"/>
         <source>Backend</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioSoundIo.cpp" line="436"/>
+        <location filename="../../src/core/audio/AudioSoundIo.cpp" line="465"/>
         <source>Device</source>
         <translation type="unfinished"/>
     </message>
@@ -1937,7 +1937,7 @@ Do you want to do this now?</source>
 <context>
     <name>CarlaInstrumentView</name>
     <message>
-        <location filename="../../plugins/carlabase/carla.cpp" line="426"/>
+        <location filename="../../plugins/carlabase/carla.cpp" line="420"/>
         <source>Show GUI</source>
         <translation>Pokaż GUI</translation>
     </message>
@@ -6329,28 +6329,28 @@ Copyright (C) 2017 ROLI Ltd.</source>
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="526"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="490"/>
         <source>Set linear</source>
         <translation>Ustaw linearnie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="526"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="490"/>
         <source>Set logarithmic</source>
         <translation>Ustaw logarytmicznie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="767"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="784"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="731"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="748"/>
         <source>Set value</source>
         <translation>Ustaw wartość</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="768"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="732"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Wprowadź nową wartość pomiędzy -96.0 dBFS a 6.0 dBFS:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="785"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="749"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Wprowadź nową wartość pomiędzy %1 a %2:</translation>
     </message>
@@ -6632,34 +6632,34 @@ Please make sure you have write permission to the file and the directory contain
 Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego plik i spróbuj ponownie!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="850"/>
+        <location filename="../../src/core/main.cpp" line="847"/>
         <source>Project recovery</source>
         <translation>Odzyskiwanie projektu</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="865"/>
+        <location filename="../../src/core/main.cpp" line="862"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>Plik odzyskiwania jest obecny. Wygląda na to, że ostatnia sesja nie została zakończona poprawnie lub inne okno LMMS już działa. Czy chcesz odzyskać projekt dla tej sesji?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="870"/>
-        <location filename="../../src/core/main.cpp" line="890"/>
+        <location filename="../../src/core/main.cpp" line="867"/>
+        <location filename="../../src/core/main.cpp" line="887"/>
         <source>Recover</source>
         <translation>Odzyskaj</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="871"/>
+        <location filename="../../src/core/main.cpp" line="868"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Odzyskaj plik. Podczas tego nie uruchamiaj wielu okien LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="873"/>
-        <location filename="../../src/core/main.cpp" line="888"/>
+        <location filename="../../src/core/main.cpp" line="870"/>
+        <location filename="../../src/core/main.cpp" line="885"/>
         <source>Discard</source>
         <translation>Odrzuć</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="874"/>
+        <location filename="../../src/core/main.cpp" line="871"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Uruchom domyślną sesję oraz usuń odzyskiwane pliki. Tego nie można cofnąć.</translation>
     </message>
@@ -9578,12 +9578,12 @@ Powód: &quot;%2&quot;</translation>
         <translation>Niezupełna monofoniczna emulacja syntezatora tb303.</translation>
     </message>
     <message>
-        <location filename="../../plugins/Lv2Effect/Lv2Effect.cpp" line="42"/>
+        <location filename="../../plugins/Lv2Effect/Lv2Effect.cpp" line="45"/>
         <source>plugin for using arbitrary LV2-effects inside LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Lv2Instrument/Lv2Instrument.cpp" line="48"/>
+        <location filename="../../plugins/Lv2Instrument/Lv2Instrument.cpp" line="51"/>
         <source>plugin for using arbitrary LV2 instruments inside LMMS.</source>
         <translation type="unfinished"/>
     </message>
@@ -9648,7 +9648,7 @@ Powód: &quot;%2&quot;</translation>
         <translation>Port sxfr dla LMMS</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="78"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="78"/>
         <source>Emulation of the MOS6581 and MOS8580 SID.
 This chip was used in the Commodore 64 computer.</source>
         <translation>Emulator układu dźwiękowego SID (MOS6581 i MOS8580)
@@ -11835,6 +11835,166 @@ Opóźnienie: %2 ms</translation>
     </message>
 </context>
 <context>
+    <name>SidInstrument</name>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="125"/>
+        <source>Cutoff frequency</source>
+        <translation>Częstotliwość graniczna</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="126"/>
+        <source>Resonance</source>
+        <translation>Zafalowanie charakterystyki</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="127"/>
+        <source>Filter type</source>
+        <translation>Rodzaj filtru</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="130"/>
+        <source>Voice 3 off</source>
+        <translation>Wyłącz głos 3</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="131"/>
+        <source>Volume</source>
+        <translation>Głośność</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="132"/>
+        <source>Chip model</source>
+        <translation>Rodzaj scalaka</translation>
+    </message>
+</context>
+<context>
+    <name>SidInstrumentView</name>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="495"/>
+        <source>Volume:</source>
+        <translation>Głośność:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="499"/>
+        <source>Resonance:</source>
+        <translation>Zafalowanie charakterystyki:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="503"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="695"/>
+        <source>Cutoff frequency:</source>
+        <translation>Częstotliwość graniczna:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="510"/>
+        <source>High-pass filter </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="516"/>
+        <source>Band-pass filter </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="522"/>
+        <source>Low-pass filter </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="534"/>
+        <source>Voice 3 off </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="540"/>
+        <source>MOS6581 SID </source>
+        <translation>MOS6581 SID </translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="546"/>
+        <source>MOS8580 SID </source>
+        <translation>MOS8580 SID </translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="555"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="670"/>
+        <source>Attack:</source>
+        <translation>Atak:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="559"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="676"/>
+        <source>Decay:</source>
+        <translation>Zanikanie:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="563"/>
+        <source>Sustain:</source>
+        <translation>Podtrzymanie:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="567"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="682"/>
+        <source>Release:</source>
+        <translation>Zwolnienie:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="571"/>
+        <source>Pulse Width:</source>
+        <translation>Współczynnik wypełnienia impulsu:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="575"/>
+        <source>Coarse:</source>
+        <translation>Zgrubne odstrojenie:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="584"/>
+        <source>Pulse wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="592"/>
+        <source>Triangle wave</source>
+        <translation>Fala trójkątna</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="600"/>
+        <source>Saw wave</source>
+        <translation>Fala piłokształtna</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="608"/>
+        <source>Noise</source>
+        <translation>Szum</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="625"/>
+        <source>Sync</source>
+        <translation>Synchronizacja</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="634"/>
+        <source>Ring modulation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="643"/>
+        <source>Filtered</source>
+        <translation>Filtrowany</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="652"/>
+        <source>Test</source>
+        <translation>Test</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="688"/>
+        <source>Pulse width:</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>SideBarWidget</name>
     <message>
         <location filename="../../src/gui/widgets/SideBarWidget.cpp" line="47"/>
@@ -12920,43 +13080,43 @@ Upewnij się, że masz uprawnienia do odczytu tego pliku i katalogu zawierające
         <translation>Wtyczka VST %1 nie może zostać załadowana.</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="485"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="481"/>
         <source>Open Preset</source>
         <translation>Otwórz Preset</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="486"/>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="566"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="482"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="562"/>
         <source>Vst Plugin Preset (*.fxp *.fxb)</source>
         <translation>Preset wtyczki VST (*.fxp *.fxb)</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="562"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="558"/>
         <source>: default</source>
         <translation>: domyślne</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="565"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="561"/>
         <source>Save Preset</source>
         <translation>Zapisz Preset</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="565"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="561"/>
         <source>.fxp</source>
         <translation>.fxp</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="581"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="577"/>
         <source>.FXP</source>
         <translation>.FXP</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="581"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="577"/>
         <source>.FXB</source>
         <translation>.FXB</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="582"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="578"/>
         <source>.fxb</source>
         <translation>.fxb</translation>
     </message>
@@ -14988,166 +15148,6 @@ Upewnij się, że masz uprawnienia do odczytu tego pliku i katalogu zawierające
     </message>
 </context>
 <context>
-    <name>sidInstrument</name>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="125"/>
-        <source>Cutoff frequency</source>
-        <translation>Częstotliwość graniczna</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="126"/>
-        <source>Resonance</source>
-        <translation>Zafalowanie charakterystyki</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="127"/>
-        <source>Filter type</source>
-        <translation>Rodzaj filtru</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="130"/>
-        <source>Voice 3 off</source>
-        <translation>Wyłącz głos 3</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="131"/>
-        <source>Volume</source>
-        <translation>Głośność</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="132"/>
-        <source>Chip model</source>
-        <translation>Rodzaj scalaka</translation>
-    </message>
-</context>
-<context>
-    <name>sidInstrumentView</name>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="495"/>
-        <source>Volume:</source>
-        <translation>Głośność:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="499"/>
-        <source>Resonance:</source>
-        <translation>Zafalowanie charakterystyki:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="503"/>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="695"/>
-        <source>Cutoff frequency:</source>
-        <translation>Częstotliwość graniczna:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="510"/>
-        <source>High-pass filter </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="516"/>
-        <source>Band-pass filter </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="522"/>
-        <source>Low-pass filter </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="534"/>
-        <source>Voice 3 off </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="540"/>
-        <source>MOS6581 SID </source>
-        <translation>MOS6581 SID </translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="546"/>
-        <source>MOS8580 SID </source>
-        <translation>MOS8580 SID </translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="555"/>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="670"/>
-        <source>Attack:</source>
-        <translation>Atak:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="559"/>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="676"/>
-        <source>Decay:</source>
-        <translation>Zanikanie:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="563"/>
-        <source>Sustain:</source>
-        <translation>Podtrzymanie:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="567"/>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="682"/>
-        <source>Release:</source>
-        <translation>Zwolnienie:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="571"/>
-        <source>Pulse Width:</source>
-        <translation>Współczynnik wypełnienia impulsu:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="575"/>
-        <source>Coarse:</source>
-        <translation>Zgrubne odstrojenie:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="584"/>
-        <source>Pulse wave</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="592"/>
-        <source>Triangle wave</source>
-        <translation>Fala trójkątna</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="600"/>
-        <source>Saw wave</source>
-        <translation>Fala piłokształtna</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="608"/>
-        <source>Noise</source>
-        <translation>Szum</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="625"/>
-        <source>Sync</source>
-        <translation>Synchronizacja</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="634"/>
-        <source>Ring modulation</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="643"/>
-        <source>Filtered</source>
-        <translation>Filtrowany</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="652"/>
-        <source>Test</source>
-        <translation>Test</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="688"/>
-        <source>Pulse width:</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>stereoEnhancerControlDialog</name>
     <message>
         <location filename="../../plugins/stereo_enhancer/stereoenhancer_control_dialog.cpp" line="42"/>
@@ -15404,57 +15404,57 @@ Upewnij się, że masz uprawnienia do odczytu tego pliku i katalogu zawierające
 <context>
     <name>voiceObject</name>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="95"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="95"/>
         <source>Voice %1 pulse width</source>
         <translation>Współczynnik wypełnienia impulsu głosu %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="97"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="97"/>
         <source>Voice %1 attack</source>
         <translation>Atak głosu %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="99"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="99"/>
         <source>Voice %1 decay</source>
         <translation>Zanikanie głosu %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="101"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="101"/>
         <source>Voice %1 sustain</source>
         <translation>Podtrzymanie głosu %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="103"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="103"/>
         <source>Voice %1 release</source>
         <translation>Wybrzmiewanie głosu %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="105"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="105"/>
         <source>Voice %1 coarse detuning</source>
         <translation>Zgrubne odstrojenie głosu %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="107"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="107"/>
         <source>Voice %1 wave shape</source>
         <translation>Kształt fali głosu %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="109"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="109"/>
         <source>Voice %1 sync</source>
         <translation>Synchronizacja głosu %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="110"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="110"/>
         <source>Voice %1 ring modulate</source>
         <translation>Modulacja pierścieniowa głosu %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="111"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="111"/>
         <source>Voice %1 filtered</source>
         <translation>Filtrowanie głosu %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="112"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="112"/>
         <source>Voice %1 test</source>
         <translation>Test głosu %1</translation>
     </message>

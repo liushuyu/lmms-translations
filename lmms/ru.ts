@@ -244,12 +244,12 @@ Simple88 (2016)</translation>
         <translation>Возможно JACK-сервер был выключен и запуск нового процесса не удался, поэтому LMMS не может продолжить работу. Вам следует сохранить проект и перезапустить JACK и LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="458"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
         <source>Client name</source>
         <translation>Имя клиента</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="470"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
         <source>Channels</source>
         <translation>Каналы</translation>
     </message>
@@ -317,12 +317,12 @@ Simple88 (2016)</translation>
 <context>
     <name>AudioSoundIo::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSoundIo.cpp" line="429"/>
+        <location filename="../../src/core/audio/AudioSoundIo.cpp" line="458"/>
         <source>Backend</source>
         <translation>Интерфейс</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioSoundIo.cpp" line="436"/>
+        <location filename="../../src/core/audio/AudioSoundIo.cpp" line="465"/>
         <source>Device</source>
         <translation>Устройство</translation>
     </message>
@@ -1503,7 +1503,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="746"/>
         <source>00:00:00</source>
-        <translation type="unfinished"/>
+        <translation>00:00:00</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="773"/>
@@ -1946,7 +1946,7 @@ Do you want to do this now?</source>
 <context>
     <name>CarlaInstrumentView</name>
     <message>
-        <location filename="../../plugins/carlabase/carla.cpp" line="426"/>
+        <location filename="../../plugins/carlabase/carla.cpp" line="420"/>
         <source>Show GUI</source>
         <translation>Показать интерфейс</translation>
     </message>
@@ -2954,7 +2954,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="187"/>
         <source>Setup</source>
-        <translation type="unfinished"/>
+        <translation>Настройка</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="224"/>
@@ -3089,7 +3089,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings_driver.ui" line="20"/>
         <source>Driver Settings</source>
-        <translation type="unfinished"/>
+        <translation>Параметры драйвера</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings_driver.ui" line="79"/>
@@ -4864,17 +4864,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="255"/>
         <source>Set channel color</source>
-        <translation type="unfinished"/>
+        <translation>Установить цвет канала</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="256"/>
         <source>Remove channel color</source>
-        <translation type="unfinished"/>
+        <translation>Удалить цвет канала</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="257"/>
         <source>Pick random channel color</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать случайный цвет канала</translation>
     </message>
 </context>
 <context>
@@ -6345,28 +6345,28 @@ Copyright © 2017 ROLI Ltd.</translation>
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="526"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="490"/>
         <source>Set linear</source>
         <translation>Установить линейно</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="526"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="490"/>
         <source>Set logarithmic</source>
         <translation>Установить логарифмически</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="767"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="784"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="731"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="748"/>
         <source>Set value</source>
         <translation>Установить величину</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="768"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="732"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Введите новое значение от –96,0 дБВ до 6,0 дБВ: </translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="785"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="749"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Введите новое значение от %1 до %2:</translation>
     </message>
@@ -6648,35 +6648,35 @@ Please make sure you have write permission to the file and the directory contain
         <translation>Невозможно открыть файл %1 для записи. Пожалуйста, убедитесь, что у вас есть разрешение на запись в файл и содержащую его директорию, и попробуйте снова.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="850"/>
+        <location filename="../../src/core/main.cpp" line="847"/>
         <source>Project recovery</source>
         <translation>Восстановление проекта</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="865"/>
+        <location filename="../../src/core/main.cpp" line="862"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>Остался файл для восстановления. Похоже последняя сессия не была нормально завершена или запущен ещё один процесс LMMS. 
 Хотите восстановить проект из этой сессии? </translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="870"/>
-        <location filename="../../src/core/main.cpp" line="890"/>
+        <location filename="../../src/core/main.cpp" line="867"/>
+        <location filename="../../src/core/main.cpp" line="887"/>
         <source>Recover</source>
         <translation>Восстановить</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="871"/>
+        <location filename="../../src/core/main.cpp" line="868"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Восстановить файл. Пожалуйства, не запускайте несколько процессов ЛММС во время этого.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="873"/>
-        <location filename="../../src/core/main.cpp" line="888"/>
+        <location filename="../../src/core/main.cpp" line="870"/>
+        <location filename="../../src/core/main.cpp" line="885"/>
         <source>Discard</source>
         <translation>Отклонить</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="874"/>
+        <location filename="../../src/core/main.cpp" line="871"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Запустить обычную сессию и удалить восстановленные файлы. Это безвозвратно. </translation>
     </message>
@@ -7021,7 +7021,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1145"/>
         <source>Fullscreen</source>
-        <translation type="unfinished"/>
+        <translation>На весь экран</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1155"/>
@@ -7448,7 +7448,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="456"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать всё</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="459"/>
@@ -9596,12 +9596,12 @@ Reason: &quot;%2&quot;</source>
         <translation>Незавершённая монофоническая имитация tb303</translation>
     </message>
     <message>
-        <location filename="../../plugins/Lv2Effect/Lv2Effect.cpp" line="42"/>
+        <location filename="../../plugins/Lv2Effect/Lv2Effect.cpp" line="45"/>
         <source>plugin for using arbitrary LV2-effects inside LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Lv2Instrument/Lv2Instrument.cpp" line="48"/>
+        <location filename="../../plugins/Lv2Instrument/Lv2Instrument.cpp" line="51"/>
         <source>plugin for using arbitrary LV2 instruments inside LMMS.</source>
         <translation type="unfinished"/>
     </message>
@@ -9666,7 +9666,7 @@ Reason: &quot;%2&quot;</source>
         <translation>LMMS-порт SFXR</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="78"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="78"/>
         <source>Emulation of the MOS6581 and MOS8580 SID.
 This chip was used in the Commodore 64 computer.</source>
         <translation>Эмуляция SID MOS6581 и MOS8580.
@@ -10392,7 +10392,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="520"/>
         <source>&gt;&gt; Skip</source>
-        <translation type="unfinished"/>
+        <translation>&gt;&gt; Пропустить</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="527"/>
@@ -11349,7 +11349,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="373"/>
         <source>Delete selection (middle mousebutton)</source>
-        <translation type="unfinished"/>
+        <translation>Удалить выделенное (средняя кнопка мыши)</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="381"/>
@@ -11359,7 +11359,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="382"/>
         <source>Cut selection</source>
-        <translation type="unfinished"/>
+        <translation>Вырезать выделенное</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="389"/>
@@ -11369,7 +11369,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="390"/>
         <source>Copy selection</source>
-        <translation type="unfinished"/>
+        <translation>Копировать выделенное</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="395"/>
@@ -11384,17 +11384,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="404"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
-        <translation type="unfinished"/>
+        <translation>Отключить или включить звук для выделенного (&lt;%1&gt; + средняя кнопка мыши)</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="414"/>
         <source>Set clip color</source>
-        <translation type="unfinished"/>
+        <translation>Установить цвет клипа</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="416"/>
         <source>Use track color</source>
-        <translation type="unfinished"/>
+        <translation>Использовать цвет дорожки</translation>
     </message>
 </context>
 <context>
@@ -11576,12 +11576,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="238"/>
         <source>Show sidebar on the right-hand side</source>
-        <translation type="unfinished"/>
+        <translation>Показывать боковую панель справа</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="240"/>
         <source>Mute automation tracks during solo</source>
-        <translation type="unfinished"/>
+        <translation>Отключать дорожки автоматизации во время соло</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="250"/>
@@ -11591,17 +11591,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="253"/>
         <source>Compress project files by default</source>
-        <translation type="unfinished"/>
+        <translation>По умолчанию сжимать файлы проекта</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="255"/>
         <source>Create a backup file when saving a project</source>
-        <translation type="unfinished"/>
+        <translation>Создавать резервные копии при сохранении проекта</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="257"/>
         <source>Reopen last project on startup</source>
-        <translation type="unfinished"/>
+        <translation>Открывать последний проект при запуске</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="264"/>
@@ -11637,12 +11637,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="377"/>
         <source>Smooth scroll in song editor</source>
-        <translation type="unfinished"/>
+        <translation>Плавная прокрутка в редакторе композиции</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="379"/>
         <source>Display playback cursor in AudioFileProcessor</source>
-        <translation type="unfinished"/>
+        <translation>Показывать указатель воспроизведения в процессоре звуковых файлов</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="389"/>
@@ -11724,7 +11724,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="688"/>
         <source>Automatically assign MIDI controller to selected track</source>
-        <translation type="unfinished"/>
+        <translation>Автоматически назначать MIDI-контроллер на выбранную дорожку</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="768"/>
@@ -11734,12 +11734,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="772"/>
         <source>VST plugins directory</source>
-        <translation type="unfinished"/>
+        <translation>Каталог модулей VST</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="776"/>
         <source>LADSPA plugins directories</source>
-        <translation type="unfinished"/>
+        <translation>Каталог модулей LADSPA</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="780"/>
@@ -11749,7 +11749,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="785"/>
         <source>Default SF2</source>
-        <translation type="unfinished"/>
+        <translation>Файл SF2 по умолчанию</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="790"/>
@@ -11759,7 +11759,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="794"/>
         <source>Theme directory</source>
-        <translation type="unfinished"/>
+        <translation>Каталог тем</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="798"/>
@@ -11853,6 +11853,166 @@ Latency: %2 ms</source>
         <location filename="../../src/gui/SetupDialog.cpp" line="1066"/>
         <source>Disabled</source>
         <translation>Отключено</translation>
+    </message>
+</context>
+<context>
+    <name>SidInstrument</name>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="125"/>
+        <source>Cutoff frequency</source>
+        <translation>Частота среза</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="126"/>
+        <source>Resonance</source>
+        <translation>Резонанс</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="127"/>
+        <source>Filter type</source>
+        <translation>Тип фильтра</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="130"/>
+        <source>Voice 3 off</source>
+        <translation>Голос 3 откл.</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="131"/>
+        <source>Volume</source>
+        <translation>Громкость</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="132"/>
+        <source>Chip model</source>
+        <translation>Модель чипа</translation>
+    </message>
+</context>
+<context>
+    <name>SidInstrumentView</name>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="495"/>
+        <source>Volume:</source>
+        <translation>Уровень громкости:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="499"/>
+        <source>Resonance:</source>
+        <translation>Резонанс:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="503"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="695"/>
+        <source>Cutoff frequency:</source>
+        <translation>Частота среза:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="510"/>
+        <source>High-pass filter </source>
+        <translation>Фильтр верхних частот</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="516"/>
+        <source>Band-pass filter </source>
+        <translation>Полосовой фильтр</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="522"/>
+        <source>Low-pass filter </source>
+        <translation>Фильтр нижних частот</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="534"/>
+        <source>Voice 3 off </source>
+        <translation>Голос 3 откл.</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="540"/>
+        <source>MOS6581 SID </source>
+        <translation>MOS6581 SID </translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="546"/>
+        <source>MOS8580 SID </source>
+        <translation>MOS8580 SID </translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="555"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="670"/>
+        <source>Attack:</source>
+        <translation>Атака:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="559"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="676"/>
+        <source>Decay:</source>
+        <translation>Спад:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="563"/>
+        <source>Sustain:</source>
+        <translation>Выдержка:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="567"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="682"/>
+        <source>Release:</source>
+        <translation>Затухание:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="571"/>
+        <source>Pulse Width:</source>
+        <translation>Длина импульса:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="575"/>
+        <source>Coarse:</source>
+        <translation>Грубо:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="584"/>
+        <source>Pulse wave</source>
+        <translation>Пульсирующая волна</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="592"/>
+        <source>Triangle wave</source>
+        <translation>Треугольная волна</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="600"/>
+        <source>Saw wave</source>
+        <translation>Пило-волна</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="608"/>
+        <source>Noise</source>
+        <translation>Шум</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="625"/>
+        <source>Sync</source>
+        <translation>Синхро</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="634"/>
+        <source>Ring modulation</source>
+        <translation>Круговая модуляция</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="643"/>
+        <source>Filtered</source>
+        <translation>Фильтр.</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="652"/>
+        <source>Test</source>
+        <translation>Тест</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="688"/>
+        <source>Pulse width:</source>
+        <translation>Длина импульса</translation>
     </message>
 </context>
 <context>
@@ -12305,7 +12465,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="141"/>
         <source>After stopping go back to beginning</source>
-        <translation type="unfinished"/>
+        <translation>После остановки возвращаться в начало</translation>
     </message>
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="144"/>
@@ -12454,7 +12614,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="1173"/>
         <source>Delete selection (middle mousebutton)</source>
-        <translation type="unfinished"/>
+        <translation>Удалить выделенное (средняя кнопка мыши)</translation>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1181"/>
@@ -12464,7 +12624,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="1182"/>
         <source>Cut selection</source>
-        <translation type="unfinished"/>
+        <translation>Вырезать выделенное</translation>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1189"/>
@@ -12474,7 +12634,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="1190"/>
         <source>Copy selection</source>
-        <translation type="unfinished"/>
+        <translation>Копировать выделенное</translation>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1195"/>
@@ -12489,17 +12649,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="1204"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
-        <translation type="unfinished"/>
+        <translation>Отключить или включить звук для выделенного (&lt;%1&gt; + средняя кнопка мыши)</translation>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1210"/>
         <source>Set clip color</source>
-        <translation type="unfinished"/>
+        <translation>Установить цвет клипа</translation>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="1212"/>
         <source>Use track color</source>
-        <translation type="unfinished"/>
+        <translation>Использовать цвет дорожки</translation>
     </message>
 </context>
 <context>
@@ -12582,12 +12742,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/Track.cpp" line="2392"/>
         <source>Set random color</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать случайный цвет</translation>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="2395"/>
         <source>Clear clip colors</source>
-        <translation type="unfinished"/>
+        <translation>Очистить цвета клипа</translation>
     </message>
 </context>
 <context>
@@ -12941,43 +13101,43 @@ Please make sure you have read-permission to the file and the directory containi
         <translation>VST-плагин %1 не загружается.</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="485"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="481"/>
         <source>Open Preset</source>
         <translation>Открыть предустановку</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="486"/>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="566"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="482"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="562"/>
         <source>Vst Plugin Preset (*.fxp *.fxb)</source>
         <translation>Предустановка VST-плагина (*.fxp *.fxb)</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="562"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="558"/>
         <source>: default</source>
         <translation>: основные</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="565"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="561"/>
         <source>Save Preset</source>
         <translation>Сохранить настройку</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="565"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="561"/>
         <source>.fxp</source>
         <translation>.fxp</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="581"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="577"/>
         <source>.FXP</source>
         <translation>.FXP</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="581"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="577"/>
         <source>.FXB</source>
         <translation>.FXB</translation>
     </message>
     <message>
-        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="582"/>
+        <location filename="../../plugins/vst_base/VstPlugin.cpp" line="578"/>
         <source>.fxb</source>
         <translation>.fxb</translation>
     </message>
@@ -15009,166 +15169,6 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
 </context>
 <context>
-    <name>sidInstrument</name>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="125"/>
-        <source>Cutoff frequency</source>
-        <translation>Частота среза</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="126"/>
-        <source>Resonance</source>
-        <translation>Резонанс</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="127"/>
-        <source>Filter type</source>
-        <translation>Тип фильтра</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="130"/>
-        <source>Voice 3 off</source>
-        <translation>Голос 3 откл.</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="131"/>
-        <source>Volume</source>
-        <translation>Громкость</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="132"/>
-        <source>Chip model</source>
-        <translation>Модель чипа</translation>
-    </message>
-</context>
-<context>
-    <name>sidInstrumentView</name>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="495"/>
-        <source>Volume:</source>
-        <translation>Громкость:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="499"/>
-        <source>Resonance:</source>
-        <translation>Резонанс:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="503"/>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="695"/>
-        <source>Cutoff frequency:</source>
-        <translation>Частота среза:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="510"/>
-        <source>High-pass filter </source>
-        <translation>Фильтр верхних частот</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="516"/>
-        <source>Band-pass filter </source>
-        <translation>Полосовой фильтр</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="522"/>
-        <source>Low-pass filter </source>
-        <translation>Фильтр нижних частот</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="534"/>
-        <source>Voice 3 off </source>
-        <translation>Голос 3 откл.</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="540"/>
-        <source>MOS6581 SID </source>
-        <translation>MOS6581 SID </translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="546"/>
-        <source>MOS8580 SID </source>
-        <translation>MOS8580 SID </translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="555"/>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="670"/>
-        <source>Attack:</source>
-        <translation>Атака:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="559"/>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="676"/>
-        <source>Decay:</source>
-        <translation>Спад:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="563"/>
-        <source>Sustain:</source>
-        <translation>Выдержка:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="567"/>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="682"/>
-        <source>Release:</source>
-        <translation>Затухание:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="571"/>
-        <source>Pulse Width:</source>
-        <translation>Длина импульса:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="575"/>
-        <source>Coarse:</source>
-        <translation>Грубо:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="584"/>
-        <source>Pulse wave</source>
-        <translation>Пульсирующая волна</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="592"/>
-        <source>Triangle wave</source>
-        <translation>Треугольная волна</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="600"/>
-        <source>Saw wave</source>
-        <translation>Пило-волна</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="608"/>
-        <source>Noise</source>
-        <translation>Шум</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="625"/>
-        <source>Sync</source>
-        <translation>Синхро</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="634"/>
-        <source>Ring modulation</source>
-        <translation>Круговая модуляция</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="643"/>
-        <source>Filtered</source>
-        <translation>Фильтр.</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="652"/>
-        <source>Test</source>
-        <translation>Тест</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="688"/>
-        <source>Pulse width:</source>
-        <translation>Длина импульса</translation>
-    </message>
-</context>
-<context>
     <name>stereoEnhancerControlDialog</name>
     <message>
         <location filename="../../plugins/stereo_enhancer/stereoenhancer_control_dialog.cpp" line="42"/>
@@ -15425,57 +15425,57 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>voiceObject</name>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="95"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="95"/>
         <source>Voice %1 pulse width</source>
         <translation>Голос %1 длина сигнала</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="97"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="97"/>
         <source>Voice %1 attack</source>
         <translation>Атака %1 голоса</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="99"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="99"/>
         <source>Voice %1 decay</source>
         <translation>Спад %1 голоса</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="101"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="101"/>
         <source>Voice %1 sustain</source>
         <translation>Выдержка %1 голоса</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="103"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="103"/>
         <source>Voice %1 release</source>
         <translation>Затухание голоса %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="105"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="105"/>
         <source>Voice %1 coarse detuning</source>
         <translation>Подстройка %1 голоса (грубо)</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="107"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="107"/>
         <source>Voice %1 wave shape</source>
         <translation>Форма сигнала для %1 голоса</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="109"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="109"/>
         <source>Voice %1 sync</source>
         <translation>Синхронизация %1 голоса</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="110"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="110"/>
         <source>Voice %1 ring modulate</source>
         <translation>Голос %1 кольцевой модулятор</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="111"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="111"/>
         <source>Voice %1 filtered</source>
         <translation>Фильтрованный %1 голос</translation>
     </message>
     <message>
-        <location filename="../../plugins/sid/sid_instrument.cpp" line="112"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="112"/>
         <source>Voice %1 test</source>
         <translation>Голос %1 тест</translation>
     </message>
