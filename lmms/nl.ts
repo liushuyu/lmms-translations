@@ -679,7 +679,7 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
         <translation>Beat/baslijn %1</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="437"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="438"/>
         <source>Clone of %1</source>
         <translation>Kloon van %1</translation>
     </message>
@@ -6091,52 +6091,52 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
 <context>
     <name>InstrumentTrackView</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="989"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="991"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="992"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="994"/>
         <source>Volume:</source>
         <translation>Volume:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="994"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="996"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="998"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1000"/>
         <source>Panning</source>
         <translation>Balans</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1000"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1002"/>
         <source>Panning:</source>
         <translation>Balans:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1002"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1004"/>
         <source>PAN</source>
         <translation>BAL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1005"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1007"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1037"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1039"/>
         <source>Input</source>
         <translation>Invoer</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1038"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1040"/>
         <source>Output</source>
         <translation>Uitvoer</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1311"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1313"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
@@ -6144,112 +6144,112 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
 <context>
     <name>InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1340"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1342"/>
         <source>GENERAL SETTINGS</source>
         <translation>ALGEMENE INSTELLINGEN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1386"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1388"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1388"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1390"/>
         <source>Volume:</source>
         <translation>Volume:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1393"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1395"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1400"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1402"/>
         <source>Panning</source>
         <translation>Balans</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1401"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1403"/>
         <source>Panning:</source>
         <translation>Balans:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1406"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1408"/>
         <source>PAN</source>
         <translation>BAL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1416"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1418"/>
         <source>Pitch</source>
         <translation>Toonhoogte</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1417"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1419"/>
         <source>Pitch:</source>
         <translation>Toonhoogte:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1417"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1419"/>
         <source>cents</source>
         <translation>cents</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1422"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1424"/>
         <source>PITCH</source>
         <translation>TOONHOOGTE</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1429"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1431"/>
         <source>Pitch range (semitones)</source>
         <translation>Toonhoogte-bereik (semitones)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1434"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1436"/>
         <source>RANGE</source>
         <translation>BEREIK</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1444"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1446"/>
         <source>FX channel</source>
         <translation>FX-kanaal</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1449"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1451"/>
         <source>FX</source>
         <translation>FX</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1459"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>Huidige instrument-track-instellingen opslaan in een presetbestand</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1463"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1465"/>
         <source>SAVE</source>
         <translation>OPSLAAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1502"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation>Envelope, filter en LFO</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1503"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1505"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation>Akkoorden opeenstapelen &amp; arpeggio</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1506"/>
         <source>Effects</source>
         <translation>Effecten</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1505"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1507"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1506"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1508"/>
         <source>Miscellaneous</source>
         <translation>Overige</translation>
     </message>
@@ -7160,27 +7160,27 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
         <translation>U heeft LMMS niet gecompileerd met ondersteuning voor de SoundFont2-speler, die gebruikt wordt om standaardgeluid toe te voegen aan geïmporteerde MIDI-bestanden. Daarom zal er geen geluid afgespeeld worden na het importeren van dit MIDI-bestand.</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="337"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="335"/>
         <source>MIDI Time Signature Numerator</source>
         <translation>MIDI tijdsaanduiding-teller</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="340"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="338"/>
         <source>MIDI Time Signature Denominator</source>
         <translation>MIDI tijdsaanduiding-noemer</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="343"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="341"/>
         <source>Numerator</source>
         <translation>Noemer</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="347"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="345"/>
         <source>Denominator</source>
         <translation>Teller</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="408"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="406"/>
         <source>Track</source>
         <translation>Track</translation>
     </message>
@@ -12047,42 +12047,42 @@ Latentie: %2 ms</translation>
 Verzeker u ervan dat u ten minste leesrechten heeft voor het bestand en probeer het opnieuw.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="278"/>
+        <location filename="../../src/core/DataFile.cpp" line="279"/>
         <source>Could not write file</source>
         <translation>Kan bestand niet schrijven</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="279"/>
+        <location filename="../../src/core/DataFile.cpp" line="280"/>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
         <translation>Kon %1 niet openen om te schrijven. U heeft waarschijnlijk geen toestemming om naar dit bestand te schrijven. Verzeker u ervan dat u schrijfbevoegdheid heeft voor het bestand en probeer het opnieuw.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1447"/>
+        <location filename="../../src/core/DataFile.cpp" line="1448"/>
         <source>Error in file</source>
         <translation>Fout in bestand</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1448"/>
+        <location filename="../../src/core/DataFile.cpp" line="1449"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Bestand %1 lijkt fouten te bevatten en kan daardoor niet geladen worden.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1491"/>
+        <location filename="../../src/core/DataFile.cpp" line="1492"/>
         <source>Version difference</source>
         <translation>Versie-verschil</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1492"/>
+        <location filename="../../src/core/DataFile.cpp" line="1493"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1488"/>
+        <location filename="../../src/core/DataFile.cpp" line="1489"/>
         <source>template</source>
         <translation>sjabloon</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1488"/>
+        <location filename="../../src/core/DataFile.cpp" line="1489"/>
         <source>project</source>
         <translation>project</translation>
     </message>
@@ -12466,12 +12466,12 @@ Verzeker u ervan dat u ten minste leesrechten heeft voor het bestand en probeer 
 <context>
     <name>Track</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2446"/>
+        <location filename="../../src/core/Track.cpp" line="2455"/>
         <source>Mute</source>
         <translation>Dempen</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2448"/>
+        <location filename="../../src/core/Track.cpp" line="2457"/>
         <source>Solo</source>
         <translation>Solo</translation>
     </message>
@@ -12509,13 +12509,13 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="96"/>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="312"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="310"/>
         <source>Cancel</source>
         <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="100"/>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="313"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="311"/>
         <source>Please wait...</source>
         <translation>Even geduld...</translation>
     </message>
@@ -12535,7 +12535,7 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
         <translation>Track %1 laden (%2/totaal %3)</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="311"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="309"/>
         <source>Importing MIDI-file...</source>
         <translation>MIDI-bestand importeren...</translation>
     </message>
@@ -12551,88 +12551,88 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="828"/>
+        <location filename="../../src/core/Track.cpp" line="829"/>
         <source>Current position</source>
         <translation>Huidige positie</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="836"/>
+        <location filename="../../src/core/Track.cpp" line="837"/>
         <source>Current length</source>
         <translation>Huidige lengte</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="837"/>
-        <location filename="../../src/core/Track.cpp" line="1082"/>
+        <location filename="../../src/core/Track.cpp" line="838"/>
+        <location filename="../../src/core/Track.cpp" line="1081"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 tot %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="856"/>
+        <location filename="../../src/core/Track.cpp" line="857"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>Op &lt;%1&gt; drukken en slepen om een kopie te maken.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="857"/>
+        <location filename="../../src/core/Track.cpp" line="858"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>Op &lt;%1&gt; drukken voor vrije grootte-aanpassing.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="858"/>
+        <location filename="../../src/core/Track.cpp" line="859"/>
         <source>Hint</source>
         <translation>Tip</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1172"/>
+        <location filename="../../src/core/Track.cpp" line="1171"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Verwijderen (middelste muisknop)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1173"/>
+        <location filename="../../src/core/Track.cpp" line="1172"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1181"/>
+        <location filename="../../src/core/Track.cpp" line="1180"/>
         <source>Cut</source>
         <translation>Knippen</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1182"/>
+        <location filename="../../src/core/Track.cpp" line="1181"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1189"/>
+        <location filename="../../src/core/Track.cpp" line="1188"/>
         <source>Copy</source>
         <translation>Kopiëren</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1190"/>
+        <location filename="../../src/core/Track.cpp" line="1189"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1195"/>
+        <location filename="../../src/core/Track.cpp" line="1194"/>
         <source>Paste</source>
         <translation>Plakken</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1203"/>
+        <location filename="../../src/core/Track.cpp" line="1202"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Dempen/geluid aan (&lt;%1&gt; + middelklik)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1204"/>
+        <location filename="../../src/core/Track.cpp" line="1203"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1210"/>
+        <location filename="../../src/core/Track.cpp" line="1209"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1212"/>
+        <location filename="../../src/core/Track.cpp" line="1211"/>
         <source>Use track color</source>
         <translation type="unfinished"/>
     </message>
@@ -12640,7 +12640,7 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
 <context>
     <name>TrackContentWidget</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2058"/>
+        <location filename="../../src/core/Track.cpp" line="2067"/>
         <source>Paste</source>
         <translation>Plakken</translation>
     </message>
@@ -12648,79 +12648,79 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
 <context>
     <name>TrackOperationsWidget</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2131"/>
+        <location filename="../../src/core/Track.cpp" line="2140"/>
         <source>Press &lt;%1&gt; while clicking on move-grip to begin a new drag&apos;n&apos;drop action.</source>
         <translation>Druk op &lt;%1&gt; tijdens het klikken op het verplaatsingsgedeelte om een nieuwe &apos;slepen-en-neerzetten&apos;-handeling te starten.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2146"/>
+        <location filename="../../src/core/Track.cpp" line="2155"/>
         <source>Actions</source>
         <translation>Acties</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2149"/>
-        <location filename="../../src/core/Track.cpp" line="2172"/>
+        <location filename="../../src/core/Track.cpp" line="2158"/>
+        <location filename="../../src/core/Track.cpp" line="2181"/>
         <source>Mute</source>
         <translation>Dempen</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2154"/>
-        <location filename="../../src/core/Track.cpp" line="2175"/>
+        <location filename="../../src/core/Track.cpp" line="2163"/>
+        <location filename="../../src/core/Track.cpp" line="2184"/>
         <source>Solo</source>
         <translation>Solo</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2360"/>
+        <location filename="../../src/core/Track.cpp" line="2369"/>
         <source>Clone this track</source>
         <translation>Deze track klonen</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2363"/>
+        <location filename="../../src/core/Track.cpp" line="2372"/>
         <source>Remove this track</source>
         <translation>Deze track verwijderen</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2368"/>
+        <location filename="../../src/core/Track.cpp" line="2377"/>
         <source>Clear this track</source>
         <translation>Deze track leegmaken</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2370"/>
+        <location filename="../../src/core/Track.cpp" line="2379"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2370"/>
+        <location filename="../../src/core/Track.cpp" line="2379"/>
         <source>Assign to new FX Channel</source>
         <translation>Aan nieuw FX-kanaal toewijzen</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2382"/>
+        <location filename="../../src/core/Track.cpp" line="2391"/>
         <source>Turn all recording on</source>
         <translation>Alle opnames aanzetten</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2383"/>
+        <location filename="../../src/core/Track.cpp" line="2392"/>
         <source>Turn all recording off</source>
         <translation>Alle opnames uitzetten</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2388"/>
+        <location filename="../../src/core/Track.cpp" line="2397"/>
         <source>Change color</source>
         <translation>Kleur veranderen</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2390"/>
+        <location filename="../../src/core/Track.cpp" line="2399"/>
         <source>Reset color to default</source>
         <translation>Kleur herstellen naar standaard</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2392"/>
+        <location filename="../../src/core/Track.cpp" line="2401"/>
         <source>Set random color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2395"/>
+        <location filename="../../src/core/Track.cpp" line="2404"/>
         <source>Clear clip colors</source>
         <translation type="unfinished"/>
     </message>

@@ -678,7 +678,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>節拍/Bassline %1</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="437"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="438"/>
         <source>Clone of %1</source>
         <translation>%1 的副本</translation>
     </message>
@@ -6090,52 +6090,52 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>InstrumentTrackView</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="989"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="991"/>
         <source>Volume</source>
         <translation>音量</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="992"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="994"/>
         <source>Volume:</source>
         <translation>音量：</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="994"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="996"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="998"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1000"/>
         <source>Panning</source>
         <translation>聲相</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1000"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1002"/>
         <source>Panning:</source>
         <translation>聲相：</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1002"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1004"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1005"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1007"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1037"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1039"/>
         <source>Input</source>
         <translation>輸入</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1038"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1040"/>
         <source>Output</source>
         <translation>輸出</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1311"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1313"/>
         <source>FX %1: %2</source>
         <translation>效果 %1: %2</translation>
     </message>
@@ -6143,112 +6143,112 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1340"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1342"/>
         <source>GENERAL SETTINGS</source>
         <translation>常規設置</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1386"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1388"/>
         <source>Volume</source>
         <translation>音量</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1388"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1390"/>
         <source>Volume:</source>
         <translation>音量：</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1393"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1395"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1400"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1402"/>
         <source>Panning</source>
         <translation>聲相</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1401"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1403"/>
         <source>Panning:</source>
         <translation>聲相：</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1406"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1408"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1416"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1418"/>
         <source>Pitch</source>
         <translation>音高</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1417"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1419"/>
         <source>Pitch:</source>
         <translation>音高：</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1417"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1419"/>
         <source>cents</source>
         <translation>音分 cents</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1422"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1424"/>
         <source>PITCH</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1429"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1431"/>
         <source>Pitch range (semitones)</source>
         <translation>音域範圍（半音）</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1434"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1436"/>
         <source>RANGE</source>
         <translation>範圍</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1444"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1446"/>
         <source>FX channel</source>
         <translation>效果通道</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1449"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1451"/>
         <source>FX</source>
         <translation>效果</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1459"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>儲存目前的樂器軌道設定為預設集檔案</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1463"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1465"/>
         <source>SAVE</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1502"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1503"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1505"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1506"/>
         <source>Effects</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1505"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1507"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1506"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1508"/>
         <source>Miscellaneous</source>
         <translation type="unfinished"/>
     </message>
@@ -7158,27 +7158,27 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>您在編譯 LMMS 時未一併啟用 SoundFont2 播放器支援，此播放器用於為匯入的 MIDI 檔案加入預設聲音，因此在匯入此 MIDI 檔後不會有聲音。</translation>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="337"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="335"/>
         <source>MIDI Time Signature Numerator</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="340"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="338"/>
         <source>MIDI Time Signature Denominator</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="343"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="341"/>
         <source>Numerator</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="347"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="345"/>
         <source>Denominator</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="408"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="406"/>
         <source>Track</source>
         <translation>軌道</translation>
     </message>
@@ -12045,42 +12045,42 @@ Latency: %2 ms</source>
 請確認您至少有權限讀取此檔案後再試一次。</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="278"/>
+        <location filename="../../src/core/DataFile.cpp" line="279"/>
         <source>Could not write file</source>
         <translation>無法寫入檔案</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="279"/>
+        <location filename="../../src/core/DataFile.cpp" line="280"/>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
         <translation>無法開啟 %1 以進行寫入。請確認您有權限寫入此檔案後再試一次。</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1447"/>
+        <location filename="../../src/core/DataFile.cpp" line="1448"/>
         <source>Error in file</source>
         <translation>於檔案中發現錯誤</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1448"/>
+        <location filename="../../src/core/DataFile.cpp" line="1449"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>檔案 %1 似乎包含錯誤，無法進行載入。</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1491"/>
+        <location filename="../../src/core/DataFile.cpp" line="1492"/>
         <source>Version difference</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1492"/>
+        <location filename="../../src/core/DataFile.cpp" line="1493"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1488"/>
+        <location filename="../../src/core/DataFile.cpp" line="1489"/>
         <source>template</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1488"/>
+        <location filename="../../src/core/DataFile.cpp" line="1489"/>
         <source>project</source>
         <translation type="unfinished"/>
     </message>
@@ -12464,12 +12464,12 @@ Latency: %2 ms</source>
 <context>
     <name>Track</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2446"/>
+        <location filename="../../src/core/Track.cpp" line="2455"/>
         <source>Mute</source>
         <translation>靜音</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2448"/>
+        <location filename="../../src/core/Track.cpp" line="2457"/>
         <source>Solo</source>
         <translation>獨奏</translation>
     </message>
@@ -12507,13 +12507,13 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="96"/>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="312"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="310"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="100"/>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="313"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="311"/>
         <source>Please wait...</source>
         <translation>請稍等...</translation>
     </message>
@@ -12533,7 +12533,7 @@ Please make sure you have read-permission to the file and the directory containi
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="311"/>
+        <location filename="../../plugins/MidiImport/MidiImport.cpp" line="309"/>
         <source>Importing MIDI-file...</source>
         <translation>正在匯入 MIDI 檔案…</translation>
     </message>
@@ -12549,88 +12549,88 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="828"/>
+        <location filename="../../src/core/Track.cpp" line="829"/>
         <source>Current position</source>
         <translation>當前位置</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="836"/>
+        <location filename="../../src/core/Track.cpp" line="837"/>
         <source>Current length</source>
         <translation>當前長度</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="837"/>
-        <location filename="../../src/core/Track.cpp" line="1082"/>
+        <location filename="../../src/core/Track.cpp" line="838"/>
+        <location filename="../../src/core/Track.cpp" line="1081"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 到 %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="856"/>
+        <location filename="../../src/core/Track.cpp" line="857"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>按住 &lt;%1&gt; 並拖動以創建副本。</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="857"/>
+        <location filename="../../src/core/Track.cpp" line="858"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>按住 &lt;%1&gt; 自由調整大小。</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="858"/>
+        <location filename="../../src/core/Track.cpp" line="859"/>
         <source>Hint</source>
         <translation>提示</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1172"/>
+        <location filename="../../src/core/Track.cpp" line="1171"/>
         <source>Delete (middle mousebutton)</source>
         <translation>刪除 (鼠標中鍵)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1173"/>
+        <location filename="../../src/core/Track.cpp" line="1172"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1181"/>
+        <location filename="../../src/core/Track.cpp" line="1180"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1182"/>
+        <location filename="../../src/core/Track.cpp" line="1181"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1189"/>
+        <location filename="../../src/core/Track.cpp" line="1188"/>
         <source>Copy</source>
         <translation>複製</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1190"/>
+        <location filename="../../src/core/Track.cpp" line="1189"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1195"/>
+        <location filename="../../src/core/Track.cpp" line="1194"/>
         <source>Paste</source>
         <translation>粘貼</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1203"/>
+        <location filename="../../src/core/Track.cpp" line="1202"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>靜音/取消靜音 (&lt;%1&gt; + 鼠標中鍵)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1204"/>
+        <location filename="../../src/core/Track.cpp" line="1203"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1210"/>
+        <location filename="../../src/core/Track.cpp" line="1209"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="1212"/>
+        <location filename="../../src/core/Track.cpp" line="1211"/>
         <source>Use track color</source>
         <translation type="unfinished"/>
     </message>
@@ -12638,7 +12638,7 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>TrackContentWidget</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2058"/>
+        <location filename="../../src/core/Track.cpp" line="2067"/>
         <source>Paste</source>
         <translation>粘貼</translation>
     </message>
@@ -12646,79 +12646,79 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>TrackOperationsWidget</name>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2131"/>
+        <location filename="../../src/core/Track.cpp" line="2140"/>
         <source>Press &lt;%1&gt; while clicking on move-grip to begin a new drag&apos;n&apos;drop action.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2146"/>
+        <location filename="../../src/core/Track.cpp" line="2155"/>
         <source>Actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2149"/>
-        <location filename="../../src/core/Track.cpp" line="2172"/>
+        <location filename="../../src/core/Track.cpp" line="2158"/>
+        <location filename="../../src/core/Track.cpp" line="2181"/>
         <source>Mute</source>
         <translation>靜音</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2154"/>
-        <location filename="../../src/core/Track.cpp" line="2175"/>
+        <location filename="../../src/core/Track.cpp" line="2163"/>
+        <location filename="../../src/core/Track.cpp" line="2184"/>
         <source>Solo</source>
         <translation>獨奏</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2360"/>
+        <location filename="../../src/core/Track.cpp" line="2369"/>
         <source>Clone this track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2363"/>
+        <location filename="../../src/core/Track.cpp" line="2372"/>
         <source>Remove this track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2368"/>
+        <location filename="../../src/core/Track.cpp" line="2377"/>
         <source>Clear this track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2370"/>
+        <location filename="../../src/core/Track.cpp" line="2379"/>
         <source>FX %1: %2</source>
         <translation>效果 %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2370"/>
+        <location filename="../../src/core/Track.cpp" line="2379"/>
         <source>Assign to new FX Channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2382"/>
+        <location filename="../../src/core/Track.cpp" line="2391"/>
         <source>Turn all recording on</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2383"/>
+        <location filename="../../src/core/Track.cpp" line="2392"/>
         <source>Turn all recording off</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2388"/>
+        <location filename="../../src/core/Track.cpp" line="2397"/>
         <source>Change color</source>
         <translation>改變顏色</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2390"/>
+        <location filename="../../src/core/Track.cpp" line="2399"/>
         <source>Reset color to default</source>
         <translation>重置顏色</translation>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2392"/>
+        <location filename="../../src/core/Track.cpp" line="2401"/>
         <source>Set random color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Track.cpp" line="2395"/>
+        <location filename="../../src/core/Track.cpp" line="2404"/>
         <source>Clear clip colors</source>
         <translation type="unfinished"/>
     </message>
