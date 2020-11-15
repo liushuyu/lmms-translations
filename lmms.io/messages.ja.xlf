@@ -1012,6 +1012,14 @@ Qtはフレームワークなので何か知っていれば、遠慮せずに開
         <target>The Best of LMMS vol.1</target>
         
       </trans-unit>
+      <trans-unit id="oEXz92z" resname="Nightly Versions">
+        <source>Nightly Versions</source>
+        
+      </trans-unit>
+      <trans-unit id="paHvzJ5" resname="Downloads labeled Beta or Nightly are pre-release software, stability may suffer.">
+        <source>Downloads labeled Beta or Nightly are pre-release software, stability may suffer.</source>
+        
+      </trans-unit>
       <trans-unit id="yzGLm.Z" resname="The Best of LMMS vol. VII">
         <source>The Best of LMMS vol. VII</source>
         

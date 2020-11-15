@@ -4608,17 +4608,17 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
 <context>
     <name>FileBrowser</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="77"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="75"/>
         <source>Browser</source>
         <translation>Bläddrare</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="87"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="85"/>
         <source>Search</source>
         <translation>Sök</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="95"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="93"/>
         <source>Refresh list</source>
         <translation>Uppdatera lista</translation>
     </message>
@@ -4626,67 +4626,67 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="444"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="459"/>
         <source>Send to active instrument-track</source>
         <translation>Skicka till aktivt instrumentspår</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="452"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="467"/>
         <source>Open containing folder</source>
         <translation>Öppna innehållande mapp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="456"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="471"/>
         <source>Song Editor</source>
         <translation>Låtredigeraren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="461"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="476"/>
         <source>BB Editor</source>
         <translation>BB-redigerare</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="480"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="495"/>
         <source>Send to new AudioFileProcessor instance</source>
         <translation>Skicka till ny AudioFileProcessor-instans</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="481"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="496"/>
         <source>Send to new instrument track</source>
         <translation>Skicka till nytt instrumentspår</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="485"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="500"/>
         <source> (%2Enter)</source>
         <translation> (%2Retur)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="495"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="510"/>
         <source>Send to new sample track (Shift + Enter)</source>
         <translation>Skicka till nytt samplingsspår (Skift + Retur)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="554"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="569"/>
         <source>Loading sample</source>
         <translation>Läser in ljudfil</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="555"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="570"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>Ljudfilen läses in för förhandslyssning...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="582"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="597"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="583"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="598"/>
         <source>%1 does not appear to be a valid %2 file</source>
         <translation>%1 verkar inte vara en giltig %2-fil</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="956"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="957"/>
         <source>--- Factory files ---</source>
         <translation>--- Grundfiler ---</translation>
     </message>
@@ -5276,52 +5276,52 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
 <context>
     <name>GuiApplication</name>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="61"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="65"/>
         <source>Working directory</source>
         <translation>Arbetsmapp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="62"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="66"/>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
         <translation>Arbetsmappen %1 för LMMS finns inte. Vill du skapa denna nu? Du kan ändra mappen senare via Redigera -&gt; Inställningar.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="119"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="123"/>
         <source>Preparing UI</source>
         <translation>Förbereder användargränssnitt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="126"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="130"/>
         <source>Preparing song editor</source>
         <translation>Förbereder låtredigeraren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="130"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="134"/>
         <source>Preparing mixer</source>
         <translation>Förbereder mixer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="134"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="138"/>
         <source>Preparing controller rack</source>
         <translation>Förbereder kontrollrack</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="138"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="142"/>
         <source>Preparing project notes</source>
         <translation>Förbereder projektanteckningar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="142"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="146"/>
         <source>Preparing beat/bassline editor</source>
         <translation>Förbereder takt/basgång-redigeraren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="146"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="150"/>
         <source>Preparing piano roll</source>
         <translation>Förbereder pianorulle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="150"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="154"/>
         <source>Preparing automation editor</source>
         <translation>Förbereder automationsredigeraren</translation>
     </message>
@@ -6950,7 +6950,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
         <translation>Starta en standard-session och ta bort den återskapade filen. Detta går inte ångra.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="99"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="103"/>
         <source>Version %1</source>
         <translation>Version %1</translation>
     </message>

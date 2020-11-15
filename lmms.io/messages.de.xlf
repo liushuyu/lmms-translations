@@ -21,6 +21,7 @@
       </trans-unit>
       <trans-unit id="evAjxDA" resname="Docs">
         <source>Docs</source>
+        <target>Dokumentation</target>
         
       </trans-unit>
       <trans-unit id="Tae9Qqu" resname="Forum">
@@ -30,6 +31,7 @@
       </trans-unit>
       <trans-unit id="yHBYjoP" resname="Sharing Platform">
         <source>Sharing Platform</source>
+        <target>Teilplatform</target>
         
       </trans-unit>
       <trans-unit id="KYh6X.m" resname="Share">
@@ -58,11 +60,14 @@
       </trans-unit>
       <trans-unit id="H2zLuBd" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
         <source>We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</source>
+        <target>Entschuldigung, etwas ging beim Laden der Infos für die letzte Version schief. Du kannst immer noch Versionen auf &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt; herunterladen.</target>
         
       </trans-unit>
       <trans-unit id="f.UFHnN" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 	Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>LMMS ist in den meisten Paketquellen der großen Linuxdistribution vorhanden. &lt;br&gt;
+	Bitte &lt;a href=&quot;/get-involved/#contact&quot;&gt;kontaktiere uns&lt;/a&gt; falls deine Distribution nicht hier aufgelistet ist.</target>
         
       </trans-unit>
       <trans-unit id="LO1QDjg" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
@@ -87,6 +92,7 @@
       </trans-unit>
       <trans-unit id="unby17C" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
         <source>If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.</source>
+        <target>Falls die traditionellen Quellen hinter den offiziellen Versionen sind, versuche es mit der &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio Paketquelle&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="jHa21vl" resname="VST Support">
@@ -978,6 +984,14 @@ in dieser Angelegenheit und &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/ne
       <trans-unit id="dcu1CCI" resname="The Best of LMMS Vol.1 by LMMS Artists">
         <source>The Best of LMMS Vol.1 by LMMS Artists</source>
         <target>Das Beste von LMMS Vol.1 von LMMS Artisten</target>
+        
+      </trans-unit>
+      <trans-unit id="oEXz92z" resname="Nightly Versions">
+        <source>Nightly Versions</source>
+        
+      </trans-unit>
+      <trans-unit id="paHvzJ5" resname="Downloads labeled Beta or Nightly are pre-release software, stability may suffer.">
+        <source>Downloads labeled Beta or Nightly are pre-release software, stability may suffer.</source>
         
       </trans-unit>
       <trans-unit id="yzGLm.Z" resname="The Best of LMMS vol. VII">

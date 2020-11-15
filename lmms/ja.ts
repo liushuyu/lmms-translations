@@ -4326,17 +4326,17 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>FileBrowser</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="77"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="75"/>
         <source>Browser</source>
         <translation>ブラウザ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="87"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="85"/>
         <source>Search</source>
         <translation>検索</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="95"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="93"/>
         <source>Refresh list</source>
         <translation>リストの更新</translation>
     </message>
@@ -4344,67 +4344,67 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="444"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="459"/>
         <source>Send to active instrument-track</source>
         <translation>現在開いているインストゥルメントトラックに上書きする</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="452"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="467"/>
         <source>Open containing folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="456"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="471"/>
         <source>Song Editor</source>
         <translation>ソング エディター</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="461"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="476"/>
         <source>BB Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="480"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="495"/>
         <source>Send to new AudioFileProcessor instance</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="481"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="496"/>
         <source>Send to new instrument track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="485"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="500"/>
         <source> (%2Enter)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="495"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="510"/>
         <source>Send to new sample track (Shift + Enter)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="554"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="569"/>
         <source>Loading sample</source>
         <translation>サンプルを読み込み中</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="555"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="570"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>プレビュー用のサンプルを読み込んでいます...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="582"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="597"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="583"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="598"/>
         <source>%1 does not appear to be a valid %2 file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="956"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="957"/>
         <source>--- Factory files ---</source>
         <translation>--- ファクトリーファイル ---</translation>
     </message>
@@ -4994,52 +4994,52 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>GuiApplication</name>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="61"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="65"/>
         <source>Working directory</source>
         <translation>作業ディレクトリ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="62"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="66"/>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
         <translation>LMMSの作業ディレクトリ %1 は存在しません。作成しますか？編集-&gt;セッティング でこのディレクトリを変更できます。</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="119"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="123"/>
         <source>Preparing UI</source>
         <translation>UIの準備中</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="126"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="130"/>
         <source>Preparing song editor</source>
         <translation>ソング エディター の準備中</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="130"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="134"/>
         <source>Preparing mixer</source>
         <translation>ミキサーの準備中</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="134"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="138"/>
         <source>Preparing controller rack</source>
         <translation>コントローラー ラック の準備中</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="138"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="142"/>
         <source>Preparing project notes</source>
         <translation>プロジェクトノートの準備中</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="142"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="146"/>
         <source>Preparing beat/bassline editor</source>
         <translation>ビート/ベースライン エディター の準備中</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="146"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="150"/>
         <source>Preparing piano roll</source>
         <translation>ピアノロールの準備中</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="150"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="154"/>
         <source>Preparing automation editor</source>
         <translation>オートメーション エディター の準備中</translation>
     </message>
@@ -6660,7 +6660,7 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="99"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="103"/>
         <source>Version %1</source>
         <translation>バージョン %1</translation>
     </message>

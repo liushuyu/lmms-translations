@@ -4334,17 +4334,17 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>FileBrowser</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="77"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="75"/>
         <source>Browser</source>
         <translation>浏览器</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="87"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="85"/>
         <source>Search</source>
         <translation>搜索</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="95"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="93"/>
         <source>Refresh list</source>
         <translation>刷新列表</translation>
     </message>
@@ -4352,67 +4352,67 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="444"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="459"/>
         <source>Send to active instrument-track</source>
         <translation>发送到活跃的乐器轨道</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="452"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="467"/>
         <source>Open containing folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="456"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="471"/>
         <source>Song Editor</source>
         <translation>显示/隐藏歌曲编辑器</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="461"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="476"/>
         <source>BB Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="480"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="495"/>
         <source>Send to new AudioFileProcessor instance</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="481"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="496"/>
         <source>Send to new instrument track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="485"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="500"/>
         <source> (%2Enter)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="495"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="510"/>
         <source>Send to new sample track (Shift + Enter)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="554"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="569"/>
         <source>Loading sample</source>
         <translation>加载采样中</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="555"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="570"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>请稍候，加载采样中...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="582"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="597"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="583"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="598"/>
         <source>%1 does not appear to be a valid %2 file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="956"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="957"/>
         <source>--- Factory files ---</source>
         <translation>---软件自带文件---</translation>
     </message>
@@ -5002,52 +5002,52 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>GuiApplication</name>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="61"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="65"/>
         <source>Working directory</source>
         <translation>工作目录</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="62"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="66"/>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
         <translation>LMMS工作目录%1不存在，现在新建一个吗？你可以稍后在 编辑 -&gt; 设置 中更改此设置。</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="119"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="123"/>
         <source>Preparing UI</source>
         <translation>正在准备界面</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="126"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="130"/>
         <source>Preparing song editor</source>
         <translation>正在准备歌曲编辑器</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="130"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="134"/>
         <source>Preparing mixer</source>
         <translation>正在准备混音器</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="134"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="138"/>
         <source>Preparing controller rack</source>
         <translation>正在准备控制机架</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="138"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="142"/>
         <source>Preparing project notes</source>
         <translation>正在准备工程注释</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="142"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="146"/>
         <source>Preparing beat/bassline editor</source>
         <translation>正在准备节拍/低音线编辑器</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="146"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="150"/>
         <source>Preparing piano roll</source>
         <translation>正在准备钢琴窗</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="150"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="154"/>
         <source>Preparing automation editor</source>
         <translation>正在准备自动编辑器</translation>
     </message>
@@ -6669,7 +6669,7 @@ Please make sure you have write permission to the file and the directory contain
         <translation>运行一个新的默认会话并且删除恢复文件。此操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="99"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="103"/>
         <source>Version %1</source>
         <translation>版本 %1</translation>
     </message>
