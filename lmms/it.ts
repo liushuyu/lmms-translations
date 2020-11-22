@@ -6140,7 +6140,7 @@ Si prega di controllare i permessi di scrittura sul file e la cartella che lo co
         <translation>Uscita</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1313"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1312"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
@@ -6148,127 +6148,127 @@ Si prega di controllare i permessi di scrittura sul file e la cartella che lo co
 <context>
     <name>InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1342"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1341"/>
         <source>GENERAL SETTINGS</source>
         <translation>IMPOSTAZIONI GENERALI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1388"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1387"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1390"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1389"/>
         <source>Volume:</source>
         <translation>Volume:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1395"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1394"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1402"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1401"/>
         <source>Panning</source>
         <translation>Panning</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1403"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1402"/>
         <source>Panning:</source>
         <translation>Panning:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1408"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1407"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1418"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1417"/>
         <source>Pitch</source>
         <translation>Altezza</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1419"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1418"/>
         <source>Pitch:</source>
         <translation>Altezza:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1419"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1418"/>
         <source>cents</source>
         <translation>centesimi</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1424"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1423"/>
         <source>PITCH</source>
         <translation>ALTEZZA</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1431"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1430"/>
         <source>Pitch range (semitones)</source>
         <translation>Ampiezza dell&apos;altezza (in semitoni)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1436"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1435"/>
         <source>RANGE</source>
         <translation>AMPIEZZA</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1446"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1445"/>
         <source>FX channel</source>
         <translation>Canale FX</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1451"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1450"/>
         <source>FX</source>
         <translation>FX</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1460"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>Salva le impostazioni di questa traccia in un file preset</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1465"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1464"/>
         <source>SAVE</source>
         <translation>SALVA</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1503"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation>Inviluppo, filtro e LFO</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1505"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation>Accordi e arpeggi</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1506"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1505"/>
         <source>Effects</source>
         <translation>Effetti</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1507"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1506"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1508"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1507"/>
         <source>Miscellaneous</source>
         <translation>Varie</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1630"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1629"/>
         <source>Save preset</source>
         <translation>Salva il preset</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1630"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1629"/>
         <source>XML preset file (*.xpf)</source>
         <translation>File di preset XML (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1685"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1684"/>
         <source>Plugin</source>
         <translation>Plugin</translation>
     </message>
@@ -6595,22 +6595,22 @@ Fai doppio click per scegliere un file.</translation>
 <context>
     <name>LmmsCore</name>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="59"/>
+        <location filename="../../src/core/Engine.cpp" line="58"/>
         <source>Generating wavetables</source>
         <translation>Generazione di tabelle d&apos;onda</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="63"/>
+        <location filename="../../src/core/Engine.cpp" line="62"/>
         <source>Initializing data structures</source>
         <translation>Inizializzazione strutture dati</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="78"/>
+        <location filename="../../src/core/Engine.cpp" line="77"/>
         <source>Opening audio and midi devices</source>
         <translation>Accesso ai dispositivi audio e midi</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="84"/>
+        <location filename="../../src/core/Engine.cpp" line="82"/>
         <source>Launching mixer threads</source>
         <translation>Avviamento threads del mixer</translation>
     </message>
@@ -9279,8 +9279,8 @@ Visitare http://lmms.sf.net/wiki  per la documentazione di LMMS.</translation>
         <translation>Aprire un pattern con un doppio-click sul pattern stesso!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3911"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3930"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3912"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3931"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Inserire un valore compreso tra %1 e %2:</translation>
     </message>
@@ -9288,144 +9288,144 @@ Visitare http://lmms.sf.net/wiki  per la documentazione di LMMS.</translation>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4370"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4371"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Riproduci/metti in pausa il beat/bassline selezionato (Spazio)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4371"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4372"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Registra note da una periferica/canale piano MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4372"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4373"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Registra note da una periferica MIDI/canale piano mentre la traccia o la BB track è in riproduzione</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4373"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4374"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Registra note da dispositivo-MIDI/canale-piano, un passo alla volta</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4374"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4375"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Riproduci/metti in pausa il beat/bassline selezionato (Spazio)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4376"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4377"/>
         <source>Edit actions</source>
         <translation>Modalità di modifica</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4380"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4381"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Modalità disegno (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4381"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4382"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Modalità cancella (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4382"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4383"/>
         <source>Select mode (Shift+S)</source>
         <translation>Modalità selezione (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4383"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4384"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Modalità intonazione (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4394"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4395"/>
         <source>Quantize</source>
         <translation>Quantizza</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4405"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4406"/>
         <source>Copy paste controls</source>
         <translation>Controlli di copia-incolla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4408"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4409"/>
         <source>Cut (%1+X)</source>
         <translation>Taglia (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4411"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4412"/>
         <source>Copy (%1+C)</source>
         <translation>Copia (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4414"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4415"/>
         <source>Paste (%1+V)</source>
         <translation>Incolla (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4429"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4430"/>
         <source>Timeline controls</source>
         <translation>Controlla griglia</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4440"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4441"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4451"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4452"/>
         <source>Zoom and note controls</source>
         <translation>Controlli di zoom e note</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4459"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4460"/>
         <source>Horizontal zooming</source>
         <translation>Zoom orizzontale</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4467"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4468"/>
         <source>Vertical zooming</source>
         <translation>Zoom verticale</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4476"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4477"/>
         <source>Quantization</source>
         <translation>Quantizzazione</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4485"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4486"/>
         <source>Note length</source>
         <translation>Lunghezza nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4491"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4492"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4500"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4501"/>
         <source>Scale</source>
         <translation>Scala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4509"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4510"/>
         <source>Chord</source>
         <translation>Accordo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4514"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4515"/>
         <source>Clear ghost notes</source>
         <translation>Cancella note fantasma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4614"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4785"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4615"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano-Roll - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4620"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4789"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4621"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4790"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Piano-Roll - nessun pattern</translation>
     </message>
@@ -10634,17 +10634,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../src/gui/Lv2ViewBase.cpp" line="140"/>
+        <location filename="../../src/gui/Lv2ViewBase.cpp" line="144"/>
         <source>Reload Plugin</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/Lv2ViewBase.cpp" line="147"/>
+        <location filename="../../src/gui/Lv2ViewBase.cpp" line="151"/>
         <source>Show GUI</source>
         <translation>Mostra GUI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/Lv2ViewBase.cpp" line="172"/>
+        <location filename="../../src/gui/Lv2ViewBase.cpp" line="176"/>
         <source>Help</source>
         <translation>Aiuto</translation>
     </message>
@@ -11269,57 +11269,57 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <translation>I file audio hanno un limite di %1 MB in grandezza e %2 minuti in durata</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="980"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="960"/>
         <source>Open audio file</source>
         <translation>Apri file audio</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="987"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Tutti i file audio (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="989"/>
         <source>Wave-Files (*.wav)</source>
         <translation>File wave (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="990"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>File OGG (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1011"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="991"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>File DrumSynth (*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1012"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="992"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>File FLAC (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1013"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="993"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>File SPEEX (*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1016"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="996"/>
         <source>VOC-Files (*.voc)</source>
         <translation>File VOC (*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1017"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="997"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>File AIFF (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1018"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="998"/>
         <source>AU-Files (*.au)</source>
         <translation>File AU (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1019"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="999"/>
         <source>RAW-Files (*.raw)</source>
         <translation>File RAW (*.raw)</translation>
     </message>
@@ -11327,62 +11327,67 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTCOView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="348"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="359"/>
         <source>Double-click to open sample</source>
         <translation>Fare doppio-click per aprire un campione</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="372"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="383"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Elimina (tasto centrale del mouse)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="373"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="384"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="381"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="392"/>
         <source>Cut</source>
         <translation>Taglia</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="382"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="393"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="389"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="400"/>
         <source>Copy</source>
         <translation>Copia</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="390"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="401"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="395"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="406"/>
         <source>Paste</source>
         <translation>Incolla</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="403"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="414"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Attiva/disattiva la modalità muta (&lt;%1&gt; + tasto centrale)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="404"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="415"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="414"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="424"/>
+        <source>Reverse sample</source>
+        <translation>Inverti campione</translation>
+    </message>
+    <message>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="432"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="416"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="434"/>
         <source>Use track color</source>
         <translation type="unfinished"/>
     </message>
@@ -11390,23 +11395,23 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="632"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="660"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="633"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="661"/>
         <source>Panning</source>
         <translation>Bilanciamento</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="634"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="662"/>
         <source>FX channel</source>
         <translation>Canale FX</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="635"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="638"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="663"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="666"/>
         <source>Sample track</source>
         <translation>Traccia di campione</translation>
     </message>
@@ -11414,37 +11419,37 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="858"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="886"/>
         <source>Track volume</source>
         <translation>Volume della traccia</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="861"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="889"/>
         <source>Channel volume:</source>
         <translation>Volume del canale:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="868"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="896"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="872"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="900"/>
         <source>Panning</source>
         <translation>Bilanciamento</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="874"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="902"/>
         <source>Panning:</source>
         <translation>Bilanciamento:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="876"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="904"/>
         <source>PAN</source>
         <translation>BIL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="944"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="972"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
@@ -11452,47 +11457,47 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1025"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1053"/>
         <source>GENERAL SETTINGS</source>
         <translation>IMPOSTAZIONI GENERALI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1060"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1088"/>
         <source>Sample volume</source>
         <translation>Volume campione</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1062"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1090"/>
         <source>Volume:</source>
         <translation>Volume:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1067"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1095"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1074"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1102"/>
         <source>Panning</source>
         <translation>Bilanciamento</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1075"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1103"/>
         <source>Panning:</source>
         <translation>Bilanciamento:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1080"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1108"/>
         <source>PAN</source>
         <translation>BIL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1090"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1118"/>
         <source>FX channel</source>
         <translation>Canale FX</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1095"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1123"/>
         <source>FX</source>
         <translation>FX</translation>
     </message>

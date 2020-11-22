@@ -554,7 +554,7 @@ Om du är intresserad av att översätta LMMS till ett annat språk eller vill f
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="190"/>
         <source>Set/clear record</source>
-        <translation>Sätt/rensa inspelning</translation>
+        <translation>Ställ in/rensa inspelning</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="193"/>
@@ -605,7 +605,7 @@ Om du är intresserad av att översätta LMMS till ett annat språk eller vill f
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="71"/>
         <source>Stop playback of current beat/bassline (Space)</source>
-        <translation>Avsluta uppspelning av nuvarande takt/basgång (Mellanslag)</translation>
+        <translation>Stoppa uppspelning av nuvarande takt/basgång (Mellanslag)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="75"/>
@@ -1592,12 +1592,12 @@ SLUT PÅ LICENSVILLKOR
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="69"/>
         <source>Plugin Version</source>
-        <translation>Insticksversion</translation>
+        <translation>Tilläggsversion</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="71"/>
         <source>&lt;br&gt;Version %1&lt;br&gt;Carla is a fully-featured audio plugin host%2.&lt;br&gt;&lt;br&gt;Copyright (C) 2011-2019 falkTX&lt;br&gt;</source>
-        <translation>&lt;br&gt;Version %1&lt;br&gt;Carla är en fullt utrustad ljudinsticksvärd%2.&lt;br&gt;&lt;br&gt;Copyright (C) 2011-2019 falkTX&lt;br&gt;</translation>
+        <translation>&lt;br&gt;Version %1&lt;br&gt;Carla är en fullt utrustad ljudtilläggsvärd%2.&lt;br&gt;&lt;br&gt;Copyright (C) 2011-2019 falkTX&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="100"/>
@@ -2206,8 +2206,8 @@ SLUT PÅ LICENSVILLKOR
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1741"/>
         <source>There are still some plugins loaded, you need to remove them to stop the engine.
 Do you want to do this now?</source>
-        <translation>Det finns fortfarande några instick inlästa, du måste ta bort dem för att stoppa motorn.
-Vill du göra detta nu?</translation>
+        <translation>Det finns fortfarande några tillägg inlästa, du måste ta bort dem för att stoppa motorn.
+Vill du göra det nu?</translation>
     </message>
 </context>
 <context>
@@ -2253,7 +2253,7 @@ Vill du göra detta nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="96"/>
         <source>plugin-paths</source>
-        <translation>instickssökvägar</translation>
+        <translation>tilläggssökvägar</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="101"/>
@@ -2296,7 +2296,7 @@ Vill du göra detta nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="212"/>
         <source>Plugin Paths</source>
-        <translation>Instickssökvägar</translation>
+        <translation>Tilläggssökvägar</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="230"/>
@@ -2530,7 +2530,7 @@ Vill du göra detta nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1001"/>
         <source>Plugin UIs</source>
-        <translation>Insticksgränssnitt</translation>
+        <translation>Tilläggsgränssnitt</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1007"/>
@@ -2556,17 +2556,17 @@ Vill du göra detta nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1059"/>
         <source>Make plugin UIs always-on-top</source>
-        <translation>Placera alltid insticksgränssnitt överst</translation>
+        <translation>Placera alltid tilläggsgränssnitt överst</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1066"/>
         <source>Make plugin UIs appear on top of Carla (needs restart)</source>
-        <translation>Placera insticksgränssnit ovan på Carla (kräver omstart)</translation>
+        <translation>Placera tilläggsgränssnitt ovanpå Carla (kräver omstart)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1073"/>
         <source>NOTE: Plugin-bridge UIs cannot be managed by Carla on macOS</source>
-        <translation>NOTERA: Insticksgränssnitt över bryggor kan inte hanteras av Carla på macOS</translation>
+        <translation>OBSERVERA: Tilläggsgränssnitt över bryggor kan inte hanteras av Carla på macOS</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1133"/>
@@ -2639,12 +2639,12 @@ Vill du göra detta nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1781"/>
         <source>Used for the &quot;audiofile&quot; plugin</source>
-        <translation>Används för &quot;audiofile&quot;-insticket</translation>
+        <translation>Används för tillägget &quot;audiofile&quot;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1798"/>
         <source>Used for the &quot;midifile&quot; plugin</source>
-        <translation>Används för &quot;midifile&quot;-insticket</translation>
+        <translation>Används för tillägget &quot;midifile&quot;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1861"/>
@@ -2667,7 +2667,7 @@ Vill du göra detta nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1936"/>
         <source>&lt;b&gt;Plugin Paths&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Instickssökvägar&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Tilläggssökvägar&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1995"/>
@@ -2732,7 +2732,7 @@ Vill du göra detta nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2335"/>
         <source>Auto-detect Wine prefix based on plugin filename</source>
-        <translation>Detektera automatiskt Wine-prefix baserat på insticksfilnamn</translation>
+        <translation>Automatisk detektering av Wine-prefix baserat på filnamn för tillägg</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2342"/>
@@ -2762,7 +2762,7 @@ Vill du göra detta nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2509"/>
         <source>These options are not available for Carla as plugin</source>
-        <translation>Dessa alternativ finns inte tillgängliga för Carla som instick</translation>
+        <translation>Dessa alternativ finns inte tillgängliga för Carla som tillägg</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2566"/>
@@ -2777,7 +2777,7 @@ Vill du göra detta nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2681"/>
         <source>Enable plugin bridges</source>
-        <translation>Aktivera insticksbryggor</translation>
+        <translation>Aktivera tilläggsbryggor</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2691"/>
@@ -2792,7 +2792,7 @@ Vill du göra detta nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2705"/>
         <source>Export single plugins to LV2</source>
-        <translation>Exportera enstaka instick till LV2</translation>
+        <translation>Exportera enskilda tillägg till LV2</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2712"/>
@@ -2823,28 +2823,28 @@ Vill du göra detta nu?</translation>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2768"/>
         <source>Force mono plugins as stereo by running 2 instances at the same time.
 This mode is not available for VST plugins.</source>
-        <translation>Tvinga monoinstick att använda stereo genom att köra 2 instanser av det samtidigt.
-Detta läge är inte tillgängligt för VST-instick.</translation>
+        <translation>Tvinga mono-tillägg att använda stereo genom att köra 2 instanser av det samtidigt.
+Detta läge är inte tillgängligt för VST-tillägg.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2772"/>
         <source>Force mono plugins as stereo</source>
-        <translation>Tvinga mono-instick att vara stereo</translation>
+        <translation>Tvinga mono-tillägg att vara stereo</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2779"/>
         <source>Prevent plugins from doing bad stuff (needs restart)</source>
-        <translation>Förhindra instick från att göra dumheter (kräver omstart)</translation>
+        <translation>Förhindra tillägg från att göra dumheter (kräver omstart)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2789"/>
         <source>Whenever possible, run the plugins in bridge mode.</source>
-        <translation>När det är möjligt, kör insticken i bryggat läge.</translation>
+        <translation>När det är möjligt, kör tillägget i bryggat läge.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2792"/>
         <source>Run plugins in bridge mode when possible</source>
-        <translation>Kör instick i bryggat läge när det är möjligt</translation>
+        <translation>Kör tillägg i bryggat läge när det är möjligt</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_settings.cpp" line="1457"/>
@@ -2899,7 +2899,7 @@ Detta läge är inte tillgängligt för VST-instick.</translation>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="159"/>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="160"/>
         <source>Auto Detect</source>
-        <translation>Upptäck Automatiskt</translation>
+        <translation>Upptäck automatiskt</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="174"/>
@@ -5133,7 +5133,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="255"/>
         <source>Set channel color</source>
-        <translation>Sätt kanalfärg</translation>
+        <translation>Ställ in kanalfärg</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="256"/>
@@ -5283,7 +5283,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="66"/>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
-        <translation>Arbetsmappen %1 för LMMS finns inte. Vill du skapa denna nu? Du kan ändra mappen senare via Redigera -&gt; Inställningar.</translation>
+        <translation>Arbetsmappen %1 för LMMS finns inte. Skapa den nu? Du kan ändra mappen senare via Redigera -&gt; Inställningar.</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="123"/>
@@ -6418,7 +6418,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
         <translation>Utgång</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1313"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1312"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
@@ -6426,127 +6426,127 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
 <context>
     <name>InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1342"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1341"/>
         <source>GENERAL SETTINGS</source>
         <translation>ÖVERGRIPANDE INSTÄLLNINGAR</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1388"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1387"/>
         <source>Volume</source>
         <translation>Volym</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1390"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1389"/>
         <source>Volume:</source>
         <translation>Volym:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1395"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1394"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1402"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1401"/>
         <source>Panning</source>
         <translation>Panorering</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1403"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1402"/>
         <source>Panning:</source>
         <translation>Panorering:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1408"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1407"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1418"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1417"/>
         <source>Pitch</source>
         <translation>Tonhöjd</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1419"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1418"/>
         <source>Pitch:</source>
         <translation>Tonhöjd:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1419"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1418"/>
         <source>cents</source>
         <translation>hundradelar</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1424"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1423"/>
         <source>PITCH</source>
         <translation>TONDHÖJD</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1431"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1430"/>
         <source>Pitch range (semitones)</source>
         <translation>Tonhöjdsomfång (halvtoner)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1436"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1435"/>
         <source>RANGE</source>
         <translation>OMFÅNG</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1446"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1445"/>
         <source>FX channel</source>
         <translation>FX-kanal</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1451"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1450"/>
         <source>FX</source>
         <translation>FX</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1460"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>Spara aktuella instrumentspårinställningar i en förinställd fil</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1465"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1464"/>
         <source>SAVE</source>
         <translation>SPARA</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1503"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation>Kontur, filter &amp; LFO</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1505"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation>Ackordstapling &amp; apreggio</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1506"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1505"/>
         <source>Effects</source>
         <translation>Effekter</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1507"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1506"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1508"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1507"/>
         <source>Miscellaneous</source>
         <translation>Diverse</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1630"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1629"/>
         <source>Save preset</source>
         <translation>Spara förinställning</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1630"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1629"/>
         <source>XML preset file (*.xpf)</source>
         <translation>XML förinställnings-fil (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1685"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1684"/>
         <source>Plugin</source>
         <translation>Tillägg</translation>
     </message>
@@ -6873,22 +6873,22 @@ Dubbelklicka för att välja en fil.</translation>
 <context>
     <name>LmmsCore</name>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="59"/>
+        <location filename="../../src/core/Engine.cpp" line="58"/>
         <source>Generating wavetables</source>
         <translation>Generera vågtabeller</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="63"/>
+        <location filename="../../src/core/Engine.cpp" line="62"/>
         <source>Initializing data structures</source>
         <translation>Initierar datastrukturer</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="78"/>
+        <location filename="../../src/core/Engine.cpp" line="77"/>
         <source>Opening audio and midi devices</source>
         <translation>Öppnar ljud- och midienheter</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="84"/>
+        <location filename="../../src/core/Engine.cpp" line="82"/>
         <source>Launching mixer threads</source>
         <translation>Start mixertrådar</translation>
     </message>
@@ -9274,7 +9274,7 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="688"/>
         <source>Set as ghost in piano-roll</source>
-        <translation>Sätt som spöke i pianorulle</translation>
+        <translation>Ange som spöke i pianorulle</translation>
     </message>
     <message>
         <location filename="../../src/tracks/Pattern.cpp" line="697"/>
@@ -9557,8 +9557,8 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
         <translation>Dubbelklicka för att öppna ett mönster!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3911"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3930"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3912"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3931"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Ange ett nytt värde mellan %1 och %2:</translation>
     </message>
@@ -9566,144 +9566,144 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4370"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4371"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Spela/pausa aktuellt mönster (mellanslag)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4371"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4372"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Spela in noter från MIDI-enhet/kanal-piano</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4372"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4373"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
-        <translation>Spela in noter från MIDI-enhet/kanal-piano medan sång eller BB-spår spelas</translation>
+        <translation>Spela in noter från MIDI-enhet/kanal-piano medan låt eller BB-spår spelas</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4373"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4374"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Spela in noter från MIDI-enhet/kanal-piano, ett steg i taget</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4374"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4375"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Sluta spela aktuellt mönster (mellanslag)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4376"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4377"/>
         <source>Edit actions</source>
         <translation>Redigera åtgärder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4380"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4381"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Ritläge (Skift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4381"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4382"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Suddläge (Skift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4382"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4383"/>
         <source>Select mode (Shift+S)</source>
         <translation>Markeringsläge (Skift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4383"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4384"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Tonhöjdsböjningsläge (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4394"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4395"/>
         <source>Quantize</source>
         <translation>Kvantisera</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4405"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4406"/>
         <source>Copy paste controls</source>
         <translation>Kopiera/klistra-kontroller</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4408"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4409"/>
         <source>Cut (%1+X)</source>
         <translation>Klipp ut (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4411"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4412"/>
         <source>Copy (%1+C)</source>
         <translation>Kopiera (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4414"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4415"/>
         <source>Paste (%1+V)</source>
         <translation>Klistra in (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4429"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4430"/>
         <source>Timeline controls</source>
         <translation>Tidslinjekontroller</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4440"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4441"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4451"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4452"/>
         <source>Zoom and note controls</source>
         <translation>Zoom- och notkontroller</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4459"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4460"/>
         <source>Horizontal zooming</source>
         <translation>Horisontell zoomning</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4467"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4468"/>
         <source>Vertical zooming</source>
         <translation>Vertikal zoomning</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4476"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4477"/>
         <source>Quantization</source>
         <translation>Kvantisering</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4485"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4486"/>
         <source>Note length</source>
         <translation>Notlängd</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4491"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4492"/>
         <source>Key</source>
         <translation>Skala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4500"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4501"/>
         <source>Scale</source>
         <translation>Skala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4509"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4510"/>
         <source>Chord</source>
         <translation>Ackord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4514"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4515"/>
         <source>Clear ghost notes</source>
         <translation>Rensa spöknoter</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4614"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4785"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4615"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
         <source>Piano-Roll - %1</source>
         <translation>Pianorulle - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4620"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4789"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4621"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4790"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Pianorulle - inget mönster</translation>
     </message>
@@ -9721,19 +9721,19 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <location filename="../../src/core/Plugin.cpp" line="225"/>
         <source>Plugin not found</source>
-        <translation>Instickmodulen hittades inte</translation>
+        <translation>Tillägget hittades inte</translation>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="226"/>
         <source>The plugin &quot;%1&quot; wasn't found or could not be loaded!
 Reason: &quot;%2&quot;</source>
-        <translation>Instickmodulen &quot;%1&quot; hittades inte eller kunde inte läsas in!
+        <translation>Tillägget &quot;%1&quot; hittades inte eller kunde inte läsas in!
 Orsak: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="247"/>
         <source>Error while loading plugin</source>
-        <translation>Fel vid inläsning av instickmodulen</translation>
+        <translation>Fel vid inläsning av tillägg</translation>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="248"/>
@@ -9826,7 +9826,7 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/Flanger/FlangerEffect.cpp" line="38"/>
         <source>A native flanger plugin</source>
-        <translation>Ett inbyggt flangerinstick</translation>
+        <translation>Ett inbyggt flanger-tillägg</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="56"/>
@@ -9866,12 +9866,12 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/Lv2Effect/Lv2Effect.cpp" line="45"/>
         <source>plugin for using arbitrary LV2-effects inside LMMS.</source>
-        <translation>instick för användning av godtyckliga LV2-effekter inuti LMMS.</translation>
+        <translation>tillägg för användning av godtyckliga LV2-effekter inuti LMMS.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lv2Instrument/Lv2Instrument.cpp" line="51"/>
         <source>plugin for using arbitrary LV2 instruments inside LMMS.</source>
-        <translation>instick för användning av godtyckliga LV2-instrument inuti LMMS.</translation>
+        <translation>tillägg för användning av godtyckliga LV2-instrument inuti LMMS.</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiExport/MidiExport.cpp" line="50"/>
@@ -9891,7 +9891,7 @@ Orsak: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEcho.cpp" line="37"/>
         <source>A multitap echo delay plugin</source>
-        <translation>Ett flertapps ekofördröjningsinstick</translation>
+        <translation>Ett flertapps ekofördröjningstillägg</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="47"/>
@@ -10141,7 +10141,7 @@ Detta chip användes i datorn Commodore 64.</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="306"/>
         <source>(Number of Plugins go here)</source>
-        <translation>(Antal instick placeras här)</translation>
+        <translation>(Antal tillägg placeras här)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="329"/>
@@ -10304,7 +10304,7 @@ Detta chip användes i datorn Commodore 64.</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="14"/>
         <source>Plugin Editor</source>
-        <translation>Insticksredigerare</translation>
+        <translation>Tilläggsredigerare</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="27"/>
@@ -10428,7 +10428,7 @@ Detta chip användes i datorn Commodore 64.</translation>
 Plugin Name
 </source>
         <translation>
-Insticksnamn
+Tilläggsnamn
 </translation>
     </message>
     <message>
@@ -10497,7 +10497,7 @@ Insticksnamn
     <message>
         <location filename="../../src/core/PluginFactory.cpp" line="183"/>
         <source>LMMS plugin %1 does not have a plugin descriptor named %2!</source>
-        <translation>LMMS-instick %1 har inte en insticksbeskrivning vid namn %2!</translation>
+        <translation>LMMS-tillägget %1 har ingen tilläggsbeskrivning med namnet %2!</translation>
     </message>
 </context>
 <context>
@@ -10639,8 +10639,8 @@ Insticksnamn
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="428"/>
         <source>Carla will run small processing checks when scanning the plugins (to make sure they won't crash).
 You can disable these checks to get a faster scanning time (at your own risk).</source>
-        <translation>Carla kommer att köra korta hanteringskontroller under sökningen after instick (för att säkerställa att de inte kommer att krascha).
-Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en kortare sökningstid.</translation>
+        <translation>Carla kommer att köra små bearbetningskontroller vid skanning av tillägg (för att se till att de inte kraschar).
+Du kan inaktivera dessa kontroller för att få en snabbare skanningstid (på egen risk).</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="432"/>
@@ -10695,7 +10695,7 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_default.ui" line="232"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_presets.ui" line="229"/>
         <source>PluginName</source>
-        <translation>Insticksnamn</translation>
+        <translation>Tilläggsnamn</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="178"/>
@@ -10730,7 +10730,7 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_classic.ui" line="164"/>
         <source>Plugin Name</source>
-        <translation>Insticksnamn</translation>
+        <translation>Tilläggsnamn</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_presets.ui" line="266"/>
@@ -10912,17 +10912,17 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../src/gui/Lv2ViewBase.cpp" line="140"/>
+        <location filename="../../src/gui/Lv2ViewBase.cpp" line="144"/>
         <source>Reload Plugin</source>
-        <translation>Läs in instick på nytt</translation>
+        <translation>Läs in tillägg igen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/Lv2ViewBase.cpp" line="147"/>
+        <location filename="../../src/gui/Lv2ViewBase.cpp" line="151"/>
         <source>Show GUI</source>
         <translation>Visa användargränssnitt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/Lv2ViewBase.cpp" line="172"/>
+        <location filename="../../src/gui/Lv2ViewBase.cpp" line="176"/>
         <source>Help</source>
         <translation>Hjälp</translation>
     </message>
@@ -11547,57 +11547,57 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
         <translation>Ljudfiler är begränsade till %1 MB i storlek och %2 minuters speltid</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="980"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="960"/>
         <source>Open audio file</source>
         <translation>Öppna ljudfil</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="987"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Alla ljudfiler (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="989"/>
         <source>Wave-Files (*.wav)</source>
         <translation>Wave-filer (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="990"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>OGG-filer (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1011"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="991"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>DrumSynth-filer (*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1012"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="992"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>FLAC-filer (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1013"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="993"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>SPEEX-filer (*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1016"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="996"/>
         <source>VOC-Files (*.voc)</source>
         <translation>VOC-filer (*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1017"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="997"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>AIFF-filer (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1018"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="998"/>
         <source>AU-Files (*.au)</source>
         <translation>AU-filer (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1019"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="999"/>
         <source>RAW-Files (*.raw)</source>
         <translation>RAW-filer (*.raw)</translation>
     </message>
@@ -11605,86 +11605,91 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
 <context>
     <name>SampleTCOView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="348"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="359"/>
         <source>Double-click to open sample</source>
         <translation>Dubbelklicka för att öppna sampel</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="372"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="383"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Ta bort (musens mitt-knapp)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="373"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="384"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation>Ta bort markering (mittenmusknapp)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="381"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="392"/>
         <source>Cut</source>
         <translation>Klipp ut</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="382"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="393"/>
         <source>Cut selection</source>
         <translation>Klipp ut markering</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="389"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="400"/>
         <source>Copy</source>
         <translation>Kopiera</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="390"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="401"/>
         <source>Copy selection</source>
         <translation>Kopiera markering</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="395"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="406"/>
         <source>Paste</source>
         <translation>Klistra in</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="403"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="414"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Tysta/avtysta (&lt;%1&gt; + mittenklick)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="404"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="415"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation>Tysta/öppna markering (&lt;%1&gt; + mittenklick)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="414"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="424"/>
+        <source>Reverse sample</source>
+        <translation>Spela baklänges</translation>
+    </message>
+    <message>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="432"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="416"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="434"/>
         <source>Use track color</source>
-        <translation type="unfinished"/>
+        <translation>Använd spårfärg</translation>
     </message>
 </context>
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="632"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="660"/>
         <source>Volume</source>
         <translation>Volym</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="633"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="661"/>
         <source>Panning</source>
         <translation>Panorering</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="634"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="662"/>
         <source>FX channel</source>
         <translation>FX-kanal</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="635"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="638"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="663"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="666"/>
         <source>Sample track</source>
         <translation>Ljudspår</translation>
     </message>
@@ -11692,37 +11697,37 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="858"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="886"/>
         <source>Track volume</source>
         <translation>Spårvolym</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="861"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="889"/>
         <source>Channel volume:</source>
         <translation>Kanalvolym:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="868"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="896"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="872"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="900"/>
         <source>Panning</source>
         <translation>Panorering</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="874"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="902"/>
         <source>Panning:</source>
         <translation>Panorering:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="876"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="904"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="944"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="972"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
@@ -11730,47 +11735,47 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
 <context>
     <name>SampleTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1025"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1053"/>
         <source>GENERAL SETTINGS</source>
         <translation>ÖVERGRIPANDE INSTÄLLNINGAR</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1060"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1088"/>
         <source>Sample volume</source>
         <translation>Sampelvolym</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1062"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1090"/>
         <source>Volume:</source>
         <translation>Volym:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1067"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1095"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1074"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1102"/>
         <source>Panning</source>
         <translation>Panorering</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1075"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1103"/>
         <source>Panning:</source>
         <translation>Panorering:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1080"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1108"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1090"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1118"/>
         <source>FX channel</source>
         <translation>FX-kanal</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1095"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1123"/>
         <source>FX</source>
         <translation>FX</translation>
     </message>
@@ -11869,7 +11874,7 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="257"/>
         <source>Reopen last project on startup</source>
-        <translation>Öppna senaste projekt vid uppstart</translation>
+        <translation>Öppna det senaste projektet vid uppstart</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="264"/>
@@ -11905,7 +11910,7 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="377"/>
         <source>Smooth scroll in song editor</source>
-        <translation>Mjuk rullning i sångredigerare</translation>
+        <translation>Mjuk rullning i låtredigeraren</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="379"/>
@@ -11950,7 +11955,7 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="426"/>
         <source>Sync VST plugins to host playback</source>
-        <translation>Synka VST-instick till värduppspelning</translation>
+        <translation>Synkronisera VST-tillägg för att vara värd för uppspelning</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="429"/>
@@ -12002,12 +12007,12 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="772"/>
         <source>VST plugins directory</source>
-        <translation>VST-instickskatalog</translation>
+        <translation>VST-tilläggsmapp</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="776"/>
         <source>LADSPA plugins directories</source>
-        <translation>LADSPA-instickskataloger</translation>
+        <translation>Mappar för LADSPA-tillägg</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="780"/>
@@ -12027,12 +12032,12 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="794"/>
         <source>Theme directory</source>
-        <translation>Temakatalog</translation>
+        <translation>Temamapp</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="798"/>
         <source>Background artwork</source>
-        <translation>Bakgrund konstverk</translation>
+        <translation>Bakgrundskonstverk</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="847"/>
@@ -12042,7 +12047,7 @@ Du kan (på egen risk) inaktivera dessa kontroller för att åstadkomma en korta
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1068"/>
         <source>Autosave interval: %1</source>
-        <translation>Spara automatiskt intervall: %1</translation>
+        <translation>Intervall för att spara automatisk: %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1207"/>
@@ -12433,7 +12438,7 @@ Latens: %2 ms</translation>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="914"/>
         <source>Play song (Space)</source>
-        <translation>Spela sång (Mellanslag)</translation>
+        <translation>Spela låt (Mellanslag)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="915"/>
@@ -12448,7 +12453,7 @@ Latens: %2 ms</translation>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="917"/>
         <source>Stop song (Space)</source>
-        <translation>Sluta spela sång (Mellanslag)</translation>
+        <translation>Stoppa låt (Mellanslag)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="921"/>
@@ -12926,7 +12931,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/core/Track.cpp" line="1211"/>
         <source>Use track color</source>
-        <translation type="unfinished"/>
+        <translation>Använd spårfärg</translation>
     </message>
 </context>
 <context>
@@ -13009,7 +13014,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/core/Track.cpp" line="2401"/>
         <source>Set random color</source>
-        <translation type="unfinished"/>
+        <translation>Ställ in slumpmässig färg</translation>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="2404"/>
@@ -13416,7 +13421,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="134"/>
         <source>Please wait while loading VST plugin...</source>
-        <translation>Vänligen vänta medan VST-instickmodulen läses in...</translation>
+        <translation>Vänligen vänta medan VST-tillägget läses in...</translation>
     </message>
 </context>
 <context>

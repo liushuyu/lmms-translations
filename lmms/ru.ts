@@ -6149,7 +6149,7 @@ Please make sure you have write permission to the file and the directory contain
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1313"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1312"/>
         <source>FX %1: %2</source>
         <translation>ЭФ %1: %2</translation>
     </message>
@@ -6157,127 +6157,127 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1342"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1341"/>
         <source>GENERAL SETTINGS</source>
         <translation>ОСНОВНЫЕ НАСТРОЙКИ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1388"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1387"/>
         <source>Volume</source>
         <translation>Громкость</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1390"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1389"/>
         <source>Volume:</source>
         <translation>Громкость:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1395"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1394"/>
         <source>VOL</source>
         <translation>ГРОМ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1402"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1401"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1403"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1402"/>
         <source>Panning:</source>
         <translation>Баланс:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1408"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1407"/>
         <source>PAN</source>
         <translation>БАЛ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1418"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1417"/>
         <source>Pitch</source>
         <translation>Тональность</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1419"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1418"/>
         <source>Pitch:</source>
         <translation>Тональность:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1419"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1418"/>
         <source>cents</source>
         <translation>сотые</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1424"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1423"/>
         <source>PITCH</source>
         <translation>ТОН</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1431"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1430"/>
         <source>Pitch range (semitones)</source>
         <translation>Диапазон тональности (полутона)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1436"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1435"/>
         <source>RANGE</source>
         <translation>ДИАП</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1446"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1445"/>
         <source>FX channel</source>
         <translation>Канал ЭФ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1451"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1450"/>
         <source>FX</source>
         <translation>ЭФ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1460"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>Сохранить текущую инструментаьную дорожку в файл предустановок</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1465"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1464"/>
         <source>SAVE</source>
         <translation>Сохранить</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1503"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation>Огибающ., фильтр и LFO</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1505"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation>Аккорды и арпеджио</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1506"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1505"/>
         <source>Effects</source>
         <translation>Эффекты</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1507"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1506"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1508"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1507"/>
         <source>Miscellaneous</source>
         <translation>Разное</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1630"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1629"/>
         <source>Save preset</source>
         <translation>Сохранить предустановку</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1630"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1629"/>
         <source>XML preset file (*.xpf)</source>
         <translation>XML файл настроек (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1685"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1684"/>
         <source>Plugin</source>
         <translation>Модуль</translation>
     </message>
@@ -6604,22 +6604,22 @@ Double click to pick a file.</source>
 <context>
     <name>LmmsCore</name>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="59"/>
+        <location filename="../../src/core/Engine.cpp" line="58"/>
         <source>Generating wavetables</source>
         <translation>Генерация волновых таблиц</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="63"/>
+        <location filename="../../src/core/Engine.cpp" line="62"/>
         <source>Initializing data structures</source>
         <translation>Инициализация структуры данных</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="78"/>
+        <location filename="../../src/core/Engine.cpp" line="77"/>
         <source>Opening audio and midi devices</source>
         <translation>Открываем аудио и MIDI-устройства</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="84"/>
+        <location filename="../../src/core/Engine.cpp" line="82"/>
         <source>Launching mixer threads</source>
         <translation>Запускаем потоки микшера</translation>
     </message>
@@ -9289,8 +9289,8 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>Откройте паттерн двойным щелчком!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3911"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3930"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3912"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3931"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Новое значение от %1 до %2:</translation>
     </message>
@@ -9298,144 +9298,144 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4370"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4371"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Игра/пауза текущей мелодии (пробел)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4371"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4372"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Записать ноты с MIDI-устройства или с канала фортепиано</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4372"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4373"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Записать ноты с MIDI-устройства или с канала фортепиано во время воспроизведения композиции или дорожки Ритм-Баса</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4373"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4374"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Записать ноты с MIDI-устройства или с канала фортепиано, по одному шагу за раз</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4374"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4375"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Остановить воспроизведение текущей мелодии (пробел)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4376"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4377"/>
         <source>Edit actions</source>
         <translation>Панель правки</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4380"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4381"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Режим рисования (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4381"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4382"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Режим стирания (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4382"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4383"/>
         <source>Select mode (Shift+S)</source>
         <translation>Режим выбора нот (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4383"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4384"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Режим изгиба высоты тона (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4394"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4395"/>
         <source>Quantize</source>
         <translation>Квантовать</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4405"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4406"/>
         <source>Copy paste controls</source>
         <translation>Копировать-вставить управление</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4408"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4409"/>
         <source>Cut (%1+X)</source>
         <translation>Вырезать (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4411"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4412"/>
         <source>Copy (%1+C)</source>
         <translation>Копировать (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4414"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4415"/>
         <source>Paste (%1+V)</source>
         <translation>Вставить (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4429"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4430"/>
         <source>Timeline controls</source>
         <translation>Панель графика</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4440"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4441"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4451"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4452"/>
         <source>Zoom and note controls</source>
         <translation>Панель масштабирования и нот</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4459"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4460"/>
         <source>Horizontal zooming</source>
         <translation>Горизонтальный масштаб</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4467"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4468"/>
         <source>Vertical zooming</source>
         <translation>Вертикальное приближение</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4476"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4477"/>
         <source>Quantization</source>
         <translation>Квантование</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4485"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4486"/>
         <source>Note length</source>
         <translation>Длительность ноты</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4491"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4492"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4500"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4501"/>
         <source>Scale</source>
         <translation>Гамма</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4509"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4510"/>
         <source>Chord</source>
         <translation>Аккорд</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4514"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4515"/>
         <source>Clear ghost notes</source>
         <translation>Очистить призрачные ноты</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4614"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4785"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4615"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
         <source>Piano-Roll - %1</source>
         <translation>Нотный редактор — %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4620"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4789"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4621"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4790"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Нотный редактор — нет паттерна</translation>
     </message>
@@ -10644,17 +10644,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../src/gui/Lv2ViewBase.cpp" line="140"/>
+        <location filename="../../src/gui/Lv2ViewBase.cpp" line="144"/>
         <source>Reload Plugin</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/Lv2ViewBase.cpp" line="147"/>
+        <location filename="../../src/gui/Lv2ViewBase.cpp" line="151"/>
         <source>Show GUI</source>
         <translation>Показать интерфейс</translation>
     </message>
     <message>
-        <location filename="../../src/gui/Lv2ViewBase.cpp" line="172"/>
+        <location filename="../../src/gui/Lv2ViewBase.cpp" line="176"/>
         <source>Help</source>
         <translation>Справка</translation>
     </message>
@@ -11279,57 +11279,57 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <translation>Звуковые файлы ограничены размером %1 МБ и длительностью %2 мин.</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="980"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="960"/>
         <source>Open audio file</source>
         <translation>Открыть звуковой файл</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="987"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Все звуковые файлы (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="989"/>
         <source>Wave-Files (*.wav)</source>
         <translation>Файлы Wave (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="990"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>Файлы OGG (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1011"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="991"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>Файлы DrumSynth (*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1012"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="992"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>Файлы FLAC (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1013"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="993"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>Файлы SPEEX (*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1016"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="996"/>
         <source>VOC-Files (*.voc)</source>
         <translation>Файлы VOC (*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1017"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="997"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>Файлы AIFF (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1018"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="998"/>
         <source>AU-Files (*.au)</source>
         <translation>Файлы AU (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1019"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="999"/>
         <source>RAW-Files (*.raw)</source>
         <translation>Файлы RAW (*.raw)</translation>
     </message>
@@ -11337,62 +11337,67 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTCOView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="348"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="359"/>
         <source>Double-click to open sample</source>
         <translation>Дважды щелкните, чтобы открыть сэмпл</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="372"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="383"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Удалить (средняя кнопка мыши)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="373"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="384"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation>Удалить выделенное (средняя кнопка мыши)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="381"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="392"/>
         <source>Cut</source>
         <translation>Вырезать</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="382"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="393"/>
         <source>Cut selection</source>
         <translation>Вырезать выделенное</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="389"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="400"/>
         <source>Copy</source>
         <translation>Копировать</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="390"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="401"/>
         <source>Copy selection</source>
         <translation>Копировать выделенное</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="395"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="406"/>
         <source>Paste</source>
         <translation>Вставить</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="403"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="414"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Тихо/громко (&lt;%1&gt; + щелчок средней кнопкой)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="404"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="415"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation>Отключить или включить звук для выделенного (&lt;%1&gt; + средняя кнопка мыши)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="414"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="424"/>
+        <source>Reverse sample</source>
+        <translation>Перевернуть сэмпл</translation>
+    </message>
+    <message>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="432"/>
         <source>Set clip color</source>
         <translation>Установить цвет клипа</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="416"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="434"/>
         <source>Use track color</source>
         <translation>Использовать цвет дорожки</translation>
     </message>
@@ -11400,23 +11405,23 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="632"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="660"/>
         <source>Volume</source>
         <translation>Громкость</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="633"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="661"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="634"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="662"/>
         <source>FX channel</source>
         <translation>Канал ЭФ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="635"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="638"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="663"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="666"/>
         <source>Sample track</source>
         <translation>Дорожка записи</translation>
     </message>
@@ -11424,37 +11429,37 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="858"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="886"/>
         <source>Track volume</source>
         <translation>Громкость дорожки</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="861"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="889"/>
         <source>Channel volume:</source>
         <translation>Громкость канала:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="868"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="896"/>
         <source>VOL</source>
         <translation>УР</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="872"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="900"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="874"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="902"/>
         <source>Panning:</source>
         <translation>Баланс:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="876"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="904"/>
         <source>PAN</source>
         <translation>БАЛ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="944"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="972"/>
         <source>FX %1: %2</source>
         <translation>ЭФ %1: %2</translation>
     </message>
@@ -11462,47 +11467,47 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1025"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1053"/>
         <source>GENERAL SETTINGS</source>
         <translation>ОСНОВНЫЕ НАСТРОЙКИ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1060"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1088"/>
         <source>Sample volume</source>
         <translation>Громкость сэмпла</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1062"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1090"/>
         <source>Volume:</source>
         <translation>Громкость:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1067"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1095"/>
         <source>VOL</source>
         <translation>ГРОМК</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1074"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1102"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1075"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1103"/>
         <source>Panning:</source>
         <translation>Баланс:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1080"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1108"/>
         <source>PAN</source>
         <translation>БАЛ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1090"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1118"/>
         <source>FX channel</source>
         <translation>Канал ЭФ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1095"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1123"/>
         <source>FX</source>
         <translation>ЭФ</translation>
     </message>
