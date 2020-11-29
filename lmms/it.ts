@@ -4330,17 +4330,27 @@ Si prega di controllare i permessi di scrittura sul file e la cartella che lo co
 <context>
     <name>FileBrowser</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="75"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="82"/>
+        <source>User content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="84"/>
+        <source>Factory content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="104"/>
         <source>Browser</source>
         <translation>Browser</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="85"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="119"/>
         <source>Search</source>
         <translation>Cerca</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="93"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="127"/>
         <source>Refresh list</source>
         <translation>Aggiorna lista</translation>
     </message>
@@ -4348,67 +4358,67 @@ Si prega di controllare i permessi di scrittura sul file e la cartella che lo co
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="459"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="504"/>
         <source>Send to active instrument-track</source>
         <translation>Sostituisci questo strumento alla traccia attiva</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="467"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="512"/>
         <source>Open containing folder</source>
         <translation>Apri cartella contenente</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="471"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="516"/>
         <source>Song Editor</source>
         <translation>Mostra/nascondi Editor brani</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="476"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="521"/>
         <source>BB Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="495"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="540"/>
         <source>Send to new AudioFileProcessor instance</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="496"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="541"/>
         <source>Send to new instrument track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="500"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="545"/>
         <source> (%2Enter)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="510"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="555"/>
         <source>Send to new sample track (Shift + Enter)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="569"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="614"/>
         <source>Loading sample</source>
         <translation>Caricamento campione</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="570"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="615"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>Attendere, stiamo caricando il file per l&apos;anteprima...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="597"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="642"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="598"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="643"/>
         <source>%1 does not appear to be a valid %2 file</source>
         <translation>%1 non sembra essere un file %2 valido</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="957"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="1008"/>
         <source>--- Factory files ---</source>
         <translation>--- File di fabbrica ---</translation>
     </message>
@@ -6628,12 +6638,12 @@ Fai doppio click per scegliere un file.</translation>
         <translation>Si è riscontrato un errore nell&apos;analisi del file di configurazione alle linee %1:%2: %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="617"/>
         <source>Could not open file</source>
         <translation>Non è stato possibile aprire il file</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>Impossibile scrivere sul file %1.
@@ -6692,406 +6702,406 @@ Si prega di controllare i permessi di scrittura sul file e la cartella che lo co
         <translation>I miei Progetti</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="135"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="137"/>
         <source>My Samples</source>
         <translation>I miei Campioni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="142"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="146"/>
         <source>My Presets</source>
         <translation>I miei Modelli</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="146"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="152"/>
         <source>My Home</source>
         <translation>Percorsi di Lavoro</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="152"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="158"/>
         <source>Root directory</source>
         <translation>Percorso principale</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="156"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="162"/>
         <source>Volumes</source>
         <translation>Volumi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="159"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="165"/>
         <source>My Computer</source>
         <translation>Computer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="284"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="290"/>
         <source>&amp;File</source>
         <translation>&amp;File</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="286"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="292"/>
         <source>&amp;New</source>
         <translation>&amp;Nuovo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="294"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="300"/>
         <source>&amp;Open...</source>
         <translation>&amp;Apri...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="178"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="184"/>
         <source>Loading background picture</source>
         <translation>Caricamento immagine di sfondo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="301"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="307"/>
         <source>&amp;Save</source>
         <translation>&amp;Salva</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="305"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="311"/>
         <source>Save &amp;As...</source>
         <translation>Salva &amp;come...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="309"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="315"/>
         <source>Save as New &amp;Version</source>
         <translation>Salva come nuova &amp;versione</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="314"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="320"/>
         <source>Save as default template</source>
         <translation>Salva come modello predefinito</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="319"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="325"/>
         <source>Import...</source>
         <translation>Importa...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="323"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="329"/>
         <source>E&amp;xport...</source>
         <translation>E&amp;sporta...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="328"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="334"/>
         <source>E&amp;xport Tracks...</source>
         <translation>E&amp;sporta tracce...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="334"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="340"/>
         <source>Export &amp;MIDI...</source>
         <translation>Esporta &amp;MIDI...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="343"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="349"/>
         <source>&amp;Quit</source>
         <translation>&amp;Esci</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="349"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="355"/>
         <source>&amp;Edit</source>
         <translation>&amp;Modifica</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="351"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="357"/>
         <source>Undo</source>
         <translation>Annulla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="355"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="361"/>
         <source>Redo</source>
         <translation>Ripeti</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="370"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="376"/>
         <source>Settings</source>
         <translation>Impostazioni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="375"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="381"/>
         <source>&amp;View</source>
         <translation>&amp;Visualizza</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="391"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="397"/>
         <source>&amp;Tools</source>
         <translation>S&amp;trumenti</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="399"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="405"/>
         <source>&amp;Help</source>
         <translation>&amp;Aiuto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="404"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="410"/>
         <source>Online Help</source>
         <translation>Aiuto Online</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="410"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="416"/>
         <source>Help</source>
         <translation>Aiuto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="418"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="424"/>
         <source>About</source>
         <translation>Informazioni su</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="424"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="430"/>
         <source>Create new project</source>
         <translation>Crea nuovo progetto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="430"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="436"/>
         <source>Create new project from template</source>
         <translation>Crea nuovo progetto da modello</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="438"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="444"/>
         <source>Open existing project</source>
         <translation>Apri progetto esistente</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="445"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="451"/>
         <source>Recently opened projects</source>
         <translation>Progetti aperti di recente</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="452"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="458"/>
         <source>Save current project</source>
         <translation>Salva questo progetto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="459"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="465"/>
         <source>Export current project</source>
         <translation>Esporta questo progetto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="466"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="472"/>
         <source>Metronome</source>
         <translation>Metronomo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="485"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1113"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="491"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1119"/>
         <source>Song Editor</source>
         <translation>Mostra/nascondi Editor brani</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="493"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1117"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="499"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1123"/>
         <source>Beat+Bassline Editor</source>
         <translation>Editor Beat+Bassline</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="502"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1121"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="508"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1127"/>
         <source>Piano Roll</source>
         <translation>Mostra/nascondi il Piano-Roll</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="510"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1125"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="516"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1131"/>
         <source>Automation Editor</source>
         <translation>Mostra/nascondi Editor automazione</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="519"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1130"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="525"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1136"/>
         <source>FX Mixer</source>
         <translation>Mostra/nascondi mixer effetti</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="526"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="532"/>
         <source>Show/hide controller rack</source>
         <translation>Mostra/nascondi il rack di controller</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="534"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="540"/>
         <source>Show/hide project notes</source>
         <translation>Mostra/nascondi note del progetto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="637"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="643"/>
         <source>Untitled</source>
         <translation>Senza_nome</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="652"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="658"/>
         <source>Recover session. Please save your work!</source>
         <translation>Sessione di recupero. Salva al più presto!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="655"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="661"/>
         <source>LMMS %1</source>
         <translation>LMMS %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="674"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="680"/>
         <source>Recovered project not saved</source>
         <translation>Progetto recuperato non salvato</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="675"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="681"/>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
         <translation>Il progetto è stato recuperato dalla sessione precedente. Attualmente non è stato salvato. Vuoi salvarlo adesso per evitare di perderlo?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="680"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="686"/>
         <source>Project not saved</source>
         <translation>Progetto non salvato</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="681"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="687"/>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
         <translation>Questo progetto è stato modificato dopo l&apos;ultimo salvataggio. Vuoi salvarlo adesso?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="817"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="823"/>
         <source>Open Project</source>
         <translation>Apri Progetto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="817"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="823"/>
         <source>LMMS (*.mmp *.mmpz)</source>
         <translation>LMMS (*.mmp *.mmpz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="860"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="866"/>
         <source>Save Project</source>
         <translation>Salva Progetto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="861"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="867"/>
         <source>LMMS Project</source>
         <translation>Progetto LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="862"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="868"/>
         <source>LMMS Project Template</source>
         <translation>Modello di Progetto LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="892"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="898"/>
         <source>Save project template</source>
         <translation>Salva come modello di progetto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="940"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="946"/>
         <source>Overwrite default template?</source>
         <translation>Sovrascrivere il progetto default?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="941"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="947"/>
         <source>This will overwrite your current default template.</source>
         <translation>In questo modo verrà modificato il tuo progetto di default corrente.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="974"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="980"/>
         <source>Help not available</source>
         <translation>Aiuto non disponibile</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="975"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="981"/>
         <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>Al momento non è disponibile alcun aiuto in LMMS.
 Visitare http://lmms.sf.net/wiki  per la documentazione di LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1134"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1140"/>
         <source>Controller Rack</source>
         <translation>Mostra/nascondi il rack di controller</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1138"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1144"/>
         <source>Project Notes</source>
         <translation>Mostra/nascondi le note del progetto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1145"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1151"/>
         <source>Fullscreen</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1155"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1161"/>
         <source>Volume as dBFS</source>
         <translation>Volume in dBFS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1169"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1175"/>
         <source>Smooth scroll</source>
         <translation>Scorrimento morbido</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1183"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1189"/>
         <source>Enable note labels in piano roll</source>
         <translation>Abilita l&apos;etichetta delle note nel piano roll</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1459"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1465"/>
         <source>MIDI File (*.mid)</source>
         <translation>File MIDI (*.mid)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1471"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1528"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1477"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1534"/>
         <source>untitled</source>
         <translation>senza_nome</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1475"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1531"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1481"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1537"/>
         <source>Select file for project-export...</source>
         <translation>Scegliere il file per l&apos;esportazione del progetto...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1500"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1506"/>
         <source>Select directory for writing exported tracks...</source>
         <translation>Seleziona una directory per le tracce esportate...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1562"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1568"/>
         <source>Save project</source>
         <translation>Salva progetto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1579"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1585"/>
         <source>Project saved</source>
         <translation>Progeto salvato</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1579"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1585"/>
         <source>The project %1 is now saved.</source>
         <translation>Il progetto %1 è stato salvato.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1586"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1592"/>
         <source>Project NOT saved.</source>
         <translation>Il progetto NON è stato salvato.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1586"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1592"/>
         <source>The project %1 was not saved!</source>
         <translation>Il progetto %1 non è stato salvato!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1625"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1631"/>
         <source>Import file</source>
         <translation>Importa file</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1627"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1633"/>
         <source>MIDI sequences</source>
         <translation>Sequenze MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1629"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1635"/>
         <source>Hydrogen projects</source>
         <translation>Progetti Hydrogen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1631"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1637"/>
         <source>All file types</source>
         <translation>Tutti i tipi di file</translation>
     </message>
@@ -9501,7 +9511,7 @@ Motivo: &quot;%2&quot;</translation>
         <translation>Potenzia il tuo basso in modo veloce e semplice</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="54"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="56"/>
         <source>Customizable wavetable synthesizer</source>
         <translation>Sintetizzatore wavetable configurabile</translation>
     </message>
@@ -11513,339 +11523,344 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SetupDialog</name>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="586"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="590"/>
         <source>Reset to default value</source>
         <translation>Ritorna alle impostazioni predefinite</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="545"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="549"/>
         <source>Use built-in NaN handler</source>
         <translation>Usa il gestore NaN integrato</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="155"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="157"/>
         <source>Settings</source>
         <translation>Impostazioni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="196"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="815"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="198"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="819"/>
         <source>General</source>
         <translation>Generale</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="223"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="225"/>
         <source>Graphical user interface (GUI)</source>
         <translation>Interfaccia utente grafica (GUI)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="226"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="228"/>
         <source>Display volume as dBFS </source>
         <translation>Mostra il volume in dBFS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="228"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="230"/>
         <source>Enable tooltips</source>
         <translation>Abilita i suggerimenti</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="230"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="232"/>
         <source>Enable master oscilloscope by default</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="232"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="234"/>
         <source>Enable all note labels in piano roll</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="234"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="236"/>
         <source>Enable compact track buttons</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="236"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="238"/>
         <source>Enable one instrument-track-window mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="238"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="240"/>
         <source>Show sidebar on the right-hand side</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="240"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="242"/>
+        <source>Let sample previews continue when mouse is released</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/SetupDialog.cpp" line="244"/>
         <source>Mute automation tracks during solo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="250"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="254"/>
         <source>Projects</source>
         <translation>Progetti</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="253"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="257"/>
         <source>Compress project files by default</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="255"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="259"/>
         <source>Create a backup file when saving a project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="257"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="261"/>
         <source>Reopen last project on startup</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="264"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="268"/>
         <source>Language</source>
         <translation>Lingua</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="324"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="818"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="328"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="822"/>
         <source>Performance</source>
         <translation>Prestazioni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="329"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="333"/>
         <source>Autosave</source>
         <translation>Salvataggio automatico</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="348"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="352"/>
         <source>Enable autosave</source>
         <translation>Abilita salvataggio automatico</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="355"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="359"/>
         <source>Allow autosave while playing</source>
         <translation>Consenti salvataggio automatico durante la riproduzione</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="375"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="379"/>
         <source>User interface (UI) effects vs. performance</source>
         <translation>Effetti dell&apos;interfaccia utente (UI) vs. prestazioni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="377"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="381"/>
         <source>Smooth scroll in song editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="379"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="383"/>
         <source>Display playback cursor in AudioFileProcessor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="389"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="393"/>
         <source>Plugins</source>
         <translation>Plugin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="393"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="397"/>
         <source>VST plugins embedding:</source>
         <translation>Incorporamento dei plug-in VST:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="399"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="403"/>
         <source>No embedding</source>
         <translation>Nessun incorporamento</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="402"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="406"/>
         <source>Embed using Qt API</source>
         <translation>Incorpora utilizzando l&apos;API Qt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="406"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="410"/>
         <source>Embed using native Win32 API</source>
         <translation>Incorpora utilizzando l&apos;API Win32 nativa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="410"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="414"/>
         <source>Embed using XEmbed protocol</source>
         <translation>Incorpora utilizzando il protocollo XEmbed</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="419"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="423"/>
         <source>Keep plugin windows on top when not embedded</source>
         <translation>Mantieni le finestre dei plugin in primo piano quando non sono incorporate</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="426"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="430"/>
         <source>Sync VST plugins to host playback</source>
         <translation>Sincronizza i plugin VST alla riproduzione del programma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="429"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="433"/>
         <source>Keep effects running even without input</source>
         <translation>Lascia gli effetti attivi anche senza input</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="449"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="821"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="453"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="825"/>
         <source>Audio</source>
         <translation>Audio</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="453"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="457"/>
         <source>Audio interface</source>
         <translation>Interfaccia audio</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="551"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="555"/>
         <source>HQ mode for output audio device</source>
         <translation>Modalità HQ per il dispositivo audio di uscita</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="560"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="564"/>
         <source>Buffer size</source>
         <translation>Dimensione buffer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="604"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="824"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="608"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="828"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="608"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="612"/>
         <source>MIDI interface</source>
         <translation>Interfaccia MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="688"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="692"/>
         <source>Automatically assign MIDI controller to selected track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="768"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="772"/>
         <source>LMMS working directory</source>
         <translation>Directory di lavoro di LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="772"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="776"/>
         <source>VST plugins directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="776"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="780"/>
         <source>LADSPA plugins directories</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="780"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="784"/>
         <source>SF2 directory</source>
         <translation>Directory dei SoundFont</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="785"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="789"/>
         <source>Default SF2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="790"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="794"/>
         <source>GIG directory</source>
         <translation>Directory di GIG</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="794"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="798"/>
         <source>Theme directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="798"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="802"/>
         <source>Background artwork</source>
         <translation>Grafica dello sfondo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="847"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="851"/>
         <source>Some changes require restarting.</source>
         <translation>Alcune modifiche richiedono il riavvio.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1068"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1080"/>
         <source>Autosave interval: %1</source>
         <translation>Intervallo salvataggio automatico: %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1207"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1219"/>
         <source>Choose the LMMS working directory</source>
         <translation>Scegli la cartella di lavoro di LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1224"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1236"/>
         <source>Choose your VST plugins directory</source>
         <translation>Scegli la tua cartella dei plugins VST</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1241"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1253"/>
         <source>Choose your LADSPA plugins directory</source>
         <translation>Scegli la tua cartella dei plugins LADSPA</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1284"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1296"/>
         <source>Choose your default SF2</source>
         <translation>Scegli il tuo SF2 predefinito</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1322"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1334"/>
         <source>Choose your theme directory</source>
         <translation>Scegli la tua cartella dei temi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1356"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1368"/>
         <source>Choose your background picture</source>
         <translation>Scegli la tua immagine di sfondo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="723"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="827"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="727"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="831"/>
         <source>Paths</source>
         <translation>Percorsi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="853"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="857"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="860"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="864"/>
         <source>Cancel</source>
         <translation>Annulla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1177"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1189"/>
         <source>Frames: %1
 Latency: %2 ms</source>
         <translation>Frames: %1
 Latenza: %2 ms</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1305"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1317"/>
         <source>Choose your GIG directory</source>
         <translation>Selezione la directory di GIG</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1266"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1278"/>
         <source>Choose your SF2 directory</source>
         <translation>Seleziona la directory dei SoundFont</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1064"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1076"/>
         <source>minutes</source>
         <translation>minuti</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1064"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1076"/>
         <source>minute</source>
         <translation>minuto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1066"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1078"/>
         <source>Disabled</source>
         <translation>Disabilitato</translation>
     </message>
@@ -12021,32 +12036,32 @@ Latenza: %2 ms</translation>
 <context>
     <name>Song</name>
     <message>
-        <location filename="../../src/core/Song.cpp" line="67"/>
+        <location filename="../../src/core/Song.cpp" line="69"/>
         <source>Tempo</source>
         <translation>Tempo</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="70"/>
+        <location filename="../../src/core/Song.cpp" line="72"/>
         <source>Master volume</source>
         <translation>Volume principale</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="71"/>
+        <location filename="../../src/core/Song.cpp" line="73"/>
         <source>Master pitch</source>
         <translation>Altezza principale</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1201"/>
+        <location filename="../../src/core/Song.cpp" line="1136"/>
         <source>LMMS Error report</source>
         <translation>Informazioni sull&apos;errore di LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1455"/>
+        <location filename="../../src/core/Song.cpp" line="1390"/>
         <source> (repeated %1 times)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1462"/>
+        <location filename="../../src/core/Song.cpp" line="1397"/>
         <source>The following errors occurred while loading: </source>
         <translation>Si sono verificati i seguenti errori durante il caricamento:</translation>
     </message>
@@ -13895,7 +13910,7 @@ Assicurarsi di avere i permessi in lettura per il file e per la directory che lo
 <context>
     <name>bitInvader</name>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="141"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="143"/>
         <source>Sample length</source>
         <translation>Lunghezza campione</translation>
     </message>
@@ -13903,64 +13918,64 @@ Assicurarsi di avere i permessi in lettura per il file e per la directory che lo
 <context>
     <name>bitInvaderView</name>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="340"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="346"/>
         <source>Sample length</source>
         <translation>Lunghezza campione</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="347"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="353"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
         <translation>Cliccando e trascinando il mouse in questo grafico è possibile disegnare una forma d&apos;onda personalizzata.</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="358"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="365"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="364"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="371"/>
         <source>Sine wave</source>
         <translation>Onda sinusoidale</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="367"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="374"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="373"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="380"/>
         <source>Triangle wave</source>
         <translation>Onda triangolare</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="376"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="383"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="382"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="389"/>
         <source>Saw wave</source>
         <translation>Onda a dente di sega</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="385"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="392"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="391"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="398"/>
         <source>Square wave</source>
         <translation>Onda quadra</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="395"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="402"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="401"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="408"/>
         <source>White noise</source>
         <translation>Rumore bianco</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="404"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="411"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="410"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="417"/>
         <source>User-defined wave</source>
         <translation>Onda definita dall&apos;utente</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="413"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="420"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="419"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="426"/>
         <source>Smooth waveform</source>
         <translation>Spiana forma d&apos;onda</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="424"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="430"/>
         <source>Interpolation</source>
         <translation>Interpolazione</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="429"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="435"/>
         <source>Normalize</source>
         <translation>Normalizza</translation>
     </message>
