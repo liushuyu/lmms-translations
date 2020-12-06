@@ -1,12 +1,12 @@
 <?xml version="1.0" ?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file datatype="plaintext" original="file.ext" source-language="en" target-language="ka">
+  <file datatype="plaintext" original="file.ext" source-language="en" target-language="hu-HU">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
       <trans-unit id="1ur_gjW" resname="Download">
         <source>Download</source>
-        <target>გადმოწერა</target>
+        <target>Letöltés</target>
         
       </trans-unit>
       <trans-unit id="Tdd9OuD" resname="Get Involved">
@@ -15,17 +15,17 @@
       </trans-unit>
       <trans-unit id="wgWSTeD" resname="Documentation">
         <source>Documentation</source>
-        <target>დოკუმენტაცია</target>
+        <target>Dokumentáció</target>
         
       </trans-unit>
       <trans-unit id="evAjxDA" resname="Docs">
         <source>Docs</source>
-        <target>დოკუმენტები</target>
+        <target>Dokumentumok</target>
         
       </trans-unit>
       <trans-unit id="Tae9Qqu" resname="Forum">
         <source>Forum</source>
-        <target>ფორუმი</target>
+        <target>Fórum</target>
         
       </trans-unit>
       <trans-unit id="yHBYjoP" resname="Sharing Platform">
@@ -34,12 +34,11 @@
       </trans-unit>
       <trans-unit id="KYh6X.m" resname="Share">
         <source>Share</source>
-        <target>გაზიარება</target>
         
       </trans-unit>
       <trans-unit id="1H18sOT" resname="More">
         <source>More</source>
-        <target>მეტი</target>
+        <target>Több</target>
         
       </trans-unit>
       <trans-unit id="mhXcnGL" resname="Showcase">
@@ -52,6 +51,7 @@
       </trans-unit>
       <trans-unit id="1BeqFto" resname="Branding">
         <source>Branding</source>
+        <target>Márka</target>
         
       </trans-unit>
       <trans-unit id="H2zLuBd" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
@@ -61,6 +61,8 @@
       <trans-unit id="f.UFHnN" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 	Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>Az LMMS a legtöbb ismert Linux disztribúció csomagtárolójában megtalálható.&lt;br&gt;
+Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#contact&quot;&gt;vedd fel velünk a kapcsolatot&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="LO1QDjg" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
@@ -69,14 +71,17 @@
       </trans-unit>
       <trans-unit id="G4TfEor" resname="Install LMMS now">
         <source>Install LMMS now</source>
+        <target>Az LMMS telepítése</target>
         
       </trans-unit>
       <trans-unit id="UQygByz" resname="From your package manager">
         <source>From your package manager</source>
+        <target>A csomagkezelő segítségével</target>
         
       </trans-unit>
       <trans-unit id="EOXdih0" resname="If this doesn't work for you, run this command in a terminal.">
         <source>If this doesn't work for you, run this command in a terminal.</source>
+        <target>Ha ez nem működne, futtasd a következő parancsot terminálban:</target>
         
       </trans-unit>
       <trans-unit id="unby17C" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
@@ -85,22 +90,27 @@
       </trans-unit>
       <trans-unit id="jHa21vl" resname="VST Support">
         <source>VST Support</source>
+        <target>VST Támogatás</target>
         
       </trans-unit>
       <trans-unit id="PN0uK90" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
         <source>If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.</source>
+        <target>Ha a disztribúciód kínál VST támogatást (a Wine telepítése szükséges), azt általában egy különálló csomagban teszi. Például a &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio csomagtárolót&lt;/a&gt;használva futtasd ezt a parancsot:</target>
         
       </trans-unit>
       <trans-unit id="f.eEeY2" resname="Run the following command as root in a terminal:">
         <source>Run the following command as root in a terminal:</source>
+        <target>Futtasd a következő parancsot root-ként:</target>
         
       </trans-unit>
       <trans-unit id="z9xAq9s" resname="Run the following command in a terminal:">
         <source>Run the following command in a terminal:</source>
+        <target>Futtasd a következő parancsot:</target>
         
       </trans-unit>
       <trans-unit id="eJUdOr0" resname="For VST support, please install wine or wine-staging from the repository">
         <source>For VST support, please install wine or wine-staging from the repository</source>
+        <target>A VST támogatáshoz telepítsd a &quot;wine&quot; vagy &quot;wine-staging&quot; csomagot a csomagkezelő segítségével.</target>
         
       </trans-unit>
       <trans-unit id=".uMu3cY" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
@@ -117,63 +127,72 @@
       </trans-unit>
       <trans-unit id="4ya_6rI" resname="Build LMMS from source">
         <source>Build LMMS from source</source>
+        <target>Az LMMS fordítása forráskódból</target>
         
       </trans-unit>
       <trans-unit id="D9BgqO1" resname="If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.">
         <source>If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.</source>
+        <target>Ha a Linux disztribúciód nem kínálja az lmms csomagot, vagy csak egy régebbi verziót tartalmaz, még mindig lefordíthatod az LMMS-t forráskódból. Ennek laírását a &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;GitHub wiki oldalunk&lt;/a&gt; tartalmazza.</target>
         
       </trans-unit>
       <trans-unit id="IAenq0c" resname="Download LMMS">
         <source>Download LMMS</source>
-        <target>LMMS-ის გადმოწერა</target>
+        <target>Az LMMS letöltése</target>
         
       </trans-unit>
       <trans-unit id="618mGB6" resname="Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:">
         <source>Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:</source>
+        <target>Az LMMS letöltése és használata ingyenes! Csak válaszd ki az operációs rendszert, amin az LMMS-t futtatni szeretnéd:</target>
         
       </trans-unit>
       <trans-unit id="PmTQgHE" resname="Install LMMS on Linux">
         <source>Install LMMS on Linux</source>
-        <target>დააყენეთ LMMS-ი Linux-ზე</target>
+        <target>Az LMMS telepítése Linuxra</target>
         
       </trans-unit>
       <trans-unit id="I.sR1nc" resname="Click one of the buttons below to download LMMS for Linux.">
         <source>Click one of the buttons below to download LMMS for Linux.</source>
+        <target>Kattints az alábbi gombok valamelyikére az LMMS letöltéséhez Linuxra.</target>
         
       </trans-unit>
       <trans-unit id="ovu1A1m" resname="Stable Versions">
         <source>Stable Versions</source>
+        <target>Stabil Verziók</target>
         
       </trans-unit>
       <trans-unit id="GUjytCK" resname="Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running">
         <source>Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running</source>
+        <target>Futtasd a &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; parancsot az &lt;code&gt;.AppImage&lt;/code&gt; fájl futtathatóvá tételéhez.</target>
         
       </trans-unit>
       <trans-unit id="A8g9Yp6" resname="Beta Versions">
         <source>Beta Versions</source>
-        <target>ბეტა ვერსიები</target>
+        <target>Béta Verziók</target>
         
       </trans-unit>
       <trans-unit id="LL6EZV6" resname="Other options">
         <source>Other options</source>
+        <target>Egyéb lehetőségek</target>
         
       </trans-unit>
       <trans-unit id="0kZzFXf" resname="Install LMMS on Windows">
         <source>Install LMMS on Windows</source>
-        <target>დააყენეთ LMMS-ი Windows-ზე</target>
+        <target>Az LMMS telepítése Windowsra</target>
         
       </trans-unit>
       <trans-unit id="yAy2ARB" resname="Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows">
         <source>Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows</source>
+        <target>Kattints az alábbi gombok valamelyikére (32bit vagy 64bit) az LMMS letöltéséhez Windowsra.</target>
         
       </trans-unit>
       <trans-unit id="in50er8" resname="Install LMMS on macOS">
         <source>Install LMMS on macOS</source>
-        <target>დააყენეთ LMMS-ი macOS-ზე</target>
+        <target>Az LMMS telepítése macOS-re</target>
         
       </trans-unit>
       <trans-unit id="6saYqj7" resname="Click one of the buttons below to download LMMS for macOS">
         <source>Click one of the buttons below to download LMMS for macOS</source>
+        <target>Kattints az alábbi gombok valamelyikére az LMMS letöltéséhez macOS-re.</target>
         
       </trans-unit>
       <trans-unit id="QNAnU4Y" resname="Downloads labeled Beta are pre-release software, stability may suffer.">
@@ -182,10 +201,12 @@
       </trans-unit>
       <trans-unit id="VA2zwSI" resname="Previous releases">
         <source>Previous releases</source>
+        <target>Régebbi kiadások</target>
         
       </trans-unit>
       <trans-unit id="NkbaYUi" resname="Show release notes">
         <source>Show release notes</source>
+        <target>Megjegyzések ehhez a kiadáshoz</target>
         
       </trans-unit>
       <trans-unit id="qcNxvc6" resname="LMMS is a free, open-source software built entirely by a small number of&#10;&#9;volunteers in their free time. But to keep the project going, we need this&#10;&#9;number to grow. So if you feel like giving something back to the community,&#10;&#9;join us in making LMMS better!">
@@ -197,21 +218,24 @@
       </trans-unit>
       <trans-unit id="9CFIxXY" resname="What you can do">
         <source>What you can do</source>
-        <target>რისი გაკეთება შეგიძლიათ</target>
+        <target>Mit tudsz tenni</target>
         
       </trans-unit>
       <trans-unit id="0Y_zD6N" resname="There are multiple ways of contributing:">
         <source>There are multiple ways of contributing:</source>
+        <target>Több módja is van, hogy közreműködj:</target>
         
       </trans-unit>
       <trans-unit id="gnURxlL" resname="Join Development">
         <source>Join Development</source>
+        <target>Csatlakozz a fejlesztőkhöz</target>
         
       </trans-unit>
       <trans-unit id="1Nlx.3k" resname="We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt&#10;&#9;&#9;&#9;&#9;&#9;   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with&#10;&#9;&#9;&#9;&#9;&#9;   coding!">
         <source>We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt
 					   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with
 					   coding!</source>
+        <target>Rettentő nagy szükségünk van most arra, hogy új fejlesztők csatlakozzanak a csapatunkhoz. Az LMMS C++ nyelven íródott, a Qt keretrendszer felhasználásával. Ha tudsz egy-két dolgot ezekről, akkor ne habozz, láss neki a kódolásnak!</target>
         
       </trans-unit>
       <trans-unit id="YIACglk" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
@@ -223,7 +247,7 @@
       </trans-unit>
       <trans-unit id="FSzxUcg" resname="Website &amp; Docs">
         <source>Website &amp; Docs</source>
-        <target>საიტი და დოკუმენტები</target>
+        <target>Weboldal &amp; Dokumentáció</target>
         
       </trans-unit>
       <trans-unit id="5DVpnpU" resname="You can help us by improving this website or documenting the software. The website sources are in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.">
@@ -240,20 +264,23 @@
       </trans-unit>
       <trans-unit id="yR7g8nm" resname="Donate">
         <source>Donate</source>
+        <target>Támogass bennünket</target>
         
       </trans-unit>
       <trans-unit id="LUNpyrn" resname="Even though donations are not the thing we need the most (that'd be developers), they help us pay&#10;&#9;&#9;&#9;&#9;&#9;   our bills, for our domain lmms.io for instance.">
         <source>Even though donations are not the thing we need the most (that'd be developers), they help us pay
 					   our bills, for our domain lmms.io for instance.</source>
+        <target>Habár az anyagi támogatás nem az elsődleges dolog amire szükségünk van (azok a fejlesztők lennének), de segít fizetni a költségeket, például az lmms.io domainhez.</target>
         
       </trans-unit>
       <trans-unit id="7yTl1LS" resname="Donate via PayPal">
         <source>Donate via PayPal</source>
+        <target>Támogatás PayPal-on keresztül</target>
         
       </trans-unit>
       <trans-unit id="JmpBuQ1" resname="Translations">
         <source>Translations</source>
-        <target>თარგმანები</target>
+        <target>Fordítások</target>
         
       </trans-unit>
       <trans-unit id="ODMpVkq" resname="If your language is missing in LMMS, help the project and other users speaking the same language by&#10;&#9;&#9;&#9;&#9;&#9;   translating the software. You can find instructions on the page&#10;&#9;&#9;&#9;&#9;&#9;   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub Wiki.">
@@ -269,6 +296,7 @@
       </trans-unit>
       <trans-unit id="nSgPM_a" resname="Mailing List">
         <source>Mailing List</source>
+        <target>Levelezőlista</target>
         
       </trans-unit>
       <trans-unit id="6PT.eyE" resname="Posting to the mailing list is the best way to reach out to our developers:">
@@ -288,10 +316,12 @@
         <source>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
 					is a more modern alternative to IRC. Join our server 
 					&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.</source>
+        <target>A &lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt; egy modernebb alternatíva az IRC helyett. &lt;a href=&quot;/chat/&quot;&gt;Kattints ide&lt;/a&gt;, ha csatlakozni szeretnél a szerverünkhöz.</target>
         
       </trans-unit>
       <trans-unit id="vgrQxiN" resname="We host a forum for our users here on this website:">
         <source>We host a forum for our users here on this website:</source>
+        <target>Üzemeltetünk egy fórumot a felhasználóink számára itt, ezen az oldalon:</target>
         
       </trans-unit>
       <trans-unit id="P3vlK3." resname="For reporting a bug or suggesting a new feature, please use the GitHub issue tracker:">
@@ -300,7 +330,6 @@
       </trans-unit>
       <trans-unit id="TWZRGVx" resname="Let's make music">
         <source>Let's make music</source>
-        <target>მოდით შევქმნათ მუსიკა</target>
         
       </trans-unit>
       <trans-unit id="Jo.VN3p" resname="with a free, cross-platform tool for your computer.">
@@ -309,6 +338,7 @@
       </trans-unit>
       <trans-unit id="ADl38LV" resname="Download now">
         <source>Download now</source>
+        <target>Letöltés</target>
         
       </trans-unit>
       <trans-unit id="LLpAwlQ" resname="Get involved">
@@ -321,6 +351,7 @@
       </trans-unit>
       <trans-unit id="HXvrE6h" resname="Produce music with your computer">
         <source>Produce music with your computer</source>
+        <target>Szerezz zenét a számítógépeden</target>
         
       </trans-unit>
       <trans-unit id="8k_3.h_" resname="by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.">
@@ -333,33 +364,37 @@
       </trans-unit>
       <trans-unit id="c_9n6oH" resname="with a typing or MIDI keyboard in a user-friendly and modern interface.">
         <source>with a typing or MIDI keyboard in a user-friendly and modern interface.</source>
+        <target>a klaviatúrán vagy MIDI billentyűzettel, egy modern és felhasználóbarát felületen.</target>
         
       </trans-unit>
       <trans-unit id="h73sjrb" resname="Bundled with ready-to-use content">
         <source>Bundled with ready-to-use content</source>
+        <target>Használatra kész tartalmak mellékelve</target>
         
       </trans-unit>
       <trans-unit id="lBGEdiH" resname="from an assortment of instrument and effect plugins, presets and samples to VST and SoundFont support.">
         <source>from an assortment of instrument and effect plugins, presets and samples to VST and SoundFont support.</source>
+        <target>Hangszer és effekt pluginektől a preseteken és hangmintákon át a VST és SoundFont támogatásig.</target>
         
       </trans-unit>
       <trans-unit id="rELUYJ6" resname="Made by musicians, for musicians.">
         <source>Made by musicians, for musicians.</source>
+        <target>Zenészektől, zenészeknek.</target>
         
       </trans-unit>
       <trans-unit id="ZG2n1Jx" resname="Download for Linux">
         <source>Download for Linux</source>
-        <target>გადმოწერეთ Linux-ისთვის</target>
+        <target>Letöltés Linuxra</target>
         
       </trans-unit>
       <trans-unit id="Yur47Wq" resname="Download for Windows">
         <source>Download for Windows</source>
-        <target>გადმოწერეთ Windows-ისთვის</target>
+        <target>Letöltés Windowsra</target>
         
       </trans-unit>
       <trans-unit id="WRDAWeq" resname="Download for macOS">
         <source>Download for macOS</source>
-        <target>გადმოწერეთ macOS-ისთვის</target>
+        <target>Letöltés macOS-re</target>
         
       </trans-unit>
       <trans-unit id="QBixtUo" resname="Pick your flavor.">
@@ -368,11 +403,12 @@
       </trans-unit>
       <trans-unit id="CaD6ze3" resname="Linux, Windows or macOS.">
         <source>Linux, Windows or macOS.</source>
-        <target>Linux, Windows, ან macOS.</target>
+        <target>Linux, Windows, vagy macOS</target>
         
       </trans-unit>
       <trans-unit id="vEX6OG8" resname="Houston, we have a problem.">
         <source>Houston, we have a problem.</source>
+        <target>Houston, van egy kis gond.</target>
         
       </trans-unit>
       <trans-unit id="J5pmILO" resname="Stand by, we got you covered.">
@@ -381,37 +417,41 @@
       </trans-unit>
       <trans-unit id="3vJMQyC" resname="Visit our forum">
         <source>Visit our forum</source>
-        <target>ეწვიეთ ჩვენს ფორუმს</target>
+        <target>Látogasd meg a fórumunkat</target>
         
       </trans-unit>
       <trans-unit id="AgpMP6c" resname="Visit our Facebook page">
         <source>Visit our Facebook page</source>
+        <target>Látogasd meg a Facebook oldalunkat</target>
         
       </trans-unit>
       <trans-unit id="60mvs3d" resname="Chat now on Discord">
         <source>Chat now on Discord</source>
+        <target>Chatelj Discordon</target>
         
       </trans-unit>
       <trans-unit id="p1CbBjh" resname="Visit our GitHub page">
         <source>Visit our GitHub page</source>
+        <target>Látogasd meg a GitHub oldalunkat</target>
         
       </trans-unit>
       <trans-unit id="Q.2pUhd" resname="Ask your questions here">
         <source>Ask your questions here</source>
-        <target>დასვით თქვენი კითხვა აქ</target>
+        <target>Tedd fel a kérdésiedet itt</target>
         
       </trans-unit>
       <trans-unit id="G0SNPhL" resname="and answer a few questions while you're waiting.">
         <source>and answer a few questions while you're waiting.</source>
+        <target>és válaszolj másoknak, amíg várakozol.</target>
         
       </trans-unit>
       <trans-unit id="AZtpftd" resname="Sharing means caring.">
         <source>Sharing means caring.</source>
+        <target>A megosztás törődés.</target>
         
       </trans-unit>
       <trans-unit id="tYjliwJ" resname="Find musicians">
         <source>Find musicians</source>
-        <target>იპოვეთ მუსიკოსები</target>
         
       </trans-unit>
       <trans-unit id="29NrAWW" resname="Visit the LMMS Sharing Platform (LSP)">
@@ -420,10 +460,12 @@
       </trans-unit>
       <trans-unit id="vZEmrHQ" resname="Don't be modest.">
         <source>Don't be modest.</source>
+        <target>Ne légy szégyenlős.</target>
         
       </trans-unit>
       <trans-unit id="E6hLz_I" resname="Show us your creations.">
         <source>Show us your creations.</source>
+        <target>Mutasd meg nekünk az alkotásaidat.</target>
         
       </trans-unit>
       <trans-unit id="e0XmaMu" resname="We &lt;3 open source.">
@@ -436,6 +478,7 @@
       </trans-unit>
       <trans-unit id="4m3F_E2" resname="LMMS is a 100% free, open source, community-driven project.">
         <source>LMMS is a 100% free, open source, community-driven project.</source>
+        <target>Az LMMS 100%-ban szabad, nyílt forráskódú, közösségi projekt.</target>
         
       </trans-unit>
       <trans-unit id="B_SpjYT" resname="Proudly hosted on GitHub.">
@@ -444,10 +487,12 @@
       </trans-unit>
       <trans-unit id="cjwuqX6" resname="Take a peek.">
         <source>Take a peek.</source>
+        <target>Vess ide egy pillantást.</target>
         
       </trans-unit>
       <trans-unit id="73lMPDq" resname="Watch our promo video.">
         <source>Watch our promo video.</source>
+        <target>Tekintsd meg a bemutatkozó videónkat.</target>
         
       </trans-unit>
       <trans-unit id="VnDwhfQ" resname="Click anywhere to close this dialog">
@@ -460,10 +505,12 @@
       </trans-unit>
       <trans-unit id="j6_axfx" resname="Core Functionality">
         <source>Core Functionality</source>
+        <target>Alapvető Funkciók</target>
         
       </trans-unit>
       <trans-unit id="HLWVAGp" resname="Compose music on Windows, Linux and macOS">
         <source>Compose music on Windows, Linux and macOS</source>
+        <target>Szerezz zenét Windowson, Linuxon és macOS-en</target>
         
       </trans-unit>
       <trans-unit id="JmUgjfR" resname="Sequence, compose, mix and automate songs in one simple interface">
@@ -484,15 +531,17 @@
       </trans-unit>
       <trans-unit id="X4f.0Yt" resname="Full user-defined track-based automation and computer-controlled automation sources">
         <source>Full user-defined track-based automation and computer-controlled automation sources</source>
+        <target>Teljes, felhasználó által irányított, sáv alapú automatizáció és számítógép-vezérelt automatizációs források</target>
         
       </trans-unit>
       <trans-unit id=".oFCngq" resname="Import of MIDI files and Hydrogen project files">
         <source>Import of MIDI files and Hydrogen project files</source>
+        <target>Importálj MIDI és Hydrogen projekt fájlokat</target>
         
       </trans-unit>
       <trans-unit id="w1G_1Tb" resname="Musical Instruments">
         <source>Musical Instruments</source>
-        <target>მუსიკალური ინსტრუმენტები</target>
+        <target>Hangszerek</target>
         
       </trans-unit>
       <trans-unit id="6W6XaNr" resname="Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit Windows)">
@@ -501,6 +550,7 @@
       </trans-unit>
       <trans-unit id="koI1Kzb" resname="16 built in synthesizers, including emultations of Roland ® TB-303, Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip and more">
         <source>16 built in synthesizers, including emultations of Roland ® TB-303, Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip and more</source>
+        <target>16 beépített szintetizátor, köztük a Roland ® TB-303, Commodore 64 ® SID csip, Nintendo ® NES és GameBoy, Yamaha ® OPL2 emulációja és még sok más</target>
         
       </trans-unit>
       <trans-unit id="OwdwPKG" resname="Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice additive, subtractive and pad synthesis all in one powerful plugin">
@@ -509,6 +559,7 @@
       </trans-unit>
       <trans-unit id="UqEEpjy" resname="Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis UltraSound ® (GUS) formats for high quality instrument patches and banks">
         <source>Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis UltraSound ® (GUS) formats for high quality instrument patches and banks</source>
+        <target>SoundFont ® (SF2), Giga (GIG) és Gravis UltraSound ® (GUS) formátumok natív támogatása</target>
         
       </trans-unit>
       <trans-unit id="CasBlNK" resname="Effects Mixing">
@@ -525,14 +576,17 @@
       </trans-unit>
       <trans-unit id="_c4RPsG" resname="Built-in compressor, limiter, delay, reverb, distortion and bass enhancer">
         <source>Built-in compressor, limiter, delay, reverb, distortion and bass enhancer</source>
+        <target>Beépített kompresszor, limiter, késleltetés, zengető és torzító</target>
         
       </trans-unit>
       <trans-unit id="tUrf1x9" resname="Bundled graphic and parametric equalizers">
         <source>Bundled graphic and parametric equalizers</source>
+        <target>Beépített grafikus és parametrikus equalizer</target>
         
       </trans-unit>
       <trans-unit id="PoXBpT3" resname="Built-in visualization/spectrum analyzer">
         <source>Built-in visualization/spectrum analyzer</source>
+        <target>Beépített spektrum-analizátor</target>
         
       </trans-unit>
       <trans-unit id="xhQMvx4" resname="Download LMMS Artwork">
@@ -541,7 +595,6 @@
       </trans-unit>
       <trans-unit id="Hq18WDE" resname="LMMS Logo">
         <source>LMMS Logo</source>
-        <target>LMMS-ის ლოგო</target>
         
       </trans-unit>
       <trans-unit id="Xe7IQc6" resname="LMMS Development Team">
@@ -550,7 +603,6 @@
       </trans-unit>
       <trans-unit id="aFA0PDs" resname="LMMS Project Icon">
         <source>LMMS Project Icon</source>
-        <target>LMMS-ის პროექტის ხატულა</target>
         
       </trans-unit>
       <trans-unit id="ly35agX" resname="Official competitions organised by LMMS and its community members">
@@ -805,7 +857,7 @@
       </trans-unit>
       <trans-unit id="laP8ZYf" resname="Author:">
         <source>Author:</source>
-        <target>ავტორი:</target>
+        <target>Szerző:</target>
         
       </trans-unit>
       <trans-unit id="DDaBYVH" resname="Modified/Themed By:">
@@ -814,12 +866,10 @@
       </trans-unit>
       <trans-unit id="VqvyA1L" resname="Scalable Vector Format">
         <source>Scalable Vector Format</source>
-        <target>მასშტაბირებადი ვექტორული ფორმატი</target>
         
       </trans-unit>
       <trans-unit id="5izmwVw" resname="PNG Format">
         <source>PNG Format</source>
-        <target>PNG ფორმატი</target>
         
       </trans-unit>
       <trans-unit id="9pbDeQ2" resname="Gimp Image Editor Format">
@@ -836,12 +886,10 @@
       </trans-unit>
       <trans-unit id="CBjpoqc" resname="JPEG Format">
         <source>JPEG Format</source>
-        <target>JPEG ფორმატი</target>
         
       </trans-unit>
       <trans-unit id="FneECEa" resname="Bitmap Format">
         <source>Bitmap Format</source>
-        <target>Bitmap ფორმატი</target>
         
       </trans-unit>
       <trans-unit id="HjfR4tA" resname="Windows Icon Format">
@@ -854,6 +902,7 @@
       </trans-unit>
       <trans-unit id="OnhpU4i" resname="Home">
         <source>Home</source>
+        <target>Kezdőlap</target>
         
       </trans-unit>
       <trans-unit id="R0s_HGS" resname="Tracks made with LMMS">
