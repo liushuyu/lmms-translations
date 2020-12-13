@@ -256,8 +256,8 @@
 					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place
 					   to introduce yourself.</source>
-        <target>Для начала ознакомьтесь с нашими: &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt; Вики на GitHub, &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt; багтрекером
-. Кроме того, &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;Список E-Mail рассылки&lt;/a&gt; LMMS - хорошее место, чтобы представить себя.</target>
+        <target>Посмотрите наши: &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt; Вики на GitHub, &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt; Трекер ошибок для начала
+&lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt; Список E-Mail рассылки. &lt;/a&gt; хорошее место, чтобы представить себя.</target>
         
       </trans-unit>
       <trans-unit id="FSzxUcg" resname="Website &amp; Docs">
@@ -287,7 +287,7 @@
       <trans-unit id="LUNpyrn" resname="Even though donations are not the thing we need the most (that'd be developers), they help us pay&#10;&#9;&#9;&#9;&#9;&#9;   our bills, for our domain lmms.io for instance.">
         <source>Even though donations are not the thing we need the most (that'd be developers), they help us pay
 					   our bills, for our domain lmms.io for instance.</source>
-        <target>Несмотря на то, что в денежных пожертвованиях мы нуждаемся меньше, чем в разработчиках, они помогают нам оплачивать, например, домен lmms.io.</target>
+        <target>Несмотря на то, что в денежных пожертвованиях мы нуждаемся меньше, чем в разработчиках, деньги помогают нам оплачивать, например домен lmms.io.</target>
         
       </trans-unit>
       <trans-unit id="7yTl1LS" resname="Donate via PayPal">
@@ -340,9 +340,9 @@
         <source>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
 					is a more modern alternative to IRC. Join our server 
 					&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.</source>
-        <target>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt; -
+        <target>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt; 
 					 более современная альтернатива IRC. Присоединяйтесь к нашему серверу
-					 &lt;a href=&quot;/chat/&quot;&gt;по этой ссылке&lt;/a&gt;.</target>
+					 &lt;a href=&quot;/chat/&quot;&gt;По этой ссылке&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="vgrQxiN" resname="We host a forum for our users here on this website:">
@@ -392,12 +392,12 @@
       </trans-unit>
       <trans-unit id="1ANtx56" resname="Playback instruments, samples and plugins">
         <source>Playback instruments, samples and plugins</source>
-        <target>Играйте на инструментах, воспроизводите семплы и плагины</target>
+        <target>Инструменты воспроизведения, семплы и плагины.</target>
         
       </trans-unit>
       <trans-unit id="c_9n6oH" resname="with a typing or MIDI keyboard in a user-friendly and modern interface.">
         <source>with a typing or MIDI keyboard in a user-friendly and modern interface.</source>
-        <target>через набор на обычной или MIDI клавиатуре в дружественном пользователю, современном интерфейсе.</target>
+        <target>с набором или работой через MIDI клавиатуру в дружественном пользователю, современном интерфейсе.</target>
         
       </trans-unit>
       <trans-unit id="h73sjrb" resname="Bundled with ready-to-use content">
@@ -482,7 +482,7 @@
       </trans-unit>
       <trans-unit id="AZtpftd" resname="Sharing means caring.">
         <source>Sharing means caring.</source>
-        <target>Распространение информации, значит забота.</target>
+        <target>Совместное использование, значит забота.</target>
         
       </trans-unit>
       <trans-unit id="tYjliwJ" resname="Find musicians">
@@ -492,7 +492,7 @@
       </trans-unit>
       <trans-unit id="29NrAWW" resname="Visit the LMMS Sharing Platform (LSP)">
         <source>Visit the LMMS Sharing Platform (LSP)</source>
-        <target>Не будьте скромными.</target>
+        <target>Поделиться на</target>
         
       </trans-unit>
       <trans-unit id="vZEmrHQ" resname="Don't be modest.">
@@ -577,7 +577,7 @@
       </trans-unit>
       <trans-unit id="X4f.0Yt" resname="Full user-defined track-based automation and computer-controlled automation sources">
         <source>Full user-defined track-based automation and computer-controlled automation sources</source>
-        <target>Полнопользовательская автоматизация на основе дорожек и источники автоматизации с компьютерным управлением</target>
+        <target>Определяемая пользователем автоматизация на основе дорожек и источники автоматизации с компьютерным управлением</target>
         
       </trans-unit>
       <trans-unit id=".oFCngq" resname="Import of MIDI files and Hydrogen project files">
@@ -622,7 +622,7 @@
       </trans-unit>
       <trans-unit id="b1z.R0m" resname="Drop-in VST ® effect plug-in support (Linux and Windows)">
         <source>Drop-in VST ® effect plug-in support (Linux and Windows)</source>
-        <target>Поддержка VST-плагинов для Linux и Windows.</target>
+        <target>Поддержка плагина эффектов VST для Linux и Windows.</target>
         
       </trans-unit>
       <trans-unit id="_c4RPsG" resname="Built-in compressor, limiter, delay, reverb, distortion and bass enhancer">
@@ -667,12 +667,12 @@
       </trans-unit>
       <trans-unit id="hzCq1ff" resname="Current competitions:">
         <source>Current competitions:</source>
-        <target>Текущие соревнования:</target>
+        <target>Текущие конкурсы:</target>
         
       </trans-unit>
       <trans-unit id="6hq9QpV" resname="Past competitions:">
         <source>Past competitions:</source>
-        <target>Прошлые участники:</target>
+        <target>Прошлые конкурсы:</target>
         
       </trans-unit>
       <trans-unit id="mQLQ2B_" resname="The Best of LMMS vol. VI">

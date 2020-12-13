@@ -9020,42 +9020,42 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PatternView</name>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="682"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="693"/>
         <source>Open in piano-roll</source>
         <translation>在鋼琴窗中打開</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="688"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="699"/>
         <source>Set as ghost in piano-roll</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="697"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="708"/>
         <source>Clear all notes</source>
         <translation>清除所有音符</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="700"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="711"/>
         <source>Reset name</source>
         <translation>重置名稱</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="703"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="714"/>
         <source>Change name</source>
         <translation>修改名稱</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="711"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="722"/>
         <source>Add steps</source>
         <translation>添加音階</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="713"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="724"/>
         <source>Remove steps</source>
         <translation>移除音階</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="715"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="726"/>
         <source>Clone Steps</source>
         <translation type="unfinished"/>
     </message>
@@ -11287,67 +11287,67 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleBuffer</name>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="281"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="277"/>
         <source>Fail to open file</source>
         <translation>無法開啟檔案</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="282"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="278"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
         <translation>音訊檔案的檔案大小已限制為 %1 MB，播放時間已限制為 %2 分鐘。</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="958"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="971"/>
         <source>Open audio file</source>
         <translation>開啟音訊檔案</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="985"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="998"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>所有音訊檔案 (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="987"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1000"/>
         <source>Wave-Files (*.wav)</source>
         <translation>Wave 波形檔案 (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="988"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1001"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>OGG 檔案 (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="989"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1002"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>DrumSynth 檔案 (*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="990"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1003"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>FLAC 檔案 (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="991"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1004"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>SPEEX 檔案 (*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="994"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
         <source>VOC-Files (*.voc)</source>
         <translation>VOC 檔案 (*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="995"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1008"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>AIFF 檔案 (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="996"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
         <source>AU-Files (*.au)</source>
         <translation>AU 檔案 (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="997"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
         <source>RAW-Files (*.raw)</source>
         <translation>RAW 檔案 (*.raw)</translation>
     </message>
@@ -12603,88 +12603,93 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="614"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="621"/>
         <source>Current position</source>
         <translation>當前位置</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="622"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="629"/>
         <source>Current length</source>
         <translation>當前長度</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="623"/>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="866"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="630"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="873"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 到 %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="642"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="649"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>按住 &lt;%1&gt; 並拖動以創建副本。</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="643"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="650"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>按住 &lt;%1&gt; 自由調整大小。</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="644"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="651"/>
         <source>Hint</source>
         <translation>提示</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="956"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="965"/>
         <source>Delete (middle mousebutton)</source>
         <translation>刪除 (鼠標中鍵)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="957"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="966"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="965"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="974"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="966"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="975"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="973"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="982"/>
+        <source>Merge Selection</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="991"/>
         <source>Copy</source>
         <translation>複製</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="974"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="992"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="979"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="997"/>
         <source>Paste</source>
         <translation>粘貼</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="987"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1005"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>靜音/取消靜音 (&lt;%1&gt; + 鼠標中鍵)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="988"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1006"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="994"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1012"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="996"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1014"/>
         <source>Use track color</source>
         <translation type="unfinished"/>
     </message>

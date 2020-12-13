@@ -9312,42 +9312,42 @@ Veuillez visiter http://lmms.sf.net/wiki pour la documentation de LMMS.</transla
 <context>
     <name>PatternView</name>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="682"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="693"/>
         <source>Open in piano-roll</source>
         <translation>Ouvrir dans le piano virtuel</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="688"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="699"/>
         <source>Set as ghost in piano-roll</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="697"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="708"/>
         <source>Clear all notes</source>
         <translation>Effacer toutes les notes</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="700"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="711"/>
         <source>Reset name</source>
         <translation>Réinitialiser le nom</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="703"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="714"/>
         <source>Change name</source>
         <translation>Modifier le nom</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="711"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="722"/>
         <source>Add steps</source>
         <translation>Ajouter des pas</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="713"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="724"/>
         <source>Remove steps</source>
         <translation>Supprimer des pas</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="715"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="726"/>
         <source>Clone Steps</source>
         <translation>Cloner les pas</translation>
     </message>
@@ -11579,67 +11579,67 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleBuffer</name>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="281"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="277"/>
         <source>Fail to open file</source>
         <translation>Échec à l&apos;ouverture du fichier</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="282"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="278"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
         <translation>Les fichiers audio sont limités à une taille de %1 MB et %2 minutes de temps de lecture</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="958"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="971"/>
         <source>Open audio file</source>
         <translation>Ouvrir un fichier audio</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="985"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="998"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Tous les fichiers audio.(*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="987"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1000"/>
         <source>Wave-Files (*.wav)</source>
         <translation>Fichiers WAVE (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="988"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1001"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>Fichiers OGG (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="989"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1002"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>Fichiers DrumSynth (*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="990"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1003"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>Fichiers FLAC (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="991"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1004"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>Fichiers SPEEX (*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="994"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
         <source>VOC-Files (*.voc)</source>
         <translation>Fichiers VOC (*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="995"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1008"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>Fichiers AIFF (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="996"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
         <source>AU-Files (*.au)</source>
         <translation>Fichiers AU (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="997"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
         <source>RAW-Files (*.raw)</source>
         <translation>Fichiers RAW (*.raw)</translation>
     </message>
@@ -12895,88 +12895,93 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="614"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="621"/>
         <source>Current position</source>
         <translation>Position actuelle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="622"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="629"/>
         <source>Current length</source>
         <translation>Longueur actuelle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="623"/>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="866"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="630"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="873"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 vers %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="642"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="649"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>Appuyez sur &lt;%1&gt; et glissez pour faire une copie.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="643"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="650"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>Appuyez sur &lt;%1&gt; pour un redimensionnement libre.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="644"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="651"/>
         <source>Hint</source>
         <translation>Astuce</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="956"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="965"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Supprimer (bouton du milieu de la souris)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="957"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="966"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="965"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="974"/>
         <source>Cut</source>
         <translation>Couper</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="966"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="975"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="973"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="982"/>
+        <source>Merge Selection</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="991"/>
         <source>Copy</source>
         <translation>Copier</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="974"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="992"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="979"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="997"/>
         <source>Paste</source>
         <translation>Coller</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="987"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1005"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Sourdine (ou non) (&lt;%1&gt; + clic-milieu)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="988"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1006"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="994"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1012"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="996"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1014"/>
         <source>Use track color</source>
         <translation type="unfinished"/>
     </message>

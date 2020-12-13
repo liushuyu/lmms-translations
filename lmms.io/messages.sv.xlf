@@ -642,7 +642,7 @@
       </trans-unit>
       <trans-unit id="tUrf1x9" resname="Bundled graphic and parametric equalizers">
         <source>Bundled graphic and parametric equalizers</source>
-        <target>Medföljande grafiska och parametriska utjämnare</target>
+        <target>Medföljande grafiska och parametriska frekvenskorrigerare</target>
         
       </trans-unit>
       <trans-unit id="PoXBpT3" resname="Built-in visualization/spectrum analyzer">
