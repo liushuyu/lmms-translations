@@ -240,12 +240,12 @@ Zixing Liu &lt;liushuyu at aosc.xyz&gt;
         <translation>JACK服务好像崩溃了而且未能正常启动，LMMS不能正常工作，你需要保存你的工作然后重启JACK和LMMS。</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation>客户端名称</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation>通道</translation>
     </message>
@@ -292,7 +292,7 @@ Zixing Liu &lt;liushuyu at aosc.xyz&gt;
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation>设备</translation>
     </message>

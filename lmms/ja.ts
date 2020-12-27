@@ -232,12 +232,12 @@ LMMSを他の言語に翻訳したり、翻訳を改善することに興味が�
         <translation>ごめんなさい…JACK サーバーがシャットダウンして、新しいインスタンスの開始に失敗したようです。そのために、LMMS が続行できません。今すぐプロジェクトを保存してJACK と LMMS を再起動してください。</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation type="unfinished"/>
     </message>
@@ -284,7 +284,7 @@ LMMSを他の言語に翻訳したり、翻訳を改善することに興味が�
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation type="unfinished"/>
     </message>

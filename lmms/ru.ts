@@ -244,12 +244,12 @@ Simple88 (2016)</translation>
         <translation>Возможно JACK-сервер был выключен и запуск нового процесса не удался, поэтому LMMS не может продолжить работу. Вам следует сохранить проект и перезапустить JACK и LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation>Имя клиента</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation>Каналы</translation>
     </message>
@@ -296,7 +296,7 @@ Simple88 (2016)</translation>
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation>Устройство</translation>
     </message>

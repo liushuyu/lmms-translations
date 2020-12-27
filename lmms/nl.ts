@@ -232,12 +232,12 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
         <translation>De JACK-server lijkt afgesloten te zijn en het starten van een nieuwe instantie is mislukt. Daarom kan LMMS niet doorgaan. U slaat best uw project op en herstart JACK en LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation>Naam client</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation>Kanalen</translation>
     </message>
@@ -284,7 +284,7 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation>Apparaat</translation>
     </message>

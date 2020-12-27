@@ -232,12 +232,12 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
         <translation>Úgy tűnik, a JACK kiszolgáló leállt, és új példány indítása nem sikerült. Ennél fogva az LMMS nem képes tovább működni. Kérjük, mentsd a projektet és indítsd újra a JACK-et és LMMS-t.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation>Kliens név</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation>Csatornák</translation>
     </message>
@@ -284,7 +284,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation>Eszköz</translation>
     </message>

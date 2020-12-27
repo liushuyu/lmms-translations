@@ -232,12 +232,12 @@ Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți s�
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation type="unfinished"/>
     </message>
@@ -284,7 +284,7 @@ Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți s�
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation type="unfinished"/>
     </message>

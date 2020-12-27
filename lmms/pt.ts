@@ -231,12 +231,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>O servidor de áudio JACK parece ter caído e ao reiniciar uma nova instância falhou. De qualquer maneira LMMS é capaz de prosseguir. Certifique-se de salvar seu projeto e reiniciar primeiro o JACK depois o LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation>Canais</translation>
     </message>
@@ -283,7 +283,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation>Dispositivo</translation>
     </message>

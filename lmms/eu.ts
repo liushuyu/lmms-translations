@@ -232,12 +232,12 @@ LMMS beste hizkuntza batera itzultzeko interesa baduzu edo lehendik dauden itzul
         <translation>JACK zerbitzaria itxi egin dela dirudi eta instantzia berria hasteak huts egin du. LMMSk ezin du jarraitu. Zure proiektua gorde eta JACK eta LMMS berrabiarazi beharko zenituzke.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation>Bezeroaren izena</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation>Kanalak</translation>
     </message>
@@ -284,7 +284,7 @@ LMMS beste hizkuntza batera itzultzeko interesa baduzu edo lehendik dauden itzul
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation>Gailua</translation>
     </message>

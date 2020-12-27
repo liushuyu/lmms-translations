@@ -232,12 +232,12 @@ Om du är intresserad av att översätta LMMS till ett annat språk eller vill f
         <translation>JACK-servern stängdes ned och det gick inte starta en ny. LMMS kan inte fortsätta. Du bör spara ditt projekt och starta om både JACK och LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation>Klientnamn</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation>Kanaler</translation>
     </message>
@@ -284,7 +284,7 @@ Om du är intresserad av att översätta LMMS till ett annat språk eller vill f
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation>Enhet</translation>
     </message>

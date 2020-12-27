@@ -231,12 +231,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>Sembra che il server JACK sia stato arrestato e l&apos;avvio di una nuova istanza non è riuscito. Pertanto LMMS non è in grado di procedere. È necessario salvare il progetto e riavviare JACK e LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation>Nome Client</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation>Canali</translation>
     </message>
@@ -283,7 +283,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation>Dispositivo</translation>
     </message>

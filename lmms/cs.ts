@@ -231,12 +231,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>Vypnutí a nové spuštění serveru JACK se nezdařilo. LMMS proto nemůže pokračovat. Uložte svůj projekt a restartujte JACK i LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation>Jméno klienta</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation>Kanály</translation>
     </message>
@@ -283,7 +283,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation>Zařízení</translation>
     </message>

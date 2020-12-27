@@ -234,12 +234,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
         <translation>JACK 서버가 종료된 것 같습니다. 더 이상 작업을 진행할 수 없습니다. 프로젝트를 저장한 뒤 JACK과 LMMS를 다시 시작하세요.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation type="unfinished"/>
     </message>
@@ -286,7 +286,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation type="unfinished"/>
     </message>

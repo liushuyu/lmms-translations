@@ -232,12 +232,12 @@ LMMS&apos;i başka dillere çevirmek veya halihazırda var olan çevirilere katk
         <translation>JACK sunucusu kapanmış gibi görünüyor ve yeni bir örnek başlatılamadı. Bu nedenle LMMS devam edemiyor. Projenizi kaydetmeli, JACK ve LMMS&apos;i yeniden başlatmalısınız.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation>İstemci adı</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation>Kanallar</translation>
     </message>
@@ -284,7 +284,7 @@ LMMS&apos;i başka dillere çevirmek veya halihazırda var olan çevirilere katk
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation>Cihaz</translation>
     </message>

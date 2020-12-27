@@ -236,12 +236,12 @@ Radek Słowik</translation>
         <translation>Wydaje się, że serwer JACK został wyłączony i uruchomienie nowej instancji nie powiodło się więc LMMS nie może kontynuować pracy. Należy zapisać projekt i uruchomić serwer JACK i LMMSa ponownie.</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="459"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioJack.cpp" line="471"/>
+        <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
         <translation type="unfinished"/>
     </message>
@@ -288,7 +288,7 @@ Radek Słowik</translation>
 <context>
     <name>AudioSdl::setupWidget</name>
     <message>
-        <location filename="../../src/core/audio/AudioSdl.cpp" line="328"/>
+        <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
         <translation type="unfinished"/>
     </message>
