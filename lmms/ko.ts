@@ -786,52 +786,52 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
         <translation>출력 클리핑:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="82"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="83"/>
         <source>Rate enabled</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="85"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="86"/>
         <source>Enable sample-rate crushing</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="87"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="88"/>
         <source>Depth enabled</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="90"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="91"/>
         <source>Enable bit-depth crushing</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="97"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="98"/>
         <source>FREQ</source>
         <translation>주파수</translation>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="98"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="99"/>
         <source>Sample rate:</source>
         <translation>샘플 레이트:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="103"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="104"/>
         <source>STEREO</source>
         <translation>스테레오</translation>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="104"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="105"/>
         <source>Stereo difference:</source>
         <translation>좌우 차이:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="111"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="112"/>
         <source>QUANT</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="112"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="113"/>
         <source>Levels:</source>
         <translation type="unfinished"/>
     </message>
@@ -5075,76 +5075,81 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="304"/>
-        <source>Cycle steps</source>
+        <source>Note repeats</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
-        <source>Skip rate</source>
+        <source>Cycle steps</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="306"/>
-        <source>Miss rate</source>
+        <source>Skip rate</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="307"/>
+        <source>Miss rate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
         <source>Arpeggio time</source>
         <translation>아르페지오 시간</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
         <source>Arpeggio gate</source>
         <translation>아르페지오 게이트</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="310"/>
         <source>Arpeggio direction</source>
         <translation>아르페지오 방향</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="310"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="311"/>
         <source>Arpeggio mode</source>
         <translation>아르페지오 모드</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="318"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
         <source>Up</source>
         <translation>위로</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
         <source>Down</source>
         <translation>아래로</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
         <source>Up and down</source>
         <translation>위 다음 아래</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="322"/>
         <source>Down and up</source>
         <translation>아래 다음 위</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="322"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="323"/>
         <source>Random</source>
         <translation>무작위</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="325"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
         <source>Free</source>
         <translation>자유</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="327"/>
         <source>Sort</source>
         <translation>정렬</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="327"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="328"/>
         <source>Sync</source>
         <translation>동기화</translation>
     </message>
@@ -5157,99 +5162,114 @@ Please make sure you have write permission to the file and the directory contain
         <translation>아르페지오</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="116"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="117"/>
         <source>RANGE</source>
         <translation>범위</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="117"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="118"/>
         <source>Arpeggio range:</source>
         <translation>아르페지오 범위:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="117"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="118"/>
         <source>octave(s)</source>
         <translation>옥타브</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="120"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="121"/>
+        <source>REP</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="122"/>
+        <source>Note repeats:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="122"/>
+        <source>time(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="125"/>
         <source>CYCLE</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="121"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="126"/>
         <source>Cycle notes:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="121"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="126"/>
         <source>note(s)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="124"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="129"/>
         <source>SKIP</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="125"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="130"/>
         <source>Skip rate:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="125"/>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="129"/>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="137"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="130"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="134"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="142"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="128"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="133"/>
         <source>MISS</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="129"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="134"/>
         <source>Miss rate:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="132"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="137"/>
         <source>TIME</source>
         <translation>시간</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="133"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="138"/>
         <source>Arpeggio time:</source>
         <translation>아르페지오 시간:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="133"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="138"/>
         <source>ms</source>
         <translation>ms</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="136"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="141"/>
         <source>GATE</source>
         <translation>게이트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="137"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="142"/>
         <source>Arpeggio gate:</source>
         <translation>아르페지오 게이트:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="140"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="145"/>
         <source>Chord:</source>
         <translation>코드:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="143"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="148"/>
         <source>Direction:</source>
         <translation>방향:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="146"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="151"/>
         <source>Mode:</source>
         <translation>모드:</translation>
     </message>
@@ -6656,34 +6676,34 @@ Please make sure you have write permission to the file and the directory contain
 경로에 파일이 존재하고 파일에 쓸 수 있는 권한이 있는지 확인 후 다시 시도하시기 바랍니다!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="848"/>
+        <location filename="../../src/core/main.cpp" line="849"/>
         <source>Project recovery</source>
         <translation>프로젝트 복구</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="863"/>
+        <location filename="../../src/core/main.cpp" line="864"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>복구 파일이 존재합니다. 이전에 LMMS가 비정상 종료되었거나 여러 개의 LMMS 인스턴스가 동시에 실행 중인 것 같습니다. 복구 파일로부터 프로젝트를 복구하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="868"/>
-        <location filename="../../src/core/main.cpp" line="888"/>
+        <location filename="../../src/core/main.cpp" line="869"/>
+        <location filename="../../src/core/main.cpp" line="889"/>
         <source>Recover</source>
         <translation>복구</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="869"/>
+        <location filename="../../src/core/main.cpp" line="870"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>파일을 복구합니다. 다른 LMMS 인스턴스가 실행 중이지 않은 상태에서 선택하시기 바랍니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="871"/>
-        <location filename="../../src/core/main.cpp" line="886"/>
+        <location filename="../../src/core/main.cpp" line="872"/>
+        <location filename="../../src/core/main.cpp" line="887"/>
         <source>Discard</source>
         <translation>저장하지 않음</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="872"/>
+        <location filename="../../src/core/main.cpp" line="873"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>복구 파일을 삭제하고 기본 프로젝트를 불러옵니다. 이 동작은 되돌릴 수 없습니다.</translation>
     </message>
@@ -11289,67 +11309,67 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleBuffer</name>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="277"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="357"/>
         <source>Fail to open file</source>
         <translation>파일을 열 수 없음</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="278"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="358"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
         <translation>오디오 파일은 %1MB보다 작고 %2분보다 짧아야 합니다</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="971"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1051"/>
         <source>Open audio file</source>
         <translation>오디오 파일 열기</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="998"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1078"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>모든 오디오 파일 (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1000"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1080"/>
         <source>Wave-Files (*.wav)</source>
         <translation>Wave 파일(*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1001"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1081"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>OGG 파일(*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1002"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1082"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>DrumSynth 파일(*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1003"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1083"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>FLAC 파일(*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1004"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1084"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>SPEEX 파일(*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1087"/>
         <source>VOC-Files (*.voc)</source>
         <translation>VOC 파일(*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1008"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1088"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>AIFF 파일 (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1089"/>
         <source>AU-Files (*.au)</source>
         <translation>AU 파일 (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1090"/>
         <source>RAW-Files (*.raw)</source>
         <translation>RAW 파일 (*.raw)</translation>
     </message>
@@ -11357,67 +11377,67 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTCOView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="360"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="373"/>
         <source>Double-click to open sample</source>
         <translation>더블클릭하여 샘플 열기</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="384"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="397"/>
         <source>Delete (middle mousebutton)</source>
         <translation>삭제(마우스 가운데 버튼)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="385"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="398"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="393"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="406"/>
         <source>Cut</source>
         <translation>잘라내기</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="394"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="407"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="401"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="414"/>
         <source>Copy</source>
         <translation>복사</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="402"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="415"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="407"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="420"/>
         <source>Paste</source>
         <translation>붙여넣기</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="415"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="428"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>음소거/해제 (&lt;%1&gt; + 마우스 가운데 버튼)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="416"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="429"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="425"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="438"/>
         <source>Reverse sample</source>
         <translation>샘플 역으로</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="433"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="446"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="435"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="448"/>
         <source>Use track color</source>
         <translation type="unfinished"/>
     </message>
@@ -11425,23 +11445,23 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="661"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="674"/>
         <source>Volume</source>
         <translation>음량</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="662"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="675"/>
         <source>Panning</source>
         <translation>패닝</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="663"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="676"/>
         <source>FX channel</source>
         <translation>FX 채널</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="664"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="667"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="677"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="680"/>
         <source>Sample track</source>
         <translation>샘플 트랙</translation>
     </message>
@@ -11449,37 +11469,37 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="887"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="900"/>
         <source>Track volume</source>
         <translation>트랙 음량</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="890"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="903"/>
         <source>Channel volume:</source>
         <translation>채널 음량:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="897"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="910"/>
         <source>VOL</source>
         <translation>음량</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="901"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="914"/>
         <source>Panning</source>
         <translation>패닝</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="903"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="916"/>
         <source>Panning:</source>
         <translation>패닝:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="905"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="918"/>
         <source>PAN</source>
         <translation>패닝</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="973"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="986"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
@@ -11487,47 +11507,47 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1054"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1067"/>
         <source>GENERAL SETTINGS</source>
         <translation>일반 설정</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1089"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1102"/>
         <source>Sample volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1091"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1104"/>
         <source>Volume:</source>
         <translation>음량:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1096"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1109"/>
         <source>VOL</source>
         <translation>음량</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1103"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1116"/>
         <source>Panning</source>
         <translation>패닝</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1104"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1117"/>
         <source>Panning:</source>
         <translation>패닝:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1109"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1122"/>
         <source>PAN</source>
         <translation>패닝</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1119"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1132"/>
         <source>FX channel</source>
         <translation>FX 채널</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1124"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1137"/>
         <source>FX</source>
         <translation>FX</translation>
     </message>

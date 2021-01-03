@@ -783,52 +783,52 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="82"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="83"/>
         <source>Rate enabled</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="85"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="86"/>
         <source>Enable sample-rate crushing</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="87"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="88"/>
         <source>Depth enabled</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="90"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="91"/>
         <source>Enable bit-depth crushing</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="97"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="98"/>
         <source>FREQ</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="98"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="99"/>
         <source>Sample rate:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="103"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="104"/>
         <source>STEREO</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="104"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="105"/>
         <source>Stereo difference:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="111"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="112"/>
         <source>QUANT</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="112"/>
+        <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="113"/>
         <source>Levels:</source>
         <translation type="unfinished"/>
     </message>
@@ -5071,76 +5071,81 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="304"/>
-        <source>Cycle steps</source>
+        <source>Note repeats</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
-        <source>Skip rate</source>
+        <source>Cycle steps</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="306"/>
-        <source>Miss rate</source>
+        <source>Skip rate</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="307"/>
-        <source>Arpeggio time</source>
+        <source>Miss rate</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
-        <source>Arpeggio gate</source>
+        <source>Arpeggio time</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
-        <source>Arpeggio direction</source>
+        <source>Arpeggio gate</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="310"/>
+        <source>Arpeggio direction</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="311"/>
         <source>Arpeggio mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="318"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
         <source>Up</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
         <source>Down</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
         <source>Up and down</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="322"/>
         <source>Down and up</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="322"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="323"/>
         <source>Random</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="325"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
         <source>Free</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="327"/>
         <source>Sort</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="327"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="328"/>
         <source>Sync</source>
         <translation type="unfinished"/>
     </message>
@@ -5153,99 +5158,114 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="116"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="117"/>
         <source>RANGE</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="117"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="118"/>
         <source>Arpeggio range:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="117"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="118"/>
         <source>octave(s)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="120"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="121"/>
+        <source>REP</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="122"/>
+        <source>Note repeats:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="122"/>
+        <source>time(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="125"/>
         <source>CYCLE</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="121"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="126"/>
         <source>Cycle notes:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="121"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="126"/>
         <source>note(s)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="124"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="129"/>
         <source>SKIP</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="125"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="130"/>
         <source>Skip rate:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="125"/>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="129"/>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="137"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="130"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="134"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="142"/>
         <source>%</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="128"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="133"/>
         <source>MISS</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="129"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="134"/>
         <source>Miss rate:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="132"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="137"/>
         <source>TIME</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="133"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="138"/>
         <source>Arpeggio time:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="133"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="138"/>
         <source>ms</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="136"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="141"/>
         <source>GATE</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="137"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="142"/>
         <source>Arpeggio gate:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="140"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="145"/>
         <source>Chord:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="143"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="148"/>
         <source>Direction:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="146"/>
+        <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="151"/>
         <source>Mode:</source>
         <translation type="unfinished"/>
     </message>
@@ -6650,34 +6670,34 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="848"/>
+        <location filename="../../src/core/main.cpp" line="849"/>
         <source>Project recovery</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="863"/>
+        <location filename="../../src/core/main.cpp" line="864"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="868"/>
-        <location filename="../../src/core/main.cpp" line="888"/>
+        <location filename="../../src/core/main.cpp" line="869"/>
+        <location filename="../../src/core/main.cpp" line="889"/>
         <source>Recover</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="869"/>
+        <location filename="../../src/core/main.cpp" line="870"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="871"/>
-        <location filename="../../src/core/main.cpp" line="886"/>
+        <location filename="../../src/core/main.cpp" line="872"/>
+        <location filename="../../src/core/main.cpp" line="887"/>
         <source>Discard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="872"/>
+        <location filename="../../src/core/main.cpp" line="873"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation type="unfinished"/>
     </message>
@@ -11282,67 +11302,67 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleBuffer</name>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="277"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="357"/>
         <source>Fail to open file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="278"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="358"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="971"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1051"/>
         <source>Open audio file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="998"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1078"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1000"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1080"/>
         <source>Wave-Files (*.wav)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1001"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1081"/>
         <source>OGG-Files (*.ogg)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1002"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1082"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1003"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1083"/>
         <source>FLAC-Files (*.flac)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1004"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1084"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1007"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1087"/>
         <source>VOC-Files (*.voc)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1008"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1088"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1009"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1089"/>
         <source>AU-Files (*.au)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1010"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1090"/>
         <source>RAW-Files (*.raw)</source>
         <translation type="unfinished"/>
     </message>
@@ -11350,67 +11370,67 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTCOView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="360"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="373"/>
         <source>Double-click to open sample</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="384"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="397"/>
         <source>Delete (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="385"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="398"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="393"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="406"/>
         <source>Cut</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="394"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="407"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="401"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="414"/>
         <source>Copy</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="402"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="415"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="407"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="420"/>
         <source>Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="415"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="428"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="416"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="429"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="425"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="438"/>
         <source>Reverse sample</source>
         <translation>Sample terbalik</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="433"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="446"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="435"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="448"/>
         <source>Use track color</source>
         <translation type="unfinished"/>
     </message>
@@ -11418,23 +11438,23 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="661"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="674"/>
         <source>Volume</source>
         <translation>Kekuatan suara</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="662"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="675"/>
         <source>Panning</source>
         <translation>Panning</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="663"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="676"/>
         <source>FX channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="664"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="667"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="677"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="680"/>
         <source>Sample track</source>
         <translation type="unfinished"/>
     </message>
@@ -11442,37 +11462,37 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="887"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="900"/>
         <source>Track volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="890"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="903"/>
         <source>Channel volume:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="897"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="910"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="901"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="914"/>
         <source>Panning</source>
         <translation>Panning</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="903"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="916"/>
         <source>Panning:</source>
         <translation>Panning:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="905"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="918"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="973"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="986"/>
         <source>FX %1: %2</source>
         <translation type="unfinished"/>
     </message>
@@ -11480,47 +11500,47 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1054"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1067"/>
         <source>GENERAL SETTINGS</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1089"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1102"/>
         <source>Sample volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1091"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1104"/>
         <source>Volume:</source>
         <translation>Kekuatan suara:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1096"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1109"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1103"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1116"/>
         <source>Panning</source>
         <translation>Panning</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1104"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1117"/>
         <source>Panning:</source>
         <translation>Panning:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1109"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1122"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1119"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1132"/>
         <source>FX channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1124"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1137"/>
         <source>FX</source>
         <translation type="unfinished"/>
     </message>
