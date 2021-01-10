@@ -4636,67 +4636,67 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="505"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="506"/>
         <source>Send to active instrument-track</source>
         <translation>Skicka till aktivt instrumentspår</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="513"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="514"/>
         <source>Open containing folder</source>
         <translation>Öppna innehållande mapp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="517"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="518"/>
         <source>Song Editor</source>
         <translation>Låtredigeraren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="522"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="523"/>
         <source>BB Editor</source>
         <translation>BB-redigerare</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="541"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="542"/>
         <source>Send to new AudioFileProcessor instance</source>
         <translation>Skicka till ny AudioFileProcessor-instans</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="542"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="543"/>
         <source>Send to new instrument track</source>
         <translation>Skicka till nytt instrumentspår</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="546"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="547"/>
         <source> (%2Enter)</source>
         <translation> (%2Retur)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="556"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="557"/>
         <source>Send to new sample track (Shift + Enter)</source>
         <translation>Skicka till nytt samplingsspår (Skift + Retur)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="615"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="616"/>
         <source>Loading sample</source>
         <translation>Läser in ljudfil</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="616"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="617"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>Ljudfilen läses in för förhandslyssning...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="643"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="644"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="644"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="645"/>
         <source>%1 does not appear to be a valid %2 file</source>
         <translation>%1 verkar inte vara en giltig %2-fil</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="1009"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="1010"/>
         <source>--- Factory files ---</source>
         <translation>--- Grundfiler ---</translation>
     </message>

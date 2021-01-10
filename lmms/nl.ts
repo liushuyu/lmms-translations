@@ -4354,67 +4354,67 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="505"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="506"/>
         <source>Send to active instrument-track</source>
         <translation>Naar actieve instrument-track zenden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="513"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="514"/>
         <source>Open containing folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="517"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="518"/>
         <source>Song Editor</source>
         <translation>Song-editor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="522"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="523"/>
         <source>BB Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="541"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="542"/>
         <source>Send to new AudioFileProcessor instance</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="542"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="543"/>
         <source>Send to new instrument track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="546"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="547"/>
         <source> (%2Enter)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="556"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="557"/>
         <source>Send to new sample track (Shift + Enter)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="615"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="616"/>
         <source>Loading sample</source>
         <translation>Sample laden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="616"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="617"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>Even geduld, sample laden voor voorbeeld...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="643"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="644"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="644"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="645"/>
         <source>%1 does not appear to be a valid %2 file</source>
         <translation>%1 lijkt geen geldig %2-bestand te zijn</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="1009"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="1010"/>
         <source>--- Factory files ---</source>
         <translation>--- Factory-bestanden ---</translation>
     </message>
