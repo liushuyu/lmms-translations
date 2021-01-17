@@ -658,7 +658,7 @@ Om du är intresserad av att översätta LMMS till ett annat språk eller vill f
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="145"/>
         <source>Open in Beat+Bassline-Editor</source>
-        <translation>Öppna o Takt+Basgång-redigeraren</translation>
+        <translation>Öppna i Takt+Basgång-redigeraren</translation>
     </message>
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="152"/>
@@ -4357,7 +4357,7 @@ Om du är osäker lämna värdet ”Automatisk”.</translation>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="68"/>
         <source> time(s)</source>
-        <translation>gånger</translation>
+        <translation>gång(er)</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="89"/>
@@ -4610,12 +4610,12 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="83"/>
         <source>User content</source>
-        <translation type="unfinished"/>
+        <translation>Användarinnehåll</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="85"/>
         <source>Factory content</source>
-        <translation type="unfinished"/>
+        <translation>Fabriksinnehåll</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="105"/>
@@ -4648,7 +4648,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="518"/>
         <source>Song Editor</source>
-        <translation>Låtredigeraren</translation>
+        <translation>Låtredigerare</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="523"/>
@@ -5469,7 +5469,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="122"/>
         <source>time(s)</source>
-        <translation type="unfinished"/>
+        <translation>gång(er)</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="125"/>
@@ -6396,7 +6396,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="126"/>
         <source>Enable/Disable MIDI CC</source>
-        <translation type="unfinished"/>
+        <translation>Aktivera/inaktivera MIDI CC</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="133"/>
@@ -7198,7 +7198,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
         <location filename="../../src/gui/MainWindow.cpp" line="494"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1122"/>
         <source>Song Editor</source>
-        <translation>Låtredigeraren</translation>
+        <translation>Låtredigerare</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="502"/>
@@ -7216,7 +7216,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
         <location filename="../../src/gui/MainWindow.cpp" line="519"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1134"/>
         <source>Automation Editor</source>
-        <translation>Automatiseringsredigeraren</translation>
+        <translation>Automatiseringsredigerare</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="528"/>
@@ -7478,7 +7478,7 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="91"/>
         <source>CC %1</source>
-        <translation type="unfinished"/>
+        <translation>CC %1</translation>
     </message>
 </context>
 <context>
@@ -12970,7 +12970,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="982"/>
         <source>Merge Selection</source>
-        <translation type="unfinished"/>
+        <translation>Sammanfoga merkering</translation>
     </message>
     <message>
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="991"/>
