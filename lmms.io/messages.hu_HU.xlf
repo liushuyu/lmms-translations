@@ -72,6 +72,7 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="LO1QDjg" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
         <source>For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.</source>
+        <target>Kattints az alábbi gombra az LMMS telepítéséhez Debian alapú disztribúciókra, mint maga a Debian, az Ubuntu, vagy a Linux Mint.</target>
         
       </trans-unit>
       <trans-unit id="G4TfEor" resname="Install LMMS now">
@@ -91,6 +92,7 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="unby17C" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
         <source>If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.</source>
+        <target>Ha a hagyományos csomagtárolók elevult verziókat tartalmaznak, próbáld ki a &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio csomagtárolót&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="jHa21vl" resname="VST Support">
@@ -219,6 +221,7 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
 	volunteers in their free time. But to keep the project going, we need this
 	number to grow. So if you feel like giving something back to the community,
 	join us in making LMMS better!</source>
+        <target>Az LMMS egy szabad és nyílt forráskódú szoftver, melyet egy kis számú önkéntes fejleszt a szabadidejében. De hogy a projektet tovább folytathassuk, ezt a számot növelnünk kell. Szóval ha úgy érzed, hogy szeretnél valamit visszaadni a közösségnek, csatlakozz hozzánk és segíts az LMMS-t jobbá tenni!</target>
         
       </trans-unit>
       <trans-unit id="9CFIxXY" resname="What you can do">
@@ -297,6 +300,7 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="u6Bz942" resname="How to get in touch">
         <source>How to get in touch</source>
+        <target>Hogyan lépj velünk kapcsolatba</target>
         
       </trans-unit>
       <trans-unit id="nSgPM_a" resname="Mailing List">
@@ -520,10 +524,12 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="JmUgjfR" resname="Sequence, compose, mix and automate songs in one simple interface">
         <source>Sequence, compose, mix and automate songs in one simple interface</source>
+        <target>Szerkessz, komponálj, keverj és automatizálj dalokat egy egyszerű felületen</target>
         
       </trans-unit>
       <trans-unit id="q85N8NQ" resname="Note playback via MIDI or typing keyboard">
         <source>Note playback via MIDI or typing keyboard</source>
+        <target>Játssz a hangszereken MIDI-vel vagy a számítógép billentyűzetén</target>
         
       </trans-unit>
       <trans-unit id="UpGfL75" resname="Consolidate instrument tracks using Beat+Bassline Editor">
@@ -604,6 +610,7 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="Xe7IQc6" resname="LMMS Development Team">
         <source>LMMS Development Team</source>
+        <target>LMMS Fejlesztőcsapat</target>
         
       </trans-unit>
       <trans-unit id="aFA0PDs" resname="LMMS Project Icon">
@@ -612,14 +619,17 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="ly35agX" resname="Official competitions organised by LMMS and its community members">
         <source>Official competitions organised by LMMS and its community members</source>
+        <target>Az LMMS közösség tagjai álal szervezett hivatalos versenyek</target>
         
       </trans-unit>
       <trans-unit id="hzCq1ff" resname="Current competitions:">
         <source>Current competitions:</source>
+        <target>Jelenlegi versenyek:</target>
         
       </trans-unit>
       <trans-unit id="6hq9QpV" resname="Past competitions:">
         <source>Past competitions:</source>
+        <target>Eddigi versenyek:</target>
         
       </trans-unit>
       <trans-unit id="mQLQ2B_" resname="The Best of LMMS vol. VI">
@@ -934,6 +944,22 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
         <source>The Best of LMMS Vol.1 by LMMS Artists</source>
         
       </trans-unit>
+      <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
+        <source>The Best of LMMS Vol. 7 by LMMS Artists</source>
+        
+      </trans-unit>
+      <trans-unit id="nk3f9aW" resname="The Best of LMMS Vol. 6 by LMMS Artists">
+        <source>The Best of LMMS Vol. 6 by LMMS Artists</source>
+        
+      </trans-unit>
+      <trans-unit id="oEXz92z" resname="Nightly Versions">
+        <source>Nightly Versions</source>
+        
+      </trans-unit>
+      <trans-unit id="paHvzJ5" resname="Downloads labeled Beta or Nightly are pre-release software, stability may suffer.">
+        <source>Downloads labeled Beta or Nightly are pre-release software, stability may suffer.</source>
+        
+      </trans-unit>
       <trans-unit id="yzGLm.Z" resname="The Best of LMMS vol. VII">
         <source>The Best of LMMS vol. VII</source>
         
@@ -976,22 +1002,6 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
 				- After the deadline, the judges will make their decisions and release the results within 14 days.
 			6. **Release:**
 				- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.</source>
-        
-      </trans-unit>
-      <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
-        <source>The Best of LMMS Vol. 7 by LMMS Artists</source>
-        
-      </trans-unit>
-      <trans-unit id="nk3f9aW" resname="The Best of LMMS Vol. 6 by LMMS Artists">
-        <source>The Best of LMMS Vol. 6 by LMMS Artists</source>
-        
-      </trans-unit>
-      <trans-unit id="oEXz92z" resname="Nightly Versions">
-        <source>Nightly Versions</source>
-        
-      </trans-unit>
-      <trans-unit id="paHvzJ5" resname="Downloads labeled Beta or Nightly are pre-release software, stability may suffer.">
-        <source>Downloads labeled Beta or Nightly are pre-release software, stability may suffer.</source>
         
       </trans-unit>
     </body>

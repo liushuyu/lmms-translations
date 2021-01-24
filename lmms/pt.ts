@@ -9551,7 +9551,7 @@ Motivo: &quot;%2&quot;</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="56"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="57"/>
         <source>Customizable wavetable synthesizer</source>
         <translation>Sintetizador de formas de onda customizáveis</translation>
     </message>
@@ -13951,7 +13951,7 @@ Por favor certifique-se que você tem permissões de leitura para o arquivo e pa
 <context>
     <name>bitInvader</name>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="143"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="154"/>
         <source>Sample length</source>
         <translation type="unfinished"/>
     </message>
@@ -13959,64 +13959,64 @@ Por favor certifique-se que você tem permissões de leitura para o arquivo e pa
 <context>
     <name>bitInvaderView</name>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="346"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="354"/>
         <source>Sample length</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="353"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="361"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
         <translation>Desenhe sua própria forma de onda aqui utilizando seu mouse no gráfico.</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="364"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="371"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="372"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="379"/>
         <source>Sine wave</source>
         <translation>Onda senoidal</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="373"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="380"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="381"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="388"/>
         <source>Triangle wave</source>
         <translation>Onda triangular</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="382"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="389"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="390"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="397"/>
         <source>Saw wave</source>
         <translation>Onda dente de serra</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="391"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="398"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="399"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="406"/>
         <source>Square wave</source>
         <translation>Onda quadrada</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="401"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="408"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="409"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="416"/>
         <source>White noise</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="410"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="417"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="418"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="425"/>
         <source>User-defined wave</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="419"/>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="426"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="427"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="434"/>
         <source>Smooth waveform</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="430"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="438"/>
         <source>Interpolation</source>
         <translation>Interpolação</translation>
     </message>
     <message>
-        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="435"/>
+        <location filename="../../plugins/bit_invader/bit_invader.cpp" line="443"/>
         <source>Normalize</source>
         <translation>Normalização</translation>
     </message>
