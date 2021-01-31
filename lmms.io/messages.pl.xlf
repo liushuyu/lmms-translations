@@ -102,6 +102,7 @@
       </trans-unit>
       <trans-unit id="PN0uK90" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
         <source>If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.</source>
+        <target>Jeśli twoja dystrybucja oferuje wsparcie VST (wymaga instalacji Wine), jest ono zazwyczaj w oddzielnej paczce. Na przykład, używając repozytorium &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio&lt;/a&gt;, wykonaj to polecenie w terminalu.</target>
         
       </trans-unit>
       <trans-unit id="f.eEeY2" resname="Run the following command as root in a terminal:">
@@ -279,6 +280,9 @@ Również, nasza
         <source>Public registration on our Wiki is disabled due to spam issues. Please post to the
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're
 					   interested in helping out with the documentation!</source>
+        <target>Publiczna rejestracja na naszej Wiki została wyłączona z powodu problemów ze spamem. Prosimy zgłaszać się 
+					&lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt; na naszą listę mailową  &lt;/a&gt;jeśli wyrażasz 
+					 chęć pomocy w tworzeniu dokumentacji.</target>
         
       </trans-unit>
       <trans-unit id="yR7g8nm" resname="Donate">
@@ -289,7 +293,7 @@ Również, nasza
       <trans-unit id="LUNpyrn" resname="Even though donations are not the thing we need the most (that'd be developers), they help us pay&#10;&#9;&#9;&#9;&#9;&#9;   our bills, for our domain lmms.io for instance.">
         <source>Even though donations are not the thing we need the most (that'd be developers), they help us pay
 					   our bills, for our domain lmms.io for instance.</source>
-        <target>Wsparcie finansowe nie jest dla nas, programistów, najważniejsze ale pozwala nam płacić
+        <target>Co prawda wsparcie finansowe nie jest rzeczą której potrzebujemy najbardziej (deweloperów trzeba), to pozwala nam ono płacić
 					 rachunki np. za utrzymanie strony lmms.io.</target>
         
       </trans-unit>
@@ -913,6 +917,7 @@ Również, nasza
       </trans-unit>
       <trans-unit id="jHKJWvC" resname="Error &lt;b&gt;%code%&lt;/b&gt;">
         <source>Error &lt;b&gt;%code%&lt;/b&gt;</source>
+        <target>Błąd &lt;b&gt;Kod &lt;/b&gt;</target>
         
       </trans-unit>
       <trans-unit id="eM.OOlw" resname="If you followed a valid link on this site, please contact us&#10;      about it and &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/new&quot;&gt;file an issue&lt;/a&gt; on GitHub.">
@@ -1017,24 +1022,6 @@ w tej sprawie oraz  &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/new&quot;&
         <target>The Best of LMMS, edycja I, w wykonaniu Artystów LMMS</target>
         
       </trans-unit>
-      <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
-        <source>The Best of LMMS Vol. 7 by LMMS Artists</source>
-        <target>The Best of LMMS, edycja 7 w wykonaniu artystów LMMS.</target>
-        
-      </trans-unit>
-      <trans-unit id="nk3f9aW" resname="The Best of LMMS Vol. 6 by LMMS Artists">
-        <source>The Best of LMMS Vol. 6 by LMMS Artists</source>
-        <target>The Best of LMMS, edycja 6 w wykonaniu artystów LMMS.</target>
-        
-      </trans-unit>
-      <trans-unit id="oEXz92z" resname="Nightly Versions">
-        <source>Nightly Versions</source>
-        
-      </trans-unit>
-      <trans-unit id="paHvzJ5" resname="Downloads labeled Beta or Nightly are pre-release software, stability may suffer.">
-        <source>Downloads labeled Beta or Nightly are pre-release software, stability may suffer.</source>
-        
-      </trans-unit>
       <trans-unit id="yzGLm.Z" resname="The Best of LMMS vol. VII">
         <source>The Best of LMMS vol. VII</source>
         <target>The Best of LMMS, edycja VII</target>
@@ -1078,6 +1065,26 @@ w tej sprawie oraz  &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/new&quot;&
 				- After the deadline, the judges will make their decisions and release the results within 14 days.
 			6. **Release:**
 				- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.</source>
+        
+      </trans-unit>
+      <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
+        <source>The Best of LMMS Vol. 7 by LMMS Artists</source>
+        <target>The Best of LMMS, edycja 7 w wykonaniu artystów LMMS.</target>
+        
+      </trans-unit>
+      <trans-unit id="nk3f9aW" resname="The Best of LMMS Vol. 6 by LMMS Artists">
+        <source>The Best of LMMS Vol. 6 by LMMS Artists</source>
+        <target>The Best of LMMS, edycja 6 w wykonaniu artystów LMMS.</target>
+        
+      </trans-unit>
+      <trans-unit id="oEXz92z" resname="Nightly Versions">
+        <source>Nightly Versions</source>
+        <target>Wersja deweloperska</target>
+        
+      </trans-unit>
+      <trans-unit id="paHvzJ5" resname="Downloads labeled Beta or Nightly are pre-release software, stability may suffer.">
+        <source>Downloads labeled Beta or Nightly are pre-release software, stability may suffer.</source>
+        <target>Wersje 'Beta' oraz 'Deweloperska' są wersjami testowymi, mogą wystąpić problemy ze stabilnością.</target>
         
       </trans-unit>
     </body>

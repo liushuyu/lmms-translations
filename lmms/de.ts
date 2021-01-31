@@ -1455,7 +1455,7 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="564"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1190"/>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Home</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="613"/>
@@ -1642,12 +1642,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1088"/>
         <source>0% Volume (Mute)</source>
-        <translation type="unfinished"/>
+        <translation>0% Volumen (Mute)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1093"/>
         <source>100% Volume</source>
-        <translation type="unfinished"/>
+        <translation>100% Volumen</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1098"/>
@@ -1910,12 +1910,13 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1717"/>
         <source>Could not connect to Audio backend '%1', possible reasons:
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Konnte nicht zum Audio backend verbinden &apos;%1&apos;, mögliche Gründe:
+%2</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1723"/>
         <source>Could not connect to Audio backend &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Konnte nicht zum Audio backend verbinden &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1740"/>
@@ -6368,28 +6369,28 @@ Copyright (C) 2017 ROLI Ltd.</source>
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="490"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
         <source>Set linear</source>
         <translation>Linear einstellen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="490"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
         <source>Set logarithmic</source>
         <translation>Logarithmisch einstellen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="731"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="748"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
         <source>Set value</source>
         <translation>Wert setzen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="732"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="763"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Bitte geben Sie einen neuen Wert zwischen -96.0 dBFS und 6.0 dBFS: ein:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="749"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="780"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Bitte geben Sie einen neuen Wert zwischen %1 und %2 ein:</translation>
     </message>
@@ -11253,7 +11254,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="281"/>
         <source>Each sample processed</source>
-        <translation type="unfinished"/>
+        <translation>Jedes Sample verarbeitet</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="281"/>
@@ -13774,7 +13775,7 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="117"/>
         <source>Filter resonance</source>
-        <translation type="unfinished"/>
+        <translation>Filter Resonanz</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="118"/>
@@ -13784,17 +13785,17 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="119"/>
         <source>FM gain</source>
-        <translation type="unfinished"/>
+        <translation>FM Gain</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="120"/>
         <source>Resonance center frequency</source>
-        <translation type="unfinished"/>
+        <translation>Resonanz Mittelfrequenz</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="121"/>
         <source>Resonance bandwidth</source>
-        <translation type="unfinished"/>
+        <translation>Resonanz Bandbreite</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="122"/>
@@ -13817,7 +13818,7 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="519"/>
         <source>Filter frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Filter Frequenz:</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="520"/>
@@ -14079,13 +14080,13 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="104"/>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="109"/>
         <source>Increase wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Erhöhe wavegraph Amplitude um 1 dB</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="111"/>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="116"/>
         <source>Decrease wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Verringere wavegraph Amplitude um 1 dB</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="119"/>
@@ -15396,7 +15397,7 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="401"/>
         <source>Impulse</source>
-        <translation type="unfinished"/>
+        <translation>Impuls</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="426"/>
@@ -15568,13 +15569,13 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="90"/>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="95"/>
         <source>Increase wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Erhöhe wavegraph Amplitude um 1 dB</translation>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="97"/>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="102"/>
         <source>Decrease wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Verringere wavegraph Amplitude um 1 dB</translation>
     </message>
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="105"/>
@@ -15584,7 +15585,7 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
     <message>
         <location filename="../../plugins/waveshaper/waveshaper_control_dialog.cpp" line="108"/>
         <source>Clip input signal to 0 dB</source>
-        <translation type="unfinished"/>
+        <translation>Schneide das Eingangssignal bei 0 dB ab</translation>
     </message>
 </context>
 <context>

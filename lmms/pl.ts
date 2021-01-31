@@ -177,7 +177,7 @@ Radek Słowik</translation>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="509"/>
         <source>Enable ping-pong loop</source>
-        <translation type="unfinished"/>
+        <translation>Włącz pętlę typu &quot;ping-pong&quot;</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="524"/>
@@ -192,12 +192,12 @@ Radek Słowik</translation>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="533"/>
         <source>Start point:</source>
-        <translation type="unfinished"/>
+        <translation>Punkt startu:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="537"/>
         <source>End point:</source>
-        <translation type="unfinished"/>
+        <translation>Punkt końca:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="541"/>
@@ -238,12 +238,12 @@ Radek Słowik</translation>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa klienta</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanały</translation>
     </message>
 </context>
 <context>
@@ -251,12 +251,12 @@ Radek Słowik</translation>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="330"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="342"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanały</translation>
     </message>
 </context>
 <context>
@@ -264,12 +264,12 @@ Radek Słowik</translation>
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="415"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Backend</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="422"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
 </context>
 <context>
@@ -277,12 +277,12 @@ Radek Słowik</translation>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="317"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="329"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanały</translation>
     </message>
 </context>
 <context>
@@ -290,7 +290,7 @@ Radek Słowik</translation>
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
 </context>
 <context>
@@ -298,12 +298,12 @@ Radek Słowik</translation>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="196"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="208"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanały</translation>
     </message>
 </context>
 <context>
@@ -311,12 +311,12 @@ Radek Słowik</translation>
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="458"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Backend</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="465"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
 </context>
 <context>
@@ -490,12 +490,12 @@ Radek Słowik</translation>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2360"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Powiększenie poziome</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2379"/>
         <source>Vertical zooming</source>
-        <translation type="unfinished"/>
+        <translation>Powiększenie pionowe</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2402"/>
@@ -629,7 +629,7 @@ Radek Słowik</translation>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="91"/>
         <source>Clone beat/bassline pattern</source>
-        <translation type="unfinished"/>
+        <translation>Klonuj pattern perkusji/basu</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="95"/>
@@ -770,7 +770,7 @@ Radek Słowik</translation>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="64"/>
         <source>Input noise:</source>
-        <translation type="unfinished"/>
+        <translation>Szum wejściowy:</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="72"/>
@@ -906,7 +906,7 @@ Radek Słowik</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="102"/>
         <source>Extended licensing here</source>
-        <translation type="unfinished"/>
+        <translation>Rozszerzona licencja dostępna jest tu.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="113"/>
@@ -916,22 +916,22 @@ Radek Słowik</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="144"/>
         <source>Using KDE Oxygen icon set, designed by Oxygen Team.</source>
-        <translation type="unfinished"/>
+        <translation>Używa ikon KDE Oxygen, stworzonych przez Oxygen Team.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="230"/>
         <source>Contains some knobs, backgrounds and other small artwork from Calf Studio Gear, OpenAV and OpenOctave projects.</source>
-        <translation type="unfinished"/>
+        <translation>Zawiera elementy gałek, teł i innych małych rzeczy z Calf Studio Gear, Open AV i projektu OpenOctave.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="465"/>
         <source>VST is a trademark of Steinberg Media Technologies GmbH.</source>
-        <translation type="unfinished"/>
+        <translation>VST to znak towarowy Steinberg Media Technologies GmBH.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="579"/>
         <source>Special thanks to António Saraiva for a few extra icons and artwork!</source>
-        <translation type="unfinished"/>
+        <translation>Specialne podziękowania dla António Saraiva za dodatkowe ikony i grafiki.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="589"/>
@@ -6374,28 +6374,28 @@ Copyright (C) 2017 ROLI Ltd.</source>
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="490"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
         <source>Set linear</source>
         <translation>Ustaw linearnie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="490"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
         <source>Set logarithmic</source>
         <translation>Ustaw logarytmicznie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="731"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="748"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
         <source>Set value</source>
         <translation>Ustaw wartość</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="732"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="763"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Wprowadź nową wartość pomiędzy -96.0 dBFS a 6.0 dBFS:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="749"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="780"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Wprowadź nową wartość pomiędzy %1 a %2:</translation>
     </message>
@@ -7565,7 +7565,7 @@ Odwiedź witrynę http://lmms.sf.net/wiki for documentation on LMMS.</translatio
     <message>
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="45"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
 </context>
 <context>
@@ -9436,12 +9436,12 @@ Odwiedź witrynę http://lmms.sf.net/wiki for documentation on LMMS.</translatio
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4461"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Powiększenie poziome</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4469"/>
         <source>Vertical zooming</source>
-        <translation type="unfinished"/>
+        <translation>Powiększenie pionowe</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4478"/>
@@ -12299,7 +12299,7 @@ Upewnij się, że masz przynajmniej uprawnienia zapisu tego pliku a następnie s
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="977"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Powiększenie poziome</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="983"/>

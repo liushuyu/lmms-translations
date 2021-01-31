@@ -56,6 +56,7 @@
       </trans-unit>
       <trans-unit id="1BeqFto" resname="Branding">
         <source>Branding</source>
+        <target>Branding</target>
         
       </trans-unit>
       <trans-unit id="H2zLuBd" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
@@ -102,6 +103,7 @@
       </trans-unit>
       <trans-unit id="PN0uK90" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
         <source>If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.</source>
+        <target>Falls Ihre Distribution VST-Unterstützung bietet (erfordert die Installation von Wine), wird diese im Allgemeinen in einem separaten Paket angeboten. Zum Beispiel, beim Verwenden von &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, führe diesen Befehl in der Kommandozeile aus.</target>
         
       </trans-unit>
       <trans-unit id="f.eEeY2" resname="Run the following command as root in a terminal:">
@@ -116,14 +118,17 @@
       </trans-unit>
       <trans-unit id="eJUdOr0" resname="For VST support, please install wine or wine-staging from the repository">
         <source>For VST support, please install wine or wine-staging from the repository</source>
+        <target>Bitte installiere wine oder wine-staging vom Repository für die VST-Unterstützung</target>
         
       </trans-unit>
       <trans-unit id=".uMu3cY" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
         <source>AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.</source>
+        <target>AOSC OS liefert LMMS auf verschiedenen Architektur-Ports (AMD64 / x86_64, ARMv7 und weitere, die in Zukunft verfügbar sein werden), wobei die VST-Unterstützung auf AMD64 standardmäßig aktiviert ist.</target>
         
       </trans-unit>
       <trans-unit id="H1vkGQS" resname="To install LMMS on AOSC OS with PackageKit (recommended):">
         <source>To install LMMS on AOSC OS with PackageKit (recommended):</source>
+        <target>Um LMMS auf AOSC OS mit PackageKit zu installieren (empfohlen): </target>
         
       </trans-unit>
       <trans-unit id="i6lvwc6" resname="To install LMMS on AOSC OS with DPKG:">
@@ -133,10 +138,12 @@
       </trans-unit>
       <trans-unit id="4ya_6rI" resname="Build LMMS from source">
         <source>Build LMMS from source</source>
+        <target>Build LMMS vom Quellcode</target>
         
       </trans-unit>
       <trans-unit id="D9BgqO1" resname="If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.">
         <source>If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.</source>
+        <target>Falls deine Linux-Distribution kein LMMS Paket (oder nur ein veraltetes) zur Verfügung stellt, kannst du LMMS trotzdem vom Quellcode erstellen. Besuche das &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS Entwicklungs-Wiki auf GitHub&lt;/a&gt; um Anweisungen zum Kompilieren von LMMS für Linux zu erhalten.</target>
         
       </trans-unit>
       <trans-unit id="IAenq0c" resname="Download LMMS">
@@ -166,6 +173,7 @@
       </trans-unit>
       <trans-unit id="GUjytCK" resname="Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running">
         <source>Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running</source>
+        <target>Führe zuerst &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; aus, um das &lt;code&gt;.AppImage&lt;/code&gt; zu setzen bevor die Applikation ausgeführt wird.</target>
         
       </trans-unit>
       <trans-unit id="A8g9Yp6" resname="Beta Versions">
@@ -218,6 +226,8 @@
 	volunteers in their free time. But to keep the project going, we need this
 	number to grow. So if you feel like giving something back to the community,
 	join us in making LMMS better!</source>
+        <target>LMMS ist eine gratis und Open-Source Software, welche ausschliesslich von wenigen
+	Freiwilligen in der Freizeit gemacht wird. Aber um das Projekt am Leben zu halten, brauchen wir eine grössere Anzahl Helfer. Wenn Sie also Lust haben, der Community etwas zurückzugeben, machen Sie mit uns LMMS besser! </target>
         
       </trans-unit>
       <trans-unit id="9CFIxXY" resname="What you can do">
@@ -247,6 +257,9 @@
 					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place
 					   to introduce yourself.</source>
+        <target>Schau auf unserem &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; und auf unserem &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;Bug Tracker&lt;/a&gt;, um loszulegen. Darüber hinaus ist die LMMS &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;Mailingliste&lt;/a&gt; ein grossartiger Ort sich vorzustellen.
+ 
+ </target>
         
       </trans-unit>
       <trans-unit id="FSzxUcg" resname="Website &amp; Docs">
@@ -258,12 +271,14 @@
         <source>You can help us by improving this website or documenting the software. The website sources are in our
 					   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a
 					   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.</source>
+        <target>Sie können uns helfen, indem Sie diese Website verbessern oder die Software dokumentieren. Den Quellcode der Website finden Sie in unserem GitHub Reposetory &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, unsere Dokumentation wird mit einer &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki-Instanz&lt;/a&gt; gehostet. </target>
         
       </trans-unit>
       <trans-unit id="mxP7dw_" resname="Public registration on our Wiki is disabled due to spam issues. Please post to the&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're&#10;&#9;&#9;&#9;&#9;&#9;   interested in helping out with the documentation!">
         <source>Public registration on our Wiki is disabled due to spam issues. Please post to the
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're
 					   interested in helping out with the documentation!</source>
+        <target>Die öffentliche Registrierung in unserem Wiki ist aufgrund von Spam-Problemen deaktiviert. Bitte schreiben Sie an die &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;Mailingliste&lt;/a&gt;, falls Sie Interesse haben mit der Dokumentation zu helfen!</target>
         
       </trans-unit>
       <trans-unit id="yR7g8nm" resname="Donate">
@@ -292,6 +307,7 @@
 					   translating the software. You can find instructions on the page
 					   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our
 					   GitHub Wiki.</source>
+        <target>Wenn Ihre Sprache in LMMS fehlt, helfen Sie dem Projekt und anderen Benutzern, die dieselbe Sprache sprechen, beim Übersetzen der Software. Anweisungen finden Sie auf der Seite &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Lokalisierung erstellen&lt;/a&gt;&quot; in unserem GitHub Wiki.</target>
         
       </trans-unit>
       <trans-unit id="u6Bz942" resname="How to get in touch">
@@ -497,6 +513,7 @@
       </trans-unit>
       <trans-unit id="opjPraT" resname="Fork us on GitHub">
         <source>Fork us on GitHub</source>
+        <target>Forke uns auf GitHub</target>
         
       </trans-unit>
       <trans-unit id="4m3F_E2" resname="LMMS is a 100% free, open source, community-driven project.">
@@ -506,6 +523,7 @@
       </trans-unit>
       <trans-unit id="B_SpjYT" resname="Proudly hosted on GitHub.">
         <source>Proudly hosted on GitHub.</source>
+        <target>Mit Stolz auf GitHub gehostet.</target>
         
       </trans-unit>
       <trans-unit id="cjwuqX6" resname="Take a peek.">
@@ -550,6 +568,7 @@
       </trans-unit>
       <trans-unit id="UpGfL75" resname="Consolidate instrument tracks using Beat+Bassline Editor">
         <source>Consolidate instrument tracks using Beat+Bassline Editor</source>
+        <target>Zusammengeführte Instrumente-Spuren mit dem Beat+Bassline Editor</target>
         
       </trans-unit>
       <trans-unit id="73.8zRG" resname="Fine tune patterns, notes, chords and melodies using Piano Roll Editor">
@@ -559,6 +578,7 @@
       </trans-unit>
       <trans-unit id="X4f.0Yt" resname="Full user-defined track-based automation and computer-controlled automation sources">
         <source>Full user-defined track-based automation and computer-controlled automation sources</source>
+        <target>Vollständige benutzerdefinierte Spur-basierte Automatisierung und computergesteuerte Automatisierungsquellen</target>
         
       </trans-unit>
       <trans-unit id=".oFCngq" resname="Import of MIDI files and Hydrogen project files">
@@ -578,14 +598,17 @@
       </trans-unit>
       <trans-unit id="koI1Kzb" resname="16 built in synthesizers, including emultations of Roland ® TB-303, Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip and more">
         <source>16 built in synthesizers, including emultations of Roland ® TB-303, Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip and more</source>
+        <target>16 eingebaute Synthesizers, einschliesslich Emulationen von Roland ® TB-303, Commodore 64 ® SID microchip, Nintendo ® NES und GameBoy, Yamaha ® OPL2 chip und weitere</target>
         
       </trans-unit>
       <trans-unit id="OwdwPKG" resname="Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice additive, subtractive and pad synthesis all in one powerful plugin">
         <source>Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice additive, subtractive and pad synthesis all in one powerful plugin</source>
+        <target>Embedded ZynAddSubFx: Polyphone, multi-timbrale, mikrotonale, mehrstimmige additive, subtraktive und Pad-Synthese; alle in einem mächtigen Plugin</target>
         
       </trans-unit>
       <trans-unit id="UqEEpjy" resname="Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis UltraSound ® (GUS) formats for high quality instrument patches and banks">
         <source>Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis UltraSound ® (GUS) formats for high quality instrument patches and banks</source>
+        <target>Native Multisample-Unterstützung für die Formate SoundFont ® (SF2), Giga (GIG) und Gravis UltraSound ® (GUS) für hochwertige Instrumenten-Patches und -Bänke</target>
         
       </trans-unit>
       <trans-unit id="CasBlNK" resname="Effects Mixing">
@@ -600,6 +623,7 @@
       </trans-unit>
       <trans-unit id="b1z.R0m" resname="Drop-in VST ® effect plug-in support (Linux and Windows)">
         <source>Drop-in VST ® effect plug-in support (Linux and Windows)</source>
+        <target>Drop-in VST ® Effekt-Plugin Unterstützung (Linux and Windows)</target>
         
       </trans-unit>
       <trans-unit id="_c4RPsG" resname="Built-in compressor, limiter, delay, reverb, distortion and bass enhancer">
@@ -609,6 +633,7 @@
       </trans-unit>
       <trans-unit id="tUrf1x9" resname="Bundled graphic and parametric equalizers">
         <source>Bundled graphic and parametric equalizers</source>
+        <target>Gebündelte grafische und parametrische Equalizer</target>
         
       </trans-unit>
       <trans-unit id="PoXBpT3" resname="Built-in visualization/spectrum analyzer">
@@ -694,6 +719,43 @@
 				- After the deadline, the judges will make their decisions and release the results within 14 days.
 			6. **Release:**
 				- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.</source>
+        <target>#### Der Wettbewerb ist am ** 2. April 2019 ** zu Ende gegangen.
+Unterstützen Sie LMMS und kaufen Sie die Compilation auf unserer [Bandcamp-Seite] (https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-6).
+
+Hören Sie sich alle Einträge [hier](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQm-kulIpC2Na8ol7brGGmmK3aK4kz9AaUi0KIy1FrHUj6snVwCpdcDZqJ7unf_oIbGTmC4cWnP1tLW/pubhtml?gid=1466576535&amp;single=true) an.
+
+Gewinner:
+			&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/768817671&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+#### Originalbeschreibung:
+Wir sind stolz darauf, Ihnen den Best of LMMS-Wettbewerb Vol. 6 präsentieren zu können!
+Der Wettbewerb soll die Community dazu inspirieren, Musik zu kreieren und zu teilen. Senden Sie Ihren Track unter dem unten stehenden Link vor Mitternacht
+(23: 59.59 UTC Time) am 2. April für eine Chance, auf dem BoL v6-Album vorgestellt zu werden. Die Zusammenstellung wird auf Bandcamp hochgeladen, wobei alle Gewinne für die weitere Entwicklung von LMMS verwendet werden.
+
+[Hier einreichen] (https://goo.gl/forms/lNmexmoqWiwiKDUf1)
+#### Wettbewerbsregeln:
+1. ** Die Frist: **
+- Der Track muss bis zum 2. April 2019 um 23: 59.59 UTC mit [diesem Formular] (https://goo.gl/forms/lNmexmoqWiwiKDUf1) eingereicht werden.
+2. ** Der Track: **
+- Muss in LMMS hergestellt werden.
+- Sie können andere Programme zum Mastering und zur Nachbearbeitung verwenden.
+- Muss weniger als 10 Minuten lang sein.
+- Keine Gewinnertitel aus früheren Best of LMMS-Alben erlaubt.
+- Keine Remixe erlaubt.
+3. ** Die Einsendungen: **
+- Sie müssen nur mit diesem Formular einreichen.
+- Pro Künstler ist maximal ein Eintrag zulässig.
+- Kooperationen gelten als EIN Eintrag für jeden beteiligten Künstler.
+- Keine Zusammenarbeit mit Richtern bei Einsendungen.
+- Es sind nur Einsendungen zulässig, die auf Soundcloud, YouTube oder Clyp gehostet werden.
+- Der vollständige Titel sollte unter dem angegebenen Einreichungslink verfügbar sein
+- Ihr Eintrag muss bis zum Ende des Bewertungsprozesses zum Anhören verfügbar sein. Wenn nicht, wird Ihre Teilnahme disqualifiziert.
+4. ** Die Richter: **
+-Die Jury besteht aus: Abludo, Dystany, Heavenity Princess, Jacoby Davis, Pyrif und Spekular.
+5. ** Das Richten: **
+- Nach Ablauf der Frist treffen die Richter ihre Entscheidungen und veröffentlichen die Ergebnisse innerhalb von 14 Tagen.
+6. ** Veröffentlichung: **
+- Die 25 Songs mit der höchsten Punktzahl werden als Album auf Bandcamp zum Preis von &quot;Zahl so viel du willst&quot; veröffentlicht. Alle erhaltenen Mittel werden für die Weiterentwicklung von LMMS gespendet, dem Programm, das wir lieben.</target>
         
       </trans-unit>
       <trans-unit id="nY8I5YL" resname="The Best of LMMS vol. V">
@@ -896,6 +958,7 @@ in dieser Angelegenheit und &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/ne
       </trans-unit>
       <trans-unit id=".cXS6UE" resname="Powered by">
         <source>Powered by</source>
+        <target>Unterstützt von</target>
         
       </trans-unit>
       <trans-unit id="laP8ZYf" resname="Author:">
@@ -955,6 +1018,7 @@ in dieser Angelegenheit und &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/ne
       </trans-unit>
       <trans-unit id="OnhpU4i" resname="Home">
         <source>Home</source>
+        <target>Home</target>
         
       </trans-unit>
       <trans-unit id="R0s_HGS" resname="Tracks made with LMMS">
@@ -964,6 +1028,7 @@ in dieser Angelegenheit und &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/ne
       </trans-unit>
       <trans-unit id="U7C6Upb" resname="The Best of LMMS Vol. 5 by LMMS Artists">
         <source>The Best of LMMS Vol. 5 by LMMS Artists</source>
+        <target>Das Beste von LMMS Vol. 5, von LMMS Künstlern</target>
         
       </trans-unit>
       <trans-unit id="VlSWT7Z" resname="The Best of LMMS Vol. 4 by LMMS Artists">
@@ -986,24 +1051,9 @@ in dieser Angelegenheit und &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/ne
         <target>Das Beste von LMMS Vol.1 von LMMS Artisten</target>
         
       </trans-unit>
-      <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
-        <source>The Best of LMMS Vol. 7 by LMMS Artists</source>
-        
-      </trans-unit>
-      <trans-unit id="nk3f9aW" resname="The Best of LMMS Vol. 6 by LMMS Artists">
-        <source>The Best of LMMS Vol. 6 by LMMS Artists</source>
-        
-      </trans-unit>
-      <trans-unit id="oEXz92z" resname="Nightly Versions">
-        <source>Nightly Versions</source>
-        
-      </trans-unit>
-      <trans-unit id="paHvzJ5" resname="Downloads labeled Beta or Nightly are pre-release software, stability may suffer.">
-        <source>Downloads labeled Beta or Nightly are pre-release software, stability may suffer.</source>
-        
-      </trans-unit>
       <trans-unit id="yzGLm.Z" resname="The Best of LMMS vol. VII">
         <source>The Best of LMMS vol. VII</source>
+        <target>Das Beste von LMMS Vol. VII</target>
         
       </trans-unit>
       <trans-unit id="legSd3M" resname="#### The competition has ended on **April 16th, 2020**.&#10;&#9;&#9;&#9;Support LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-7)&#10;&#10;&#9;&#9;&#9;Listen to all entries [here.](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vR6tbmbsWPReJdh2jnCixmKlisIiWTY2QPAz_y1OjSmuwGl0PjKuXgJQ7cXuKtlrYtLqBBEa_IYeVC0/pubhtml?gid=491403559&amp;single=true)&#10;&#10;&#9;&#9;&#9;Winners:&#10;&#9;&#9;&#9;&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/1051302979&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;&#10;&#10;&#9;&#9;&#9;#### Original description:&#10;&#9;&#9;&#9;We are proud to present to you The Best of LMMS contest volume 7!&#10;&#9;&#9;&#9;The contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight&#10;&#9;&#9;&#9;(23:59.59 UTC Time) on April 16th for a chance to be featured on the BoL v6 album. The compilation will be uploaded to Bandcamp, with all profits going towards LMMS' further development.&#10;&#10;&#9;&#9;&#9;[Submit here](https://docs.google.com/forms/d/e/1FAIpQLSdpUGSa1JWK17_YQzc-cVQZ95toF0RQ7-c4yfdRjRtjaHAwzA/closedform)&#10;&#9;&#9;&#9;#### Competition rules:&#10;&#9;&#9;&#9;1. **The Deadline:**&#10;&#9;&#9;&#9;&#9;- Track must be submitted by April 16th 2020 at 23:59.59 UTC using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdpUGSa1JWK17_YQzc-cVQZ95toF0RQ7-c4yfdRjRtjaHAwzA/closedform).&#10;&#9;&#9;&#9;2. **The Track:**&#10;&#9;&#9;&#9;&#9;- Must be produced in LMMS.&#10;&#9;&#9;&#9;&#9;- You may use other programs for mastering and post processing.&#10;&#9;&#9;&#9;&#9;- Must be under 10 minutes long.&#10;&#9;&#9;&#9;&#9;- No winning tracks from previous Best of LMMS albums allowed.&#10;&#9;&#9;&#9;&#9;- No remixes allowed.&#10;&#9;&#9;&#9;3. **The Submissions:**&#10;&#9;&#9;&#9;&#9;- You must submit using this form only.&#10;&#9;&#9;&#9;&#9;- No more than ONE entry per artist is allowed.&#10;&#9;&#9;&#9;&#9;- Collaborations count as ONE entry for each artist involved.&#10;&#9;&#9;&#9;&#9;- No collaborating with judges on entries.&#10;&#9;&#9;&#9;&#9;- Only submissions hosted on Soundcloud, YouTube, or Clyp are allowed.&#10;&#9;&#9;&#9;&#9; - The full track should be available at the submission link provided&#10;&#9;&#9;&#9;&#9;- Your entry must be available for listening until the end of the judging process. If not, your entry will be disqualified.&#10;&#9;&#9;&#9;4. **The Judges:**&#10;&#9;&#9;&#9;&#9;- The jury consists of: Cubician, Etorna_Z, Noeroti, Leche, Satori and Umcaruje.&#10;&#9;&#9;&#9;5. **The Judging:**&#10;&#9;&#9;&#9;&#9;- After the deadline, the judges will make their decisions and release the results within 14 days.&#10;&#9;&#9;&#9;6. **Release:**&#10;&#9;&#9;&#9;&#9;- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.">
@@ -1044,6 +1094,63 @@ in dieser Angelegenheit und &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/ne
 				- After the deadline, the judges will make their decisions and release the results within 14 days.
 			6. **Release:**
 				- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.</source>
+        <target>#### Der Wettbewerb ist am **16. April 2020** zu ende gegangen.
+			Unterstützen Sie LMMS und kaufen Sie die Compilation auf unserer [Bandcamp-Seite] (https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-7).
+
+Hören Sie sich alle Beiträge [hier](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vR6tbmbsWPReJdh2jnCixmKlisIiWTY2QPAz_y1OjSmuwGl0PjKuXgJQ7cXuKtlrYtLqBBEa_IYeVC0/pubhtml?gid=491403559&amp;single=true) an.
+
+Gewinner:
+				&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/1051302979&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+#### Originalbeschreibung:
+Wir sind stolz darauf, Ihnen den Best vom LMMS-Wettbewerb Vol. 7 präsentieren zu können!
+Der Wettbewerb soll die Community dazu inspirieren, Musik zu kreieren und zu teilen. Senden Sie Ihren Track unter dem unten stehenden Link vor Mitternacht
+(23: 59.59 UTC Time) am 16. April für die Chance, auf dem BoL v6-Album vorgestellt zu werden. Die Zusammenstellung wird auf Bandcamp hochgeladen, wobei alle Gewinne für die weitere Entwicklung von LMMS verwendet werden.
+
+[Hier einreichen] (https://docs.google.com/forms/d/e/1FAIpQLSdpUGSa1JWK17_YQzc-cVQZ95toF0RQ7-c4yfdRjRtjaHAwzA/closedform)
+#### Wettbewerbsregeln:
+1. ** Die Frist: **
+- Der Track muss bis zum 16. April 2020 um 23: 59.59 UTC mit [diesem Formular](https://docs.google.com/forms/d/e/1FAIpQLSdpUGSa1JWK17_YQzc-cVQZ95toF0RQ7-c4yfdRjRtjaHAwzA/closedform)  eingereicht werden.
+2. ** Der Track: **
+- Muss in LMMS hergestellt werden.
+- Sie können andere Programme zum Mastering und zur Nachbearbeitung verwenden.
+- Muss weniger als 10 Minuten lang sein.
+- Keine Gewinnertitel aus früheren Best of LMMS-Alben erlaubt.
+- Keine Remixe erlaubt.
+3. ** Die Einsendungen: **
+- Sie können nur mit diesem Formular eingereicht werden.
+- Pro Künstler ist maximal ein Eintrag zulässig.
+- Kooperationen gelten als EIN Eintrag für jeden der beteiligten Künstler.
+- Keine Zusammenarbeit mit Richtern bei Einsendungen.
+- Es sind nur Einsendungen zulässig, die auf Soundcloud, YouTube oder Clyp gehostet werden.
+- Der vollständige Titel sollte unter dem angegebenen Einreichungslink verfügbar sein
+- Ihr Eintrag muss bis zum Ende des Bewertungsprozesses zum Anhören verfügbar sein. Wenn nicht, wird Ihre Teilnahme disqualifiziert.
+4. ** Die Richter: **
+- Die Jury besteht aus: Kubiker, Etorna_Z, Noeroti, Leche, Satori und Umcaruje.
+5. ** Das Richten: **
+- Nach Ablauf der Frist treffen die Richter ihre Entscheidungen und veröffentlichen die Ergebnisse innerhalb von 14 Tagen.
+6. ** Veröffentlichung: **
+- Die 25 Songs mit der höchsten Punktzahl werden als Album auf Bandcamp zum Preis von &quot;Zahl so viel du willst&quot; veröffentlicht. Alle erhaltenen Mittel werden für die Weiterentwicklung von LMMS gespendet, dem Programm, das wir lieben.</target>
+        
+      </trans-unit>
+      <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
+        <source>The Best of LMMS Vol. 7 by LMMS Artists</source>
+        <target>Das Beste von LMMS Vol. 7, von LMMS Künstlern</target>
+        
+      </trans-unit>
+      <trans-unit id="nk3f9aW" resname="The Best of LMMS Vol. 6 by LMMS Artists">
+        <source>The Best of LMMS Vol. 6 by LMMS Artists</source>
+        <target>Das Beste von LMMS Vol. 6, von LMMS Künstlern</target>
+        
+      </trans-unit>
+      <trans-unit id="oEXz92z" resname="Nightly Versions">
+        <source>Nightly Versions</source>
+        <target>Nightly Versionen</target>
+        
+      </trans-unit>
+      <trans-unit id="paHvzJ5" resname="Downloads labeled Beta or Nightly are pre-release software, stability may suffer.">
+        <source>Downloads labeled Beta or Nightly are pre-release software, stability may suffer.</source>
+        <target>Downloads welche als Nightly oder Beta gekennzeichnet sind, sind vorab Versionen der Software und die Stabilität könnte schlecht sein.</target>
         
       </trans-unit>
     </body>

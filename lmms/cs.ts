@@ -6369,28 +6369,28 @@ Copyright (C) 2017 ROLI Ltd.</source>
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="490"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
         <source>Set linear</source>
         <translation>Lineární zobrazení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="490"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
         <source>Set logarithmic</source>
         <translation>Logaritmické zobrazení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="731"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="748"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
         <source>Set value</source>
         <translation>Nastavit hodnotu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="732"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="763"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Zadejte prosím novou hodnotu mezi -96.0 dBFS a 6.0 dBFS:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="749"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="780"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Vložte prosím novou hodnotu mezi %1 a %2:</translation>
     </message>
