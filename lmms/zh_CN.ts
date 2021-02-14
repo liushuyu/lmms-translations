@@ -10215,7 +10215,7 @@ Plugin Name
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="554"/>
         <source>Program:</source>
-        <translation type="unfinished"/>
+        <translation>工程</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="609"/>
@@ -11644,7 +11644,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="254"/>
         <source>Projects</source>
-        <translation type="unfinished"/>
+        <translation>项目</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="257"/>
@@ -11664,7 +11664,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="268"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>语言</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="328"/>
