@@ -9041,42 +9041,42 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
 <context>
     <name>PatternView</name>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="693"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="727"/>
         <source>Open in piano-roll</source>
         <translation>Otevřít v Piano rollu</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="699"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="733"/>
         <source>Set as ghost in piano-roll</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="708"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="742"/>
         <source>Clear all notes</source>
         <translation>Vymazat všechny noty</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="711"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="745"/>
         <source>Reset name</source>
         <translation>Resetovat jméno</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="714"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="748"/>
         <source>Change name</source>
         <translation>Změnit jméno</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="722"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="756"/>
         <source>Add steps</source>
         <translation>Přidat kroky</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="724"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="758"/>
         <source>Remove steps</source>
         <translation>Odstranit kroky</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="726"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="760"/>
         <source>Clone Steps</source>
         <translation>Klonovat kroky</translation>
     </message>
@@ -9231,108 +9231,108 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
 <context>
     <name>PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="212"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="214"/>
         <source>Note Velocity</source>
         <translation>Dynamika noty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="213"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="215"/>
         <source>Note Panning</source>
         <translation>Panoráma noty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="226"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="228"/>
         <source>Mark/unmark current semitone</source>
         <translation>Zvýraznit/Skrýt zvolený tón</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="227"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="229"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>Zvýraznit/Skrýt zvolený tón ve všech oktávách</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="228"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="230"/>
         <source>Mark current scale</source>
         <translation>Zvýraznit zvolenou stupnici</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="229"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="231"/>
         <source>Mark current chord</source>
         <translation>Zvýraznit zvolený akord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="230"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="232"/>
         <source>Unmark all</source>
         <translation>Skrýt vše</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="231"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="233"/>
         <source>Select all notes on this key</source>
         <translation>Vybrat všechny noty zvolené výšky</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="345"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="351"/>
         <source>Note lock</source>
         <translation>Zamknout notu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="355"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="361"/>
         <source>Last note</source>
         <translation>Podle poslední noty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="379"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="385"/>
         <source>No key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="389"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="395"/>
         <source>No scale</source>
         <translation>Žádná stupnice</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="406"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="412"/>
         <source>No chord</source>
         <translation>Žádný akord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="467"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="473"/>
         <source>Velocity: %1%</source>
         <translation>Dynamika: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="476"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="482"/>
         <source>Panning: %1% left</source>
         <translation>Panoráma: %1% vlevo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="480"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="486"/>
         <source>Panning: %1% right</source>
         <translation>Panoráma: %1% vpravo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="484"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="490"/>
         <source>Panning: center</source>
         <translation>Panoráma: střed</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="656"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="662"/>
         <source>Glue notes failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="657"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="663"/>
         <source>Please select notes to glue first.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3282"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3415"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Otevřete prosím záznam poklepáním!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3913"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3932"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4052"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4071"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Vložte prosím novou hodnotu mezi %1 a %2:</translation>
     </message>
@@ -9340,144 +9340,149 @@ Navštivte prosím stránku s dokumentací k LMMS na adrese http://lmms.sf.net/w
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4372"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4511"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Přehrát/Pozastavit přehrávání aktuálního záznamu (mezerník)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4373"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4512"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Nahrávat z MIDI zařízení / virtuální klávesnice</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4374"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4513"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Nahrávat z MIDI zařízení / virtuální klávesnice při přehrávání skladby nebo stopy bicích/basů</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4375"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4514"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Nahrává noty z MIDI zařízení / piano kanálu v jednotlivých krocích</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4376"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4515"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Zastavit přehrávání aktuálního záznamu (mezerník)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4378"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4517"/>
         <source>Edit actions</source>
         <translation>Akce úprav</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4382"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4521"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Režim kreslení (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4383"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4522"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Režim mazání (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4384"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4523"/>
         <source>Select mode (Shift+S)</source>
         <translation>Režim výběru (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4385"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4524"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Režim ohýbání výšky (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4396"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4535"/>
         <source>Quantize</source>
         <translation>Kvantizace</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4407"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4546"/>
         <source>Copy paste controls</source>
         <translation>Ovládání kopírování a vkládání</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4410"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4549"/>
         <source>Cut (%1+X)</source>
         <translation>Vystřihnout (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4413"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4552"/>
         <source>Copy (%1+C)</source>
         <translation>Kopírovat (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4416"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4555"/>
         <source>Paste (%1+V)</source>
         <translation>Vložit (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4431"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4570"/>
         <source>Timeline controls</source>
         <translation>Ovládání časové osy</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4442"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4581"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4453"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4587"/>
+        <source>Knife</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4599"/>
         <source>Zoom and note controls</source>
         <translation>Lupa a ovládání not</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4461"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4607"/>
         <source>Horizontal zooming</source>
         <translation>Horizontální zvětšení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4469"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4615"/>
         <source>Vertical zooming</source>
         <translation>Vertikální zvětšení</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4478"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4624"/>
         <source>Quantization</source>
         <translation>Kvantizace</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4487"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4633"/>
         <source>Note length</source>
         <translation>Délka noty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4493"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4639"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4502"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4648"/>
         <source>Scale</source>
         <translation>Stupnice</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4511"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4657"/>
         <source>Chord</source>
         <translation>Akord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4516"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4662"/>
         <source>Clear ghost notes</source>
         <translation>Vymazat stínové noty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4616"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4787"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4762"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4933"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano roll – %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4622"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4791"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4768"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4937"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Piano roll – žádný záznam</translation>
     </message>

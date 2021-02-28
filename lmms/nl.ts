@@ -9042,42 +9042,42 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
 <context>
     <name>PatternView</name>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="693"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="727"/>
         <source>Open in piano-roll</source>
         <translation>In piano-roll openen</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="699"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="733"/>
         <source>Set as ghost in piano-roll</source>
         <translation>Als ghost instellen in piano-roll</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="708"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="742"/>
         <source>Clear all notes</source>
         <translation>Alle noten leegmaken</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="711"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="745"/>
         <source>Reset name</source>
         <translation>Naam herstellen</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="714"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="748"/>
         <source>Change name</source>
         <translation>Naam wijzigen</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="722"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="756"/>
         <source>Add steps</source>
         <translation>Stappen toevoegen</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="724"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="758"/>
         <source>Remove steps</source>
         <translation>Stappen verwijderen</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="726"/>
+        <location filename="../../src/tracks/Pattern.cpp" line="760"/>
         <source>Clone Steps</source>
         <translation>Stappen klonen</translation>
     </message>
@@ -9232,108 +9232,108 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
 <context>
     <name>PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="212"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="214"/>
         <source>Note Velocity</source>
         <translation>Nootsnelheid</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="213"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="215"/>
         <source>Note Panning</source>
         <translation>Noot-balans</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="226"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="228"/>
         <source>Mark/unmark current semitone</source>
         <translation>Huidige semitoon markeren/niet markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="227"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="229"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>Alle corresponderende octaaf-semitonen markeren/niet markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="228"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="230"/>
         <source>Mark current scale</source>
         <translation>Huidige toonladder markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="229"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="231"/>
         <source>Mark current chord</source>
         <translation>Huidig akkoord markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="230"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="232"/>
         <source>Unmark all</source>
         <translation>Niets markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="231"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="233"/>
         <source>Select all notes on this key</source>
         <translation>Alle noten op deze sleutel selecteren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="345"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="351"/>
         <source>Note lock</source>
         <translation>Nootvergrendeling</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="355"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="361"/>
         <source>Last note</source>
         <translation>Laatste noot</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="379"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="385"/>
         <source>No key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="389"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="395"/>
         <source>No scale</source>
         <translation>Geen toonladder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="406"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="412"/>
         <source>No chord</source>
         <translation>Geen akkoord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="467"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="473"/>
         <source>Velocity: %1%</source>
         <translation>Snelheid: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="476"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="482"/>
         <source>Panning: %1% left</source>
         <translation>Balans: %1 % links</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="480"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="486"/>
         <source>Panning: %1% right</source>
         <translation>Balans: %1 % rechts</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="484"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="490"/>
         <source>Panning: center</source>
         <translation>Balans: midden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="656"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="662"/>
         <source>Glue notes failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="657"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="663"/>
         <source>Please select notes to glue first.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3282"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3415"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Open een patroon door erop te dubbelklikken!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3913"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3932"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4052"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4071"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Voer een nieuwe waarde in tussen %1 en %2:</translation>
     </message>
@@ -9341,144 +9341,149 @@ Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4372"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4511"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Huidig patroon afspelen/pauzeren (Spatie)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4373"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4512"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Noten van MIDI-apparaat/kanaal-piano opnemen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4374"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4513"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Noten van MIDI-apparaat/kanaal-piano opnemen tijdens het afspelen van song of BB-spoor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4375"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4514"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Noten van MIDI-apparaat/kanaal-piano opnemen, een stap per keer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4376"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4515"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Stoppen met afspelen van huidig patroon (Spatie)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4378"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4517"/>
         <source>Edit actions</source>
         <translation>Acties bewerken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4382"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4521"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Tekenmodus (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4383"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4522"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Wissen-modus (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4384"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4523"/>
         <source>Select mode (Shift+S)</source>
         <translation>Selecteermodus (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4385"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4524"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Toonhoogte-buigmodus (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4396"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4535"/>
         <source>Quantize</source>
         <translation>Kwantiseren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4407"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4546"/>
         <source>Copy paste controls</source>
         <translation>Bedieningen kopiëren en plakken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4410"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4549"/>
         <source>Cut (%1+X)</source>
         <translation>Knippen (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4413"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4552"/>
         <source>Copy (%1+C)</source>
         <translation>Kopiëren (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4416"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4555"/>
         <source>Paste (%1+V)</source>
         <translation>Plakken (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4431"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4570"/>
         <source>Timeline controls</source>
         <translation>Tijdlijnbediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4442"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4581"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4453"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4587"/>
+        <source>Knife</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4599"/>
         <source>Zoom and note controls</source>
         <translation>Zoom- en nootbediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4461"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4607"/>
         <source>Horizontal zooming</source>
         <translation>Horizontaal zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4469"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4615"/>
         <source>Vertical zooming</source>
         <translation>Verticaal zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4478"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4624"/>
         <source>Quantization</source>
         <translation>Kwantisatie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4487"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4633"/>
         <source>Note length</source>
         <translation>Noot-lengte</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4493"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4639"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4502"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4648"/>
         <source>Scale</source>
         <translation>Toonladder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4511"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4657"/>
         <source>Chord</source>
         <translation>Akkoord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4516"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4662"/>
         <source>Clear ghost notes</source>
         <translation>Ghost-noten leegmaken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4616"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4787"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4762"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4933"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano-roll - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4622"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4791"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4768"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4937"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Piano-roll - geen patroon</translation>
     </message>
