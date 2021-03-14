@@ -504,7 +504,7 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
 <context>
     <name>AutomationPattern</name>
     <message>
-        <location filename="../../src/core/AutomationPattern.cpp" line="864"/>
+        <location filename="../../src/core/AutomationPattern.cpp" line="865"/>
         <source>Drag a control while pressing &lt;%1&gt;</source>
         <translation>Déplacer un contrôle en appuyant sur &lt;%1&gt;</translation>
     </message>
@@ -2835,6 +2835,504 @@ Ce mode n&apos;est pas disponible pour les plugins VST.</translation>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_settings.cpp" line="1671"/>
         <source>Add Path</source>
         <translation>Ajouter un chemin d&apos;accès</translation>
+    </message>
+</context>
+<context>
+    <name>CompressorControlDialog</name>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="93"/>
+        <source>Threshold:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="95"/>
+        <source>Volume at which the compression begins to take place</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="98"/>
+        <source>Ratio:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="100"/>
+        <source>How far the compressor must turn the volume down after crossing the threshold</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="103"/>
+        <source>Attack:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="105"/>
+        <source>Speed at which the compressor starts to compress the audio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="108"/>
+        <source>Release:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="110"/>
+        <source>Speed at which the compressor ceases to compress the audio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="113"/>
+        <source>Knee:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="115"/>
+        <source>Smooth out the gain reduction curve around the threshold</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="118"/>
+        <source>Range:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="120"/>
+        <source>Maximum gain reduction</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="123"/>
+        <source>Lookahead Length:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="125"/>
+        <source>How long the compressor has to react to the sidechain signal ahead of time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="128"/>
+        <source>Hold:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="130"/>
+        <source>Delay between attack and release stages</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="133"/>
+        <source>RMS Size:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="135"/>
+        <source>Size of the RMS buffer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="138"/>
+        <source>Input Balance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="140"/>
+        <source>Bias the input audio to the left/right or mid/side</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="143"/>
+        <source>Output Balance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="145"/>
+        <source>Bias the output audio to the left/right or mid/side</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="148"/>
+        <source>Stereo Balance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="150"/>
+        <source>Bias the sidechain signal to the left/right or mid/side</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="153"/>
+        <source>Stereo Link Blend:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="155"/>
+        <source>Blend between unlinked/maximum/average/minimum stereo linking modes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="158"/>
+        <source>Tilt Gain:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="160"/>
+        <source>Bias the sidechain signal to the low or high frequencies.  -6 db is lowpass, 6 db is highpass.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="163"/>
+        <source>Tilt Frequency:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="165"/>
+        <source>Center frequency of sidechain tilt filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="168"/>
+        <source>Mix:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="170"/>
+        <source>Balance between wet and dry signals</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="173"/>
+        <source>Auto Attack:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="175"/>
+        <source>Automatically control attack value depending on crest factor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="178"/>
+        <source>Auto Release:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="180"/>
+        <source>Automatically control release value depending on crest factor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="182"/>
+        <source>Output gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="185"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="191"/>
+        <source>Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="186"/>
+        <source>Output volume</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="188"/>
+        <source>Input gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="192"/>
+        <source>Input volume</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="194"/>
+        <source>Root Mean Square</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="197"/>
+        <source>Use RMS of the input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="199"/>
+        <source>Peak</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="202"/>
+        <source>Use absolute value of the input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="209"/>
+        <source>Left/Right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="212"/>
+        <source>Compress left and right audio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="214"/>
+        <source>Mid/Side</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="217"/>
+        <source>Compress mid and side audio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="224"/>
+        <source>Compressor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="227"/>
+        <source>Compress the audio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="229"/>
+        <source>Limiter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="232"/>
+        <source>Set Ratio to infinity (is not guaranteed to limit audio volume)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="239"/>
+        <source>Unlinked</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="242"/>
+        <source>Compress each channel separately</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="244"/>
+        <source>Maximum</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="247"/>
+        <source>Compress based on the loudest channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="249"/>
+        <source>Average</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="252"/>
+        <source>Compress based on the averaged channel volume</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="254"/>
+        <source>Minimum</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="257"/>
+        <source>Compress based on the quietest channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="259"/>
+        <source>Blend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="262"/>
+        <source>Blend between stereo linking modes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="272"/>
+        <source>Auto Makeup Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="275"/>
+        <source>Automatically change makeup gain depending on threshold, knee, and ratio settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="279"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="286"/>
+        <source>Soft Clip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="282"/>
+        <source>Play the delta signal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="289"/>
+        <source>Use the compressor&apos;s output as the sidechain input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="293"/>
+        <source>Lookahead Enabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="296"/>
+        <source>Enable Lookahead, which introduces 20 milliseconds of latency</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>CompressorControls</name>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="38"/>
+        <source>Threshold</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="39"/>
+        <source>Ratio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="40"/>
+        <source>Attack</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="41"/>
+        <source>Release</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="42"/>
+        <source>Knee</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="43"/>
+        <source>Hold</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="44"/>
+        <source>Range</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="45"/>
+        <source>RMS Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="46"/>
+        <source>Mid/Side</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="47"/>
+        <source>Peak Mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="48"/>
+        <source>Lookahead Length</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="49"/>
+        <source>Input Balance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="50"/>
+        <source>Output Balance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="51"/>
+        <source>Limiter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="52"/>
+        <source>Output Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="53"/>
+        <source>Input Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="54"/>
+        <source>Blend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="55"/>
+        <source>Stereo Balance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="56"/>
+        <source>Auto Makeup Gain</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="57"/>
+        <source>Audition</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="58"/>
+        <source>Feedback</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="59"/>
+        <source>Auto Attack</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="60"/>
+        <source>Auto Release</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="61"/>
+        <source>Lookahead</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="62"/>
+        <source>Tilt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="63"/>
+        <source>Tilt Frequency</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="64"/>
+        <source>Stereo Link</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/CompressorControls.cpp" line="65"/>
+        <source>Mix</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9607,13 +10105,13 @@ Veuillez visiter http://lmms.sf.net/wiki pour la documentation de LMMS.</transla
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3580"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3581"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Veuillez ouvrir un motif en double-cliquant dessus !</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4217"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4236"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4218"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4237"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Veuillez entrer une valeur entre %1 et %2 :</translation>
     </message>
@@ -9621,174 +10119,174 @@ Veuillez visiter http://lmms.sf.net/wiki pour la documentation de LMMS.</transla
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4682"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4683"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Jouer/mettre en pause le motif (barre d&apos;espace)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4683"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4684"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Enregistrez des notes à partir d&apos;un périphérique MIDI ou d&apos;un canal du piano</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4684"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4685"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Enregistrez des notes à partir d&apos;un périphérique MIDI ou d&apos;un canal du piano pendant l&apos;écoute d&apos;un morceau ou bien d&apos;une piste de rythme ou de ligne de basse</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4685"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4686"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4686"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4687"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Arrêter de jouer le motif (barre d&apos;espace)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4688"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4689"/>
         <source>Edit actions</source>
         <translation>Actions d&apos;édition</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4692"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4693"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Mode dessin (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4693"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4694"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Mode effacement (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4694"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4695"/>
         <source>Select mode (Shift+S)</source>
         <translation>Mode sélection (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4695"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4696"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Mode Pitch Bend (Maj + T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4706"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4707"/>
         <source>Quantize</source>
         <translation>Quantifier</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4717"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4718"/>
         <source>Copy paste controls</source>
         <translation>Contrôles de copier/coller</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4720"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4721"/>
         <source>Cut (%1+X)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4723"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
         <source>Copy (%1+C)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
         <source>Paste (%1+V)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4741"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4742"/>
         <source>Timeline controls</source>
         <translation>Contrôles de la ligne de temps</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4767"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4768"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4770"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4771"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4785"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
         <source>Zoom and note controls</source>
         <translation>Contrôles de zoom et de notes</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4793"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4794"/>
         <source>Horizontal zooming</source>
         <translation>Zoom horizontal</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4801"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4802"/>
         <source>Vertical zooming</source>
         <translation>Zoom vertical</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4810"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
         <source>Quantization</source>
         <translation>Quantification</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4819"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4820"/>
         <source>Note length</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4834"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4835"/>
         <source>Scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4843"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4844"/>
         <source>Chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4852"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4857"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4966"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5137"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4967"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5138"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano virtuel - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4972"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5141"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4973"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5142"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Piano virtuel - pas de motif</translation>
     </message>
@@ -9882,6 +10380,11 @@ Raison : &quot;%2&quot;</translation>
         <location filename="../../plugins/carlarack/carlarack.cpp" line="38"/>
         <source>Carla Rack Instrument</source>
         <translation>Rack d&apos;instruments Carla</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Compressor/Compressor.cpp" line="39"/>
+        <source>A dynamic range compressor.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQ.cpp" line="39"/>
@@ -11687,67 +12190,67 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTCOView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="373"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="370"/>
         <source>Double-click to open sample</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="397"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="394"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Supprimer (bouton du milieu de la souris)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="398"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="395"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="406"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="403"/>
         <source>Cut</source>
         <translation>Couper</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="407"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="404"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="414"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="411"/>
         <source>Copy</source>
         <translation>Copier</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="415"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="412"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="420"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="417"/>
         <source>Paste</source>
         <translation>Coller</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="428"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="425"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Sourdine (ou non) (&lt;%1&gt; + clic-milieu)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="429"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="426"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="438"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="435"/>
         <source>Reverse sample</source>
         <translation>Inverser l&apos;échantillon</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="446"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="443"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="448"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="445"/>
         <source>Use track color</source>
         <translation type="unfinished"/>
     </message>
@@ -11755,23 +12258,23 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="674"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="708"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="675"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="709"/>
         <source>Panning</source>
         <translation>Panoramisation</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="676"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="710"/>
         <source>FX channel</source>
         <translation>Canal d&apos;effet</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="677"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="680"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="711"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="714"/>
         <source>Sample track</source>
         <translation>Piste d&apos;échantillon</translation>
     </message>
@@ -11779,37 +12282,37 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="900"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="934"/>
         <source>Track volume</source>
         <translation>Volume de la piste</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="903"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="937"/>
         <source>Channel volume:</source>
         <translation>Volume du canal :</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="910"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="944"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="914"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="948"/>
         <source>Panning</source>
         <translation>Panoramisation</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="916"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="950"/>
         <source>Panning:</source>
         <translation>Panoramisation :</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="918"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="952"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="986"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1020"/>
         <source>FX %1: %2</source>
         <translation>Effet %1 : %2</translation>
     </message>
@@ -11817,47 +12320,47 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1067"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1101"/>
         <source>GENERAL SETTINGS</source>
         <translation>CONFIGURATION GÉNÉRALE</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1102"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1136"/>
         <source>Sample volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1104"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1138"/>
         <source>Volume:</source>
         <translation>Volume :</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1109"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1143"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1116"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1150"/>
         <source>Panning</source>
         <translation>Panoramisation</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1117"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1151"/>
         <source>Panning:</source>
         <translation>Panoramisation :</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1122"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1156"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1132"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1166"/>
         <source>FX channel</source>
         <translation>Canal d&apos;effet</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1137"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="1171"/>
         <source>FX</source>
         <translation>EFFET</translation>
     </message>
@@ -12505,12 +13008,12 @@ Veuillez vérifier que vous avez au moins les droits en lecture pour ce fichier 
         <translation>Tonalité générale</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="674"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="679"/>
         <source>Value: %1%</source>
         <translation>Valeur : %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="716"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="721"/>
         <source>Value: %1 semitones</source>
         <translation>Valeur : %1 demi-tons</translation>
     </message>
@@ -12518,113 +13021,118 @@ Veuillez vérifier que vous avez au moins les droits en lecture pour ce fichier 
 <context>
     <name>SongEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="905"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="918"/>
         <source>Song-Editor</source>
         <translation>Éditeur de morceau</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="915"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="928"/>
         <source>Play song (Space)</source>
         <translation>Jouer le morceau (barre d&apos;espace)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="916"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="929"/>
         <source>Record samples from Audio-device</source>
         <translation>Enregistrer des échantillons à partir d&apos;un périphérique audio</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="917"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="930"/>
         <source>Record samples from Audio-device while playing song or BB track</source>
         <translation>Enregistrer des échantillons à partir d&apos;un périphérique audio pendant l&apos;écoute d&apos;un morceau ou bien d&apos;un rythme ou d&apos;une ligne de basse</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="918"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="931"/>
         <source>Stop song (Space)</source>
         <translation>Arrêter de jouer le morceau (barre d&apos;espace)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="922"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="935"/>
         <source>Track actions</source>
         <translation>Actions de la piste</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="925"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="938"/>
         <source>Add beat/bassline</source>
         <translation>Ajouter un rythme ou une ligne de basse</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="928"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="941"/>
         <source>Add sample-track</source>
         <translation>Ajouter une piste d&apos;échantillon</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="931"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="944"/>
         <source>Add automation-track</source>
         <translation>Ajouter une piste d&apos;automation</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="943"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="956"/>
         <source>Edit actions</source>
         <translation>Actions d&apos;édition</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="946"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="959"/>
         <source>Draw mode</source>
         <translation>Mode dessin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="947"/>
-        <source>Edit mode (select and move)</source>
-        <translation>Mode édition (sélectionner et déplacer)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="956"/>
-        <source>Timeline controls</source>
-        <translation>Contrôles de la ligne de temps</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="959"/>
-        <source>Bar insert controls</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="960"/>
-        <source>Insert bar</source>
+        <source>Knife mode (split sample clips)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="961"/>
+        <source>Edit mode (select and move)</source>
+        <translation>Mode édition (sélectionner et déplacer)</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="972"/>
+        <source>Timeline controls</source>
+        <translation>Contrôles de la ligne de temps</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="975"/>
+        <source>Bar insert controls</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="976"/>
+        <source>Insert bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="977"/>
         <source>Remove bar</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="967"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="983"/>
         <source>Zoom controls</source>
         <translation>Contrôle du zoom</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="977"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="993"/>
         <source>Horizontal zooming</source>
         <translation>Zoom horizontal</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="983"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="999"/>
         <source>Snap controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="991"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1026"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1007"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1042"/>
         <source>Clip snapping size</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="995"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1011"/>
         <source>Toggle proportional snap on/off</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1022"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1038"/>
         <source>Base snapping size</source>
         <translation type="unfinished"/>
     </message>
@@ -12935,93 +13443,93 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="621"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="657"/>
         <source>Current position</source>
         <translation>Position actuelle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="629"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="665"/>
         <source>Current length</source>
         <translation>Longueur actuelle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="630"/>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="873"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="666"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="918"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 vers %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="649"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="685"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>Appuyez sur &lt;%1&gt; et glissez pour faire une copie.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="650"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="686"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>Appuyez sur &lt;%1&gt; pour un redimensionnement libre.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="651"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="687"/>
         <source>Hint</source>
         <translation>Astuce</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="965"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1017"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Supprimer (bouton du milieu de la souris)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="966"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1018"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="974"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1026"/>
         <source>Cut</source>
         <translation>Couper</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="975"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1027"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="982"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1034"/>
         <source>Merge Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="991"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1043"/>
         <source>Copy</source>
         <translation>Copier</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="992"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1044"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="997"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1049"/>
         <source>Paste</source>
         <translation>Coller</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1005"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1057"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Sourdine (ou non) (&lt;%1&gt; + clic-milieu)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1006"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1058"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1012"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1064"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1014"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1066"/>
         <source>Use track color</source>
         <translation type="unfinished"/>
     </message>
@@ -13029,7 +13537,7 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
 <context>
     <name>TrackContentWidget</name>
     <message>
-        <location filename="../../src/gui/widgets/TrackContentWidget.cpp" line="653"/>
+        <location filename="../../src/gui/widgets/TrackContentWidget.cpp" line="670"/>
         <source>Paste</source>
         <translation>Coller</translation>
     </message>
