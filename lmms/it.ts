@@ -6928,14 +6928,27 @@ Copyright (C) 2017 ROLI Ltd.</translation>
     </message>
 </context>
 <context>
-    <name>LcdSpinBox</name>
+    <name>LcdFloatSpinBox</name>
     <message>
-        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="170"/>
+        <location filename="../../src/gui/widgets/LcdFloatSpinBox.cpp" line="201"/>
         <source>Set value</source>
         <translation>Imposta valore</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="171"/>
+        <location filename="../../src/gui/widgets/LcdFloatSpinBox.cpp" line="202"/>
+        <source>Please enter a new value between %1 and %2:</source>
+        <translation>Inserire un valore compreso tra %1 e %2:</translation>
+    </message>
+</context>
+<context>
+    <name>LcdSpinBox</name>
+    <message>
+        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="163"/>
+        <source>Set value</source>
+        <translation>Imposta valore</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="164"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Inserire un valore compreso tra %1 e %2:</translation>
     </message>
@@ -9840,174 +9853,184 @@ Visitare http://lmms.sf.net/wiki  per la documentazione di LMMS.</translation>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4683"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4690"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Riproduci/metti in pausa il beat/bassline selezionato (Spazio)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4684"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4691"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Registra note da una periferica/canale piano MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4685"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4692"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Registra note da una periferica MIDI/canale piano mentre la traccia o la BB track è in riproduzione</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4686"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4693"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Registra note da dispositivo-MIDI/canale-piano, un passo alla volta</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4687"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4694"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Riproduci/metti in pausa il beat/bassline selezionato (Spazio)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4689"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4696"/>
         <source>Edit actions</source>
         <translation>Modalità di modifica</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4693"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4700"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Modalità disegno (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4694"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4701"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Modalità cancella (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4695"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4702"/>
         <source>Select mode (Shift+S)</source>
         <translation>Modalità selezione (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4696"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4703"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Modalità intonazione (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4707"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4718"/>
         <source>Quantize</source>
         <translation>Quantizza</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4718"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4719"/>
+        <source>Quantize positions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4720"/>
+        <source>Quantize lengths</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4740"/>
         <source>Copy paste controls</source>
         <translation>Controlli di copia-incolla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4721"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4743"/>
         <source>Cut (%1+X)</source>
         <translation>Taglia (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4746"/>
         <source>Copy (%1+C)</source>
         <translation>Copia (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
         <source>Paste (%1+V)</source>
         <translation>Incolla (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4742"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Timeline controls</source>
         <translation>Controlla griglia</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4773"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4778"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4768"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4790"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4771"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4793"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4808"/>
         <source>Zoom and note controls</source>
         <translation>Controlli di zoom e note</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4794"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4816"/>
         <source>Horizontal zooming</source>
         <translation>Zoom orizzontale</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4802"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
         <source>Vertical zooming</source>
         <translation>Zoom verticale</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
         <source>Quantization</source>
         <translation>Quantizzazione</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4820"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4842"/>
         <source>Note length</source>
         <translation>Lunghezza nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4835"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4857"/>
         <source>Scale</source>
         <translation>Scala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4844"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4866"/>
         <source>Chord</source>
         <translation>Accordo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4875"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4880"/>
         <source>Clear ghost notes</source>
         <translation>Cancella note fantasma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4967"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5138"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4989"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5160"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano-Roll - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4973"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5142"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4995"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5164"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Piano-Roll - nessun pattern</translation>
     </message>
@@ -13167,93 +13190,93 @@ Assicurarsi di avere i permessi in lettura per il file e per la directory che lo
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="657"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="647"/>
         <source>Current position</source>
         <translation>Posizione attuale</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="665"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="655"/>
         <source>Current length</source>
         <translation>Lunghezza attuale</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="666"/>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="918"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="656"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="908"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (da %3:%4 a %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="685"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="675"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>Premere &lt;%1&gt;, cliccare e trascinare per copiare.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="686"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="676"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>Premere &lt;%1&gt; per ridimensionare liberamente.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="687"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="677"/>
         <source>Hint</source>
         <translation>Suggerimento</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1017"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1007"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Elimina (tasto centrale del mouse)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1018"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1008"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1026"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1016"/>
         <source>Cut</source>
         <translation>Taglia</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1027"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1017"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1034"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1024"/>
         <source>Merge Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1043"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1033"/>
         <source>Copy</source>
         <translation>Copia</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1044"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1034"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1049"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1039"/>
         <source>Paste</source>
         <translation>Incolla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1057"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1047"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Attiva/disattiva la modalità muta (&lt;%1&gt; + tasto centrale)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1058"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1048"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1064"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1054"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1066"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1056"/>
         <source>Use track color</source>
         <translation type="unfinished"/>
     </message>

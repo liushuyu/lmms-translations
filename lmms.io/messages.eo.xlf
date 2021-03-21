@@ -1,105 +1,109 @@
 <?xml version="1.0" ?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file datatype="plaintext" original="file.ext" source-language="en" target-language="fi">
+  <file datatype="plaintext" original="file.ext" source-language="en" target-language="eo">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
       <trans-unit id="1ur_gjW" resname="Download">
         <source>Download</source>
-        <target>Lataa</target>
+        <target>Elŝuti.</target>
         
       </trans-unit>
       <trans-unit id="Tdd9OuD" resname="Get Involved">
         <source>Get Involved</source>
-        <target>Osallistu</target>
+        <target>Partoprenu al ĉi tiu projekto.</target>
         
       </trans-unit>
       <trans-unit id="wgWSTeD" resname="Documentation">
         <source>Documentation</source>
-        <target>Dokumentaatio</target>
+        <target>Dokumentado.</target>
         
       </trans-unit>
       <trans-unit id="evAjxDA" resname="Docs">
         <source>Docs</source>
-        <target>Dokumentaatio</target>
+        <target>Dokumentoj.</target>
         
       </trans-unit>
       <trans-unit id="Tae9Qqu" resname="Forum">
         <source>Forum</source>
-        <target>Foorumi</target>
+        <target>Forumo.</target>
         
       </trans-unit>
       <trans-unit id="yHBYjoP" resname="Sharing Platform">
         <source>Sharing Platform</source>
-        <target>Jakamisalusta</target>
+        <target>Kunhaviga platformo.</target>
         
       </trans-unit>
       <trans-unit id="KYh6X.m" resname="Share">
         <source>Share</source>
-        <target>Jaa</target>
+        <target>Konigi.</target>
         
       </trans-unit>
       <trans-unit id="1H18sOT" resname="More">
         <source>More</source>
-        <target>Lisää</target>
+        <target>Vidi pli.</target>
         
       </trans-unit>
       <trans-unit id="mhXcnGL" resname="Showcase">
         <source>Showcase</source>
-        <target>Näyteikkuna</target>
+        <target>Montrofenestro.</target>
         
       </trans-unit>
       <trans-unit id="uCmXDvQ" resname="Competitions">
         <source>Competitions</source>
-        <target>Kilpailut</target>
+        <target>Konkursoj.</target>
         
       </trans-unit>
       <trans-unit id="1BeqFto" resname="Branding">
         <source>Branding</source>
-        <target>Brändäys</target>
         
       </trans-unit>
       <trans-unit id="H2zLuBd" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
         <source>We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</source>
+        <target>Pardonu!. io misfunkcigis dum preni la plej novan eldoninformon. Vi ankoraŭ povas elŝuti eldonojn sur
+GitHubo</target>
         
       </trans-unit>
       <trans-unit id="f.UFHnN" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 	Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>Lmmso enkloditas en la plej multaj deponejoj.
+Bonvole Kontaktu nin se via distribuo ne estas listita ĉi tie.</target>
         
       </trans-unit>
       <trans-unit id="LO1QDjg" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
         <source>For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.</source>
+        <target>Alklaku la botonon por instali Lmmson sur debianajn bazitajn distribuojn kiel Debiano, Ubuntuo aŭ Linukso mini, alklaku la suban botonon.</target>
         
       </trans-unit>
       <trans-unit id="G4TfEor" resname="Install LMMS now">
         <source>Install LMMS now</source>
-        <target>Asenna LMMS nyt</target>
+        <target>Instali Lmmson nun.</target>
         
       </trans-unit>
       <trans-unit id="UQygByz" resname="From your package manager">
         <source>From your package manager</source>
-        <target>Paketinhallinnastasi</target>
+        <target>El via paka administrado.</target>
         
       </trans-unit>
       <trans-unit id="EOXdih0" resname="If this doesn't work for you, run this command in a terminal.">
         <source>If this doesn't work for you, run this command in a terminal.</source>
-        <target>Jos ylläoleva nappi ei toimi, voit myös käyttää paketinhallintaa terminaalista käsin.</target>
+        <target>Se ĝi ne funkcias por vi, rulu ĉi tiun komandon en terminalo.</target>
         
       </trans-unit>
       <trans-unit id="unby17C" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
         <source>If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.</source>
-        <target>Jos distrosi repot tarjoavat vain vanhoja versioita, voit myös kokeilla käyttää &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudion repoa.&lt;/a&gt;</target>
+        <target>Se la tradiciaj deponejoj postrestas pri versioj, provu la &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;deponejon KXStudio&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="jHa21vl" resname="VST Support">
         <source>VST Support</source>
-        <target>VST-tuki</target>
+        <target>Vst subteno.</target>
         
       </trans-unit>
       <trans-unit id="PN0uK90" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
         <source>If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.</source>
-        <target>Jos distrosi tarjoaa VST-tuen (tarvitsee Wine:ä), tarjotaan se usein erillisessä paketissa, Esimerkiksi &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudion repoa käyttäen&lt;/a&gt;, suorita seuraava komento.</target>
+        <target>Se via distribuo ofertas vstsubtenon (postulas la instaladon de Wineo). Ĝi ĝenerale ofertitas en separata pakaĵo. Eksample, uzante la&lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt; Kxstudio deponejo&lt;/a&gt;. Rulu ĉi tiun komandon en terminalo.</target>
         
       </trans-unit>
       <trans-unit id="f.eEeY2" resname="Run the following command as root in a terminal:">
@@ -108,91 +112,112 @@
       </trans-unit>
       <trans-unit id="z9xAq9s" resname="Run the following command in a terminal:">
         <source>Run the following command in a terminal:</source>
+        <target>Rolu la sekvanta komando en terminalo.</target>
         
       </trans-unit>
       <trans-unit id="eJUdOr0" resname="For VST support, please install wine or wine-staging from the repository">
         <source>For VST support, please install wine or wine-staging from the repository</source>
+        <target>Por vstsubteno, bonvole instalu Wineon aŭ Winestagingon el la deponejo.</target>
         
       </trans-unit>
       <trans-unit id=".uMu3cY" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
         <source>AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.</source>
+        <target>AOSC OS liveras Lmmson al diversaj arkitekturaj havenoj (Amd64/x86_64, Armv7 kaj pliaj en la futuro).</target>
         
       </trans-unit>
       <trans-unit id="H1vkGQS" resname="To install LMMS on AOSC OS with PackageKit (recommended):">
         <source>To install LMMS on AOSC OS with PackageKit (recommended):</source>
+        <target>Instali Lmmson sur AOSC Oson per pakaro. (rekomendita)</target>
         
       </trans-unit>
       <trans-unit id="i6lvwc6" resname="To install LMMS on AOSC OS with DPKG:">
         <source>To install LMMS on AOSC OS with DPKG:</source>
+        <target>Instali Lmmson sur AOSC OSon per DPKGo.</target>
         
       </trans-unit>
       <trans-unit id="4ya_6rI" resname="Build LMMS from source">
         <source>Build LMMS from source</source>
+        <target>Konstri Lmmson el fonto.</target>
         
       </trans-unit>
       <trans-unit id="D9BgqO1" resname="If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.">
         <source>If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.</source>
+        <target>Se via linuksa distribuo ne provizas lmmsopakon (aŭ nur malmodernan pakon). Vi ankoraŭ povas konstri Lmmson el fonto. Vizitu la lmmsdisvolviĝan wikipedion sur Githubo por instrukcioj kiel kompili Lmmson por Linukso.</target>
         
       </trans-unit>
       <trans-unit id="IAenq0c" resname="Download LMMS">
         <source>Download LMMS</source>
+        <target>Elŝuti Lmmson.</target>
         
       </trans-unit>
       <trans-unit id="618mGB6" resname="Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:">
         <source>Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:</source>
+        <target>Elŝutado kaj uzado senpagas. Elektu sistemon por surinstali.</target>
         
       </trans-unit>
       <trans-unit id="PmTQgHE" resname="Install LMMS on Linux">
         <source>Install LMMS on Linux</source>
-        <target>Asenna LMMS Linuxilla</target>
+        <target>Instali Lmmson sur Linukson.</target>
         
       </trans-unit>
       <trans-unit id="I.sR1nc" resname="Click one of the buttons below to download LMMS for Linux.">
         <source>Click one of the buttons below to download LMMS for Linux.</source>
+        <target>Alklaku unu el la subajn botonojn por instali Lmmson sur Linukson.</target>
         
       </trans-unit>
       <trans-unit id="ovu1A1m" resname="Stable Versions">
         <source>Stable Versions</source>
+        <target>Stabila versio.</target>
         
       </trans-unit>
       <trans-unit id="GUjytCK" resname="Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running">
         <source>Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running</source>
+        <target>Rulu &lt;code&gt;Chmod rx &quot;/Downloads/*.Applmage&lt;/code&gt;por agordi la&lt;code&gt;.Applmage&lt;/code&gt;plenumeblon antaŭ ruliĝi.</target>
         
       </trans-unit>
       <trans-unit id="A8g9Yp6" resname="Beta Versions">
         <source>Beta Versions</source>
+        <target>Betaj versioj.</target>
         
       </trans-unit>
       <trans-unit id="LL6EZV6" resname="Other options">
         <source>Other options</source>
+        <target>Aliaj opcioj.</target>
         
       </trans-unit>
       <trans-unit id="0kZzFXf" resname="Install LMMS on Windows">
         <source>Install LMMS on Windows</source>
+        <target>Instali Lmmson sur Vindozon.</target>
         
       </trans-unit>
       <trans-unit id="yAy2ARB" resname="Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows">
         <source>Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows</source>
+        <target>Alklaku unu el la subajn botonojn (por elŝuti 32bit aŭ 64 bit version de Lmmso sur vindozon. </target>
         
       </trans-unit>
       <trans-unit id="in50er8" resname="Install LMMS on macOS">
         <source>Install LMMS on macOS</source>
+        <target>Instali Lmmson sur MacOSon.</target>
         
       </trans-unit>
       <trans-unit id="6saYqj7" resname="Click one of the buttons below to download LMMS for macOS">
         <source>Click one of the buttons below to download LMMS for macOS</source>
+        <target>Alklaku unu el la subajn botonojn por instali Lmmson sur MacOSon.</target>
         
       </trans-unit>
       <trans-unit id="QNAnU4Y" resname="Downloads labeled Beta are pre-release software, stability may suffer.">
         <source>Downloads labeled Beta are pre-release software, stability may suffer.</source>
+        <target>Elŝutoj kiuj edikedas kiel beta estas antaŭeldonprogramoj, stabileco povus suferi.</target>
         
       </trans-unit>
       <trans-unit id="VA2zwSI" resname="Previous releases">
         <source>Previous releases</source>
+        <target>Antaŭaj eldonoj.</target>
         
       </trans-unit>
       <trans-unit id="NkbaYUi" resname="Show release notes">
         <source>Show release notes</source>
+        <target>Montri notoj de eldonoj.</target>
         
       </trans-unit>
       <trans-unit id="qcNxvc6" resname="LMMS is a free, open-source software built entirely by a small number of&#10;&#9;volunteers in their free time. But to keep the project going, we need this&#10;&#9;number to grow. So if you feel like giving something back to the community,&#10;&#9;join us in making LMMS better!">
@@ -200,24 +225,29 @@
 	volunteers in their free time. But to keep the project going, we need this
 	number to grow. So if you feel like giving something back to the community,
 	join us in making LMMS better!</source>
+        <target>Lmmso estas malfermfontecprogramo kiuj estas kreiita de malmulto da volontuloj en ilia libera tempo. Sed por daŭrigi  ĉi tiun projekton, ni bezonas pli da volontulojn. Do se vi volas redoni ion al la komunumo, helpu nin plibonigi Lmmson.</target>
         
       </trans-unit>
       <trans-unit id="9CFIxXY" resname="What you can do">
         <source>What you can do</source>
+        <target>Kion vi povas fari.</target>
         
       </trans-unit>
       <trans-unit id="0Y_zD6N" resname="There are multiple ways of contributing:">
         <source>There are multiple ways of contributing:</source>
+        <target>Tie ekzistas multaj ebloj por partopreni.</target>
         
       </trans-unit>
       <trans-unit id="gnURxlL" resname="Join Development">
         <source>Join Development</source>
+        <target>aliĝi disvolviĝo.</target>
         
       </trans-unit>
       <trans-unit id="1Nlx.3k" resname="We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt&#10;&#9;&#9;&#9;&#9;&#9;   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with&#10;&#9;&#9;&#9;&#9;&#9;   coding!">
         <source>We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt
 					   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with
 					   coding!</source>
+        <target>Ni senespere bezonas novajn disvolviĝistojn por eniriĝi al nia teamo. Lmmso estas programita de C++ uzante la Qt kadro. Do se vi scias ion pri ĉi tuj aferoj tiam komencu programi!.</target>
         
       </trans-unit>
       <trans-unit id="YIACglk" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
@@ -225,6 +255,7 @@
 					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place
 					   to introduce yourself.</source>
+        <target>Vidu nian&lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHubvikipedion kaj nian&lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt; erarosekviston&lt;/a&gt; por komenciĝi. Pli plue, La lmmsa dissendlisto&lt;/a&gt;estas bona loko por enkonduki vin.</target>
         
       </trans-unit>
       <trans-unit id="FSzxUcg" resname="Website &amp; Docs">
@@ -235,29 +266,35 @@
         <source>You can help us by improving this website or documenting the software. The website sources are in our
 					   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a
 					   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.</source>
+        <target>Vi povas helpi nin plibonigi ĉi tiun retejon aŭ dokumenti la programon. La retejfontoj estas en nia Githubdeponejo&lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;Lmms/lmms.io&lt;/a&gt;, nia dokumentado estas gastigita uzi &lt;a href=&quot;//lmms.io/wiki&quot;&gt;mediavikipedioinstancon&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="mxP7dw_" resname="Public registration on our Wiki is disabled due to spam issues. Please post to the&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're&#10;&#9;&#9;&#9;&#9;&#9;   interested in helping out with the documentation!">
         <source>Public registration on our Wiki is disabled due to spam issues. Please post to the
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're
 					   interested in helping out with the documentation!</source>
+        <target>Publikaj aliĝoj al nia Githubvikipedio ne validas pro spam-problemoj. Bonvole afiŝu al nia &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;dissendlisto&lt;/a&gt;se vi volas helpi nin dokumenti.</target>
         
       </trans-unit>
       <trans-unit id="yR7g8nm" resname="Donate">
         <source>Donate</source>
+        <target>Doni.</target>
         
       </trans-unit>
       <trans-unit id="LUNpyrn" resname="Even though donations are not the thing we need the most (that'd be developers), they help us pay&#10;&#9;&#9;&#9;&#9;&#9;   our bills, for our domain lmms.io for instance.">
         <source>Even though donations are not the thing we need the most (that'd be developers), they help us pay
 					   our bills, for our domain lmms.io for instance.</source>
+        <target>Kvankam donacojn ne estas la nuraj, kiujn ni plej bezonas. (tio estus la disvolviĝistoj) ili helpas nin pagi niajn fakturojn por la domajno lmms.io.</target>
         
       </trans-unit>
       <trans-unit id="7yTl1LS" resname="Donate via PayPal">
         <source>Donate via PayPal</source>
+        <target>Doni per Pejpalo.</target>
         
       </trans-unit>
       <trans-unit id="JmpBuQ1" resname="Translations">
         <source>Translations</source>
+        <target>Tradukoj.</target>
         
       </trans-unit>
       <trans-unit id="ODMpVkq" resname="If your language is missing in LMMS, help the project and other users speaking the same language by&#10;&#9;&#9;&#9;&#9;&#9;   translating the software. You can find instructions on the page&#10;&#9;&#9;&#9;&#9;&#9;   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub Wiki.">
@@ -265,73 +302,93 @@
 					   translating the software. You can find instructions on the page
 					   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our
 					   GitHub Wiki.</source>
+        <target>Se via lingvo ne listitas en Lmmso, helpu ĉi tiun projekton kaj aliajn uzantojn  tradukigi la programon kaj la retejon.
+Vi povas trovi instrukciojn sur la retejo. &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Kreii lokalizon&lt;/a&gt;&quot; en nia GitHubvikipedio.</target>
         
       </trans-unit>
       <trans-unit id="u6Bz942" resname="How to get in touch">
         <source>How to get in touch</source>
+        <target>Kiel kontakti.</target>
         
       </trans-unit>
       <trans-unit id="nSgPM_a" resname="Mailing List">
         <source>Mailing List</source>
+        <target>Dissendlisto.</target>
         
       </trans-unit>
       <trans-unit id="6PT.eyE" resname="Posting to the mailing list is the best way to reach out to our developers:">
         <source>Posting to the mailing list is the best way to reach out to our developers:</source>
+        <target>Afiŝi sur la dissendliston estas la plej bona eblo por atingi niajn disvolviĝistojn:</target>
         
       </trans-unit>
       <trans-unit id="vTqq2U0" resname="Subscribe to LMMS-Devel mailing list">
         <source>Subscribe to LMMS-Devel mailing list</source>
+        <target>Subskribu al la lmmsa disvolviĝodissendlisto.</target>
         
       </trans-unit>
       <trans-unit id="iSQeC4T" resname="Our IRC channel is &lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt; on&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;https://freenode.net&quot;&gt;Freenode&lt;/a&gt;.">
         <source>Our IRC channel is &lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt; on
 					&lt;a href=&quot;https://freenode.net&quot;&gt;Freenode&lt;/a&gt;.</source>
+        <target>Nia IRC kanalo estas&lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt;sur 
+&lt;a href=&quot;https://freenode.net&quot;&gt;Freenodeo.&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="nzuqhLv" resname="&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;is a more modern alternative to IRC. Join our server &#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.">
         <source>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
 					is a more modern alternative to IRC. Join our server 
 					&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.</source>
+        <target>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Diskorto&lt;/a&gt; estas pli moderna alternativo ol  IRCo. Aliĝu al nia servilo &lt;a href=&quot;/chat/&quot;&gt;per alklaki ĉi tie&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="vgrQxiN" resname="We host a forum for our users here on this website:">
         <source>We host a forum for our users here on this website:</source>
+        <target>Ni gastigas forumon sur ĉi tiu retejo.</target>
         
       </trans-unit>
       <trans-unit id="P3vlK3." resname="For reporting a bug or suggesting a new feature, please use the GitHub issue tracker:">
         <source>For reporting a bug or suggesting a new feature, please use the GitHub issue tracker:</source>
+        <target>Por reporti eraron aŭ sugesti novan trajton, bonvole uzu
+la GitHuberarosekviston.</target>
         
       </trans-unit>
       <trans-unit id="TWZRGVx" resname="Let's make music">
         <source>Let's make music</source>
+        <target>Kreiu ni muzikon.</target>
         
       </trans-unit>
       <trans-unit id="Jo.VN3p" resname="with a free, cross-platform tool for your computer.">
         <source>with a free, cross-platform tool for your computer.</source>
+        <target>Kun senpaga transversplatforma ilo por via komputilo.</target>
         
       </trans-unit>
       <trans-unit id="ADl38LV" resname="Download now">
         <source>Download now</source>
+        <target>Nun elŝutu.</target>
         
       </trans-unit>
       <trans-unit id="LLpAwlQ" resname="Get involved">
         <source>Get involved</source>
+        <target>Partoprenu al ĉi tiu projekto.</target>
         
       </trans-unit>
       <trans-unit id="zDYCQUA" resname="Making beats has never been easier.">
         <source>Making beats has never been easier.</source>
+        <target>Kreii muzikon neniam pli simplis ol nun.</target>
         
       </trans-unit>
       <trans-unit id="HXvrE6h" resname="Produce music with your computer">
         <source>Produce music with your computer</source>
+        <target>Kreiu muzikon per via komputilo.</target>
         
       </trans-unit>
       <trans-unit id="8k_3.h_" resname="by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.">
         <source>by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.</source>
+        <target>Per kreii melodiojn kaj taktojn, sintezi kaj miksi sonaĵojn, aranĝi muzikospecimenaĵojn kaj plu.</target>
         
       </trans-unit>
       <trans-unit id="1ANtx56" resname="Playback instruments, samples and plugins">
         <source>Playback instruments, samples and plugins</source>
+        <target>Reproduktaj instromentoj, muzikospecimenaĵoj kaj kromprogramaĵoj.</target>
         
       </trans-unit>
       <trans-unit id="c_9n6oH" resname="with a typing or MIDI keyboard in a user-friendly and modern interface.">
@@ -348,34 +405,37 @@
       </trans-unit>
       <trans-unit id="rELUYJ6" resname="Made by musicians, for musicians.">
         <source>Made by musicians, for musicians.</source>
+        <target>Farita de muzikistoj por muzikistoj.</target>
         
       </trans-unit>
       <trans-unit id="ZG2n1Jx" resname="Download for Linux">
         <source>Download for Linux</source>
-        <target>Lataa Linuxille</target>
+        <target>Elŝuti por Linukso.</target>
         
       </trans-unit>
       <trans-unit id="Yur47Wq" resname="Download for Windows">
         <source>Download for Windows</source>
-        <target>Lataa Windows:sille</target>
+        <target>Elŝuti por Vindozo.</target>
         
       </trans-unit>
       <trans-unit id="WRDAWeq" resname="Download for macOS">
         <source>Download for macOS</source>
-        <target>Lataa macOS:sälle</target>
+        <target>Elŝuti por MacOSo.</target>
         
       </trans-unit>
       <trans-unit id="QBixtUo" resname="Pick your flavor.">
         <source>Pick your flavor.</source>
-        <target>Valitse makusi mukaan.</target>
+        <target>Elektu vian favoritan.</target>
         
       </trans-unit>
       <trans-unit id="CaD6ze3" resname="Linux, Windows or macOS.">
         <source>Linux, Windows or macOS.</source>
+        <target>Linukso, Vindozo aŭ MacOSo.</target>
         
       </trans-unit>
       <trans-unit id="vEX6OG8" resname="Houston, we have a problem.">
         <source>Houston, we have a problem.</source>
+        <target>Houstono! ni havas problemon.</target>
         
       </trans-unit>
       <trans-unit id="J5pmILO" resname="Stand by, we got you covered.">
@@ -384,23 +444,27 @@
       </trans-unit>
       <trans-unit id="3vJMQyC" resname="Visit our forum">
         <source>Visit our forum</source>
+        <target>Vizitu nian forumon.</target>
         
       </trans-unit>
       <trans-unit id="AgpMP6c" resname="Visit our Facebook page">
         <source>Visit our Facebook page</source>
+        <target>Vizitu nian fejsbukopaĝon.</target>
         
       </trans-unit>
       <trans-unit id="60mvs3d" resname="Chat now on Discord">
         <source>Chat now on Discord</source>
+        <target>Babilu nun sur Diskorto.</target>
         
       </trans-unit>
       <trans-unit id="p1CbBjh" resname="Visit our GitHub page">
         <source>Visit our GitHub page</source>
+        <target>Vizitu nian GitHubopaĝon.</target>
         
       </trans-unit>
       <trans-unit id="Q.2pUhd" resname="Ask your questions here">
         <source>Ask your questions here</source>
-        <target>Kysy kysymyksesi täällä</target>
+        <target>Demandu viajn demandojn ĉi tie.</target>
         
       </trans-unit>
       <trans-unit id="G0SNPhL" resname="and answer a few questions while you're waiting.">
@@ -429,7 +493,6 @@
       </trans-unit>
       <trans-unit id="e0XmaMu" resname="We &lt;3 open source.">
         <source>We &lt;3 open source.</source>
-        <target>Rakastamme avointa lähdekoodia ;)</target>
         
       </trans-unit>
       <trans-unit id="opjPraT" resname="Fork us on GitHub">

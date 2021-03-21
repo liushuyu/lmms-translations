@@ -2840,12 +2840,12 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="93"/>
         <source>Threshold:</source>
-        <translation type="unfinished"/>
+        <translation>Tröskel:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="95"/>
         <source>Volume at which the compression begins to take place</source>
-        <translation type="unfinished"/>
+        <translation>Volym vid vilken komprimeringen börjar äga rum</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="98"/>
@@ -2865,7 +2865,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="105"/>
         <source>Speed at which the compressor starts to compress the audio</source>
-        <translation type="unfinished"/>
+        <translation>Hastighet med vilken kompressorn börjar komprimera ljudet</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="108"/>
@@ -2875,7 +2875,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="110"/>
         <source>Speed at which the compressor ceases to compress the audio</source>
-        <translation type="unfinished"/>
+        <translation>Hastighet med vilken kompressorn slutar komprimera ljudet</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="113"/>
@@ -2920,17 +2920,17 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="133"/>
         <source>RMS Size:</source>
-        <translation type="unfinished"/>
+        <translation>RMS-storlek:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="135"/>
         <source>Size of the RMS buffer</source>
-        <translation type="unfinished"/>
+        <translation>Storlek på RMS-buffert</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="138"/>
         <source>Input Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Ingångsbalans:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="140"/>
@@ -2940,7 +2940,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="143"/>
         <source>Output Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Utgångsbalans:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="145"/>
@@ -2950,7 +2950,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="148"/>
         <source>Stereo Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Stereobalans:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="150"/>
@@ -2995,7 +2995,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="170"/>
         <source>Balance between wet and dry signals</source>
-        <translation type="unfinished"/>
+        <translation>Balans mellan våta och torra signaler</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="173"/>
@@ -3031,7 +3031,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="186"/>
         <source>Output volume</source>
-        <translation type="unfinished"/>
+        <translation>Utgångsvolym</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="188"/>
@@ -3041,7 +3041,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="192"/>
         <source>Input volume</source>
-        <translation type="unfinished"/>
+        <translation>Ingångsvolym</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="194"/>
@@ -3051,7 +3051,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="197"/>
         <source>Use RMS of the input</source>
-        <translation type="unfinished"/>
+        <translation>Använd ingångens RMS</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="199"/>
@@ -3061,17 +3061,17 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="202"/>
         <source>Use absolute value of the input</source>
-        <translation type="unfinished"/>
+        <translation>Använd ingångens absoluta värde</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="209"/>
         <source>Left/Right</source>
-        <translation type="unfinished"/>
+        <translation>Vänster/Höger</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="212"/>
         <source>Compress left and right audio</source>
-        <translation type="unfinished"/>
+        <translation>Komprimera vänster och höger ljud</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="214"/>
@@ -3081,37 +3081,37 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="217"/>
         <source>Compress mid and side audio</source>
-        <translation type="unfinished"/>
+        <translation>Komprimera mitt- och sidoljud</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="224"/>
         <source>Compressor</source>
-        <translation type="unfinished"/>
+        <translation>Kompressor</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="227"/>
         <source>Compress the audio</source>
-        <translation type="unfinished"/>
+        <translation>Komprimera ljudet</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="229"/>
         <source>Limiter</source>
-        <translation type="unfinished"/>
+        <translation>Begränsare</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="232"/>
         <source>Set Ratio to infinity (is not guaranteed to limit audio volume)</source>
-        <translation type="unfinished"/>
+        <translation>Ställ in förhållandet till oändlighet (garanteras inte att ljudvolymen begränsas)</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="239"/>
         <source>Unlinked</source>
-        <translation type="unfinished"/>
+        <translation>Olänkad</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="242"/>
         <source>Compress each channel separately</source>
-        <translation type="unfinished"/>
+        <translation>Komprimera varje kanal separat</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="244"/>
@@ -3121,12 +3121,12 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="247"/>
         <source>Compress based on the loudest channel</source>
-        <translation type="unfinished"/>
+        <translation>Komprimera baserat på den mest högljudda kanalen</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="249"/>
         <source>Average</source>
-        <translation type="unfinished"/>
+        <translation>Medel</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="252"/>
@@ -3141,7 +3141,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="257"/>
         <source>Compress based on the quietest channel</source>
-        <translation type="unfinished"/>
+        <translation>Komprimera baserat på den tystaste kanalen</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="259"/>
@@ -3172,12 +3172,12 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="282"/>
         <source>Play the delta signal</source>
-        <translation type="unfinished"/>
+        <translation>Spela deltasignalen</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="289"/>
         <source>Use the compressor&apos;s output as the sidechain input</source>
-        <translation type="unfinished"/>
+        <translation>Använd kompressorns utgång som sidokedjeingång</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="293"/>
@@ -3195,7 +3195,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="38"/>
         <source>Threshold</source>
-        <translation type="unfinished"/>
+        <translation>Tröskel</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="39"/>
@@ -3230,7 +3230,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="45"/>
         <source>RMS Size</source>
-        <translation type="unfinished"/>
+        <translation>RMS-storlek</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="46"/>
@@ -3250,17 +3250,17 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="49"/>
         <source>Input Balance</source>
-        <translation type="unfinished"/>
+        <translation>Ingångsbalans</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="50"/>
         <source>Output Balance</source>
-        <translation type="unfinished"/>
+        <translation>Utgångsbalans</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="51"/>
         <source>Limiter</source>
-        <translation type="unfinished"/>
+        <translation>Begränsare</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="52"/>
@@ -3280,7 +3280,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="55"/>
         <source>Stereo Balance</source>
-        <translation type="unfinished"/>
+        <translation>Stereobalans</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="56"/>
@@ -3325,7 +3325,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="64"/>
         <source>Stereo Link</source>
-        <translation type="unfinished"/>
+        <translation>Stereolänk</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="65"/>
@@ -7206,14 +7206,27 @@ Copyright (C) 2017 ROLI Ltd.</translation>
     </message>
 </context>
 <context>
-    <name>LcdSpinBox</name>
+    <name>LcdFloatSpinBox</name>
     <message>
-        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="170"/>
+        <location filename="../../src/gui/widgets/LcdFloatSpinBox.cpp" line="201"/>
         <source>Set value</source>
         <translation>Ställ in värde</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="171"/>
+        <location filename="../../src/gui/widgets/LcdFloatSpinBox.cpp" line="202"/>
+        <source>Please enter a new value between %1 and %2:</source>
+        <translation>Ange ett nytt värde mellan %1 och %2:</translation>
+    </message>
+</context>
+<context>
+    <name>LcdSpinBox</name>
+    <message>
+        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="163"/>
+        <source>Set value</source>
+        <translation>Ställ in värde</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="164"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Ange ett nytt värde mellan %1 och %2:</translation>
     </message>
@@ -10118,174 +10131,184 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4683"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4690"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Spela/pausa aktuellt mönster (mellanslag)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4684"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4691"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Spela in noter från MIDI-enhet/kanal-piano</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4685"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4692"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Spela in noter från MIDI-enhet/kanal-piano medan låt eller BB-spår spelas</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4686"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4693"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Spela in noter från MIDI-enhet/kanal-piano, ett steg i taget</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4687"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4694"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Sluta spela aktuellt mönster (mellanslag)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4689"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4696"/>
         <source>Edit actions</source>
         <translation>Redigera åtgärder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4693"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4700"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Ritläge (Skift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4694"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4701"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Suddläge (Skift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4695"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4702"/>
         <source>Select mode (Shift+S)</source>
         <translation>Markeringsläge (Skift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4696"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4703"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Tonhöjdsböjningsläge (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4707"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4718"/>
         <source>Quantize</source>
         <translation>Kvantisera</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4718"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4719"/>
+        <source>Quantize positions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4720"/>
+        <source>Quantize lengths</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4740"/>
         <source>Copy paste controls</source>
         <translation>Kopiera/klistra-kontroller</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4721"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4743"/>
         <source>Cut (%1+X)</source>
         <translation>Klipp ut (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4746"/>
         <source>Copy (%1+C)</source>
         <translation>Kopiera (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
         <source>Paste (%1+V)</source>
         <translation>Klistra in (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4742"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Timeline controls</source>
         <translation>Tidslinjekontroller</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4773"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4778"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4768"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4790"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4771"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4793"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4808"/>
         <source>Zoom and note controls</source>
         <translation>Zoom- och notkontroller</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4794"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4816"/>
         <source>Horizontal zooming</source>
         <translation>Horisontell zoomning</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4802"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
         <source>Vertical zooming</source>
         <translation>Vertikal zoomning</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
         <source>Quantization</source>
         <translation>Kvantisering</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4820"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4842"/>
         <source>Note length</source>
         <translation>Notlängd</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
         <source>Key</source>
         <translation>Skala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4835"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4857"/>
         <source>Scale</source>
         <translation>Skala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4844"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4866"/>
         <source>Chord</source>
         <translation>Ackord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4875"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4880"/>
         <source>Clear ghost notes</source>
         <translation>Rensa spöknoter</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4967"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5138"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4989"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5160"/>
         <source>Piano-Roll - %1</source>
         <translation>Pianorulle - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4973"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5142"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4995"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5164"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Pianorulle - inget mönster</translation>
     </message>
@@ -13445,93 +13468,93 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="657"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="647"/>
         <source>Current position</source>
         <translation>Aktuell position</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="665"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="655"/>
         <source>Current length</source>
         <translation>Aktuell längd</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="666"/>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="918"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="656"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="908"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 till %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="685"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="675"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>Håll nere &lt;%1&gt; och dra för att kopiera.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="686"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="676"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>Tryck på &lt;%1&gt; för att ändra storleken.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="687"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="677"/>
         <source>Hint</source>
         <translation>Ledtråd</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1017"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1007"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Ta bort (musens mitt-knapp)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1018"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1008"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation>Ta bort markering (mittenmusknapp)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1026"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1016"/>
         <source>Cut</source>
         <translation>Klipp ut</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1027"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1017"/>
         <source>Cut selection</source>
         <translation>Klipp ut markering</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1034"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1024"/>
         <source>Merge Selection</source>
         <translation>Sammanfoga merkering</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1043"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1033"/>
         <source>Copy</source>
         <translation>Kopiera</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1044"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1034"/>
         <source>Copy selection</source>
         <translation>Kopiera markering</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1049"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1039"/>
         <source>Paste</source>
         <translation>Klistra in</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1057"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1047"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Tysta/avtysta (&lt;%1&gt; + mittenklick)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1058"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1048"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation>Tysta/öppna markering (&lt;%1&gt; + mittenklick)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1064"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1054"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1066"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1056"/>
         <source>Use track color</source>
         <translation>Använd spårfärg</translation>
     </message>
