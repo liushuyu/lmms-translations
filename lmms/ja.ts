@@ -318,62 +318,62 @@ LMMSを他の言語に翻訳したり、翻訳を改善することに興味が�
 <context>
     <name>AutomatableModel</name>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="59"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="60"/>
         <source>&amp;Reset (%1%2)</source>
         <translation>リセット(&amp;R) (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="66"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="67"/>
         <source>&amp;Copy value (%1%2)</source>
         <translation>値をコピー(&amp;C) (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="74"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="75"/>
         <source>&amp;Paste value (%1%2)</source>
         <translation>値を貼り付け(&amp;P) (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="77"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="78"/>
         <source>&amp;Paste value</source>
         <translation>&amp;値を貼り付け</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="85"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="86"/>
         <source>Edit song-global automation</source>
         <translation>曲全体のオートメーションを編集</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="90"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="91"/>
         <source>Remove song-global automation</source>
         <translation>曲全体のオートメーションを削除</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="99"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="100"/>
         <source>Remove all linked controls</source>
         <translation>リンクされたコントロールを全て削除</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="110"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="111"/>
         <source>Connected to %1</source>
         <translation>%1 に接続済み</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="114"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="115"/>
         <source>Connected to controller</source>
         <translation>コントローラーに接続済み</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="120"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="121"/>
         <source>Edit connection...</source>
         <translation>接続を編集...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="123"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="124"/>
         <source>Remove connection</source>
         <translation>接続を削除</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="129"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="130"/>
         <source>Connect to controller...</source>
         <translation>コントローラーに接続...</translation>
     </message>
@@ -381,7 +381,22 @@ LMMSを他の言語に翻訳したり、翻訳を改善することに興味が�
 <context>
     <name>AutomationEditor</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1156"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="409"/>
+        <source>Edit Value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="411"/>
+        <source>New outValue</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="412"/>
+        <source>New inValue</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1228"/>
         <source>Please open an automation pattern with the context menu of a control!</source>
         <translation>コントロールのコンテキストメニューでオートメーションパターンを開いてください!</translation>
     </message>
@@ -389,114 +404,114 @@ LMMSを他の言語に翻訳したり、翻訳を改善することに興味が�
 <context>
     <name>AutomationEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1763"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1835"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>現在のパターンの再生/一時停止 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1765"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1837"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>現在のパターンの再生を停止 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1768"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1840"/>
         <source>Edit actions</source>
         <translation>編集機能</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1771"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1843"/>
         <source>Draw mode (Shift+D)</source>
         <translation>描画モード (shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1775"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1847"/>
         <source>Erase mode (Shift+E)</source>
         <translation>消去モード (shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1778"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1850"/>
         <source>Draw outValues mode (Shift+C)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1781"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1853"/>
         <source>Flip vertically</source>
         <translation>左右反転</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1782"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1854"/>
         <source>Flip horizontally</source>
         <translation>上下反転</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1793"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1865"/>
         <source>Interpolation controls</source>
         <translation>補間コントロール</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1798"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1870"/>
         <source>Discrete progression</source>
         <translation>離散</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1802"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1874"/>
         <source>Linear progression</source>
         <translation>線形補間</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1804"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1876"/>
         <source>Cubic Hermite progression</source>
         <translation>エルミート曲線</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1811"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1883"/>
         <source>Tension value for spline</source>
         <translation>スプラインのテンション値</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1820"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1892"/>
         <source>Tension: </source>
         <translation>テンション:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1828"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1900"/>
         <source>Zoom controls</source>
         <translation>ズーム コントロール</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1835"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1907"/>
         <source>Horizontal zooming</source>
         <translation>水平方向にズーム</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1854"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1926"/>
         <source>Vertical zooming</source>
         <translation>垂直方向にズーム</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1875"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1947"/>
         <source>Quantization controls</source>
         <translation>クオンタイゼーション コントロール</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1882"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1954"/>
         <source>Quantization</source>
         <translation>クオンタイズ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1918"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2035"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1990"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2107"/>
         <source>Automation Editor - no pattern</source>
         <translation>オートメーション エディター - パターンなし</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1922"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2039"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1994"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2111"/>
         <source>Automation Editor - %1</source>
         <translation>オートメーション エディター - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1976"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2048"/>
         <source>Model is already connected to this pattern.</source>
         <translation>モデルは、すでにこのパターンに接続されています。</translation>
     </message>
@@ -4916,16 +4931,21 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="40"/>
-        <source>Regen</source>
+        <source>Stereo phase</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="41"/>
+        <source>Regen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Flanger/FlangerControls.cpp" line="42"/>
         <source>Noise</source>
         <translation>ノイズ</translation>
     </message>
     <message>
-        <location filename="../../plugins/Flanger/FlangerControls.cpp" line="42"/>
+        <location filename="../../plugins/Flanger/FlangerControls.cpp" line="43"/>
         <source>Invert</source>
         <translation>反転</translation>
     </message>
@@ -4964,26 +4984,36 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="68"/>
+        <source>PHASE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="69"/>
+        <source>Phase:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="75"/>
         <source>FDBK</source>
         <translation>フィードバック</translation>
     </message>
     <message>
-        <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="69"/>
+        <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="76"/>
         <source>Feedback amount:</source>
         <translation>フィードバック 量 :</translation>
     </message>
     <message>
-        <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="75"/>
+        <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="82"/>
         <source>NOISE</source>
         <translation>ノイズ</translation>
     </message>
     <message>
-        <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="76"/>
+        <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="83"/>
         <source>White noise amount:</source>
         <translation>ホワイトノイズ 量 :</translation>
     </message>
     <message>
-        <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="78"/>
+        <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="85"/>
         <source>Invert</source>
         <translation>反転</translation>
     </message>
@@ -9722,118 +9752,118 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="214"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="216"/>
         <source>Note Velocity</source>
         <translation>ノートのベロシティー</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="215"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="217"/>
         <source>Note Panning</source>
         <translation>ノートのパン</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="228"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="230"/>
         <source>Mark/unmark current semitone</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="229"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="231"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="230"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="232"/>
         <source>Mark current scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="231"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="233"/>
         <source>Mark current chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="232"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="234"/>
         <source>Unmark all</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="233"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="235"/>
         <source>Select all notes on this key</source>
         <translation>このキーのすべてのノートを選択</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="351"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="353"/>
         <source>Note lock</source>
         <translation>ノートロック</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="361"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="363"/>
         <source>Last note</source>
         <translation>最後に使用したノート</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="385"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="387"/>
         <source>No key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="395"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="397"/>
         <source>No scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="412"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="414"/>
         <source>No chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="442"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="444"/>
         <source>Nudge</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="443"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="445"/>
         <source>Snap</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="481"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="483"/>
         <source>Velocity: %1%</source>
         <translation>音量: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="490"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="492"/>
         <source>Panning: %1% left</source>
         <translation>パニング: %1%左</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="494"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="496"/>
         <source>Panning: %1% right</source>
         <translation>パニング: %1%右</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="498"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="500"/>
         <source>Panning: center</source>
         <translation>パニング: 中央</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="670"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="672"/>
         <source>Glue notes failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="671"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="673"/>
         <source>Please select notes to glue first.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3581"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3583"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>パターン上でダブルクリックして、パターンを開いてください!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4218"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4237"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4220"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4239"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>%1 と %2 の間の新しい値を入力してください:</translation>
     </message>
@@ -9841,186 +9871,243 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4690"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4692"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>現在のパターンの再生/一時停止 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4691"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4693"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>MIDIデバイス/チャンネルピアノからノートを録音する</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4692"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4694"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>再生しながらMIDIデバイス/チャンネルピアノからノートを録音する</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4693"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4695"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4694"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4696"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>現在のパターンの再生を停止 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4696"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4698"/>
         <source>Edit actions</source>
         <translation>編集機能</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4700"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4702"/>
         <source>Draw mode (Shift+D)</source>
         <translation>描画モード (shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4701"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4703"/>
         <source>Erase mode (Shift+E)</source>
         <translation>消去モード (shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4702"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4704"/>
         <source>Select mode (Shift+S)</source>
         <translation>選択モード (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4703"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4705"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4718"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4720"/>
         <source>Quantize</source>
         <translation>クオンタイズ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4719"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4721"/>
         <source>Quantize positions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4720"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4722"/>
         <source>Quantize lengths</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4740"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4742"/>
+        <source>File actions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
+        <source>Import pattern</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5210"/>
+        <source>Export pattern</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
         <source>Copy paste controls</source>
         <translation>コントロールを貼り付け</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4743"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4768"/>
         <source>Cut (%1+X)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4746"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4771"/>
         <source>Copy (%1+C)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4774"/>
         <source>Paste (%1+V)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4789"/>
         <source>Timeline controls</source>
         <translation>タイムラインコントロール</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4773"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4798"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4778"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4807"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4790"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4815"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4793"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4818"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4808"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
         <source>Zoom and note controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4816"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4841"/>
         <source>Horizontal zooming</source>
         <translation>水平方向にズーム</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4849"/>
         <source>Vertical zooming</source>
         <translation>垂直方向にズーム</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
         <source>Quantization</source>
         <translation>クオンタイズ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4842"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4867"/>
         <source>Note length</source>
         <translation>ノートの長さ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4873"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4857"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4882"/>
         <source>Scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4866"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4891"/>
         <source>Chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4875"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4900"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4880"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4905"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4989"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5160"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5014"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5187"/>
         <source>Piano-Roll - %1</source>
         <translation>ピアノロール - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4995"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5164"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5021"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5192"/>
         <source>Piano-Roll - no pattern</source>
         <translation>ピアノロール - パターン無し</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5211"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5258"/>
+        <source>XML pattern file (*.xpt *.xptz)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5231"/>
+        <source>Export pattern success</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5232"/>
+        <source>Pattern saved to %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5247"/>
+        <source>Import pattern.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5248"/>
+        <source>You are about to import a pattern, this will overwrite your current pattern. Do you want to continue?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5257"/>
+        <source>Open pattern</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5277"/>
+        <source>Import pattern success</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5278"/>
+        <source>Imported pattern %1!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12635,17 +12722,17 @@ Latency: %2 ms</source>
         <translation>主ピッチ</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1136"/>
+        <location filename="../../src/core/Song.cpp" line="1156"/>
         <source>LMMS Error report</source>
         <translation>LMMS エラー報告</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1390"/>
+        <location filename="../../src/core/Song.cpp" line="1410"/>
         <source> (repeated %1 times)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1397"/>
+        <location filename="../../src/core/Song.cpp" line="1417"/>
         <source>The following errors occurred while loading: </source>
         <translation type="unfinished"/>
     </message>
@@ -12653,54 +12740,54 @@ Latency: %2 ms</source>
 <context>
     <name>SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="130"/>
+        <location filename="../../src/core/DataFile.cpp" line="131"/>
         <source>Could not open file</source>
         <translation>ファイルを開くことができませんでした</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="131"/>
+        <location filename="../../src/core/DataFile.cpp" line="132"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation> ファイルを読み込む権限がないため %1 を開くことができませんでした。
 ファイルを読み込みむ権限を付与してから再試行して下さい。</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="280"/>
+        <location filename="../../src/core/DataFile.cpp" line="287"/>
         <source>Could not write file</source>
         <translation>ファイルに書き込むことができませんでした</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="281"/>
+        <location filename="../../src/core/DataFile.cpp" line="288"/>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
         <translation>書き込み権限がないためファイルを開くことができません %1 。書き込み権限を追加してから再読み込みしてください。</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1475"/>
+        <location filename="../../src/core/DataFile.cpp" line="1483"/>
         <source>Error in file</source>
         <translation>ファイルエラー</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1476"/>
+        <location filename="../../src/core/DataFile.cpp" line="1484"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>ファイル %1 はエラーを含んでいるようで、読み込めません。</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1519"/>
+        <location filename="../../src/core/DataFile.cpp" line="1527"/>
         <source>Version difference</source>
         <translation>バージョンの相違</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1520"/>
+        <location filename="../../src/core/DataFile.cpp" line="1528"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1516"/>
+        <location filename="../../src/core/DataFile.cpp" line="1524"/>
         <source>template</source>
         <translation>テンプレート</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1516"/>
+        <location filename="../../src/core/DataFile.cpp" line="1524"/>
         <source>project</source>
         <translation>プロジェクト</translation>
     </message>
