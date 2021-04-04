@@ -383,17 +383,17 @@ Om du är intresserad av att översätta LMMS till ett annat språk eller vill f
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="409"/>
         <source>Edit Value</source>
-        <translation type="unfinished"/>
+        <translation>Redigera värde</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="411"/>
         <source>New outValue</source>
-        <translation type="unfinished"/>
+        <translation>Ny outValue</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="412"/>
         <source>New inValue</source>
-        <translation type="unfinished"/>
+        <translation>Ny inValue</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1228"/>
@@ -519,7 +519,7 @@ Om du är intresserad av att översätta LMMS till ett annat språk eller vill f
 <context>
     <name>AutomationPattern</name>
     <message>
-        <location filename="../../src/core/AutomationPattern.cpp" line="865"/>
+        <location filename="../../src/core/AutomationPattern.cpp" line="867"/>
         <source>Drag a control while pressing &lt;%1&gt;</source>
         <translation>Dra en kontroll samtidigt som du håller &lt;%1&gt;</translation>
     </message>
@@ -5214,7 +5214,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="40"/>
         <source>Stereo phase</source>
-        <translation type="unfinished"/>
+        <translation>Stereofas</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="41"/>
@@ -5267,12 +5267,12 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="68"/>
         <source>PHASE</source>
-        <translation type="unfinished"/>
+        <translation>FAS</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="69"/>
         <source>Phase:</source>
-        <translation type="unfinished"/>
+        <translation>Fas:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="75"/>
@@ -7484,34 +7484,34 @@ Please make sure you have write permission to the file and the directory contain
 Se till att du har skrivbehörighet till filen och mappen som innehåller filen och försök igen!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="849"/>
+        <location filename="../../src/core/main.cpp" line="874"/>
         <source>Project recovery</source>
         <translation>Projektåterställning</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="864"/>
+        <location filename="../../src/core/main.cpp" line="889"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>Det finns en återställningsfil tillgänglig. Det verkar som om programmet inte avslutades korrekt senast, eller så körs redan LMMS. Vill du återställa detta projekt?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="869"/>
-        <location filename="../../src/core/main.cpp" line="889"/>
+        <location filename="../../src/core/main.cpp" line="894"/>
+        <location filename="../../src/core/main.cpp" line="914"/>
         <source>Recover</source>
         <translation>Återställ</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="870"/>
+        <location filename="../../src/core/main.cpp" line="895"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Återställ filen. Se till att du bara har en instans av LMMS igång när du gör detta.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="872"/>
-        <location filename="../../src/core/main.cpp" line="887"/>
+        <location filename="../../src/core/main.cpp" line="897"/>
+        <location filename="../../src/core/main.cpp" line="912"/>
         <source>Discard</source>
         <translation>Kasta bort</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="873"/>
+        <location filename="../../src/core/main.cpp" line="898"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Starta en standard-session och ta bort den återskapade filen. Detta går inte ångra.</translation>
     </message>
@@ -10218,28 +10218,28 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4721"/>
         <source>Quantize positions</source>
-        <translation type="unfinished"/>
+        <translation>Kvantisera positioner</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4722"/>
         <source>Quantize lengths</source>
-        <translation type="unfinished"/>
+        <translation>Kvantisera längder</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4742"/>
         <source>File actions</source>
-        <translation type="unfinished"/>
+        <translation>Filåtgärder</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
         <source>Import pattern</source>
-        <translation type="unfinished"/>
+        <translation>Importera mönster</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5210"/>
         <source>Export pattern</source>
-        <translation type="unfinished"/>
+        <translation>Exportera mönster</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
@@ -10362,42 +10362,42 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5211"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5258"/>
         <source>XML pattern file (*.xpt *.xptz)</source>
-        <translation type="unfinished"/>
+        <translation>XML-mönsterfil (*.xpt *.xptz)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5231"/>
         <source>Export pattern success</source>
-        <translation type="unfinished"/>
+        <translation>Export av mönster lyckades</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5232"/>
         <source>Pattern saved to %1</source>
-        <translation type="unfinished"/>
+        <translation>Mönster sparat till %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5247"/>
         <source>Import pattern.</source>
-        <translation type="unfinished"/>
+        <translation>Importera mönster.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5248"/>
         <source>You are about to import a pattern, this will overwrite your current pattern. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Du håller på att importera ett mönster, detta kommer att skriva över ditt nuvarande mönster. Vill du fortsätta?</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5257"/>
         <source>Open pattern</source>
-        <translation type="unfinished"/>
+        <translation>Öppet mönster</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5277"/>
         <source>Import pattern success</source>
-        <translation type="unfinished"/>
+        <translation>Import av mönster lyckades</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5278"/>
         <source>Imported pattern %1!</source>
-        <translation type="unfinished"/>
+        <translation>Importerat mönstret %1!</translation>
     </message>
 </context>
 <context>
@@ -12484,348 +12484,358 @@ Du kan inaktivera dessa kontroller för att få en snabbare skanningstid (på eg
         <source>Discard MIDI connections</source>
         <translation>Kassera MIDI-anslutningar</translation>
     </message>
+    <message>
+        <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="186"/>
+        <source>Save As Project Bundle (with resources)</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>SetupDialog</name>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="590"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="594"/>
         <source>Reset to default value</source>
         <translation>Återställ till standardvärde</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="549"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="553"/>
         <source>Use built-in NaN handler</source>
         <translation>Använd inbyggd NaN-hanterare</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="157"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="159"/>
         <source>Settings</source>
         <translation>Inställningar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="198"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="819"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="200"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="823"/>
         <source>General</source>
         <translation>Allmänt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="225"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="227"/>
         <source>Graphical user interface (GUI)</source>
         <translation>Grafiskt användargränssnitt (GUI)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="228"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="230"/>
         <source>Display volume as dBFS </source>
         <translation>Visa volym som dBFS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="230"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="232"/>
         <source>Enable tooltips</source>
         <translation>Aktivera verktygstips</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="232"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="234"/>
         <source>Enable master oscilloscope by default</source>
         <translation>Aktivera huvudoscilloskop som standard</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="234"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="236"/>
         <source>Enable all note labels in piano roll</source>
         <translation>Aktivera alla notetiketter för pianorulle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="236"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="238"/>
         <source>Enable compact track buttons</source>
         <translation>Aktivera kompakta spårknappar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="238"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="240"/>
         <source>Enable one instrument-track-window mode</source>
         <translation>Aktivera ett-instrumentsspårfönsterläge</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="240"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="242"/>
         <source>Show sidebar on the right-hand side</source>
         <translation>Visa sidopanel på höger sida</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="242"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="244"/>
         <source>Let sample previews continue when mouse is released</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="244"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="246"/>
         <source>Mute automation tracks during solo</source>
         <translation>Tysta automatiseringsspårk vid solo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="254"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="248"/>
+        <source>Show warning when deleting tracks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/SetupDialog.cpp" line="258"/>
         <source>Projects</source>
         <translation>Projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="257"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="261"/>
         <source>Compress project files by default</source>
         <translation>Komprimera projektfiler som standard</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="259"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="263"/>
         <source>Create a backup file when saving a project</source>
         <translation>Skapa en säkerhetskopieringsfil vid sparning av projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="261"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="265"/>
         <source>Reopen last project on startup</source>
         <translation>Öppna det senaste projektet vid uppstart</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="268"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="272"/>
         <source>Language</source>
         <translation>Språk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="328"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="822"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="332"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="826"/>
         <source>Performance</source>
         <translation>Prestanda</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="333"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="337"/>
         <source>Autosave</source>
         <translation>Spara automatiskt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="352"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="356"/>
         <source>Enable autosave</source>
         <translation>Aktivera spara automatiskt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="359"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="363"/>
         <source>Allow autosave while playing</source>
         <translation>Tillåt spara automatiskt medan du spelar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="379"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="383"/>
         <source>User interface (UI) effects vs. performance</source>
         <translation>Användargränssnitts effekter versus prestanda</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="381"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="385"/>
         <source>Smooth scroll in song editor</source>
         <translation>Mjuk rullning i låtredigeraren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="383"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="387"/>
         <source>Display playback cursor in AudioFileProcessor</source>
         <translation>Visa uppspelningsmarkör i AudioFileProcessor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="393"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="397"/>
         <source>Plugins</source>
         <translation>Tillägg</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="397"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="401"/>
         <source>VST plugins embedding:</source>
         <translation>VST-tilläggsinbäddning:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="403"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="407"/>
         <source>No embedding</source>
         <translation>Ingen inbäddning</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="406"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="410"/>
         <source>Embed using Qt API</source>
         <translation>Bädda in via Qt-API</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="410"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="414"/>
         <source>Embed using native Win32 API</source>
         <translation>Bädda in via inbyggt Win32-API</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="414"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="418"/>
         <source>Embed using XEmbed protocol</source>
         <translation>Bädda in via XEmbed-protokoll</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="423"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="427"/>
         <source>Keep plugin windows on top when not embedded</source>
         <translation>Håll tilläggsfönstren överst när de inte är inbäddade</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="430"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="434"/>
         <source>Sync VST plugins to host playback</source>
         <translation>Synkronisera VST-tillägg för att vara värd för uppspelning</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="433"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="437"/>
         <source>Keep effects running even without input</source>
         <translation>Håll effekter igång även utan ingång</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="453"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="825"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="457"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="829"/>
         <source>Audio</source>
         <translation>Ljud</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="457"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="461"/>
         <source>Audio interface</source>
         <translation>Ljudgränssnitt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="555"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="559"/>
         <source>HQ mode for output audio device</source>
         <translation>HQ-läget för ljudutgångsenhet</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="564"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="568"/>
         <source>Buffer size</source>
         <translation>Buffertstorlek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="608"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="828"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="612"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="832"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="612"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="616"/>
         <source>MIDI interface</source>
         <translation>MIDI-gränssnitt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="692"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="696"/>
         <source>Automatically assign MIDI controller to selected track</source>
         <translation>Tilldela automatiskt MIDI-kontroller till markerat spår</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="772"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="776"/>
         <source>LMMS working directory</source>
         <translation>LMMS-arbetsmapp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="776"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="780"/>
         <source>VST plugins directory</source>
         <translation>VST-tilläggsmapp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="780"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="784"/>
         <source>LADSPA plugins directories</source>
         <translation>Mappar för LADSPA-tillägg</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="784"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="788"/>
         <source>SF2 directory</source>
         <translation>Mapp för SF2-filer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="789"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="793"/>
         <source>Default SF2</source>
         <translation>Standard SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="794"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="798"/>
         <source>GIG directory</source>
         <translation>Mapp för GIG-filer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="798"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="802"/>
         <source>Theme directory</source>
         <translation>Temamapp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="802"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="806"/>
         <source>Background artwork</source>
         <translation>Bakgrundskonstverk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="851"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="855"/>
         <source>Some changes require restarting.</source>
         <translation>Några ändringar kräver omstart.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1080"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1092"/>
         <source>Autosave interval: %1</source>
         <translation>Intervall för att spara automatisk: %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1219"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1231"/>
         <source>Choose the LMMS working directory</source>
         <translation>Välj LMMS-arbetsmapp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1236"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1248"/>
         <source>Choose your VST plugins directory</source>
         <translation>Välj din VST-tilläggsmapp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1253"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1265"/>
         <source>Choose your LADSPA plugins directory</source>
         <translation>Välj din LADSPA-tilläggsmapp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1296"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1308"/>
         <source>Choose your default SF2</source>
         <translation>Välj din standard SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1334"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1346"/>
         <source>Choose your theme directory</source>
         <translation>Välj din temamapp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1368"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1380"/>
         <source>Choose your background picture</source>
         <translation>Välj din bakgrundsbild</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="727"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="831"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="731"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="835"/>
         <source>Paths</source>
         <translation>Sökvägar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="857"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="861"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="864"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="868"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1189"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1201"/>
         <source>Frames: %1
 Latency: %2 ms</source>
         <translation>Ramar: %1
 Latens: %2 ms</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1317"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1329"/>
         <source>Choose your GIG directory</source>
         <translation>Välj din GIG-mapp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1278"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1290"/>
         <source>Choose your SF2 directory</source>
         <translation>Välj din SF2-mapp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1076"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1088"/>
         <source>minutes</source>
         <translation>minuter</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1076"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1088"/>
         <source>minute</source>
         <translation>minut</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1078"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1090"/>
         <source>Disabled</source>
         <translation>Inaktiverad</translation>
     </message>
@@ -13016,17 +13026,32 @@ Latens: %2 ms</translation>
         <translation>Huvudtonhöjd</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1156"/>
+        <location filename="../../src/core/Song.cpp" line="1024"/>
+        <source>Aborting project load</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Song.cpp" line="1025"/>
+        <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Song.cpp" line="1030"/>
+        <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Song.cpp" line="1184"/>
         <source>LMMS Error report</source>
         <translation>LMMS Felrapport</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1410"/>
+        <location filename="../../src/core/Song.cpp" line="1426"/>
         <source> (repeated %1 times)</source>
         <translation> (repetera %1 gånger)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1417"/>
+        <location filename="../../src/core/Song.cpp" line="1433"/>
         <source>The following errors occurred while loading: </source>
         <translation>Följande fel inträffade under inläsning: </translation>
     </message>
@@ -13034,54 +13059,86 @@ Latens: %2 ms</translation>
 <context>
     <name>SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="131"/>
+        <location filename="../../src/core/DataFile.cpp" line="142"/>
         <source>Could not open file</source>
         <translation>Kunde inte öppna fil</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="132"/>
+        <location filename="../../src/core/DataFile.cpp" line="143"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>Det gick inte att öppna filen %1. Du har förmodligen inga behörigheter att läsa den här filen.
  Se till att ha åtminstone läsbehörigheter till filen och försök igen.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="287"/>
+        <location filename="../../src/core/DataFile.cpp" line="328"/>
+        <source>Operation denied</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="329"/>
+        <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="339"/>
+        <location filename="../../src/core/DataFile.cpp" line="347"/>
+        <location filename="../../src/core/DataFile.cpp" line="355"/>
+        <source>Error</source>
+        <translation>Fel</translation>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="340"/>
+        <source>Couldn&apos;t create bundle folder.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="348"/>
+        <source>Couldn&apos;t create resources folder.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <source>Failed to copy resources.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="365"/>
         <source>Could not write file</source>
         <translation>Kunde inte skriva fil</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="288"/>
-        <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
-        <translation>Det gick inte att öppna %1 för att skriva. Du har förmodligen inte tillåtelse att skriva till den här filen. Se till att du har skrivåtkomst till filen och försök igen.</translation>
+        <location filename="../../src/core/DataFile.cpp" line="366"/>
+        <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1483"/>
-        <source>Error in file</source>
-        <translation>Fel i filen</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/DataFile.cpp" line="1484"/>
-        <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
-        <translation>Filen %1 verkar innehålla fel och kan därför inte läsas in.</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/DataFile.cpp" line="1527"/>
-        <source>Version difference</source>
-        <translation>Versions-skillnad</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/DataFile.cpp" line="1528"/>
+        <location filename="../../src/core/DataFile.cpp" line="1763"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>Denna %1 har skapats med LMMS %2</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1524"/>
+        <location filename="../../src/core/DataFile.cpp" line="1718"/>
+        <source>Error in file</source>
+        <translation>Fel i filen</translation>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="1719"/>
+        <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
+        <translation>Filen %1 verkar innehålla fel och kan därför inte läsas in.</translation>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="1762"/>
+        <source>Version difference</source>
+        <translation>Versions-skillnad</translation>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="1759"/>
         <source>template</source>
         <translation>mall</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1524"/>
+        <location filename="../../src/core/DataFile.cpp" line="1759"/>
         <source>project</source>
         <translation>projekt</translation>
     </message>
@@ -13657,79 +13714,94 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
 <context>
     <name>TrackOperationsWidget</name>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="59"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="61"/>
         <source>Press &lt;%1&gt; while clicking on move-grip to begin a new drag&apos;n&apos;drop action.</source>
         <translation>Tryck på &lt;%1&gt; medan du klickar på flytta-grepp för att börja en ny dra och släpp åtgärd.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="74"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="76"/>
         <source>Actions</source>
         <translation>Åtgärder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="77"/>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="100"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="79"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="102"/>
         <source>Mute</source>
         <translation>Tysta</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="82"/>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="103"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="84"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="105"/>
         <source>Solo</source>
         <translation>Solo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="288"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="204"/>
+        <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="207"/>
+        <source>Confirm removal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="208"/>
+        <source>Don&apos;t ask again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="328"/>
         <source>Clone this track</source>
         <translation>Klona detta spår</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="291"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
         <source>Remove this track</source>
         <translation>Ta bort detta spår</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="296"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="336"/>
         <source>Clear this track</source>
         <translation>Rensa detta spår</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="298"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="298"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
         <source>Assign to new FX Channel</source>
         <translation>Koppla till ny FX-kanal</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="310"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="350"/>
         <source>Turn all recording on</source>
         <translation>Slå på all inspelning</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="311"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="351"/>
         <source>Turn all recording off</source>
         <translation>Slå av all inspelning</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="316"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="356"/>
         <source>Change color</source>
         <translation>Byt färg</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="318"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="358"/>
         <source>Reset color to default</source>
         <translation>Nollställ färg till standard</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="320"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="360"/>
         <source>Set random color</source>
         <translation>Ställ in slumpmässig färg</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="323"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="363"/>
         <source>Clear clip colors</source>
         <translation type="unfinished"/>
     </message>

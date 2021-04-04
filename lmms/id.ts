@@ -519,7 +519,7 @@ Jika Anda tertarik untuk menerjemahkan LMMS dalam bahasa lain atau ingin meningk
 <context>
     <name>AutomationPattern</name>
     <message>
-        <location filename="../../src/core/AutomationPattern.cpp" line="865"/>
+        <location filename="../../src/core/AutomationPattern.cpp" line="867"/>
         <source>Drag a control while pressing &lt;%1&gt;</source>
         <translation>Tarik kontrol sambil menekan &lt;%1&gt;</translation>
     </message>
@@ -7196,34 +7196,34 @@ Please make sure you have write permission to the file and the directory contain
         <translation>Tidak bisa membuka berkas %1</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="849"/>
+        <location filename="../../src/core/main.cpp" line="874"/>
         <source>Project recovery</source>
         <translation>Pemulihan proyek</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="864"/>
+        <location filename="../../src/core/main.cpp" line="889"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="869"/>
-        <location filename="../../src/core/main.cpp" line="889"/>
+        <location filename="../../src/core/main.cpp" line="894"/>
+        <location filename="../../src/core/main.cpp" line="914"/>
         <source>Recover</source>
         <translation>Pulihkan</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="870"/>
+        <location filename="../../src/core/main.cpp" line="895"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Memulihkan berkas. Jangan menjalankan beberapa instansi LMMS saat Anda melakukan ini.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="872"/>
-        <location filename="../../src/core/main.cpp" line="887"/>
+        <location filename="../../src/core/main.cpp" line="897"/>
+        <location filename="../../src/core/main.cpp" line="912"/>
         <source>Discard</source>
         <translation>Buang</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="873"/>
+        <location filename="../../src/core/main.cpp" line="898"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Jalankan sesi default dan hapus berkas yang dipulihkan. Ini tidak reversibel.</translation>
     </message>
@@ -12196,348 +12196,358 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <source>Discard MIDI connections</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="186"/>
+        <source>Save As Project Bundle (with resources)</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>SetupDialog</name>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="590"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="594"/>
         <source>Reset to default value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="549"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="553"/>
         <source>Use built-in NaN handler</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="157"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="159"/>
         <source>Settings</source>
         <translation>Pengaturan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="198"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="819"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="200"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="823"/>
         <source>General</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="225"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="227"/>
         <source>Graphical user interface (GUI)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="228"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="230"/>
         <source>Display volume as dBFS </source>
         <translation>Tampilkan volume sebagai dBFS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="230"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="232"/>
         <source>Enable tooltips</source>
         <translation>Aktifkan tooltips</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="232"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="234"/>
         <source>Enable master oscilloscope by default</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="234"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="236"/>
         <source>Enable all note labels in piano roll</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="236"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="238"/>
         <source>Enable compact track buttons</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="238"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="240"/>
         <source>Enable one instrument-track-window mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="240"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="242"/>
         <source>Show sidebar on the right-hand side</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="242"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="244"/>
         <source>Let sample previews continue when mouse is released</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="244"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="246"/>
         <source>Mute automation tracks during solo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="254"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="248"/>
+        <source>Show warning when deleting tracks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/SetupDialog.cpp" line="258"/>
         <source>Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="257"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="261"/>
         <source>Compress project files by default</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="259"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="263"/>
         <source>Create a backup file when saving a project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="261"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="265"/>
         <source>Reopen last project on startup</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="268"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="272"/>
         <source>Language</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="328"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="822"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="332"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="826"/>
         <source>Performance</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="333"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="337"/>
         <source>Autosave</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="352"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="356"/>
         <source>Enable autosave</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="359"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="363"/>
         <source>Allow autosave while playing</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="379"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="383"/>
         <source>User interface (UI) effects vs. performance</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="381"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="385"/>
         <source>Smooth scroll in song editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="383"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="387"/>
         <source>Display playback cursor in AudioFileProcessor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="393"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="397"/>
         <source>Plugins</source>
         <translation>Plugin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="397"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="401"/>
         <source>VST plugins embedding:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="403"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="407"/>
         <source>No embedding</source>
         <translation>Tidak disematkan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="406"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="410"/>
         <source>Embed using Qt API</source>
         <translation>Disematkan menggunakan API Qt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="410"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="414"/>
         <source>Embed using native Win32 API</source>
         <translation>Disematkan menggunakan API Win32 asli</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="414"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="418"/>
         <source>Embed using XEmbed protocol</source>
         <translation>Disematkan menggunakan protokol XEmbed</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="423"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="427"/>
         <source>Keep plugin windows on top when not embedded</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="430"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="434"/>
         <source>Sync VST plugins to host playback</source>
         <translation>Selaraskan plugin VST ke pemutaran host</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="433"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="437"/>
         <source>Keep effects running even without input</source>
         <translation>Biarkan efek berjalan walaupun tanpa masukan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="453"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="825"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="457"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="829"/>
         <source>Audio</source>
         <translation>Audio</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="457"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="461"/>
         <source>Audio interface</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="555"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="559"/>
         <source>HQ mode for output audio device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="564"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="568"/>
         <source>Buffer size</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="608"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="828"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="612"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="832"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="612"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="616"/>
         <source>MIDI interface</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="692"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="696"/>
         <source>Automatically assign MIDI controller to selected track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="772"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="776"/>
         <source>LMMS working directory</source>
         <translation>Direktori kerja LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="776"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="780"/>
         <source>VST plugins directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="780"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="784"/>
         <source>LADSPA plugins directories</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="784"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="788"/>
         <source>SF2 directory</source>
         <translation>Direktori SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="789"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="793"/>
         <source>Default SF2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="794"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="798"/>
         <source>GIG directory</source>
         <translation>Direktori GIG</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="798"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="802"/>
         <source>Theme directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="802"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="806"/>
         <source>Background artwork</source>
         <translation>Latar belakang karya seni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="851"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="855"/>
         <source>Some changes require restarting.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1080"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1092"/>
         <source>Autosave interval: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1219"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1231"/>
         <source>Choose the LMMS working directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1236"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1248"/>
         <source>Choose your VST plugins directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1253"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1265"/>
         <source>Choose your LADSPA plugins directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1296"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1308"/>
         <source>Choose your default SF2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1334"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1346"/>
         <source>Choose your theme directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1368"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1380"/>
         <source>Choose your background picture</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="727"/>
-        <location filename="../../src/gui/SetupDialog.cpp" line="831"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="731"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="835"/>
         <source>Paths</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="857"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="861"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="864"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="868"/>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1189"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1201"/>
         <source>Frames: %1
 Latency: %2 ms</source>
         <translation>Bingkai: %1
 Latensi: %2 md</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1317"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1329"/>
         <source>Choose your GIG directory</source>
         <translation>Pilih direktor GIG anda</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1278"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1290"/>
         <source>Choose your SF2 directory</source>
         <translation>Pilih direktor SF2 anda</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1076"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1088"/>
         <source>minutes</source>
         <translation>menit</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1076"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1088"/>
         <source>minute</source>
         <translation>menit</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SetupDialog.cpp" line="1078"/>
+        <location filename="../../src/gui/SetupDialog.cpp" line="1090"/>
         <source>Disabled</source>
         <translation>Dinonaktifkan</translation>
     </message>
@@ -12728,17 +12738,32 @@ Latensi: %2 md</translation>
         <translation>Master pitch</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1156"/>
+        <location filename="../../src/core/Song.cpp" line="1024"/>
+        <source>Aborting project load</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Song.cpp" line="1025"/>
+        <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Song.cpp" line="1030"/>
+        <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Song.cpp" line="1184"/>
         <source>LMMS Error report</source>
         <translation>Laporan kesalahan LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1410"/>
+        <location filename="../../src/core/Song.cpp" line="1426"/>
         <source> (repeated %1 times)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1417"/>
+        <location filename="../../src/core/Song.cpp" line="1433"/>
         <source>The following errors occurred while loading: </source>
         <translation type="unfinished"/>
     </message>
@@ -12746,54 +12771,86 @@ Latensi: %2 md</translation>
 <context>
     <name>SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="131"/>
+        <location filename="../../src/core/DataFile.cpp" line="142"/>
         <source>Could not open file</source>
         <translation>Tidak bisa membuka berkas</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="132"/>
+        <location filename="../../src/core/DataFile.cpp" line="143"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>Tidak bisa membuka berkas %1. Anda mungkin tidak memiliki izin untuk membaca berkas ini.
 Setidaknya pastikan Anda memiliki izini baca kepada berkas tersebut lalu coba lagi.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="287"/>
+        <location filename="../../src/core/DataFile.cpp" line="328"/>
+        <source>Operation denied</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="329"/>
+        <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="339"/>
+        <location filename="../../src/core/DataFile.cpp" line="347"/>
+        <location filename="../../src/core/DataFile.cpp" line="355"/>
+        <source>Error</source>
+        <translation>Kesalahan</translation>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="340"/>
+        <source>Couldn&apos;t create bundle folder.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="348"/>
+        <source>Couldn&apos;t create resources folder.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <source>Failed to copy resources.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="365"/>
         <source>Could not write file</source>
         <translation>Tidak bisa menulis berkas</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="288"/>
-        <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
-        <translation>Tidak bisa membuka %1 untuk menulis. Anda mungkin tidak diperbolehkan untuk menulis ke berkas ini. Pastikan anda memiliki akses baca kepada berkas tersebut lalu coba lagi.</translation>
+        <location filename="../../src/core/DataFile.cpp" line="366"/>
+        <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1483"/>
-        <source>Error in file</source>
-        <translation>Kesalahan dalam berkas</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/DataFile.cpp" line="1484"/>
-        <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
-        <translation>Berkas %1 sepertinya menganduh kesalahan dan oleh karena itu tidak bisa dimuat.</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/DataFile.cpp" line="1527"/>
-        <source>Version difference</source>
-        <translation>Perbedaan Versi</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/DataFile.cpp" line="1528"/>
+        <location filename="../../src/core/DataFile.cpp" line="1763"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1524"/>
+        <location filename="../../src/core/DataFile.cpp" line="1718"/>
+        <source>Error in file</source>
+        <translation>Kesalahan dalam berkas</translation>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="1719"/>
+        <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
+        <translation>Berkas %1 sepertinya menganduh kesalahan dan oleh karena itu tidak bisa dimuat.</translation>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="1762"/>
+        <source>Version difference</source>
+        <translation>Perbedaan Versi</translation>
+    </message>
+    <message>
+        <location filename="../../src/core/DataFile.cpp" line="1759"/>
         <source>template</source>
         <translation>template</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1524"/>
+        <location filename="../../src/core/DataFile.cpp" line="1759"/>
         <source>project</source>
         <translation>proyek</translation>
     </message>
@@ -13369,79 +13426,94 @@ Pastikan anda memiliki izin baca untuk berkas ini dan direktori yang mengandung 
 <context>
     <name>TrackOperationsWidget</name>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="59"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="61"/>
         <source>Press &lt;%1&gt; while clicking on move-grip to begin a new drag&apos;n&apos;drop action.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="74"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="76"/>
         <source>Actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="77"/>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="100"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="79"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="102"/>
         <source>Mute</source>
         <translation>Bisu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="82"/>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="103"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="84"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="105"/>
         <source>Solo</source>
         <translation>Solo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="288"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="204"/>
+        <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="207"/>
+        <source>Confirm removal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="208"/>
+        <source>Don&apos;t ask again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="328"/>
         <source>Clone this track</source>
         <translation>Klon trek ini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="291"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
         <source>Remove this track</source>
         <translation>Hapus trek ini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="296"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="336"/>
         <source>Clear this track</source>
         <translation>Bersihkan trek ini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="298"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="298"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
         <source>Assign to new FX Channel</source>
         <translation>Tetapkan ke Saluran FX baru</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="310"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="350"/>
         <source>Turn all recording on</source>
         <translation>Hidupkan semua rekaman</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="311"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="351"/>
         <source>Turn all recording off</source>
         <translation>Matikan semua rekaman</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="316"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="356"/>
         <source>Change color</source>
         <translation>Ganti warna</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="318"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="358"/>
         <source>Reset color to default</source>
         <translation>Reset warna ke default</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="320"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="360"/>
         <source>Set random color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="323"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="363"/>
         <source>Clear clip colors</source>
         <translation type="unfinished"/>
     </message>
