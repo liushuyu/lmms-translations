@@ -588,7 +588,7 @@ Zixing Liu &lt;liushuyu at aosc.xyz&gt;
 <context>
     <name>AutomationTrack</name>
     <message>
-        <location filename="../../src/tracks/AutomationTrack.cpp" line="40"/>
+        <location filename="../../src/tracks/AutomationTrack.cpp" line="34"/>
         <source>Automation track</source>
         <translation>自动控制轨道</translation>
     </message>
@@ -659,17 +659,17 @@ Zixing Liu &lt;liushuyu at aosc.xyz&gt;
 <context>
     <name>BBTCOView</name>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="145"/>
+        <location filename="../../src/gui/BBTCOView.cpp" line="53"/>
         <source>Open in Beat+Bassline-Editor</source>
         <translation>在节拍+Bassline编辑器中打开</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="152"/>
+        <location filename="../../src/gui/BBTCOView.cpp" line="60"/>
         <source>Reset name</source>
         <translation>重置名称</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="155"/>
+        <location filename="../../src/gui/BBTCOView.cpp" line="63"/>
         <source>Change name</source>
         <translation>修改名称</translation>
     </message>
@@ -677,12 +677,12 @@ Zixing Liu &lt;liushuyu at aosc.xyz&gt;
 <context>
     <name>BBTrack</name>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="294"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="45"/>
         <source>Beat/Bassline %1</source>
         <translation>节拍/Bassline %1</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/BBTrack.cpp" line="439"/>
+        <location filename="../../src/tracks/BBTrack.cpp" line="190"/>
         <source>Clone of %1</source>
         <translation>%1 的副本</translation>
     </message>
@@ -9571,42 +9571,42 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PatternView</name>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="727"/>
+        <location filename="../../src/gui/PatternView.cpp" line="141"/>
         <source>Open in piano-roll</source>
         <translation>在钢琴窗中打开</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="733"/>
+        <location filename="../../src/gui/PatternView.cpp" line="147"/>
         <source>Set as ghost in piano-roll</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="742"/>
+        <location filename="../../src/gui/PatternView.cpp" line="156"/>
         <source>Clear all notes</source>
         <translation>清除所有音符</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="745"/>
+        <location filename="../../src/gui/PatternView.cpp" line="159"/>
         <source>Reset name</source>
         <translation>重置名称</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="748"/>
+        <location filename="../../src/gui/PatternView.cpp" line="162"/>
         <source>Change name</source>
         <translation>修改名称</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="756"/>
+        <location filename="../../src/gui/PatternView.cpp" line="170"/>
         <source>Add steps</source>
         <translation>添加音阶</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="758"/>
+        <location filename="../../src/gui/PatternView.cpp" line="172"/>
         <source>Remove steps</source>
         <translation>移除音阶</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/Pattern.cpp" line="760"/>
+        <location filename="../../src/gui/PatternView.cpp" line="174"/>
         <source>Clone Steps</source>
         <translation>复制音阶</translation>
     </message>
@@ -9856,12 +9856,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>声相：居中</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="672"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="673"/>
         <source>Glue notes failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="673"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="674"/>
         <source>Please select notes to glue first.</source>
         <translation type="unfinished"/>
     </message>
@@ -9880,241 +9880,241 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4692"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4697"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>播放/暂停当前片段（空格）</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4693"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4698"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>从 MIDI 设备/通道钢琴(channel-piano) 录制音符</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4694"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4699"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>一边从 MIDI 设备/通道钢琴(channel-piano) 录制音符一边播放</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4695"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4700"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4696"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4701"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>停止当前片段（空格）</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4698"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4703"/>
         <source>Edit actions</source>
         <translation>编辑功能</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4702"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4707"/>
         <source>Draw mode (Shift+D)</source>
         <translation>绘制模式 (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4703"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4708"/>
         <source>Erase mode (Shift+E)</source>
         <translation>擦除模式 (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4704"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4709"/>
         <source>Select mode (Shift+S)</source>
         <translation>选择模式 （Shift+S）</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4705"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4710"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4720"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4725"/>
         <source>Quantize</source>
         <translation>量化</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4721"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
         <source>Quantize positions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4722"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
         <source>Quantize lengths</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4742"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4747"/>
         <source>File actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Import pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5210"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5215"/>
         <source>Export pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4770"/>
         <source>Copy paste controls</source>
         <translation>复制粘贴控制</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4768"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4773"/>
         <source>Cut (%1+X)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4771"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4776"/>
         <source>Copy (%1+C)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4774"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4779"/>
         <source>Paste (%1+V)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4789"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4794"/>
         <source>Timeline controls</source>
         <translation>时间线控制</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4798"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4808"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4807"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4816"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4815"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4820"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4818"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4838"/>
         <source>Zoom and note controls</source>
         <translation>缩放和音符控制</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4841"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
         <source>Horizontal zooming</source>
         <translation>水平缩放</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4849"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4854"/>
         <source>Vertical zooming</source>
         <translation>垂直缩放</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4863"/>
         <source>Quantization</source>
         <translation>量化控制</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4867"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4872"/>
         <source>Note length</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4873"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4878"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4882"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4887"/>
         <source>Scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4891"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4896"/>
         <source>Chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4900"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4905"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4905"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4910"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5014"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5187"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5019"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5192"/>
         <source>Piano-Roll - %1</source>
         <translation>钢琴窗 - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5021"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5192"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5026"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5197"/>
         <source>Piano-Roll - no pattern</source>
         <translation>钢琴窗 - 没有片段</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5211"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5258"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5216"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5263"/>
         <source>XML pattern file (*.xpt *.xptz)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5231"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5236"/>
         <source>Export pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5232"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5237"/>
         <source>Pattern saved to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5247"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5252"/>
         <source>Import pattern.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5248"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5253"/>
         <source>You are about to import a pattern, this will overwrite your current pattern. Do you want to continue?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5257"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5262"/>
         <source>Open pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5277"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5282"/>
         <source>Import pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5278"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5283"/>
         <source>Imported pattern %1!</source>
         <translation type="unfinished"/>
     </message>
@@ -11960,57 +11960,57 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1051"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1112"/>
         <source>Open audio file</source>
         <translation>打开音频文件</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1078"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1139"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>所有音频文件 (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1080"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1141"/>
         <source>Wave-Files (*.wav)</source>
         <translation>Wave波形文件 (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1081"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1142"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>OGG-文件 (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1082"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1143"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>DrumSynth-文件 (*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1083"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1144"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>FLAC-文件 (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1084"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1145"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>SPEEX-文件 (*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1087"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1148"/>
         <source>VOC-Files (*.voc)</source>
         <translation>VOC-文件 (*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1088"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1149"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>AIFF-文件 (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1089"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1150"/>
         <source>AU-Files (*.au)</source>
         <translation>AU-文件 (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1090"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1151"/>
         <source>RAW-Files (*.raw)</source>
         <translation>RAW-文件 (*.raw)</translation>
     </message>
@@ -12018,67 +12018,67 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTCOView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="370"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="60"/>
         <source>Double-click to open sample</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="394"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="84"/>
         <source>Delete (middle mousebutton)</source>
         <translation>删除 (鼠标中键)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="395"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="85"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="403"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="93"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="404"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="94"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="411"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="101"/>
         <source>Copy</source>
         <translation>复制</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="412"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="102"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="417"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="107"/>
         <source>Paste</source>
         <translation>粘贴</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="425"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="115"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>静音/取消静音 (&lt;%1&gt; + 鼠标中键)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="426"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="116"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="435"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="125"/>
         <source>Reverse sample</source>
         <translation>反转采样</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="443"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="133"/>
         <source>Set clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="445"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="135"/>
         <source>Use track color</source>
         <translation type="unfinished"/>
     </message>
@@ -12086,23 +12086,23 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrack</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="708"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="39"/>
         <source>Volume</source>
         <translation>音量</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="709"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="40"/>
         <source>Panning</source>
         <translation>声相</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="710"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="41"/>
         <source>FX channel</source>
         <translation>效果通道</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="711"/>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="714"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="42"/>
+        <location filename="../../src/tracks/SampleTrack.cpp" line="45"/>
         <source>Sample track</source>
         <translation>采样轨道</translation>
     </message>
@@ -12110,37 +12110,37 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrackView</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="934"/>
+        <location filename="../../src/gui/SampleTrackView.cpp" line="56"/>
         <source>Track volume</source>
         <translation>轨道音量</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="937"/>
+        <location filename="../../src/gui/SampleTrackView.cpp" line="59"/>
         <source>Channel volume:</source>
         <translation>通道音量：</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="944"/>
+        <location filename="../../src/gui/SampleTrackView.cpp" line="66"/>
         <source>VOL</source>
         <translation>音量</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="948"/>
+        <location filename="../../src/gui/SampleTrackView.cpp" line="70"/>
         <source>Panning</source>
         <translation>声相</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="950"/>
+        <location filename="../../src/gui/SampleTrackView.cpp" line="72"/>
         <source>Panning:</source>
         <translation>声相：</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="952"/>
+        <location filename="../../src/gui/SampleTrackView.cpp" line="74"/>
         <source>PAN</source>
         <translation>声相</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1020"/>
+        <location filename="../../src/gui/SampleTrackView.cpp" line="142"/>
         <source>FX %1: %2</source>
         <translation>效果 %1: %2</translation>
     </message>
@@ -12148,47 +12148,47 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1101"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="52"/>
         <source>GENERAL SETTINGS</source>
         <translation>常规设置</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1136"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="87"/>
         <source>Sample volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1138"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="89"/>
         <source>Volume:</source>
         <translation>音量：</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1143"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="94"/>
         <source>VOL</source>
         <translation>音量</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1150"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="101"/>
         <source>Panning</source>
         <translation>声相</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1151"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="102"/>
         <source>Panning:</source>
         <translation>声相：</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1156"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="107"/>
         <source>PAN</source>
         <translation>声相</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1166"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="117"/>
         <source>FX channel</source>
         <translation>效果通道</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/SampleTrack.cpp" line="1171"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="122"/>
         <source>FX</source>
         <translation>效果</translation>
     </message>
