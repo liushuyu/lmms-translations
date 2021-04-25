@@ -260,7 +260,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="415"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Backend</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="422"/>
@@ -307,7 +307,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="458"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Backend</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="465"/>
@@ -318,62 +318,62 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
 <context>
     <name>AutomatableModel</name>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="60"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="59"/>
         <source>&amp;Reset (%1%2)</source>
         <translation>&amp;Visszaállítás (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="67"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="66"/>
         <source>&amp;Copy value (%1%2)</source>
         <translation>Érték &amp;másolása (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="75"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="74"/>
         <source>&amp;Paste value (%1%2)</source>
         <translation>Érték &amp;beillesztése (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="78"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="77"/>
         <source>&amp;Paste value</source>
         <translation>Érték &amp;beillesztése</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="86"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="85"/>
         <source>Edit song-global automation</source>
         <translation>Globális automatizáció szerkesztése</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="91"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="90"/>
         <source>Remove song-global automation</source>
         <translation>Globális automatizáció eltávolítása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="100"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="99"/>
         <source>Remove all linked controls</source>
         <translation>Minden kapcsolt vezérlő eltávolítása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="111"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="110"/>
         <source>Connected to %1</source>
         <translation>Csatlakozva ehhez: %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="115"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="114"/>
         <source>Connected to controller</source>
         <translation>Csatlakozva a vezérlőhöz</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="121"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="120"/>
         <source>Edit connection...</source>
         <translation>Kapcsolat szerkesztése...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="124"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="123"/>
         <source>Remove connection</source>
         <translation>Kapcsolat eltávolítása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="130"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="129"/>
         <source>Connect to controller...</source>
         <translation>Csatlakozás a vezérlőhöz...</translation>
     </message>
@@ -383,17 +383,17 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="409"/>
         <source>Edit Value</source>
-        <translation type="unfinished"/>
+        <translation>Érték megadása</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="411"/>
         <source>New outValue</source>
-        <translation type="unfinished"/>
+        <translation>Kimenő érték</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="412"/>
         <source>New inValue</source>
-        <translation type="unfinished"/>
+        <translation>Bemenő érték</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1228"/>
@@ -421,17 +421,17 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1843"/>
         <source>Draw mode (Shift+D)</source>
-        <translation>Beszúrás mód (Shift+D)</translation>
+        <translation>Beszúrás (Shift+D)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1847"/>
         <source>Erase mode (Shift+E)</source>
-        <translation>Törlés mód (Shift+E)</translation>
+        <translation>Törlés (Shift+E)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1850"/>
         <source>Draw outValues mode (Shift+C)</source>
-        <translation type="unfinished"/>
+        <translation>Kimenő érték beszúrása (Shift+C)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1853"/>
@@ -519,7 +519,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
 <context>
     <name>AutomationPattern</name>
     <message>
-        <location filename="../../src/core/AutomationPattern.cpp" line="867"/>
+        <location filename="../../src/core/AutomationPattern.cpp" line="866"/>
         <source>Drag a control while pressing &lt;%1&gt;</source>
         <translation>Húzz ide egy vezérlőt &lt;%1&gt; nyomvatartása mellett</translation>
     </message>
@@ -610,7 +610,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="86"/>
         <source>Track and step actions</source>
-        <translation type="unfinished"/>
+        <translation>Sáv és lépés műveletek</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="89"/>
@@ -771,7 +771,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="77"/>
         <source>CLIP</source>
-        <translation type="unfinished"/>
+        <translation>CLIP</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="78"/>
@@ -821,7 +821,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="112"/>
         <source>QUANT</source>
-        <translation type="unfinished"/>
+        <translation>QUANT</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="113"/>
@@ -892,12 +892,12 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="30"/>
         <source>About text here</source>
-        <translation type="unfinished"/>
+        <translation>Névjegy helye</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="102"/>
         <source>Extended licensing here</source>
-        <translation type="unfinished"/>
+        <translation>Részletes licensz helye</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="113"/>
@@ -907,12 +907,12 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="144"/>
         <source>Using KDE Oxygen icon set, designed by Oxygen Team.</source>
-        <translation type="unfinished"/>
+        <translation>KDE Oxygen ikonkészlet, tervezte az Oxygen Team.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="230"/>
         <source>Contains some knobs, backgrounds and other small artwork from Calf Studio Gear, OpenAV and OpenOctave projects.</source>
-        <translation type="unfinished"/>
+        <translation>Néhány gomb, háttér és egyéb grafikus elem a Calf Studio Gear, OpenAV és OpenOctave projektekből.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="465"/>
@@ -922,7 +922,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="579"/>
         <source>Special thanks to António Saraiva for a few extra icons and artwork!</source>
-        <translation type="unfinished"/>
+        <translation>Külön köszönet António Saraivának a további ikonokért és grafikus elemekért!</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="589"/>
@@ -937,12 +937,12 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="647"/>
         <source>Carla, Carla-Control and Patchbay icons designed by DoosC.</source>
-        <translation type="unfinished"/>
+        <translation>A Carla, Carla-Control és Patchbay ikonokat tervezte: DoosC</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="671"/>
         <source>Features</source>
-        <translation type="unfinished"/>
+        <translation>Szolgáltatások</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="677"/>
@@ -994,7 +994,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="962"/>
         <source>Host URLs:</source>
-        <translation type="unfinished"/>
+        <translation>Hoszt URL-ek:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="982"/>
@@ -1004,7 +1004,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="992"/>
         <source>valid osc commands here</source>
-        <translation type="unfinished"/>
+        <translation>érvényes osc parancsok helye</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1005"/>
@@ -1314,28 +1314,28 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="71"/>
         <source>&lt;br&gt;Version %1&lt;br&gt;Carla is a fully-featured audio plugin host%2.&lt;br&gt;&lt;br&gt;Copyright (C) 2011-2019 falkTX&lt;br&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;br&gt;Verzió: %1&lt;br&gt;A Carla egy teljes értékű audio plugin host%2.&lt;br&gt;&lt;br&gt;Copyright (C) 2011-2019 falkTX&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="100"/>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="101"/>
         <source>(Engine not running)</source>
-        <translation type="unfinished"/>
+        <translation>(A motor nem fut)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="123"/>
         <source>Everything! (Including LRDF)</source>
-        <translation type="unfinished"/>
+        <translation>Minden! (Az LRDF-et is beleértve)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="124"/>
         <source>Everything! (Including CustomData/Chunks)</source>
-        <translation type="unfinished"/>
+        <translation>Minden! (CustomData/Chunks beleértve)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="125"/>
         <source>About 110&amp;#37; complete (using custom extensions)&lt;br/&gt;Implemented Feature/Extensions:&lt;ul&gt;&lt;li&gt;http://lv2plug.in/ns/ext/atom&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/buf-size&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/data-access&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/event&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/instance-access&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/log&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/midi&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/options&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/parameters&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/port-props&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/presets&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/resize-port&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/state&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/time&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/uri-map&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/urid&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/worker&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/extensions/ui&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/extensions/units&lt;/li&gt;&lt;li&gt;http://home.gna.org/lv2dynparam/rtmempool/v1&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/external-ui&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/programs&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/props&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/rtmempool&lt;/li&gt;&lt;li&gt;http://ll-plugins.nongnu.org/lv2/ext/midimap&lt;/li&gt;&lt;li&gt;http://ll-plugins.nongnu.org/lv2/ext/miditype&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Körülbelül 110&amp;#37;-ig teljes (egyedi bővítményekkel)&lt;br/&gt;Elérhető szolgáltatások/bővítmények:&lt;ul&gt;&lt;li&gt;http://lv2plug.in/ns/ext/atom&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/buf-size&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/data-access&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/event&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/instance-access&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/log&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/midi&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/options&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/parameters&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/port-props&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/presets&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/resize-port&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/state&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/time&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/uri-map&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/urid&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/worker&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/extensions/ui&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/extensions/units&lt;/li&gt;&lt;li&gt;http://home.gna.org/lv2dynparam/rtmempool/v1&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/external-ui&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/programs&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/props&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/rtmempool&lt;/li&gt;&lt;li&gt;http://ll-plugins.nongnu.org/lv2/ext/midimap&lt;/li&gt;&lt;li&gt;http://ll-plugins.nongnu.org/lv2/ext/miditype&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="161"/>
@@ -1347,7 +1347,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="164"/>
         <source>About 85% complete (missing vst bank/presets and some minor stuff)</source>
-        <translation type="unfinished"/>
+        <translation>Körülbelül 85%-ig teljes (VST bankok/presetek és néhány apróbb dolog hiányzik)</translation>
     </message>
 </context>
 <context>
@@ -1360,12 +1360,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="40"/>
         <source>Rack</source>
-        <translation type="unfinished"/>
+        <translation>Rack</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="144"/>
         <source>Patchbay</source>
-        <translation type="unfinished"/>
+        <translation>Patchbay</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="179"/>
@@ -1390,7 +1390,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="295"/>
         <source>? Xruns</source>
-        <translation type="unfinished"/>
+        <translation>? Xrun</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="324"/>
@@ -1405,17 +1405,17 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="357"/>
         <source>&amp;Engine</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Motor</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="367"/>
         <source>&amp;Plugin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Plugin</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="371"/>
         <source>Macros (all plugins)</source>
-        <translation type="unfinished"/>
+        <translation>Makrók (minden plugin)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="395"/>
@@ -1456,7 +1456,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="613"/>
         <source>Transport</source>
-        <translation type="unfinished"/>
+        <translation>Továbbítás</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="619"/>
@@ -1476,7 +1476,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="704"/>
         <source>000&apos;000&apos;000</source>
-        <translation type="unfinished"/>
+        <translation>000&apos;000&apos;000</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="731"/>
@@ -1486,7 +1486,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="746"/>
         <source>00:00:00</source>
-        <translation type="unfinished"/>
+        <translation>00:00:00</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="773"/>
@@ -1496,7 +1496,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="788"/>
         <source>000|00|0000</source>
-        <translation type="unfinished"/>
+        <translation>000|00|0000</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="816"/>
@@ -1506,7 +1506,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="822"/>
         <source> BPM</source>
-        <translation type="unfinished"/>
+        <translation> BPM</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="838"/>
@@ -1583,7 +1583,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1027"/>
         <source>&amp;Start</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Start</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1030"/>
@@ -1593,7 +1593,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1039"/>
         <source>St&amp;op</source>
-        <translation type="unfinished"/>
+        <translation>St&amp;op</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1042"/>
@@ -1663,7 +1663,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1122"/>
         <source>&amp;Stop</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Stop</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1125"/>
@@ -1744,7 +1744,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1223"/>
         <source>Zoom 100%</source>
-        <translation type="unfinished"/>
+        <translation>Nagyítás 100%</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1226"/>
@@ -1754,7 +1754,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1234"/>
         <source>Show &amp;Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eszköztár megjelenítése</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1243"/>
@@ -1900,7 +1900,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1336"/>
         <source>Are you sure you want to quit Carla?</source>
-        <translation type="unfinished"/>
+        <translation>Biztosan ki akarsz lépni?</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1717"/>
@@ -1923,7 +1923,8 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1741"/>
         <source>There are still some plugins loaded, you need to remove them to stop the engine.
 Do you want to do this now?</source>
-        <translation type="unfinished"/>
+        <translation>Néhány plugin még be van töltve, ezeket el kell távolítani a motor leállításához..
+Szeretnéd ezt most megtenni?</translation>
     </message>
 </context>
 <context>
@@ -2002,7 +2003,7 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="152"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2762"/>
         <source>Engine</source>
-        <translation type="unfinished"/>
+        <translation>Motor</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="194"/>
@@ -2017,7 +2018,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="230"/>
         <source>Wine</source>
-        <translation type="unfinished"/>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="248"/>
@@ -2054,12 +2055,12 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="393"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1023"/>
         <source> ms</source>
-        <translation type="unfinished"/>
+        <translation> ms</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="425"/>
         <source>Show console output in Logs tab (needs engine restart)</source>
-        <translation type="unfinished"/>
+        <translation>Konzol kimenet megjelenítése a Napló lapon (motor újraindítása szükséges)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="432"/>
@@ -2120,27 +2121,27 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="669"/>
         <source>775x600</source>
-        <translation type="unfinished"/>
+        <translation>775x600</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="674"/>
         <source>1550x1200</source>
-        <translation type="unfinished"/>
+        <translation>1550x1200</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="679"/>
         <source>3100x2400</source>
-        <translation type="unfinished"/>
+        <translation>3100x2400</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="684"/>
         <source>4650x3600</source>
-        <translation type="unfinished"/>
+        <translation>4650x3600</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="689"/>
         <source>6200x4800</source>
-        <translation type="unfinished"/>
+        <translation>6200x4800</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="713"/>
@@ -2150,17 +2151,17 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="719"/>
         <source>Auto-hide groups with no ports</source>
-        <translation type="unfinished"/>
+        <translation>Port nélküli csoportok automatikus elrejtése</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="726"/>
         <source>Auto-select items on hover</source>
-        <translation type="unfinished"/>
+        <translation>Elemek kijelölése rámutatáskor</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="733"/>
         <source>Basic eye-candy (group shadows)</source>
-        <translation type="unfinished"/>
+        <translation>Árnyékok</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="743"/>
@@ -2170,7 +2171,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="749"/>
         <source>Anti-Aliasing</source>
-        <translation type="unfinished"/>
+        <translation>Anti-Aliasing</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="759"/>
@@ -2180,45 +2181,45 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="791"/>
         <source>&lt;b&gt;Engine&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Motor&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="829"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1224"/>
         <source>Core</source>
-        <translation type="unfinished"/>
+        <translation>Mag</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="858"/>
         <source>Single Client</source>
-        <translation type="unfinished"/>
+        <translation>Egy kliens</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="863"/>
         <source>Multiple Clients</source>
-        <translation type="unfinished"/>
+        <translation>Több kliens</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="868"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="892"/>
         <source>Continuous Rack</source>
-        <translation type="unfinished"/>
+        <translation>Összefüggő rack</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="873"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="897"/>
         <source>Patchbay</source>
-        <translation type="unfinished"/>
+        <translation>Patchbay</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="909"/>
         <source>Audio driver:</source>
-        <translation type="unfinished"/>
+        <translation>Audió driver:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="919"/>
         <source>Process mode:</source>
-        <translation type="unfinished"/>
+        <translation>Működési mód:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="929"/>
@@ -2226,7 +2227,7 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1373"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1444"/>
         <source>Maximum number of parameters to allow in the built-in &apos;Edit&apos; dialog</source>
-        <translation type="unfinished"/>
+        <translation>Paraméterek maximális száma a Szerkesztés ablakban</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="932"/>
@@ -2288,12 +2289,12 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1133"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1582"/>
         <source>Restart the engine to load the new settings</source>
-        <translation type="unfinished"/>
+        <translation>Indítsd újra a motort az új beállítások betöltéséhez</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1177"/>
         <source>&lt;b&gt;OSC&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;OSC&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1230"/>
@@ -2314,7 +2315,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1319"/>
         <source>Overridden by CARLA_OSC_TCP_PORT env var</source>
-        <translation type="unfinished"/>
+        <translation>Felülírja a CARLA_OSC_TCP_PORT környezeti változó</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1386"/>
@@ -2330,7 +2331,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1504"/>
         <source>Overridden by CARLA_OSC_UDP_PORT env var</source>
-        <translation type="unfinished"/>
+        <translation>Felülírja a CARLA_OSC_UDP_PORT környezeti változó</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1641"/>
@@ -2355,12 +2356,12 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1781"/>
         <source>Used for the &quot;audiofile&quot; plugin</source>
-        <translation type="unfinished"/>
+        <translation>Az &quot;audiofile&quot; plugin számára</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1798"/>
         <source>Used for the &quot;midifile&quot; plugin</source>
-        <translation type="unfinished"/>
+        <translation>A &quot;midifile&quot; plugin számára</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1861"/>
@@ -2473,7 +2474,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2423"/>
         <source>WineServer priority:</source>
-        <translation type="unfinished"/>
+        <translation>WineServer prioritás:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2509"/>
@@ -2518,7 +2519,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2728"/>
         <source>Fancy eye-candy (fade-in/out groups, glow connections)</source>
-        <translation type="unfinished"/>
+        <translation>Vizuális effektusok</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2735"/>
@@ -2591,27 +2592,27 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="100"/>
         <source>How far the compressor must turn the volume down after crossing the threshold</source>
-        <translation type="unfinished"/>
+        <translation>Mennyire csökkentse a jelszintet a kompresszor a küszöb átlépése után</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="103"/>
         <source>Attack:</source>
-        <translation>Felfutás:</translation>
+        <translation>Attack:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="105"/>
         <source>Speed at which the compressor starts to compress the audio</source>
-        <translation type="unfinished"/>
+        <translation>A kompresszió kezdetének sebessége</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="108"/>
         <source>Release:</source>
-        <translation>Lecsengés:</translation>
+        <translation>Release:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="110"/>
         <source>Speed at which the compressor ceases to compress the audio</source>
-        <translation type="unfinished"/>
+        <translation>A kompresszió megszűnésének sebessége</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="113"/>
@@ -2651,7 +2652,7 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="130"/>
         <source>Delay between attack and release stages</source>
-        <translation type="unfinished"/>
+        <translation>Az attack és release fázisok közötti késleltetés</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="133"/>
@@ -2812,7 +2813,7 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="214"/>
         <source>Mid/Side</source>
-        <translation type="unfinished"/>
+        <translation>Mid/Side</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="217"/>
@@ -2837,7 +2838,7 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="232"/>
         <source>Set Ratio to infinity (is not guaranteed to limit audio volume)</source>
-        <translation type="unfinished"/>
+        <translation>Az arány végtelenre állítása (nem garantált a jelszint-korlátozás)</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="239"/>
@@ -2941,12 +2942,12 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="40"/>
         <source>Attack</source>
-        <translation>Felfutás</translation>
+        <translation>Attack</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="41"/>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Release</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="42"/>
@@ -2971,7 +2972,7 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="46"/>
         <source>Mid/Side</source>
-        <translation type="unfinished"/>
+        <translation>Mid/Side</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="47"/>
@@ -3061,7 +3062,7 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="64"/>
         <source>Stereo Link</source>
-        <translation type="unfinished"/>
+        <translation>Sztereó összekapcsolás</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="65"/>
@@ -3118,12 +3119,12 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="174"/>
         <source>MIDI-devices to receive MIDI-events from</source>
-        <translation type="unfinished"/>
+        <translation>MIDI események fogadása erről az eszközről</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="184"/>
         <source>USER CONTROLLER</source>
-        <translation type="unfinished"/>
+        <translation>SZOFTVERES VEZÉRLŐ</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="202"/>
@@ -3156,7 +3157,7 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="49"/>
         <source>Controller Rack</source>
-        <translation type="unfinished"/>
+        <translation>Vezérlő Rack</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="64"/>
@@ -3171,7 +3172,7 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="128"/>
         <source>Confirm delete? There are existing connection(s) associated with this controller. There is no way to undo.</source>
-        <translation type="unfinished"/>
+        <translation>Biztosan törlöd? Ehhez a vezérlőhöz működő kapcsolatok tartoznak. A visszavonás nem lehetséges.</translation>
     </message>
 </context>
 <context>
@@ -3348,7 +3349,7 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="56"/>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>FDBK</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="57"/>
@@ -3358,7 +3359,7 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="63"/>
         <source>RATE</source>
-        <translation type="unfinished"/>
+        <translation>FREKV</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="64"/>
@@ -3501,7 +3502,7 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="583"/>
         <source>Error here</source>
-        <translation type="unfinished"/>
+        <translation>Hiba helye</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="14"/>
@@ -3516,12 +3517,12 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="26"/>
         <source>UDP Port:</source>
-        <translation type="unfinished"/>
+        <translation>UDP Port:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="36"/>
         <source>Remote host:</source>
-        <translation type="unfinished"/>
+        <translation>Távoli hoszt:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_osc_connect.ui" line="66"/>
@@ -3600,7 +3601,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings_driver.ui" line="249"/>
         <source>Restart the engine to load the new settings</source>
-        <translation type="unfinished"/>
+        <translation>Indítsd újra a motort az új beállítások betöltéséhez</translation>
     </message>
 </context>
 <context>
@@ -3621,7 +3622,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="55"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="59"/>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>RESO</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="55"/>
@@ -3644,7 +3645,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="57"/>
         <source>MIX</source>
-        <translation type="unfinished"/>
+        <translation>MIX</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="57"/>
@@ -3867,7 +3868,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="95"/>
         <source>Transport controls</source>
-        <translation type="unfinished"/>
+        <translation>Továbbítás vezérlők</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="103"/>
@@ -3877,7 +3878,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="104"/>
         <source>Stop (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Stop (Space)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="106"/>
@@ -4190,7 +4191,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="218"/>
         <source>FREQ x 100</source>
-        <translation type="unfinished"/>
+        <translation>FREKVENCIA x 100</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="221"/>
@@ -4205,7 +4206,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="229"/>
         <source>Control envelope amount by this LFO</source>
-        <translation type="unfinished"/>
+        <translation>A burkológörbe erősségének vezérlése az LFO-val</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="504"/>
@@ -4268,7 +4269,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="45"/>
         <source>HP res</source>
-        <translation type="unfinished"/>
+        <translation>Felüláteresztő rezonancia</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="46"/>
@@ -4303,12 +4304,12 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="52"/>
         <source>LP res</source>
-        <translation type="unfinished"/>
+        <translation>Aluláteresztő rezonancia</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="53"/>
         <source>HP freq</source>
-        <translation type="unfinished"/>
+        <translation>Felüláteresztő frekvencia</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="54"/>
@@ -4343,12 +4344,12 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="60"/>
         <source>LP freq</source>
-        <translation type="unfinished"/>
+        <translation>Aluláteresztő frekvencia</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="61"/>
         <source>HP active</source>
-        <translation type="unfinished"/>
+        <translation>Felüláteresztő aktív</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="62"/>
@@ -4383,37 +4384,37 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="68"/>
         <source>LP active</source>
-        <translation type="unfinished"/>
+        <translation>Aluláteresztő aktív</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="69"/>
         <source>LP 12</source>
-        <translation type="unfinished"/>
+        <translation>LP 12</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="70"/>
         <source>LP 24</source>
-        <translation type="unfinished"/>
+        <translation>LP 24</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="71"/>
         <source>LP 48</source>
-        <translation type="unfinished"/>
+        <translation>LP 48</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="72"/>
         <source>HP 12</source>
-        <translation type="unfinished"/>
+        <translation>HP 12</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="73"/>
         <source>HP 24</source>
-        <translation type="unfinished"/>
+        <translation>HP 24</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="74"/>
         <source>HP 48</source>
-        <translation type="unfinished"/>
+        <translation>HP 48</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="75"/>
@@ -4428,12 +4429,12 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="77"/>
         <source>Analyse IN</source>
-        <translation type="unfinished"/>
+        <translation>Bemeneti jel mutatása</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="78"/>
         <source>Analyse OUT</source>
-        <translation type="unfinished"/>
+        <translation>Kimeneti jel mutatása</translation>
     </message>
 </context>
 <context>
@@ -4531,18 +4532,18 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="132"/>
         <source>Reso: </source>
-        <translation type="unfinished"/>
+        <translation>Rezonancia:</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="136"/>
         <source>BW: </source>
-        <translation type="unfinished"/>
+        <translation>Sávszélesség:</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="148"/>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="151"/>
         <source>Freq: </source>
-        <translation type="unfinished"/>
+        <translation>Frekvencia:</translation>
     </message>
 </context>
 <context>
@@ -4565,12 +4566,12 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="61"/>
         <source>Render Looped Section:</source>
-        <translation type="unfinished"/>
+        <translation>Ismételt tartomány renderelése ennyiszer:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="68"/>
         <source> time(s)</source>
-        <translation type="unfinished"/>
+        <translation> </translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="89"/>
@@ -4710,7 +4711,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="387"/>
         <source>Zero order hold</source>
-        <translation type="unfinished"/>
+        <translation>Zero order hold</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="392"/>
@@ -4730,7 +4731,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="410"/>
         <source>Oversampling:</source>
-        <translation type="unfinished"/>
+        <translation>Túlmintavételezés:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="418"/>
@@ -4881,7 +4882,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="547"/>
         <source> (%2Enter)</source>
-        <translation type="unfinished"/>
+        <translation> (%2Enter)</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="557"/>
@@ -4967,7 +4968,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="54"/>
         <source>RATE</source>
-        <translation type="unfinished"/>
+        <translation>FREKV</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="55"/>
@@ -4997,7 +4998,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="75"/>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>FDBK</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="76"/>
@@ -5556,7 +5557,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="151"/>
         <source>Preparing piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Piano roll előkészítése</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="155"/>
@@ -5667,7 +5668,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="95"/>
         <source>ARPEGGIO</source>
-        <translation type="unfinished"/>
+        <translation>ARPEGGIO</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="117"/>
@@ -6316,7 +6317,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="94"/>
         <source>CHAN</source>
         <extracomment>This string must be be short, its width must be less than * width of LCD spin-box of two digits</extracomment>
-        <translation type="unfinished"/>
+        <translation>CSAT</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="71"/>
@@ -6329,7 +6330,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="109"/>
         <source>PROG</source>
         <extracomment>This string must be be short, its width must be less than the * width of LCD spin-box of three digits</extracomment>
-        <translation type="unfinished"/>
+        <translation>PROG</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="118"/>
@@ -6340,12 +6341,12 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="134"/>
         <source>MIDI devices to receive MIDI events from</source>
-        <translation type="unfinished"/>
+        <translation>MIDI események fogadása erről az eszközről</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="142"/>
         <source>MIDI devices to send MIDI events to</source>
-        <translation type="unfinished"/>
+        <translation>MIDI események küldése erre az eszközre</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="151"/>
@@ -6368,7 +6369,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="221"/>
         <source>MASTER PITCH</source>
-        <translation type="unfinished"/>
+        <translation>TRANSZPONÁLÁS</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="225"/>
@@ -6402,7 +6403,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="51"/>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>RESO</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="52"/>
@@ -6565,7 +6566,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="88"/>
         <source>Q/RESO</source>
-        <translation type="unfinished"/>
+        <translation>Q/RESO</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="90"/>
@@ -6581,10 +6582,10 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
 <context>
     <name>InstrumentTrack</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="89"/>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="100"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="91"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="103"/>
         <source>unnamed_track</source>
-        <translation type="unfinished"/>
+        <translation>névtelen_sáv</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="97"/>
@@ -6593,46 +6594,56 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="98"/>
+        <source>First note</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="99"/>
+        <source>Last note</source>
+        <translation>Legutóbbi</translation>
+    </message>
+    <message>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="101"/>
         <source>Volume</source>
         <translation>Hangerő</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="99"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="102"/>
         <source>Panning</source>
         <translation>Panoráma</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="101"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="104"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Hangmagasság</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="102"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="105"/>
         <source>Pitch range</source>
-        <translation type="unfinished"/>
+        <translation>Hangmagasság tartomány</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="103"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="106"/>
         <source>FX channel</source>
         <translation>Keverő csatorna</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="104"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="107"/>
         <source>Master pitch</source>
         <translation>Transzponálás</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="126"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="132"/>
         <source>Enable/Disable MIDI CC</source>
         <translation>MIDI CC engedélyezése</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="133"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="139"/>
         <source>CC Controller %1</source>
         <translation>CC vezérlő %1</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="139"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="145"/>
         <location filename="../../plugins/vestige/vestige.cpp" line="335"/>
         <source>Default preset</source>
         <translation>Alapértelmezett preset</translation>
@@ -6641,57 +6652,57 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
 <context>
     <name>InstrumentTrackView</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1050"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1065"/>
         <source>Volume</source>
         <translation>Hangerő</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1053"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1068"/>
         <source>Volume:</source>
         <translation>Hangerő:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1055"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1070"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1059"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1074"/>
         <source>Panning</source>
         <translation>Panoráma</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1061"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1076"/>
         <source>Panning:</source>
         <translation>Panoráma:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1063"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1078"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1066"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1081"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1098"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1113"/>
         <source>Input</source>
         <translation>Bemenet</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1099"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1114"/>
         <source>Output</source>
         <translation>Kimenet</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1101"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1116"/>
         <source>Open/Close MIDI CC Rack</source>
         <translation>MIDI CC Rack megnyitása/bezárása</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1340"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1355"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
@@ -6699,127 +6710,127 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
 <context>
     <name>InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1369"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1384"/>
         <source>GENERAL SETTINGS</source>
         <translation>ÁLTALÁNOS BEÁLLÍTÁSOK</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1415"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1430"/>
         <source>Volume</source>
         <translation>Hangerő</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1417"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1432"/>
         <source>Volume:</source>
         <translation>Hangerő:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1422"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1437"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1429"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1444"/>
         <source>Panning</source>
         <translation>Panoráma</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1430"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1445"/>
         <source>Panning:</source>
         <translation>Panoráma:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1435"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1450"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1445"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1460"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Hangmagasság</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1446"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
         <source>Pitch:</source>
-        <translation type="unfinished"/>
+        <translation>Hangmagasság:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1446"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
         <source>cents</source>
         <translation>cent</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1451"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1466"/>
         <source>PITCH</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1458"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1473"/>
         <source>Pitch range (semitones)</source>
-        <translation type="unfinished"/>
+        <translation>Hangmagasság tartomány (félhangok)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1463"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1478"/>
         <source>RANGE</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1473"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1488"/>
         <source>FX channel</source>
         <translation>Keverő csatorna</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1478"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1493"/>
         <source>FX</source>
         <translation>FX</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1488"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1503"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>Aktuális hangszersáv beállításainak mentése</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1492"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1507"/>
         <source>SAVE</source>
         <translation>MENTÉS</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1531"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1546"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation>Burkológörbe, szűrő, LFO</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1532"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1547"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1533"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1548"/>
         <source>Effects</source>
         <translation>Effektek</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1534"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1549"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1535"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1550"/>
         <source>Miscellaneous</source>
         <translation>Egyéb</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1655"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1670"/>
         <source>Save preset</source>
         <translation>Preset mentése</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1655"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1670"/>
         <source>XML preset file (*.xpf)</source>
         <translation>XML preset fájl (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1710"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1725"/>
         <source>Plugin</source>
         <translation>Plugin</translation>
     </message>
@@ -6847,17 +6858,17 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about_juce.ui" line="14"/>
         <source>About JUCE</source>
-        <translation type="unfinished"/>
+        <translation>A JUCE névjegye</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about_juce.ui" line="61"/>
         <source>&lt;b&gt;About JUCE&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;A JUCE névjegye&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about_juce.ui" line="84"/>
         <source>This program uses JUCE version 3.x.x.</source>
-        <translation type="unfinished"/>
+        <translation>Ez a program a JUCE 3.x.x verziót használja.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about_juce.ui" line="107"/>
@@ -6874,7 +6885,7 @@ Copyright (C) 2017 ROLI Ltd.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="217"/>
         <source>This program uses JUCE version %1.</source>
-        <translation type="unfinished"/>
+        <translation>Ez a program a JUCE %1 verziót használja.</translation>
     </message>
 </context>
 <context>
@@ -7049,7 +7060,7 @@ Copyright (C) 2017 ROLI Ltd.</source>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="70"/>
         <source>BASE</source>
-        <translation type="unfinished"/>
+        <translation>ALAP</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="72"/>
@@ -7445,7 +7456,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
         <location filename="../../src/gui/MainWindow.cpp" line="511"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1130"/>
         <source>Piano Roll</source>
-        <translation type="unfinished"/>
+        <translation>Piano Roll</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="519"/>
@@ -7558,7 +7569,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1143"/>
         <source>Controller Rack</source>
-        <translation type="unfinished"/>
+        <translation>Vezérlő Rack</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1147"/>
@@ -7702,7 +7713,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="48"/>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="124"/>
         <source>MIDI CC Rack - %1</source>
-        <translation type="unfinished"/>
+        <translation>MIDI CC Rack - %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="68"/>
@@ -7725,7 +7736,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/core/midi/MidiController.cpp" line="38"/>
         <source>unnamed_midi_controller</source>
-        <translation type="unfinished"/>
+        <translation>névtelen_midi_vezérlő</translation>
     </message>
 </context>
 <context>
@@ -7999,7 +8010,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="440"/>
         <source>F</source>
-        <translation type="unfinished"/>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="448"/>
@@ -8009,7 +8020,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="451"/>
         <source>D</source>
-        <translation type="unfinished"/>
+        <translation>D</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="456"/>
@@ -8019,7 +8030,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="459"/>
         <source>A</source>
-        <translation type="unfinished"/>
+        <translation>A</translation>
     </message>
 </context>
 <context>
@@ -8098,7 +8109,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="833"/>
         <source>Osc 1 panning</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 panoráma</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="834"/>
@@ -8143,7 +8154,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="843"/>
         <source>Osc 2 panning</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 panoráma</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="844"/>
@@ -8188,7 +8199,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="853"/>
         <source>Osc 3 panning</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 panoráma</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="854"/>
@@ -8338,7 +8349,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="888"/>
         <source>Osc 2+3 modulation</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2+3 moduláció</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="890"/>
@@ -8728,7 +8739,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1647"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1660"/>
         <source>Fine tune left</source>
-        <translation type="unfinished"/>
+        <translation>Finomhangolás bal</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1647"/>
@@ -8742,7 +8753,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1648"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1661"/>
         <source>Fine tune right</source>
-        <translation type="unfinished"/>
+        <translation>Finomhangolás jobb</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1649"/>
@@ -8806,7 +8817,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1709"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1717"/>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Attack</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1697"/>
@@ -8818,13 +8829,13 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1698"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1706"/>
         <source>Phase</source>
-        <translation type="unfinished"/>
+        <translation>Fázis</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1708"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1716"/>
         <source>Pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>Késleltetés</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1710"/>
@@ -8842,13 +8853,13 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1712"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1720"/>
         <source>Sustain</source>
-        <translation type="unfinished"/>
+        <translation>Kitartás</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1713"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1721"/>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Release</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1714"/>
@@ -8955,7 +8966,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="97"/>
         <source>Low-pass stages:</source>
-        <translation type="unfinished"/>
+        <translation>Aluláteresztő fokozatok:</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="100"/>
@@ -9068,7 +9079,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="538"/>
         <source>Vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Vibrato</translation>
     </message>
 </context>
 <context>
@@ -9214,7 +9225,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="841"/>
         <source>Noise mode</source>
-        <translation type="unfinished"/>
+        <translation>Zaj mód</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="845"/>
@@ -9224,7 +9235,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="846"/>
         <source>Vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Vibrato</translation>
     </message>
 </context>
 <context>
@@ -9287,12 +9298,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="109"/>
         <source>Op 1 tremolo</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 tremolo</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="110"/>
         <source>Op 1 vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 vibrato</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="115"/>
@@ -9347,12 +9358,12 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="127"/>
         <source>Op 2 tremolo</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 tremolo</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="128"/>
         <source>Op 2 vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 vibrato</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="133"/>
@@ -9367,39 +9378,39 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="136"/>
         <source>Vibrato depth</source>
-        <translation type="unfinished"/>
+        <translation>Vibrato mélység</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="137"/>
         <source>Tremolo depth</source>
-        <translation type="unfinished"/>
+        <translation>Tremolo mélység</translation>
     </message>
 </context>
 <context>
     <name>OpulenzInstrumentView</name>
     <message>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="803"/>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="805"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="802"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="804"/>
         <source>Attack</source>
         <translation>Felfutás</translation>
     </message>
     <message>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="807"/>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="809"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="806"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="808"/>
         <source>Decay</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="811"/>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="813"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="810"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="812"/>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Release</translation>
     </message>
     <message>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="815"/>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="817"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="814"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="816"/>
         <source>Frequency multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Frekvencia szorzó</translation>
     </message>
 </context>
 <context>
@@ -9565,42 +9576,42 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PatternView</name>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="141"/>
+        <location filename="../../src/gui/PatternView.cpp" line="143"/>
         <source>Open in piano-roll</source>
-        <translation type="unfinished"/>
+        <translation>Megnyitás a Piano Rollban</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="147"/>
+        <location filename="../../src/gui/PatternView.cpp" line="149"/>
         <source>Set as ghost in piano-roll</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="156"/>
+        <location filename="../../src/gui/PatternView.cpp" line="158"/>
         <source>Clear all notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="159"/>
+        <location filename="../../src/gui/PatternView.cpp" line="161"/>
         <source>Reset name</source>
         <translation>Név visszaállítása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="162"/>
+        <location filename="../../src/gui/PatternView.cpp" line="164"/>
         <source>Change name</source>
         <translation>Átnevezés</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="170"/>
+        <location filename="../../src/gui/PatternView.cpp" line="172"/>
         <source>Add steps</source>
         <translation>Lépések hozzáadása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="172"/>
+        <location filename="../../src/gui/PatternView.cpp" line="174"/>
         <source>Remove steps</source>
         <translation>Lépések eltávolítása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="174"/>
+        <location filename="../../src/gui/PatternView.cpp" line="176"/>
         <source>Clone Steps</source>
         <translation>Megduplázás</translation>
     </message>
@@ -9641,7 +9652,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="50"/>
         <source>BASE</source>
-        <translation type="unfinished"/>
+        <translation>ALAP</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="52"/>
@@ -9729,7 +9740,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="42"/>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Release</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_controls.cpp" line="43"/>
@@ -9860,13 +9871,13 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3583"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3603"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Nyiss meg egy kilppet dupla kattintással!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4220"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4239"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4240"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4259"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Adj meg egy új értéket %1 és %2 között:</translation>
     </message>
@@ -9874,241 +9885,241 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4697"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4714"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Klip lejátszása/megállítása (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4698"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4715"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4699"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4716"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4700"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4717"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4701"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4718"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Lejátszás leállítása (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4703"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4720"/>
         <source>Edit actions</source>
         <translation>Műveletek szerkesztése</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4707"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
         <source>Draw mode (Shift+D)</source>
-        <translation>Beszúrás mód (Shift+D)</translation>
+        <translation>Beszúrás (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4708"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4725"/>
         <source>Erase mode (Shift+E)</source>
-        <translation>Törlés mód (Shift+E)</translation>
+        <translation>Törlés (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4709"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
         <source>Select mode (Shift+S)</source>
         <translation>Kijelölés (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4710"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Hajlítás (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4725"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4742"/>
         <source>Quantize</source>
         <translation>Kvantálás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4743"/>
         <source>Quantize positions</source>
         <translation>Pozíció kvantálása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4744"/>
         <source>Quantize lengths</source>
         <translation>Hosszúság kvantálása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4747"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>File actions</source>
         <translation>Fájl műveletek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4773"/>
         <source>Import pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5215"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4776"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5232"/>
         <source>Export pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4770"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4787"/>
         <source>Copy paste controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4773"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4790"/>
         <source>Cut (%1+X)</source>
         <translation>Kivágás (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4776"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4793"/>
         <source>Copy (%1+C)</source>
         <translation>Másolás (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4779"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4796"/>
         <source>Paste (%1+V)</source>
         <translation>Beillesztés (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4794"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
         <source>Timeline controls</source>
         <translation>Idővonal vezérlők</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4820"/>
         <source>Glue</source>
         <translation>Egyesítés</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4808"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
         <source>Knife</source>
         <translation>Felosztás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4829"/>
         <source>Fill</source>
         <translation>Kitöltés</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4816"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4820"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4837"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4840"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4838"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4855"/>
         <source>Zoom and note controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4863"/>
         <source>Horizontal zooming</source>
         <translation>Vízszintes nagyítás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4854"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
         <source>Vertical zooming</source>
         <translation>Függőleges nagyítás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4863"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4880"/>
         <source>Quantization</source>
         <translation>Kvantálás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4872"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4889"/>
         <source>Note length</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4878"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4887"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4904"/>
         <source>Scale</source>
         <translation>Skála</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4896"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4913"/>
         <source>Chord</source>
         <translation>Akkord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4905"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4922"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4910"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4927"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5019"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5192"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5036"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5209"/>
         <source>Piano-Roll - %1</source>
-        <translation type="unfinished"/>
+        <translation>Piano-Roll - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5026"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5197"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5043"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5214"/>
         <source>Piano-Roll - no pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5216"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5263"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5233"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5280"/>
         <source>XML pattern file (*.xpt *.xptz)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5236"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5253"/>
         <source>Export pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5237"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5254"/>
         <source>Pattern saved to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5252"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5269"/>
         <source>Import pattern.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5253"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5270"/>
         <source>You are about to import a pattern, this will overwrite your current pattern. Do you want to continue?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5262"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5279"/>
         <source>Open pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5282"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5299"/>
         <source>Import pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5283"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5300"/>
         <source>Imported pattern %1!</source>
         <translation type="unfinished"/>
     </message>
@@ -10116,9 +10127,19 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PianoView</name>
     <message>
-        <location filename="../../src/gui/PianoView.cpp" line="395"/>
+        <location filename="../../src/gui/PianoView.cpp" line="813"/>
         <source>Base note</source>
         <translation>Alaphang</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/PianoView.cpp" line="818"/>
+        <source>First note</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/PianoView.cpp" line="823"/>
+        <source>Last note</source>
+        <translation>Legutóbbi</translation>
     </message>
 </context>
 <context>
@@ -10206,7 +10227,7 @@ Ok: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/Compressor/Compressor.cpp" line="39"/>
         <source>A dynamic range compressor.</source>
-        <translation type="unfinished"/>
+        <translation>Dinamikakompresszor</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQ.cpp" line="39"/>
@@ -10301,7 +10322,7 @@ Ok: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEcho.cpp" line="37"/>
         <source>A multitap echo delay plugin</source>
-        <translation type="unfinished"/>
+        <translation>Többlépéses késleltetés</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="47"/>
@@ -10331,7 +10352,7 @@ Ok: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSC.cpp" line="38"/>
         <source>Reverb algorithm by Sean Costello</source>
-        <translation type="unfinished"/>
+        <translation>Sean Costello zengető algoritmusa</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="60"/>
@@ -10377,7 +10398,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/Vectorscope/Vectorscope.cpp" line="36"/>
         <source>A stereo field visualizer.</source>
-        <translation type="unfinished"/>
+        <translation>Sztereó tér megjelenítése</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="75"/>
@@ -10836,12 +10857,14 @@ This chip was used in the Commodore 64 computer.</source>
         <source>
 Plugin Name
 </source>
-        <translation type="unfinished"/>
+        <translation>
+Plugin név
+</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="554"/>
         <source>Program:</source>
-        <translation type="unfinished"/>
+        <translation>Program:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="609"/>
@@ -10866,7 +10889,7 @@ Plugin Name
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="708"/>
         <source>Label/URI:</source>
-        <translation type="unfinished"/>
+        <translation>Címke/URI:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="718"/>
@@ -10935,7 +10958,7 @@ Plugin Name
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="38"/>
         <source>Search for new...</source>
-        <translation type="unfinished"/>
+        <translation>A következők keresése:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="49"/>
@@ -12690,7 +12713,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="634"/>
         <source>Ring modulation</source>
-        <translation type="unfinished"/>
+        <translation>Ring moduláció</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="643"/>
@@ -12734,32 +12757,32 @@ Latency: %2 ms</source>
         <translation>Transzponálás</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1024"/>
+        <location filename="../../src/core/Song.cpp" line="1038"/>
         <source>Aborting project load</source>
         <translation>Betöltés megszakítása</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1025"/>
+        <location filename="../../src/core/Song.cpp" line="1039"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1030"/>
+        <location filename="../../src/core/Song.cpp" line="1044"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1184"/>
+        <location filename="../../src/core/Song.cpp" line="1198"/>
         <source>LMMS Error report</source>
         <translation>LMMS hibajelentés</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1426"/>
+        <location filename="../../src/core/Song.cpp" line="1440"/>
         <source> (repeated %1 times)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1433"/>
+        <location filename="../../src/core/Song.cpp" line="1447"/>
         <source>The following errors occurred while loading: </source>
         <translation>Az alábbi hibák történtek a betöltés során:</translation>
     </message>
@@ -12821,32 +12844,32 @@ Latency: %2 ms</source>
 Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra!</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1763"/>
+        <location filename="../../src/core/DataFile.cpp" line="1841"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>Ez a %1 az LMMS %2 verziójával készült</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1718"/>
+        <location filename="../../src/core/DataFile.cpp" line="1796"/>
         <source>Error in file</source>
         <translation>Hiba a fájlban</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1719"/>
+        <location filename="../../src/core/DataFile.cpp" line="1797"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>A(z) %1 fájl hibát tartalmaz, ezért nem lehet betölteni.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1762"/>
+        <location filename="../../src/core/DataFile.cpp" line="1840"/>
         <source>Version difference</source>
         <translation>Verzió eltérés</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1759"/>
+        <location filename="../../src/core/DataFile.cpp" line="1837"/>
         <source>template</source>
         <translation>sablon</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1759"/>
+        <location filename="../../src/core/DataFile.cpp" line="1837"/>
         <source>project</source>
         <translation>projekt</translation>
     </message>
@@ -12858,12 +12881,12 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="113"/>
         <source>TEMPO</source>
-        <translation type="unfinished"/>
+        <translation>TEMPÓ</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="114"/>
         <source>Tempo in BPM</source>
-        <translation type="unfinished"/>
+        <translation>Tempó BPM-ben</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="120"/>
@@ -12950,7 +12973,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="959"/>
         <source>Draw mode</source>
-        <translation type="unfinished"/>
+        <translation>Beszúrás</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="960"/>
@@ -13166,7 +13189,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="68"/>
         <source>MIN</source>
-        <translation type="unfinished"/>
+        <translation>MIN</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="69"/>
@@ -13331,7 +13354,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="656"/>
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="908"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2 (%3:%4 - %5:%6)</translation>
     </message>
     <message>
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="675"/>
@@ -13509,7 +13532,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="363"/>
         <source>Clear clip colors</source>
-        <translation type="unfinished"/>
+        <translation>Klip színek törlése</translation>
     </message>
 </context>
 <context>
@@ -13680,7 +13703,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="63"/>
         <source>HQ</source>
-        <translation type="unfinished"/>
+        <translation>HQ</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="64"/>
@@ -13846,7 +13869,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="238"/>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="253"/>
         <source>Effect by: </source>
-        <translation type="unfinished"/>
+        <translation>Készítő: </translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="254"/>
@@ -13876,7 +13899,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="558"/>
         <source>: default</source>
-        <translation type="unfinished"/>
+        <translation>: alapértelmezett</translation>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="561"/>
@@ -14476,7 +14499,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="115"/>
         <source>Portamento</source>
-        <translation type="unfinished"/>
+        <translation>Portamento</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="116"/>
@@ -14519,12 +14542,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="515"/>
         <source>Portamento:</source>
-        <translation type="unfinished"/>
+        <translation>Portamento:</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="516"/>
         <source>PORT</source>
-        <translation type="unfinished"/>
+        <translation>PORT</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="519"/>
@@ -14544,7 +14567,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="524"/>
         <source>RES</source>
-        <translation type="unfinished"/>
+        <translation>RES</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="527"/>
@@ -14554,7 +14577,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="528"/>
         <source>BW</source>
-        <translation type="unfinished"/>
+        <translation>BW</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="531"/>
@@ -14584,7 +14607,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="540"/>
         <source>RES BW</source>
-        <translation type="unfinished"/>
+        <translation>RES BW</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="542"/>
@@ -15379,7 +15402,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="77"/>
         <source>ADSR</source>
-        <translation type="unfinished"/>
+        <translation>ADSR</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="78"/>
@@ -15597,12 +15620,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="511"/>
         <source>ADSR</source>
-        <translation type="unfinished"/>
+        <translation>ADSR</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="513"/>
         <source>ADSR:</source>
-        <translation type="unfinished"/>
+        <translation>ADSR:</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="531"/>
@@ -15723,7 +15746,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="529"/>
         <source>Osc %1 stereo detuning</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 sztereó elhangolás</translation>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="531"/>
@@ -16015,7 +16038,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="76"/>
         <source>String %1 volume</source>
-        <translation>Húr %1 hangerő</translation>
+        <translation>%1. húr hangerő</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="80"/>
@@ -16035,7 +16058,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="92"/>
         <source>String %1 panning</source>
-        <translation type="unfinished"/>
+        <translation>%1. húr panoráma</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="96"/>
@@ -16060,7 +16083,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="112"/>
         <source>String %1</source>
-        <translation>Húr %1</translation>
+        <translation>%1. húr</translation>
     </message>
 </context>
 <context>
@@ -16088,7 +16111,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="382"/>
         <source>String panning:</source>
-        <translation type="unfinished"/>
+        <translation>Húr panoráma:</translation>
     </message>
     <message>
         <location filename="../../plugins/vibed/vibed.cpp" line="386"/>

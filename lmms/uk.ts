@@ -317,62 +317,62 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomatableModel</name>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="60"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="59"/>
         <source>&amp;Reset (%1%2)</source>
         <translation>&amp;R Скинути (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="67"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="66"/>
         <source>&amp;Copy value (%1%2)</source>
         <translation>&amp;C Копіювати значення (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="75"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="74"/>
         <source>&amp;Paste value (%1%2)</source>
         <translation>&amp;P Вставити значення (%1%2)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="78"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="77"/>
         <source>&amp;Paste value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="86"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="85"/>
         <source>Edit song-global automation</source>
         <translation>Змінити глоабльную автоматизацію композиції</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="91"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="90"/>
         <source>Remove song-global automation</source>
         <translation>Прибрати глобальну автоматизацію композиції</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="100"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="99"/>
         <source>Remove all linked controls</source>
         <translation>Прибрати все приєднане управління</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="111"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="110"/>
         <source>Connected to %1</source>
         <translation>Приєднано до %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="115"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="114"/>
         <source>Connected to controller</source>
         <translation>Приєднано до контролера</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="121"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="120"/>
         <source>Edit connection...</source>
         <translation>Налаштувати з&apos;єднання...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="124"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="123"/>
         <source>Remove connection</source>
         <translation>Видалити з&apos;єднання</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomatableModelView.cpp" line="130"/>
+        <location filename="../../src/gui/AutomatableModelView.cpp" line="129"/>
         <source>Connect to controller...</source>
         <translation>З&apos;єднати з контролером ...</translation>
     </message>
@@ -518,7 +518,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
 <context>
     <name>AutomationPattern</name>
     <message>
-        <location filename="../../src/core/AutomationPattern.cpp" line="867"/>
+        <location filename="../../src/core/AutomationPattern.cpp" line="866"/>
         <source>Drag a control while pressing &lt;%1&gt;</source>
         <translation>Тягніть контроль утримуючи &lt;%1&gt;</translation>
     </message>
@@ -6578,8 +6578,8 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>InstrumentTrack</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="89"/>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="100"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="91"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="103"/>
         <source>unnamed_track</source>
         <translation>безіменна_доріжка</translation>
     </message>
@@ -6590,46 +6590,56 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="98"/>
+        <source>First note</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="99"/>
+        <source>Last note</source>
+        <translation>По останій ноті</translation>
+    </message>
+    <message>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="101"/>
         <source>Volume</source>
         <translation>Гучність</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="99"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="102"/>
         <source>Panning</source>
         <translation>Стерео</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="101"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="104"/>
         <source>Pitch</source>
         <translation>Тональність</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="102"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="105"/>
         <source>Pitch range</source>
         <translation>Діапазон тональності</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="103"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="106"/>
         <source>FX channel</source>
         <translation>Канал ЕФ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="104"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="107"/>
         <source>Master pitch</source>
         <translation>Основна тональність </translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="126"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="132"/>
         <source>Enable/Disable MIDI CC</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="133"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="139"/>
         <source>CC Controller %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="139"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="145"/>
         <location filename="../../plugins/vestige/vestige.cpp" line="335"/>
         <source>Default preset</source>
         <translation>Основна предустановка</translation>
@@ -6638,57 +6648,57 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>InstrumentTrackView</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1050"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1065"/>
         <source>Volume</source>
         <translation>Гучність</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1053"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1068"/>
         <source>Volume:</source>
         <translation>Гучність:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1055"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1070"/>
         <source>VOL</source>
         <translation>ГУЧН</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1059"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1074"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1061"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1076"/>
         <source>Panning:</source>
         <translation>Баланс:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1063"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1078"/>
         <source>PAN</source>
         <translation>БАЛ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1066"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1081"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1098"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1113"/>
         <source>Input</source>
         <translation>Вхід</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1099"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1114"/>
         <source>Output</source>
         <translation>Вихід</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1101"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1116"/>
         <source>Open/Close MIDI CC Rack</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1340"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1355"/>
         <source>FX %1: %2</source>
         <translation>ЕФ %1: %2</translation>
     </message>
@@ -6696,127 +6706,127 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1369"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1384"/>
         <source>GENERAL SETTINGS</source>
         <translation>ОСНОВНІ НАЛАШТУВАННЯ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1415"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1430"/>
         <source>Volume</source>
         <translation>Гучність</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1417"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1432"/>
         <source>Volume:</source>
         <translation>Гучність:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1422"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1437"/>
         <source>VOL</source>
         <translation>ГУЧН</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1429"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1444"/>
         <source>Panning</source>
         <translation>Баланс</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1430"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1445"/>
         <source>Panning:</source>
         <translation>Стереобаланс:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1435"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1450"/>
         <source>PAN</source>
         <translation>БАЛ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1445"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1460"/>
         <source>Pitch</source>
         <translation>Тональність</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1446"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
         <source>Pitch:</source>
         <translation>Тональність:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1446"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
         <source>cents</source>
         <translation>відсотків</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1451"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1466"/>
         <source>PITCH</source>
         <translation>ТОН</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1458"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1473"/>
         <source>Pitch range (semitones)</source>
         <translation>Діапазон тональності (півтону)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1463"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1478"/>
         <source>RANGE</source>
         <translation>ДІАПАЗОН</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1473"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1488"/>
         <source>FX channel</source>
         <translation>Канал ЕФ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1478"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1493"/>
         <source>FX</source>
         <translation>ЕФ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1488"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1503"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>Зберегти поточну інструментаьную доріжку в файл предустановок</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1492"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1507"/>
         <source>SAVE</source>
         <translation>ЗБЕРЕГТИ</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1531"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1546"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation>Обвідна, фільтр &amp; LFO</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1532"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1547"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation>Укладання акордів &amp; арпеджіо</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1533"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1548"/>
         <source>Effects</source>
         <translation>Ефекти</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1534"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1549"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1535"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1550"/>
         <source>Miscellaneous</source>
         <translation>Різне</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1655"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1670"/>
         <source>Save preset</source>
         <translation>Зберегти передустановку</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1655"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1670"/>
         <source>XML preset file (*.xpf)</source>
         <translation>XML файл налаштувань (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1710"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1725"/>
         <source>Plugin</source>
         <translation>Модуль</translation>
     </message>
@@ -9374,26 +9384,26 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>OpulenzInstrumentView</name>
     <message>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="803"/>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="805"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="802"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="804"/>
         <source>Attack</source>
         <translation>Вступ</translation>
     </message>
     <message>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="807"/>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="809"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="806"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="808"/>
         <source>Decay</source>
         <translation>Згасання</translation>
     </message>
     <message>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="811"/>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="813"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="810"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="812"/>
         <source>Release</source>
         <translation>Зменшення</translation>
     </message>
     <message>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="815"/>
-        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="817"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="814"/>
+        <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="816"/>
         <source>Frequency multiplier</source>
         <translation>Множник частоти</translation>
     </message>
@@ -9561,42 +9571,42 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PatternView</name>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="141"/>
+        <location filename="../../src/gui/PatternView.cpp" line="143"/>
         <source>Open in piano-roll</source>
         <translation>Відкрити в редакторі нот</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="147"/>
+        <location filename="../../src/gui/PatternView.cpp" line="149"/>
         <source>Set as ghost in piano-roll</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="156"/>
+        <location filename="../../src/gui/PatternView.cpp" line="158"/>
         <source>Clear all notes</source>
         <translation>Очистити всі ноти</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="159"/>
+        <location filename="../../src/gui/PatternView.cpp" line="161"/>
         <source>Reset name</source>
         <translation>Скинути назву</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="162"/>
+        <location filename="../../src/gui/PatternView.cpp" line="164"/>
         <source>Change name</source>
         <translation>Перейменувати</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="170"/>
+        <location filename="../../src/gui/PatternView.cpp" line="172"/>
         <source>Add steps</source>
         <translation>Додати такти</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="172"/>
+        <location filename="../../src/gui/PatternView.cpp" line="174"/>
         <source>Remove steps</source>
         <translation>Видалити такти</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PatternView.cpp" line="174"/>
+        <location filename="../../src/gui/PatternView.cpp" line="176"/>
         <source>Clone Steps</source>
         <translation>Клонувати такти</translation>
     </message>
@@ -9856,13 +9866,13 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3583"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3603"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Відкрийте шаблон за допомогою подвійного клацання мишею!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4220"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4239"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4240"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4259"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Введіть нове значення від %1 до %2:</translation>
     </message>
@@ -9870,241 +9880,241 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4697"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4714"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Гра/Пауза поточної мелодії (Пробіл)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4698"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4715"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Записати ноти з цифрового музичного інструмента (MIDI)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4699"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4716"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Записати ноти з цифрового музичного інструменту (MIDI) під час відтворення пісні або доріжки Ритм-Басу</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4700"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4717"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4701"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4718"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Зупинити програвання поточної мелодії (Пробіл)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4703"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4720"/>
         <source>Edit actions</source>
         <translation>Зміна</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4707"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Режим малювання (Shift + D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4708"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4725"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Режим стирання (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4709"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
         <source>Select mode (Shift+S)</source>
         <translation>Режим вибору нот (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4710"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Режим Pitch Bend (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4725"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4742"/>
         <source>Quantize</source>
         <translation>Квантовать</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4743"/>
         <source>Quantize positions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4744"/>
         <source>Quantize lengths</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4747"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>File actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4773"/>
         <source>Import pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5215"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4776"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5232"/>
         <source>Export pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4770"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4787"/>
         <source>Copy paste controls</source>
         <translation>Управління копіюванням та вставкою</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4773"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4790"/>
         <source>Cut (%1+X)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4776"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4793"/>
         <source>Copy (%1+C)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4779"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4796"/>
         <source>Paste (%1+V)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4794"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
         <source>Timeline controls</source>
         <translation>Управління хронологією</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4820"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4808"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4829"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4816"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4820"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4837"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4840"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4838"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4855"/>
         <source>Zoom and note controls</source>
         <translation>Управління масштабом і нотами</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4863"/>
         <source>Horizontal zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4854"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
         <source>Vertical zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4863"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4880"/>
         <source>Quantization</source>
         <translation>Квантування</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4872"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4889"/>
         <source>Note length</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4878"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4887"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4904"/>
         <source>Scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4896"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4913"/>
         <source>Chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4905"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4922"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4910"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4927"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5019"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5192"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5036"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5209"/>
         <source>Piano-Roll - %1</source>
         <translation>Нотний редактор - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5026"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5197"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5043"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5214"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Нотний редактор - без шаблону</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5216"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5263"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5233"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5280"/>
         <source>XML pattern file (*.xpt *.xptz)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5236"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5253"/>
         <source>Export pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5237"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5254"/>
         <source>Pattern saved to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5252"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5269"/>
         <source>Import pattern.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5253"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5270"/>
         <source>You are about to import a pattern, this will overwrite your current pattern. Do you want to continue?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5262"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5279"/>
         <source>Open pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5282"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5299"/>
         <source>Import pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5283"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5300"/>
         <source>Imported pattern %1!</source>
         <translation type="unfinished"/>
     </message>
@@ -10112,9 +10122,19 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 <context>
     <name>PianoView</name>
     <message>
-        <location filename="../../src/gui/PianoView.cpp" line="395"/>
+        <location filename="../../src/gui/PianoView.cpp" line="813"/>
         <source>Base note</source>
         <translation>Опорна нота</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/PianoView.cpp" line="818"/>
+        <source>First note</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/PianoView.cpp" line="823"/>
+        <source>Last note</source>
+        <translation>По останій ноті</translation>
     </message>
 </context>
 <context>
@@ -12732,32 +12752,32 @@ Latency: %2 ms</source>
         <translation>Основна тональність </translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1024"/>
+        <location filename="../../src/core/Song.cpp" line="1038"/>
         <source>Aborting project load</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1025"/>
+        <location filename="../../src/core/Song.cpp" line="1039"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1030"/>
+        <location filename="../../src/core/Song.cpp" line="1044"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1184"/>
+        <location filename="../../src/core/Song.cpp" line="1198"/>
         <source>LMMS Error report</source>
         <translation>Повідомлення про помилку в LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1426"/>
+        <location filename="../../src/core/Song.cpp" line="1440"/>
         <source> (repeated %1 times)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1433"/>
+        <location filename="../../src/core/Song.cpp" line="1447"/>
         <source>The following errors occurred while loading: </source>
         <translation type="unfinished"/>
     </message>
@@ -12819,32 +12839,32 @@ Latency: %2 ms</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1763"/>
+        <location filename="../../src/core/DataFile.cpp" line="1841"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1718"/>
+        <location filename="../../src/core/DataFile.cpp" line="1796"/>
         <source>Error in file</source>
         <translation>Помилка у файлі</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1719"/>
+        <location filename="../../src/core/DataFile.cpp" line="1797"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Файл %1 можливо містить помилки через які не може завантажитися.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1762"/>
+        <location filename="../../src/core/DataFile.cpp" line="1840"/>
         <source>Version difference</source>
         <translation>Різниця версій</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1759"/>
+        <location filename="../../src/core/DataFile.cpp" line="1837"/>
         <source>template</source>
         <translation>шаблон</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1759"/>
+        <location filename="../../src/core/DataFile.cpp" line="1837"/>
         <source>project</source>
         <translation>проект</translation>
     </message>

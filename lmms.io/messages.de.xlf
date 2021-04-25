@@ -1051,14 +1051,14 @@ in dieser Angelegenheit und &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/ne
         <target>Das Beste von LMMS Vol.1 von LMMS Artisten</target>
         
       </trans-unit>
-      <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
-        <source>The Best of LMMS Vol. 7 by LMMS Artists</source>
-        <target>Das Beste von LMMS Vol. 7, von LMMS Künstlern</target>
+      <trans-unit id="oEXz92z" resname="Nightly Versions">
+        <source>Nightly Versions</source>
+        <target>Nightly Versionen</target>
         
       </trans-unit>
-      <trans-unit id="nk3f9aW" resname="The Best of LMMS Vol. 6 by LMMS Artists">
-        <source>The Best of LMMS Vol. 6 by LMMS Artists</source>
-        <target>Das Beste von LMMS Vol. 6, von LMMS Künstlern</target>
+      <trans-unit id="paHvzJ5" resname="Downloads labeled Beta or Nightly are pre-release software, stability may suffer.">
+        <source>Downloads labeled Beta or Nightly are pre-release software, stability may suffer.</source>
+        <target>Downloads welche als Nightly oder Beta gekennzeichnet sind, sind vorab Versionen der Software und die Stabilität könnte schlecht sein.</target>
         
       </trans-unit>
       <trans-unit id="z5uvwQy" resname="The Best of LMMS vol. VIII">
@@ -1182,14 +1182,14 @@ Der Wettbewerb soll die Community dazu inspirieren, Musik zu kreieren und zu tei
 - Die 25 Songs mit der höchsten Punktzahl werden als Album auf Bandcamp zum Preis von &quot;Zahl so viel du willst&quot; veröffentlicht. Alle erhaltenen Mittel werden für die Weiterentwicklung von LMMS gespendet, dem Programm, das wir lieben.</target>
         
       </trans-unit>
-      <trans-unit id="oEXz92z" resname="Nightly Versions">
-        <source>Nightly Versions</source>
-        <target>Nightly Versionen</target>
+      <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
+        <source>The Best of LMMS Vol. 7 by LMMS Artists</source>
+        <target>Das Beste von LMMS Vol. 7, von LMMS Künstlern</target>
         
       </trans-unit>
-      <trans-unit id="paHvzJ5" resname="Downloads labeled Beta or Nightly are pre-release software, stability may suffer.">
-        <source>Downloads labeled Beta or Nightly are pre-release software, stability may suffer.</source>
-        <target>Downloads welche als Nightly oder Beta gekennzeichnet sind, sind vorab Versionen der Software und die Stabilität könnte schlecht sein.</target>
+      <trans-unit id="nk3f9aW" resname="The Best of LMMS Vol. 6 by LMMS Artists">
+        <source>The Best of LMMS Vol. 6 by LMMS Artists</source>
+        <target>Das Beste von LMMS Vol. 6, von LMMS Künstlern</target>
         
       </trans-unit>
     </body>
