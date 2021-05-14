@@ -1059,12 +1059,42 @@
 				- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.</source>
         
       </trans-unit>
+      <trans-unit id="dMUjKl5" resname="You seem to have taken a wrong turn.">
+        <source>You seem to have taken a wrong turn.</source>
+        <target>به نظر می رسد شما به نوبه خود اشتباه گرفته اید.</target>
+        
+      </trans-unit>
+      <trans-unit id="5y..cYr" resname="Oops, that is not supposed to happen.">
+        <source>Oops, that is not supposed to happen.</source>
+        <target>اوه، این اتفاق قرار نبود بیافتد.</target>
+        
+      </trans-unit>
+      <trans-unit id="MKppsp2" resname="An unknown error occurred.">
+        <source>An unknown error occurred.</source>
+        
+      </trans-unit>
       <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
         <source>The Best of LMMS Vol. 7 by LMMS Artists</source>
         
       </trans-unit>
       <trans-unit id="nk3f9aW" resname="The Best of LMMS Vol. 6 by LMMS Artists">
         <source>The Best of LMMS Vol. 6 by LMMS Artists</source>
+        
+      </trans-unit>
+      <trans-unit id="ZevLxCN" resname="The wiki has been moved.">
+        <source>The wiki has been moved.</source>
+        
+      </trans-unit>
+      <trans-unit id="k68J1Di" resname="All of our documentation is now hosted on &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;">
+        <source>All of our documentation is now hosted on &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;</source>
+        
+      </trans-unit>
+      <trans-unit id="oHPoIyX" resname="The Mediawiki instance has been shut down, but if you need a copy &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;we have one on archive.org.&lt;/a&gt;">
+        <source>The Mediawiki instance has been shut down, but if you need a copy &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;we have one on archive.org.&lt;/a&gt;</source>
+        
+      </trans-unit>
+      <trans-unit id="u8PKUEQ" resname="You will be redirected to &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; seconds.">
+        <source>You will be redirected to &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; seconds.</source>
         
       </trans-unit>
     </body>
