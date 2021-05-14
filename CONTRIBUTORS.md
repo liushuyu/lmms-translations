@@ -1,9 +1,9 @@
-### Contributors
+# Contributors
 
-#### From Transifex
+## From Transifex
 
 - TODO
 
-#### From this repository
+## From this repository
 
 - [fr] Olivier Humbert

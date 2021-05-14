@@ -34,7 +34,7 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="152"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#33cc33;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#33cc33;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="176"/>
@@ -60,7 +60,8 @@
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="220"/>
         <source>Current language not translated (or native English).
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation type="unfinished"/>
+        <translation>Idioma atual não traduzido (ou inglês nativo).
+Se você estiver interessado em traduzir LMMS para outro idioma ou quer melhorar as traduções atuais, fique à vontade para nos ajudar! Simplesmente contate o mantenedor!</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="229"/>
@@ -233,7 +234,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
-        <translation type="unfinished"/>
+        <translation>Nome do cliente</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
@@ -334,7 +335,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="77"/>
         <source>&amp;Paste value</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Colar valor</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="85"/>
@@ -382,7 +383,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="409"/>
         <source>Edit Value</source>
-        <translation type="unfinished"/>
+        <translation>Editar Valor</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="411"/>
@@ -420,12 +421,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1843"/>
         <source>Draw mode (Shift+D)</source>
-        <translation>Desenhar modo (Shift+D)</translation>
+        <translation>Modo desenhar (Shift+D)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1847"/>
         <source>Erase mode (Shift+E)</source>
-        <translation>Apagar modo (Shift+E)</translation>
+        <translation>Modo apagar (Shift+E)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1850"/>
@@ -480,12 +481,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1907"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Zoom horizontal</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1926"/>
         <source>Vertical zooming</source>
-        <translation type="unfinished"/>
+        <translation>Zoom vertical</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1947"/>
@@ -882,7 +883,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="14"/>
         <source>About Carla</source>
-        <translation type="unfinished"/>
+        <translation>Sobre Carla</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="24"/>
@@ -902,47 +903,47 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="113"/>
         <source>Artwork</source>
-        <translation type="unfinished"/>
+        <translation>Arte</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="144"/>
         <source>Using KDE Oxygen icon set, designed by Oxygen Team.</source>
-        <translation type="unfinished"/>
+        <translation>Usando o conjunto de ícones KDE Oxygen, projetado pelo Oxygen Team.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="230"/>
         <source>Contains some knobs, backgrounds and other small artwork from Calf Studio Gear, OpenAV and OpenOctave projects.</source>
-        <translation type="unfinished"/>
+        <translation>Contém alguns botões, fundos e outras pequenas artes dos projetos Calf Studio Gear, OpenAV e OpenOctave.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="465"/>
         <source>VST is a trademark of Steinberg Media Technologies GmbH.</source>
-        <translation type="unfinished"/>
+        <translation>VST é uma marca comercial de Steinberg Media Technologies GmbH.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="579"/>
         <source>Special thanks to António Saraiva for a few extra icons and artwork!</source>
-        <translation type="unfinished"/>
+        <translation>Agradecimento especial para António Saraiva por alguns ícones e arte extra!</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="589"/>
         <source>The LV2 logo has been designed by Thorsten Wilms, based on a concept from Peter Shorthose.</source>
-        <translation type="unfinished"/>
+        <translation>O logo de LV2 foi projetado por Thorsten Wilms, baseado no conceito de Peter Shorthose.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="605"/>
         <source>MIDI Keyboard designed by Thorsten Wilms.</source>
-        <translation type="unfinished"/>
+        <translation>Teclado MIDI projetado por Thorsten Wilms.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="647"/>
         <source>Carla, Carla-Control and Patchbay icons designed by DoosC.</source>
-        <translation type="unfinished"/>
+        <translation>Ícones de Carla, Carla-Control e Patchbay projetados por DoosC.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="671"/>
         <source>Features</source>
-        <translation type="unfinished"/>
+        <translation>Recursos</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="677"/>
@@ -999,17 +1000,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="982"/>
         <source>Valid commands:</source>
-        <translation type="unfinished"/>
+        <translation>Comandos válidos:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="992"/>
         <source>valid osc commands here</source>
-        <translation type="unfinished"/>
+        <translation>comandos osc válidos aqui</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1005"/>
         <source>Example:</source>
-        <translation type="unfinished"/>
+        <translation>Exemplo:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1072"/>
@@ -1653,7 +1654,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1110"/>
         <source>&amp;Play</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Reproduzir</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1113"/>
@@ -1663,7 +1664,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1122"/>
         <source>&amp;Stop</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Parar</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1125"/>
@@ -1724,7 +1725,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1199"/>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Aumentar Zoom</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1202"/>
@@ -1734,7 +1735,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1211"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Reduzir Zoom</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1214"/>
@@ -1759,22 +1760,22 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1243"/>
         <source>&amp;Configure Carla</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Configurar Carla</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1248"/>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sobre</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1253"/>
         <source>About &amp;JUCE</source>
-        <translation type="unfinished"/>
+        <translation>Sobre &amp;JUCE</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1258"/>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"/>
+        <translation>Sobre &amp;QT</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1266"/>
@@ -1872,7 +1873,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="313"/>
         <source>Export as...</source>
-        <translation type="unfinished"/>
+        <translation>Exportar como...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="703"/>
@@ -1916,13 +1917,14 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1740"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Aviso</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1741"/>
         <source>There are still some plugins loaded, you need to remove them to stop the engine.
 Do you want to do this now?</source>
-        <translation type="unfinished"/>
+        <translation>Ainda existem alguns plugins carregados, você precisa removê-los para interromper o motor.
+Você quer fazer isso agora?</translation>
     </message>
 </context>
 <context>
@@ -1943,7 +1945,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="71"/>
         <source>main</source>
-        <translation type="unfinished"/>
+        <translation>principal</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="76"/>
@@ -1953,7 +1955,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="81"/>
         <source>engine</source>
-        <translation type="unfinished"/>
+        <translation>motor</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="86"/>
@@ -2022,12 +2024,12 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="248"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="504"/>
         <source>Experimental</source>
-        <translation type="unfinished"/>
+        <translation>Experimental</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="284"/>
         <source>&lt;b&gt;Main&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Principal&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="331"/>
@@ -2037,23 +2039,23 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="339"/>
         <source>Default project folder:</source>
-        <translation type="unfinished"/>
+        <translation>Pasta padrão do projeto:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="377"/>
         <source>Interface</source>
-        <translation type="unfinished"/>
+        <translation>Interface</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="383"/>
         <source>Interface refresh interval:</source>
-        <translation type="unfinished"/>
+        <translation>Intervalo de atualização da interface:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="393"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1023"/>
         <source> ms</source>
-        <translation type="unfinished"/>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="425"/>
@@ -2069,27 +2071,27 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="442"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="580"/>
         <source>Theme</source>
-        <translation type="unfinished"/>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="448"/>
         <source>Use Carla &quot;PRO&quot; theme (needs restart)</source>
-        <translation type="unfinished"/>
+        <translation>Usar tema &quot;PRO&quot; da Carla (precisa reiniciar)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="458"/>
         <source>Color scheme:</source>
-        <translation type="unfinished"/>
+        <translation>Esquema de cores:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="472"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Preto</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="477"/>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>Sistema</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="510"/>
@@ -2104,12 +2106,12 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="612"/>
         <source>Bezier Lines</source>
-        <translation type="unfinished"/>
+        <translation>Linhas de Bezier</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="622"/>
         <source>Theme:</source>
-        <translation type="unfinished"/>
+        <translation>Tema:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="658"/>
@@ -2119,32 +2121,32 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="669"/>
         <source>775x600</source>
-        <translation type="unfinished"/>
+        <translation>775x600</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="674"/>
         <source>1550x1200</source>
-        <translation type="unfinished"/>
+        <translation>1550x1200</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="679"/>
         <source>3100x2400</source>
-        <translation type="unfinished"/>
+        <translation>3100x2400</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="684"/>
         <source>4650x3600</source>
-        <translation type="unfinished"/>
+        <translation>4650x3600</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="689"/>
         <source>6200x4800</source>
-        <translation type="unfinished"/>
+        <translation>6200x4800</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="713"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opções</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="719"/>
@@ -2974,7 +2976,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="47"/>
         <source>Peak Mode</source>
-        <translation type="unfinished"/>
+        <translation>Modo de Pico</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="48"/>
@@ -4633,7 +4635,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="221"/>
         <source>Stereo mode:</source>
-        <translation type="unfinished"/>
+        <translation>Modo estéreo</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="232"/>
@@ -5616,7 +5618,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="311"/>
         <source>Arpeggio mode</source>
-        <translation>Modo do Arpejo</translation>
+        <translation>Modo de Arpejo</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
@@ -9921,7 +9923,7 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
         <source>Select mode (Shift+S)</source>
-        <translation>Selecionar modo (Shift+S)</translation>
+        <translation>Modo de seleção (Shift+S)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
@@ -10022,12 +10024,12 @@ Por favor visite http://lmms.sf.net/wiki para ter acesso a mais infromações so
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4863"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Zoom horizontal</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
         <source>Vertical zooming</source>
-        <translation type="unfinished"/>
+        <translation>Zoom vertical</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4880"/>
@@ -11871,12 +11873,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="263"/>
         <source>Keep</source>
-        <translation type="unfinished"/>
+        <translation>Manter</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="263"/>
         <source> lines</source>
-        <translation type="unfinished"/>
+        <translation>linhas</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="271"/>
@@ -11891,7 +11893,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="273"/>
         <source>Gamma value:</source>
-        <translation type="unfinished"/>
+        <translation>Valor gama:</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="279"/>
@@ -12966,12 +12968,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="959"/>
         <source>Draw mode</source>
-        <translation type="unfinished"/>
+        <translation>Modo de desenho</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="960"/>
         <source>Knife mode (split sample clips)</source>
-        <translation type="unfinished"/>
+        <translation>Modo faca (separar clipes de sample)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="961"/>
@@ -13006,7 +13008,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="993"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Zoom horizontal</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="999"/>
@@ -14655,7 +14657,7 @@ Por favor certifique-se que você tem permissões de leitura para o arquivo e pa
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="86"/>
         <source>Interpolation mode</source>
-        <translation type="unfinished"/>
+        <translation>Modo de interpolação</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="104"/>
@@ -14820,7 +14822,7 @@ Por favor certifique-se que você tem permissões de leitura para o arquivo e pa
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="119"/>
         <source>Stereo mode: maximum</source>
-        <translation type="unfinished"/>
+        <translation>Modo estéreo: máximo</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="124"/>
@@ -14830,7 +14832,7 @@ Por favor certifique-se que você tem permissões de leitura para o arquivo e pa
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="126"/>
         <source>Stereo mode: average</source>
-        <translation type="unfinished"/>
+        <translation>Modo estéreo: médio</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="131"/>
@@ -14840,7 +14842,7 @@ Por favor certifique-se que você tem permissões de leitura para o arquivo e pa
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="133"/>
         <source>Stereo mode: unlinked</source>
-        <translation type="unfinished"/>
+        <translation>Modo estéreo: desvinculado</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="138"/>

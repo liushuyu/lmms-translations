@@ -383,17 +383,17 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="409"/>
         <source>Edit Value</source>
-        <translation type="unfinished"/>
+        <translation>Éditer la valeur</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="411"/>
         <source>New outValue</source>
-        <translation type="unfinished"/>
+        <translation>Nouvelle valeur de sortie</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="412"/>
         <source>New inValue</source>
-        <translation type="unfinished"/>
+        <translation>Nouvelle valeur d&apos;entrée</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1228"/>
@@ -431,7 +431,7 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1850"/>
         <source>Draw outValues mode (Shift+C)</source>
-        <translation type="unfinished"/>
+        <translation>Mode dessin de valeurs de sortie (Maj + C)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1853"/>
@@ -2857,12 +2857,12 @@ Ce mode n&apos;est pas disponible pour les plugins VST.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="93"/>
         <source>Threshold:</source>
-        <translation type="unfinished"/>
+        <translation>Seuil :</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="95"/>
         <source>Volume at which the compression begins to take place</source>
-        <translation type="unfinished"/>
+        <translation>Volume à partir duquel la compression commence à se produire</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="98"/>
@@ -2872,7 +2872,7 @@ Ce mode n&apos;est pas disponible pour les plugins VST.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="100"/>
         <source>How far the compressor must turn the volume down after crossing the threshold</source>
-        <translation type="unfinished"/>
+        <translation>De combien le compresseur doit réduire le volume après avoir franchi le seuil</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="103"/>
@@ -2882,7 +2882,7 @@ Ce mode n&apos;est pas disponible pour les plugins VST.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="105"/>
         <source>Speed at which the compressor starts to compress the audio</source>
-        <translation type="unfinished"/>
+        <translation>Vitesse à laquelle le compresseur commence à compresser l&apos;audio</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="108"/>
@@ -2892,7 +2892,7 @@ Ce mode n&apos;est pas disponible pour les plugins VST.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="110"/>
         <source>Speed at which the compressor ceases to compress the audio</source>
-        <translation type="unfinished"/>
+        <translation>Vitesse à laquelle le compresseur cesse de compresser l&apos;audio</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="113"/>
@@ -2902,27 +2902,27 @@ Ce mode n&apos;est pas disponible pour les plugins VST.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="115"/>
         <source>Smooth out the gain reduction curve around the threshold</source>
-        <translation type="unfinished"/>
+        <translation>Lisser la courbe de réduction du gain autour du seuil</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="118"/>
         <source>Range:</source>
-        <translation type="unfinished"/>
+        <translation>Gamme :</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="120"/>
         <source>Maximum gain reduction</source>
-        <translation type="unfinished"/>
+        <translation>Réduction maximale du gain</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="123"/>
         <source>Lookahead Length:</source>
-        <translation type="unfinished"/>
+        <translation>Durée de l&apos;anticipation :</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="125"/>
         <source>How long the compressor has to react to the sidechain signal ahead of time</source>
-        <translation type="unfinished"/>
+        <translation>Combien de temps le compresseur doit-il réagir au signal du sidechain à l&apos;avance</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="128"/>
@@ -2932,47 +2932,47 @@ Ce mode n&apos;est pas disponible pour les plugins VST.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="130"/>
         <source>Delay between attack and release stages</source>
-        <translation type="unfinished"/>
+        <translation>Délai entre les phases d&apos;attaque et de relâchement</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="133"/>
         <source>RMS Size:</source>
-        <translation type="unfinished"/>
+        <translation>Taille de la moyenne quadratique :</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="135"/>
         <source>Size of the RMS buffer</source>
-        <translation type="unfinished"/>
+        <translation>Taille du tampon de la moyenne quadratique</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="138"/>
         <source>Input Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Balance d&apos;entrée :</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="140"/>
         <source>Bias the input audio to the left/right or mid/side</source>
-        <translation type="unfinished"/>
+        <translation>Polarise l&apos;entrée audio vers la gauche/la droite ou le milieu/le côté</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="143"/>
         <source>Output Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Balance de sortie :</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="145"/>
         <source>Bias the output audio to the left/right or mid/side</source>
-        <translation type="unfinished"/>
+        <translation>Polarise la sortie audio vers la gauche/la droite ou le milieu/le côté</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="148"/>
         <source>Stereo Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Balance stéréo :</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="150"/>
         <source>Bias the sidechain signal to the left/right or mid/side</source>
-        <translation type="unfinished"/>
+        <translation>Polarise le signal du sidechain vers la gauche/la droite ou le milieu/le côté</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="153"/>

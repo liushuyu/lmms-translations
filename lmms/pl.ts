@@ -858,7 +858,7 @@ Radek Słowik</translation>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="41"/>
         <source>Sample rate</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość próbkowania</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="42"/>
@@ -1609,7 +1609,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="123"/>
         <source>Everything! (Including LRDF)</source>
-        <translation type="unfinished"/>
+        <translation>Wszystko (Razem z LRDF)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="124"/>
@@ -1654,7 +1654,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="179"/>
         <source>Logs</source>
-        <translation type="unfinished"/>
+        <translation>Logi</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="214"/>
@@ -1669,12 +1669,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="272"/>
         <source>Sample Rate:</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość Próbkowania:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="295"/>
         <source>? Xruns</source>
-        <translation type="unfinished"/>
+        <translation>? Xruns</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="324"/>
@@ -1689,32 +1689,32 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="357"/>
         <source>&amp;Engine</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Silnik</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="367"/>
         <source>&amp;Plugin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Wtyczka</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="371"/>
         <source>Macros (all plugins)</source>
-        <translation type="unfinished"/>
+        <translation>Makra (wszystkie etyczki)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="395"/>
         <source>&amp;Canvas</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Canvas</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="399"/>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Przybliż</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="418"/>
         <source>&amp;Settings</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ustawienia</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="429"/>
@@ -1729,7 +1729,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="540"/>
         <source>Disk</source>
-        <translation type="unfinished"/>
+        <translation>Dysk</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="564"/>
@@ -1755,12 +1755,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="689"/>
         <source>Frame:</source>
-        <translation type="unfinished"/>
+        <translation>Klatka:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="704"/>
         <source>000&apos;000&apos;000</source>
-        <translation type="unfinished"/>
+        <translation>000&apos;000&apos;000</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="731"/>
@@ -1770,17 +1770,17 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="746"/>
         <source>00:00:00</source>
-        <translation type="unfinished"/>
+        <translation>00:00:00</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="773"/>
         <source>BBT:</source>
-        <translation type="unfinished"/>
+        <translation>BBT:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="788"/>
         <source>000|00|0000</source>
-        <translation type="unfinished"/>
+        <translation>000|00|0000</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="816"/>
@@ -1790,7 +1790,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="822"/>
         <source> BPM</source>
-        <translation type="unfinished"/>
+        <translation> BPM</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="838"/>
@@ -1821,7 +1821,7 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="970"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="973"/>
         <source>Open...</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="976"/>
@@ -1847,7 +1847,7 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1000"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1003"/>
         <source>Save As...</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz Jako...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1006"/>
@@ -1857,7 +1857,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1015"/>
         <source>&amp;Quit</source>
-        <translation>Zakończ [&amp;Q]</translation>
+        <translation>&amp;Zakończ</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1018"/>
@@ -1867,27 +1867,27 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1027"/>
         <source>&amp;Start</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Start</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1030"/>
         <source>F5</source>
-        <translation type="unfinished"/>
+        <translation>F5</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1039"/>
         <source>St&amp;op</source>
-        <translation type="unfinished"/>
+        <translation>St&amp;op</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1042"/>
         <source>F6</source>
-        <translation type="unfinished"/>
+        <translation>F6</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1051"/>
         <source>&amp;Add Plugin...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dodaj Wtyczkę</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1054"/>
@@ -1897,17 +1897,17 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1063"/>
         <source>&amp;Remove All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Usuń Wszystko</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1068"/>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Włącz</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1073"/>
         <source>Disable</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1078"/>
@@ -1922,12 +1922,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1088"/>
         <source>0% Volume (Mute)</source>
-        <translation type="unfinished"/>
+        <translation>0% Głośności (Wyciszone)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1093"/>
         <source>100% Volume</source>
-        <translation type="unfinished"/>
+        <translation>100% Głośności</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1098"/>
@@ -1937,7 +1937,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1110"/>
         <source>&amp;Play</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Odtwórz</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1113"/>
@@ -1947,7 +1947,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1122"/>
         <source>&amp;Stop</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zatrzymaj</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1125"/>
@@ -1957,7 +1957,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1134"/>
         <source>&amp;Backwards</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Wstecz</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1137"/>
@@ -1967,7 +1967,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1146"/>
         <source>&amp;Forwards</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Na przód</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1149"/>
@@ -1977,7 +1977,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1158"/>
         <source>&amp;Arrange</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aranżuj</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1161"/>
@@ -1988,7 +1988,7 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1170"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1324"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Odśwież</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1173"/>
@@ -1998,7 +1998,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1178"/>
         <source>Save &amp;Image...</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz &amp;Obraz</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1187"/>
@@ -2008,7 +2008,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1199"/>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Przybliż</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1202"/>
@@ -2018,7 +2018,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1211"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Oddal</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1214"/>
@@ -2028,7 +2028,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1223"/>
         <source>Zoom 100%</source>
-        <translation type="unfinished"/>
+        <translation>100% Przybliżenia</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1226"/>
@@ -2038,7 +2038,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1234"/>
         <source>Show &amp;Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż &amp;Pasek Narzędzi</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1243"/>
@@ -2048,17 +2048,17 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1248"/>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>%O programie</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1253"/>
         <source>About &amp;JUCE</source>
-        <translation type="unfinished"/>
+        <translation>O &amp;JUCE</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1258"/>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"/>
+        <translation>O &amp;Qt</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1266"/>
@@ -2093,7 +2093,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1315"/>
         <source>&amp;Connect...</source>
-        <translation type="unfinished"/>
+        <translation>%Połącz</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1329"/>
@@ -2133,12 +2133,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1368"/>
         <source>Add &amp;JACK Application...</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj &amp;Aplikację JACK</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1377"/>
         <source>&amp;Configure driver...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Konfiguruj sterownik...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1386"/>
@@ -2156,7 +2156,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="313"/>
         <source>Export as...</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj jako...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="703"/>
@@ -2169,12 +2169,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="704"/>
         <source>Failed to load project</source>
-        <translation type="unfinished"/>
+        <translation>Nie udało się załadować projektu</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="721"/>
         <source>Failed to save project</source>
-        <translation type="unfinished"/>
+        <translation>Nie udało się zapisać projektu</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1335"/>
@@ -2232,7 +2232,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="76"/>
         <source>canvas</source>
-        <translation type="unfinished"/>
+        <translation>canvas</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="81"/>
@@ -2279,7 +2279,7 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="134"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2722"/>
         <source>Canvas</source>
-        <translation type="unfinished"/>
+        <translation>Canvas</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="152"/>
@@ -2295,7 +2295,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="212"/>
         <source>Plugin Paths</source>
-        <translation type="unfinished"/>
+        <translation>Ścieżki Wtyczek</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="230"/>
@@ -2383,7 +2383,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="542"/>
         <source>&lt;b&gt;Canvas&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Canvas&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="612"/>
@@ -2529,7 +2529,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1001"/>
         <source>Plugin UIs</source>
-        <translation type="unfinished"/>
+        <translation>UI Wtyczek</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1007"/>
@@ -2571,7 +2571,7 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1133"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1582"/>
         <source>Restart the engine to load the new settings</source>
-        <translation type="unfinished"/>
+        <translation>Zresetuj silnik aby załadować nowe ustawienia</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1177"/>
@@ -2786,7 +2786,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2698"/>
         <source>Enable jack applications</source>
-        <translation type="unfinished"/>
+        <translation>Włącz aplikacje jack</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2705"/>
@@ -3678,7 +3678,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="20"/>
         <source>Note: Features not implemented yet are greyed out</source>
-        <translation type="unfinished"/>
+        <translation>Uwaga: Funkcje, które nie zostały jeszcze zaimplementowane są wyszarzone</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_add_jack.ui" line="27"/>
@@ -3882,7 +3882,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings_driver.ui" line="249"/>
         <source>Restart the engine to load the new settings</source>
-        <translation type="unfinished"/>
+        <translation>Zresetuj silnik aby załadować nowe ustawienia</translation>
     </message>
 </context>
 <context>
@@ -6876,7 +6876,7 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="98"/>
         <source>First note</source>
-        <translation type="unfinished"/>
+        <translation>Pierwsza nuta</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="99"/>
@@ -8030,7 +8030,7 @@ Odwiedź witrynę http://lmms.sf.net/wiki for documentation on LMMS.</translatio
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="111"/>
         <source>You have not set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Nie masz skonfigurowanego domyślnego soundfonta w oknie dialogowym (Edycja-&gt;Ustawienia). Będzie to skutkować brakiem dźwięku po zaimportowaniu pliku MIDI. Powinieneś pobrać soundfonty General MIDI, dokonać zmiany ustawień i spróbować ponownie.</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="123"/>
@@ -10323,7 +10323,7 @@ Odwiedź witrynę http://lmms.sf.net/wiki for documentation on LMMS.</translatio
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4889"/>
         <source>Note length</source>
-        <translation type="unfinished"/>
+        <translation>Długość nuty</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
@@ -10414,7 +10414,7 @@ Odwiedź witrynę http://lmms.sf.net/wiki for documentation on LMMS.</translatio
     <message>
         <location filename="../../src/gui/PianoView.cpp" line="818"/>
         <source>First note</source>
-        <translation type="unfinished"/>
+        <translation>Pierwsza nuta</translation>
     </message>
     <message>
         <location filename="../../src/gui/PianoView.cpp" line="823"/>
@@ -10787,7 +10787,7 @@ Te układy scalone były stosowane w komputerach Commodore 64.</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="136"/>
         <source>MIDI Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Wtyczki MIDI</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="143"/>
@@ -10857,7 +10857,7 @@ Te układy scalone były stosowane w komputerach Commodore 64.</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="329"/>
         <source>&amp;Add Plugin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dodaj Wtyczkę</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="340"/>
@@ -11020,7 +11020,7 @@ Te układy scalone były stosowane w komputerach Commodore 64.</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="27"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="33"/>
@@ -11138,7 +11138,9 @@ Te układy scalone były stosowane w komputerach Commodore 64.</translation>
         <source>
 Plugin Name
 </source>
-        <translation type="unfinished"/>
+        <translation>
+Nazwa Wtyczki
+</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="554"/>
@@ -11390,7 +11392,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="64"/>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Włącz</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="74"/>
@@ -11428,7 +11430,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="316"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="326"/>
@@ -11438,7 +11440,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_classic.ui" line="164"/>
         <source>Plugin Name</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa Wtyczki</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_presets.ui" line="266"/>
@@ -12222,12 +12224,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="296"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"/>
+        <translation>Ustwawienia zaawansowane</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="297"/>
         <source>Access advanced settings</source>
-        <translation type="unfinished"/>
+        <translation>Dostęp do zaawansowanych ustawień</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="186"/>
@@ -12547,7 +12549,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="236"/>
         <source>Enable all note labels in piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Włącz etykiety wszystkich nut w edytorze pianowym.</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="238"/>
@@ -12618,7 +12620,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="356"/>
         <source>Enable autosave</source>
-        <translation type="unfinished"/>
+        <translation>Włącz automatyczny zapis</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="363"/>
@@ -12633,7 +12635,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="385"/>
         <source>Smooth scroll in song editor</source>
-        <translation type="unfinished"/>
+        <translation>Płynne przewijanie w edytorze kompozycji</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="387"/>
@@ -12730,7 +12732,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="780"/>
         <source>VST plugins directory</source>
-        <translation type="unfinished"/>
+        <translation>Katalog wtyczek VST</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="784"/>
@@ -14047,7 +14049,7 @@ Upewnij się, że masz uprawnienia do odczytu tego pliku i katalogu zawierające
         <location filename="../../plugins/vestige/vestige.cpp" line="507"/>
         <location filename="../../plugins/vestige/vestige.cpp" line="679"/>
         <source>Open VST plugin</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz wtyczkę VST</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="519"/>

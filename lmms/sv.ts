@@ -10289,7 +10289,7 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4829"/>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Fyll</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
@@ -13115,12 +13115,12 @@ Latens: %2 ms</translation>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="348"/>
         <source>Couldn&apos;t create resources folder.</source>
-        <translation type="unfinished"/>
+        <translation>Det gick inte att skapa resursmappen.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="356"/>
         <source>Failed to copy resources.</source>
-        <translation type="unfinished"/>
+        <translation>Det gick inte att kopiera resurser.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="365"/>
@@ -13768,7 +13768,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="208"/>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"/>
+        <translation>Fråga inte igen</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="328"/>

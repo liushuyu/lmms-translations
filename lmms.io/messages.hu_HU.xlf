@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="Tdd9OuD" resname="Get Involved">
         <source>Get Involved</source>
-        <target>Vegyen részt</target>
+        <target>Legyél a részese</target>
         
       </trans-unit>
       <trans-unit id="wgWSTeD" resname="Documentation">
@@ -61,6 +61,7 @@
       </trans-unit>
       <trans-unit id="H2zLuBd" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
         <source>We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</source>
+        <target>Sajnáljuk, valami hiba történt a legfrissebb információk lekérdezése során. A kiadások a&lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHubon&lt;/a&gt;érhetők el.</target>
         
       </trans-unit>
       <trans-unit id="f.UFHnN" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
@@ -204,6 +205,7 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="QNAnU4Y" resname="Downloads labeled Beta are pre-release software, stability may suffer.">
         <source>Downloads labeled Beta are pre-release software, stability may suffer.</source>
+        <target>A Béta jelzésű kiadások esetén előfordulhatnak stabiliási problémák.</target>
         
       </trans-unit>
       <trans-unit id="VA2zwSI" resname="Previous releases">
@@ -339,10 +341,12 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="TWZRGVx" resname="Let's make music">
         <source>Let's make music</source>
+        <target>Alkossunk zenét</target>
         
       </trans-unit>
       <trans-unit id="Jo.VN3p" resname="with a free, cross-platform tool for your computer.">
         <source>with a free, cross-platform tool for your computer.</source>
+        <target>egy ingyenes, többplatformos eszközzel.</target>
         
       </trans-unit>
       <trans-unit id="ADl38LV" resname="Download now">
@@ -352,10 +356,12 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="LLpAwlQ" resname="Get involved">
         <source>Get involved</source>
+        <target>Legyél a részese</target>
         
       </trans-unit>
       <trans-unit id="zDYCQUA" resname="Making beats has never been easier.">
         <source>Making beats has never been easier.</source>
+        <target>A zenei alapok készítése még sosem volt ilyen egyszerű.</target>
         
       </trans-unit>
       <trans-unit id="HXvrE6h" resname="Produce music with your computer">
@@ -365,10 +371,12 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="8k_3.h_" resname="by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.">
         <source>by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.</source>
+        <target>Készíts dallamokat és ritmusokat, szintetizálj és keverj hangokat, használj hangmintákat!</target>
         
       </trans-unit>
       <trans-unit id="1ANtx56" resname="Playback instruments, samples and plugins">
         <source>Playback instruments, samples and plugins</source>
+        <target>Játssz virtuális hangszereken vagy hangmintákkal</target>
         
       </trans-unit>
       <trans-unit id="c_9n6oH" resname="with a typing or MIDI keyboard in a user-friendly and modern interface.">
@@ -408,6 +416,7 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="QBixtUo" resname="Pick your flavor.">
         <source>Pick your flavor.</source>
+        <target>Válaszd a neked megfelelőt.</target>
         
       </trans-unit>
       <trans-unit id="CaD6ze3" resname="Linux, Windows or macOS.">
@@ -422,6 +431,7 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="J5pmILO" resname="Stand by, we got you covered.">
         <source>Stand by, we got you covered.</source>
+        <target>Állj készen, sorra fogsz kerülni.</target>
         
       </trans-unit>
       <trans-unit id="3vJMQyC" resname="Visit our forum">
@@ -465,6 +475,7 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="29NrAWW" resname="Visit the LMMS Sharing Platform (LSP)">
         <source>Visit the LMMS Sharing Platform (LSP)</source>
+        <target>Látogasd meg az LMMS Megosztási Platformot</target>
         
       </trans-unit>
       <trans-unit id="vZEmrHQ" resname="Don't be modest.">
@@ -602,10 +613,12 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="xhQMvx4" resname="Download LMMS Artwork">
         <source>Download LMMS Artwork</source>
+        <target>LMMS grafikák letöltése</target>
         
       </trans-unit>
       <trans-unit id="Hq18WDE" resname="LMMS Logo">
         <source>LMMS Logo</source>
+        <target>LMMS Logó</target>
         
       </trans-unit>
       <trans-unit id="Xe7IQc6" resname="LMMS Development Team">
@@ -615,6 +628,7 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="aFA0PDs" resname="LMMS Project Icon">
         <source>LMMS Project Icon</source>
+        <target>LMMS Projekt Ikon</target>
         
       </trans-unit>
       <trans-unit id="ly35agX" resname="Official competitions organised by LMMS and its community members">
@@ -859,6 +873,7 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="jHKJWvC" resname="Error &lt;b&gt;%code%&lt;/b&gt;">
         <source>Error &lt;b&gt;%code%&lt;/b&gt;</source>
+        <target>Hiba &lt;b&gt;%code%&lt;/b&gt;</target>
         
       </trans-unit>
       <trans-unit id="eM.OOlw" resname="If you followed a valid link on this site, please contact us&#10;      about it and &lt;a href=&quot;//github.com/LMMS/lmms.io/issues/new&quot;&gt;file an issue&lt;/a&gt; on GitHub.">
@@ -881,38 +896,47 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="VqvyA1L" resname="Scalable Vector Format">
         <source>Scalable Vector Format</source>
+        <target>SVG Formátum</target>
         
       </trans-unit>
       <trans-unit id="5izmwVw" resname="PNG Format">
         <source>PNG Format</source>
+        <target>PNG Formátum</target>
         
       </trans-unit>
       <trans-unit id="9pbDeQ2" resname="Gimp Image Editor Format">
         <source>Gimp Image Editor Format</source>
+        <target>Gimp Képszerkesztő Formátum</target>
         
       </trans-unit>
       <trans-unit id="zPnNJNw" resname="Portable Document Format">
         <source>Portable Document Format</source>
+        <target>PDF Formátum</target>
         
       </trans-unit>
       <trans-unit id="Fa8w_Q9" resname="Adobe Photoshop Format">
         <source>Adobe Photoshop Format</source>
+        <target>Adobe Photoshop Formátum</target>
         
       </trans-unit>
       <trans-unit id="CBjpoqc" resname="JPEG Format">
         <source>JPEG Format</source>
+        <target>JPEG Formátum</target>
         
       </trans-unit>
       <trans-unit id="FneECEa" resname="Bitmap Format">
         <source>Bitmap Format</source>
+        <target>Bitmap Formátum</target>
         
       </trans-unit>
       <trans-unit id="HjfR4tA" resname="Windows Icon Format">
         <source>Windows Icon Format</source>
+        <target>Windows Ikon Formátum</target>
         
       </trans-unit>
       <trans-unit id="lzCF.IZ" resname="Apple Icon Format">
         <source>Apple Icon Format</source>
+        <target>Apple Ikon Formátum</target>
         
       </trans-unit>
       <trans-unit id="OnhpU4i" resname="Home">
@@ -922,6 +946,7 @@ Ha a disztribúciód nem látható itt, kérjük&lt;a href=&quot;/get-involved/#
       </trans-unit>
       <trans-unit id="R0s_HGS" resname="Tracks made with LMMS">
         <source>Tracks made with LMMS</source>
+        <target>Az LMMS-sel készült dalok</target>
         
       </trans-unit>
       <trans-unit id="U7C6Upb" resname="The Best of LMMS Vol. 5 by LMMS Artists">

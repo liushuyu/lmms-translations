@@ -6596,7 +6596,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="99"/>
         <source>Last note</source>
-        <translation type="unfinished"/>
+        <translation>上一個音符</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="101"/>
@@ -10134,7 +10134,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/PianoView.cpp" line="823"/>
         <source>Last note</source>
-        <translation type="unfinished"/>
+        <translation>上一個音符</translation>
     </message>
 </context>
 <context>
