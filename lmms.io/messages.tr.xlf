@@ -61,7 +61,7 @@
       </trans-unit>
       <trans-unit id="H2zLuBd" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
         <source>We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</source>
-        <target>Özür dileriz, son sürümün bilgilerini indirirken bir hata gerçekleşti. Sürümleri &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt; üzerinden de indirebilirsiniz. </target>
+        <target>Maalesef en son sürüm bilgileri alınırken bir sorun oluştu. Sürümleri yine de &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt; GitHub &lt;/a&gt; adresinden indirebilirsiniz.</target>
         
       </trans-unit>
       <trans-unit id="f.UFHnN" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="eJUdOr0" resname="For VST support, please install wine or wine-staging from the repository">
         <source>For VST support, please install wine or wine-staging from the repository</source>
-        <target>VST desteği için, lütfen wine veya wine-staging 'i repository'den yükleyiniz.</target>
+        <target>VST desteği için, lütfen depodan wine veya wine-staging kurun</target>
         
       </trans-unit>
       <trans-unit id=".uMu3cY" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="i6lvwc6" resname="To install LMMS on AOSC OS with DPKG:">
         <source>To install LMMS on AOSC OS with DPKG:</source>
-        <target>LMMS'yi AOSC OS ile DPKG'de yüklememk için : </target>
+        <target>LMMS'yi DPKG ile AOSC OS üzerine kurmak için:</target>
         
       </trans-unit>
       <trans-unit id="4ya_6rI" resname="Build LMMS from source">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="GUjytCK" resname="Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running">
         <source>Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running</source>
-        <target>&lt;code&gt;.AppImage&lt;/code&gt; dosyasını yürütülebilir hale getirmek için &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; komutunu çalıştırın.</target>
+        <target>Çalıştırmadan önce &lt;code&gt;.AppImage&lt;/code&gt; yürütülebilir dosyasını ayarlamak için &lt;code&gt;chmod+x~/Downloads/*.AppImage&lt;/code&gt; komutunu çalıştırın</target>
         
       </trans-unit>
       <trans-unit id="A8g9Yp6" resname="Beta Versions">
@@ -234,7 +234,7 @@
       </trans-unit>
       <trans-unit id="9CFIxXY" resname="What you can do">
         <source>What you can do</source>
-        <target>Neler yapabilirsiniz?</target>
+        <target>Ne yapabilirsin</target>
         
       </trans-unit>
       <trans-unit id="0Y_zD6N" resname="There are multiple ways of contributing:">
@@ -276,17 +276,18 @@
         <source>You can help us by improving this website or documenting the software. The website sources are in our
 					   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a
 					   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.</source>
-        <target>Sitemizi geliştirme veya yazılımı belgelemede bize yardımcı olabilirsiniz. Site kaynakları 1L					 GitHub repo 1LMMS/lmms.io1, belgelemelerimiz ise MediaWiki'de barınmaktadır 					 2MediaWiki instance2.
- </target>
+        <target>Bu web sitesini geliştirerek veya yazılımı belgeleyerek bize yardımcı olabilirsiniz. Web sitesi kaynakları bizim
+					   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt; LMMS / lmms.io &lt;/a&gt;, belgelerimiz bir
+					   &lt;a href=&quot;//lmms.io/wiki&quot;&gt; MediaWiki örneği &lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="mxP7dw_" resname="Public registration on our Wiki is disabled due to spam issues. Please post to the&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're&#10;&#9;&#9;&#9;&#9;&#9;   interested in helping out with the documentation!">
         <source>Public registration on our Wiki is disabled due to spam issues. Please post to the
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're
 					   interested in helping out with the documentation!</source>
-        <target>Spam sorunları nedeniyle Wiki'mize genel kayıt devre dışı bırakıldı. Lütfen şu adrese gönderin
-					  &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;posta listesi&lt;/a&gt;eğer öyle ise
-					dokümantasyona yardım etmekle ilgileniyor!</target>
+        <target>İstenmeyen posta sorunları nedeniyle Wiki'mize genel kayıt devre dışı bırakıldı. Lütfen şu adrese gönderin:
+					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt; posta listesi &lt;/a&gt; eğer
+					   dokümantasyona yardım etmekle ilgileniyorsanız!</target>
         
       </trans-unit>
       <trans-unit id="yR7g8nm" resname="Donate">
@@ -298,7 +299,7 @@
         <source>Even though donations are not the thing we need the most (that'd be developers), they help us pay
 					   our bills, for our domain lmms.io for instance.</source>
         <target>Bağışlar en çok ihtiyacımız olan şey olmasa da (bu geliştiriciler olabilir), ödemelerimize yardımcı olurlar
-					 örneğin lmms.io alan adımız için faturalarımıza.</target>
+					   örneğin lmms.io alan adımız için faturalarımıza.</target>
         
       </trans-unit>
       <trans-unit id="7yTl1LS" resname="Donate via PayPal">
@@ -317,8 +318,8 @@
 					   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our
 					   GitHub Wiki.</source>
         <target>LMMS'de diliniz eksikse, projeye ve aynı dili konuşan diğer kullanıcılara şu yollarla yardımcı olun:
-					  yazılımı tercüme etmek. Talimatları sayfada bulabilirsiniz
-					   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Yerelleştirme oluşturma&lt;/a&gt;&quot;
+					   yazılımı tercüme etmek. Talimatları sayfada bulabilirsiniz
+					   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt; Yerelleştirme oluşturma &lt;/a&gt;&quot;
 					   GitHub Wiki.</target>
         
       </trans-unit>
@@ -345,17 +346,17 @@
       <trans-unit id="iSQeC4T" resname="Our IRC channel is &lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt; on&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;https://freenode.net&quot;&gt;Freenode&lt;/a&gt;.">
         <source>Our IRC channel is &lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt; on
 					&lt;a href=&quot;https://freenode.net&quot;&gt;Freenode&lt;/a&gt;.</source>
-        <target>IRC kanalımız &lt;a href=&quot;https://freenode.net&quot;&gt;Freenode'da&lt;/a&gt;
-					&lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt;</target>
+        <target>IRC kanalımız &lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt; #lmms&lt;/a&gt; açık
+					&lt;a href=&quot;https://freenode.net&quot;&gt; Freenode &lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="nzuqhLv" resname="&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;is a more modern alternative to IRC. Join our server &#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.">
         <source>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
 					is a more modern alternative to IRC. Join our server 
 					&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.</source>
-        <target>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
-					IRC'ye daha modern bir alternatiftir. Sunucumuza katılın 
-					&lt;a href=&quot;/chat/&quot;&gt;buraya tıklayarak&lt;/a&gt;.</target>
+        <target>&lt;a href=&quot;https://discordapp.com/&quot;&gt; Discord &lt;/a&gt;
+					IRC'ye daha modern bir alternatiftir. Sunucumuza katılın
+					&lt;a href=&quot;/chat/&quot;&gt; buraya tıklayarak &lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="vgrQxiN" resname="We host a forum for our users here on this website:">
@@ -370,12 +371,12 @@
       </trans-unit>
       <trans-unit id="TWZRGVx" resname="Let's make music">
         <source>Let's make music</source>
-        <target>Müziğe gel!</target>
+        <target>Müzik yapalım</target>
         
       </trans-unit>
       <trans-unit id="Jo.VN3p" resname="with a free, cross-platform tool for your computer.">
         <source>with a free, cross-platform tool for your computer.</source>
-        <target>Her işletim sisteminde çalışan ücretsiz programımızla, müzik yapmaya hemen başlayın.</target>
+        <target>bilgisayarınız için ücretsiz bir çapraz platform aracı ile.</target>
         
       </trans-unit>
       <trans-unit id="ADl38LV" resname="Download now">
@@ -395,32 +396,32 @@
       </trans-unit>
       <trans-unit id="HXvrE6h" resname="Produce music with your computer">
         <source>Produce music with your computer</source>
-        <target>Tek ihtiyacınız bir bilgisayar.</target>
+        <target>Bilgisayarınızla müzik üretin</target>
         
       </trans-unit>
       <trans-unit id="8k_3.h_" resname="by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.">
         <source>by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.</source>
-        <target>LMMS ile istediğiniz melodileri ve ritimleri oluşturabilir, synthler kullanabilir, miks yapabilir, sample kullanabilirsiniz. Bunun yanında çok daha fazla özellik sizi bekliyor!</target>
+        <target>melodiler ve vuruşlar yaratarak, sesleri sentezleyerek ve karıştırarak, örnekleri düzenleyerek ve çok daha fazlasını yaparak.</target>
         
       </trans-unit>
       <trans-unit id="1ANtx56" resname="Playback instruments, samples and plugins">
         <source>Playback instruments, samples and plugins</source>
-        <target>İstediğiniz eklentiler, enstrümanlar ve sample'lar...</target>
+        <target>İOynatma aletleri, örnekleri ve eklentileri</target>
         
       </trans-unit>
       <trans-unit id="c_9n6oH" resname="with a typing or MIDI keyboard in a user-friendly and modern interface.">
         <source>with a typing or MIDI keyboard in a user-friendly and modern interface.</source>
-        <target>Bunları çalmak artık LMMS'in kolay arayüzü sayesinde çok daha kolay. İster bilgisayarınızın klavyesiyle, isterseniz de MIDI klavyenizle çalabilirsiniz.</target>
+        <target>kullanıcı dostu ve modern bir arayüzde yazarak veya MIDI klavye ile.</target>
         
       </trans-unit>
       <trans-unit id="h73sjrb" resname="Bundled with ready-to-use content">
         <source>Bundled with ready-to-use content</source>
-        <target>Kullanıma hazır!</target>
+        <target>Kullanıma hazır içerikle birlikte gelir</target>
         
       </trans-unit>
       <trans-unit id="lBGEdiH" resname="from an assortment of instrument and effect plugins, presets and samples to VST and SoundFont support.">
         <source>from an assortment of instrument and effect plugins, presets and samples to VST and SoundFont support.</source>
-        <target>Bolca enstrüman, efekt, sample, eklenti ve hazır ayar, hepsi içinde gelir. Daha fazlası için, dilerseniz kendi VST'lerinizi ve SoundFont dosyalarınızı kullanabilirsiniz. LMMS bunların hepsini destekler.</target>
+        <target>çeşitli enstrüman ve efekt eklentileri, ön ayarlar ve örneklerden VST ve SoundFont desteğine kadar.</target>
         
       </trans-unit>
       <trans-unit id="rELUYJ6" resname="Made by musicians, for musicians.">
@@ -440,7 +441,7 @@
       </trans-unit>
       <trans-unit id="WRDAWeq" resname="Download for macOS">
         <source>Download for macOS</source>
-        <target>macOS için indirin</target>
+        <target>MacOS için indirin</target>
         
       </trans-unit>
       <trans-unit id="QBixtUo" resname="Pick your flavor.">
@@ -455,12 +456,12 @@
       </trans-unit>
       <trans-unit id="vEX6OG8" resname="Houston, we have a problem.">
         <source>Houston, we have a problem.</source>
-        <target>Bir sorun olursa,</target>
+        <target>Ankara, bir problemimiz var.</target>
         
       </trans-unit>
       <trans-unit id="J5pmILO" resname="Stand by, we got you covered.">
         <source>Stand by, we got you covered.</source>
-        <target>hep birlikte çözeriz.</target>
+        <target>Bekleyin, sizi koruduk.</target>
         
       </trans-unit>
       <trans-unit id="3vJMQyC" resname="Visit our forum">
@@ -485,12 +486,12 @@
       </trans-unit>
       <trans-unit id="Q.2pUhd" resname="Ask your questions here">
         <source>Ask your questions here</source>
-        <target>İster sorun, ister cevaplayın.</target>
+        <target>Sorularınızı burada sorun</target>
         
       </trans-unit>
       <trans-unit id="G0SNPhL" resname="and answer a few questions while you're waiting.">
         <source>and answer a few questions while you're waiting.</source>
-        <target>Bu kanallar aracılığıyla sorularınıza cevap bulabilir, başkalarının sorduğu sorulara cevap verebilirsiniz.</target>
+        <target>ve beklerken birkaç soruyu yanıtlayın.</target>
         
       </trans-unit>
       <trans-unit id="AZtpftd" resname="Sharing means caring.">
@@ -520,17 +521,17 @@
       </trans-unit>
       <trans-unit id="e0XmaMu" resname="We &lt;3 open source.">
         <source>We &lt;3 open source.</source>
-        <target>LMMS &lt;3 Açık Kaynak</target>
+        <target>Biz &lt;3 açık kaynak kodluyuz.</target>
         
       </trans-unit>
       <trans-unit id="opjPraT" resname="Fork us on GitHub">
         <source>Fork us on GitHub</source>
-        <target>GitHub'da bizi forkla.</target>
+        <target>Bizimle GitHub'da çalışın</target>
         
       </trans-unit>
       <trans-unit id="4m3F_E2" resname="LMMS is a 100% free, open source, community-driven project.">
         <source>LMMS is a 100% free, open source, community-driven project.</source>
-        <target>LMMS: %100 ücretsiz, açık kaynak kodlu, kendi topluluğu tarafından yürütülen bir proje.</target>
+        <target>LMMS: % 100 ücretsiz, açık kaynak kodlu, kendi topluluğu tarafından yürütülen bir proje.</target>
         
       </trans-unit>
       <trans-unit id="B_SpjYT" resname="Proudly hosted on GitHub.">
@@ -555,7 +556,7 @@
       </trans-unit>
       <trans-unit id="oJJM7AY" resname="Featuring:">
         <source>Featuring:</source>
-        <target>LMMS ne vadediyor:</target>
+        <target>Aşağıdakiler mevcuttur:</target>
         
       </trans-unit>
       <trans-unit id="j6_axfx" resname="Core Functionality">
@@ -570,32 +571,32 @@
       </trans-unit>
       <trans-unit id="JmUgjfR" resname="Sequence, compose, mix and automate songs in one simple interface">
         <source>Sequence, compose, mix and automate songs in one simple interface</source>
-        <target>Tüm işler tek bir basit arayüzde: Kaydet, bestele, miksle, ayarkayıt yap.</target>
+        <target>Basit bir arayüzde şarkıları sıralayın, oluşturun, karıştırın ve otomatikleştirin</target>
         
       </trans-unit>
       <trans-unit id="q85N8NQ" resname="Note playback via MIDI or typing keyboard">
         <source>Note playback via MIDI or typing keyboard</source>
-        <target>Dilediğiniz yerden çalın, bilgisayar klavyesinden veya MIDI klavyeden.</target>
+        <target>MIDI veya klavye yazarak çalmayı not edin</target>
         
       </trans-unit>
       <trans-unit id="UpGfL75" resname="Consolidate instrument tracks using Beat+Bassline Editor">
         <source>Consolidate instrument tracks using Beat+Bassline Editor</source>
-        <target>Beat+Bassline Düzenleyici ile birden çok enstrümanı tek bir yere toplayıp kaydedin, istediğiniz sayıda.</target>
+        <target>Beat + Bassline Editor kullanarak enstrüman parçalarını birleştirin</target>
         
       </trans-unit>
       <trans-unit id="73.8zRG" resname="Fine tune patterns, notes, chords and melodies using Piano Roll Editor">
         <source>Fine tune patterns, notes, chords and melodies using Piano Roll Editor</source>
-        <target>Piano Roll üzerinden notalarınıza ince ayar yapın.</target>
+        <target>Piano Roll Editor kullanarak desenleri, notaları, akorları ve melodileri ince ayarlayın</target>
         
       </trans-unit>
       <trans-unit id="X4f.0Yt" resname="Full user-defined track-based automation and computer-controlled automation sources">
         <source>Full user-defined track-based automation and computer-controlled automation sources</source>
-        <target>Her enstrüman için ayrı ayarkayıt yapın, bilgisayardan ya da elle.</target>
+        <target>Tam kullanıcı tanımlı parça tabanlı otomasyon ve bilgisayar kontrollü otomasyon kaynakları</target>
         
       </trans-unit>
       <trans-unit id=".oFCngq" resname="Import of MIDI files and Hydrogen project files">
         <source>Import of MIDI files and Hydrogen project files</source>
-        <target>MIDI dosyalarınızı veya Hydrogen dosyalarınızı içe aktarın.</target>
+        <target>MIDI dosyalarının ve Hydrogen proje dosyalarının içe aktarılması</target>
         
       </trans-unit>
       <trans-unit id="w1G_1Tb" resname="Musical Instruments">
@@ -610,17 +611,17 @@
       </trans-unit>
       <trans-unit id="koI1Kzb" resname="16 built in synthesizers, including emultations of Roland ® TB-303, Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip and more">
         <source>16 built in synthesizers, including emultations of Roland ® TB-303, Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip and more</source>
-        <target>Roland ® TB-303, Commodore 64 ® SID microchip, Nintendo ® NES, Nintendo ® GameBoy, Yamaha ® OPL2 chip seslerini ve çok daha fazlasını içeren 16 farklı synthesizer ile gelir.</target>
+        <target>Roland ® TB-303, Commodore 64 ® SID mikroçip, Nintendo ® NES ve GameBoy, Yamaha ® OPL2 çipi ve daha fazlasını içeren 16 dahili synthesizer</target>
         
       </trans-unit>
       <trans-unit id="OwdwPKG" resname="Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice additive, subtractive and pad synthesis all in one powerful plugin">
         <source>Embedded ZynAddSubFx: Polyphonic, mutlitimbral, microtonal, multi-voice additive, subtractive and pad synthesis all in one powerful plugin</source>
-        <target>ZynAddSubFx ile gelir: Polifonik, mutlitimbral, mikrotonal ve adını bile bilmediğimiz tonlarca sıfata sahip süper bir eklenti. Tuhaf sıfatları gözünüzü korkutmasın, bolca hazır ayarla gelir, dilediğiniz enstrümanı hazır ayarlar arasından kolayca seçebilirsiniz.</target>
+        <target>Gömülü ZynAddSubFx: Polifonik, mutlitimbral, mikrotonal, çok sesli katkı, çıkarma ve ped sentezi hepsi bir arada güçlü bir eklenti</target>
         
       </trans-unit>
       <trans-unit id="UqEEpjy" resname="Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis UltraSound ® (GUS) formats for high quality instrument patches and banks">
         <source>Native multisample support for SoundFont ® (SF2), Giga (GIG) and Gravis UltraSound ® (GUS) formats for high quality instrument patches and banks</source>
-        <target>Yüksek kalite enstrümanlar ve ses bankalarını kullanmak için ideal. LMMS, SoundFont ® (SF2), Giga (GIG) ve Gravis UltraSound ® (GUS) formatlarını destekler.</target>
+        <target>Yüksek kaliteli enstrüman yamaları ve kümeleri için SoundFont ® (SF2), Giga (GIG) ve Gravis UltraSound ® (GUS) formatları için yerel çoklu örnek desteği</target>
         
       </trans-unit>
       <trans-unit id="CasBlNK" resname="Effects Mixing">
@@ -630,7 +631,7 @@
       </trans-unit>
       <trans-unit id="SNZn7PZ" resname="Drop-in LADSPA plug-in support">
         <source>Drop-in LADSPA plug-in support</source>
-        <target>LADSPA eklentileri destekler.</target>
+        <target>Drop-in LADSPA eklenti desteği</target>
         
       </trans-unit>
       <trans-unit id="b1z.R0m" resname="Drop-in VST ® effect plug-in support (Linux and Windows)">
@@ -640,17 +641,17 @@
       </trans-unit>
       <trans-unit id="_c4RPsG" resname="Built-in compressor, limiter, delay, reverb, distortion and bass enhancer">
         <source>Built-in compressor, limiter, delay, reverb, distortion and bass enhancer</source>
-        <target>Yerleşik compressor, limiter, delay, reverb, distortion ve bas yükseltici uygulamaları ile gelir.</target>
+        <target>Dahili sıkıştırma, sınırlayıcı, gecikme, yankı, distorsiyon ve bas güçlendirici</target>
         
       </trans-unit>
       <trans-unit id="tUrf1x9" resname="Bundled graphic and parametric equalizers">
         <source>Bundled graphic and parametric equalizers</source>
-        <target>Grafik ve parametrik equalizerlar.</target>
+        <target>Birlikte verilen grafik ve parametrik ekolayzerler</target>
         
       </trans-unit>
       <trans-unit id="PoXBpT3" resname="Built-in visualization/spectrum analyzer">
         <source>Built-in visualization/spectrum analyzer</source>
-        <target>Yerleşik görselleştirici ve spektrum çözümleyici.</target>
+        <target>Yerleşik görselleştirme/spektrum analizörü</target>
         
       </trans-unit>
       <trans-unit id="xhQMvx4" resname="Download LMMS Artwork">
@@ -731,6 +732,43 @@
 				- After the deadline, the judges will make their decisions and release the results within 14 days.
 			6. **Release:**
 				- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.</source>
+        <target>#### Yarışma ** 2 Nisan 2019 ** tarihinde sona erdi.
+			LMMS'yi destekleyin ve derlemeyi [bandcamp sayfamızdan] satın alın (https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-6)
+
+			Tüm girişleri [buradan] dinleyin(https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQm-kulIpC2Na8ol7brGGmmK3aK4kz9AaUi0KIy1FrHUj6snVwCpdcDZqJ7unf_oIbGTmC4cWnP1tLW/pubhtml?gid=1466576535&amp;single=true)
+
+			Kazananlar:
+			&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/768817671&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+			#### Orijinal açıklama:
+			Size LMMS'nin En İyisi yarışması cilt 6'yı sunmaktan gurur duyuyoruz!
+			Yarışma, topluluğa müziklerini yaratma ve paylaşma konusunda ilham vermeyi amaçlamaktadır. Gece yarısından önce aşağıdaki bağlantıdan parkurunuzu gönderin
+			(23: 59.59 UTC Saati) BoL v6 albümünde yer alma şansı için 2 Nisan'da. Derleme, tüm kar LMMS'nin daha da geliştirilmesine gidecek şekilde Bandcamp'a yüklenecektir.
+
+			[Buraya gönderin] (https://goo.gl/forms/lNmexmoqWiwiKDUf1)
+			#### Rekabet kuralları:
+			1. ** Son Tarih: **
+				- Parça 2 Nisan 2019 23: 59.59 UTC'ye kadar [bu form] (https://goo.gl/forms/lNmexmoqWiwiKDUf1) kullanılarak gönderilmelidir.
+			2. ** Pist: **
+				- LMMS'de üretilmelidir.
+				- Mastering ve post processing için diğer programları kullanabilirsiniz.
+				- 10 dakikadan kısa olmalıdır.
+				- Önceki Best of LMMS albümlerinden kazanan parçalara izin verilmez.
+				- Remixlere izin verilmez.
+			3. ** Sunumlar: **
+				- Yalnızca bu formu kullanarak göndermelisiniz.
+				- Sanatçı başına birden fazla girişe izin verilmez.
+				- İşbirlikleri, katılan her sanatçı için BİR giriş olarak sayılır.
+				- Girişlerde jüriyle işbirliği yapmak yok.
+				- Yalnızca Soundcloud, YouTube veya Clyp'de barındırılan gönderimlere izin verilir.
+				- Tam parça, sağlanan gönderim bağlantısında mevcut olmalıdır
+				- Başvurunuz, değerlendirme sürecinin sonuna kadar dinlenmeye açık olmalıdır. Aksi takdirde, girişiniz diskalifiye edilecektir.
+			4. ** Hakimler: **
+				- Jüri şunlardan oluşur: Abludo, Dystany, Heavenity Princess, Jacoby Davis, Pyrif ve Spekular.
+			5. ** Yargılama: **
+				- Son teslim tarihinden sonra hakimler kararlarını verecek ve sonuçları 14 gün içinde açıklayacaklar.
+			6. ** Yayın: **
+				- En çok puan alan 25 şarkı Bandcamp'ta “Ne istersen öde” fiyatıyla bir albüm olarak yayınlanacak. Alınan tüm fonlar, sevdiğimiz program olan LMMS'nin daha da geliştirilmesi için bağışlanacak.</target>
         
       </trans-unit>
       <trans-unit id="nY8I5YL" resname="The Best of LMMS vol. V">
@@ -778,6 +816,45 @@
 				- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.
 
 			\* *This year the judging process has changed, to ensure fairer handling of entries. The change to one submission only is to allow each and every entry to be fully scored by the panel of judges. This was previously handled by a preliminary screening round to help cut down the large amount of entries received. By lowering the amount of up-front entries allowed, the judges will have the time to fully score each track entered.*</source>
+        <target>#### Yarışma ** 16 Nisan 2018 ** tarihinde sona erdi.
+			LMMS'yi destekleyin ve derlemeyi [bandcamp sayfamızdan] satın alın (https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5)
+
+			Tüm girişleri [buradan] dinleyin (https://docs.google.com/spreadsheets/d/e/2PACX-1vQOjvIBp40ez-2QrPsGHt_LGY2XejaOFZrXWsgPVPXoH7w7QQriUV52_OeCQBL9tcOPlCxdUw2HC6Ud/pubhtml?gid=1958072675&amp;single=true)
+
+			Kazananlar:
+			&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/519667455&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+			#### Orijinal açıklama:
+			Size LMMS'nin En İyisi yarışması cilt 5'i sunmaktan gurur duyuyoruz!
+			Yarışma, topluluğa müziklerini yaratma ve paylaşma konusunda ilham vermeyi amaçlamaktadır. Gece yarısından önce aşağıdaki bağlantıdan parkurunuzu gönderin
+			(23: 59.59) BoL v5 albümünde yer alma şansı için 16 Nisan'da (UTC saati). Derleme, tümü ile birlikte Bandcamp'a yüklenecektir.
+			LMMS'nin daha da gelişmesine giden kar.
+
+			[Buraya gönderin] (https://goo.gl/47ZXq1)
+			#### Rekabet kuralları:
+			1. ** Son Tarih: **
+				- Parça 16 Nisan 2018 23: 59.59 UTC'ye kadar [bu form] (https://goo.gl/47ZXq1) kullanılarak gönderilmelidir.
+			2. ** Pist: **
+				- LMMS'de üretilmelidir.
+				- Mastering ve post processing için diğer programları kullanabilirsiniz.
+				- 10 dakikadan kısa olmalıdır.
+				- Önceki Best of LMMS albümlerinden kazanan parçalara izin verilmez.
+				- Remixlere izin verilmez.
+			3. ** Sunumlar: **
+				- Yalnızca bu formu kullanarak göndermelisiniz.
+				- Sanatçı başına birden fazla girişe izin verilmez. *
+				- İşbirlikleri, katılan her sanatçı için BİR giriş olarak sayılır. *
+				- Girişlerde jüriyle işbirliği yapmak yok.
+				- Yalnızca Soundcloud, YouTube veya Clyp'de barındırılan gönderimlere izin verilir.
+				- Başvurunuz, değerlendirme sürecinin sonuna kadar dinlenmeye açık olmalıdır. Aksi takdirde, girişiniz diskalifiye edilecektir.
+			4. ** Hakimler: **
+				Jüri şunlardan oluşur: Dull Machine, Etorna_Z, Jernemies, Poleroyd, Umcaruje ve Unfa.
+			5. ** Yargılama: **
+				- Son teslim tarihinden sonra, jüri üyeleri her parçayı puanlayacak ve sonuçları 14 gün içinde açıklayacak.
+			6. ** Yayın: **
+				- En çok puan alan 25 şarkı Bandcamp'ta “Ne istersen öde” fiyatıyla bir albüm olarak yayınlanacak. Alınan tüm fonlar, sevdiğimiz program olan LMMS'nin daha da geliştirilmesi için bağışlanacak.
+
+				\ ** Bu yıl, girişlerin daha adil bir şekilde ele alınmasını sağlamak için değerlendirme süreci değişti. Yalnızca bir sunumda değişiklik, her bir girişin jüri heyeti tarafından tam olarak puanlanmasına izin vermektir. Bu, daha önce alınan büyük miktardaki girişlerin azaltılmasına yardımcı olmak için bir ön tarama turu ile ele alındı. İzin verilen ön girişlerin miktarını düşürerek, jüri, girilen her parçayı tam olarak puanlamak için zamana sahip olacaktır. *</target>
         
       </trans-unit>
       <trans-unit id="A2MFznp" resname="The Best of LMMS vol. IV">
@@ -822,6 +899,42 @@
 			6. **The Release**
 			  - The 25 highest scoring songs will be released as an album on Bandcamp with the price of &quot;Pay what you want&quot;.
 					All the received funds will be donated for further development of LMMS, the program that we love.</source>
+        <target>#### Yarışma ** 16 Nisan 2017 ** tarihinde sona erdi.
+			LMMS'yi destekleyin ve derlemeyi [bandcamp sayfamızdan] satın alın (https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-4)
+
+			Tüm girişleri [buradan.] Dinleyin (https://docs.google.com/spreadsheets/d/1pPoM7CQIg5C4uzgOrlRnytJiAsOD5K6jxitF-SIjXRQ/pubhtml?gid=975440614&amp;single=true)
+
+			Kazananlar:
+			&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/321234884&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+			#### Orijinal Açıklama:
+			Size LMMS'nin En İyisi yarışması cilt 4'ü sunmaktan gurur duyuyoruz!
+			Yarışma, topluluğa müziklerini yaratma ve paylaşma konusunda ilham vermeyi amaçlamaktadır. Gece yarısından önce aşağıdaki bağlantıdan parkurunuzu gönderin
+  		 (23: 59.59) BoL v4 albümünde yer alma şansı için 16 Nisan'da (UTC saati). Derleme, tümü ile birlikte Bandcamp'a yüklenecektir.
+			LMMS'nin daha da gelişmesine giden kar.
+			Bu yılki gönderimler Google formları aracılığıyla ele alınmaktadır. YouTube, Soundcloud ve Clyp'de barındırılan gönderimleri kabul ediyoruz. Kuralların tamamı için gönderim formuna bakın:
+			https://goo.gl/forms/cifEliOViOXTSc8H2
+			#### Rekabet kuralları:
+			1. ** Son Tarih **
+			  - Parçalar 16 Nisan 23: 59.59 UTC'ye kadar [bu form] (https://goo.gl/forms/cifEliOViOXTSc8H2) kullanılarak gönderilmelidir.
+			2. ** Parçalar **
+			  - LMMS'de üretilmelidir.
+				- Mastering ve post processing için diğer programları kullanabilirsiniz.
+				- 10 dakikadan kısa olmalıdır.
+				- Önceki Best of LMMS albümlerinden kazanan parçalara izin verilmez.
+				- Remixlere izin verilmez.
+			3. ** Sunumlar **
+			  - Yalnızca bu formu kullanarak göndermelisiniz.
+				- Sanatçı başına en fazla ** İKİ ** kayda izin verilir.
+				- Ortak çalışmalar, katılan her sanatçı için ** BİR ** giriş olarak sayılır.
+				- Yalnızca Soundcloud, YouTube veya Clyp'de barındırılan gönderimlere izin verilir.
+				- Başvurunuz, değerlendirme sürecinin sonuna kadar dinlenmeye açık olmalıdır. Aksi takdirde, girişiniz diskalifiye edilecektir.
+			4. ** Jüri **
+			  - Jüri şunlardan oluşur: Greippi, Jacoby Davis, Spekular, Stakeout Punch ve Squatro.
+			5. ** Değerlendirme Süreci **
+			  - Son teslim tarihinden sonra hakimler kararlarını verecek ve sonuçları 14 gün içinde açıklayacaklar.
+			6. ** Sürüm **
+			  - En çok puan alan 25 şarkı Bandcamp'ta &quot;İstediğini öde&quot; fiyatıyla bir albüm olarak yayınlanacak.
+					Alınan tüm fonlar, sevdiğimiz program olan LMMS'nin daha da geliştirilmesi için bağışlanacak.</target>
         
       </trans-unit>
       <trans-unit id="IKxeWHi" resname="The Best of LMMS vol. III">
@@ -854,6 +967,30 @@
 			4. The Judging Process. After the deadline, the judges will make their decisions and release the results within next 14 days.
 			5. Release. The compilation will be released on a dedicated LMMS artists Bandcamp with the price of “Pay what you want”. All the received funds
 				will be donated for further development of LMMS, the program that we love.</source>
+        <target>#### Yarışma ** 16 Mart 2016'da sona erdi. **
+			LMMS'yi destekleyin ve derlemeyi [bandcamp sayfamızdan] (https://lmmsartists.bandcamp.com/) satın alın.
+
+			Tüm girişleri [buradan] dinleyin (https://soundcloud.com/groups/the-best-of-lmms-competition-v3)
+
+			Kazananlar:
+			&lt;iframe width=&quot;100%%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/211975750&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+			#### Orijinal açıklama:
+
+			Yine yılın o zamanı geldi: LMMS ile harika parçalar yaptıysanız, sizin için bir yarışmamız var!
+			En İyi LMMS yarışması geri döndü! Derleme, yeni kullanıcılara ve herkese müzik yaratma konusunda ilham vermeyi amaçlıyor.
+			Derleme Bandcamp'a yüklenecek ve tüm kar, LMMS'nin daha da geliştirilmesi için bağışlanacaktır.
+			Parçanızı 16 Mart gece yarısından önce (UTC saati) gönderin ve [soundcloud grubu] 'ndaki yarışma hakkında ayrıntıları bulun (https://soundcloud.com/groups/the-best-of-lmms-competition-v3)
+
+			#### Rekabet kuralları:
+
+			1. Son Tarih. Parçalar 16 Mart 0:00 UTC tarihine kadar gönderilmelidir. Parçalar herhangi bir türde, tercihen 10 dakikanın altında olabilir.
+				Parça LMMS'de üretilmelidir, ancak sonradan karıştırma / mastering için başka bir yazılım (Audacity, Ardor vb.) Kullanmasına izin verilir.
+			2. Parçalar. Tüm gönderimler, özel grup kullanılarak SoundCloud aracılığıyla işlenecektir. En fazla iki parça gönderebilirsiniz.
+				Önceden yayınlanmış parçaları gönderebilirsiniz, ancak önceki Best of LMMS albümlerindeki parçaları gönderemezsiniz. Remikslere izin verilmiyor. Bir yargıç ve sizin aranızda işbirliğine izin verilmez.
+			3. Hakimler. Jüri şunlardan oluşur: Zach Henderson, Second Flight, Umcaruje, Greippi, Tres Finnochiaro, Abludo.
+			4. Değerlendirme Süreci. Son teslim tarihinden sonra, hakimler kararlarını verecek ve sonuçları önümüzdeki 14 gün içinde açıklayacaklar.
+			5. Serbest bırakın. Derleme, özel bir LMMS sanatçısı olan Bandcamp'ta &quot;İstediğini öde&quot; fiyatıyla yayınlanacak. Alınan tüm fonlar
+				sevdiğimiz program olan LMMS'nin daha da geliştirilmesi için bağışlanacak.</target>
         
       </trans-unit>
       <trans-unit id="GkkeUeD" resname="The Best of LMMS vol. II">
@@ -885,11 +1022,34 @@
 			By marking your song with the tag &quot;Want Feedback&quot; you can get feedback from the judges. Comments from different judges will be combined into one
 			text so you won't know from who or how many the feedback is. Note that you aren't guaranteed any feedback, it depends on how much time the judges have.
 			Also note that the judges are just regular LMMS artists and no matter what feedback you get the judges' decision for album songs is final.</source>
+        <target>#### Yarışma ** 1 Nisan 2015'te sona erdi. **
+
+			LMMS'yi destekleyin ve derlemeyi [bandcamp sayfamızdan] (https://lmmsartists.bandcamp.com/) satın alın.
+
+			Tüm girişleri [buradan] dinleyin (https://soundcloud.com/groups/the-best-of-lmms-competition-v2)
+
+			Kazananlar:
+			&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/103762698&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+			#### Orijinal açıklama:
+			1. Son Tarih. Şarkılar 1 Nisan 0:00 UTC'ye kadar gönderilmelidir. Şarkılar herhangi bir türde, tercihen 10 dakikanın altında olabilir.
+				Şarkı çoğunlukla LMMS'de yapılmalıdır, ancak sonradan karıştırma / mastering için başka bir yazılım (Audacity, Ardor vb.) Kullanmasına izin verilir.
+			2. Şarkılar. Tüm gönderimler, özel grup kullanılarak SoundCloud aracılığıyla işlenecektir. Bir kullanıcı en fazla iki şarkı gönderebilir.
+				Kullanıcılar önceden yayınlanmış şarkıları gönderebilir ANCAK önceki BoL yarışmaları için gönderilen şarkıları gönderemezler. Remikslere izin verilmiyor.
+				Bir yargıç ve sizin aranızda bir şarkı işbirliğine izin verilmez.
+			3. Yargıçlar ve Tahliye. Jüri üyeleri Stian Jørgensrud (Sti-Jay), Ian Letarte, Hashhakaj kamaluden, Fastigium, artlu, TRonix ve Jernemies'den oluşuyor.
+				Derleme, özel LMMS sanatçıları Bandcamp'ta &quot;İstediğini öde&quot; fiyatıyla yayınlanacak. Alınan tüm fonlar bağışlanacak
+				LMMS'nin daha fazla geliştirilmesi veya programla ilgili diğer maliyetleri karşılamak için.
+
+			Ekstralar:
+
+			Şarkınızı &quot;Geri Bildirim İste&quot; etiketiyle işaretleyerek jüri üyelerinden geri bildirim alabilirsiniz. Farklı jüri üyelerinin yorumları bir araya getirilecek
+			mesajın kimden veya kaç kişiden olduğunu bilemeyeceksiniz. Herhangi bir geri bildiriminizin garanti edilmediğini unutmayın, bu, jüri üyelerinin ne kadar zamana sahip olduğuna bağlıdır.
+			Ayrıca jüri üyelerinin sadece normal LMMS sanatçıları olduğunu ve jürinin albüm şarkıları için kararının nihai olduğunu unutmayın.</target>
         
       </trans-unit>
       <trans-unit id="pE7RK0F" resname="The Best of LMMS vol. I">
         <source>The Best of LMMS vol. I</source>
-        <target>LMMS'in En İyileri vol. 1 </target>
+        <target>LMMS'in En İyileri vol. I</target>
         
       </trans-unit>
       <trans-unit id="mZajPTE" resname="#### The competition has ended on **February 15th, 2014.**&#10;&#10;&#9;&#9;&#9;Support LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/)&#10;&#10;&#9;&#9;&#9;Listen to all entries [here.](https://soundcloud.com/groups/lmms-top-songs-compilation)&#10;&#10;&#9;&#9;&#9;Winners:&#10;&#9;&#9;&#9;&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/27083727&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;&#10;&#9;&#9;&#9;#### Original description:&#10;&#10;&#9;&#9;&#9;If you have made amazing songs with LMMS we have a contest for you! A LMMS top songs contest.&#10;&#9;&#9;&#9;The compilation aims to inspire new users and get new producers to use the program as well as to give a big thank you to LMMS developers.&#10;&#9;&#9;&#9;The compilation will be uploaded to Bandcamp and all profit will be donated for the further development of LMMS. Submit your song before&#10;&#9;&#9;&#9;midnight on February 15th, and find details about this contest on the Soundcloud site.&#10;&#10;&#9;&#9;&#9;#### Competition rules:&#10;&#9;&#9;&#9;1. The Deadline. The songs must be submitted by February 15th 12 PM GMT. A user can submit a maximum of two songs. The songs can be of any genre,&#10;&#9;&#9;&#9;&#9;preferably under 10 minutes. All submissions will be handled via SoundCloud using the dedicated group. User CAN submit previously released songs.&#10;&#9;&#9;&#9;&#9;Remixes are not allowed. The song should be made mostly in LMMS, but it is allowed to use some other software (Audacity, Ardour etc.) for post mixing/mastering.&#10;&#9;&#9;&#9;2. The Judges. The judges consist of the group Avelocity: Brian Amin (Maniarib), Joshua Wade (Second Flight),&#10;&#9;&#9;&#9;&#9;Uroš Maravić (Umcaruje), Evan Roberts (Stakeout Punch), Joshua Flynn (Raptor980), Jan Heemstra (Combustible Lemonade)&#10;&#9;&#9;&#9;3. The Judging Process. After the deadline, the judges will make their decisions and release the results within next 7 days.&#10;&#9;&#9;&#9;4. Release. The compilation will be released on a dedicated LMMS artists Bandcamp with the price of “Pay what you want”. All the received funds&#10;&#9;&#9;&#9;&#9;will be donated for further development of LMMS, the program that we love.">
@@ -917,6 +1077,30 @@
 			3. The Judging Process. After the deadline, the judges will make their decisions and release the results within next 7 days.
 			4. Release. The compilation will be released on a dedicated LMMS artists Bandcamp with the price of “Pay what you want”. All the received funds
 				will be donated for further development of LMMS, the program that we love.</source>
+        <target>#### Yarışma ** 15 Şubat 2014'te sona erdi. **
+
+			LMMS'yi destekleyin ve derlemeyi [bandcamp sayfamızdan] (https://lmmsartists.bandcamp.com/) satın alın.
+
+			Tüm girişleri [buradan] dinleyin (https://soundcloud.com/groups/lmms-top-songs-compilation)
+
+			Kazananlar:
+			&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/27083727&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+			#### Orijinal açıklama:
+
+			LMMS ile harika şarkılar yaptıysanız, sizin için bir yarışmamız var! Bir LMMS en popüler şarkılar yarışması.
+			Derleme, yeni kullanıcılara ilham vermeyi ve yeni üreticilerin programı kullanmasını sağlamanın yanı sıra LMMS geliştiricilerine de büyük bir teşekkür vermeyi amaçlamaktadır.
+			Derleme Bandcamp'a yüklenecek ve tüm kar, LMMS'nin daha da geliştirilmesi için bağışlanacaktır. Şarkınızı daha önce gönderin
+			15 Şubat gece yarısı ve bu yarışma hakkındaki ayrıntıları Soundcloud sitesinde bulabilirsiniz.
+
+			#### Rekabet kuralları:
+			1. Son Tarih. Şarkılar 15 Şubat 12 PM GMT'ye kadar gönderilmelidir. Bir kullanıcı en fazla iki şarkı gönderebilir. Şarkılar herhangi bir türde olabilir,
+				tercihen 10 dakikanın altında. Tüm gönderimler, özel grup kullanılarak SoundCloud aracılığıyla işlenecektir. Kullanıcı önceden yayınlanmış şarkıları gönderebilir.
+				Remikslere izin verilmiyor. Şarkı çoğunlukla LMMS'de yapılmalıdır, ancak sonradan karıştırma / mastering için başka bir yazılım (Audacity, Ardor vb.) Kullanmasına izin verilir.
+			2. Hakimler. Jüri, Avelocity grubundan oluşur: Brian Amin (Maniarib), Joshua Wade (Second Flight),
+				Uroš Maravić (Umcaruje), Evan Roberts (Stakeout Punch), Joshua Flynn (Raptor980), Jan Heemstra (Yanıcı Limonata)
+			3. Değerlendirme Süreci. Son teslim tarihinden sonra, hakimler kararlarını verecek ve sonuçları önümüzdeki 7 gün içinde açıklayacaklar.
+			4. Serbest bırakın. Derleme, özel bir LMMS sanatçısı olan Bandcamp'ta &quot;İstediğini öde&quot; fiyatıyla yayınlanacak. Alınan tüm fonlar
+				sevdiğimiz program olan LMMS'nin daha da geliştirilmesi için bağışlanacak.</target>
         
       </trans-unit>
       <trans-unit id="jHKJWvC" resname="Error &lt;b&gt;%code%&lt;/b&gt;">
@@ -1038,7 +1222,7 @@
       </trans-unit>
       <trans-unit id="z5uvwQy" resname="The Best of LMMS vol. VIII">
         <source>The Best of LMMS vol. VIII</source>
-        <target>LMMS En iyileri seviye. VIII</target>
+        <target>LMMS'in En İyileri vol. 8</target>
         
       </trans-unit>
       <trans-unit id="BQRlGdk" resname="We are proud to present to you The Best of LMMS contest volume 8!&#10;&#9;&#9;&#9;The contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight&#10;&#9;&#9;&#9;(23:59.59 UTC Time) on April 5th 2021 for a chance to be featured on the BoL v8 album. The compilation will be uploaded to Bandcamp, with all profits going towards LMMS' further development.&#10;&#10;&#9;&#9;&#9;&lt;p class=&quot;center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg center&quot; href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScfJNvVtoCJ8SVQ8TWiPMjbIsl49RvwGiy1nODuvKdJ8Er_Bg/viewform&quot;&gt;Submit here&lt;/a&gt;&lt;/p&gt;&#10;&#9;&#9;&#9;#### Competition rules:&#10;&#10;&#9;&#9;&#9;1. **The Deadline:**&#10;&#9;&#9;&#9; - Track must be submitted by April 5th 2021 at 23:59.59 UTC using this form.&#10;&#9;&#9;&#9;2. **The Track:**&#10;&#9;&#9;&#9; - Must be produced in LMMS.&#10;&#9;&#9;&#9; - You may use other programs for mastering and post processing.&#10;&#9;&#9;&#9; - Must be under 10 minutes long.&#10;&#9;&#9;&#9; - No winning tracks from previous Best of LMMS albums allowed.&#10;&#9;&#9; &#9; - No covers or remixes of other person(s) works are permitted.&#10;&#9;&#9;&#9; - Reworks of your own tracks are eligible with judge approval.&#10;&#9;&#9;&#9;3. **The Submissions:**&#10;&#9;&#9;&#9; - You must submit using this form only.&#10;&#9;&#9;&#9; - No more than ONE entry per artist is allowed.&#10;&#9;&#9;&#9; - Collaborations count as ONE entry for each artist involved.&#10;&#9;&#9;&#9; - No collaborating with judges on entries.&#10;&#9;&#9;&#9; - Only submissions hosted on Soundcloud, YouTube, or Clyp are allowed.&#10;&#9;&#9;&#9;  - The full track should be available at the submission link provided&#10;&#9;&#9;&#9; - Your entry must be available for listening until the end of the judging process. If not, your entry will be disqualified.&#10;&#9;&#9;&#9;4. **The Judges:**&#10;&#9;&#9;&#9; - The jury consists of: Woods Alive, Hotel Zero, Jousboxx, Blageez, Noeroti, and JVSTDARE&#10;&#9;&#9;&#9;5. **The Judging:**&#10;&#9;&#9;&#9; - After the deadline, the judges will make their decisions and release the results within 14-21 days, personal schedules permitting.&#10;&#9;&#9;&#9;6. **Release:**&#10;&#9;&#9;&#9; - The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.&#10;&#10;&#9;&#9;&#9;**Note: Entries are approved to appear on the submission list by hand, so if you don't see yours, sit tight! It might take a while.**">
@@ -1074,6 +1258,38 @@
 			 - The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.
 
 			**Note: Entries are approved to appear on the submission list by hand, so if you don't see yours, sit tight! It might take a while.**</source>
+        <target>Size LMMS'nin En İyisi yarışması cilt 8'i sunmaktan gurur duyuyoruz!
+			tYarışma, topluluğa müziklerini yaratma ve paylaşma konusunda ilham vermeyi amaçlamaktadır. Gece yarısından önce aşağıdaki bağlantıdan parkurunuzu gönderin
+			tBoL v8 albümünde yer alma şansı için 5 Nisan 2021'de (23: 59.59 UTC Saati). Derleme, tüm kar LMMS'nin daha da geliştirilmesine gidecek şekilde Bandcamp'a yüklenecektir.
+
+			&lt;p class=&quot;center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg center&quot; href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScfJNvVtoCJ8SVQ8TWiPMjbIsl49RvwGiy1nODuvKdJ8Er_Bg/viewform&quot;&gt;Buraya yazın&lt;/a&gt;&lt;/p&gt;
+			#### Rekabet kuralları:
+
+			1. ** Son Tarih: **
+			 Parça, 5 Nisan 2021 tarihine kadar 23: 59.59 UTC'ye kadar bu form kullanılarak gönderilmelidir.
+			2. ** Pist: **
+			- LMMS'de üretilmelidir.
+			- Mastering ve post processing için diğer programları kullanabilirsiniz.
+			- 10 dakikadan kısa olmalıdır.
+			- Önceki Best of LMMS albümlerinden kazanan parçalara izin verilmez.
+			- Başka kişi (ler) in eserlerinin kapaklarına veya remixlerine izin verilmez.
+			- Kendi parçalarınızın düzeltmeleri jürinin onayına uygundur.
+			3. ** Sunumlar: **
+			- Yalnızca bu formu kullanarak göndermelisiniz.
+			- Sanatçı başına birden fazla girişe izin verilmez.
+			- İşbirlikleri, katılan her sanatçı için BİR giriş olarak sayılır.
+			- Girişlerde jüriyle işbirliği yapmak yok.
+			- Yalnızca Soundcloud, YouTube veya Clyp'de barındırılan gönderimlere izin verilir.
+			  - Tam parça, sağlanan gönderim bağlantısında mevcut olmalıdır
+			- Başvurunuz, değerlendirme sürecinin sonuna kadar dinlenmeye açık olmalıdır. Aksi takdirde, girişiniz diskalifiye edilecektir.
+			4. ** Hakimler: **
+			- Jüri şunlardan oluşur: Woods Alive, Hotel Zero, Jousboxx, Blageez, Noeroti ve JVSTDARE
+			5. ** Yargılama: **
+			- Son teslim tarihinden sonra hakemler kararlarını verecek ve sonuçları kişisel programları izin verdiği sürece 14-21 gün içinde açıklayacaklar.
+			6. ** Yayın: **
+			- En çok puan alan 25 şarkı Bandcamp'ta “Ne istersen öde” fiyatıyla bir albüm olarak yayınlanacak. Alınan tüm fonlar, sevdiğimiz program olan LMMS'nin daha da geliştirilmesi için bağışlanacak.
+
+			** Not: Girişlerin gönderim listesinde el ile görünmesi onaylanmıştır, bu nedenle sizinkini görmezseniz, sıkı durun! Biraz zaman alabilir. **</target>
         
       </trans-unit>
       <trans-unit id="yzGLm.Z" resname="The Best of LMMS vol. VII">
@@ -1119,18 +1335,58 @@
 				- After the deadline, the judges will make their decisions and release the results within 14 days.
 			6. **Release:**
 				- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.</source>
+        <target>#### Yarışma ** 16 Nisan 2020 ** tarihinde sona erdi.
+LMMS'yi destekleyin ve derlemeyi [bandcamp sayfamızdan] satın alın (https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-7)
+
+			Tüm girişleri [burada.] Dinleyin (https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vR6tbmbsWPReJdh2jnCixmKlisIiWTY2QPAz_y1OjSmuwGl0PjKuXgJQ7cXuKtlrYtLqBBEa_IYeVC0/pubhtml?gid=491403559&amp;single=true)
+
+			Kazananlar:
+			&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/1051302979&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+			#### Orijinal açıklama:
+			Size LMMS'nin En İyisi yarışması cilt 7'yi sunmaktan gurur duyuyoruz!
+			Yarışma, topluluğa müziklerini yaratma ve paylaşma konusunda ilham vermeyi amaçlamaktadır. Gece yarısından önce aşağıdaki bağlantıdan parkurunuzu gönderin
+			BoL v6 albümünde yer alma şansı için 16 Nisan'da (23: 59.59 UTC Saati). Derleme, tüm kar LMMS'nin daha da geliştirilmesine gidecek şekilde Bandcamp'a yüklenecektir.
+
+			[Buraya gönderin] (https://docs.google.com/forms/d/e/1FAIpQLSdpUGSa1JWK17_YQzc-cVQZ95toF0RQ7-c4yfdRjRtjaHAwzA/closedform)
+			#### Rekabet kuralları:
+			1. ** Son Tarih: **
+				- Parça, 16 Nisan 2020 23: 59.59 UTC'ye kadar [bu form] (https://docs.google.com/forms/d/e/1FAIpQLSdpUGSa1JWK17_YQzc-cVQZ95toF0RQ7-c4yfdRjRtjaHAwzA/closedform) kullanılarak gönderilmelidir.
+			2. ** Pist: **
+				- LMMS'de üretilmelidir.
+				- Mastering ve post processing için diğer programları kullanabilirsiniz.
+				- 10 dakikadan kısa olmalıdır.
+				- Önceki Best of LMMS albümlerinden kazanan parçalara izin verilmez.
+				- Remixlere izin verilmez.
+			3. ** Sunumlar: **
+				-- Yalnızca bu formu kullanarak göndermelisiniz.
+				-- Sanatçı başına birden fazla girişe izin verilmez.
+				-- İşbirlikleri, katılan her sanatçı için BİR giriş olarak sayılır.
+				-- Girişlerde jüriyle işbirliği yapmak yok.
+				-- Yalnızca Soundcloud, YouTube veya Clyp'de barındırılan gönderimlere izin verilir.
+				-- Tam parça, sağlanan gönderim bağlantısında mevcut olmalıdır
+				-- Başvurunuz, değerlendirme sürecinin sonuna kadar dinlenmeye açık olmalıdır. Aksi takdirde, girişiniz diskalifiye edilecektir.
+			\4. ** Hakimler: **
+				- Jüri şunlardan oluşur: Cubician, Etorna_Z, Noeroti, Leche, Satori ve Umcaruje.
+			\5. ** Yargılama: **
+				- Son teslim tarihinden sonra hakimler kararlarını verecek ve sonuçları 14 gün içinde açıklayacaklar.
+			\6. ** Yayın: **
+				- En çok puan alan 25 şarkı Bandcamp'ta “Ne istersen öde” fiyatıyla bir albüm olarak yayınlanacak. Alınan tüm fonlar, sevdiğimiz program olan LMMS'nin daha da geliştirilmesi için bağışlanacak.</target>
         
       </trans-unit>
       <trans-unit id="dMUjKl5" resname="You seem to have taken a wrong turn.">
         <source>You seem to have taken a wrong turn.</source>
+        <target>Yanlış bir yola girmiş gibisin.</target>
         
       </trans-unit>
       <trans-unit id="5y..cYr" resname="Oops, that is not supposed to happen.">
         <source>Oops, that is not supposed to happen.</source>
+        <target>Oops, bunun olmaması gerekiyor.</target>
         
       </trans-unit>
       <trans-unit id="MKppsp2" resname="An unknown error occurred.">
         <source>An unknown error occurred.</source>
+        <target>Bilinmeyen bir hata oluştu.</target>
         
       </trans-unit>
       <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
@@ -1145,18 +1401,30 @@
       </trans-unit>
       <trans-unit id="ZevLxCN" resname="The wiki has been moved.">
         <source>The wiki has been moved.</source>
+        <target>Wiki taşındı.</target>
         
       </trans-unit>
       <trans-unit id="k68J1Di" resname="All of our documentation is now hosted on &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;">
         <source>All of our documentation is now hosted on &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;</source>
+        <target>Tüm belgelerimiz artık şurada barındırılıyor:&lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;</target>
         
       </trans-unit>
       <trans-unit id="oHPoIyX" resname="The Mediawiki instance has been shut down, but if you need a copy &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;we have one on archive.org.&lt;/a&gt;">
         <source>The Mediawiki instance has been shut down, but if you need a copy &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;we have one on archive.org.&lt;/a&gt;</source>
+        <target>Mediawiki örneği kapatıldı, ancak bir kopyasına ihtiyacınız varsa &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;archive.org'da bir tane var.&lt;/a&gt;</target>
         
       </trans-unit>
       <trans-unit id="u8PKUEQ" resname="You will be redirected to &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; seconds.">
         <source>You will be redirected to &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; seconds.</source>
+        <target>Yönlendirileceksiniz&lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;adresine&lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt;saniye içinde.</target>
+        
+      </trans-unit>
+      <trans-unit id="XaEX_Ha" resname="LMMS Sharing Platform">
+        <source>LMMS Sharing Platform</source>
+        
+      </trans-unit>
+      <trans-unit id="CxpKTzu" resname="Share your work with the LMMS community.">
+        <source>Share your work with the LMMS community.</source>
         
       </trans-unit>
     </body>
