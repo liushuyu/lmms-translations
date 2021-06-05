@@ -2870,7 +2870,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="100"/>
         <source>How far the compressor must turn the volume down after crossing the threshold</source>
-        <translation type="unfinished"/>
+        <translation>Hur långt kompressorn måste sänka volymen efter att tröskeln har passerat</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="103"/>
@@ -2920,7 +2920,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="125"/>
         <source>How long the compressor has to react to the sidechain signal ahead of time</source>
-        <translation type="unfinished"/>
+        <translation>Hur länge kompressorn måste reagera på sidokedjesignalen i förväg</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="128"/>
@@ -12507,7 +12507,7 @@ Du kan inaktivera dessa kontroller för att få en snabbare skanningstid (på eg
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="186"/>
         <source>Save As Project Bundle (with resources)</source>
-        <translation type="unfinished"/>
+        <translation>Spara som projektpaket (med resurser)</translation>
     </message>
 </context>
 <context>
@@ -13058,7 +13058,7 @@ Latens: %2 ms</translation>
     <message>
         <location filename="../../src/core/Song.cpp" line="1044"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
-        <translation type="unfinished"/>
+        <translation>Det går inte att läsa in projektet: Projektfilen innehåller lokala sökvägar till tillägg.</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1198"/>
@@ -13093,7 +13093,7 @@ Latens: %2 ms</translation>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="328"/>
         <source>Operation denied</source>
-        <translation type="unfinished"/>
+        <translation>Operation nekad</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="329"/>
@@ -13763,7 +13763,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="207"/>
         <source>Confirm removal</source>
-        <translation type="unfinished"/>
+        <translation>Bekräfta borttagning</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="208"/>

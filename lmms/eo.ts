@@ -4,27 +4,27 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="20"/>
         <source>About LMMS</source>
-        <translation type="unfinished"/>
+        <translation>Pri LMMSon</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="43"/>
         <source>LMMS</source>
-        <translation>LMMS</translation>
+        <translation>LMMSo</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="50"/>
         <source>Version %1 (%2/%3, Qt %4, %5).</source>
-        <translation type="unfinished"/>
+        <translation>Versio %1 (%2/%3, Qt %4, %5).</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="78"/>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Pri</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="100"/>
         <source>LMMS - easy music production for everyone.</source>
-        <translation type="unfinished"/>
+        <translation>LMMSo - simpla muzikkreado por ĉiun.</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="126"/>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="211"/>
         <source>Translation</source>
-        <translation type="unfinished"/>
+        <translation>Traduki</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="220"/>
@@ -65,7 +65,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="229"/>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>Licenco</translation>
     </message>
 </context>
 <context>
@@ -886,7 +886,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="24"/>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Pri</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="30"/>
@@ -1013,7 +1013,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1072"/>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>Licenco</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1081"/>
@@ -7395,7 +7395,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="427"/>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Pri</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="433"/>

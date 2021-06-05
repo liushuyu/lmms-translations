@@ -14,27 +14,27 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="50"/>
         <source>Version %1 (%2/%3, Qt %4, %5).</source>
-        <translation type="unfinished"/>
+        <translation>Έκδοση %1 (%2/%3, Qt %4, %5).</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="78"/>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Σχετικά</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="100"/>
         <source>LMMS - easy music production for everyone.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS - εύκολη μουσική παραγωγή για όλους</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="126"/>
         <source>Copyright © %1.</source>
-        <translation type="unfinished"/>
+        <translation>Πνευματική ιδιοκτησία © %1. </translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="152"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#33cc33;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://lmms.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#33cc33;&quot;&gt;https://lmms.io&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="176"/>
@@ -73,7 +73,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="47"/>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>VOL</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="48"/>
@@ -83,7 +83,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="53"/>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="54"/>
@@ -98,7 +98,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="61"/>
         <source>Left gain:</source>
-        <translation type="unfinished"/>
+        <translation>Αριστερή απολαβή:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="67"/>
@@ -108,7 +108,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="68"/>
         <source>Right gain:</source>
-        <translation type="unfinished"/>
+        <translation>Δεξιά απολαβή:</translation>
     </message>
 </context>
 <context>
@@ -187,12 +187,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="533"/>
         <source>Start point:</source>
-        <translation type="unfinished"/>
+        <translation>Αρχικό σημείο:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="537"/>
         <source>End point:</source>
-        <translation type="unfinished"/>
+        <translation>Τελικό σημείο:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="541"/>
@@ -238,7 +238,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Κανάλια</translation>
     </message>
 </context>
 <context>
@@ -246,12 +246,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="330"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Συσκευή</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="342"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Κανάλια</translation>
     </message>
 </context>
 <context>
@@ -264,7 +264,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="422"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Συσκευή</translation>
     </message>
 </context>
 <context>
@@ -272,12 +272,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="317"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Συσκευή</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="329"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Κανάλια</translation>
     </message>
 </context>
 <context>
@@ -285,7 +285,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Συσκευή</translation>
     </message>
 </context>
 <context>
@@ -293,12 +293,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="196"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Συσκευή</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="208"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Κανάλια</translation>
     </message>
 </context>
 <context>
@@ -311,7 +311,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="465"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Συσκευή</translation>
     </message>
 </context>
 <context>
@@ -886,7 +886,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="24"/>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Σχετικά</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="30"/>
@@ -6659,7 +6659,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1070"/>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>VOL</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1074"/>
@@ -6674,7 +6674,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1078"/>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1081"/>
@@ -6722,7 +6722,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1437"/>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>VOL</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1444"/>
@@ -6737,7 +6737,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1450"/>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1460"/>
@@ -6767,7 +6767,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1478"/>
         <source>RANGE</source>
-        <translation>ΠΕΡΙΟΧΗ</translation>
+        <translation>ΕΥΡΟΣ</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1488"/>
@@ -7395,7 +7395,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="427"/>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Σχετικά</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="433"/>
@@ -8088,7 +8088,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="45"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Συσκευή</translation>
     </message>
 </context>
 <context>
@@ -12127,7 +12127,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="66"/>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>VOL</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="70"/>
@@ -12142,7 +12142,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="74"/>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="142"/>
@@ -12170,7 +12170,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="94"/>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>VOL</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="101"/>
@@ -12185,7 +12185,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="107"/>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="117"/>

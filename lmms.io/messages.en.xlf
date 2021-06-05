@@ -1243,6 +1243,44 @@
         <source>You will be redirected to &lt;a href="https://docs.lmms.io/user-manual/"&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id="counter"&gt;30&lt;/span&gt;&lt;/b&gt; seconds.</source>
         <target><![CDATA[You will be redirected to <a href="https://docs.lmms.io/user-manual/">docs.lmms.io</a> in <b><span id="counter">30</span></b> seconds.]]></target>
       </trans-unit>
+      <trans-unit id="ziTqVa1" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;/chat/&quot;&gt;Discord server&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
+        <source>See our &lt;a href="//github.com/LMMS/lmms/wiki"&gt;GitHub Wiki&lt;/a&gt; and our
+					   &lt;a href="//github.com/LMMS/lmms/issues"&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
+					   &lt;a href="/chat/"&gt;Discord server&lt;/a&gt; is a great place
+					   to introduce yourself.</source>
+        <target><![CDATA[See our <a href="//github.com/LMMS/lmms/wiki">GitHub Wiki</a> and our
+					   <a href="//github.com/LMMS/lmms/issues">bug tracker</a> to get started. Furthermore, the LMMS
+					   <a href="/chat/">Discord server</a> is a great place
+					   to introduce yourself.]]></target>
+      </trans-unit>
+      <trans-unit id="qtXj59f" resname="You can help us by improving this website or documenting the software. The website sources are in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted on&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//docs.lmms.io/&quot;&gt;GitBook&lt;/a&gt;.">
+        <source>You can help us by improving this website or documenting the software. The website sources are in our
+					   GitHub repo &lt;a href="//github.com/LMMS/lmms.io"&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted on
+					   &lt;a href="//docs.lmms.io/"&gt;GitBook&lt;/a&gt;.</source>
+        <target><![CDATA[You can help us by improving this website or documenting the software. The website sources are in our
+					   GitHub repo <a href="//github.com/LMMS/lmms.io">LMMS/lmms.io</a>, our documentation is hosted on
+					   <a href="//docs.lmms.io/">GitBook</a>.]]></target>
+      </trans-unit>
+      <trans-unit id="A2g3qXB" resname="Please post to the&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//discord.gg/pZZaPZRZ35&quot;&gt;#website&lt;/a&gt; channel on Discord if you're&#10;&#9;&#9;&#9;&#9;&#9;   interested in helping out with the documentation!">
+        <source>Please post to the
+					   &lt;a href="//discord.gg/pZZaPZRZ35"&gt;#website&lt;/a&gt; channel on Discord if you're
+					   interested in helping out with the documentation!</source>
+        <target><![CDATA[Please post to the
+					   <a href="//discord.gg/pZZaPZRZ35">#website</a> channel on Discord if you're
+					   interested in helping out with the documentation!]]></target>
+      </trans-unit>
+      <trans-unit id="xk88gGP" resname="&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;is the most active forum for LMMS development. Join our server &#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.">
+        <source>&lt;a href="https://discordapp.com/"&gt;Discord&lt;/a&gt;
+					is the most active forum for LMMS development. Join our server 
+					&lt;a href="/chat/"&gt;by clicking here&lt;/a&gt;.</source>
+        <target><![CDATA[<a href="https://discordapp.com/">Discord</a>
+					is the most active forum for LMMS development. Join our server 
+					<a href="/chat/">by clicking here</a>.]]></target>
+      </trans-unit>
+      <trans-unit id="oz_V6mh" resname="Posting to the mailing list is another way to reach out to our developers:">
+        <source>Posting to the mailing list is another way to reach out to our developers:</source>
+        <target>Posting to the mailing list is another way to reach out to our developers:</target>
+      </trans-unit>
       <trans-unit id="XaEX_Ha" resname="LMMS Sharing Platform">
         <source>LMMS Sharing Platform</source>
         <target>LMMS Sharing Platform</target>

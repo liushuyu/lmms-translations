@@ -67,7 +67,7 @@ GitHubo&lt;/a&gt;.</target>
       <trans-unit id="f.UFHnN" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 	Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
-        <target>Lmmso enkloditas en la plej multaj deponejoj.&lt;br&gt;
+        <target>LMMSo enkloditas en la plej multaj deponejoj.&lt;br&gt;
 Bonvole&lt;a href=&quot;/get-involved/#contact&quot;&gt; kontaktu nin &lt;/a&gt;se via distribuo ne listitas ĉi tie.</target>
         
       </trans-unit>
@@ -137,32 +137,32 @@ Bonvole&lt;a href=&quot;/get-involved/#contact&quot;&gt; kontaktu nin &lt;/a&gt;
       </trans-unit>
       <trans-unit id="4ya_6rI" resname="Build LMMS from source">
         <source>Build LMMS from source</source>
-        <target>Konstri Lmmson el fonto</target>
+        <target>Konstri LMMSon el fonto</target>
         
       </trans-unit>
       <trans-unit id="D9BgqO1" resname="If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.">
         <source>If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.</source>
-        <target>Se via linuksa distribuo ne provizas lmmsopakon (aŭ nur malmodernan pakon). Vi ankoraŭ povas konstri Lmmson el fonto. Vizitu la&lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt; lmmsdisvolviĝan wikipedion sur Githubo&lt;/a&gt; por instrukcioj kiel kompili Lmmson por Linukso.</target>
+        <target>Se via linuksa distribuo ne provizas lmmsopakon (aŭ nur malmodernan pakon). Vi ankoraŭ povas konstri Lmmson el fonto. Vizitu la&lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt; lmmsdisvolviĝan wikipedion sur Githubo&lt;/a&gt; por instrukcioj kiel kompili LMMSon por Linukso.</target>
         
       </trans-unit>
       <trans-unit id="IAenq0c" resname="Download LMMS">
         <source>Download LMMS</source>
-        <target>Elŝuti Lmmson</target>
+        <target>Elŝuti LMMSon</target>
         
       </trans-unit>
       <trans-unit id="618mGB6" resname="Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:">
         <source>Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:</source>
-        <target>Elŝutado kaj uzado senpagas. Elektu sistemon por surinstali:</target>
+        <target>Elŝutado kaj uzado de LMMSo senpagas. Elektu sistemon por surinstali:</target>
         
       </trans-unit>
       <trans-unit id="PmTQgHE" resname="Install LMMS on Linux">
         <source>Install LMMS on Linux</source>
-        <target>Instali Lmmson sur Linukson</target>
+        <target>Instali LMMSon sur Linukson</target>
         
       </trans-unit>
       <trans-unit id="I.sR1nc" resname="Click one of the buttons below to download LMMS for Linux.">
         <source>Click one of the buttons below to download LMMS for Linux.</source>
-        <target>Alklaku unu el la subajn botonojn por instali Lmmson sur Linukson.</target>
+        <target>Alklaku unu el la subajn botonojn por instali LMMSon sur Linukson.</target>
         
       </trans-unit>
       <trans-unit id="ovu1A1m" resname="Stable Versions">
@@ -187,7 +187,7 @@ Bonvole&lt;a href=&quot;/get-involved/#contact&quot;&gt; kontaktu nin &lt;/a&gt;
       </trans-unit>
       <trans-unit id="0kZzFXf" resname="Install LMMS on Windows">
         <source>Install LMMS on Windows</source>
-        <target>Instali Lmmson sur Vindozon</target>
+        <target>Instali LMMSon sur Vindozon</target>
         
       </trans-unit>
       <trans-unit id="yAy2ARB" resname="Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows">
@@ -197,12 +197,12 @@ Bonvole&lt;a href=&quot;/get-involved/#contact&quot;&gt; kontaktu nin &lt;/a&gt;
       </trans-unit>
       <trans-unit id="in50er8" resname="Install LMMS on macOS">
         <source>Install LMMS on macOS</source>
-        <target>Instali Lmmson sur MacOSon</target>
+        <target>Instali LMMSon sur MacOSon</target>
         
       </trans-unit>
       <trans-unit id="6saYqj7" resname="Click one of the buttons below to download LMMS for macOS">
         <source>Click one of the buttons below to download LMMS for macOS</source>
-        <target>Alklaku unu el la subajn botonojn por instali Lmmson sur MacOSon</target>
+        <target>Alklaku unu el la subajn botonojn por instali LMMSon sur MacOSon</target>
         
       </trans-unit>
       <trans-unit id="QNAnU4Y" resname="Downloads labeled Beta are pre-release software, stability may suffer.">
@@ -225,7 +225,7 @@ Bonvole&lt;a href=&quot;/get-involved/#contact&quot;&gt; kontaktu nin &lt;/a&gt;
 	volunteers in their free time. But to keep the project going, we need this
 	number to grow. So if you feel like giving something back to the community,
 	join us in making LMMS better!</source>
-        <target>Lmmso estas malfermfontecprogramo kiuj kreiitas de malmulto da volontuloj en ilia libera tempo. Sed por daŭrigi  ĉi tiun projekton, ni bezonas pli da volontulojn. Do se vi volas redoni ion al la komunumo, helpu nin plibonigi Lmmson.</target>
+        <target>LMMSo estas malfermfontecprogramo kiuj kreiitas de malmulto da volontuloj en ilia libera tempo. Sed por daŭrigi  ĉi tiun projekton, ni bezonas pli da volontulojn. Do se vi volas redoni ion al la komunumo, helpu nin plibonigi LMMSon.</target>
         
       </trans-unit>
       <trans-unit id="9CFIxXY" resname="What you can do">
@@ -247,7 +247,8 @@ Bonvole&lt;a href=&quot;/get-involved/#contact&quot;&gt; kontaktu nin &lt;/a&gt;
         <source>We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt
 					   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with
 					   coding!</source>
-        <target>Ni senespere bezonas novajn disvolviĝistojn por aliĝi al nia teamo. Lmmso programitas de C++ uzante la Qt kadro. Do se vi scias ion pri ĉi tuj aferoj tiam komenciĝu programi!.</target>
+        <target>Ni senespere bezonas novajn disvolviĝistojn por aliĝi al nia teamo. LMMSo programitas de C++ uzante la Qt
+					 kadro. Do se vi scias ion pri ĉi tuj aferoj tiam komencu 				programi!.</target>
         
       </trans-unit>
       <trans-unit id="YIACglk" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
@@ -255,7 +256,7 @@ Bonvole&lt;a href=&quot;/get-involved/#contact&quot;&gt; kontaktu nin &lt;/a&gt;
 					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place
 					   to introduce yourself.</source>
-        <target>Vidu nian&lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHubvikipedion&lt;/a&gt; kaj nian&lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt; erarosekviston&lt;/a&gt; por komenciĝi. Pli plue, La lmmsa&lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt; dissendlisto estas&lt;/a&gt; bona loko por enkonduki vin.</target>
+        <target>Vidu nian&lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHubvikipedion&lt;/a&gt; kaj nian&lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt; erarosekviston&lt;/a&gt; por komenciĝi. Pli plue, La LMMSa&lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt; dissendlisto estas&lt;/a&gt; bona loko por enkonduki vin.</target>
         
       </trans-unit>
       <trans-unit id="FSzxUcg" resname="Website &amp; Docs">
@@ -267,7 +268,7 @@ Bonvole&lt;a href=&quot;/get-involved/#contact&quot;&gt; kontaktu nin &lt;/a&gt;
         <source>You can help us by improving this website or documenting the software. The website sources are in our
 					   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a
 					   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.</source>
-        <target>Vi povas helpi nin plibonigi ĉi tiun retejon aŭ dokumenti la programon. La retejfontoj estas en nia Githubdeponejo&lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;Lmms/lmms.io&lt;/a&gt;, nia dokumentado estas gastigita uzi &lt;a href=&quot;//lmms.io/wiki&quot;&gt;mediavikipedioinstancon&lt;/a&gt;.</target>
+        <target>Vi povas helpi nin plibonigi ĉi tiun retejon aŭ dokumenti la programon. La retejfontoj estas en nia Githubdeponejo&lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, nia dokumentado estas gastigita uzi &lt;a href=&quot;//lmms.io/wiki&quot;&gt;mediavikipedioinstancon&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="mxP7dw_" resname="Public registration on our Wiki is disabled due to spam issues. Please post to the&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're&#10;&#9;&#9;&#9;&#9;&#9;   interested in helping out with the documentation!">
@@ -303,7 +304,7 @@ Bonvole&lt;a href=&quot;/get-involved/#contact&quot;&gt; kontaktu nin &lt;/a&gt;
 					   translating the software. You can find instructions on the page
 					   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our
 					   GitHub Wiki.</source>
-        <target>Se via lingvo ne listitas en Lmmso, helpu ĉi tiun projekton kaj aliajn uzantojn  tradukigi la programon kaj la retejon.
+        <target>Se via lingvo ne listitas en LMMSo, helpu ĉi tiun projekton kaj aliajn uzantojn  tradukigi la programon kaj la retejon.
 Vi povas trovi instrukciojn sur la retejo. &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Kreii lokalizon&lt;/a&gt;&quot; en nia GitHubvikipedio.</target>
         
       </trans-unit>
@@ -635,6 +636,7 @@ la GitHuberarosekviston.</target>
       </trans-unit>
       <trans-unit id="Xe7IQc6" resname="LMMS Development Team">
         <source>LMMS Development Team</source>
+        <target>La LMMSa disvolviĝteamo </target>
         
       </trans-unit>
       <trans-unit id="aFA0PDs" resname="LMMS Project Icon">
@@ -643,18 +645,22 @@ la GitHuberarosekviston.</target>
       </trans-unit>
       <trans-unit id="ly35agX" resname="Official competitions organised by LMMS and its community members">
         <source>Official competitions organised by LMMS and its community members</source>
+        <target>Oficialaj konkursoj organizatas per Lmmson kaj ĝiajn membrojn</target>
         
       </trans-unit>
       <trans-unit id="hzCq1ff" resname="Current competitions:">
         <source>Current competitions:</source>
+        <target>Aktualaj konkursoj:</target>
         
       </trans-unit>
       <trans-unit id="6hq9QpV" resname="Past competitions:">
         <source>Past competitions:</source>
+        <target>Venintaj konkursoj:</target>
         
       </trans-unit>
       <trans-unit id="mQLQ2B_" resname="The Best of LMMS vol. VI">
         <source>The Best of LMMS vol. VI</source>
+        <target>La plej bona de LMMSa vol. 4</target>
         
       </trans-unit>
       <trans-unit id="X.IFEsq" resname="#### The competition has ended on **April 2nd, 2019**.&#10;&#9;&#9;&#9;Support LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-6)&#10;&#10;&#9;&#9;&#9;Listen to all entries [here.](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQm-kulIpC2Na8ol7brGGmmK3aK4kz9AaUi0KIy1FrHUj6snVwCpdcDZqJ7unf_oIbGTmC4cWnP1tLW/pubhtml?gid=1466576535&amp;single=true)&#10;&#10;&#9;&#9;&#9;Winners:&#10;&#9;&#9;&#9;&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/768817671&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;&#10;&#10;&#9;&#9;&#9;#### Original description:&#10;&#9;&#9;&#9;We are proud to present to you The Best of LMMS contest volume 6!&#10;&#9;&#9;&#9;The contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight&#10;&#9;&#9;&#9;(23:59.59 UTC Time) on April 2nd for a chance to be featured on the BoL v6 album. The compilation will be uploaded to Bandcamp, with all profits going towards LMMS' further development.&#10;&#10;&#9;&#9;&#9;[Submit here](https://goo.gl/forms/lNmexmoqWiwiKDUf1)&#10;&#9;&#9;&#9;#### Competition rules:&#10;&#9;&#9;&#9;1. **The Deadline:**&#10;&#9;&#9;&#9;&#9;- Track must be submitted by April 2nd 2019 at 23:59.59 UTC using [this form](https://goo.gl/forms/lNmexmoqWiwiKDUf1).&#10;&#9;&#9;&#9;2. **The Track:**&#10;&#9;&#9;&#9;&#9;- Must be produced in LMMS.&#10;&#9;&#9;&#9;&#9;- You may use other programs for mastering and post processing.&#10;&#9;&#9;&#9;&#9;- Must be under 10 minutes long.&#10;&#9;&#9;&#9;&#9;- No winning tracks from previous Best of LMMS albums allowed.&#10;&#9;&#9;&#9;&#9;- No remixes allowed.&#10;&#9;&#9;&#9;3. **The Submissions:**&#10;&#9;&#9;&#9;&#9;- You must submit using this form only.&#10;&#9;&#9;&#9;&#9;- No more than ONE entry per artist is allowed.&#10;&#9;&#9;&#9;&#9;- Collaborations count as ONE entry for each artist involved.&#10;&#9;&#9;&#9;&#9;- No collaborating with judges on entries.&#10;&#9;&#9;&#9;&#9;- Only submissions hosted on Soundcloud, YouTube, or Clyp are allowed.&#10;&#9;&#9;&#9;&#9; - The full track should be available at the submission link provided&#10;&#9;&#9;&#9;&#9;- Your entry must be available for listening until the end of the judging process. If not, your entry will be disqualified.&#10;&#9;&#9;&#9;4. **The Judges:**&#10;&#9;&#9;&#9;&#9;-The jury consists of: Abludo, Dystany, Heavenity Princess, Jacoby Davis, Pyrif, and Spekular.&#10;&#9;&#9;&#9;5. **The Judging:**&#10;&#9;&#9;&#9;&#9;- After the deadline, the judges will make their decisions and release the results within 14 days.&#10;&#9;&#9;&#9;6. **Release:**&#10;&#9;&#9;&#9;&#9;- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.">
@@ -893,6 +899,7 @@ la GitHuberarosekviston.</target>
       </trans-unit>
       <trans-unit id="laP8ZYf" resname="Author:">
         <source>Author:</source>
+        <target>Aŭtoro</target>
         
       </trans-unit>
       <trans-unit id="DDaBYVH" resname="Modified/Themed By:">
@@ -918,6 +925,7 @@ la GitHuberarosekviston.</target>
       </trans-unit>
       <trans-unit id="Fa8w_Q9" resname="Adobe Photoshop Format">
         <source>Adobe Photoshop Format</source>
+        <target>Adobe fotoŝopo Formato  </target>
         
       </trans-unit>
       <trans-unit id="CBjpoqc" resname="JPEG Format">
@@ -985,7 +993,7 @@ la GitHuberarosekviston.</target>
       </trans-unit>
       <trans-unit id="z5uvwQy" resname="The Best of LMMS vol. VIII">
         <source>The Best of LMMS vol. VIII</source>
-        <target>La plej bona de Lmmso vol. 8</target>
+        <target>La plej bona de LMMSo vol. 8</target>
         
       </trans-unit>
       <trans-unit id="BQRlGdk" resname="We are proud to present to you The Best of LMMS contest volume 8!&#10;&#9;&#9;&#9;The contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight&#10;&#9;&#9;&#9;(23:59.59 UTC Time) on April 5th 2021 for a chance to be featured on the BoL v8 album. The compilation will be uploaded to Bandcamp, with all profits going towards LMMS' further development.&#10;&#10;&#9;&#9;&#9;&lt;p class=&quot;center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg center&quot; href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScfJNvVtoCJ8SVQ8TWiPMjbIsl49RvwGiy1nODuvKdJ8Er_Bg/viewform&quot;&gt;Submit here&lt;/a&gt;&lt;/p&gt;&#10;&#9;&#9;&#9;#### Competition rules:&#10;&#10;&#9;&#9;&#9;1. **The Deadline:**&#10;&#9;&#9;&#9; - Track must be submitted by April 5th 2021 at 23:59.59 UTC using this form.&#10;&#9;&#9;&#9;2. **The Track:**&#10;&#9;&#9;&#9; - Must be produced in LMMS.&#10;&#9;&#9;&#9; - You may use other programs for mastering and post processing.&#10;&#9;&#9;&#9; - Must be under 10 minutes long.&#10;&#9;&#9;&#9; - No winning tracks from previous Best of LMMS albums allowed.&#10;&#9;&#9; &#9; - No covers or remixes of other person(s) works are permitted.&#10;&#9;&#9;&#9; - Reworks of your own tracks are eligible with judge approval.&#10;&#9;&#9;&#9;3. **The Submissions:**&#10;&#9;&#9;&#9; - You must submit using this form only.&#10;&#9;&#9;&#9; - No more than ONE entry per artist is allowed.&#10;&#9;&#9;&#9; - Collaborations count as ONE entry for each artist involved.&#10;&#9;&#9;&#9; - No collaborating with judges on entries.&#10;&#9;&#9;&#9; - Only submissions hosted on Soundcloud, YouTube, or Clyp are allowed.&#10;&#9;&#9;&#9;  - The full track should be available at the submission link provided&#10;&#9;&#9;&#9; - Your entry must be available for listening until the end of the judging process. If not, your entry will be disqualified.&#10;&#9;&#9;&#9;4. **The Judges:**&#10;&#9;&#9;&#9; - The jury consists of: Woods Alive, Hotel Zero, Jousboxx, Blageez, Noeroti, and JVSTDARE&#10;&#9;&#9;&#9;5. **The Judging:**&#10;&#9;&#9;&#9; - After the deadline, the judges will make their decisions and release the results within 14-21 days, personal schedules permitting.&#10;&#9;&#9;&#9;6. **Release:**&#10;&#9;&#9;&#9; - The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.&#10;&#10;&#9;&#9;&#9;**Note: Entries are approved to appear on the submission list by hand, so if you don't see yours, sit tight! It might take a while.**">
@@ -1025,7 +1033,7 @@ la GitHuberarosekviston.</target>
       </trans-unit>
       <trans-unit id="yzGLm.Z" resname="The Best of LMMS vol. VII">
         <source>The Best of LMMS vol. VII</source>
-        <target>La plej bono de Lmmso vol. 7</target>
+        <target>La plej bona de LMMSo vol. 7</target>
         
       </trans-unit>
       <trans-unit id="legSd3M" resname="#### The competition has ended on **April 16th, 2020**.&#10;&#9;&#9;&#9;Support LMMS and buy the compilation over at our [bandcamp page.](https://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-7)&#10;&#10;&#9;&#9;&#9;Listen to all entries [here.](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vR6tbmbsWPReJdh2jnCixmKlisIiWTY2QPAz_y1OjSmuwGl0PjKuXgJQ7cXuKtlrYtLqBBEa_IYeVC0/pubhtml?gid=491403559&amp;single=true)&#10;&#10;&#9;&#9;&#9;Winners:&#10;&#9;&#9;&#9;&lt;iframe width=&quot;100%%&quot; height=&quot;350&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%%3A//api.soundcloud.com/playlists/1051302979&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;&#10;&#10;&#9;&#9;&#9;#### Original description:&#10;&#9;&#9;&#9;We are proud to present to you The Best of LMMS contest volume 7!&#10;&#9;&#9;&#9;The contest aims to inspire the community to create and share their music. Submit your track at the link below before midnight&#10;&#9;&#9;&#9;(23:59.59 UTC Time) on April 16th for a chance to be featured on the BoL v6 album. The compilation will be uploaded to Bandcamp, with all profits going towards LMMS' further development.&#10;&#10;&#9;&#9;&#9;[Submit here](https://docs.google.com/forms/d/e/1FAIpQLSdpUGSa1JWK17_YQzc-cVQZ95toF0RQ7-c4yfdRjRtjaHAwzA/closedform)&#10;&#9;&#9;&#9;#### Competition rules:&#10;&#9;&#9;&#9;1. **The Deadline:**&#10;&#9;&#9;&#9;&#9;- Track must be submitted by April 16th 2020 at 23:59.59 UTC using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdpUGSa1JWK17_YQzc-cVQZ95toF0RQ7-c4yfdRjRtjaHAwzA/closedform).&#10;&#9;&#9;&#9;2. **The Track:**&#10;&#9;&#9;&#9;&#9;- Must be produced in LMMS.&#10;&#9;&#9;&#9;&#9;- You may use other programs for mastering and post processing.&#10;&#9;&#9;&#9;&#9;- Must be under 10 minutes long.&#10;&#9;&#9;&#9;&#9;- No winning tracks from previous Best of LMMS albums allowed.&#10;&#9;&#9;&#9;&#9;- No remixes allowed.&#10;&#9;&#9;&#9;3. **The Submissions:**&#10;&#9;&#9;&#9;&#9;- You must submit using this form only.&#10;&#9;&#9;&#9;&#9;- No more than ONE entry per artist is allowed.&#10;&#9;&#9;&#9;&#9;- Collaborations count as ONE entry for each artist involved.&#10;&#9;&#9;&#9;&#9;- No collaborating with judges on entries.&#10;&#9;&#9;&#9;&#9;- Only submissions hosted on Soundcloud, YouTube, or Clyp are allowed.&#10;&#9;&#9;&#9;&#9; - The full track should be available at the submission link provided&#10;&#9;&#9;&#9;&#9;- Your entry must be available for listening until the end of the judging process. If not, your entry will be disqualified.&#10;&#9;&#9;&#9;4. **The Judges:**&#10;&#9;&#9;&#9;&#9;- The jury consists of: Cubician, Etorna_Z, Noeroti, Leche, Satori and Umcaruje.&#10;&#9;&#9;&#9;5. **The Judging:**&#10;&#9;&#9;&#9;&#9;- After the deadline, the judges will make their decisions and release the results within 14 days.&#10;&#9;&#9;&#9;6. **Release:**&#10;&#9;&#9;&#9;&#9;- The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.">
@@ -1074,24 +1082,27 @@ la GitHuberarosekviston.</target>
       </trans-unit>
       <trans-unit id="5y..cYr" resname="Oops, that is not supposed to happen.">
         <source>Oops, that is not supposed to happen.</source>
+        <target>Ho, tio ne devus okazis.</target>
         
       </trans-unit>
       <trans-unit id="MKppsp2" resname="An unknown error occurred.">
         <source>An unknown error occurred.</source>
+        <target>Nekonanta eraro okazis.</target>
         
       </trans-unit>
       <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
         <source>The Best of LMMS Vol. 7 by LMMS Artists</source>
-        <target>La plej bono de Lmmso vol. 7 de Lmmsoartistoj</target>
+        <target>La plej bono de LMMSo vol. 7 de LMMSartistoj</target>
         
       </trans-unit>
       <trans-unit id="nk3f9aW" resname="The Best of LMMS Vol. 6 by LMMS Artists">
         <source>The Best of LMMS Vol. 6 by LMMS Artists</source>
-        <target>La plej bono de Lmmso vol. 6 de Lmmsoartistoj</target>
+        <target>La plej bona de LMMSo vol. 6 de LMMSartistoj</target>
         
       </trans-unit>
       <trans-unit id="ZevLxCN" resname="The wiki has been moved.">
         <source>The wiki has been moved.</source>
+        <target>La mediovikipedio forigitis.</target>
         
       </trans-unit>
       <trans-unit id="k68J1Di" resname="All of our documentation is now hosted on &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;">
@@ -1100,10 +1111,41 @@ la GitHuberarosekviston.</target>
       </trans-unit>
       <trans-unit id="oHPoIyX" resname="The Mediawiki instance has been shut down, but if you need a copy &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;we have one on archive.org.&lt;/a&gt;">
         <source>The Mediawiki instance has been shut down, but if you need a copy &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;we have one on archive.org.&lt;/a&gt;</source>
+        <target>La mediovikipedio vermitiĝis, sed se vi bezonas kopion&lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt; Ni havas kopion sur archive.org.&lt;/a&gt;</target>
         
       </trans-unit>
       <trans-unit id="u8PKUEQ" resname="You will be redirected to &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; seconds.">
         <source>You will be redirected to &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; seconds.</source>
+        <target>Vi alidirektitiĝas al&lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;post&lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt;sekundoj.</target>
+        
+      </trans-unit>
+      <trans-unit id="ziTqVa1" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;/chat/&quot;&gt;Discord server&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
+        <source>See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our
+					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
+					   &lt;a href=&quot;/chat/&quot;&gt;Discord server&lt;/a&gt; is a great place
+					   to introduce yourself.</source>
+        
+      </trans-unit>
+      <trans-unit id="qtXj59f" resname="You can help us by improving this website or documenting the software. The website sources are in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted on&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//docs.lmms.io/&quot;&gt;GitBook&lt;/a&gt;.">
+        <source>You can help us by improving this website or documenting the software. The website sources are in our
+					   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted on
+					   &lt;a href=&quot;//docs.lmms.io/&quot;&gt;GitBook&lt;/a&gt;.</source>
+        
+      </trans-unit>
+      <trans-unit id="A2g3qXB" resname="Please post to the&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//discord.gg/pZZaPZRZ35&quot;&gt;#website&lt;/a&gt; channel on Discord if you're&#10;&#9;&#9;&#9;&#9;&#9;   interested in helping out with the documentation!">
+        <source>Please post to the
+					   &lt;a href=&quot;//discord.gg/pZZaPZRZ35&quot;&gt;#website&lt;/a&gt; channel on Discord if you're
+					   interested in helping out with the documentation!</source>
+        
+      </trans-unit>
+      <trans-unit id="xk88gGP" resname="&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;is the most active forum for LMMS development. Join our server &#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.">
+        <source>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
+					is the most active forum for LMMS development. Join our server 
+					&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.</source>
+        
+      </trans-unit>
+      <trans-unit id="oz_V6mh" resname="Posting to the mailing list is another way to reach out to our developers:">
+        <source>Posting to the mailing list is another way to reach out to our developers:</source>
         
       </trans-unit>
       <trans-unit id="XaEX_Ha" resname="LMMS Sharing Platform">
@@ -1112,6 +1154,7 @@ la GitHuberarosekviston.</target>
       </trans-unit>
       <trans-unit id="CxpKTzu" resname="Share your work with the LMMS community.">
         <source>Share your work with the LMMS community.</source>
+        <target>Diskonigu vian muziklaboron kun la LMMSa kumunomo</target>
         
       </trans-unit>
     </body>
