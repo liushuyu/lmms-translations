@@ -12823,74 +12823,74 @@ Latency: %2 ms</source>
 Проверьте, есть ли у вас права на чтение этого файла и попробуйте снова.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="328"/>
+        <location filename="../../src/core/DataFile.cpp" line="330"/>
         <source>Operation denied</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="329"/>
+        <location filename="../../src/core/DataFile.cpp" line="331"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="339"/>
-        <location filename="../../src/core/DataFile.cpp" line="347"/>
-        <location filename="../../src/core/DataFile.cpp" line="355"/>
+        <location filename="../../src/core/DataFile.cpp" line="341"/>
+        <location filename="../../src/core/DataFile.cpp" line="349"/>
+        <location filename="../../src/core/DataFile.cpp" line="357"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="340"/>
+        <location filename="../../src/core/DataFile.cpp" line="342"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="348"/>
+        <location filename="../../src/core/DataFile.cpp" line="350"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <location filename="../../src/core/DataFile.cpp" line="358"/>
         <source>Failed to copy resources.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="365"/>
+        <location filename="../../src/core/DataFile.cpp" line="367"/>
         <source>Could not write file</source>
         <translation>Не удалось записать файл</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="366"/>
+        <location filename="../../src/core/DataFile.cpp" line="368"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1841"/>
+        <location filename="../../src/core/DataFile.cpp" line="1843"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1796"/>
+        <location filename="../../src/core/DataFile.cpp" line="1798"/>
         <source>Error in file</source>
         <translation>Ошибка в файле</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1797"/>
+        <location filename="../../src/core/DataFile.cpp" line="1799"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Файл %1 возможно содержит ошибки, поэтому не может загрузиться.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1840"/>
+        <location filename="../../src/core/DataFile.cpp" line="1842"/>
         <source>Version difference</source>
         <translation>Различия версий</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1837"/>
+        <location filename="../../src/core/DataFile.cpp" line="1839"/>
         <source>template</source>
         <translation>шаблон</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1837"/>
+        <location filename="../../src/core/DataFile.cpp" line="1839"/>
         <source>project</source>
         <translation>проект</translation>
     </message>
@@ -13489,72 +13489,72 @@ Please make sure you have read-permission to the file and the directory containi
         <translation>Соло</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="204"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="197"/>
         <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="207"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="200"/>
         <source>Confirm removal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="208"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="201"/>
         <source>Don&apos;t ask again</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="328"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="321"/>
         <source>Clone this track</source>
         <translation>Клонировать дорожку</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="324"/>
         <source>Remove this track</source>
         <translation>Удалить дорожку</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="336"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="329"/>
         <source>Clear this track</source>
         <translation>Очистить эту дорожку</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
         <source>FX %1: %2</source>
         <translation>ЭФ %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
         <source>Assign to new FX Channel</source>
         <translation>Назначить на другой канал ЭФфектов</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="350"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="343"/>
         <source>Turn all recording on</source>
         <translation>Включить всё на запись</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="351"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="344"/>
         <source>Turn all recording off</source>
         <translation>Выключить всю запись</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="356"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="349"/>
         <source>Change color</source>
         <translation>Изменить цвет</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="358"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="351"/>
         <source>Reset color to default</source>
         <translation>Установить цвет по умолчанию</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="360"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
         <source>Set random color</source>
         <translation>Выбрать случайный цвет</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="363"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="356"/>
         <source>Clear clip colors</source>
         <translation>Очистить цвета клипа</translation>
     </message>

@@ -13091,74 +13091,74 @@ Latens: %2 ms</translation>
  Se till att ha åtminstone läsbehörigheter till filen och försök igen.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="328"/>
+        <location filename="../../src/core/DataFile.cpp" line="330"/>
         <source>Operation denied</source>
         <translation>Operation nekad</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="329"/>
+        <location filename="../../src/core/DataFile.cpp" line="331"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="339"/>
-        <location filename="../../src/core/DataFile.cpp" line="347"/>
-        <location filename="../../src/core/DataFile.cpp" line="355"/>
+        <location filename="../../src/core/DataFile.cpp" line="341"/>
+        <location filename="../../src/core/DataFile.cpp" line="349"/>
+        <location filename="../../src/core/DataFile.cpp" line="357"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="340"/>
+        <location filename="../../src/core/DataFile.cpp" line="342"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="348"/>
+        <location filename="../../src/core/DataFile.cpp" line="350"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation>Det gick inte att skapa resursmappen.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <location filename="../../src/core/DataFile.cpp" line="358"/>
         <source>Failed to copy resources.</source>
         <translation>Det gick inte att kopiera resurser.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="365"/>
+        <location filename="../../src/core/DataFile.cpp" line="367"/>
         <source>Could not write file</source>
         <translation>Kunde inte skriva fil</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="366"/>
+        <location filename="../../src/core/DataFile.cpp" line="368"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1841"/>
+        <location filename="../../src/core/DataFile.cpp" line="1843"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>Denna %1 har skapats med LMMS %2</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1796"/>
+        <location filename="../../src/core/DataFile.cpp" line="1798"/>
         <source>Error in file</source>
         <translation>Fel i filen</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1797"/>
+        <location filename="../../src/core/DataFile.cpp" line="1799"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Filen %1 verkar innehålla fel och kan därför inte läsas in.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1840"/>
+        <location filename="../../src/core/DataFile.cpp" line="1842"/>
         <source>Version difference</source>
         <translation>Versions-skillnad</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1837"/>
+        <location filename="../../src/core/DataFile.cpp" line="1839"/>
         <source>template</source>
         <translation>mall</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1837"/>
+        <location filename="../../src/core/DataFile.cpp" line="1839"/>
         <source>project</source>
         <translation>projekt</translation>
     </message>
@@ -13756,72 +13756,72 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
         <translation>Solo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="204"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="197"/>
         <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="207"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="200"/>
         <source>Confirm removal</source>
         <translation>Bekräfta borttagning</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="208"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="201"/>
         <source>Don&apos;t ask again</source>
         <translation>Fråga inte igen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="328"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="321"/>
         <source>Clone this track</source>
         <translation>Klona detta spår</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="324"/>
         <source>Remove this track</source>
         <translation>Ta bort detta spår</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="336"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="329"/>
         <source>Clear this track</source>
         <translation>Rensa detta spår</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
         <source>Assign to new FX Channel</source>
         <translation>Koppla till ny FX-kanal</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="350"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="343"/>
         <source>Turn all recording on</source>
         <translation>Slå på all inspelning</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="351"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="344"/>
         <source>Turn all recording off</source>
         <translation>Slå av all inspelning</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="356"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="349"/>
         <source>Change color</source>
         <translation>Byt färg</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="358"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="351"/>
         <source>Reset color to default</source>
         <translation>Nollställ färg till standard</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="360"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
         <source>Set random color</source>
         <translation>Ställ in slumpmässig färg</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="363"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="356"/>
         <source>Clear clip colors</source>
         <translation type="unfinished"/>
     </message>

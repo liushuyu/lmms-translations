@@ -12802,75 +12802,75 @@ Latency: %2 ms</source>
         <translation>A(z) %1 fájl nem nyitható meg. Ellenőrizd, hogy rendelkezel-e olvasási jogosultsággal a fájlhoz, majd próbáld újra.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="328"/>
+        <location filename="../../src/core/DataFile.cpp" line="330"/>
         <source>Operation denied</source>
         <translation>Művelet megtagadva</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="329"/>
+        <location filename="../../src/core/DataFile.cpp" line="331"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="339"/>
-        <location filename="../../src/core/DataFile.cpp" line="347"/>
-        <location filename="../../src/core/DataFile.cpp" line="355"/>
+        <location filename="../../src/core/DataFile.cpp" line="341"/>
+        <location filename="../../src/core/DataFile.cpp" line="349"/>
+        <location filename="../../src/core/DataFile.cpp" line="357"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="340"/>
+        <location filename="../../src/core/DataFile.cpp" line="342"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="348"/>
+        <location filename="../../src/core/DataFile.cpp" line="350"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <location filename="../../src/core/DataFile.cpp" line="358"/>
         <source>Failed to copy resources.</source>
         <translation>Az erőforrások másolása sikertelen.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="365"/>
+        <location filename="../../src/core/DataFile.cpp" line="367"/>
         <source>Could not write file</source>
         <translation>A fájl nem írható</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="366"/>
+        <location filename="../../src/core/DataFile.cpp" line="368"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
         <translation>A(z) %1 fájl nem nyitható meg írásra.
 Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra!</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1841"/>
+        <location filename="../../src/core/DataFile.cpp" line="1843"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>Ez a %1 az LMMS %2 verziójával készült</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1796"/>
+        <location filename="../../src/core/DataFile.cpp" line="1798"/>
         <source>Error in file</source>
         <translation>Hiba a fájlban</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1797"/>
+        <location filename="../../src/core/DataFile.cpp" line="1799"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>A(z) %1 fájl hibát tartalmaz, ezért nem lehet betölteni.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1840"/>
+        <location filename="../../src/core/DataFile.cpp" line="1842"/>
         <source>Version difference</source>
         <translation>Verzió eltérés</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1837"/>
+        <location filename="../../src/core/DataFile.cpp" line="1839"/>
         <source>template</source>
         <translation>sablon</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1837"/>
+        <location filename="../../src/core/DataFile.cpp" line="1839"/>
         <source>project</source>
         <translation>projekt</translation>
     </message>
@@ -13466,72 +13466,72 @@ Please make sure you have read-permission to the file and the directory containi
         <translation>Szóló</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="204"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="197"/>
         <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
         <translation>Egy sáv törlése nem visszavonható. Biztosan törlöd a(z) &quot;%1&quot; sávot?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="207"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="200"/>
         <source>Confirm removal</source>
         <translation>Törlés megerősítése</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="208"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="201"/>
         <source>Don&apos;t ask again</source>
         <translation>Ne kérdezd újra</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="328"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="321"/>
         <source>Clone this track</source>
         <translation>Sáv klónozása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="324"/>
         <source>Remove this track</source>
         <translation>Sáv eltávolítása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="336"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="329"/>
         <source>Clear this track</source>
         <translation>Sáv tartalmának törlése</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
         <source>Assign to new FX Channel</source>
         <translation>Hozzárendelés új csatornához</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="350"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="343"/>
         <source>Turn all recording on</source>
         <translation>Minden felvétel bekapcsolása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="351"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="344"/>
         <source>Turn all recording off</source>
         <translation>Minden felvétel kikapcsolása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="356"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="349"/>
         <source>Change color</source>
         <translation>Szín módosítása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="358"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="351"/>
         <source>Reset color to default</source>
         <translation>Szín visszaállítása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="360"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
         <source>Set random color</source>
         <translation>Véletlenszerű szín</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="363"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="356"/>
         <source>Clear clip colors</source>
         <translation>Klip színek törlése</translation>
     </message>
