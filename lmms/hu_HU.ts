@@ -355,12 +355,12 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="110"/>
         <source>Connected to %1</source>
-        <translation>Csatlakozva ehhez: %1</translation>
+        <translation>Csatlakoztatva ehhez: %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="114"/>
         <source>Connected to controller</source>
-        <translation>Csatlakozva a vezérlőhöz</translation>
+        <translation>Csatlakoztatva egy vezérlőhöz</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="120"/>
@@ -375,7 +375,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="129"/>
         <source>Connect to controller...</source>
-        <translation>Csatlakozás a vezérlőhöz...</translation>
+        <translation>Csatlakoztatás vezérlőhöz...</translation>
     </message>
 </context>
 <context>
@@ -4025,7 +4025,7 @@ Ha nem vagy biztos benne, válaszd az &quot;Automatikus&quot; lehetőséget.</tr
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="203"/>
         <source>&amp;Remove this plugin</source>
-        <translation>Plugin &amp;eltávolítása</translation>
+        <translation>Effekt &amp;eltávolítása</translation>
     </message>
 </context>
 <context>
@@ -4911,7 +4911,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
         <translation>%1 nem tűnik érvényes %2 fájlnak.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="1010"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="1006"/>
         <source>--- Factory files ---</source>
         <translation>--- Gyári tartalom ---</translation>
     </message>
@@ -4931,7 +4931,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="39"/>
         <source>Seconds</source>
-        <translation>Erősség</translation>
+        <translation>Mérték</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="40"/>
@@ -6577,7 +6577,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="93"/>
         <source>Envelopes, LFOs and filters are not supported by the current instrument.</source>
-        <translation>A burkológörbék, LFO-k és szűrők nem támogatottak a jelenlegi hangszer által.</translation>
+        <translation>A burkológörbék, LFO-k és szűrők nem elérhetők a jelenlegi hangszerhez.</translation>
     </message>
 </context>
 <context>
@@ -6653,57 +6653,57 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
 <context>
     <name>InstrumentTrackView</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1065"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1081"/>
         <source>Volume</source>
         <translation>Hangerő</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1068"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1084"/>
         <source>Volume:</source>
         <translation>Hangerő:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1070"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1086"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1074"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1090"/>
         <source>Panning</source>
         <translation>Panoráma</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1076"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1092"/>
         <source>Panning:</source>
         <translation>Panoráma:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1078"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1094"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1081"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1097"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1113"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1129"/>
         <source>Input</source>
         <translation>Bemenet</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1114"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1130"/>
         <source>Output</source>
         <translation>Kimenet</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1116"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1132"/>
         <source>Open/Close MIDI CC Rack</source>
         <translation>MIDI CC Rack megnyitása/bezárása</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1355"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1371"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
@@ -6711,127 +6711,127 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
 <context>
     <name>InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1384"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1400"/>
         <source>GENERAL SETTINGS</source>
         <translation>ÁLTALÁNOS BEÁLLÍTÁSOK</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1430"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1446"/>
         <source>Volume</source>
         <translation>Hangerő</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1432"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1448"/>
         <source>Volume:</source>
         <translation>Hangerő:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1437"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1453"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1444"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1460"/>
         <source>Panning</source>
         <translation>Panoráma</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1445"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
         <source>Panning:</source>
         <translation>Panoráma:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1450"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1466"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1460"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1476"/>
         <source>Pitch</source>
         <translation>Hangmagasság</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1477"/>
         <source>Pitch:</source>
         <translation>Hangmagasság:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1477"/>
         <source>cents</source>
         <translation>cent</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1466"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1482"/>
         <source>PITCH</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1473"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1489"/>
         <source>Pitch range (semitones)</source>
         <translation>Hangmagasság tartomány (félhangok)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1478"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1494"/>
         <source>RANGE</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1488"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
         <source>FX channel</source>
         <translation>Keverő csatorna</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1493"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1509"/>
         <source>FX</source>
         <translation>FX</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1503"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1519"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>Aktuális hangszersáv beállításainak mentése</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1507"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1523"/>
         <source>SAVE</source>
         <translation>MENTÉS</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1546"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1562"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation>Burkológörbe, szűrő, LFO</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1547"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1563"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1548"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1564"/>
         <source>Effects</source>
         <translation>Effektek</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1549"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1565"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1550"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1566"/>
         <source>Miscellaneous</source>
         <translation>Egyéb</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1670"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1686"/>
         <source>Save preset</source>
         <translation>Preset mentése</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1670"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1686"/>
         <source>XML preset file (*.xpf)</source>
         <translation>XML preset fájl (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1725"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1741"/>
         <source>Plugin</source>
         <translation>Plugin</translation>
     </message>
@@ -7101,7 +7101,7 @@ Copyright (C) 2017 ROLI Ltd.</source>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="87"/>
         <source> degrees</source>
-        <translation>fok</translation>
+        <translation> fok</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="96"/>
@@ -7344,7 +7344,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="337"/>
         <source>E&amp;xport Tracks...</source>
-        <translation>Sávonkénti e&amp;xportálás</translation>
+        <translation>Sávonkénti e&amp;xportálás...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="343"/>
@@ -11365,7 +11365,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="64"/>
         <location filename="../../plugins/VstEffect/VstSubPluginFeatures.cpp" line="46"/>
         <source>Name: </source>
-        <translation>Név:</translation>
+        <translation>Név: </translation>
     </message>
     <message>
         <location filename="../../src/core/lv2/Lv2SubPluginFeatures.cpp" line="77"/>
@@ -11377,7 +11377,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="144"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="75"/>
         <source>Maker: </source>
-        <translation>Készítő:</translation>
+        <translation>Készítő: </translation>
     </message>
     <message>
         <location filename="../../src/core/lv2/Lv2SubPluginFeatures.cpp" line="104"/>
@@ -11428,13 +11428,13 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="190"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="118"/>
         <source>Channels In: </source>
-        <translation>Bemeneti csatornák:</translation>
+        <translation>Bemeneti csatornák: </translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="195"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="122"/>
         <source>Channels Out: </source>
-        <translation>Kimeneti csatornák:</translation>
+        <translation>Kimeneti csatornák: </translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="67"/>
@@ -12405,7 +12405,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="437"/>
         <source>Keep effects running even without input</source>
-        <translation>Effektek ébren tartása bemenet hiányában is</translation>
+        <translation>Effektek ébren tartása bemenő jel hiányában</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="457"/>
@@ -12477,7 +12477,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="802"/>
         <source>Theme directory</source>
-        <translation>Grafikus téma könyvtára:</translation>
+        <translation>Grafikus téma könyvtára</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="806"/>
@@ -13826,7 +13826,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="904"/>
         <source>by </source>
-        <translation>készítő:</translation>
+        <translation>készítő: </translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="913"/>
@@ -14697,7 +14697,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="354"/>
         <source>Sample length</source>
-        <translation>Minta hossza</translation>
+        <translation>Minta hossza:</translation>
     </message>
     <message>
         <location filename="../../plugins/bit_invader/bit_invader.cpp" line="361"/>
@@ -15072,7 +15072,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="55"/>
         <source>Rate</source>
-        <translation>Ütem:</translation>
+        <translation>Típus</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="56"/>

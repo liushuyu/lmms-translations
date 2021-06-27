@@ -5190,7 +5190,7 @@ Veuillez vous assurez que vous avez les droits d&apos;écriture sur le fichier e
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="1010"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="1006"/>
         <source>--- Factory files ---</source>
         <translation>--- Fichiers usine ---</translation>
     </message>
@@ -6932,57 +6932,57 @@ Veuillez vous assurez que vous avez les droits d&apos;écriture sur le fichier e
 <context>
     <name>InstrumentTrackView</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1065"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1081"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1068"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1084"/>
         <source>Volume:</source>
         <translation>Volume :</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1070"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1086"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1074"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1090"/>
         <source>Panning</source>
         <translation>Panoramisation</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1076"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1092"/>
         <source>Panning:</source>
         <translation>Panoramisation :</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1078"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1094"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1081"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1097"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1113"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1129"/>
         <source>Input</source>
         <translation>Entrée</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1114"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1130"/>
         <source>Output</source>
         <translation>Sortie</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1116"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1132"/>
         <source>Open/Close MIDI CC Rack</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1355"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1371"/>
         <source>FX %1: %2</source>
         <translation>Effet %1 : %2</translation>
     </message>
@@ -6990,127 +6990,127 @@ Veuillez vous assurez que vous avez les droits d&apos;écriture sur le fichier e
 <context>
     <name>InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1384"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1400"/>
         <source>GENERAL SETTINGS</source>
         <translation>CONFIGURATION GÉNÉRALE</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1430"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1446"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1432"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1448"/>
         <source>Volume:</source>
         <translation>Volume :</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1437"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1453"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1444"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1460"/>
         <source>Panning</source>
         <translation>Panoramisation</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1445"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
         <source>Panning:</source>
         <translation>Panoramisation :</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1450"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1466"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1460"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1476"/>
         <source>Pitch</source>
         <translation>Tonalité</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1477"/>
         <source>Pitch:</source>
         <translation>Tonalité :</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1461"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1477"/>
         <source>cents</source>
         <translation>centièmes</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1466"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1482"/>
         <source>PITCH</source>
         <translation>PITCH</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1473"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1489"/>
         <source>Pitch range (semitones)</source>
         <translation>Plage de hauteur (demi-tons)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1478"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1494"/>
         <source>RANGE</source>
         <translation>PLAGE</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1488"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1504"/>
         <source>FX channel</source>
         <translation>Canal d&apos;effet</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1493"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1509"/>
         <source>FX</source>
         <translation>EFFET</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1503"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1519"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>Sauvegarder les paramètres de la piste de l&apos;instrument actuel dans un fichier de pré-réglage</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1507"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1523"/>
         <source>SAVE</source>
         <translation>SAUV</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1546"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1562"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation>Enveloppe, filtre, et LFO</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1547"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1563"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation>Empilement d&apos;accords et arpège</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1548"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1564"/>
         <source>Effects</source>
         <translation>Effets</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1549"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1565"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1550"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1566"/>
         <source>Miscellaneous</source>
         <translation>Divers</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1670"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1686"/>
         <source>Save preset</source>
         <translation>Enregistrer le pré-réglage</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1670"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1686"/>
         <source>XML preset file (*.xpf)</source>
         <translation>Fichier XML de pré-réglage (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1725"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1741"/>
         <source>Plugin</source>
         <translation>Greffon</translation>
     </message>
