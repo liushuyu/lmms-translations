@@ -1927,8 +1927,46 @@ Do you want to do this now?</source>
 <context>
     <name>CarlaInstrumentView</name>
     <message>
-        <location filename="../../plugins/carlabase/carla.cpp" line="420"/>
+        <location filename="../../plugins/carlabase/carla.cpp" line="625"/>
         <source>Show GUI</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla.cpp" line="633"/>
+        <source>Click here to show or hide the graphical user interface (GUI) of Carla.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla.cpp" line="636"/>
+        <source>Params</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla.cpp" line="642"/>
+        <source>Available from Carla version 2.1 and up.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>CarlaParamsView</name>
+    <message>
+        <location filename="../../plugins/carlabase/carla.cpp" line="757"/>
+        <source>Search..</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla.cpp" line="763"/>
+        <source>Clear filter text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla.cpp" line="771"/>
+        <source>Only show knobs with a connection.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/carlabase/carla.cpp" line="858"/>
+        <source> - Parameters</source>
         <translation type="unfinished"/>
     </message>
 </context>
