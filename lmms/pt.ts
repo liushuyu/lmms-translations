@@ -7198,22 +7198,22 @@ Double click to pick a file.</source>
 <context>
     <name>LmmsCore</name>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="58"/>
+        <location filename="../../src/core/Engine.cpp" line="59"/>
         <source>Generating wavetables</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="62"/>
+        <location filename="../../src/core/Engine.cpp" line="65"/>
         <source>Initializing data structures</source>
         <translation>Inicializando estruturas de dados</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="77"/>
+        <location filename="../../src/core/Engine.cpp" line="80"/>
         <source>Opening audio and midi devices</source>
         <translation>Abrindo dispositivos áudio e midi</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="82"/>
+        <location filename="../../src/core/Engine.cpp" line="85"/>
         <source>Launching mixer threads</source>
         <translation>Lançando threads do misturador</translation>
     </message>
@@ -11999,67 +11999,67 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>SampleBuffer</name>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="357"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="366"/>
         <source>Fail to open file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="358"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="367"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1112"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1121"/>
         <source>Open audio file</source>
         <translation>Abrir arquivo de áudio</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1139"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1148"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Todos Arquivos de Áudio (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1141"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1150"/>
         <source>Wave-Files (*.wav)</source>
         <translation>Arquivos Wave (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1142"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1151"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>Arquivos OGG (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1143"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1152"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>Arquivos DrumSynth (*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1144"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1153"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>Arquivos FLAC (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1145"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1154"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>Arquivos SPEEX (*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1148"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1157"/>
         <source>VOC-Files (*.voc)</source>
         <translation>Arquivos VOC (*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1149"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1158"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>Arquivos AIFF (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1150"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1159"/>
         <source>AU-Files (*.au)</source>
         <translation>Arquivos AU (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1151"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1160"/>
         <source>RAW-Files (*.raw)</source>
         <translation>Arquivos RAW (*.raw)</translation>
     </message>
@@ -12823,86 +12823,86 @@ Latency: %2 ms</source>
 <context>
     <name>SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="142"/>
+        <location filename="../../src/core/DataFile.cpp" line="143"/>
         <source>Could not open file</source>
         <translation>Não é possível abrir o arquivo</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="143"/>
+        <location filename="../../src/core/DataFile.cpp" line="144"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>Não foi possível abrir o arquivo %1. Provavelmente você não tem permissão para ler este arquivo.
  Por favor certifique-se que você tenha permissão de leitura para o arquivo e tente novamente.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="330"/>
+        <location filename="../../src/core/DataFile.cpp" line="331"/>
         <source>Operation denied</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="331"/>
+        <location filename="../../src/core/DataFile.cpp" line="332"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="341"/>
-        <location filename="../../src/core/DataFile.cpp" line="349"/>
-        <location filename="../../src/core/DataFile.cpp" line="357"/>
+        <location filename="../../src/core/DataFile.cpp" line="342"/>
+        <location filename="../../src/core/DataFile.cpp" line="350"/>
+        <location filename="../../src/core/DataFile.cpp" line="358"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="342"/>
+        <location filename="../../src/core/DataFile.cpp" line="343"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="350"/>
+        <location filename="../../src/core/DataFile.cpp" line="351"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="358"/>
+        <location filename="../../src/core/DataFile.cpp" line="359"/>
         <source>Failed to copy resources.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="367"/>
+        <location filename="../../src/core/DataFile.cpp" line="368"/>
         <source>Could not write file</source>
         <translation>Não é possivel salvar o arquivo</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="368"/>
+        <location filename="../../src/core/DataFile.cpp" line="369"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1843"/>
+        <location filename="../../src/core/DataFile.cpp" line="1866"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1798"/>
+        <location filename="../../src/core/DataFile.cpp" line="1821"/>
         <source>Error in file</source>
         <translation>Erro no arquivo</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1799"/>
+        <location filename="../../src/core/DataFile.cpp" line="1822"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>O arquivo %1 parece conter erros e por isso não pode ser carregado.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1842"/>
+        <location filename="../../src/core/DataFile.cpp" line="1865"/>
         <source>Version difference</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1839"/>
+        <location filename="../../src/core/DataFile.cpp" line="1862"/>
         <source>template</source>
         <translation>modelo</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1839"/>
+        <location filename="../../src/core/DataFile.cpp" line="1862"/>
         <source>project</source>
         <translation>projeto</translation>
     </message>
@@ -13573,145 +13573,150 @@ Por favor certifique-se que você tem permissões de leitura para o arquivo e pa
 <context>
     <name>TripleOscillatorView</name>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="444"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="462"/>
         <source>Modulate phase of oscillator 1 by oscillator 2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="452"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="470"/>
         <source>Modulate amplitude of oscillator 1 by oscillator 2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="460"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="478"/>
         <source>Mix output of oscillators 1 &amp; 2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="468"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="486"/>
         <source>Synchronize oscillator 1 with oscillator 2</source>
         <translation>Sincronize o oscilador 1 com o oscilador 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="477"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="495"/>
         <source>Modulate frequency of oscillator 1 by oscillator 2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="494"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="512"/>
         <source>Modulate phase of oscillator 2 by oscillator 3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="502"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="520"/>
         <source>Modulate amplitude of oscillator 2 by oscillator 3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="510"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="528"/>
         <source>Mix output of oscillators 2 &amp; 3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="518"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="536"/>
         <source>Synchronize oscillator 2 with oscillator 3</source>
         <translation>Sincronize o oscilador 2 com o oscilador 3</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="526"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="544"/>
         <source>Modulate frequency of oscillator 2 by oscillator 3</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="546"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="564"/>
         <source>Osc %1 volume:</source>
         <translation>Volume Osc %1:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="552"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="570"/>
         <source>Osc %1 panning:</source>
         <translation>Panorâmico Osc %1:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="557"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="575"/>
         <source>Osc %1 coarse detuning:</source>
         <translation>Ajuste bruto Osc %1:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="558"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="576"/>
         <source>semitones</source>
         <translation>semitons</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="563"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="581"/>
         <source>Osc %1 fine detuning left:</source>
         <translation>Ajuste fino esquerdo Osc %1:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="565"/>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="572"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="583"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="590"/>
         <source>cents</source>
         <translation>centésimos</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="570"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="588"/>
         <source>Osc %1 fine detuning right:</source>
         <translation>Ajuste fino direito %1:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="577"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="595"/>
         <source>Osc %1 phase-offset:</source>
         <translation>Defasamento Osc %1:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="579"/>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="586"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="597"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="604"/>
         <source>degrees</source>
         <translation>graus</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="584"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="602"/>
         <source>Osc %1 stereo phase-detuning:</source>
         <translation>Defasamento estéreo Osc %1:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="597"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="615"/>
         <source>Sine wave</source>
         <translation>Onda senoidal</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="607"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="625"/>
         <source>Triangle wave</source>
         <translation>Onda triangular</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="616"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="634"/>
         <source>Saw wave</source>
         <translation>Onda dente de serra</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="625"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="643"/>
         <source>Square wave</source>
         <translation>Onda quadrada</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="635"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="653"/>
         <source>Moog-like saw wave</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="644"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="662"/>
         <source>Exponential wave</source>
         <translation>Onda exponencial</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="653"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="671"/>
         <source>White noise</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="661"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="679"/>
         <source>User-defined wave</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="688"/>
+        <source>Use alias-free wavetable oscillators.</source>
         <translation type="unfinished"/>
     </message>
 </context>

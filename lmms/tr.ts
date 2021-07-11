@@ -2217,17 +2217,17 @@ Bunu şimdi yapmak istiyor musun?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="633"/>
         <source>Click here to show or hide the graphical user interface (GUI) of Carla.</source>
-        <translation type="unfinished"/>
+        <translation>Carla&apos;nın grafiksel kullanıcı arayüzünü (GUI) göstermek veya gizlemek için buraya tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="636"/>
         <source>Params</source>
-        <translation type="unfinished"/>
+        <translation>Parametreler</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="642"/>
         <source>Available from Carla version 2.1 and up.</source>
-        <translation type="unfinished"/>
+        <translation>Carla sürüm 2.1 ve üzeri sürümlerde mevcuttur.</translation>
     </message>
 </context>
 <context>
@@ -2235,22 +2235,22 @@ Bunu şimdi yapmak istiyor musun?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="757"/>
         <source>Search..</source>
-        <translation type="unfinished"/>
+        <translation>Ara..</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="763"/>
         <source>Clear filter text</source>
-        <translation type="unfinished"/>
+        <translation>Filtre metnini temizle</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="771"/>
         <source>Only show knobs with a connection.</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca bağlantılı düğmeleri gösterin.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="858"/>
         <source> - Parameters</source>
-        <translation type="unfinished"/>
+        <translation>- Parametreler</translation>
     </message>
 </context>
 <context>
@@ -7489,22 +7489,22 @@ Bir dosya seçmek için çift tıklayın.</translation>
 <context>
     <name>LmmsCore</name>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="58"/>
+        <location filename="../../src/core/Engine.cpp" line="59"/>
         <source>Generating wavetables</source>
         <translation>Dalgaboyu oluşturma</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="62"/>
+        <location filename="../../src/core/Engine.cpp" line="65"/>
         <source>Initializing data structures</source>
         <translation>Veri yapılarını başlatma</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="77"/>
+        <location filename="../../src/core/Engine.cpp" line="80"/>
         <source>Opening audio and midi devices</source>
         <translation>Ses ve midi cihazlarını açma</translation>
     </message>
     <message>
-        <location filename="../../src/core/Engine.cpp" line="82"/>
+        <location filename="../../src/core/Engine.cpp" line="85"/>
         <source>Launching mixer threads</source>
         <translation>Karıştırıcı konularının başlatılması</translation>
     </message>
@@ -12294,67 +12294,67 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
 <context>
     <name>SampleBuffer</name>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="357"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="366"/>
         <source>Fail to open file</source>
         <translation>Dosya açılamadı</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="358"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="367"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
         <translation>Ses dosyalarının boyutu %1 MB ve %2 dakika oynatma süresiyle sınırlıdır</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1112"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1121"/>
         <source>Open audio file</source>
         <translation>Ses dosyasını aç</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1139"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1148"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
         <translation>Tüm Ses Dosyaları (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1141"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1150"/>
         <source>Wave-Files (*.wav)</source>
         <translation>Wave Dosyaları (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1142"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1151"/>
         <source>OGG-Files (*.ogg)</source>
         <translation>OGG Dosyaları (*.ogg)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1143"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1152"/>
         <source>DrumSynth-Files (*.ds)</source>
         <translation>DrumSynth Dosyaları (*.ds)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1144"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1153"/>
         <source>FLAC-Files (*.flac)</source>
         <translation>FLAC Dosyaları (*.flac)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1145"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1154"/>
         <source>SPEEX-Files (*.spx)</source>
         <translation>SPEEX Dosyaları (*.spx)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1148"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1157"/>
         <source>VOC-Files (*.voc)</source>
         <translation>VOC Dosyaları (*.voc)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1149"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1158"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
         <translation>AIFF Dosyaları (*.aif *.aiff)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1150"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1159"/>
         <source>AU-Files (*.au)</source>
         <translation>AU Dosyaları (*.au)</translation>
     </message>
     <message>
-        <location filename="../../src/core/SampleBuffer.cpp" line="1151"/>
+        <location filename="../../src/core/SampleBuffer.cpp" line="1160"/>
         <source>RAW-Files (*.raw)</source>
         <translation>RAW Dosyaları (*.raw)</translation>
     </message>
@@ -13119,86 +13119,86 @@ Gecikme: %2 ms</translation>
 <context>
     <name>SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="142"/>
+        <location filename="../../src/core/DataFile.cpp" line="143"/>
         <source>Could not open file</source>
         <translation>Dosya açılamadı</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="143"/>
+        <location filename="../../src/core/DataFile.cpp" line="144"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>%1 dosyası açılamadı. Muhtemelen bu dosyayı okuma izniniz yok.
   Lütfen dosya için en azından okuma izninizin olduğundan emin olun ve tekrar deneyin.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="330"/>
+        <location filename="../../src/core/DataFile.cpp" line="331"/>
         <source>Operation denied</source>
         <translation>İşlem reddedildi</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="331"/>
+        <location filename="../../src/core/DataFile.cpp" line="332"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation>Bu ada sahip bir paket klasörü zaten seçili yolda bulunuyor. Proje paketinin üzerine yazılamaz. Lütfen farklı bir isim seçin.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="341"/>
-        <location filename="../../src/core/DataFile.cpp" line="349"/>
-        <location filename="../../src/core/DataFile.cpp" line="357"/>
+        <location filename="../../src/core/DataFile.cpp" line="342"/>
+        <location filename="../../src/core/DataFile.cpp" line="350"/>
+        <location filename="../../src/core/DataFile.cpp" line="358"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="342"/>
+        <location filename="../../src/core/DataFile.cpp" line="343"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation>Paket klasörü oluşturulamadı.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="350"/>
+        <location filename="../../src/core/DataFile.cpp" line="351"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation>Kaynaklar klasörü oluşturulamadı.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="358"/>
+        <location filename="../../src/core/DataFile.cpp" line="359"/>
         <source>Failed to copy resources.</source>
         <translation>Kaynaklar kopyalanamadı.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="367"/>
+        <location filename="../../src/core/DataFile.cpp" line="368"/>
         <source>Could not write file</source>
         <translation>Dosya yazılamadı</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="368"/>
+        <location filename="../../src/core/DataFile.cpp" line="369"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
         <translation>%1 yazmak için açılamadı. Muhtemelen bu dosyaya yazma izniniz yok. Lütfen dosyaya yazma erişiminiz olduğundan emin olun ve tekrar deneyin.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1843"/>
+        <location filename="../../src/core/DataFile.cpp" line="1866"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>Bu %1, %2 LMMS ile oluşturuldu</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1798"/>
+        <location filename="../../src/core/DataFile.cpp" line="1821"/>
         <source>Error in file</source>
         <translation>Dosyada hata</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1799"/>
+        <location filename="../../src/core/DataFile.cpp" line="1822"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Görünüşe göre %1 dosyası hatalar içeriyor ve bu nedenle yüklenemiyor.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1842"/>
+        <location filename="../../src/core/DataFile.cpp" line="1865"/>
         <source>Version difference</source>
         <translation>Sürüm farkı</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1839"/>
+        <location filename="../../src/core/DataFile.cpp" line="1862"/>
         <source>template</source>
         <translation>şablon</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1839"/>
+        <location filename="../../src/core/DataFile.cpp" line="1862"/>
         <source>project</source>
         <translation>proje</translation>
     </message>
@@ -13869,146 +13869,151 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
 <context>
     <name>TripleOscillatorView</name>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="444"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="462"/>
         <source>Modulate phase of oscillator 1 by oscillator 2</source>
         <translation>Osilatör 1&apos;in fazını osilatör 2 ile modüle edin</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="452"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="470"/>
         <source>Modulate amplitude of oscillator 1 by oscillator 2</source>
         <translation>Osilatör 1&apos;in genliğini osilatör 2 ile modüle edin</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="460"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="478"/>
         <source>Mix output of oscillators 1 &amp; 2</source>
         <translation>Osilatör 1 ve 2&apos;nin Karışım çıkışı</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="468"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="486"/>
         <source>Synchronize oscillator 1 with oscillator 2</source>
         <translation>Osilatör 1&apos;i osilatör 2 ile senkronize edin</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="477"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="495"/>
         <source>Modulate frequency of oscillator 1 by oscillator 2</source>
         <translation>Osilatör 1&apos;in frekansını osilatör 2 ile modüle edin</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="494"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="512"/>
         <source>Modulate phase of oscillator 2 by oscillator 3</source>
         <translation>Osilatör 2&apos;nin fazını osilatör 3 ile modüle edin</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="502"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="520"/>
         <source>Modulate amplitude of oscillator 2 by oscillator 3</source>
         <translation>Osilatör 2&apos;nin genliğini osilatör 3 ile modüle edin</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="510"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="528"/>
         <source>Mix output of oscillators 2 &amp; 3</source>
         <translation>Osilatör 2 ve 3&apos;ün Karışım çıkışı</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="518"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="536"/>
         <source>Synchronize oscillator 2 with oscillator 3</source>
         <translation>Osilatör 2&apos;yi osilatör 3 ile senkronize edin</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="526"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="544"/>
         <source>Modulate frequency of oscillator 2 by oscillator 3</source>
         <translation>Osilatör 2&apos;nin frekansını osilatör 3 ile modüle edin</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="546"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="564"/>
         <source>Osc %1 volume:</source>
         <translation>Osc %1 düzeyi:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="552"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="570"/>
         <source>Osc %1 panning:</source>
         <translation>Osc %1 kaydırma:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="557"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="575"/>
         <source>Osc %1 coarse detuning:</source>
         <translation>Osc %1 kaba ince ayar:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="558"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="576"/>
         <source>semitones</source>
         <translation>yarım tonlar</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="563"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="581"/>
         <source>Osc %1 fine detuning left:</source>
         <translation>Osc %1 ince ayar sol:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="565"/>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="572"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="583"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="590"/>
         <source>cents</source>
         <translation>sent</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="570"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="588"/>
         <source>Osc %1 fine detuning right:</source>
         <translation>Osc %1 ince ayar sağ:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="577"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="595"/>
         <source>Osc %1 phase-offset:</source>
         <translation>Osc %1 faz kayması:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="579"/>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="586"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="597"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="604"/>
         <source>degrees</source>
         <translation>derece</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="584"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="602"/>
         <source>Osc %1 stereo phase-detuning:</source>
         <translation>Osc %1 stereo faz ayarlama:</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="597"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="615"/>
         <source>Sine wave</source>
         <translation>Sinüs dalgası</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="607"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="625"/>
         <source>Triangle wave</source>
         <translation>Üçgen dalga</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="616"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="634"/>
         <source>Saw wave</source>
         <translation>Testere dalga</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="625"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="643"/>
         <source>Square wave</source>
         <translation>Kare dalgası</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="635"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="653"/>
         <source>Moog-like saw wave</source>
         <translation>Moog benzeri testere dalgası</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="644"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="662"/>
         <source>Exponential wave</source>
         <translation>Üstel dalga</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="653"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="671"/>
         <source>White noise</source>
         <translation>Beyaz gürültü</translation>
     </message>
     <message>
-        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="661"/>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="679"/>
         <source>User-defined wave</source>
         <translation>Kullanıcı tanımlı dalga</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="688"/>
+        <source>Use alias-free wavetable oscillators.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
