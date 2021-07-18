@@ -2493,7 +2493,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2329"/>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>Префикс</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2335"/>
@@ -10142,7 +10142,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5233"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5280"/>
         <source>XML pattern file (*.xpt *.xptz)</source>
-        <translation type="unfinished"/>
+        <translation>Файл XML-шаблона (*.xpt *.xptz)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5253"/>
@@ -10966,7 +10966,7 @@ Plugin Name
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="812"/>
         <source>Copyright:</source>
-        <translation type="unfinished"/>
+        <translation>Авторское право:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="822"/>
@@ -13456,7 +13456,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="1024"/>
         <source>Merge Selection</source>
-        <translation type="unfinished"/>
+        <translation>Объединить выделенное</translation>
     </message>
     <message>
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="1033"/>
@@ -13529,17 +13529,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="197"/>
         <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Удалённый трек будет невозможно восстановить. Удалить трек «%1»?</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="200"/>
         <source>Confirm removal</source>
-        <translation type="unfinished"/>
+        <translation>Подтвердить удаление</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="201"/>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"/>
+        <translation>Больше не спрашивать</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="321"/>

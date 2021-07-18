@@ -14013,7 +14013,7 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
     <message>
         <location filename="../../plugins/triple_oscillator/TripleOscillator.cpp" line="688"/>
         <source>Use alias-free wavetable oscillators.</source>
-        <translation type="unfinished"/>
+        <translation>Takma ad içermeyen dalga tablosu osilatörleri kullanın.</translation>
     </message>
 </context>
 <context>

@@ -10948,7 +10948,7 @@ Plugin név
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="812"/>
         <source>Copyright:</source>
-        <translation type="unfinished"/>
+        <translation>Copyright:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="822"/>
@@ -11422,7 +11422,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="159"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="90"/>
         <source>Copyright: </source>
-        <translation type="unfinished"/>
+        <translation>Copyright: </translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="169"/>
@@ -12525,12 +12525,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="855"/>
         <source>Some changes require restarting.</source>
-        <translation>Egyes beállítások a program újraindítását követően lépnek érvénybe.</translation>
+        <translation>Egyes beállítások újraindítást igényelnek.</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1092"/>
         <source>Autosave interval: %1</source>
-        <translation>Automatikus mentés gyakorisága: %1</translation>
+        <translation>Mentés gyakorisága: %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1231"/>
@@ -15125,12 +15125,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="57"/>
         <source>Type</source>
-        <translation>Típus</translation>
+        <translation>Értékek</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="58"/>
         <source>Min &lt; Default &lt; Max</source>
-        <translation>Min &lt; Alapértelmezés &lt; Max</translation>
+        <translation>Min &lt; Alaphelyzet &lt; Max</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="59"/>
