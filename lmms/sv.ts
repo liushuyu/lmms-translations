@@ -2225,7 +2225,7 @@ Vill du göra det nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="642"/>
         <source>Available from Carla version 2.1 and up.</source>
-        <translation type="unfinished"/>
+        <translation>Tillgänglig från Carla version 2.1 och senare.</translation>
     </message>
 </context>
 <context>
@@ -2233,12 +2233,12 @@ Vill du göra det nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="757"/>
         <source>Search..</source>
-        <translation type="unfinished"/>
+        <translation>Sök..</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="763"/>
         <source>Clear filter text</source>
-        <translation type="unfinished"/>
+        <translation>Rensa filtertext</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="771"/>
@@ -2248,7 +2248,7 @@ Vill du göra det nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="858"/>
         <source> - Parameters</source>
-        <translation type="unfinished"/>
+        <translation> - Parametrar</translation>
     </message>
 </context>
 <context>
