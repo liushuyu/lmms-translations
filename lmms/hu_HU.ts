@@ -9912,7 +9912,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="3603"/>
         <source>Please open a pattern by double-clicking on it!</source>
-        <translation>Nyiss meg egy kilppet dupla kattintással!</translation>
+        <translation>Nyiss meg egy klipet dupla kattintással!</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4240"/>
