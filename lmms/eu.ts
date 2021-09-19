@@ -7243,28 +7243,28 @@ Copyright (C) 2017 ROLI Ltd.</source>
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set linear</source>
         <translation>Ezarri lineala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set logarithmic</source>
         <translation>Ezarri logaritmikoa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="761"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="778"/>
         <source>Set value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="763"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Sartu -96.0 dBFS eta 6.0 dBFS arteko balio berri bat:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="780"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Sartu %1 eta %2 arteko balio berri bat:</translation>
     </message>

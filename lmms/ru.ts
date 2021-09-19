@@ -6984,28 +6984,28 @@ Copyright © 2017 ROLI Ltd.</translation>
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set linear</source>
         <translation>Установить линейно</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set logarithmic</source>
         <translation>Установить логарифмически</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="761"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="778"/>
         <source>Set value</source>
         <translation>Установить величину</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="763"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Введите новое значение от –96,0 дБВ до 6,0 дБВ: </translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="780"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Введите новое значение от %1 до %2:</translation>
     </message>

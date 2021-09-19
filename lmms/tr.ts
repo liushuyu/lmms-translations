@@ -7255,28 +7255,28 @@ Telif Hakkı (C) 2017 ROLI Ltd.</translation>
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set linear</source>
         <translation>Doğrusal ayarla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set logarithmic</source>
         <translation>Logaritmik ayarla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="761"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="778"/>
         <source>Set value</source>
         <translation>Değeri ayarla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="763"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Lütfen -96.0 dBFS ve 6.0 dBFS arasında yeni bir değer girin:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="780"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Lütfen %1 ile %2 arasında yeni bir değer girin:</translation>
     </message>

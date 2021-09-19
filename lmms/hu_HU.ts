@@ -6968,28 +6968,28 @@ Copyright (C) 2017 ROLI Ltd.</source>
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set linear</source>
         <translation>Lineáris skála</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set logarithmic</source>
         <translation>Logaritmikus skála</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="761"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="778"/>
         <source>Set value</source>
         <translation>Érték megadása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="763"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Adj meg egy új értéket -96.0 dBFS és 6.0 dBFS között:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="780"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Adj meg egy új értéket %1 és %2 között:</translation>
     </message>

@@ -6975,28 +6975,28 @@ Copyright (C) 2017 ROLI Ltd.</translation>
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set linear</source>
         <translation>Modalità lineare</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set logarithmic</source>
         <translation>Modalità logaritmica</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="761"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="778"/>
         <source>Set value</source>
         <translation>Imposta valore</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="763"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Inserire un nuovo valore tra -96.0 dBFS e 6.0 dBFS:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="780"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Inserire un valore compreso tra %1 e %2:</translation>
     </message>

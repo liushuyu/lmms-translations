@@ -6434,7 +6434,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="71"/>
         <source>Active keymap:</source>
-        <translation type="unfinished"/>
+        <translation>활성 키맵:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="78"/>
@@ -6976,28 +6976,28 @@ JUCE는 GNU Public License 버전 2.0에 따라 사용이 허가되었습니다.
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set linear</source>
         <translation>선형으로 설정</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set logarithmic</source>
         <translation>로그스케일로 설정</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="761"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="778"/>
         <source>Set value</source>
         <translation>값 설정</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="763"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>-96.0 dBFS부터 6.0 dBFS까지의 값을 입력하세요:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="780"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>%1부터 %2까지의 값을 입력하세요:</translation>
     </message>
@@ -7835,7 +7835,7 @@ LMMS에 대한 문서는 http://lmms.sf.net/wiki를 방문하십시오.</transla
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="51"/>
         <source>Selected keymap</source>
-        <translation type="unfinished"/>
+        <translation>선택한 키맵</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="52"/>
@@ -7910,12 +7910,12 @@ Unity (0.0 cents or ratio 1/1) is always present as a hidden first value; do not
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="103"/>
         <source>Keymap:</source>
-        <translation type="unfinished"/>
+        <translation>키맵:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="116"/>
         <source>Keymap description. Cannot start with &quot;!&quot; and cannot contain a newline character.</source>
-        <translation type="unfinished"/>
+        <translation>키맵 설명입니다. &quot;!&quot;으로 시작할 수 없으며 개행 문자를 포함할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="128"/>
@@ -7954,7 +7954,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="149"/>
         <source>First line in the keymap refers to this MIDI key</source>
-        <translation type="unfinished"/>
+        <translation>키맵의 첫 번째 줄은 이 MIDI 키를 나타냅니다</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="154"/>
@@ -7974,7 +7974,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="165"/>
         <source>Apply keymap</source>
-        <translation type="unfinished"/>
+        <translation>키맵 적용</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="303"/>
@@ -8014,17 +8014,17 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="347"/>
         <source>Keymap parsing error</source>
-        <translation type="unfinished"/>
+        <translation>키맵 구문분석 오류</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="351"/>
         <source>Keymap name cannot start with an exclamation mark</source>
-        <translation type="unfinished"/>
+        <translation>키맵 이름은 느낌표로 시작할 수 없습니다</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="352"/>
         <source>Keymap name cannot contain a new-line character</source>
-        <translation type="unfinished"/>
+        <translation>키맵 이름에 개행 문자를 포함할 수 없습니다</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="366"/>
@@ -8039,7 +8039,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="456"/>
         <source>Invalid keymap</source>
-        <translation type="unfinished"/>
+        <translation>잘못된 키맵</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="456"/>
@@ -8071,7 +8071,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="503"/>
         <source>Open keymap</source>
-        <translation type="unfinished"/>
+        <translation>키맵 열기</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="503"/>
@@ -8082,7 +8082,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="508"/>
         <source>Keymap load failure</source>
-        <translation type="unfinished"/>
+        <translation>키맵 불러오기 오류</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="552"/>
@@ -8103,12 +8103,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="588"/>
         <source>Save keymap</source>
-        <translation type="unfinished"/>
+        <translation>키맵 저장</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="594"/>
         <source>Keymap save failure</source>
-        <translation type="unfinished"/>
+        <translation>키맵 저장 실패</translation>
     </message>
 </context>
 <context>

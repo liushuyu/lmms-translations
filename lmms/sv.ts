@@ -2243,7 +2243,7 @@ Vill du göra det nu?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="771"/>
         <source>Only show knobs with a connection.</source>
-        <translation type="unfinished"/>
+        <translation>Visa bara rattar med en anslutning.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="858"/>
@@ -2943,7 +2943,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="118"/>
         <source>Range:</source>
-        <translation type="unfinished"/>
+        <translation>Omfång:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="120"/>
@@ -3169,7 +3169,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="244"/>
         <source>Maximum</source>
-        <translation type="unfinished"/>
+        <translation>Maximum</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="247"/>
@@ -3189,7 +3189,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="254"/>
         <source>Minimum</source>
-        <translation type="unfinished"/>
+        <translation>Minimum</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="257"/>
@@ -3278,7 +3278,7 @@ Detta läge är inte tillgängligt för VST-tillägg.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="44"/>
         <source>Range</source>
-        <translation type="unfinished"/>
+        <translation>Omfång</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="45"/>
@@ -6000,7 +6000,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="118"/>
         <source>Arpeggio range:</source>
-        <translation>Arpeggio-omfång:</translation>
+        <translation>Arpeggioomfång:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="118"/>
@@ -6706,12 +6706,12 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="64"/>
         <source>Active scale:</source>
-        <translation type="unfinished"/>
+        <translation>Aktiv skala:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="71"/>
         <source>Active keymap:</source>
-        <translation type="unfinished"/>
+        <translation>Aktiv karläggningskarta:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="78"/>
@@ -6987,7 +6987,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="140"/>
         <source>CC Controller %1</source>
-        <translation type="unfinished"/>
+        <translation>CC-kontroller %1</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="146"/>
@@ -7046,7 +7046,7 @@ Se till att du har skrivbehörighet till filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1205"/>
         <source>Open/Close MIDI CC Rack</source>
-        <translation type="unfinished"/>
+        <translation>Öppna/stäng MIDI CC-rack</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="1444"/>
@@ -7247,34 +7247,34 @@ Copyright (C) 2017 ROLI Ltd.</translation>
     <message>
         <location filename="../../src/core/Keymap.cpp" line="31"/>
         <source>empty</source>
-        <translation type="unfinished"/>
+        <translation>tom</translation>
     </message>
 </context>
 <context>
     <name>Knob</name>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set linear</source>
         <translation>Ställ in linjär</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="516"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="515"/>
         <source>Set logarithmic</source>
         <translation>Ställ in logaritmisk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="761"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="778"/>
         <source>Set value</source>
         <translation>Ställ in värde</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="763"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Vänligen ange ett nytt värde mellan -96.0 dBFS och 6.0 dBFS:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="780"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Ange ett nytt värde mellan %1 och %2:</translation>
     </message>
@@ -8099,7 +8099,7 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="41"/>
         <source>Selected keyboard mapping</source>
-        <translation type="unfinished"/>
+        <translation>Vald keyboardskartläggning</translation>
     </message>
 </context>
 <context>
@@ -8112,31 +8112,31 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="51"/>
         <source>Selected keymap</source>
-        <translation type="unfinished"/>
+        <translation>Välj tangentkartläggning</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="52"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="135"/>
         <source>First key</source>
-        <translation type="unfinished"/>
+        <translation>Första tangent</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="53"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="141"/>
         <source>Last key</source>
-        <translation type="unfinished"/>
+        <translation>Sista tangent</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="54"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="147"/>
         <source>Middle key</source>
-        <translation type="unfinished"/>
+        <translation>Mellan tangent</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="55"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="153"/>
         <source>Base key</source>
-        <translation type="unfinished"/>
+        <translation>Grundtangent</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="56"/>
@@ -8158,19 +8158,19 @@ Besök https://lmms.io/documentation/ för dokumentation (Engelska).</translatio
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="81"/>
         <source>Scale description. Cannot start with &quot;!&quot; and cannot contain a newline character.</source>
-        <translation type="unfinished"/>
+        <translation>Skala beskrivning. Kan inte börja med &quot;!&quot; och kan inte innehålla ett nyradstecken.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="84"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="119"/>
         <source>Load</source>
-        <translation type="unfinished"/>
+        <translation>Läs in</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="85"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="120"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Spara</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="93"/>
@@ -8182,12 +8182,12 @@ Unity (0.0 cents or ratio 1/1) is always present as a hidden first value; do not
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="96"/>
         <source>Apply scale</source>
-        <translation type="unfinished"/>
+        <translation>Tillämpa skala</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="103"/>
         <source>Keymap:</source>
-        <translation type="unfinished"/>
+        <translation>Tangentkartläggning:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="116"/>
@@ -8206,27 +8206,27 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="136"/>
         <source>FIRST</source>
-        <translation type="unfinished"/>
+        <translation>FÖRSTA</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="137"/>
         <source>First MIDI key that will be mapped</source>
-        <translation type="unfinished"/>
+        <translation>Första MIDI-tangent som kommer att kartläggas</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="142"/>
         <source>LAST</source>
-        <translation type="unfinished"/>
+        <translation>SISTA</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="143"/>
         <source>Last MIDI key that will be mapped</source>
-        <translation type="unfinished"/>
+        <translation>Sista MIDI-tangent som kommer att kartläggas</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="148"/>
         <source>MIDDLE</source>
-        <translation type="unfinished"/>
+        <translation>MELLAN</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="149"/>
@@ -8251,7 +8251,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="165"/>
         <source>Apply keymap</source>
-        <translation type="unfinished"/>
+        <translation>Tillämpa tangentkartläggning</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="303"/>
@@ -8261,12 +8261,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="307"/>
         <source>Scale name cannot start with an exclamation mark</source>
-        <translation type="unfinished"/>
+        <translation>Skalnamn kan inte börja med ett utropstecken</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="308"/>
         <source>Scale name cannot contain a new-line character</source>
-        <translation type="unfinished"/>
+        <translation>Skalnamn kan inte innehålla ett nyradstecken</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="321"/>
@@ -8286,12 +8286,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="334"/>
         <source>Interval defined as a ratio cannot be negative</source>
-        <translation type="unfinished"/>
+        <translation>Intervall som definieras som en ratio kan inte vara negativt</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="347"/>
         <source>Keymap parsing error</source>
-        <translation type="unfinished"/>
+        <translation>Tolkningsfel för tangentkartläggning</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="351"/>
@@ -8301,7 +8301,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="352"/>
         <source>Keymap name cannot contain a new-line character</source>
-        <translation type="unfinished"/>
+        <translation>Kartläggningsnamn kan inte innehålla ett nyradstecken</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="366"/>
@@ -8311,7 +8311,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="367"/>
         <source>Scale degree cannot be negative</source>
-        <translation type="unfinished"/>
+        <translation>Skalgrad kan inte vara negativ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="456"/>
@@ -8326,7 +8326,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="468"/>
         <source>Open scale</source>
-        <translation type="unfinished"/>
+        <translation>Öppna skala</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="468"/>
@@ -8343,7 +8343,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="473"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="508"/>
         <source>Unable to open selected file.</source>
-        <translation type="unfinished"/>
+        <translation>Det gick inte att öppna den valda filen.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="503"/>
@@ -8354,7 +8354,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="503"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="588"/>
         <source>Scala keymap definition (*.kbm)</source>
-        <translation type="unfinished"/>
+        <translation>Skalkeyboardsdefinition (*.kbm)</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="508"/>
@@ -8364,23 +8364,23 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="552"/>
         <source>Save scale</source>
-        <translation type="unfinished"/>
+        <translation>Spara skala</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="558"/>
         <source>Scale save failure</source>
-        <translation type="unfinished"/>
+        <translation>Det gick inte att spara skala</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="558"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="594"/>
         <source>Unable to open selected file for writing.</source>
-        <translation type="unfinished"/>
+        <translation>Det gick inte att öppna den valda filen för skrivning.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="588"/>
         <source>Save keymap</source>
-        <translation type="unfinished"/>
+        <translation>Spara tangentkartläggning</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="594"/>
@@ -8394,12 +8394,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="48"/>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="124"/>
         <source>MIDI CC Rack - %1</source>
-        <translation type="unfinished"/>
+        <translation>MIDI CC-rack - %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="68"/>
         <source>MIDI CC Knobs:</source>
-        <translation type="unfinished"/>
+        <translation>MIDI CC-rattar:</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="91"/>
@@ -10694,12 +10694,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4842"/>
         <source>Min length as last</source>
-        <translation type="unfinished"/>
+        <translation>Min längd som sist</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
         <source>Max length as last</source>
-        <translation type="unfinished"/>
+        <translation>Max längd som sist</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4860"/>
@@ -12910,7 +12910,7 @@ Du kan inaktivera dessa kontroller för att få en snabbare skanningstid (på eg
     <message>
         <location filename="../../src/core/Scale.cpp" line="72"/>
         <source>empty</source>
-        <translation type="unfinished"/>
+        <translation>tom</translation>
     </message>
 </context>
 <context>
@@ -12989,7 +12989,7 @@ Du kan inaktivera dessa kontroller för att få en snabbare skanningstid (på eg
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="248"/>
         <source>Show warning when deleting tracks</source>
-        <translation type="unfinished"/>
+        <translation>Visa varning vid borttagning av spår</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="258"/>
@@ -13456,7 +13456,7 @@ Latens: %2 ms</translation>
     <message>
         <location filename="../../src/core/Song.cpp" line="1041"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
-        <translation type="unfinished"/>
+        <translation>Projektfilen innehåller lokala sökvägar till tillägg, som kan användas för att köra skadlig kod.</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1046"/>
@@ -13533,7 +13533,7 @@ Latens: %2 ms</translation>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="369"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Det gick inte att öppna %1 för att skriva. Du har förmodligen inte tillåtelse att skriva till den här filen. Vänligen se till att du har skrivåtkomst till filen och försök igen.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1866"/>
@@ -14161,7 +14161,7 @@ Se till att du har läsrättigheter för filen och mappen som innehåller filen 
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="197"/>
         <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Efter att ha tagit bort ett spår kan det inte återställas. Är du säker på att du vill ta bort spåret &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="200"/>
