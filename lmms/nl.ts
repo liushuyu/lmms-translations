@@ -5405,18 +5405,23 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
         <translation>Ongebr&amp;uikte kanalen verwijderen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="255"/>
-        <source>Set channel color</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="256"/>
-        <source>Remove channel color</source>
+        <source>Color</source>
+        <translation>Kleur</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="258"/>
+        <source>Change</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="257"/>
-        <source>Pick random channel color</source>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="259"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="260"/>
+        <source>Pick random</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -12430,64 +12435,9 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <translation>Dubbelklikken om sample te openen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="84"/>
-        <source>Delete (middle mousebutton)</source>
-        <translation>Verwijderen (middelste muisknop)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="85"/>
-        <source>Delete selection (middle mousebutton)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="93"/>
-        <source>Cut</source>
-        <translation>Knippen</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="94"/>
-        <source>Cut selection</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="101"/>
-        <source>Copy</source>
-        <translation>Kopiëren</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="102"/>
-        <source>Copy selection</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="107"/>
-        <source>Paste</source>
-        <translation>Plakken</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="115"/>
-        <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation>Dempen/geluid aan (&lt;%1&gt; + middelklik)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="116"/>
-        <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="125"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="77"/>
         <source>Reverse sample</source>
         <translation>Sample omdraaien</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="133"/>
-        <source>Set clip color</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="135"/>
-        <source>Use track color</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13743,94 +13693,104 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="647"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="700"/>
         <source>Current position</source>
         <translation>Huidige positie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="655"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="708"/>
         <source>Current length</source>
         <translation>Huidige lengte</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="656"/>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="908"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="709"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="961"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 tot %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="675"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="728"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>Op &lt;%1&gt; drukken en slepen om een kopie te maken.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="676"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="729"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>Op &lt;%1&gt; drukken voor vrije grootte-aanpassing.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="677"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="730"/>
         <source>Hint</source>
         <translation>Tip</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1007"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1060"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Verwijderen (middelste muisknop)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1008"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1061"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1016"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1069"/>
         <source>Cut</source>
         <translation>Knippen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1017"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1070"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1024"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1077"/>
         <source>Merge Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1033"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1086"/>
         <source>Copy</source>
         <translation>Kopiëren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1034"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1087"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1039"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1092"/>
         <source>Paste</source>
         <translation>Plakken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1047"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1100"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Dempen/geluid aan (&lt;%1&gt; + middelklik)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1048"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1101"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1054"/>
-        <source>Set clip color</source>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1106"/>
+        <source>Clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1056"/>
-        <source>Use track color</source>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1108"/>
+        <source>Change</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1109"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1110"/>
+        <source>Pick random</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -13867,73 +13827,78 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
         <translation>Solo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="197"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="198"/>
         <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="200"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="201"/>
         <source>Confirm removal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="201"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="202"/>
         <source>Don&apos;t ask again</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="321"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="330"/>
         <source>Clone this track</source>
         <translation>Deze track klonen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="324"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="333"/>
         <source>Remove this track</source>
         <translation>Deze track verwijderen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="329"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
         <source>Clear this track</source>
         <translation>Deze track leegmaken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
         <source>Assign to new FX Channel</source>
         <translation>Aan nieuw FX-kanaal toewijzen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="343"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="352"/>
         <source>Turn all recording on</source>
         <translation>Alle opnames aanzetten</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="344"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
         <source>Turn all recording off</source>
         <translation>Alle opnames uitzetten</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="349"/>
-        <source>Change color</source>
-        <translation>Kleur veranderen</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="351"/>
-        <source>Reset color to default</source>
-        <translation>Kleur herstellen naar standaard</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
-        <source>Set random color</source>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="358"/>
+        <source>Track color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="356"/>
-        <source>Clear clip colors</source>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="360"/>
+        <source>Change</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="361"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="362"/>
+        <source>Pick random</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="364"/>
+        <source>Reset clip colors</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -16212,72 +16177,72 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
 <context>
     <name>sf2Instrument</name>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="100"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="101"/>
         <source>Bank</source>
         <translation>Bank</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="101"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="102"/>
         <source>Patch</source>
         <translation>Patch</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="102"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="103"/>
         <source>Gain</source>
         <translation>Gain</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="103"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="104"/>
         <source>Reverb</source>
         <translation>Reverb</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="104"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="105"/>
         <source>Reverb room size</source>
         <translation>Reverb kamergrootte</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="105"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="106"/>
         <source>Reverb damping</source>
         <translation>Reverb demping</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="106"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="107"/>
         <source>Reverb width</source>
         <translation>Reverb-breedte</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="107"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="108"/>
         <source>Reverb level</source>
         <translation>Reverb niveau</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="108"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="109"/>
         <source>Chorus</source>
         <translation>Chorus</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="109"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="110"/>
         <source>Chorus voices</source>
         <translation>Chorus stemmen</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="110"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="111"/>
         <source>Chorus level</source>
         <translation>Chorus niveau</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="111"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="112"/>
         <source>Chorus speed</source>
         <translation>Chorus snelheid</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="112"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="113"/>
         <source>Chorus depth</source>
         <translation>Chorus diepte</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="417"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="409"/>
         <source>A soundfont %1 could not be loaded.</source>
         <translation>Een soundfont &amp;1 kon niet geladen worden.</translation>
     </message>
@@ -16285,69 +16250,69 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
 <context>
     <name>sf2InstrumentView</name>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="924"/>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1141"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="921"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1138"/>
         <source>Open SoundFont file</source>
         <translation>SoundFont-bestand openen</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="936"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="933"/>
         <source>Choose patch</source>
         <translation>Patch kiezen</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="971"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="968"/>
         <source>Gain:</source>
         <translation>Gain:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="984"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="981"/>
         <source>Apply reverb (if supported)</source>
         <translation>Reverb toepassen (indien ondersteund)</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="988"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="985"/>
         <source>Room size:</source>
         <translation>Kamergrootte:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="992"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="989"/>
         <source>Damping:</source>
         <translation>Demping:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="996"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="993"/>
         <source>Width:</source>
         <translation>Breedte:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1000"/>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1027"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="997"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1024"/>
         <source>Level:</source>
         <translation>Niveau:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1020"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1017"/>
         <source>Apply chorus (if supported)</source>
         <translation>Chorus toepassen (indien ondersteund)</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1023"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1020"/>
         <source>Voices:</source>
         <translation>Stemmen:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1031"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1028"/>
         <source>Speed:</source>
         <translation>Snelheid:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1035"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1032"/>
         <source>Depth:</source>
         <translation>Diepte:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1145"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1142"/>
         <source>SoundFont Files (*.sf2 *.sf3)</source>
         <translation>SoundFont-bestanden (*.sf2 *.sf3)</translation>
     </message>

@@ -5689,19 +5689,24 @@ Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun v
         <translation>&amp;Kullanılmayan kanalları kaldırın</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="255"/>
-        <source>Set channel color</source>
-        <translation>Kanal rengini ayarla</translation>
-    </message>
-    <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="256"/>
-        <source>Remove channel color</source>
-        <translation>Kanal rengini kaldır</translation>
+        <source>Color</source>
+        <translation>Renk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="257"/>
-        <source>Pick random channel color</source>
-        <translation>Rastgele kanal rengi seçin</translation>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="258"/>
+        <source>Change</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="259"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="260"/>
+        <source>Pick random</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5871,7 +5876,7 @@ Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun v
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="148"/>
         <source>Preparing microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Mikro ayarlayıcı hazırlanıyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="152"/>
@@ -6703,27 +6708,27 @@ Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun v
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="57"/>
         <source>MICROTUNER</source>
-        <translation type="unfinished"/>
+        <translation>MIKRO AYARLAYICI</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="64"/>
         <source>Active scale:</source>
-        <translation type="unfinished"/>
+        <translation>Etkin ölçek:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="71"/>
         <source>Active keymap:</source>
-        <translation type="unfinished"/>
+        <translation>Etkin tuş haritası:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="78"/>
         <source>Import note ranges from keymap</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritasından not aralıklarını içe aktar</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="80"/>
         <source>When enabled, the first, last and base notes of this instrument will be overwritten with values specified by the selected keymap.</source>
-        <translation type="unfinished"/>
+        <translation>Etkinleştirildiğinde, bu enstrümanın ilk, son ve temel notalarının üzerine seçilen tuş haritası tarafından belirtilen değerler yazılacaktır.</translation>
     </message>
 </context>
 <context>
@@ -7249,7 +7254,7 @@ Telif Hakkı (C) 2017 ROLI Ltd.</translation>
     <message>
         <location filename="../../src/core/Keymap.cpp" line="31"/>
         <source>empty</source>
-        <translation type="unfinished"/>
+        <translation>boş</translation>
     </message>
 </context>
 <context>
@@ -7544,7 +7549,7 @@ Bir dosya seçmek için çift tıklayın.</translation>
     <message>
         <location filename="../../src/core/Engine.cpp" line="85"/>
         <source>Launching audio engine threads</source>
-        <translation type="unfinished"/>
+        <translation>Ses motoru dizileri başlatılıyor</translation>
     </message>
 </context>
 <context>
@@ -7846,7 +7851,7 @@ Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun v
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="552"/>
         <source>Microtuner configuration</source>
-        <translation type="unfinished"/>
+        <translation>Mikro ayarlayıcı yapılandırması</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="656"/>
@@ -7948,7 +7953,7 @@ LMMS ile ilgili belgeler için lütfen http://lmms.sf.net/wiki adresini ziyaret 
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1168"/>
         <source>Microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Mikro ayarlayıcı</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1175"/>
@@ -8086,22 +8091,22 @@ LMMS ile ilgili belgeler için lütfen http://lmms.sf.net/wiki adresini ziyaret 
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="38"/>
         <source>Microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Mikro ayarlayıcı</translation>
     </message>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="39"/>
         <source>Microtuner on / off</source>
-        <translation type="unfinished"/>
+        <translation>Mikro ayarlayıcı açık / kapalı</translation>
     </message>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="40"/>
         <source>Selected scale</source>
-        <translation type="unfinished"/>
+        <translation>Seçili ölçek</translation>
     </message>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="41"/>
         <source>Selected keyboard mapping</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen klavye eşlemesi</translation>
     </message>
 </context>
 <context>
@@ -8109,92 +8114,94 @@ LMMS ile ilgili belgeler için lütfen http://lmms.sf.net/wiki adresini ziyaret 
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="50"/>
         <source>Selected scale</source>
-        <translation type="unfinished"/>
+        <translation>Seçili ölçek</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="51"/>
         <source>Selected keymap</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen tuş haritası</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="52"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="135"/>
         <source>First key</source>
-        <translation type="unfinished"/>
+        <translation>İlk tuş</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="53"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="141"/>
         <source>Last key</source>
-        <translation type="unfinished"/>
+        <translation>Son tuş</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="54"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="147"/>
         <source>Middle key</source>
-        <translation type="unfinished"/>
+        <translation>Orta tuş</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="55"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="153"/>
         <source>Base key</source>
-        <translation type="unfinished"/>
+        <translation>Temel tuş</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="56"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="159"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="162"/>
         <source>Base note frequency</source>
-        <translation type="unfinished"/>
+        <translation>Temel nota frekansı</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="59"/>
         <source>Microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Mikro ayarlayıcı</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="68"/>
         <source>Scale:</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="81"/>
         <source>Scale description. Cannot start with &quot;!&quot; and cannot contain a newline character.</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek açıklaması. &quot;!&quot; İle başlayamaz ve yeni satır karakteri içeremez.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="84"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="119"/>
         <source>Load</source>
-        <translation type="unfinished"/>
+        <translation>Yükle</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="85"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="120"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="93"/>
         <source>Enter intervals on separate lines. Numbers containing a decimal point are treated as cents.
 Other inputs are treated as integer ratios and must be in the form of 'a/b' or 'a'.
 Unity (0.0 cents or ratio 1/1) is always present as a hidden first value; do not enter it manually.</source>
-        <translation type="unfinished"/>
+        <translation>Aralıkları ayrı satırlara girin. Ondalık nokta içeren sayılar sent olarak kabul edilir.
+Diğer girdiler tamsayı oranları olarak değerlendirilir ve &apos;a/b&apos; veya &apos;a&apos; biçiminde olmalıdır.
+Birlik (0.0 sent veya oran 1/1) her zaman gizli bir ilk değer olarak bulunur; manuel olarak girmeyin.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="96"/>
         <source>Apply scale</source>
-        <translation type="unfinished"/>
+        <translation>Ölçeği uygula</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="103"/>
         <source>Keymap:</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="116"/>
         <source>Keymap description. Cannot start with &quot;!&quot; and cannot contain a newline character.</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası açıklaması. &quot;!&quot; İle başlayamaz ve yeni satır karakteri içeremez.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="128"/>
@@ -8203,191 +8210,195 @@ starting with the middle key and continuing in sequence.
 The pattern repeats for keys outside of the explicit keymap range.
 Multiple keys can be mapped to the same scale degree.
 Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar eşlemelerini ayrı satırlara girin. Her satır bir MIDI anahtarına bir ölçek derecesi atar,
+orta tuşla başlayıp sırayla devam eder.
+Kalıp, açık anahtar eşleme aralığının dışındaki anahtarlar için tekrarlanır.
+Birden fazla anahtar aynı ölçek derecesine eşlenebilir.
+Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız &apos;x&apos; girin.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="136"/>
         <source>FIRST</source>
-        <translation type="unfinished"/>
+        <translation>İLK</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="137"/>
         <source>First MIDI key that will be mapped</source>
-        <translation type="unfinished"/>
+        <translation>Eşlenecek ilk MIDI anahtarı</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="142"/>
         <source>LAST</source>
-        <translation type="unfinished"/>
+        <translation>SON</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="143"/>
         <source>Last MIDI key that will be mapped</source>
-        <translation type="unfinished"/>
+        <translation>Eşlenecek son MIDI anahtarı</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="148"/>
         <source>MIDDLE</source>
-        <translation type="unfinished"/>
+        <translation>ORTA</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="149"/>
         <source>First line in the keymap refers to this MIDI key</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritasındaki ilk satır bu MIDI anahtarına atıfta bulunur</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="154"/>
         <source>BASE N.</source>
-        <translation type="unfinished"/>
+        <translation>TEMEL N.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="155"/>
         <source>Base note frequency will be assigned to this MIDI key</source>
-        <translation type="unfinished"/>
+        <translation>Temel nota frekansı bu MIDI anahtarına atanacaktır</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="160"/>
         <source>BASE NOTE FREQ</source>
-        <translation type="unfinished"/>
+        <translation>TEMEL NOTA FREKANS</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="165"/>
         <source>Apply keymap</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritasını uygula</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="303"/>
         <source>Scale parsing error</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek ayrıştırma hatası</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="307"/>
         <source>Scale name cannot start with an exclamation mark</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek adı bir ünlem işaretiyle başlayamaz</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="308"/>
         <source>Scale name cannot contain a new-line character</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek adı yeni satır karakteri içeremez</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="321"/>
         <source>Interval defined in cents cannot be converted to a number</source>
-        <translation type="unfinished"/>
+        <translation>Sent olarak tanımlanan aralık bir sayıya dönüştürülemez</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="328"/>
         <source>Numerator of an interval defined as a ratio cannot be converted to a number</source>
-        <translation type="unfinished"/>
+        <translation>Oran olarak tanımlanan bir aralığın payı sayıya dönüştürülemez</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="333"/>
         <source>Denominator of an interval defined as a ratio cannot be converted to a number</source>
-        <translation type="unfinished"/>
+        <translation>Oran olarak tanımlanan bir aralığın paydası sayıya dönüştürülemez</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="334"/>
         <source>Interval defined as a ratio cannot be negative</source>
-        <translation type="unfinished"/>
+        <translation>Oran olarak tanımlanan aralık negatif olamaz</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="347"/>
         <source>Keymap parsing error</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası ayrıştırma hatası</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="351"/>
         <source>Keymap name cannot start with an exclamation mark</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası adı ünlem işaretiyle başlayamaz</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="352"/>
         <source>Keymap name cannot contain a new-line character</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası adı yeni satır karakteri içeremez</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="366"/>
         <source>Scale degree cannot be converted to a whole number</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek derecesi tam sayıya dönüştürülemez</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="367"/>
         <source>Scale degree cannot be negative</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek derecesi negatif olamaz</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="456"/>
         <source>Invalid keymap</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz tuş haritası</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="456"/>
         <source>Base key is not mapped to any scale degree. No sound will be produced as there is no way to assign reference frequency to any note.</source>
-        <translation type="unfinished"/>
+        <translation>Temel anahtar herhangi bir ölçek derecesine eşlenmez. Herhangi bir nota referans frekansı atamanın bir yolu olmadığından ses üretilmeyecektir.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="468"/>
         <source>Open scale</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek açın</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="468"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="552"/>
         <source>Scala scale definition (*.scl)</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek ölçeği tanımı (*.scl)</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="473"/>
         <source>Scale load failure</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek yükleme hatası</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="473"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="508"/>
         <source>Unable to open selected file.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili dosya açılamıyor.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="503"/>
         <source>Open keymap</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritasını aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="503"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="588"/>
         <source>Scala keymap definition (*.kbm)</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası ölçek tanımı (*.kbm)</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="508"/>
         <source>Keymap load failure</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası yükleme hatası</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="552"/>
         <source>Save scale</source>
-        <translation type="unfinished"/>
+        <translation>Ölçeği kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="558"/>
         <source>Scale save failure</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek kaydetme hatası</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="558"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="594"/>
         <source>Unable to open selected file for writing.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili dosya yazmak için açılamıyor.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="588"/>
         <source>Save keymap</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritasını kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="594"/>
         <source>Keymap save failure</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası kaydetme hatası</translation>
     </message>
 </context>
 <context>
@@ -12498,7 +12509,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="231"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="239"/>
         <source>Draw at most</source>
-        <translation>En fazla çekiliş</translation>
+        <translation>En fazla çizim</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="231"/>
@@ -12598,7 +12609,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="281"/>
         <source>Each sample processed</source>
-        <translation>Her numune işlendi</translation>
+        <translation>İşlenen her numune</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="281"/>
@@ -12724,64 +12735,9 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
         <translation>Örneği açmak için çift tıklayın</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="84"/>
-        <source>Delete (middle mousebutton)</source>
-        <translation>Sil (orta klik)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="85"/>
-        <source>Delete selection (middle mousebutton)</source>
-        <translation>Seçimi sil (orta fare düğmesi)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="93"/>
-        <source>Cut</source>
-        <translation>Kes</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="94"/>
-        <source>Cut selection</source>
-        <translation>Seçimi Kes</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="101"/>
-        <source>Copy</source>
-        <translation>Kopyala</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="102"/>
-        <source>Copy selection</source>
-        <translation>Seçimi Kopyala</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="107"/>
-        <source>Paste</source>
-        <translation>Yapıştır</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="115"/>
-        <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation>Sesi kapat/sesi aç (&lt;%1&gt; + orta tıklama)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="116"/>
-        <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
-        <translation>Seçimin sesini kapat/aç (&lt;%1&gt; + orta tıklama)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="125"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="77"/>
         <source>Reverse sample</source>
         <translation>Örneği ters çevir</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="133"/>
-        <source>Set clip color</source>
-        <translation>Klip rengini ayarla</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="135"/>
-        <source>Use track color</source>
-        <translation>Parça rengini kullan</translation>
     </message>
 </context>
 <context>
@@ -12912,7 +12868,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/Scale.cpp" line="72"/>
         <source>empty</source>
-        <translation type="unfinished"/>
+        <translation>boş</translation>
     </message>
 </context>
 <context>
@@ -14037,95 +13993,105 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="647"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="700"/>
         <source>Current position</source>
         <translation>Şu anki pozisyon</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="655"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="708"/>
         <source>Current length</source>
         <translation>Mevcut uzunluk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="656"/>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="908"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="709"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="961"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 to %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="675"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="728"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>Bir kopya oluşturmak için &lt;%1&gt; tuşuna basın ve sürükleyin.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="676"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="729"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>Serbest yeniden boyutlandırma için &lt;%1&gt; seçeneğine basın.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="677"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="730"/>
         <source>Hint</source>
         <translation>İpucu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1007"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1060"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Sil (orta klik)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1008"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1061"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation>Seçimi sil (orta fare düğmesi)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1016"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1069"/>
         <source>Cut</source>
         <translation>Kes</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1017"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1070"/>
         <source>Cut selection</source>
         <translation>Seçimi Kes</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1024"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1077"/>
         <source>Merge Selection</source>
         <translation>Seçimi Birleştir</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1033"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1086"/>
         <source>Copy</source>
         <translation>Kopyala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1034"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1087"/>
         <source>Copy selection</source>
         <translation>Seçimi Kopyala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1039"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1092"/>
         <source>Paste</source>
         <translation>Yapıştır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1047"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1100"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Sesi kapat/sesi aç (&lt;%1&gt; + orta tıklama)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1048"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1101"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation>Seçimin sesini kapat/aç (&lt;%1&gt; + orta tıklama)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1054"/>
-        <source>Set clip color</source>
-        <translation>Klip rengini ayarla</translation>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1106"/>
+        <source>Clip color</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1056"/>
-        <source>Use track color</source>
-        <translation>Parça rengini kullan</translation>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1108"/>
+        <source>Change</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1109"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1110"/>
+        <source>Pick random</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14161,74 +14127,79 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
         <translation>Tek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="197"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="198"/>
         <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
         <translation>Bir parça kaldırıldıktan sonra kurtarılamaz. &quot;%1&quot; parçasını kaldırmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="200"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="201"/>
         <source>Confirm removal</source>
         <translation>Kaldırma işlemini onayla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="201"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="202"/>
         <source>Don&apos;t ask again</source>
         <translation>Bir daha sorma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="321"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="330"/>
         <source>Clone this track</source>
         <translation>Bu parçayı çoğalt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="324"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="333"/>
         <source>Remove this track</source>
         <translation>Bu parçayı sil</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="329"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
         <source>Clear this track</source>
         <translation>Bu parçayı temizle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
         <source>Assign to new FX Channel</source>
         <translation>Yeni FX Kanalına atayın</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="343"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="352"/>
         <source>Turn all recording on</source>
         <translation>Tüm kaydı aç</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="344"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
         <source>Turn all recording off</source>
         <translation>Tüm kayıtları kapat</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="349"/>
-        <source>Change color</source>
-        <translation>Rengini değiştir</translation>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="358"/>
+        <source>Track color</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="351"/>
-        <source>Reset color to default</source>
-        <translation>Rengini varsayılana sıfırla</translation>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="360"/>
+        <source>Change</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
-        <source>Set random color</source>
-        <translation>Rastgele renk ayarla</translation>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="361"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="356"/>
-        <source>Clear clip colors</source>
-        <translation>Klip renklerini temizle</translation>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="362"/>
+        <source>Pick random</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="364"/>
+        <source>Reset clip colors</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16506,72 +16477,72 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
 <context>
     <name>sf2Instrument</name>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="100"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="101"/>
         <source>Bank</source>
         <translation>Yuva</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="101"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="102"/>
         <source>Patch</source>
         <translation>Yama</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="102"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="103"/>
         <source>Gain</source>
         <translation>Kazanç</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="103"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="104"/>
         <source>Reverb</source>
         <translation>Yankı</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="104"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="105"/>
         <source>Reverb room size</source>
         <translation>Yankı odası boyutu</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="105"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="106"/>
         <source>Reverb damping</source>
         <translation>Yankı sönümleme</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="106"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="107"/>
         <source>Reverb width</source>
         <translation>Yankı genişliği</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="107"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="108"/>
         <source>Reverb level</source>
         <translation>Yankı seviyesi</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="108"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="109"/>
         <source>Chorus</source>
         <translation>Koro</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="109"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="110"/>
         <source>Chorus voices</source>
         <translation>Koro sesleri</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="110"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="111"/>
         <source>Chorus level</source>
         <translation>Koro seviyesi</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="111"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="112"/>
         <source>Chorus speed</source>
         <translation>Koro hızı</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="112"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="113"/>
         <source>Chorus depth</source>
         <translation>Koro derinliği</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="417"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="409"/>
         <source>A soundfont %1 could not be loaded.</source>
         <translation>%1 ses yazı tipi yüklenemedi.</translation>
     </message>
@@ -16579,69 +16550,69 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
 <context>
     <name>sf2InstrumentView</name>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="924"/>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1141"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="921"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1138"/>
         <source>Open SoundFont file</source>
         <translation>Ses Yazı Tipi dosyasını aç</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="936"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="933"/>
         <source>Choose patch</source>
         <translation>Yama seçin</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="971"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="968"/>
         <source>Gain:</source>
         <translation>Kazanç:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="984"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="981"/>
         <source>Apply reverb (if supported)</source>
         <translation>Yankı uygula (destekleniyorsa)</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="988"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="985"/>
         <source>Room size:</source>
         <translation>Oda boyutu:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="992"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="989"/>
         <source>Damping:</source>
         <translation>Sönümleme:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="996"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="993"/>
         <source>Width:</source>
         <translation>En:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1000"/>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1027"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="997"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1024"/>
         <source>Level:</source>
         <translation>Düzey:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1020"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1017"/>
         <source>Apply chorus (if supported)</source>
         <translation>Koro uygula (destekleniyorsa)</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1023"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1020"/>
         <source>Voices:</source>
         <translation>Sesler:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1031"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1028"/>
         <source>Speed:</source>
         <translation>Hız:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1035"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1032"/>
         <source>Depth:</source>
         <translation>Derinlik:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1145"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1142"/>
         <source>SoundFont Files (*.sf2 *.sf3)</source>
         <translation>Ses Yazı Tipi Dosyaları (*.sf2 *.sf3)</translation>
     </message>

@@ -5409,19 +5409,24 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
         <translation>&amp;Nem használt csatornák eltávolítása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="255"/>
-        <source>Set channel color</source>
-        <translation>Szín módosítása</translation>
-    </message>
-    <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="256"/>
-        <source>Remove channel color</source>
-        <translation>Szín eltávolítása</translation>
+        <source>Color</source>
+        <translation>Csillapítás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="257"/>
-        <source>Pick random channel color</source>
-        <translation>Véletlenszerű szín</translation>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="258"/>
+        <source>Change</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="259"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/FxLine.cpp" line="260"/>
+        <source>Pick random</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12435,64 +12440,9 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <translation>Kattintson duplán hangfájl betöltéséhez</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="84"/>
-        <source>Delete (middle mousebutton)</source>
-        <translation>Törlés (középső egérgomb)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="85"/>
-        <source>Delete selection (middle mousebutton)</source>
-        <translation>Kijelöltek törlése (középső egérgomb)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="93"/>
-        <source>Cut</source>
-        <translation>Kivágás</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="94"/>
-        <source>Cut selection</source>
-        <translation>Kijelölés kivágása</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="101"/>
-        <source>Copy</source>
-        <translation>Másolás</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="102"/>
-        <source>Copy selection</source>
-        <translation>Kijelölés másolása</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="107"/>
-        <source>Paste</source>
-        <translation>Beillesztés</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="115"/>
-        <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation>Némítás (&lt;%1&gt; + középső egérgomb)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="116"/>
-        <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
-        <translation>Kijelölés némítása (&lt;%1&gt; + középső egérgomb)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="125"/>
+        <location filename="../../src/gui/SampleTCOView.cpp" line="77"/>
         <source>Reverse sample</source>
         <translation>Minta megfordítása</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="133"/>
-        <source>Set clip color</source>
-        <translation>Szín módosítása</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="135"/>
-        <source>Use track color</source>
-        <translation>Sáv színének használata</translation>
     </message>
 </context>
 <context>
@@ -13745,95 +13695,105 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="647"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="700"/>
         <source>Current position</source>
         <translation>Jelenlegi pozíció</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="655"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="708"/>
         <source>Current length</source>
         <translation>Jelenlegi hossz</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="656"/>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="908"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="709"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="961"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 - %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="675"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="728"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="676"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="729"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="677"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="730"/>
         <source>Hint</source>
         <translation>Tipp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1007"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1060"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Törlés (középső egérgomb)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1008"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1061"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation>Kijelöltek törlése (középső egérgomb)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1016"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1069"/>
         <source>Cut</source>
         <translation>Kivágás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1017"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1070"/>
         <source>Cut selection</source>
         <translation>Kijelöltek kivágása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1024"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1077"/>
         <source>Merge Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1033"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1086"/>
         <source>Copy</source>
         <translation>Másolás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1034"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1087"/>
         <source>Copy selection</source>
         <translation>Kijelölés másolása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1039"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1092"/>
         <source>Paste</source>
         <translation>Beillesztés</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1047"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1100"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Némítás (&lt;%1&gt; + középső egérgomb)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1048"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1101"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation>Kijelölés némítása (&lt;%1&gt; + középső egérgomb)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1054"/>
-        <source>Set clip color</source>
-        <translation>Szín módosítása</translation>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1106"/>
+        <source>Clip color</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1056"/>
-        <source>Use track color</source>
-        <translation>Sáv színének használata</translation>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1108"/>
+        <source>Change</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1109"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1110"/>
+        <source>Pick random</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13869,74 +13829,79 @@ Please make sure you have read-permission to the file and the directory containi
         <translation>Szóló</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="197"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="198"/>
         <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
         <translation>Egy sáv törlése nem visszavonható. Biztosan törlöd a(z) &quot;%1&quot; sávot?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="200"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="201"/>
         <source>Confirm removal</source>
         <translation>Törlés megerősítése</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="201"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="202"/>
         <source>Don&apos;t ask again</source>
         <translation>Ne kérdezd újra</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="321"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="330"/>
         <source>Clone this track</source>
         <translation>Sáv klónozása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="324"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="333"/>
         <source>Remove this track</source>
         <translation>Sáv eltávolítása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="329"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="338"/>
         <source>Clear this track</source>
         <translation>Sáv tartalmának törlése</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="331"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
         <source>Assign to new FX Channel</source>
         <translation>Hozzárendelés új csatornához</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="343"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="352"/>
         <source>Turn all recording on</source>
         <translation>Minden felvétel bekapcsolása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="344"/>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
         <source>Turn all recording off</source>
         <translation>Minden felvétel kikapcsolása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="349"/>
-        <source>Change color</source>
-        <translation>Szín módosítása</translation>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="358"/>
+        <source>Track color</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="351"/>
-        <source>Reset color to default</source>
-        <translation>Szín visszaállítása</translation>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="360"/>
+        <source>Change</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
-        <source>Set random color</source>
-        <translation>Véletlenszerű szín</translation>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="361"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="356"/>
-        <source>Clear clip colors</source>
-        <translation>Klip színek törlése</translation>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="362"/>
+        <source>Pick random</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="364"/>
+        <source>Reset clip colors</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16214,72 +16179,72 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>sf2Instrument</name>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="100"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="101"/>
         <source>Bank</source>
         <translation>Bank</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="101"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="102"/>
         <source>Patch</source>
         <translation>Patch</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="102"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="103"/>
         <source>Gain</source>
         <translation>Erősítés</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="103"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="104"/>
         <source>Reverb</source>
         <translation>Zengető</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="104"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="105"/>
         <source>Reverb room size</source>
         <translation>Terem méret</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="105"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="106"/>
         <source>Reverb damping</source>
         <translation>Csillapítás</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="106"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="107"/>
         <source>Reverb width</source>
         <translation>Szélesség</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="107"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="108"/>
         <source>Reverb level</source>
         <translation>Zengető mennyiség</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="108"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="109"/>
         <source>Chorus</source>
         <translation>Kórus</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="109"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="110"/>
         <source>Chorus voices</source>
         <translation>Szólamok száma</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="110"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="111"/>
         <source>Chorus level</source>
         <translation>Kórus mennyiség</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="111"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="112"/>
         <source>Chorus speed</source>
         <translation>Kórus frekvencia</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="112"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="113"/>
         <source>Chorus depth</source>
         <translation>Kórus mélység</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="417"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="409"/>
         <source>A soundfont %1 could not be loaded.</source>
         <translation>A(z) %1 SoundFont nem tölthető be.</translation>
     </message>
@@ -16287,69 +16252,69 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>sf2InstrumentView</name>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="924"/>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1141"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="921"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1138"/>
         <source>Open SoundFont file</source>
         <translation>SoundFont fájl megnyitása</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="936"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="933"/>
         <source>Choose patch</source>
         <translation>Patch kiválasztása</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="971"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="968"/>
         <source>Gain:</source>
         <translation>Erősítés:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="984"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="981"/>
         <source>Apply reverb (if supported)</source>
         <translation>Zengető alkalmazása (ha támogatott)</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="988"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="985"/>
         <source>Room size:</source>
         <translation>Terem méret:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="992"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="989"/>
         <source>Damping:</source>
         <translation>Csillapítás:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="996"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="993"/>
         <source>Width:</source>
         <translation>Szélesség:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1000"/>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1027"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="997"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1024"/>
         <source>Level:</source>
         <translation>Mennyiség:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1020"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1017"/>
         <source>Apply chorus (if supported)</source>
         <translation>Kórus alkalmazása (ha támogatott)</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1023"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1020"/>
         <source>Voices:</source>
         <translation>Szólamok:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1031"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1028"/>
         <source>Speed:</source>
         <translation>Sebesség:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1035"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1032"/>
         <source>Depth:</source>
         <translation>Mélység:</translation>
     </message>
     <message>
-        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1145"/>
+        <location filename="../../plugins/sf2_player/sf2_player.cpp" line="1142"/>
         <source>SoundFont Files (*.sf2 *.sf3)</source>
         <translation>SoundFont fájlok (*.sf2 *.sf3)</translation>
     </message>
