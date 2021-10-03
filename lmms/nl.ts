@@ -245,12 +245,12 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
 <context>
     <name>AudioOss</name>
     <message>
-        <location filename="../../src/core/audio/AudioOss.cpp" line="325"/>
+        <location filename="../../src/core/audio/AudioOss.cpp" line="324"/>
         <source>Device</source>
         <translation>Apparaat</translation>
     </message>
     <message>
-        <location filename="../../src/core/audio/AudioOss.cpp" line="337"/>
+        <location filename="../../src/core/audio/AudioOss.cpp" line="336"/>
         <source>Channels</source>
         <translation>Kanalen</translation>
     </message>
@@ -527,52 +527,52 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
 <context>
     <name>AutomationPatternView</name>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="173"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="174"/>
         <source>Open in Automation editor</source>
         <translation>Openen in automatisering-editor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="181"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="182"/>
         <source>Clear</source>
         <translation>Wissen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="184"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="185"/>
         <source>Reset name</source>
         <translation>Naam herstellen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="187"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="188"/>
         <source>Change name</source>
         <translation>Naam wijzigen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="190"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="191"/>
         <source>Set/clear record</source>
         <translation>Opnemen instellen/wissen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="193"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="194"/>
         <source>Flip Vertically (Visible)</source>
         <translation>Verticaal omdraaien (zichtbaar)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="196"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="197"/>
         <source>Flip Horizontally (Visible)</source>
         <translation>Horizontaal omdraaien (zichtbaar)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="201"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="202"/>
         <source>%1 Connections</source>
         <translation>%1 verbindingen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="209"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="210"/>
         <source>Disconnect &quot;%1&quot;</source>
         <translation>Verbinding verbreken met &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="448"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="449"/>
         <source>Model is already connected to this pattern.</source>
         <translation>Model is reeds verbonden met dit patroon.</translation>
     </message>
@@ -4857,27 +4857,27 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
 <context>
     <name>FileBrowser</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="83"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="84"/>
         <source>User content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="85"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="86"/>
         <source>Factory content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="105"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="106"/>
         <source>Browser</source>
         <translation>Verkenner</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="120"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="121"/>
         <source>Search</source>
         <translation>Zoeken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="128"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="129"/>
         <source>Refresh list</source>
         <translation>Lijst verversen</translation>
     </message>
@@ -4885,67 +4885,67 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
 <context>
     <name>FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="506"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="507"/>
         <source>Send to active instrument-track</source>
         <translation>Naar actieve instrument-track zenden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="514"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="515"/>
         <source>Open containing folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="518"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="519"/>
         <source>Song Editor</source>
         <translation>Song-editor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="523"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="524"/>
         <source>BB Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="542"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="543"/>
         <source>Send to new AudioFileProcessor instance</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="543"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="544"/>
         <source>Send to new instrument track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="547"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="548"/>
         <source> (%2Enter)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="557"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="558"/>
         <source>Send to new sample track (Shift + Enter)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="616"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="617"/>
         <source>Loading sample</source>
         <translation>Sample laden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="617"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="618"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>Even geduld, sample laden voor voorbeeld...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="644"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="645"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="645"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="646"/>
         <source>%1 does not appear to be a valid %2 file</source>
         <translation>%1 lijkt geen geldig %2-bestand te zijn</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="1006"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="1007"/>
         <source>--- Factory files ---</source>
         <translation>--- Factory-bestanden ---</translation>
     </message>
@@ -5555,57 +5555,57 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
 <context>
     <name>GuiApplication</name>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="67"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="71"/>
         <source>Working directory</source>
         <translation>Werkmap</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="68"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="72"/>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
         <translation>De LMMS-werkmap %1 bestaat niet. Nu aanmaken? U kunt de map later wijzigen via Bewerken -&gt; Instellingen.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="125"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="129"/>
         <source>Preparing UI</source>
         <translation>UI voorbereiden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="132"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="136"/>
         <source>Preparing song editor</source>
         <translation>Song-editor voorbereiden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="136"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="140"/>
         <source>Preparing mixer</source>
         <translation>Mixer voorbereiden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="140"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="144"/>
         <source>Preparing controller rack</source>
         <translation>Controller-rack voorbereiden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="144"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="148"/>
         <source>Preparing project notes</source>
         <translation>Projectnotities voorbereiden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="148"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="152"/>
         <source>Preparing microtuner</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="152"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="156"/>
         <source>Preparing beat/bassline editor</source>
         <translation>Beat- en baslijn-editor voorbereiden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="156"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="160"/>
         <source>Preparing piano roll</source>
         <translation>Piano-roll voorbereiden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="160"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="164"/>
         <source>Preparing automation editor</source>
         <translation>Automatisering-editor voorbereiden</translation>
     </message>
@@ -6652,68 +6652,68 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
 <context>
     <name>InstrumentTrack</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="92"/>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="104"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="44"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="56"/>
         <source>unnamed_track</source>
         <translation>naamloze_track</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="98"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="50"/>
         <source>Base note</source>
         <translation>Grondtoon</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="99"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="51"/>
         <source>First note</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="100"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="52"/>
         <source>Last note</source>
         <translation>Laatste noot</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="102"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="54"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="103"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="55"/>
         <source>Panning</source>
         <translation>Balans</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="105"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="57"/>
         <source>Pitch</source>
         <translation>Toonhoogte</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="106"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="58"/>
         <source>Pitch range</source>
         <translation>Toonhoogte-bereik</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="107"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="59"/>
         <source>FX channel</source>
         <translation>FX-kanaal</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="108"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="60"/>
         <source>Master pitch</source>
         <translation>Master-toonhoogte</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="133"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="85"/>
         <source>Enable/Disable MIDI CC</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="140"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="92"/>
         <source>CC Controller %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="146"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="98"/>
         <location filename="../../plugins/vestige/vestige.cpp" line="335"/>
         <source>Default preset</source>
         <translation>Standaard preset</translation>
@@ -6722,57 +6722,57 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
 <context>
     <name>InstrumentTrackView</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1154"/>
+        <location filename="../../src/gui/InstrumentTrackView.cpp" line="87"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1157"/>
+        <location filename="../../src/gui/InstrumentTrackView.cpp" line="90"/>
         <source>Volume:</source>
         <translation>Volume:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1159"/>
+        <location filename="../../src/gui/InstrumentTrackView.cpp" line="92"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1163"/>
+        <location filename="../../src/gui/InstrumentTrackView.cpp" line="96"/>
         <source>Panning</source>
         <translation>Balans</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1165"/>
+        <location filename="../../src/gui/InstrumentTrackView.cpp" line="98"/>
         <source>Panning:</source>
         <translation>Balans:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1167"/>
+        <location filename="../../src/gui/InstrumentTrackView.cpp" line="100"/>
         <source>PAN</source>
         <translation>BAL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1170"/>
+        <location filename="../../src/gui/InstrumentTrackView.cpp" line="103"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1202"/>
+        <location filename="../../src/gui/InstrumentTrackView.cpp" line="135"/>
         <source>Input</source>
         <translation>Invoer</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1203"/>
+        <location filename="../../src/gui/InstrumentTrackView.cpp" line="136"/>
         <source>Output</source>
         <translation>Uitvoer</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1205"/>
+        <location filename="../../src/gui/InstrumentTrackView.cpp" line="138"/>
         <source>Open/Close MIDI CC Rack</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1444"/>
+        <location filename="../../src/gui/InstrumentTrackView.cpp" line="377"/>
         <source>FX %1: %2</source>
         <translation>FX %1: %2</translation>
     </message>
@@ -6780,127 +6780,127 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
 <context>
     <name>InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1473"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="90"/>
         <source>GENERAL SETTINGS</source>
         <translation>ALGEMENE INSTELLINGEN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1519"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="136"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1521"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="138"/>
         <source>Volume:</source>
         <translation>Volume:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1526"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="143"/>
         <source>VOL</source>
         <translation>VOL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1533"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="150"/>
         <source>Panning</source>
         <translation>Balans</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1534"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="151"/>
         <source>Panning:</source>
         <translation>Balans:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1539"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="156"/>
         <source>PAN</source>
         <translation>BAL</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1549"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="166"/>
         <source>Pitch</source>
         <translation>Toonhoogte</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1550"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="167"/>
         <source>Pitch:</source>
         <translation>Toonhoogte:</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1550"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="167"/>
         <source>cents</source>
         <translation>cents</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1555"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="172"/>
         <source>PITCH</source>
         <translation>TOONHOOGTE</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1562"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="179"/>
         <source>Pitch range (semitones)</source>
         <translation>Toonhoogte-bereik (semitones)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1567"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="184"/>
         <source>RANGE</source>
         <translation>BEREIK</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1577"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="194"/>
         <source>FX channel</source>
         <translation>FX-kanaal</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1582"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="199"/>
         <source>FX</source>
         <translation>FX</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1592"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="209"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>Huidige instrument-track-instellingen opslaan in een presetbestand</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1596"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="213"/>
         <source>SAVE</source>
         <translation>OPSLAAN</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1635"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="252"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation>Envelope, filter en LFO</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1636"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="253"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation>Akkoorden opeenstapelen &amp; arpeggio</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1637"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="254"/>
         <source>Effects</source>
         <translation>Effecten</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1638"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="255"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1639"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="256"/>
         <source>Miscellaneous</source>
         <translation>Overige</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1773"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="390"/>
         <source>Save preset</source>
         <translation>Preset opslaan</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1773"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="390"/>
         <source>XML preset file (*.xpf)</source>
         <translation>XML-presetbestand (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="1828"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="445"/>
         <source>Plugin</source>
         <translation>Plug-in</translation>
     </message>
@@ -7318,436 +7318,436 @@ Zorg ervoor dat u schrijfbevoegdheid heeft voor het bestand en voor de map die h
         <translation>Start een standaard sessie en verwijder de herstelde bestanden. Dit is onomkeerbaar.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="105"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="109"/>
         <source>Version %1</source>
         <translation>Versie %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="126"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="128"/>
         <source>Preparing plugin browser</source>
         <translation>Plugin-browser voorbereiden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="128"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="130"/>
         <source>Preparing file browsers</source>
         <translation>Bestandsbrowsers voorbereiden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="133"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="135"/>
         <source>My Projects</source>
         <translation>Mijn projecten</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="141"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="143"/>
         <source>My Samples</source>
         <translation>Mijn samples</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="150"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="152"/>
         <source>My Presets</source>
         <translation>Mijn presets</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="156"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="158"/>
         <source>My Home</source>
         <translation>Mijn home</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="162"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="164"/>
         <source>Root directory</source>
         <translation>Root-map</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="166"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="168"/>
         <source>Volumes</source>
         <translation>Volumes</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="169"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="171"/>
         <source>My Computer</source>
         <translation>Mijn computer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="294"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="296"/>
         <source>&amp;File</source>
         <translation>&amp;Bestand</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="296"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="298"/>
         <source>&amp;New</source>
         <translation>&amp;Nieuw</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="304"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="306"/>
         <source>&amp;Open...</source>
         <translation>&amp;Openen...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="188"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="190"/>
         <source>Loading background picture</source>
         <translation>Achtergrondafbeelding laden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="311"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="313"/>
         <source>&amp;Save</source>
         <translation>Op&amp;slaan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="315"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="317"/>
         <source>Save &amp;As...</source>
         <translation>Opslaan &amp;als...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="319"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="321"/>
         <source>Save as New &amp;Version</source>
         <translation>Opslaan als nieuwe &amp;versie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="324"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="326"/>
         <source>Save as default template</source>
         <translation>Opslaan als standaard-sjabloon</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="329"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="331"/>
         <source>Import...</source>
         <translation>Importeren...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="333"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="335"/>
         <source>E&amp;xport...</source>
         <translation>E&amp;xporteren...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="338"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="340"/>
         <source>E&amp;xport Tracks...</source>
         <translation>Tracks e&amp;xporteren...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="344"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="346"/>
         <source>Export &amp;MIDI...</source>
         <translation>Exporteer &amp;MIDI...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="353"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="355"/>
         <source>&amp;Quit</source>
         <translation>&amp;Afsluiten</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="359"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="361"/>
         <source>&amp;Edit</source>
         <translation>&amp;Bewerken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="361"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="363"/>
         <source>Undo</source>
         <translation>Ongedaan maken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="365"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="367"/>
         <source>Redo</source>
         <translation>Opnieuw</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="380"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="382"/>
         <source>Settings</source>
         <translation>Instellingen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="385"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="387"/>
         <source>&amp;View</source>
         <translation>Weerge&amp;ven</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="401"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="403"/>
         <source>&amp;Tools</source>
         <translation>&amp;Tools</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="409"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="411"/>
         <source>&amp;Help</source>
         <translation>&amp;Help</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="414"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="416"/>
         <source>Online Help</source>
         <translation>Online help</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="420"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="422"/>
         <source>Help</source>
         <translation>Help</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="428"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="430"/>
         <source>About</source>
         <translation>Over</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="434"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="436"/>
         <source>Create new project</source>
         <translation>Nieuw project aanmaken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="440"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="442"/>
         <source>Create new project from template</source>
         <translation>Nieuw project van sjabloon aanmaken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="448"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="450"/>
         <source>Open existing project</source>
         <translation>Bestaand project openen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="455"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="457"/>
         <source>Recently opened projects</source>
         <translation>Recent geopende projecten</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="462"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="464"/>
         <source>Save current project</source>
         <translation>Huidig project opslaan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="469"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="471"/>
         <source>Export current project</source>
         <translation>Huidig project exporteren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="476"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="478"/>
         <source>Metronome</source>
         <translation>Metronoom</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="495"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1139"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="497"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1141"/>
         <source>Song Editor</source>
         <translation>Song-editor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="503"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1143"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="505"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1145"/>
         <source>Beat+Bassline Editor</source>
         <translation>Beat- en baslijn-editor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="512"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1147"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="514"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1149"/>
         <source>Piano Roll</source>
         <translation>Piano-roll</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="520"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1151"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="522"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1153"/>
         <source>Automation Editor</source>
         <translation>Automatisering-editor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="529"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1156"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="531"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1158"/>
         <source>FX Mixer</source>
         <translation>FX-mixer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="536"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="538"/>
         <source>Show/hide controller rack</source>
         <translation>Controller-rack weergeven/verbergen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="544"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="546"/>
         <source>Show/hide project notes</source>
         <translation>Projectnotities weergeven/verbergen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="552"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="554"/>
         <source>Microtuner configuration</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="656"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="658"/>
         <source>Untitled</source>
         <translation>Naamloos</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="671"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="673"/>
         <source>Recover session. Please save your work!</source>
         <translation>Sessie herstellen. Sla uw werk op!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="674"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="676"/>
         <source>LMMS %1</source>
         <translation>LMMS %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="693"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="695"/>
         <source>Recovered project not saved</source>
         <translation>Hersteld project niet opgeslagen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="694"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="696"/>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
         <translation>Dit project werd hersteld vanuit de vorige sessie. Het is op dit moment niet opgeslagen en zal verloren gaan als u het niet opslaat. Wilt u het nu opslaan?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="699"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="701"/>
         <source>Project not saved</source>
         <translation>Project niet opgeslagen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="700"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="702"/>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
         <translation>Het huidige project werd gewijzigd sinds de laatste keer dat het opgeslagen werd. Wilt u het nu opslaan?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="836"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="838"/>
         <source>Open Project</source>
         <translation>Project openen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="836"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="838"/>
         <source>LMMS (*.mmp *.mmpz)</source>
         <translation>LMMS (*.mmp *.mmpz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="879"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="881"/>
         <source>Save Project</source>
         <translation>Project opslaan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="880"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="882"/>
         <source>LMMS Project</source>
         <translation>LMMS-project</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="881"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="883"/>
         <source>LMMS Project Template</source>
         <translation>LMMS-projectsjabloon</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="911"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="913"/>
         <source>Save project template</source>
         <translation>Projectsjabloon opslaan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="959"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="961"/>
         <source>Overwrite default template?</source>
         <translation>Standaard-sjabloon overschrijven?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="960"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="962"/>
         <source>This will overwrite your current default template.</source>
         <translation>Dit zal uw huidig standaard-sjabloon overschrijven.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="993"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="995"/>
         <source>Help not available</source>
         <translation>Hulp niet beschikbaar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="994"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="996"/>
         <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>Er is op dit moment geen hulp beschikbaar in LMMS.
 Bezoek http://lmms.sf.net/wiki voor documentatie over LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1160"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1162"/>
         <source>Controller Rack</source>
         <translation>Controller-rack</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1164"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1166"/>
         <source>Project Notes</source>
         <translation>Projectnotities</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1168"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1170"/>
         <source>Microtuner</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1175"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1177"/>
         <source>Fullscreen</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1185"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1187"/>
         <source>Volume as dBFS</source>
         <translation>Volume als dBFS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1199"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1201"/>
         <source>Smooth scroll</source>
         <translation>Vloeiend scrollen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1213"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1215"/>
         <source>Enable note labels in piano roll</source>
         <translation>Nootlabels in piano-roll inschakelen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1487"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1489"/>
         <source>MIDI File (*.mid)</source>
         <translation>MIDI-bestand (*.mid)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1499"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1556"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1501"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1558"/>
         <source>untitled</source>
         <translation>naamloos</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1503"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1559"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1505"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1561"/>
         <source>Select file for project-export...</source>
         <translation>Selecteer bestand voor project-export...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1528"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1530"/>
         <source>Select directory for writing exported tracks...</source>
         <translation>Selecteer map voor schrijven van geëxporteerde tracks...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1590"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1592"/>
         <source>Save project</source>
         <translation>Project opslaan</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1607"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1609"/>
         <source>Project saved</source>
         <translation>Project opgeslagen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1607"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1609"/>
         <source>The project %1 is now saved.</source>
         <translation>Project %1 is nu opgeslagen.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1614"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1616"/>
         <source>Project NOT saved.</source>
         <translation>Project NIET opgeslagen.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1614"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1616"/>
         <source>The project %1 was not saved!</source>
         <translation>Project %1 werd niet opgeslagen!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1653"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1655"/>
         <source>Import file</source>
         <translation>Bestand importeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1655"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1657"/>
         <source>MIDI sequences</source>
         <translation>MIDI-sequenties</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1657"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1659"/>
         <source>Hydrogen projects</source>
         <translation>Hydrogen-projecten</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1659"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1661"/>
         <source>All file types</source>
         <translation>Alle bestandstypes</translation>
     </message>
@@ -10163,118 +10163,118 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="216"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="217"/>
         <source>Note Velocity</source>
         <translation>Nootsnelheid</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="217"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="218"/>
         <source>Note Panning</source>
         <translation>Noot-balans</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="230"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="231"/>
         <source>Mark/unmark current semitone</source>
         <translation>Huidige semitoon markeren/niet markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="231"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="232"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>Alle corresponderende octaaf-semitonen markeren/niet markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="232"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="233"/>
         <source>Mark current scale</source>
         <translation>Huidige toonladder markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="233"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="234"/>
         <source>Mark current chord</source>
         <translation>Huidig akkoord markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="234"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="235"/>
         <source>Unmark all</source>
         <translation>Niets markeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="235"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="236"/>
         <source>Select all notes on this key</source>
         <translation>Alle noten op deze sleutel selecteren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="353"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="354"/>
         <source>Note lock</source>
         <translation>Nootvergrendeling</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="363"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="364"/>
         <source>Last note</source>
         <translation>Laatste noot</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="387"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="388"/>
         <source>No key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="397"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="398"/>
         <source>No scale</source>
         <translation>Geen toonladder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="414"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="415"/>
         <source>No chord</source>
         <translation>Geen akkoord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="444"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="445"/>
         <source>Nudge</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="445"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="446"/>
         <source>Snap</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="486"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="487"/>
         <source>Velocity: %1%</source>
         <translation>Snelheid: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="495"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="496"/>
         <source>Panning: %1% left</source>
         <translation>Balans: %1 % links</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="499"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="500"/>
         <source>Panning: %1% right</source>
         <translation>Balans: %1 % rechts</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="503"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="504"/>
         <source>Panning: center</source>
         <translation>Balans: midden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="676"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="677"/>
         <source>Glue notes failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="677"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="678"/>
         <source>Please select notes to glue first.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3608"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3609"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Open een patroon door erop te dubbelklikken!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4245"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4264"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4246"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4265"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Voer een nieuwe waarde in tussen %1 en %2:</translation>
     </message>
@@ -10282,241 +10282,241 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4719"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4720"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Huidig patroon afspelen/pauzeren (Spatie)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4720"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4721"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Noten van MIDI-apparaat/kanaal-piano opnemen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4721"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4722"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Noten van MIDI-apparaat/kanaal-piano opnemen tijdens het afspelen van song of BB-spoor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4722"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4723"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Noten van MIDI-apparaat/kanaal-piano opnemen, een stap per keer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4723"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Stoppen met afspelen van huidig patroon (Spatie)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4725"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
         <source>Edit actions</source>
         <translation>Acties bewerken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4729"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4730"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Tekenmodus (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4730"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4731"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Wissen-modus (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4731"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4732"/>
         <source>Select mode (Shift+S)</source>
         <translation>Selecteermodus (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4732"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Toonhoogte-buigmodus (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4747"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4748"/>
         <source>Quantize</source>
         <translation>Kwantiseren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4748"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
         <source>Quantize positions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
         <source>Quantize lengths</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4769"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4770"/>
         <source>File actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4778"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4779"/>
         <source>Import pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5237"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5238"/>
         <source>Export pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4792"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4793"/>
         <source>Copy paste controls</source>
         <translation>Bedieningen kopiëren en plakken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4795"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4796"/>
         <source>Cut (%1+X)</source>
         <translation>Knippen (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4798"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4799"/>
         <source>Copy (%1+C)</source>
         <translation>Kopiëren (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4801"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4802"/>
         <source>Paste (%1+V)</source>
         <translation>Plakken (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4816"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4817"/>
         <source>Timeline controls</source>
         <translation>Tijdlijnbediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4830"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4831"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4834"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4835"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4838"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4839"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4842"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4843"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4860"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4861"/>
         <source>Zoom and note controls</source>
         <translation>Zoom- en nootbediening</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4868"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
         <source>Horizontal zooming</source>
         <translation>Horizontaal zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4876"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4877"/>
         <source>Vertical zooming</source>
         <translation>Verticaal zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4885"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4886"/>
         <source>Quantization</source>
         <translation>Kwantisatie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4894"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
         <source>Note length</source>
         <translation>Noot-lengte</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4900"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4901"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4909"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4910"/>
         <source>Scale</source>
         <translation>Toonladder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4918"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4919"/>
         <source>Chord</source>
         <translation>Akkoord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4927"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4928"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4932"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4933"/>
         <source>Clear ghost notes</source>
         <translation>Ghost-noten leegmaken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5041"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5214"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5042"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5215"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano-roll - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5048"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5219"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5049"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5220"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Piano-roll - geen patroon</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5238"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5285"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5239"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5286"/>
         <source>XML pattern file (*.xpt *.xptz)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5258"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5259"/>
         <source>Export pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5259"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5260"/>
         <source>Pattern saved to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5274"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5275"/>
         <source>Import pattern.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5275"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5276"/>
         <source>You are about to import a pattern, this will overwrite your current pattern. Do you want to continue?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5284"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5285"/>
         <source>Open pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5304"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
         <source>Import pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
         <source>Imported pattern %1!</source>
         <translation type="unfinished"/>
     </message>
@@ -10697,7 +10697,7 @@ Reden: &quot;%2&quot;</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Lv2Instrument/Lv2Instrument.cpp" line="51"/>
+        <location filename="../../plugins/Lv2Instrument/Lv2Instrument.cpp" line="52"/>
         <source>plugin for using arbitrary LV2 instruments inside LMMS.</source>
         <translation type="unfinished"/>
     </message>
@@ -11316,12 +11316,12 @@ Plugin Name
 <context>
     <name>PluginFactory</name>
     <message>
-        <location filename="../../src/core/PluginFactory.cpp" line="134"/>
+        <location filename="../../src/core/PluginFactory.cpp" line="140"/>
         <source>Plugin not found.</source>
         <translation>Plug-in niet gevonden.</translation>
     </message>
     <message>
-        <location filename="../../src/core/PluginFactory.cpp" line="183"/>
+        <location filename="../../src/core/PluginFactory.cpp" line="189"/>
         <source>LMMS plugin %1 does not have a plugin descriptor named %2!</source>
         <translation>LMMS-plugin %1 heeft geen plugin-descriptor die %2 heet!</translation>
     </message>
@@ -13693,103 +13693,103 @@ Verzeker u ervan dat u leesrechten heeft voor het bestand en zijn bevattende map
 <context>
     <name>TrackContentObjectView</name>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="700"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="701"/>
         <source>Current position</source>
         <translation>Huidige positie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="708"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="709"/>
         <source>Current length</source>
         <translation>Huidige lengte</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="709"/>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="961"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="710"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="962"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 tot %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="728"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="729"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>Op &lt;%1&gt; drukken en slepen om een kopie te maken.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="729"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="730"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>Op &lt;%1&gt; drukken voor vrije grootte-aanpassing.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="730"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="731"/>
         <source>Hint</source>
         <translation>Tip</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1060"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1061"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Verwijderen (middelste muisknop)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1061"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1062"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1069"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1070"/>
         <source>Cut</source>
         <translation>Knippen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1070"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1071"/>
         <source>Cut selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1077"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1078"/>
         <source>Merge Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1086"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1087"/>
         <source>Copy</source>
         <translation>Kopiëren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1087"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1088"/>
         <source>Copy selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1092"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1093"/>
         <source>Paste</source>
         <translation>Plakken</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1100"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1101"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Dempen/geluid aan (&lt;%1&gt; + middelklik)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1101"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1102"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1106"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1107"/>
         <source>Clip color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1108"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1109"/>
         <source>Change</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1109"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1110"/>
         <source>Reset</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1110"/>
+        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1111"/>
         <source>Pick random</source>
         <translation type="unfinished"/>
     </message>
