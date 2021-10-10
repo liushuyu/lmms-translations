@@ -572,7 +572,7 @@ Om du är intresserad av att översätta LMMS till ett annat språk eller vill f
         <translation>Koppla bort &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="449"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
         <source>Model is already connected to this pattern.</source>
         <translation>Modellen är redan ansluten till det här mönstret.</translation>
     </message>

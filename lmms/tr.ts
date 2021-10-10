@@ -572,7 +572,7 @@ LMMS&apos;yi başka bir dilde çevirmekle ilgileniyorsanız veya mevcut çeviril
         <translation>Şunun bağlantısını kes: &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="449"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
         <source>Model is already connected to this pattern.</source>
         <translation>Model zaten bu desene bağlanmış.</translation>
     </message>

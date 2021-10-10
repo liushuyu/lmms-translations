@@ -572,7 +572,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>Odklopi &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="449"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
         <source>Model is already connected to this pattern.</source>
         <translation>Model je že povezan s tem vzorcem.</translation>
     </message>
@@ -912,47 +912,47 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="230"/>
         <source>Contains some knobs, backgrounds and other small artwork from Calf Studio Gear, OpenAV and OpenOctave projects.</source>
-        <translation type="unfinished"/>
+        <translation>Vsebuje nekatere vrtljive gumbe, ozadja in druge grafične dodatke iz Calf Studio Gear, OpenAV in OpenOctave projektov.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="465"/>
         <source>VST is a trademark of Steinberg Media Technologies GmbH.</source>
-        <translation type="unfinished"/>
+        <translation>VST je začitena znamka podjetja Steinberg Media Technologies GmbH.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="579"/>
         <source>Special thanks to António Saraiva for a few extra icons and artwork!</source>
-        <translation type="unfinished"/>
+        <translation>Posebna zahvala Antóniu Saraivii za nekaj posebnih ikon in grafičnih elementov!</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="589"/>
         <source>The LV2 logo has been designed by Thorsten Wilms, based on a concept from Peter Shorthose.</source>
-        <translation type="unfinished"/>
+        <translation>LV2 logo je oblikoval Thorsten Wilms po zasnovi Peter Shorthose-a.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="605"/>
         <source>MIDI Keyboard designed by Thorsten Wilms.</source>
-        <translation type="unfinished"/>
+        <translation>MIDI tipkovnico je oblikoval Thorsten Wilms.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="647"/>
         <source>Carla, Carla-Control and Patchbay icons designed by DoosC.</source>
-        <translation type="unfinished"/>
+        <translation>Carla, Carla-Control in Patcbay ikone je oblikoval DoosC.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="671"/>
         <source>Features</source>
-        <translation type="unfinished"/>
+        <translation>Funkcionalnosti</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="677"/>
         <source>AU/AudioUnit:</source>
-        <translation type="unfinished"/>
+        <translation>AU/AudioUnit:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="697"/>
         <source>LADSPA:</source>
-        <translation type="unfinished"/>
+        <translation>LADSPA:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="716"/>
@@ -964,52 +964,52 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1015"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1022"/>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TeksotvnaOznaka</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="742"/>
         <source>VST2:</source>
-        <translation type="unfinished"/>
+        <translation>VST2:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="755"/>
         <source>DSSI:</source>
-        <translation type="unfinished"/>
+        <translation>DSSI:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="787"/>
         <source>LV2:</source>
-        <translation type="unfinished"/>
+        <translation>LV2:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="916"/>
         <source>VST3:</source>
-        <translation type="unfinished"/>
+        <translation>VST3:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="956"/>
         <source>OSC</source>
-        <translation type="unfinished"/>
+        <translation>OSC</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="962"/>
         <source>Host URLs:</source>
-        <translation type="unfinished"/>
+        <translation>URL gostitelja:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="982"/>
         <source>Valid commands:</source>
-        <translation type="unfinished"/>
+        <translation>Veljavni ukazi:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="992"/>
         <source>valid osc commands here</source>
-        <translation type="unfinished"/>
+        <translation>tu je prostor za veljavne osc ukaze</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1005"/>
         <source>Example:</source>
-        <translation type="unfinished"/>
+        <translation>Primer:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1072"/>
@@ -1299,55 +1299,155 @@ POSSIBILITY OF SUCH DAMAGES.
 
                      END OF TERMS AND CONDITIONS
 </source>
-        <translation type="unfinished"/>
+        <translation>                      SPLOŠNO DOVOLJENJE GNU
+                              Različica št. 2, junij 1991
+Pravice razširjanja © 1989, 1991 Free Software Foundation, Inc.
+59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+
+Vsakdo sme razmnoževati in razširjati dobesedne kopije tega licenčnega
+dokumenta, ni pa ga dovoljeno spreminjati.
+Predgovor
+Licenčne pogodbe večine programja so zasnovane tako, da vam preprečujejo njegovo svobodno razdeljevanje in spreminjanje. Za razliko od teh vam namerava Splošno dovoljenje GNU (angl. GNU General Public License, GPL) zajamčiti svobodo pri razdeljevanju in spreminjanju prostega programja ter s tem zagotoviti, da ostane programje prosto za vse njegove uporabnike. Ta GPL se nanaša na večino programske opreme ustanove Free Software Foundation in na vse druge programe, katerih avtorji so se zavezali k njeni uporabi. (Nekatero drugo programje ustanove Free Software Foundation je namesto tega pokrito s Splošnim dovoljenjem GNU za knjižnice, angl. GNU Library General Public License.) Uporabite jo lahko tudi za vaše programe.
+
+Ko govorimo o prostem programju, imamo s tem v mislih svobodo, ne cene. Naša splošna dovoljenja GNU vam zagotavljajo, da imate pravico razširjati kopije prostega programja (in zaračunavati za to storitev, če tako želite); da dobite izvorno kodo ali jo lahko dobite, če tako želite; da lahko spreminjate programje ali uporabljate njegove dele v novih prostih programih; in da veste, da lahko počnete vse te stvari.
+
+Zaradi zavarovanja vaših pravic moramo uvesti omejitve, ki prepovedujejo vsakomur, da bi vam te pravice kratil ali od vas zahteval predajo teh pravic. Te omejitve se preslikajo v določene odgovornosti za vas, če razširjate kopije programja ali ga spreminjate.
+
+Na primer, če razširjate kopije takega programa, bodisi zastonj ali za plačilo, morate dati prejemnikom vse pravice, ki jih imate vi. Prepričati se morate, da bodo tudi oni prejeli ali imeli dostop do izvorne kode. In morate jim pokazati te pogoje (pravzaprav izvirnik, opomba prevajalca), da bodo poznali svoje pravice.
+
+Vaše pravice varujemo z dvema korakoma: (1) s pravno zaščito programja in (2) ponujamo vam to licenco, ki vam daje pravno dovoljenje za razmnoževanje, razširjanje in/ali spreminjanje programja.
+
+Zaradi zaščite vsakega avtorja in zaradi naše zaščite želimo zagotoviti, da vsakdo razume, da za to prosto programje ni nobenega jamstva. Če je programje spremenil nekdo drug in ga posredoval naprej, želimo, da njegovi prejemniki vedo, da to, kar imajo, ni izvirnik, zato da se problemi, ki jih povzročijo drugi, ne bodo odražali na ugledu izvornega avtorja.
+
+Končno, vsakemu prostemu programu nenehno grozijo programski patenti. Želimo se izogniti nevarnosti, da bi razširjevalci prostega programa posamično dobivali patentne licence in s tem naredili program lastniški (angl. proprietary). Za preprečitev tega jasno zahtevamo da mora biti vsak patent licenciran tako, da ga lahko vsakdo prosto uporablja, ali pa sploh ne sme biti licenciran.
+
+Sledijo natančne določitve in pogoji za razmnoževanje, razširjanje in spreminjanje.
+
+DOLOČITVE IN POGOJI ZA RAZMNOŽEVANJE, RAZŠIRJANJE IN SPREMINJANJE
+0.
+Licenca se nanaša na vsak program ali drugo delo, ki vsebuje obvestilo lastnika avtorskih pravic (angl. copyright holder) z izjavo, da se lahko distribuira pod pogoji Splošnega dovoljenja GNU (angl. General Public License). „Program“ se v nadaljevanju nanaša na vsak tak program ali delo, in „delo, ki temelji na programu“ pomeni bodisi program ali pa katerokoli izvedeno delo po zakonu o avtorskih pravicah (angl. copyright law): se pravi delo, ki vsebuje program ali njegov del, bodisi dobesedno ali s spremembami in/ali prevedeno v drug jezik. (Tukaj in povsod v nadaljevanju je prevod vključen brez omejitev v pojem „spremembe“.) Vsaka licenca je naslovljena na „vas“.
+Ta licenca ne pokriva nobenih drugih aktivnosti razen razmnoževanja, razširjanja in sprememb; ostale so izven njenega dometa. Dejanje poganjanja programa ni omejeno in izhod programa je zajet le, če njegova vsebina sestavlja delo, iz katerega je izpeljan program (ne glede na to, da je bil narejen s poganjanjem programa). Ali je to res ali ne, je odvisno od tega, kaj počne program.
+
+1.
+Razmnožujete in razširjate lahko dobesedne izvode izvorne kode programa v enaki obliki, kot jo dobite, preko kateregakoli medija, če le na vsakem izvodu razločno in primerno objavite obvestilo o pravicah razširjanja in zanikanje jamstva; vsa obvestila, ki se nanašajo na to licenco in odsotnost vsakršnega jamstva pustite nedotaknjena; in daste vsem drugim prejemnikom programa poleg programa še izvod te licence.
+Za fizično dejanje prenosa kopije lahko zaračunavate in po vaši presoji lahko ponudite garancijsko zaščito v zameno za plačilo.
+
+2.
+Spreminjati smete vaš izvod ali izvode programa ali katerikoli njegov del, in tako narediti delo, ki temelji na programu, ter razmnoževati in razširjati takšne spremembe ali dela pod pogoji zgornjega razdelka 1, če zadostite tudi vsem naslednjim pogojem:
+
+a.
+Zagotoviti morate, da spremenjene datoteke nosijo vidna obvestila o tem, da ste jih spremenili in datum vsake spremembe.
+
+b.
+Zagotoviti morate, da je vsako delo, ki ga razširjate ali izdajate in ki v celoti ali deloma vsebuje program ali katerikoli njegov del ali pa je iz njega izpeljano, licencirano pod pogoji te licence kot celota brez plačila katerikoli tretji osebi.
+
+c.
+Če spremenjeni program ob zagonu navadno bere ukaze interaktivno, morate zagotoviti, da se ob najbolj običajnem zagonu za takšno interaktivno uporabo izpiše ali prikaže najava, ki vključuje primerno sporočilo o pravicah razširjanja in sporočilo, da jamstvo ni zagotovljeno (ali pa sporočilo, da ponujate jamstvo) in da lahko uporabniki razširjajo program pod temi pogoji, in pove uporabniku, kako pogledati izvod te licence. (Izjema: če je sam program interaktiven, a navadno ne izpiše takšne najave, tudi za vaše delo, ki temelji na programu, ni nujno, da jo.)
+Te zahteve se nanašajo na spremenjeno delo kot celoto. Če kosi tega dela, ki jih je lahko prepoznati, niso izpeljani iz programa in se jih lahko ima za neodvisna in ločena dela sama po sebi, potem ta licenca in njeni pogoji ne veljajo zanje, kadar jih razširjate ločeno. Vendar, kadar te iste kose razširjate kot del celote, ki je delo, ki temelji na programu, mora biti razširjanje celote izvedeno pod pogoji te licence, katere dovoljenja za druge licence se razširjajo na vso celoto in torej na vsak njen del, ne glede na to, kdo ga je napisal.
+
+Torej, namen tega razdelka ni, da bi zanikal ali spodbijal vaše pravice do dela, ki ste ga v celoti napisali sami; namesto tega je namen razširiti pravico do nadzora razširjanja na izpeljana ali zbrana dela, ki temeljijo na programu.
+
+Poleg tega, če gre za zgolj kopičenje drugega dela, ki ne temelji na programu, s programom (ali z delom, ki temelji na programu) na mediju za shranjevanje ali distribucijskem mediju, se licenca na to drugo delo ne nanaša.
+
+3.
+Program (ali delo, ki temelji na njem, pod razdelkom 2) lahko razmnožujete in razširjate v objektni kodi ali izvedljivi obliki pod pogoji zgornjih razdelkov 1 in 2, če izpolnite tudi kaj od tega:
+
+a.
+Opremite ga s popolno in ustrezno izvorno kodo v strojno berljivi obliki, ki mora biti razširjana pod pogoji zgornjih razdelkov 1 in 2 na mediju, ki se navadno uporablja za izmenjavo programja; ali,
+
+b.
+Opremite ga z napisano ponudbo, veljavno vsaj tri leta, da boste katerikoli tretji osebi, za plačilo, ki ne bo presegalo vaših stroškov fizičnega izvajanja izvorne distribucije, dali popoln izvod ustrezne izvorne kode v strojno berljivi obliki, ki bo razširjana pod pogoji zgornjih razdelkov 1 in 2 na mediju, ki se običajno uporablja za izmenjavo programja; ali,
+
+c.
+Opremite ga z informacijo, ki ste jo dobili vi, kot ponudbo distribucije ustrezne izvorne kode. (Ta alternativa je dovoljena le za nekomercialne distribucije in le, če ste dobili program v obliki izvorne kode ali izvedljivi obliki s takšno ponudbo, glede na podrazdelek b, zgoraj.)
+Izvorna koda pri delih pomeni obliko dela, najprimernejšo za izdelavo sprememb. Pri izvedljivem delu pomeni izvorna koda vso izvorno kodo za vse module, ki jih vsebuje, poleg tega pa še morebitne datoteke z definicijami vmesnika, povezane s tem delom in skripte, uporabljane za nadzor prevajanja in namestitev izvedljive datoteke. Vendar - kot posebna izjema - ni nujno, da razširjana izvorna koda vključuje vse, kar se navadno razširja (v izvorni ali binarni obliki) z večjimi komponentami (prevajalnik, jedro, in tako naprej) operacijskega sistema, na katerem teče izvedljiva datoteka, razen če ta komponenta spremlja izvedljivo datoteko.
+
+Če se razširjanje izvedljive datoteke ali objektne kode izvede s ponujenim dostopom za prepisovanje z za to namenjenega mesta, potem ponujanje ekvivalentnega dostopa za razmnoževanje izvorne kode z istega mesta šteje kot razširjanje izvorne kode, čeprav tretje osebe niso prisiljene razmnoževati izvorne kode poleg objektne kode.
+
+4.
+Ne smete razmnoževati, spreminjati, podlicencirati ali razširjati programa drugače, kot to izrecno določa pričujoča licenca. Vsak poskus siceršnjega kopiranja, spreminjanja, podlicenciranja ali razširjanja programa je ničen in bo samodejno prekinil vaše pravice pod to licenco. Vendar pa se osebam, ki so svoj izvod ali pravice dobile od vas pod to licenco, licenca ne prekine, dokler se ji popolnoma podrejajo.
+
+5.
+Ni vam treba sprejeti te licence, saj je niste podpisali. Vendar vam razen nje nič ne dovoljuje spreminjanja ali razširjanja programa ali iz njega izpeljanih del. Če ne sprejmete te licence, ta dejanja prepoveduje zakon. Torej, s spremembo ali razširjanjem programa (ali kateregakoli dela, ki temelji na programu), pokažete svoje strinjanje s to licenco in z vsemi njenimi določitvami in pogoji za razmnoževanje, razširjanje ali spreminjanje programa ali del, ki temeljijo na njem.
+
+6.
+Vsakič, ko razširjate program (ali katerokoli delo, ki temelji na programu), prejemnik samodejno prejme licenco od izvornega izdajatelja licence (angl. original licensor) za razmnoževanje, razširjanje ali spreminjanje programa glede na ta določila in pogoje. Ne smete vsiljevati nobenih nadaljnjih omejitev izvajanja prejemnikovih pravic, podeljenih tukaj. Niste odgovorni za vsiljevanje strinjanja tretjih oseb s to licenco.
+
+7.
+Če so vam, kot posledica presoje sodišča ali suma kršitve patenta ali zaradi kateregakoli drugega razloga (ne omejenega zgolj na patentna vprašanja), vsiljeni pogoji (bodisi z odlokom sodišča, sporazumom ali drugače), ki nasprotujejo pogojem te licence, vas ne odvezujejo pogojev te licence. Če programa ne morete razširjati tako, da hkrati zadostite svojim obvezam pod to licenco in katerimkoli drugim pristojnim obvezam, potem posledično sploh ne smete razširjati programa. Na primer, če patentna licenca ne dovoli razširjanja programa brez plačevanja avtorskega honorarja vseh, ki prejmejo kopije neposredno ali posredno od vas, potem je edina možna pot, da zadostite temu pogoju in tej licenci ta, da se v celoti vzdržite razširjanja programa.
+Če se za katerikoli del tega razdelka ugotovi, da je neveljaven ali da se ga ne da izvajati pod kateremkoli določenim pogojem, je mišljeno, da velja usmeritev tega razdelka (angl. balance of the section) in razdelek kot celota velja v drugih primerih.
+
+Namen tega razdelka ni, da bi vas napeljeval h kršitvi patentov ali drugih trditev lastništva pravic ali izpodbijal veljavnost katerihkoli takšnih trditev; edini namen tega razdelka je ščitenje integritete sistema distribucije prostega programja, ki je izveden s prakso javnih licenc. Mnogi ljudje so radodarno prispevali k širokemu naboru programja, razširjanega skozi ta sistem, v upanju na njegovo dosledno izvajanje; od avtorja/dajalca je odvisno, če je pripravljen razširjati programje skozi katerikoli drug sistem, in izdajatelj licence ne more vsiljevati te izbire.
+
+Ta razdelek namerava temeljito pojasniti, kaj so predvidene posledice nadaljevanja licence.
+
+8.
+Če sta razširjanje in/ali uporaba programa omejena v določenih državah, bodisi zaradi patentov ali vmesnikov s posebno pravico razširjanja (angl. copyrighted interfaces), lahko izvorni lastnik ali lastnica pravic razširjanja, ki postavlja program pod to licenco, doda eksplicitno zemljepisno omejitev razširjanja, ki izključuje te države, tako da je razširjanje dovoljeno le v in med državami, ki niso na tak način izključene. V takem primeru ta licenca vključuje omejitve, kot da so napisane v telesu te licence.
+
+9.
+Ustanova Free Software Foundation lahko od časa do časa izdaja preurejene in/ali nove različice Splošne javne licence (angl. General Public License). Nove različice bodo pisane v duhu trenutne različice, vendar se lahko razlikujejo v podrobnostih, ki bodo obdelovale nove težave ali poglede.
+Vsaki različici je prirejena razločevalna številka različice. Če program določa številko različice te licence, ki se nanaša na njo in „na katerekoli poznejše različice“, imate izbiro upoštevanja pogojev in določil bodisi te različice ali katerekoli poznejše različice, ki jo je izdala ustanova Free Software Foundation. Če program ne določa številke različice te licence, lahko izberete katerokoli različico, ki jo je kdajkoli izdala ustanova Free Software Foundation.
+
+10.
+Če želite vključiti dele programa v druge proste programe, katerih pogoji razširjanja so drugačni, pišite avtorju in ga prosite za dovoljenje. Za programje, katerega pravice razširjanja ima Free Software Foundation, pišite na Free Software Foundation; včasih naredimo izjemo pri tem. Našo odločitev bosta vodila dva cilja: ohranitev prostega statusa vseh izvedenih del iz našega prostega programja in spodbujanje razdeljevanja in ponovne uporabe programja na splošno.
+
+BREZ JAMSTVA
+
+11.
+KER JE PROGRAM LICENCIRAN KOT BREZPLAČEN, NI NOBENEGA JAMSTVA ZA PROGRAM DO MEJE, KI JO DOLOČA PRISTOJNI ZAKON. RAZEN, ČE NI DRUGAČE NAPISANO, IMETNIKI PRAVIC RAZŠIRJANJA IN/ALI DRUGE OSEBE PONUJAJO PROGRAM „TAK, KOT JE“, BREZ ZAGOTOVILA KAKRŠNEKOLI VRSTE, NEPOSREDNEGA ALI POSREDNEGA, KAR VKLJUČUJE, A NI OMEJENO NA POSREDNA JAMSTVA CENOVNE VREDNOSTI IN PRIMERNOSTI ZA DOLOČENO UPORABO. CELOTNO TVEGANJE GLEDE KAKOVOSTI IN DELOVANJA PROGRAMA PREVZAMETE SAMI. ČE SE PROGRAM IZKAŽE ZA OKVARJENEGA, SAMI NOSITE STROŠKE VSEH POTREBNIH STORITEV, POPRAVIL ALI POPRAVKOV.
+
+12.
+V NOBENEM PRIMERU, RAZEN ČE TAKO PRAVI VELJAVNI ZAKON ALI JE PISNO DOGOVORJENO, NE BO LASTNIK PRAVIC RAZŠIRJANJA ALI KATERAKOLI DRUGA OSEBA, KI LAHKO SPREMENI IN/ALI PONOVNO RAZŠIRJA PROGRAM, KOT JE DOVOLJENO ZGORAJ, PREVZEL ODGOVORNOSTI ZARADI ŠKODE, NAJSI GRE ZA SPLOŠNO, POSEBNO, NENAMERNO ŠKODO ALI ŠKODO, IZHAJAJOČO IZ UPORABE ALI NEZMOŽNOSTI UPORABE PROGRAMA (VKLJUČNO Z, A NE OMEJENO NA, IZGUBO PODATKOV ALI NENATANČNO OBDELAVO PODATKOV ALI IZGUBO, POVZROČENO VAM ALI TRETJIM OSEBAM ALI NEZMOŽNOST PROGRAMA, DA BI DELOVAL S KAKIM DRUGIM PROGRAMOM), ČETUDI JE BIL TAK LASTNIK ALI DRUGA OSEBA OBVEŠČEN O MOŽNOSTI NASTANKA TAKŠNE ŠKODE.
+
+KONEC DOLOČB IN POGOJEV</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="67"/>
         <source>OSC Bridge Version</source>
-        <translation type="unfinished"/>
+        <translation>Različica OSC Bridge</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="69"/>
         <source>Plugin Version</source>
-        <translation type="unfinished"/>
+        <translation>Različica vtičnika</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="71"/>
         <source>&lt;br&gt;Version %1&lt;br&gt;Carla is a fully-featured audio plugin host%2.&lt;br&gt;&lt;br&gt;Copyright (C) 2011-2019 falkTX&lt;br&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;br&gt;Različica %1&lt;br&gt;Carla je polno zmogljiv gostitelj zvočnih vtičnikov.&lt;br&gt;&lt;br&gt;Avtorstvo (C) 2011-2019 falkTX&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="100"/>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="101"/>
         <source>(Engine not running)</source>
-        <translation type="unfinished"/>
+        <translation>(pogon ni zagnan)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="123"/>
         <source>Everything! (Including LRDF)</source>
-        <translation type="unfinished"/>
+        <translation>Vse (vključno z LRDF)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="124"/>
         <source>Everything! (Including CustomData/Chunks)</source>
-        <translation type="unfinished"/>
+        <translation>Vse! (vključno z lastnimi podatki/kosi)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="125"/>
         <source>About 110&amp;#37; complete (using custom extensions)&lt;br/&gt;Implemented Feature/Extensions:&lt;ul&gt;&lt;li&gt;http://lv2plug.in/ns/ext/atom&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/buf-size&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/data-access&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/event&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/instance-access&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/log&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/midi&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/options&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/parameters&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/port-props&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/presets&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/resize-port&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/state&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/time&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/uri-map&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/urid&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/worker&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/extensions/ui&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/extensions/units&lt;/li&gt;&lt;li&gt;http://home.gna.org/lv2dynparam/rtmempool/v1&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/external-ui&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/programs&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/props&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/rtmempool&lt;/li&gt;&lt;li&gt;http://ll-plugins.nongnu.org/lv2/ext/midimap&lt;/li&gt;&lt;li&gt;http://ll-plugins.nongnu.org/lv2/ext/miditype&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>O programu 110&amp;#37; celota (z uporabo lastnih razširitev)&lt;br/&gt;Implementirane funkcije/razširitve:&lt;ul&gt;&lt;li&gt;http://lv2plug.in/ns/ext/atom&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/buf-size&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/data-access&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/event&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/instance-access&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/log&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/midi&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/options&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/parameters&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/port-props&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/presets&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/resize-port&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/state&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/time&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/uri-map&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/urid&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/ext/worker&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/extensions/ui&lt;/li&gt;&lt;li&gt;http://lv2plug.in/ns/extensions/units&lt;/li&gt;&lt;li&gt;http://home.gna.org/lv2dynparam/rtmempool/v1&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/external-ui&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/programs&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/props&lt;/li&gt;&lt;li&gt;http://kxstudio.sf.net/ns/lv2ext/rtmempool&lt;/li&gt;&lt;li&gt;http://ll-plugins.nongnu.org/lv2/ext/midimap&lt;/li&gt;&lt;li&gt;http://ll-plugins.nongnu.org/lv2/ext/miditype&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="161"/>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="162"/>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="171"/>
         <source>Using Juce host</source>
-        <translation type="unfinished"/>
+        <translation>Uporaba Juce gostitelja</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="164"/>
         <source>About 85% complete (missing vst bank/presets and some minor stuff)</source>
-        <translation type="unfinished"/>
+        <translation>Približno 85% končano (manjkajo vst tabele/predloge in nekaj manjših zadev)</translation>
     </message>
 </context>
 <context>
@@ -1355,148 +1455,148 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"/>
+        <translation>GlavnoOkno</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="40"/>
         <source>Rack</source>
-        <translation type="unfinished"/>
+        <translation>Regal</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="144"/>
         <source>Patchbay</source>
-        <translation type="unfinished"/>
+        <translation>Razdelilna plošča</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="179"/>
         <source>Logs</source>
-        <translation type="unfinished"/>
+        <translation>Dnevniki</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="214"/>
         <source>Loading...</source>
-        <translation type="unfinished"/>
+        <translation>Nalagam...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="249"/>
         <source>Buffer Size:</source>
-        <translation type="unfinished"/>
+        <translation>Velikost medpomnilnika:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="272"/>
         <source>Sample Rate:</source>
-        <translation type="unfinished"/>
+        <translation>Frekvenca vzorčenja:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="295"/>
         <source>? Xruns</source>
-        <translation type="unfinished"/>
+        <translation>? Xruns</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="324"/>
         <source>DSP Load: %p%</source>
-        <translation type="unfinished"/>
+        <translation>DSP obremenitev: %p%</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="344"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Datoteka</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="357"/>
         <source>&amp;Engine</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pogon</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="367"/>
         <source>&amp;Plugin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Vtičnik</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="371"/>
         <source>Macros (all plugins)</source>
-        <translation type="unfinished"/>
+        <translation>Makroji (ali vtičniki)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="395"/>
         <source>&amp;Canvas</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Platno</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="399"/>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Povečava</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="418"/>
         <source>&amp;Settings</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nastavitve</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="429"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pomoč</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="444"/>
         <source>toolBar</source>
-        <translation type="unfinished"/>
+        <translation>orodnaVrstica</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="540"/>
         <source>Disk</source>
-        <translation type="unfinished"/>
+        <translation>Disk</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="564"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1190"/>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Domov</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="613"/>
         <source>Transport</source>
-        <translation type="unfinished"/>
+        <translation>Transport</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="619"/>
         <source>Playback Controls</source>
-        <translation type="unfinished"/>
+        <translation>Kontrole predvajanja</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="681"/>
         <source>Time Information</source>
-        <translation type="unfinished"/>
+        <translation>Podatki o času</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="689"/>
         <source>Frame:</source>
-        <translation type="unfinished"/>
+        <translation>Okvir:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="704"/>
         <source>000&apos;000&apos;000</source>
-        <translation type="unfinished"/>
+        <translation>000&apos;000&apos;000</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="731"/>
         <source>Time:</source>
-        <translation type="unfinished"/>
+        <translation>Čas:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="746"/>
         <source>00:00:00</source>
-        <translation type="unfinished"/>
+        <translation>00:00:00</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="773"/>
         <source>BBT:</source>
-        <translation type="unfinished"/>
+        <translation>BBT:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="788"/>
         <source>000|00|0000</source>
-        <translation type="unfinished"/>
+        <translation>000|00|0000</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="816"/>
@@ -1506,17 +1606,17 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="822"/>
         <source> BPM</source>
-        <translation type="unfinished"/>
+        <translation> BPM</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="838"/>
         <source>Use JACK Transport</source>
-        <translation type="unfinished"/>
+        <translation>Uporabi JACK Transport</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="845"/>
         <source>Use Ableton Link</source>
-        <translation type="unfinished"/>
+        <translation>Uporabi Ableton Link</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="955"/>
@@ -1526,7 +1626,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="958"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="967"/>
@@ -1537,12 +1637,12 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="970"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="973"/>
         <source>Open...</source>
-        <translation type="unfinished"/>
+        <translation>Odpri...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="976"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="985"/>
@@ -1552,7 +1652,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="988"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="997"/>
@@ -1563,12 +1663,12 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1000"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1003"/>
         <source>Save As...</source>
-        <translation type="unfinished"/>
+        <translation>Shrani kot...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1006"/>
         <source>Ctrl+Shift+S</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1015"/>
@@ -1578,248 +1678,248 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1018"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1027"/>
         <source>&amp;Start</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zaženi</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1030"/>
         <source>F5</source>
-        <translation type="unfinished"/>
+        <translation>F5</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1039"/>
         <source>St&amp;op</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ustavi</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1042"/>
         <source>F6</source>
-        <translation type="unfinished"/>
+        <translation>F6</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1051"/>
         <source>&amp;Add Plugin...</source>
-        <translation type="unfinished"/>
+        <translation>Dod&amp;aj vtičnik...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1054"/>
         <source>Ctrl+A</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+A</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1063"/>
         <source>&amp;Remove All</source>
-        <translation type="unfinished"/>
+        <translation>Odst&amp;rani vse</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1068"/>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Vklopi</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1073"/>
         <source>Disable</source>
-        <translation type="unfinished"/>
+        <translation>Izklopi</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1078"/>
         <source>0% Wet (Bypass)</source>
-        <translation type="unfinished"/>
+        <translation>0% obogateno (obvod)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1083"/>
         <source>100% Wet</source>
-        <translation type="unfinished"/>
+        <translation>100% obogateno</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1088"/>
         <source>0% Volume (Mute)</source>
-        <translation type="unfinished"/>
+        <translation>0% glasnost (tiho)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1093"/>
         <source>100% Volume</source>
-        <translation type="unfinished"/>
+        <translation>100% glasnost</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1098"/>
         <source>Center Balance</source>
-        <translation type="unfinished"/>
+        <translation>Središčno ravnovesje</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1110"/>
         <source>&amp;Play</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Predvajaj</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1113"/>
         <source>Ctrl+Shift+P</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Shift+P</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1122"/>
         <source>&amp;Stop</source>
-        <translation type="unfinished"/>
+        <translation>U&amp;stavi</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1125"/>
         <source>Ctrl+Shift+X</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Shift+X</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1134"/>
         <source>&amp;Backwards</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nazaj</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1137"/>
         <source>Ctrl+Shift+B</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Shift+B</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1146"/>
         <source>&amp;Forwards</source>
-        <translation type="unfinished"/>
+        <translation>Na&amp;prej</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1149"/>
         <source>Ctrl+Shift+F</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Shift+F</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1158"/>
         <source>&amp;Arrange</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Razporedi</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1161"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1170"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1324"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Osveži</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1173"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1178"/>
         <source>Save &amp;Image...</source>
-        <translation type="unfinished"/>
+        <translation>Shrani sl&amp;iko...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1187"/>
         <source>Auto-Fit</source>
-        <translation type="unfinished"/>
+        <translation>Samodejno prilagajanje</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1199"/>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Približaj</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1202"/>
         <source>Ctrl++</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl++</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1211"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Oddalji</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1214"/>
         <source>Ctrl+-</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+-</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1223"/>
         <source>Zoom 100%</source>
-        <translation type="unfinished"/>
+        <translation>100% velikost</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1226"/>
         <source>Ctrl+1</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+1</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1234"/>
         <source>Show &amp;Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži &amp;orodno vrstico</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1243"/>
         <source>&amp;Configure Carla</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Carla nastavitve</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1248"/>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>O progr&amp;amu</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1253"/>
         <source>About &amp;JUCE</source>
-        <translation type="unfinished"/>
+        <translation>O &amp;JUCE</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1258"/>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"/>
+        <translation>O &amp;Qt</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1266"/>
         <source>Show Canvas &amp;Meters</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži &amp;merila platna</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1274"/>
         <source>Show Canvas &amp;Keyboard</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži tip&amp;kovnico platna</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1282"/>
         <source>Show Internal</source>
-        <translation type="unfinished"/>
+        <translation>Prikažji notranje</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1290"/>
         <source>Show External</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži zunanje</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1298"/>
         <source>Show Time Panel</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži časovni pano</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1306"/>
         <source>Show &amp;Side Panel</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži &amp;stranski pano</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1315"/>
         <source>&amp;Connect...</source>
-        <translation type="unfinished"/>
+        <translation>Po&amp;veži...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1329"/>
         <source>Compact Slots</source>
-        <translation type="unfinished"/>
+        <translation>Skrči reže</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1334"/>
         <source>Expand Slots</source>
-        <translation type="unfinished"/>
+        <translation>Razširi reže</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1339"/>
@@ -1849,22 +1949,22 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1368"/>
         <source>Add &amp;JACK Application...</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj &amp;JACK aplikacijo</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1377"/>
         <source>&amp;Configure driver...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nastavi gonilnik...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1386"/>
         <source>Panic</source>
-        <translation type="unfinished"/>
+        <translation>Panika</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1391"/>
         <source>Open custom driver panel...</source>
-        <translation type="unfinished"/>
+        <translation>Odpri lastni pano gonilnika...</translation>
     </message>
 </context>
 <context>
@@ -1872,7 +1972,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="313"/>
         <source>Export as...</source>
-        <translation type="unfinished"/>
+        <translation>Izvozi kot...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="703"/>
@@ -1880,49 +1980,51 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1716"/>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1722"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Napaka</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="704"/>
         <source>Failed to load project</source>
-        <translation type="unfinished"/>
+        <translation>Napaka pri nalaganju projekta</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="721"/>
         <source>Failed to save project</source>
-        <translation type="unfinished"/>
+        <translation>Napaka pri shranjevanju projekta</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1335"/>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Končaj</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1336"/>
         <source>Are you sure you want to quit Carla?</source>
-        <translation type="unfinished"/>
+        <translation>Želite res zapreti Carlo?</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1717"/>
         <source>Could not connect to Audio backend '%1', possible reasons:
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Povezave z zvočnim zaledjem &apos;%1&apos; ni bilo mogoče vzpostaviti. Možni razlogi:
+%2</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1723"/>
         <source>Could not connect to Audio backend &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Povezave z zvočnim zaledjem &apos;%1&apos; ni bilo mogoče vzpostaviti.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1740"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Opozorilo</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1741"/>
         <source>There are still some plugins loaded, you need to remove them to stop the engine.
 Do you want to do this now?</source>
-        <translation type="unfinished"/>
+        <translation>Nekateri vtičniki so še naloženi in jih je potrebno odstraniti, da bi zaustavili pogon.
+Želite to storiti?</translation>
     </message>
 </context>
 <context>
@@ -1930,22 +2032,22 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="625"/>
         <source>Show GUI</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži grafični vmesnik</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="633"/>
         <source>Click here to show or hide the graphical user interface (GUI) of Carla.</source>
-        <translation type="unfinished"/>
+        <translation>Kliknite, če želite prikazati ali skriti grafični vmesnik (GUI) Carle.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="636"/>
         <source>Params</source>
-        <translation type="unfinished"/>
+        <translation>Param</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="642"/>
         <source>Available from Carla version 2.1 and up.</source>
-        <translation type="unfinished"/>
+        <translation>Na voljo od Carla različice 2.1 naprej.</translation>
     </message>
 </context>
 <context>
@@ -1953,22 +2055,22 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="757"/>
         <source>Search..</source>
-        <translation type="unfinished"/>
+        <translation>Iskanje..</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="763"/>
         <source>Clear filter text</source>
-        <translation type="unfinished"/>
+        <translation>Počisti besedilo filtra</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="771"/>
         <source>Only show knobs with a connection.</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži le vrtljive gumbe s povezavo.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="858"/>
         <source> - Parameters</source>
-        <translation type="unfinished"/>
+        <translation>- Parametri</translation>
     </message>
 </context>
 <context>
@@ -1981,32 +2083,32 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="71"/>
         <source>main</source>
-        <translation type="unfinished"/>
+        <translation>glavno</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="76"/>
         <source>canvas</source>
-        <translation type="unfinished"/>
+        <translation>platno</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="81"/>
         <source>engine</source>
-        <translation type="unfinished"/>
+        <translation>pogon</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="86"/>
         <source>osc</source>
-        <translation type="unfinished"/>
+        <translation>osc</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="91"/>
         <source>file-paths</source>
-        <translation type="unfinished"/>
+        <translation>poti-datotek</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="96"/>
         <source>plugin-paths</source>
-        <translation type="unfinished"/>
+        <translation>poti-vtičnikov</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="101"/>
@@ -2016,7 +2118,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="106"/>
         <source>experimental</source>
-        <translation type="unfinished"/>
+        <translation>eksperimentalno</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="111"/>
@@ -2027,29 +2129,29 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="116"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2675"/>
         <source>Main</source>
-        <translation type="unfinished"/>
+        <translation>Glavno</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="134"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2722"/>
         <source>Canvas</source>
-        <translation type="unfinished"/>
+        <translation>Platno</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="152"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2762"/>
         <source>Engine</source>
-        <translation type="unfinished"/>
+        <translation>Pogon</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="194"/>
         <source>File Paths</source>
-        <translation type="unfinished"/>
+        <translation>Poti do datotek</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="212"/>
         <source>Plugin Paths</source>
-        <translation type="unfinished"/>
+        <translation>Poti do vtičnikov</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="230"/>
@@ -2060,129 +2162,129 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="248"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="504"/>
         <source>Experimental</source>
-        <translation type="unfinished"/>
+        <translation>Eksperimentalno</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="284"/>
         <source>&lt;b&gt;Main&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Glavno&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="331"/>
         <source>Paths</source>
-        <translation type="unfinished"/>
+        <translation>Poti</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="339"/>
         <source>Default project folder:</source>
-        <translation type="unfinished"/>
+        <translation>Priveta projektna mapa:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="377"/>
         <source>Interface</source>
-        <translation type="unfinished"/>
+        <translation>Vmesnik</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="383"/>
         <source>Interface refresh interval:</source>
-        <translation type="unfinished"/>
+        <translation>Interval osveževanja vmesnika:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="393"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1023"/>
         <source> ms</source>
-        <translation type="unfinished"/>
+        <translation> ms</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="425"/>
         <source>Show console output in Logs tab (needs engine restart)</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži izpis konzole v zavikhu Dnevniki (zahteva ponovni zagon pogona)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="432"/>
         <source>Show a confirmation dialog before quitting</source>
-        <translation type="unfinished"/>
+        <translation>Pred zapiranjem prikaži potrditveno okno</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="442"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="580"/>
         <source>Theme</source>
-        <translation type="unfinished"/>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="448"/>
         <source>Use Carla &quot;PRO&quot; theme (needs restart)</source>
-        <translation type="unfinished"/>
+        <translation>Uporabi temo Carla &quot;PRO&quot; (zahteva ponovni zagon)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="458"/>
         <source>Color scheme:</source>
-        <translation type="unfinished"/>
+        <translation>Barvna shema:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="472"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Črna</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="477"/>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>Sistemska</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="510"/>
         <source>Enable experimental features</source>
-        <translation type="unfinished"/>
+        <translation>Vklopi eksperimentalne funkcije</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="542"/>
         <source>&lt;b&gt;Canvas&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Platno&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="612"/>
         <source>Bezier Lines</source>
-        <translation type="unfinished"/>
+        <translation>Bezierjeve krivulje</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="622"/>
         <source>Theme:</source>
-        <translation type="unfinished"/>
+        <translation>Tema:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="658"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Velikost</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="669"/>
         <source>775x600</source>
-        <translation type="unfinished"/>
+        <translation>775x600</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="674"/>
         <source>1550x1200</source>
-        <translation type="unfinished"/>
+        <translation>1550x1200</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="679"/>
         <source>3100x2400</source>
-        <translation type="unfinished"/>
+        <translation>3100x2400</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="684"/>
         <source>4650x3600</source>
-        <translation type="unfinished"/>
+        <translation>4650x3600</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="689"/>
         <source>6200x4800</source>
-        <translation type="unfinished"/>
+        <translation>6200x4800</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="713"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="719"/>
@@ -2245,7 +2347,7 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="873"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="897"/>
         <source>Patchbay</source>
-        <translation type="unfinished"/>
+        <translation>Razdelilna plošča</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="909"/>
@@ -2387,7 +2489,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1754"/>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1781"/>
@@ -2632,7 +2734,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="103"/>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Napad:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="105"/>
@@ -2642,7 +2744,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="108"/>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>Spusčaj:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="110"/>
@@ -2682,7 +2784,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="128"/>
         <source>Hold:</source>
-        <translation type="unfinished"/>
+        <translation>Zadrži:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="130"/>
@@ -3067,7 +3169,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="58"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Povratna zanka</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="59"/>
@@ -3102,7 +3204,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="65"/>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Miks</translation>
     </message>
 </context>
 <context>
@@ -3110,7 +3212,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../src/core/Controller.cpp" line="61"/>
         <source>Controller %1</source>
-        <translation type="unfinished"/>
+        <translation>Kontoler %1</translation>
     </message>
 </context>
 <context>
@@ -3118,53 +3220,53 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="136"/>
         <source>Connection Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavitve povezave</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="140"/>
         <source>MIDI CONTROLLER</source>
-        <translation type="unfinished"/>
+        <translation>MIDI KONTROLER</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="146"/>
         <source>Input channel</source>
-        <translation type="unfinished"/>
+        <translation>Vhodni kanal</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="148"/>
         <source>CHANNEL</source>
-        <translation type="unfinished"/>
+        <translation>KANAL</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="152"/>
         <source>Input controller</source>
-        <translation type="unfinished"/>
+        <translation>Vhodni kontroler</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="154"/>
         <source>CONTROLLER</source>
-        <translation type="unfinished"/>
+        <translation>KONTROLER</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="159"/>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="160"/>
         <source>Auto Detect</source>
-        <translation type="unfinished"/>
+        <translation>Samodejno zaznavanje</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="174"/>
         <source>MIDI-devices to receive MIDI-events from</source>
-        <translation type="unfinished"/>
+        <translation>MIDI-naprave, ki morajo prejeti MIDI-dogodke od</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="184"/>
         <source>USER CONTROLLER</source>
-        <translation type="unfinished"/>
+        <translation>UPORABNIKOV KONTROLER</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="202"/>
         <source>MAPPING FUNCTION</source>
-        <translation type="unfinished"/>
+        <translation>FUNKCIJA MAPIRANJA</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="220"/>
@@ -3184,7 +3286,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="334"/>
         <source>Cycle Detected.</source>
-        <translation type="unfinished"/>
+        <translation>Zaznan cikelj.</translation>
     </message>
 </context>
 <context>
@@ -3192,17 +3294,17 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="49"/>
         <source>Controller Rack</source>
-        <translation type="unfinished"/>
+        <translation>Regal kontrolerja</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="64"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="127"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"/>
+        <translation>Potrdi brisanje</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="128"/>
@@ -3215,17 +3317,17 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="69"/>
         <source>Controls</source>
-        <translation type="unfinished"/>
+        <translation>Kontrole</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="146"/>
         <source>Rename controller</source>
-        <translation type="unfinished"/>
+        <translation>Preimenuj kontroler</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="147"/>
         <source>Enter the new name for this controller</source>
-        <translation type="unfinished"/>
+        <translation>Vnesite novo ime kontrolerja</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerView.cpp" line="154"/>
@@ -3351,7 +3453,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="36"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Povratna zanka</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="37"/>
@@ -3593,7 +3695,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/inputdialog_value.ui" line="20"/>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TeksotvnaOznaka</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/inputdialog_value.ui" line="30"/>
@@ -3651,19 +3753,19 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="54"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="58"/>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frekvenca rezanja</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="55"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="59"/>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>LOČ</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="55"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="59"/>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Resnonanca</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="56"/>
@@ -3685,17 +3787,17 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="57"/>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Miks</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="66"/>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filter 1 vklopljen</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="68"/>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filter 2 vklopljen</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="72"/>
@@ -3713,12 +3815,12 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="40"/>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filter 1 vklopljen</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="41"/>
         <source>Filter 1 type</source>
-        <translation type="unfinished"/>
+        <translation>Filter 1 vrsta</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="42"/>
@@ -3728,27 +3830,27 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="43"/>
         <source>Q/Resonance 1</source>
-        <translation type="unfinished"/>
+        <translation>Q/resnonanca 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="44"/>
         <source>Gain 1</source>
-        <translation type="unfinished"/>
+        <translation>Jakost 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="46"/>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Miks</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="48"/>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filter 2 vklopljen</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="49"/>
         <source>Filter 2 type</source>
-        <translation type="unfinished"/>
+        <translation>Filter 2 vrsta</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="50"/>
@@ -3758,12 +3860,12 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="51"/>
         <source>Q/Resonance 2</source>
-        <translation type="unfinished"/>
+        <translation>Q/resnonanca 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="52"/>
         <source>Gain 2</source>
-        <translation type="unfinished"/>
+        <translation>Jakost 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="54"/>
@@ -3805,7 +3907,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="60"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="83"/>
         <source>Moog</source>
-        <translation type="unfinished"/>
+        <translation>Moog</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="61"/>
@@ -3859,7 +3961,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="69"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="92"/>
         <source>2x Moog</source>
-        <translation type="unfinished"/>
+        <translation>2x Moog</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="70"/>
@@ -3889,13 +3991,13 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="74"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="97"/>
         <source>Fast Formant</source>
-        <translation type="unfinished"/>
+        <translation>Hitro obrazilo</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="75"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="98"/>
         <source>Tripole</source>
-        <translation type="unfinished"/>
+        <translation>Tripolarno</translation>
     </message>
 </context>
 <context>
@@ -3908,22 +4010,22 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="103"/>
         <source>Play (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Predvajanje (preslednica)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="104"/>
         <source>Stop (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Ustavi (preslednica)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="106"/>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation>Snemaj</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="107"/>
         <source>Record while playing</source>
-        <translation type="unfinished"/>
+        <translation>Snemaj med predvajanjem</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="108"/>
@@ -3936,22 +4038,22 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/core/Effect.cpp" line="46"/>
         <source>Effect enabled</source>
-        <translation type="unfinished"/>
+        <translation>Učinek vključen</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="47"/>
         <source>Wet/Dry mix</source>
-        <translation>Mokro/Suho</translation>
+        <translation>Surov/obogaten miks</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="48"/>
         <source>Gate</source>
-        <translation type="unfinished"/>
+        <translation>Vrata</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="49"/>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Razkroj</translation>
     </message>
 </context>
 <context>
@@ -3959,7 +4061,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/core/EffectChain.cpp" line="39"/>
         <source>Effects enabled</source>
-        <translation type="unfinished"/>
+        <translation>Učinki vklopljeni</translation>
     </message>
 </context>
 <context>
@@ -3967,12 +4069,12 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/widgets/EffectRackView.cpp" line="44"/>
         <source>EFFECTS CHAIN</source>
-        <translation type="unfinished"/>
+        <translation>VERIGA UČINKOV</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectRackView.cpp" line="61"/>
         <source>Add effect</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj učinek</translation>
     </message>
 </context>
 <context>
@@ -3980,7 +4082,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/Forms/EffectSelectDialog.ui" line="14"/>
         <source>Add effect</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj učinek</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectSelectDialog.cpp" line="70"/>
@@ -4009,57 +4111,57 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="60"/>
         <source>On/Off</source>
-        <translation type="unfinished"/>
+        <translation>Vklopi/izklopi</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="64"/>
         <source>W/D</source>
-        <translation type="unfinished"/>
+        <translation>S/O</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="67"/>
         <source>Wet Level:</source>
-        <translation type="unfinished"/>
+        <translation>Nivo obogatenosti:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="71"/>
         <source>DECAY</source>
-        <translation type="unfinished"/>
+        <translation>RAZKROJ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="74"/>
         <source>Time:</source>
-        <translation type="unfinished"/>
+        <translation>Čas:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="78"/>
         <source>GATE</source>
-        <translation type="unfinished"/>
+        <translation>VRATA</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="81"/>
         <source>Gate:</source>
-        <translation type="unfinished"/>
+        <translation>Vrata:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="88"/>
         <source>Controls</source>
-        <translation type="unfinished"/>
+        <translation>Kontrole</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="196"/>
         <source>Move &amp;up</source>
-        <translation type="unfinished"/>
+        <translation>Premakni &amp;gor</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="199"/>
         <source>Move &amp;down</source>
-        <translation type="unfinished"/>
+        <translation>Premakni &amp;dol</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="203"/>
         <source>&amp;Remove this plugin</source>
-        <translation type="unfinished"/>
+        <translation>Odst&amp;rani ta vtičnik</translation>
     </message>
 </context>
 <context>
@@ -4141,7 +4243,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="98"/>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="142"/>
         <source>DEL</source>
-        <translation type="unfinished"/>
+        <translation>BRIS</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="100"/>
@@ -4153,70 +4255,70 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="104"/>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="148"/>
         <source>ATT</source>
-        <translation type="unfinished"/>
+        <translation>NAP</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="106"/>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="150"/>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Napad:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="110"/>
         <source>HOLD</source>
-        <translation type="unfinished"/>
+        <translation>DRŽI</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="112"/>
         <source>Hold:</source>
-        <translation type="unfinished"/>
+        <translation>Zadrži:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="116"/>
         <source>DEC</source>
-        <translation type="unfinished"/>
+        <translation>RAZ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="118"/>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Razkroj:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="122"/>
         <source>SUST</source>
-        <translation type="unfinished"/>
+        <translation>VZD</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="124"/>
         <source>Sustain:</source>
-        <translation type="unfinished"/>
+        <translation>Vzdržuj:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="128"/>
         <source>REL</source>
-        <translation type="unfinished"/>
+        <translation>SPUST</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="130"/>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>Spusčaj:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="134"/>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="160"/>
         <source>AMT</source>
-        <translation type="unfinished"/>
+        <translation>KMD</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="136"/>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="162"/>
         <source>Modulation amount:</source>
-        <translation type="unfinished"/>
+        <translation>Količina modulacije:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="154"/>
         <source>SPD</source>
-        <translation type="unfinished"/>
+        <translation>HIT</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="156"/>
@@ -4226,7 +4328,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="218"/>
         <source>FREQ x 100</source>
-        <translation type="unfinished"/>
+        <translation>FREKV × 100</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="221"/>
@@ -4246,12 +4348,12 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="504"/>
         <source>ms/LFO:</source>
-        <translation type="unfinished"/>
+        <translation>ms/LFO:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="520"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Namig</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EnvelopeAndLfoView.cpp" line="521"/>
@@ -4279,22 +4381,22 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="40"/>
         <source>Peak 1 gain</source>
-        <translation type="unfinished"/>
+        <translation>Vrh 1 jakosti</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="41"/>
         <source>Peak 2 gain</source>
-        <translation type="unfinished"/>
+        <translation>Vrh 2 jakosti</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="42"/>
         <source>Peak 3 gain</source>
-        <translation type="unfinished"/>
+        <translation>Vrh 3 jakosti</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="43"/>
         <source>Peak 4 gain</source>
-        <translation type="unfinished"/>
+        <translation>Vrh 4 jakosti</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="44"/>
@@ -4304,7 +4406,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="45"/>
         <source>HP res</source>
-        <translation type="unfinished"/>
+        <translation>HP loč</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="46"/>
@@ -4314,22 +4416,22 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="47"/>
         <source>Peak 1 BW</source>
-        <translation type="unfinished"/>
+        <translation>Vrh 1 PŠ</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="48"/>
         <source>Peak 2 BW</source>
-        <translation type="unfinished"/>
+        <translation>Vrh 2 PŠ</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="49"/>
         <source>Peak 3 BW</source>
-        <translation type="unfinished"/>
+        <translation>Vrh 3 PŠ</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="50"/>
         <source>Peak 4 BW</source>
-        <translation type="unfinished"/>
+        <translation>Vrh 4 PŠ</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="51"/>
@@ -4534,7 +4636,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="111"/>
         <source>Bandwidth: </source>
-        <translation type="unfinished"/>
+        <translation>Pasovna širina:</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="111"/>
@@ -4544,7 +4646,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="112"/>
         <source>Resonance : </source>
-        <translation type="unfinished"/>
+        <translation>Resonanca :</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="118"/>
@@ -4572,7 +4674,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="136"/>
         <source>BW: </source>
-        <translation type="unfinished"/>
+        <translation>PŠ:</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="148"/>
@@ -4596,7 +4698,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="39"/>
         <source>Export between loop markers</source>
-        <translation type="unfinished"/>
+        <translation>Izvoz med dvema oznakama</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="61"/>
@@ -4616,7 +4718,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="95"/>
         <source>File format:</source>
-        <translation type="unfinished"/>
+        <translation>Format datoteke:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="120"/>
@@ -4626,27 +4728,27 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="128"/>
         <source>44100 Hz</source>
-        <translation type="unfinished"/>
+        <translation>44100 Hz</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="133"/>
         <source>48000 Hz</source>
-        <translation type="unfinished"/>
+        <translation>48000 Hz</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="138"/>
         <source>88200 Hz</source>
-        <translation type="unfinished"/>
+        <translation>88200 Hz</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="143"/>
         <source>96000 Hz</source>
-        <translation type="unfinished"/>
+        <translation>96000 Hz</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="148"/>
         <source>192000 Hz</source>
-        <translation type="unfinished"/>
+        <translation>192000 Hz</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="174"/>
@@ -4696,37 +4798,37 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="300"/>
         <source>Bitrate:</source>
-        <translation type="unfinished"/>
+        <translation>Bitna hitrost:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="311"/>
         <source>64 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>64 kbit/s</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="316"/>
         <source>128 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>128 kbit/s</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="321"/>
         <source>160 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>160 kbit/s</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="326"/>
         <source>192 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>192 kbit/s</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="331"/>
         <source>256 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>256 kbit/s</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="336"/>
         <source>320 KBit/s</source>
-        <translation type="unfinished"/>
+        <translation>320 kbit/s</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="344"/>
@@ -4736,12 +4838,12 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="370"/>
         <source>Quality settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavitve kakovosti</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="376"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"/>
+        <translation>Prepletanje:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="387"/>
@@ -4771,27 +4873,27 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="418"/>
         <source>1x (None)</source>
-        <translation type="unfinished"/>
+        <translation>1x (brez)</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="423"/>
         <source>2x</source>
-        <translation type="unfinished"/>
+        <translation>2x</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="428"/>
         <source>4x</source>
-        <translation type="unfinished"/>
+        <translation>4x</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="433"/>
         <source>8x</source>
-        <translation type="unfinished"/>
+        <translation>8x</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="474"/>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Zaženi</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="481"/>
@@ -4801,7 +4903,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="46"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Ne morem odpreti datoteke</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="47"/>
@@ -4827,17 +4929,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="265"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Napaka</translation>
     </message>
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="266"/>
         <source>Error while determining file-encoder device. Please try to choose a different output format.</source>
-        <translation type="unfinished"/>
+        <translation>Napaka pri določanju naprave za kodiranje datoteke. Poskusite izbrati drug izhodni format.</translation>
     </message>
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="297"/>
         <source>Rendering: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Zapisovanje: %1%</translation>
     </message>
 </context>
 <context>
@@ -4886,7 +4988,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="507"/>
         <source>Send to active instrument-track</source>
-        <translation type="unfinished"/>
+        <translation>Pošlji na aktivno instrumentalno stezo</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="515"/>
@@ -4926,17 +5028,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="617"/>
         <source>Loading sample</source>
-        <translation type="unfinished"/>
+        <translation>Nalaganje vzorca</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="618"/>
         <source>Please wait, loading sample for preview...</source>
-        <translation type="unfinished"/>
+        <translation>Počakajte, vzorec za predogled se nalaga...</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="645"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Napaka</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="646"/>
@@ -4946,7 +5048,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="1007"/>
         <source>--- Factory files ---</source>
-        <translation type="unfinished"/>
+        <translation>--- Tovarniške datoteke ---</translation>
     </message>
 </context>
 <context>
@@ -4964,7 +5066,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="39"/>
         <source>Seconds</source>
-        <translation type="unfinished"/>
+        <translation>Skunde</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="40"/>
@@ -4974,17 +5076,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="41"/>
         <source>Regen</source>
-        <translation type="unfinished"/>
+        <translation>Regeneracija</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="42"/>
         <source>Noise</source>
-        <translation type="unfinished"/>
+        <translation>Šum</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="43"/>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Inverzno</translation>
     </message>
 </context>
 <context>
@@ -5052,7 +5154,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="85"/>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Inverzno</translation>
     </message>
 </context>
 <context>
@@ -5376,32 +5478,32 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="86"/>
         <source>Channel send amount</source>
-        <translation type="unfinished"/>
+        <translation>Količina poišljanja s kanala</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="242"/>
         <source>Move &amp;left</source>
-        <translation type="unfinished"/>
+        <translation>Premakni &amp;levo</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="243"/>
         <source>Move &amp;right</source>
-        <translation type="unfinished"/>
+        <translation>Premakni &amp;desno</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="245"/>
         <source>Rename &amp;channel</source>
-        <translation type="unfinished"/>
+        <translation>Preimenuj &amp;kanal</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="250"/>
         <source>R&amp;emove channel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Odstrani kanal</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="253"/>
         <source>Remove &amp;unused channels</source>
-        <translation type="unfinished"/>
+        <translation>Odstrani &amp;neuporabljene kanale</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="256"/>
@@ -5434,7 +5536,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/FxLineLcdSpinBox.cpp" line="58"/>
         <source>New FX Channel</source>
-        <translation type="unfinished"/>
+        <translation>Nov FX kanal</translation>
     </message>
 </context>
 <context>
@@ -5442,14 +5544,14 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="704"/>
         <source>Master</source>
-        <translation type="unfinished"/>
+        <translation>Glavni master</translation>
     </message>
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="704"/>
         <location filename="../../src/core/FxMixer.cpp" line="825"/>
         <location filename="../../src/core/FxMixer.cpp" line="827"/>
         <source>FX %1</source>
-        <translation type="unfinished"/>
+        <translation>FX %1</translation>
     </message>
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="705"/>
@@ -5472,12 +5574,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="70"/>
         <source>FX-Mixer</source>
-        <translation type="unfinished"/>
+        <translation>FX mešalka</translation>
     </message>
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="289"/>
         <source>FX Fader %1</source>
-        <translation type="unfinished"/>
+        <translation>FX drsnik %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="298"/>
@@ -5487,7 +5589,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="306"/>
         <source>Mute this FX channel</source>
-        <translation type="unfinished"/>
+        <translation>Utišaj ta FX kanal</translation>
     </message>
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="308"/>
@@ -5497,7 +5599,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FxMixerView.cpp" line="318"/>
         <source>Solo FX channel</source>
-        <translation type="unfinished"/>
+        <translation>Soliraj ta FX kanal</translation>
     </message>
 </context>
 <context>
@@ -5506,7 +5608,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/core/FxMixer.cpp" line="43"/>
         <location filename="../../src/core/FxMixer.cpp" line="58"/>
         <source>Amount to send from channel %1 to channel %2</source>
-        <translation type="unfinished"/>
+        <translation>Količina, ki na bo poslana s kanala %1 na kanal %2</translation>
     </message>
 </context>
 <context>
@@ -5514,12 +5616,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="85"/>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>Tabela</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="86"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Vzorec</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="87"/>
@@ -5533,7 +5635,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="942"/>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1052"/>
         <source>Open GIG file</source>
-        <translation type="unfinished"/>
+        <translation>Odpri GIG datoteko</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="954"/>
@@ -5548,7 +5650,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1056"/>
         <source>GIG Files (*.gig)</source>
-        <translation type="unfinished"/>
+        <translation>GIG datoteke (*.gig)</translation>
     </message>
 </context>
 <context>
@@ -5614,17 +5716,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="300"/>
         <source>Arpeggio</source>
-        <translation type="unfinished"/>
+        <translation>Arpeggio</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="302"/>
         <source>Arpeggio type</source>
-        <translation type="unfinished"/>
+        <translation>Vrsta arpeggia</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="303"/>
         <source>Arpeggio range</source>
-        <translation type="unfinished"/>
+        <translation>Razpon arpeggia</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="304"/>
@@ -5649,62 +5751,62 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
         <source>Arpeggio time</source>
-        <translation type="unfinished"/>
+        <translation>Čas arpeggia</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
         <source>Arpeggio gate</source>
-        <translation type="unfinished"/>
+        <translation>Vrata arpeggia</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="310"/>
         <source>Arpeggio direction</source>
-        <translation type="unfinished"/>
+        <translation>Smer arpeggia</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="311"/>
         <source>Arpeggio mode</source>
-        <translation type="unfinished"/>
+        <translation>Način arpeggia</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation>Gor</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
         <source>Down</source>
-        <translation type="unfinished"/>
+        <translation>Dol</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
         <source>Up and down</source>
-        <translation type="unfinished"/>
+        <translation>Gor in dol</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="322"/>
         <source>Down and up</source>
-        <translation type="unfinished"/>
+        <translation>Dol in gor</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="323"/>
         <source>Random</source>
-        <translation type="unfinished"/>
+        <translation>Naključno</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
         <source>Free</source>
-        <translation type="unfinished"/>
+        <translation>Prosto</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="327"/>
         <source>Sort</source>
-        <translation type="unfinished"/>
+        <translation>Razvrsti</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="328"/>
         <source>Sync</source>
-        <translation type="unfinished"/>
+        <translation>Sinhroniziraj</translation>
     </message>
 </context>
 <context>
@@ -5712,22 +5814,22 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="95"/>
         <source>ARPEGGIO</source>
-        <translation type="unfinished"/>
+        <translation>ARPEGGIO</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="117"/>
         <source>RANGE</source>
-        <translation type="unfinished"/>
+        <translation>RAZPON</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="118"/>
         <source>Arpeggio range:</source>
-        <translation type="unfinished"/>
+        <translation>Razpon arpeggia:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="118"/>
         <source>octave(s)</source>
-        <translation type="unfinished"/>
+        <translation>oktav(a)</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="121"/>
@@ -5774,7 +5876,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="134"/>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="142"/>
         <source>%</source>
-        <translation type="unfinished"/>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="133"/>
@@ -5789,42 +5891,42 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="137"/>
         <source>TIME</source>
-        <translation type="unfinished"/>
+        <translation>ČAS</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="138"/>
         <source>Arpeggio time:</source>
-        <translation type="unfinished"/>
+        <translation>Čas arpeggia:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="138"/>
         <source>ms</source>
-        <translation type="unfinished"/>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="141"/>
         <source>GATE</source>
-        <translation type="unfinished"/>
+        <translation>VRATA</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="142"/>
         <source>Arpeggio gate:</source>
-        <translation type="unfinished"/>
+        <translation>Vrata arpeggia:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="145"/>
         <source>Chord:</source>
-        <translation type="unfinished"/>
+        <translation>Akord:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="148"/>
         <source>Direction:</source>
-        <translation type="unfinished"/>
+        <translation>Smer:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="151"/>
         <source>Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Način:</translation>
     </message>
 </context>
 <context>
@@ -5832,28 +5934,28 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="37"/>
         <source>octave</source>
-        <translation type="unfinished"/>
+        <translation>oktava</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="38"/>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="110"/>
         <source>Major</source>
-        <translation type="unfinished"/>
+        <translation>durova</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="39"/>
         <source>Majb5</source>
-        <translation type="unfinished"/>
+        <translation>H5-dur</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="40"/>
         <source>minor</source>
-        <translation type="unfinished"/>
+        <translation>molova</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="41"/>
         <source>minb5</source>
-        <translation type="unfinished"/>
+        <translation>H5-mol</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="42"/>
@@ -6168,17 +6270,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="111"/>
         <source>Harmonic minor</source>
-        <translation type="unfinished"/>
+        <translation>Harmonična molova</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="112"/>
         <source>Melodic minor</source>
-        <translation type="unfinished"/>
+        <translation>Melodična molova</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="113"/>
         <source>Whole tone</source>
-        <translation type="unfinished"/>
+        <translation>Cel ton</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="114"/>
@@ -6188,12 +6290,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="115"/>
         <source>Major pentatonic</source>
-        <translation type="unfinished"/>
+        <translation>Durova pentatonika</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="116"/>
         <source>Minor pentatonic</source>
-        <translation type="unfinished"/>
+        <translation>Molova pentatonika</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="117"/>
@@ -6203,47 +6305,47 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="118"/>
         <source>Major bebop</source>
-        <translation type="unfinished"/>
+        <translation>Durova bepop</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="119"/>
         <source>Dominant bebop</source>
-        <translation type="unfinished"/>
+        <translation>Dominantna bepop</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="120"/>
         <source>Blues</source>
-        <translation type="unfinished"/>
+        <translation>Blues</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="121"/>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Arabska</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="122"/>
         <source>Enigmatic</source>
-        <translation type="unfinished"/>
+        <translation>Enigmatična</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="123"/>
         <source>Neopolitan</source>
-        <translation type="unfinished"/>
+        <translation>Neopolitanska</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="124"/>
         <source>Neopolitan minor</source>
-        <translation type="unfinished"/>
+        <translation>Neopolitanska molova</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="125"/>
         <source>Hungarian minor</source>
-        <translation type="unfinished"/>
+        <translation>Madžarska molova</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="126"/>
         <source>Dorian</source>
-        <translation type="unfinished"/>
+        <translation>Dorijanska</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="127"/>
@@ -6253,7 +6355,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="128"/>
         <source>Lydian</source>
-        <translation type="unfinished"/>
+        <translation>Lidijanska</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="129"/>
@@ -6273,12 +6375,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="132"/>
         <source>Minor</source>
-        <translation type="unfinished"/>
+        <translation>Molovska</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="133"/>
         <source>Chromatic</source>
-        <translation type="unfinished"/>
+        <translation>Kromatična</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="134"/>
@@ -6303,17 +6405,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="206"/>
         <source>Chords</source>
-        <translation type="unfinished"/>
+        <translation>Akordi</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="208"/>
         <source>Chord type</source>
-        <translation type="unfinished"/>
+        <translation>Vrsta akorda</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="209"/>
         <source>Chord range</source>
-        <translation type="unfinished"/>
+        <translation>Razpon akorda</translation>
     </message>
 </context>
 <context>
@@ -6321,27 +6423,27 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="41"/>
         <source>STACKING</source>
-        <translation type="unfinished"/>
+        <translation>KOPIČENJE</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="55"/>
         <source>Chord:</source>
-        <translation type="unfinished"/>
+        <translation>Akord:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="58"/>
         <source>RANGE</source>
-        <translation type="unfinished"/>
+        <translation>RAZPON</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="59"/>
         <source>Chord range:</source>
-        <translation type="unfinished"/>
+        <translation>Razpon akorda:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="59"/>
         <source>octave(s)</source>
-        <translation type="unfinished"/>
+        <translation>oktav</translation>
     </message>
 </context>
 <context>
@@ -6349,12 +6451,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="51"/>
         <source>ENABLE MIDI INPUT</source>
-        <translation type="unfinished"/>
+        <translation>VKLOPI MIDI VHOD</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="83"/>
         <source>ENABLE MIDI OUTPUT</source>
-        <translation type="unfinished"/>
+        <translation>VKLOPI MIDI IZHOD</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="62"/>
@@ -6380,17 +6482,17 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="118"/>
         <source>NOTE</source>
         <extracomment>This string must be be short, its width must be less than * width of LCD spin-box of three digits</extracomment>
-        <translation type="unfinished"/>
+        <translation>NOTA</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="134"/>
         <source>MIDI devices to receive MIDI events from</source>
-        <translation type="unfinished"/>
+        <translation>MIDI-naprave, ki morajo prejeti MIDI-dogodke od</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="142"/>
         <source>MIDI devices to send MIDI events to</source>
-        <translation type="unfinished"/>
+        <translation>MIDI-naprave, ki morajo poslati MIDI-dogodke do </translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="151"/>
@@ -6451,48 +6553,48 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="47"/>
         <source>VOLUME</source>
-        <translation type="unfinished"/>
+        <translation>GLASNOST</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="48"/>
         <source>Volume</source>
-        <translation>Obseg</translation>
+        <translation>Glasnost</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="49"/>
         <source>CUTOFF</source>
-        <translation type="unfinished"/>
+        <translation>ODREZ</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="50"/>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="63"/>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frekvenca rezanja</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="51"/>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>LOČ</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="52"/>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Resnonanca</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="59"/>
         <source>Envelopes/LFOs</source>
-        <translation type="unfinished"/>
+        <translation>Oblika krivulje/LFOji</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="62"/>
         <source>Filter type</source>
-        <translation type="unfinished"/>
+        <translation>Vrsta filtra</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="64"/>
         <source>Q/Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Q/resonanca</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="80"/>
@@ -6527,7 +6629,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="86"/>
         <source>Moog</source>
-        <translation type="unfinished"/>
+        <translation>Moog</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="87"/>
@@ -6572,7 +6674,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="95"/>
         <source>2x Moog</source>
-        <translation type="unfinished"/>
+        <translation>2x Moog</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="96"/>
@@ -6597,12 +6699,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="100"/>
         <source>Fast Formant</source>
-        <translation type="unfinished"/>
+        <translation>Hitro obrazilo</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="101"/>
         <source>Tripole</source>
-        <translation type="unfinished"/>
+        <translation>Tripolarno</translation>
     </message>
 </context>
 <context>
@@ -6610,12 +6712,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="55"/>
         <source>TARGET</source>
-        <translation type="unfinished"/>
+        <translation>CILJ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="70"/>
         <source>FILTER</source>
-        <translation type="unfinished"/>
+        <translation>FILTER</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="82"/>
@@ -6630,7 +6732,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="84"/>
         <source>Hz</source>
-        <translation type="unfinished"/>
+        <translation>Hz</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="88"/>
@@ -6645,7 +6747,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentSoundShapingView.cpp" line="93"/>
         <source>Envelopes, LFOs and filters are not supported by the current instrument.</source>
-        <translation type="unfinished"/>
+        <translation>Oblike krivulj, LFOji in filtri niso podprti v trenutnem instrumentu.</translation>
     </message>
 </context>
 <context>
@@ -6654,12 +6756,12 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="44"/>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="56"/>
         <source>unnamed_track</source>
-        <translation type="unfinished"/>
+        <translation>neimenovana_steza</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="50"/>
         <source>Base note</source>
-        <translation type="unfinished"/>
+        <translation>Osnovna nota</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="51"/>
@@ -6684,17 +6786,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="57"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Višina</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="58"/>
         <source>Pitch range</source>
-        <translation type="unfinished"/>
+        <translation>Razpon višine</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="59"/>
         <source>FX channel</source>
-        <translation type="unfinished"/>
+        <translation>FX kanal</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="60"/>
@@ -6715,7 +6817,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="98"/>
         <location filename="../../plugins/vestige/vestige.cpp" line="335"/>
         <source>Default preset</source>
-        <translation type="unfinished"/>
+        <translation>Privzeta predloga</translation>
     </message>
 </context>
 <context>
@@ -6753,17 +6855,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="103"/>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="135"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Vhod</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="136"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Izhod</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="138"/>
@@ -6773,7 +6875,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="377"/>
         <source>FX %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>FX %1: %2</translation>
     </message>
 </context>
 <context>
@@ -6781,7 +6883,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="90"/>
         <source>GENERAL SETTINGS</source>
-        <translation type="unfinished"/>
+        <translation>SPLOŠNE NASTAVITVE</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="136"/>
@@ -6816,12 +6918,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="166"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Višina</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="167"/>
         <source>Pitch:</source>
-        <translation type="unfinished"/>
+        <translation>Višina:</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="167"/>
@@ -6831,7 +6933,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="172"/>
         <source>PITCH</source>
-        <translation type="unfinished"/>
+        <translation>VIŠINA</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="179"/>
@@ -6841,17 +6943,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="184"/>
         <source>RANGE</source>
-        <translation type="unfinished"/>
+        <translation>RAZPON</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="194"/>
         <source>FX channel</source>
-        <translation type="unfinished"/>
+        <translation>FX kanal</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="199"/>
         <source>FX</source>
-        <translation type="unfinished"/>
+        <translation>FX</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="209"/>
@@ -6881,7 +6983,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="255"/>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="256"/>
@@ -7162,7 +7264,7 @@ Copyright (C) 2017 ROLI Ltd.</source>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="82"/>
         <source>Modulation amount:</source>
-        <translation type="unfinished"/>
+        <translation>Količina modulacije:</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="85"/>
@@ -7251,7 +7353,7 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/Engine.cpp" line="80"/>
         <source>Opening audio and midi devices</source>
-        <translation type="unfinished"/>
+        <translation>Odpiranje zvočnih in midi naprav</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="85"/>
@@ -7274,7 +7376,7 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="617"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Ne morem odpreti datoteke</translation>
     </message>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="618"/>
@@ -7367,7 +7469,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="296"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>%Datoteka</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="298"/>
@@ -7462,7 +7564,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="411"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pomoč</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="416"/>
@@ -7542,7 +7644,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/MainWindow.cpp" line="531"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1158"/>
         <source>FX Mixer</source>
-        <translation type="unfinished"/>
+        <translation>FX mešalka</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="538"/>
@@ -7648,7 +7750,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1162"/>
         <source>Controller Rack</source>
-        <translation type="unfinished"/>
+        <translation>Regal kontrolerja</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1166"/>
@@ -8383,7 +8485,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="411"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>%Datoteka</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="417"/>
@@ -8431,7 +8533,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="49"/>
         <source>Input channel</source>
-        <translation type="unfinished"/>
+        <translation>Vhodni kanal</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="50"/>
@@ -8441,7 +8543,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="51"/>
         <source>Input controller</source>
-        <translation type="unfinished"/>
+        <translation>Vhodni kontroler</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="52"/>
@@ -9080,7 +9182,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="339"/>
         <source>Random</source>
-        <translation type="unfinished"/>
+        <translation>Naključno</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.h" line="340"/>
@@ -9240,7 +9342,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1711"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1719"/>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Razkroj</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1712"/>
@@ -9636,7 +9738,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="98"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Vzorec</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="99"/>
@@ -9791,7 +9893,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="806"/>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="808"/>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Razkroj</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="810"/>
@@ -9895,7 +9997,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="92"/>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>¸Tabela</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="98"/>
@@ -9905,7 +10007,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="123"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Vzorec</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="128"/>
@@ -10060,7 +10162,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="57"/>
         <source>Modulation amount:</source>
-        <translation type="unfinished"/>
+        <translation>Količina modulacije:</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="60"/>
@@ -10080,7 +10182,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="67"/>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Napad:</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="70"/>
@@ -10090,7 +10192,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="72"/>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>Spusčaj:</translation>
     </message>
     <message>
         <location filename="../../plugins/peak_controller_effect/peak_controller_effect_control_dialog.cpp" line="75"/>
@@ -10522,7 +10624,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/PianoView.cpp" line="818"/>
         <source>Base note</source>
-        <translation type="unfinished"/>
+        <translation>Osnovna nota</translation>
     </message>
     <message>
         <location filename="../../src/gui/PianoView.cpp" line="823"/>
@@ -10754,7 +10856,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/sfxr/sfxr.cpp" line="65"/>
         <source>LMMS port of sfxr</source>
-        <translation type="unfinished"/>
+        <translation>LMMS vrata za sfxr</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="78"/>
@@ -10825,7 +10927,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="62"/>
         <source>Embedded ZynAddSubFX</source>
-        <translation type="unfinished"/>
+        <translation>Vstavljen ZynAddSubFX</translation>
     </message>
 </context>
 <context>
@@ -11003,7 +11105,7 @@ This chip was used in the Commodore 64 computer.</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="680"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="687"/>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TeksotvnaOznaka</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="416"/>
@@ -11501,12 +11603,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="64"/>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Vklopi</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="74"/>
         <source>On/Off</source>
-        <translation type="unfinished"/>
+        <translation>Vklopi/izklopi</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="147"/>
@@ -11519,7 +11621,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="178"/>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="223"/>
@@ -11738,7 +11840,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/Lv2ViewBase.cpp" line="151"/>
         <source>Show GUI</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži grafični vmesnik</translation>
     </message>
     <message>
         <location filename="../../src/gui/Lv2ViewBase.cpp" line="176"/>
@@ -11857,7 +11959,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="43"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Vhod</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="44"/>
@@ -11872,7 +11974,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="50"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Velikost</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="55"/>
@@ -11887,7 +11989,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="61"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Izhod</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="62"/>
@@ -12449,7 +12551,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="41"/>
         <source>FX channel</source>
-        <translation type="unfinished"/>
+        <translation>FX kanal</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="42"/>
@@ -12493,7 +12595,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="142"/>
         <source>FX %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>FX %1: %2</translation>
     </message>
 </context>
 <context>
@@ -12501,7 +12603,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="52"/>
         <source>GENERAL SETTINGS</source>
-        <translation type="unfinished"/>
+        <translation>SPLOŠNE NASTAVITVE</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="87"/>
@@ -12536,12 +12638,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="117"/>
         <source>FX channel</source>
-        <translation type="unfinished"/>
+        <translation>FX kanal</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="122"/>
         <source>FX</source>
-        <translation type="unfinished"/>
+        <translation>FX</translation>
     </message>
 </context>
 <context>
@@ -12774,7 +12876,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../src/gui/SetupDialog.cpp" line="612"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="832"/>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="616"/>
@@ -12870,7 +12972,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../src/gui/SetupDialog.cpp" line="731"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="835"/>
         <source>Paths</source>
-        <translation type="unfinished"/>
+        <translation>Poti</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="861"/>
@@ -12919,17 +13021,17 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="125"/>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frekvenca rezanja</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="126"/>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Resnonanca</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="127"/>
         <source>Filter type</source>
-        <translation type="unfinished"/>
+        <translation>Vrsta filtra</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="130"/>
@@ -12999,24 +13101,24 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="555"/>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="670"/>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Napad:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="559"/>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="676"/>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Razkroj:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="563"/>
         <source>Sustain:</source>
-        <translation type="unfinished"/>
+        <translation>Vzdržuj:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="567"/>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="682"/>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>Spusčaj:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="571"/>
@@ -13046,12 +13148,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="608"/>
         <source>Noise</source>
-        <translation type="unfinished"/>
+        <translation>Šum</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="625"/>
         <source>Sync</source>
-        <translation type="unfinished"/>
+        <translation>Sinhroniziraj</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="634"/>
@@ -13135,7 +13237,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="143"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Ne morem odpreti datoteke</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="144"/>
@@ -13158,7 +13260,7 @@ Latency: %2 ms</source>
         <location filename="../../src/core/DataFile.cpp" line="350"/>
         <location filename="../../src/core/DataFile.cpp" line="358"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Napaka</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="343"/>
@@ -13384,7 +13486,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/widgets/StepRecorderWidget.cpp" line="92"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Namig</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/StepRecorderWidget.cpp" line="92"/>
@@ -13589,7 +13691,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="356"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Namig</translation>
     </message>
     <message>
         <location filename="../../src/gui/TimeLineWidget.cpp" line="357"/>
@@ -13711,7 +13813,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="731"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Namig</translation>
     </message>
     <message>
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="1061"/>
@@ -13849,12 +13951,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
         <source>FX %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>FX %1: %2</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
         <source>Assign to new FX Channel</source>
-        <translation type="unfinished"/>
+        <translation>Dodeli novemu FX kanalu</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="352"/>
@@ -14256,7 +14358,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="482"/>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="562"/>
         <source>Vst Plugin Preset (*.fxp *.fxb)</source>
-        <translation type="unfinished"/>
+        <translation>Predloga Vst vtičnika (*.fxp *.fxb)</translation>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="558"/>
@@ -14271,22 +14373,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="561"/>
         <source>.fxp</source>
-        <translation type="unfinished"/>
+        <translation>.fxp</translation>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="577"/>
         <source>.FXP</source>
-        <translation type="unfinished"/>
+        <translation>.FXP</translation>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="577"/>
         <source>.FXB</source>
-        <translation type="unfinished"/>
+        <translation>.FXB</translation>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="578"/>
         <source>.fxb</source>
-        <translation type="unfinished"/>
+        <translation>.fxb</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="133"/>
@@ -14639,7 +14741,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="884"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="888"/>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Inverzno</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="890"/>
@@ -14891,7 +14993,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="121"/>
         <source>Resonance bandwidth</source>
-        <translation type="unfinished"/>
+        <translation>Pasnovna širina resonance</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="122"/>
@@ -14934,12 +15036,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="527"/>
         <source>Bandwidth:</source>
-        <translation type="unfinished"/>
+        <translation>Pasovna širina:</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="528"/>
         <source>BW</source>
-        <translation type="unfinished"/>
+        <translation>PŠ</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="531"/>
@@ -14964,12 +15066,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="539"/>
         <source>Resonance bandwidth:</source>
-        <translation type="unfinished"/>
+        <translation>Pasovna širina resonance:</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="540"/>
         <source>RES BW</source>
-        <translation type="unfinished"/>
+        <translation>LOČ PŠ</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="542"/>
@@ -14979,7 +15081,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="544"/>
         <source>Show GUI</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži grafični vmesnik</translation>
     </message>
 </context>
 <context>
@@ -15291,7 +15393,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="70"/>
         <source>Noise</source>
-        <translation type="unfinished"/>
+        <translation>Šum</translation>
     </message>
     <message>
         <location filename="../../plugins/kicker/kicker.cpp" line="71"/>
@@ -15473,12 +15575,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="77"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Vhod</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="77"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Izhod</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="79"/>
@@ -15580,7 +15682,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="836"/>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Razkroj:</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="852"/>
@@ -16136,7 +16238,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="92"/>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>¸Tabela</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="98"/>
@@ -16146,7 +16248,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="123"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Vzorec</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="128"/>
@@ -16169,12 +16271,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="101"/>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>¸Tabela</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="102"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Vzorec</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/sf2_player.cpp" line="103"/>

@@ -572,7 +572,7 @@ Als u interesse heeft om LMMS naar een andere taal te vertalen, of als u de best
         <translation>Verbinding verbreken met &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="449"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
         <source>Model is already connected to this pattern.</source>
         <translation>Model is reeds verbonden met dit patroon.</translation>
     </message>

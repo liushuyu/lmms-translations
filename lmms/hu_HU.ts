@@ -572,7 +572,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
         <translation>&quot;%1&quot; leválasztása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="449"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
         <source>Model is already connected to this pattern.</source>
         <translation>Ez a vezérlő már csatlakoztatva van a kliphez.</translation>
     </message>

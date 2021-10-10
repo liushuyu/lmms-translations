@@ -575,7 +575,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
         <translation>&quot;%1&quot; 연결 해제</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="449"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
         <source>Model is already connected to this pattern.</source>
         <translation>대상이 이미 패턴과 연결되어 있습니다.</translation>
     </message>

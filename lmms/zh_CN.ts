@@ -580,7 +580,7 @@ Zixing Liu &lt;liushuyu at aosc.xyz&gt;
         <translation>断开“%1”的连接</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="449"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
         <source>Model is already connected to this pattern.</source>
         <translation>模型已连接到此片段。</translation>
     </message>

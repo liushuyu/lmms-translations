@@ -572,7 +572,7 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
         <translation>Déconnecter &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="449"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
         <source>Model is already connected to this pattern.</source>
         <translation>Ce modèle est déjà connecté à ce motif.</translation>
     </message>

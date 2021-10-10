@@ -571,7 +571,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
         <translation>»%1« trennen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="449"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
         <source>Model is already connected to this pattern.</source>
         <translation>Model ist bereits mit diesem Pattern verbunden.</translation>
     </message>

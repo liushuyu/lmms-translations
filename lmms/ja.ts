@@ -572,7 +572,7 @@ LMMSを他の言語に翻訳したり、翻訳を改善することに興味が�
         <translation>&quot;%1&quot; を切断</translation>
     </message>
     <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="449"/>
+        <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
         <source>Model is already connected to this pattern.</source>
         <translation>モデルは、すでにこのパターンに接続されています。</translation>
     </message>
