@@ -7263,22 +7263,22 @@ Poklepejte pro výběr souboru.</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="498"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
         <source>Configuration file</source>
         <translation>Soubor nastavení</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="500"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>Chyba při kontrole konfiguračního souboru na řádku %1:%2: %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="617"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
         <source>Could not open file</source>
         <translation>Nemohu otevřít soubor</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>Nelze otevřít soubor %1 pro zápis.
@@ -13193,32 +13193,32 @@ Zpoždění %2 ms</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1866"/>
+        <location filename="../../src/core/DataFile.cpp" line="1867"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1821"/>
+        <location filename="../../src/core/DataFile.cpp" line="1822"/>
         <source>Error in file</source>
         <translation>Chyba v souboru</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1822"/>
+        <location filename="../../src/core/DataFile.cpp" line="1823"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Soubor %1 pravděpodobně obsahuje chyby, a proto nemohl být načten.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1865"/>
+        <location filename="../../src/core/DataFile.cpp" line="1866"/>
         <source>Version difference</source>
         <translation>Rozdíl verzí</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1862"/>
+        <location filename="../../src/core/DataFile.cpp" line="1863"/>
         <source>template</source>
         <translation>šablona</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1862"/>
+        <location filename="../../src/core/DataFile.cpp" line="1863"/>
         <source>project</source>
         <translation>projekt</translation>
     </message>

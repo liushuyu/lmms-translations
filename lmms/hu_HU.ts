@@ -7268,23 +7268,23 @@ Kattints duplán egy fájl kiválasztásához.</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="498"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
         <source>Configuration file</source>
         <translation>Konfigurációs fájl</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="500"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>Hiba a konfigurációs fájl olvasásakor:
 %1:%2: %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="617"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
         <source>Could not open file</source>
         <translation>Nem lehet megnyitni a fájlt</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>A(z) %1 fájl nem nyitható meg írásra.
@@ -13198,32 +13198,32 @@ Latency: %2 ms</source>
 Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra!</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1866"/>
+        <location filename="../../src/core/DataFile.cpp" line="1867"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>Ez a %1 az LMMS %2 verziójával készült</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1821"/>
+        <location filename="../../src/core/DataFile.cpp" line="1822"/>
         <source>Error in file</source>
         <translation>Hiba a fájlban</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1822"/>
+        <location filename="../../src/core/DataFile.cpp" line="1823"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>A(z) %1 fájl hibát tartalmaz, ezért nem lehet betölteni.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1865"/>
+        <location filename="../../src/core/DataFile.cpp" line="1866"/>
         <source>Version difference</source>
         <translation>Verzió eltérés</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1862"/>
+        <location filename="../../src/core/DataFile.cpp" line="1863"/>
         <source>template</source>
         <translation>sablon</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1862"/>
+        <location filename="../../src/core/DataFile.cpp" line="1863"/>
         <source>project</source>
         <translation>projekt</translation>
     </message>

@@ -7263,22 +7263,22 @@ Double click to pick a file.</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="498"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
         <source>Configuration file</source>
         <translation>設定ファイル</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="500"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>設定ファイルの%1行目%2列目でパースエラー: %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="617"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
         <source>Could not open file</source>
         <translation>ファイルを開くことができませんでした</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>ファイル %1 を開けません。
@@ -13192,32 +13192,32 @@ Latency: %2 ms</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1866"/>
+        <location filename="../../src/core/DataFile.cpp" line="1867"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1821"/>
+        <location filename="../../src/core/DataFile.cpp" line="1822"/>
         <source>Error in file</source>
         <translation>ファイルエラー</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1822"/>
+        <location filename="../../src/core/DataFile.cpp" line="1823"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>ファイル %1 はエラーを含んでいるようで、読み込めません。</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1865"/>
+        <location filename="../../src/core/DataFile.cpp" line="1866"/>
         <source>Version difference</source>
         <translation>バージョンの相違</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1862"/>
+        <location filename="../../src/core/DataFile.cpp" line="1863"/>
         <source>template</source>
         <translation>テンプレート</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1862"/>
+        <location filename="../../src/core/DataFile.cpp" line="1863"/>
         <source>project</source>
         <translation>プロジェクト</translation>
     </message>

@@ -7276,22 +7276,22 @@ Double click to pick a file.</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="498"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
         <source>Configuration file</source>
         <translation>설정 파일</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="500"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>설정 파일 분석 중 오류 발생 (행 %1:%2: %3)</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="617"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
         <source>Could not open file</source>
         <translation>파일을 열 수 없음</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>작성하기 위한 %1 파일을 열 수 없습니다.
@@ -13209,32 +13209,32 @@ Latency: %2 ms</source>
         <translation>파일 %1을(를) 쓰기 위하여 열 수 없습니다. 파일을 쓸 수 있는 권한이 없기 때문일 수 있습니다. 파일에 쓸 수 있는 권한이 있는지 확인 후 다시 시도하시기 바랍니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1866"/>
+        <location filename="../../src/core/DataFile.cpp" line="1867"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1821"/>
+        <location filename="../../src/core/DataFile.cpp" line="1822"/>
         <source>Error in file</source>
         <translation>파일 오류</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1822"/>
+        <location filename="../../src/core/DataFile.cpp" line="1823"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>파일 %1에 오류가 있어 로딩에 실패하였습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1865"/>
+        <location filename="../../src/core/DataFile.cpp" line="1866"/>
         <source>Version difference</source>
         <translation>버전 차이</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1862"/>
+        <location filename="../../src/core/DataFile.cpp" line="1863"/>
         <source>template</source>
         <translation>템플릿</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1862"/>
+        <location filename="../../src/core/DataFile.cpp" line="1863"/>
         <source>project</source>
         <translation>프로젝트</translation>
     </message>

@@ -2328,7 +2328,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="194"/>
         <source>File Paths</source>
-        <translation type="unfinished"/>
+        <translation>Ścieżki Pliku</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="212"/>
@@ -7547,22 +7547,22 @@ Double click to pick a file.</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="498"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
         <source>Configuration file</source>
         <translation>Plik konfiguracyjny</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="500"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>Błąd podczas parsowania pliku konfiguracyjnego w linii %1:%2: %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="617"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
         <source>Could not open file</source>
         <translation>Nie można otworzyć pliku</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>Nie udało się otworzyć pliku %1 do zapisu.
@@ -8342,7 +8342,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="473"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="508"/>
         <source>Unable to open selected file.</source>
-        <translation type="unfinished"/>
+        <translation>Nie można otworzyć wybranego pliku.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="503"/>
@@ -10632,7 +10632,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4770"/>
         <source>File actions</source>
-        <translation type="unfinished"/>
+        <translation>Akcje na plikach</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4779"/>
@@ -13479,32 +13479,32 @@ Upewnij się, że masz przynajmniej uprawnienia odczytu tego pliku a następnie 
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1866"/>
+        <location filename="../../src/core/DataFile.cpp" line="1867"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1821"/>
+        <location filename="../../src/core/DataFile.cpp" line="1822"/>
         <source>Error in file</source>
         <translation>Błąd w pliku</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1822"/>
+        <location filename="../../src/core/DataFile.cpp" line="1823"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Wygląda na to, że plik %1 zawiera błędy i nie może zostać załadowany.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1865"/>
+        <location filename="../../src/core/DataFile.cpp" line="1866"/>
         <source>Version difference</source>
         <translation>Różnica wersji</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1862"/>
+        <location filename="../../src/core/DataFile.cpp" line="1863"/>
         <source>template</source>
         <translation>szablon</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1862"/>
+        <location filename="../../src/core/DataFile.cpp" line="1863"/>
         <source>project</source>
         <translation>projekt</translation>
     </message>
