@@ -7275,22 +7275,22 @@ Fai doppio click per scegliere un file.</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="519"/>
         <source>Configuration file</source>
         <translation>File di configurazione</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="500"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="520"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>Si è riscontrato un errore nell&apos;analisi del file di configurazione alle linee %1:%2: %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="638"/>
         <source>Could not open file</source>
         <translation>Non è stato possibile aprire il file</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="639"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>Impossibile scrivere sul file %1.
@@ -13609,12 +13609,12 @@ Assicurati di avere almeno i permessi di lettura del file e prova di nuovo.</tra
         <translation>Una volta fermata la riproduzione, mantieni la posizione</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="356"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="362"/>
         <source>Hint</source>
         <translation>Suggerimento</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="357"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="363"/>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
         <translation>Premi &lt;%1&gt; per disabilitare i punti di loop magnetici.</translation>
     </message>

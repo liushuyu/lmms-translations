@@ -1799,7 +1799,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1298"/>
         <source>Show Time Panel</source>
-        <translation type="unfinished"/>
+        <translation>Idő panel megjelenítése</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1306"/>
@@ -1814,12 +1814,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1329"/>
         <source>Compact Slots</source>
-        <translation type="unfinished"/>
+        <translation>Rekeszek összecsukása</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1334"/>
         <source>Expand Slots</source>
-        <translation type="unfinished"/>
+        <translation>Rekeszek kinyitása</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1339"/>
@@ -2301,7 +2301,7 @@ Szeretnéd ezt most megtenni?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1049"/>
         <source>Use OSC-GUI bridges when possible, this way separating the UI from DSP code</source>
-        <translation type="unfinished"/>
+        <translation>OSC-GUI hidak használata lehetőség szerint, így elkülönítve a felhasználói felületet a DSP kódtól.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1052"/>
@@ -2552,7 +2552,7 @@ Szeretnéd ezt most megtenni?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2712"/>
         <source>Load Carla backend in global namespace (NOT RECOMMENDED)</source>
-        <translation type="unfinished"/>
+        <translation>A Carla backend betöltése globális névtérben (NEM JAVASOLT)</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2728"/>
@@ -2931,7 +2931,7 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="272"/>
         <source>Auto Makeup Gain</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus kimeneti erősítés</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="275"/>
@@ -3060,7 +3060,7 @@ Ez a mód nem elérhető VST pluginek esetén.</translation>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="56"/>
         <source>Auto Makeup Gain</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus kimeneti erősítés</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="57"/>
@@ -5416,17 +5416,17 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="258"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Módosítás</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="259"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Visszaállítás</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/FxLine.cpp" line="260"/>
         <source>Pick random</source>
-        <translation type="unfinished"/>
+        <translation>Véletlenszerű</translation>
     </message>
 </context>
 <context>
@@ -5596,7 +5596,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="152"/>
         <source>Preparing microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Microtuner előkészítése</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="156"/>
@@ -5883,7 +5883,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="46"/>
         <source>tri</source>
-        <translation type="unfinished"/>
+        <translation>tri</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="48"/>
@@ -6428,17 +6428,17 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="57"/>
         <source>MICROTUNER</source>
-        <translation type="unfinished"/>
+        <translation>MICROTUNER</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="64"/>
         <source>Active scale:</source>
-        <translation type="unfinished"/>
+        <translation>Aktív skála:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="71"/>
         <source>Active keymap:</source>
-        <translation type="unfinished"/>
+        <translation>Aktív kiosztás:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMiscView.cpp" line="78"/>
@@ -6876,7 +6876,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="253"/>
         <source>Chord stacking &amp; arpeggio</source>
-        <translation type="unfinished"/>
+        <translation>Akkordok és arpeggio</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="254"/>
@@ -6967,7 +6967,7 @@ Copyright (C) 2017 ROLI Ltd.</source>
     <message>
         <location filename="../../src/core/Keymap.cpp" line="31"/>
         <source>empty</source>
-        <translation type="unfinished"/>
+        <translation>üres</translation>
     </message>
 </context>
 <context>
@@ -7268,23 +7268,23 @@ Kattints duplán egy fájl kiválasztásához.</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="519"/>
         <source>Configuration file</source>
         <translation>Konfigurációs fájl</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="500"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="520"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>Hiba a konfigurációs fájl olvasásakor:
 %1:%2: %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="638"/>
         <source>Could not open file</source>
         <translation>Nem lehet megnyitni a fájlt</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="639"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>A(z) %1 fájl nem nyitható meg írásra.
@@ -7565,7 +7565,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="554"/>
         <source>Microtuner configuration</source>
-        <translation type="unfinished"/>
+        <translation>Microtuner konfiguráció</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="658"/>
@@ -7585,7 +7585,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="695"/>
         <source>Recovered project not saved</source>
-        <translation type="unfinished"/>
+        <translation>A visszaállított projekt nincs mentve</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="696"/>
@@ -7651,7 +7651,8 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
         <location filename="../../src/gui/MainWindow.cpp" line="996"/>
         <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
-        <translation type="unfinished"/>
+        <translation>Az LMMS jelenleg nem tartalmaz beépített súgót.
+Az online dokumentáció a https://docs.lmms.io/ oldalon érhető el.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1162"/>
@@ -7666,7 +7667,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1170"/>
         <source>Microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Microtuner</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1177"/>
@@ -7804,22 +7805,22 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="38"/>
         <source>Microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Microtuner</translation>
     </message>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="39"/>
         <source>Microtuner on / off</source>
-        <translation type="unfinished"/>
+        <translation>Microtuner be / ki</translation>
     </message>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="40"/>
         <source>Selected scale</source>
-        <translation type="unfinished"/>
+        <translation>Kiválasztott skála</translation>
     </message>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="41"/>
         <source>Selected keyboard mapping</source>
-        <translation type="unfinished"/>
+        <translation>Kiválasztott billentyűzetkiosztás</translation>
     </message>
 </context>
 <context>
@@ -7827,30 +7828,30 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="50"/>
         <source>Selected scale</source>
-        <translation type="unfinished"/>
+        <translation>Kiválasztott skála</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="51"/>
         <source>Selected keymap</source>
-        <translation type="unfinished"/>
+        <translation>Kiválasztott billentyűzetkiosztás</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="52"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="135"/>
         <source>First key</source>
-        <translation type="unfinished"/>
+        <translation>Első billentyű</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="53"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="141"/>
         <source>Last key</source>
-        <translation type="unfinished"/>
+        <translation>Utolsó billentyű</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="54"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="147"/>
         <source>Middle key</source>
-        <translation type="unfinished"/>
+        <translation>Középső billentyű</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="55"/>
@@ -7863,17 +7864,17 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="159"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="162"/>
         <source>Base note frequency</source>
-        <translation type="unfinished"/>
+        <translation>Alaphang frekvenciája</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="59"/>
         <source>Microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Microtuner</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="68"/>
         <source>Scale:</source>
-        <translation type="unfinished"/>
+        <translation>Skála:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="81"/>
@@ -7884,13 +7885,13 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="84"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="119"/>
         <source>Load</source>
-        <translation type="unfinished"/>
+        <translation>Betöltés</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="85"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="120"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Mentés</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="93"/>
@@ -7907,7 +7908,7 @@ Unity (0.0 cents or ratio 1/1) is always present as a hidden first value; do not
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="103"/>
         <source>Keymap:</source>
-        <translation type="unfinished"/>
+        <translation>Kiosztás:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="116"/>
@@ -7926,7 +7927,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="136"/>
         <source>FIRST</source>
-        <translation type="unfinished"/>
+        <translation>ELSŐ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="137"/>
@@ -7936,7 +7937,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="142"/>
         <source>LAST</source>
-        <translation type="unfinished"/>
+        <translation>UTOLSÓ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="143"/>
@@ -7946,7 +7947,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="148"/>
         <source>MIDDLE</source>
-        <translation type="unfinished"/>
+        <translation>KÖZÉPSŐ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="149"/>
@@ -7961,12 +7962,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="155"/>
         <source>Base note frequency will be assigned to this MIDI key</source>
-        <translation type="unfinished"/>
+        <translation>Az alaphang ehhez a billentyűhöz lesz rendelve.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="160"/>
         <source>BASE NOTE FREQ</source>
-        <translation type="unfinished"/>
+        <translation>ALAPHANG FREKV</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="165"/>
@@ -7976,52 +7977,52 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="303"/>
         <source>Scale parsing error</source>
-        <translation type="unfinished"/>
+        <translation>Hiba a skála értelmezésekor</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="307"/>
         <source>Scale name cannot start with an exclamation mark</source>
-        <translation type="unfinished"/>
+        <translation>A skála neve nem kezdődhet felkiáltójellel.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="308"/>
         <source>Scale name cannot contain a new-line character</source>
-        <translation type="unfinished"/>
+        <translation>A skála neve nem tartalmazhat sortörést.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="321"/>
         <source>Interval defined in cents cannot be converted to a number</source>
-        <translation type="unfinished"/>
+        <translation>Egy centekben megadott távolság nem konvertálható számmá.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="328"/>
         <source>Numerator of an interval defined as a ratio cannot be converted to a number</source>
-        <translation type="unfinished"/>
+        <translation>Egy törtként megadott távolság számlálója nem konvertálható számmá.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="333"/>
         <source>Denominator of an interval defined as a ratio cannot be converted to a number</source>
-        <translation type="unfinished"/>
+        <translation>Egy törtként megadott távolság nevezője nem konvertálható számmá.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="334"/>
         <source>Interval defined as a ratio cannot be negative</source>
-        <translation type="unfinished"/>
+        <translation>Törtként megadott távolság nem lehet negatív.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="347"/>
         <source>Keymap parsing error</source>
-        <translation type="unfinished"/>
+        <translation>Hiba a kiosztás értelmezésekor</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="351"/>
         <source>Keymap name cannot start with an exclamation mark</source>
-        <translation type="unfinished"/>
+        <translation>A kiosztás neve nem kezdődhet felkiáltójellel.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="352"/>
         <source>Keymap name cannot contain a new-line character</source>
-        <translation type="unfinished"/>
+        <translation>A kiosztás neve nem tartalmazhat sortörést.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="366"/>
@@ -8036,7 +8037,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="456"/>
         <source>Invalid keymap</source>
-        <translation type="unfinished"/>
+        <translation>Érvénytelen kiosztás</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="456"/>
@@ -8046,66 +8047,66 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="468"/>
         <source>Open scale</source>
-        <translation type="unfinished"/>
+        <translation>Skála megnyitása</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="468"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="552"/>
         <source>Scala scale definition (*.scl)</source>
-        <translation type="unfinished"/>
+        <translation>Scala skáladefiníció (*.scl)</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="473"/>
         <source>Scale load failure</source>
-        <translation type="unfinished"/>
+        <translation>Hiba a skála betöltésekor</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="473"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="508"/>
         <source>Unable to open selected file.</source>
-        <translation type="unfinished"/>
+        <translation>Nem lehet megnyitni a kijelölt fájlt.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="503"/>
         <source>Open keymap</source>
-        <translation type="unfinished"/>
+        <translation>Billentyűzetkiosztás megnyitása</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="503"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="588"/>
         <source>Scala keymap definition (*.kbm)</source>
-        <translation type="unfinished"/>
+        <translation>Scala billentyűzetkiosztás-definíció (*.kbm)</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="508"/>
         <source>Keymap load failure</source>
-        <translation type="unfinished"/>
+        <translation>Hiba a billentyűzetkiosztás betöltésekor</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="552"/>
         <source>Save scale</source>
-        <translation type="unfinished"/>
+        <translation>Skála mentése</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="558"/>
         <source>Scale save failure</source>
-        <translation type="unfinished"/>
+        <translation>Hiba a skála mentésekor</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="558"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="594"/>
         <source>Unable to open selected file for writing.</source>
-        <translation type="unfinished"/>
+        <translation>Nem lehet megnyitni a kijelölt fájlt írásra.</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="588"/>
         <source>Save keymap</source>
-        <translation type="unfinished"/>
+        <translation>Billentyűzetkiosztás mentése</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="594"/>
         <source>Keymap save failure</source>
-        <translation type="unfinished"/>
+        <translation>Hiba a billentyűzetkiosztás mentésekor</translation>
     </message>
 </context>
 <context>
@@ -10718,7 +10719,7 @@ Ok: &quot;%2&quot;</translation>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="48"/>
         <source>Monstrous 3-oscillator synth with modulation matrix</source>
-        <translation type="unfinished"/>
+        <translation>Szörnyűséges 3 oszcillátoros szintetizátor modulációs mátrixszal</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEcho.cpp" line="37"/>
@@ -10967,7 +10968,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="293"/>
         <source>Favorites only</source>
-        <translation type="unfinished"/>
+        <translation>Csak kedvencek</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="306"/>
@@ -11107,7 +11108,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="809"/>
         <source>Label/URI</source>
-        <translation type="unfinished"/>
+        <translation>Címke/URI</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="814"/>
@@ -12573,7 +12574,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/Scale.cpp" line="72"/>
         <source>empty</source>
-        <translation type="unfinished"/>
+        <translation>üres</translation>
     </message>
 </context>
 <context>
@@ -13287,12 +13288,12 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="929"/>
         <source>Record samples from Audio-device</source>
-        <translation type="unfinished"/>
+        <translation>Felvétel hangbemenetről</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="930"/>
         <source>Record samples from Audio-device while playing song or BB track</source>
-        <translation type="unfinished"/>
+        <translation>Felvétel hangbemenetről a dal lejátszása közben</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="931"/>
@@ -13599,12 +13600,12 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
         <translation>Leállításkor a pozíció megtartása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="356"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="362"/>
         <source>Hint</source>
         <translation>Tipp</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="357"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="363"/>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
         <translation type="unfinished"/>
     </message>
@@ -13778,22 +13779,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="1107"/>
         <source>Clip color</source>
-        <translation type="unfinished"/>
+        <translation>Klip színe</translation>
     </message>
     <message>
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="1109"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Módosítás</translation>
     </message>
     <message>
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="1110"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Visszaállítás</translation>
     </message>
     <message>
         <location filename="../../src/gui/TrackContentObjectView.cpp" line="1111"/>
         <source>Pick random</source>
-        <translation type="unfinished"/>
+        <translation>Véletlenszerű</translation>
     </message>
 </context>
 <context>
@@ -13881,27 +13882,27 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="358"/>
         <source>Track color</source>
-        <translation type="unfinished"/>
+        <translation>Sáv színe</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="360"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Módosítás</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="361"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Visszaállítás</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="362"/>
         <source>Pick random</source>
-        <translation type="unfinished"/>
+        <translation>Véletlenszerű</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="364"/>
         <source>Reset clip colors</source>
-        <translation type="unfinished"/>
+        <translation>Klipek színének visszaállítása</translation>
     </message>
 </context>
 <context>
@@ -14898,12 +14899,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="120"/>
         <source>Resonance center frequency</source>
-        <translation type="unfinished"/>
+        <translation>Rezonancia középfrekvencia</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="121"/>
         <source>Resonance bandwidth</source>
-        <translation type="unfinished"/>
+        <translation>Rezonancia sávszélesség</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="122"/>
@@ -14966,17 +14967,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="535"/>
         <source>Resonance center frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Rezonancia középfrekvencia:</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="536"/>
         <source>RES CF</source>
-        <translation type="unfinished"/>
+        <translation>RES CF</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="539"/>
         <source>Resonance bandwidth:</source>
-        <translation type="unfinished"/>
+        <translation>Rezonancia sávszélesség:</translation>
     </message>
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="540"/>
@@ -15569,7 +15570,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="289"/>
         <source>24dB/oct Filter</source>
-        <translation type="unfinished"/>
+        <translation>24dB/oct szűrő</translation>
     </message>
 </context>
 <context>

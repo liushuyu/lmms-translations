@@ -7555,22 +7555,22 @@ Bir dosya seçmek için çift tıklayın.</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="519"/>
         <source>Configuration file</source>
         <translation>Yapılandırma dosyası</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="500"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="520"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>%1:%2: %3 satırındaki yapılandırma dosyası ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="638"/>
         <source>Could not open file</source>
         <translation>Dosya açılamadı</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="639"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>%1 dosyası yazmak için açılamadı.
@@ -13895,12 +13895,12 @@ Gecikme: %2 ms</translation>
         <translation>Durduktan sonra pozisyonunuzu koruyun</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="356"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="362"/>
         <source>Hint</source>
         <translation>İpucu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="357"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="363"/>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
         <translation>Manyetik döngü noktalarını devre dışı bırakmak için &lt;%1&gt; tuşuna basın.</translation>
     </message>

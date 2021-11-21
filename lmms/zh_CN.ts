@@ -7272,22 +7272,22 @@ Double click to pick a file.</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="519"/>
         <source>Configuration file</source>
         <translation>配置文件</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="500"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="520"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>解析配置文件发生错误（行%1:%2:%3）</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="638"/>
         <source>Could not open file</source>
         <translation>无法打开文件</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="639"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>无法写入文件 %1
@@ -13603,12 +13603,12 @@ Latency: %2 ms</source>
         <translation>停止后保持位置不变</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="356"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="362"/>
         <source>Hint</source>
         <translation>提示</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="357"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="363"/>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
         <translation>按住 &lt;%1&gt; 禁用磁性吸附。</translation>
     </message>

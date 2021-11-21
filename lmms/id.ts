@@ -7266,22 +7266,22 @@ Double click to pick a file.</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="499"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="519"/>
         <source>Configuration file</source>
         <translation>Berkas konfigurasi</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="500"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="520"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>Kesalahan saat mengurai berkas konfigurasi pada baris %1:%2 %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="618"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="638"/>
         <source>Could not open file</source>
         <translation>Tidak bisa membuka berkas</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="619"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="639"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>Tidak bisa membuka berkas %1</translation>
@@ -13599,12 +13599,12 @@ Setidaknya pastikan Anda memiliki izini baca kepada berkas tersebut lalu coba la
         <translation>Jaga posisi setelah berhenti</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="356"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="362"/>
         <source>Hint</source>
         <translation>Petunjuk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/TimeLineWidget.cpp" line="357"/>
+        <location filename="../../src/gui/TimeLineWidget.cpp" line="363"/>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
         <translation>Tekan &lt;%1&gt; untuk menonaktifkan titik pengulangan magnetik.</translation>
     </message>
