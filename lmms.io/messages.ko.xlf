@@ -1302,6 +1302,11 @@
 					&lt;a href=&quot;/chat/&quot;&gt;여기를 클릭하여&lt;/a&gt; 서버에 가입하십시오.</target>
         
       </trans-unit>
+      <trans-unit id="QDlEtxo" resname="Our IRC channel is &lt;a href=&quot;https://web.libera.chat/#lmms&quot;&gt;#lmms&lt;/a&gt; on&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;https://web.libera.chat&quot;&gt;Libera Chat&lt;/a&gt;.">
+        <source>Our IRC channel is &lt;a href=&quot;https://web.libera.chat/#lmms&quot;&gt;#lmms&lt;/a&gt; on
+					&lt;a href=&quot;https://web.libera.chat&quot;&gt;Libera Chat&lt;/a&gt;.</source>
+        
+      </trans-unit>
       <trans-unit id="oz_V6mh" resname="Posting to the mailing list is another way to reach out to our developers:">
         <source>Posting to the mailing list is another way to reach out to our developers:</source>
         <target>메일링 리스트에 게시하는 것은 개발자에게 연락하는 또 다른 방법입니다.</target>
