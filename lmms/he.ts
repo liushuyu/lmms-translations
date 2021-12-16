@@ -1,10 +1,10 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="he" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="he">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="20"/>
         <source>About LMMS</source>
-        <translation>אודות LMMS</translation>
+        <translation>אודות על LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="43"/>
@@ -19,18 +19,17 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="78"/>
         <source>About</source>
-        <translation>אודות</translation>
+        <translation>על אודות</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="100"/>
         <source>LMMS - easy music production for everyone.</source>
-        <translation>LMMS - יצירת מוסיקה פשוטה עבור כולם</translation>
+        <translation>LMMS - יצירת מוזיקה פשוטה לכולם.</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="126"/>
         <source>Copyright © %1.</source>
-        <translation>כל הזכויות שמורות © %1.
-</translation>
+        <translation>כל הזכויות שמורות © %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="152"/>
@@ -45,12 +44,12 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="190"/>
         <source>Involved</source>
-        <translation>להשתתף</translation>
+        <translation>שותפים</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="196"/>
         <source>Contributors ordered by number of commits:</source>
-        <translation>מפתחים מסודרים לפי מספר התרומות:</translation>
+        <translation>התורמים מסודרים לפי מספר התרומות:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="211"/>
@@ -61,12 +60,13 @@
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="220"/>
         <source>Current language not translated (or native English).
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation type="unfinished"/>
+        <translation>השפה הנוכחית לא מתורגמת (או אנגלית שפת אם).
+אם אתה מעוניין לתרגם LMMS בשפה אחרת או רוצה לשפר תרגומים קיימים, אתה מוזמן לעזור לנו! כל שעליך לעשות הוא לפנות למתחזק!</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="229"/>
         <source>License</source>
-        <translation>רשיון</translation>
+        <translation>רישיון</translation>
     </message>
 </context>
 <context>
@@ -74,22 +74,22 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="47"/>
         <source>VOL</source>
-        <translation>ווליום</translation>
+        <translation>עוצ׳ שמע</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="48"/>
         <source>Volume:</source>
-        <translation>ווליום:</translation>
+        <translation>עוצמת שמע:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="53"/>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>פאן</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="54"/>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>פאנינג:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="60"/>
@@ -99,7 +99,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="61"/>
         <source>Left gain:</source>
-        <translation type="unfinished"/>
+        <translation>רווח שמאלי:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="67"/>
@@ -109,7 +109,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="68"/>
         <source>Right gain:</source>
-        <translation type="unfinished"/>
+        <translation>רווח ימני:</translation>
     </message>
 </context>
 <context>
@@ -117,22 +117,22 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="38"/>
         <source>Volume</source>
-        <translation>ווליום</translation>
+        <translation>עוצמת שמע:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="39"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>פאנינג</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="40"/>
         <source>Left gain</source>
-        <translation type="unfinished"/>
+        <translation>רווח שמאלי</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="41"/>
         <source>Right gain</source>
-        <translation type="unfinished"/>
+        <translation>רווח ימני</translation>
     </message>
 </context>
 <context>
@@ -153,52 +153,52 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="471"/>
         <source>Open sample</source>
-        <translation type="unfinished"/>
+        <translation>פתח מדגם</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="480"/>
         <source>Reverse sample</source>
-        <translation type="unfinished"/>
+        <translation>הפוך מדגם</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="491"/>
         <source>Disable loop</source>
-        <translation>השבת לופ</translation>
+        <translation>השבתת לולאה</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="501"/>
         <source>Enable loop</source>
-        <translation>אפשר לופ</translation>
+        <translation>הפעלת לולאה</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="510"/>
         <source>Enable ping-pong loop</source>
-        <translation type="unfinished"/>
+        <translation>אפשר לולאת פינג-פונג</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="525"/>
         <source>Continue sample playback across notes</source>
-        <translation type="unfinished"/>
+        <translation>המשך בהשמעה לדוגמה על פני תווים</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="530"/>
         <source>Amplify:</source>
-        <translation type="unfinished"/>
+        <translation>הגברה:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="534"/>
         <source>Start point:</source>
-        <translation type="unfinished"/>
+        <translation>נקודת ההתחלה:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="538"/>
         <source>End point:</source>
-        <translation type="unfinished"/>
+        <translation>נקודת ההסוף:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="542"/>
         <source>Loopback point:</source>
-        <translation type="unfinished"/>
+        <translation>נקודת לולאה חוזרת:</translation>
     </message>
 </context>
 <context>
@@ -206,7 +206,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="987"/>
         <source>Sample length:</source>
-        <translation type="unfinished"/>
+        <translation>אורך מדגם:</translation>
     </message>
 </context>
 <context>
@@ -214,32 +214,32 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="107"/>
         <source>JACK client restarted</source>
-        <translation type="unfinished"/>
+        <translation>לקוח JACK הופעל מחדש</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="108"/>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS נבעט על ידי JACK מסיבה כלשהי. לכן הקצה האחורי של JACK של LMMS הופעל מחדש. תצטרך ליצור חיבורים ידניים שוב.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="116"/>
         <source>JACK server down</source>
-        <translation type="unfinished"/>
+        <translation>שרת JACK מושבת</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="117"/>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation type="unfinished"/>
+        <translation>נראה ששרת JACK נסגר והתחלת מופע חדש נכשלה. לכן LMMS אינו יכול להמשיך. עליך לשמור את הפרויקט שלך ולהפעיל מחדש את JACK ו-LMMS.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
-        <translation type="unfinished"/>
+        <translation>שם לקוח</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>ערוצים</translation>
     </message>
 </context>
 <context>
@@ -247,12 +247,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="324"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>התקן</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="336"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>ערוצים</translation>
     </message>
 </context>
 <context>
@@ -260,12 +260,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="414"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>אחורי</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="421"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>התקן</translation>
     </message>
 </context>
 <context>
@@ -273,12 +273,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="316"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>התקן</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="328"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>ערוצים</translation>
     </message>
 </context>
 <context>
@@ -286,7 +286,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>התקן</translation>
     </message>
 </context>
 <context>
@@ -294,12 +294,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="194"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>התקן</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="206"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>ערוצים</translation>
     </message>
 </context>
 <context>
@@ -307,12 +307,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="458"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>אחורי</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="465"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>התקן</translation>
     </message>
 </context>
 <context>
@@ -325,57 +325,57 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="66"/>
         <source>&amp;Copy value (%1%2)</source>
-        <translation>&amp;העתק ערך (%1%2)</translation>
+        <translation>ה&amp;עתקת ערך (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="74"/>
         <source>&amp;Paste value (%1%2)</source>
-        <translation>&amp;הדבק ערך (%1%2)</translation>
+        <translation>ה&amp;דבקת ערך (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="77"/>
         <source>&amp;Paste value</source>
-        <translation>&amp;הדבק ערך</translation>
+        <translation>ה&amp;דבקת ערך</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="85"/>
         <source>Edit song-global automation</source>
-        <translation>ערוך אוטומציה גלובאלית</translation>
+        <translation>עריכת אוטומציה כללית לשיר</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="90"/>
         <source>Remove song-global automation</source>
-        <translation>מחק אוטומציה גלובלית</translation>
+        <translation>הסרת אוטומציה כללית לשיר</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="99"/>
         <source>Remove all linked controls</source>
-        <translation type="unfinished"/>
+        <translation>הסר את כל הבקרות המקושרות</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="110"/>
         <source>Connected to %1</source>
-        <translation type="unfinished"/>
+        <translation>מחובר ל %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="114"/>
         <source>Connected to controller</source>
-        <translation type="unfinished"/>
+        <translation>מחובר לבקר</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="120"/>
         <source>Edit connection...</source>
-        <translation type="unfinished"/>
+        <translation>ערוך חיבור...</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="123"/>
         <source>Remove connection</source>
-        <translation type="unfinished"/>
+        <translation>הסר חיבור</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="129"/>
         <source>Connect to controller...</source>
-        <translation type="unfinished"/>
+        <translation>התחבר לבקר...</translation>
     </message>
 </context>
 <context>
@@ -383,22 +383,22 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="409"/>
         <source>Edit Value</source>
-        <translation type="unfinished"/>
+        <translation>ערוך ערך</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="411"/>
         <source>New outValue</source>
-        <translation type="unfinished"/>
+        <translation>ערך-חוץ חדש</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="412"/>
         <source>New inValue</source>
-        <translation type="unfinished"/>
+        <translation>ערך-פנים חדש</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1228"/>
         <source>Please open an automation pattern with the context menu of a control!</source>
-        <translation type="unfinished"/>
+        <translation>נא לפתוח תבנית אוטומציה עם תפריט ההקשר של בקרה!</translation>
     </message>
 </context>
 <context>
@@ -406,114 +406,114 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1835"/>
         <source>Play/pause current pattern (Space)</source>
-        <translation type="unfinished"/>
+        <translation>הפעל/השהה תבנית נוכחית (מקש-רווח)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1837"/>
         <source>Stop playing of current pattern (Space)</source>
-        <translation type="unfinished"/>
+        <translation>הפסק לנגן של התבנית הנוכחית (מקש-רווח)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1840"/>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>ערוך פעולות</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1843"/>
         <source>Draw mode (Shift+D)</source>
-        <translation type="unfinished"/>
+        <translation>מצב ציור (Shift+D)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1847"/>
         <source>Erase mode (Shift+E)</source>
-        <translation type="unfinished"/>
+        <translation>מצב מחיקה (Shift+D)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1850"/>
         <source>Draw outValues mode (Shift+C)</source>
-        <translation type="unfinished"/>
+        <translation>מצב ציור ערכי-חוץ (Shift+C)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1853"/>
         <source>Flip vertically</source>
-        <translation type="unfinished"/>
+        <translation>הפוך אנכית</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1854"/>
         <source>Flip horizontally</source>
-        <translation type="unfinished"/>
+        <translation>הפוך אופקית</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1865"/>
         <source>Interpolation controls</source>
-        <translation type="unfinished"/>
+        <translation>בקרות אינטרפולציה</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1870"/>
         <source>Discrete progression</source>
-        <translation type="unfinished"/>
+        <translation>התקדמות דיסקרטית</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1874"/>
         <source>Linear progression</source>
-        <translation type="unfinished"/>
+        <translation>התקדמות לינארית</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1876"/>
         <source>Cubic Hermite progression</source>
-        <translation type="unfinished"/>
+        <translation>התקדמות ההרמיט המעוקב</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1883"/>
         <source>Tension value for spline</source>
-        <translation type="unfinished"/>
+        <translation>ערך מתח עבור ספלין</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1892"/>
         <source>Tension: </source>
-        <translation type="unfinished"/>
+        <translation>מתח:</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1900"/>
         <source>Zoom controls</source>
-        <translation type="unfinished"/>
+        <translation>בקרות זום</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1907"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>זום אופקי</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1926"/>
         <source>Vertical zooming</source>
-        <translation type="unfinished"/>
+        <translation>זום אנכי</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1947"/>
         <source>Quantization controls</source>
-        <translation type="unfinished"/>
+        <translation>בקרות קוונטיזציה</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1954"/>
         <source>Quantization</source>
-        <translation type="unfinished"/>
+        <translation>קוונטיזציה</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1990"/>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2107"/>
         <source>Automation Editor - no pattern</source>
-        <translation type="unfinished"/>
+        <translation>עורך אוטומציה - ללא תבנית</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1994"/>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2111"/>
         <source>Automation Editor - %1</source>
-        <translation type="unfinished"/>
+        <translation>עורך אוטומציה - %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2048"/>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>הדגם כבר מחובר לתבנית הזו.</translation>
     </message>
 </context>
 <context>
@@ -521,7 +521,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/AutomationPattern.cpp" line="866"/>
         <source>Drag a control while pressing &lt;%1&gt;</source>
-        <translation type="unfinished"/>
+        <translation>גרור בקרה תוך כדי הקשה על &lt;%1&gt;</translation>
     </message>
 </context>
 <context>
@@ -529,52 +529,52 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="174"/>
         <source>Open in Automation editor</source>
-        <translation type="unfinished"/>
+        <translation>פתח בעורך אוטומציה</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="182"/>
         <source>Clear</source>
-        <translation>נקה</translation>
+        <translation>ניקוי</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="185"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>אפס שם</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="188"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>שנה שם</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="191"/>
         <source>Set/clear record</source>
-        <translation type="unfinished"/>
+        <translation>קבע/נקה הקלטה</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="194"/>
         <source>Flip Vertically (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>הפוך אנכית (גלוי)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="197"/>
         <source>Flip Horizontally (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>הפוך אופקית (גלוי)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="202"/>
         <source>%1 Connections</source>
-        <translation type="unfinished"/>
+        <translation>%1 חיבורים</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="210"/>
         <source>Disconnect &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>נתק &quot;% 1&quot;</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
         <source>Model is already connected to this pattern.</source>
-        <translation type="unfinished"/>
+        <translation>הדגם כבר מחובר לתבנית הזו.</translation>
     </message>
 </context>
 <context>
@@ -582,7 +582,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/tracks/AutomationTrack.cpp" line="34"/>
         <source>Automation track</source>
-        <translation type="unfinished"/>
+        <translation>מסלול אוטומציה</translation>
     </message>
 </context>
 <context>
@@ -590,62 +590,62 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="49"/>
         <source>Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>עורך Beat+Bassline</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="71"/>
         <source>Play/pause current beat/bassline (Space)</source>
-        <translation type="unfinished"/>
+        <translation>הפעל/השהה את הBeat/Baseline הנוכחי (מקש-רווח)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="72"/>
         <source>Stop playback of current beat/bassline (Space)</source>
-        <translation type="unfinished"/>
+        <translation>עצירת ההשמעה של הBeat/Bassline הנוכחי (מקש-רווח)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="76"/>
         <source>Beat selector</source>
-        <translation type="unfinished"/>
+        <translation>בורר פעימה</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="86"/>
         <source>Track and step actions</source>
-        <translation type="unfinished"/>
+        <translation>מעקב אחר פעולות</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="89"/>
         <source>Add beat/bassline</source>
-        <translation type="unfinished"/>
+        <translation>הוסף beat/bassline</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="91"/>
         <source>Clone beat/bassline pattern</source>
-        <translation type="unfinished"/>
+        <translation>שכפל תבנית beat/bassline</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="95"/>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>הוסף מסלול הקלטה</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="97"/>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>הוסף מסלול אוטומציה</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="106"/>
         <source>Remove steps</source>
-        <translation type="unfinished"/>
+        <translation>הסר שלבים</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="108"/>
         <source>Add steps</source>
-        <translation type="unfinished"/>
+        <translation>הוסף שלבים</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="110"/>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>שלבי שיכפול</translation>
     </message>
 </context>
 <context>
@@ -653,17 +653,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/BBTCOView.cpp" line="53"/>
         <source>Open in Beat+Bassline-Editor</source>
-        <translation type="unfinished"/>
+        <translation>פתח בעורך-Beat+Bassline</translation>
     </message>
     <message>
         <location filename="../../src/gui/BBTCOView.cpp" line="60"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>אפס שם</translation>
     </message>
     <message>
         <location filename="../../src/gui/BBTCOView.cpp" line="63"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>שנה שם</translation>
     </message>
 </context>
 <context>
@@ -671,12 +671,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="45"/>
         <source>Beat/Bassline %1</source>
-        <translation type="unfinished"/>
+        <translation>Beat/Bassline %1</translation>
     </message>
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="190"/>
         <source>Clone of %1</source>
-        <translation type="unfinished"/>
+        <translation>שכפול של 1%</translation>
     </message>
 </context>
 <context>
@@ -684,32 +684,32 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="49"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>תדר.</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="50"/>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>תדירות:</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="54"/>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>רווח</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="55"/>
         <source>Gain:</source>
-        <translation type="unfinished"/>
+        <translation>רווח:</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="59"/>
         <source>RATIO</source>
-        <translation type="unfinished"/>
+        <translation>יחס</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="60"/>
         <source>Ratio:</source>
-        <translation type="unfinished"/>
+        <translation>יחס:</translation>
     </message>
 </context>
 <context>
@@ -717,17 +717,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="36"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>תדירות</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="37"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>רווח</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="38"/>
         <source>Ratio</source>
-        <translation type="unfinished"/>
+        <translation>יחס</translation>
     </message>
 </context>
 <context>
@@ -735,18 +735,18 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="47"/>
         <source>IN</source>
-        <translation type="unfinished"/>
+        <translation>פנים</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="50"/>
         <source>OUT</source>
-        <translation type="unfinished"/>
+        <translation>חוץ</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="57"/>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="71"/>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>רווח</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="58"/>
@@ -887,7 +887,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="24"/>
         <source>About</source>
-        <translation>אודות</translation>
+        <translation>על אודות</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="30"/>
@@ -1014,7 +1014,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1072"/>
         <source>License</source>
-        <translation>רשיון</translation>
+        <translation>רישיון</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1081"/>
@@ -1531,13 +1531,13 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="967"/>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;פתיחה...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="970"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="973"/>
         <source>Open...</source>
-        <translation type="unfinished"/>
+        <translation>פתיחה...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="976"/>
@@ -1547,7 +1547,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="985"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;שמירה</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="988"/>
@@ -1557,13 +1557,13 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="997"/>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>ש&amp;מירה בשם...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1000"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1003"/>
         <source>Save As...</source>
-        <translation type="unfinished"/>
+        <translation>שמירה בשם...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1006"/>
@@ -1890,7 +1890,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="721"/>
         <source>Failed to save project</source>
-        <translation type="unfinished"/>
+        <translation>שמירת המיזם נכשלה</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_host.cpp" line="1335"/>
@@ -3197,7 +3197,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="64"/>
         <source>Add</source>
-        <translation>הוסף</translation>
+        <translation>הוספה</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ControllerRackView.cpp" line="127"/>
@@ -4801,7 +4801,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="46"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>לא היה ניתן לפתוח את הקובץ</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="47"/>
@@ -4891,12 +4891,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="515"/>
         <source>Open containing folder</source>
-        <translation type="unfinished"/>
+        <translation>פתיחת תיקייה מכילה</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="519"/>
         <source>Song Editor</source>
-        <translation type="unfinished"/>
+        <translation>עורך שירים</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="524"/>
@@ -5175,7 +5175,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="118"/>
         <source>Bass</source>
-        <translation type="unfinished"/>
+        <translation>בס</translation>
     </message>
 </context>
 <context>
@@ -5299,12 +5299,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="555"/>
         <source>Bass:</source>
-        <translation type="unfinished"/>
+        <translation>בס:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="557"/>
         <source>Bass</source>
-        <translation type="unfinished"/>
+        <translation>בס</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="566"/>
@@ -5454,7 +5454,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="705"/>
         <source>Volume</source>
-        <translation>ווליום</translation>
+        <translation>עוצמת שמע</translation>
     </message>
     <message>
         <location filename="../../src/core/FxMixer.cpp" line="706"/>
@@ -5533,7 +5533,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="942"/>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1052"/>
         <source>Open GIG file</source>
-        <translation type="unfinished"/>
+        <translation>פתיחת קובץ GIG</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="954"/>
@@ -5571,7 +5571,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="136"/>
         <source>Preparing song editor</source>
-        <translation type="unfinished"/>
+        <translation>עורך השירים בהכנות</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="140"/>
@@ -5814,7 +5814,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="145"/>
         <source>Chord:</source>
-        <translation type="unfinished"/>
+        <translation>אקורד:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="148"/>
@@ -6303,17 +6303,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="206"/>
         <source>Chords</source>
-        <translation type="unfinished"/>
+        <translation>אקורדים</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="208"/>
         <source>Chord type</source>
-        <translation type="unfinished"/>
+        <translation>סוג אקורד</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="209"/>
         <source>Chord range</source>
-        <translation type="unfinished"/>
+        <translation>טווח אקורדים</translation>
     </message>
 </context>
 <context>
@@ -6326,7 +6326,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="55"/>
         <source>Chord:</source>
-        <translation type="unfinished"/>
+        <translation>אקורד:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="58"/>
@@ -6336,7 +6336,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="59"/>
         <source>Chord range:</source>
-        <translation type="unfinished"/>
+        <translation>טווח אקורדים:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentFunctionViews.cpp" line="59"/>
@@ -6456,7 +6456,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="48"/>
         <source>Volume</source>
-        <translation>ווליום</translation>
+        <translation>עוצמת שמע</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="49"/>
@@ -6674,7 +6674,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="54"/>
         <source>Volume</source>
-        <translation>ווליום</translation>
+        <translation>עוצמת שמע</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="55"/>
@@ -6715,7 +6715,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="98"/>
         <location filename="../../plugins/vestige/vestige.cpp" line="335"/>
         <source>Default preset</source>
-        <translation type="unfinished"/>
+        <translation>מערך ברירת מחדל</translation>
     </message>
 </context>
 <context>
@@ -6723,17 +6723,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="87"/>
         <source>Volume</source>
-        <translation>ווליום</translation>
+        <translation>עוצמת שמע</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="90"/>
         <source>Volume:</source>
-        <translation>ווליום:</translation>
+        <translation>עוצמת שמע:</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="92"/>
         <source>VOL</source>
-        <translation>ווליום</translation>
+        <translation>עוצ׳ שמע</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="96"/>
@@ -6786,17 +6786,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="136"/>
         <source>Volume</source>
-        <translation>ווליום</translation>
+        <translation>עוצמת שמע</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="138"/>
         <source>Volume:</source>
-        <translation>ווליום:</translation>
+        <translation>עוצמת שמע:</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="143"/>
         <source>VOL</source>
-        <translation>ווליום</translation>
+        <translation>עוצ׳ שמע</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="150"/>
@@ -6861,7 +6861,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="213"/>
         <source>SAVE</source>
-        <translation type="unfinished"/>
+        <translation>שמירה</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="252"/>
@@ -6891,7 +6891,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="390"/>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>שמירת מערך</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="390"/>
@@ -7274,7 +7274,7 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="638"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>לא היה ניתן לפתוח את הקובץ</translation>
     </message>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="639"/>
@@ -7342,7 +7342,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="152"/>
         <source>My Presets</source>
-        <translation type="unfinished"/>
+        <translation>המערכים שלי</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="158"/>
@@ -7377,7 +7377,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="306"/>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;פתיחה...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="190"/>
@@ -7387,12 +7387,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="313"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;שמירה</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="317"/>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>ש&amp;מירה בשם...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="321"/>
@@ -7472,37 +7472,37 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="422"/>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>עזרה</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="430"/>
         <source>About</source>
-        <translation>אודות</translation>
+        <translation>על אודות</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="436"/>
         <source>Create new project</source>
-        <translation type="unfinished"/>
+        <translation>יצירת מיזם חדש</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="442"/>
         <source>Create new project from template</source>
-        <translation type="unfinished"/>
+        <translation>יצירת מיזם חדש מתבני</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="450"/>
         <source>Open existing project</source>
-        <translation type="unfinished"/>
+        <translation>פתיחת מיזם קיים</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="457"/>
         <source>Recently opened projects</source>
-        <translation type="unfinished"/>
+        <translation>מיזמים שנפתחו לאחרונה</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="464"/>
         <source>Save current project</source>
-        <translation type="unfinished"/>
+        <translation>שמירת המיזם הנוכחי</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="471"/>
@@ -7518,7 +7518,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/MainWindow.cpp" line="497"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1141"/>
         <source>Song Editor</source>
-        <translation type="unfinished"/>
+        <translation>עורך שירים</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="505"/>
@@ -7562,7 +7562,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="658"/>
         <source>Untitled</source>
-        <translation type="unfinished"/>
+        <translation>ללא שם</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="673"/>
@@ -7572,7 +7572,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="676"/>
         <source>LMMS %1</source>
-        <translation type="unfinished"/>
+        <translation>LMMS %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="695"/>
@@ -7587,7 +7587,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="701"/>
         <source>Project not saved</source>
-        <translation type="unfinished"/>
+        <translation>המיזם לא נשמר</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="702"/>
@@ -7597,32 +7597,32 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="838"/>
         <source>Open Project</source>
-        <translation type="unfinished"/>
+        <translation>פתיחת מיזם</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="838"/>
         <source>LMMS (*.mmp *.mmpz)</source>
-        <translation type="unfinished"/>
+        <translation>LMMS (*.mmp *.mmpz)</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="881"/>
         <source>Save Project</source>
-        <translation type="unfinished"/>
+        <translation>שמירת המיזם</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="882"/>
         <source>LMMS Project</source>
-        <translation type="unfinished"/>
+        <translation>מיזם LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="883"/>
         <source>LMMS Project Template</source>
-        <translation type="unfinished"/>
+        <translation>תבנית מיזם ל־LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="913"/>
         <source>Save project template</source>
-        <translation type="unfinished"/>
+        <translation>שמירה כתבנית מיזם</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="961"/>
@@ -7637,7 +7637,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="995"/>
         <source>Help not available</source>
-        <translation type="unfinished"/>
+        <translation>העזרה אינה זמינה</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="996"/>
@@ -7663,7 +7663,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1177"/>
         <source>Fullscreen</source>
-        <translation type="unfinished"/>
+        <translation>מסך מלא</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1187"/>
@@ -7689,7 +7689,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/gui/MainWindow.cpp" line="1501"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1558"/>
         <source>untitled</source>
-        <translation type="unfinished"/>
+        <translation>ללא שם</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1505"/>
@@ -7705,22 +7705,22 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1592"/>
         <source>Save project</source>
-        <translation type="unfinished"/>
+        <translation>שמירת המיזם</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1609"/>
         <source>Project saved</source>
-        <translation type="unfinished"/>
+        <translation>המיזם נשמר</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1609"/>
         <source>The project %1 is now saved.</source>
-        <translation type="unfinished"/>
+        <translation>המיזם %1 נשמר הרגע.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1616"/>
         <source>Project NOT saved.</source>
-        <translation type="unfinished"/>
+        <translation>המיזם לא נשמר!</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1616"/>
@@ -7730,7 +7730,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1655"/>
         <source>Import file</source>
-        <translation type="unfinished"/>
+        <translation>ייבוא קובץ</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1657"/>
@@ -7745,7 +7745,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1661"/>
         <source>All file types</source>
-        <translation type="unfinished"/>
+        <translation>כל סוגי הקבצים</translation>
     </message>
 </context>
 <context>
@@ -7882,7 +7882,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="85"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="120"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>שמירה</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="93"/>
@@ -8055,7 +8055,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="473"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="508"/>
         <source>Unable to open selected file.</source>
-        <translation type="unfinished"/>
+        <translation>אין אפשרות לפתוח את הקובץ הנבחר</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="503"/>
@@ -9105,7 +9105,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1657"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1673"/>
         <source>Volume</source>
-        <translation>ווליום</translation>
+        <translation>עוצמת שמע</translation>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1645"/>
@@ -9483,7 +9483,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/nes/Nes.cpp" line="824"/>
         <location filename="../../plugins/nes/Nes.cpp" line="829"/>
         <source>Volume</source>
-        <translation>ווליום</translation>
+        <translation>עוצמת שמע</translation>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="763"/>
@@ -10186,7 +10186,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="234"/>
         <source>Mark current chord</source>
-        <translation type="unfinished"/>
+        <translation>סימון האקורד הנוכחי</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="235"/>
@@ -10221,7 +10221,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="415"/>
         <source>No chord</source>
-        <translation type="unfinished"/>
+        <translation>ללא אקורדים</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="445"/>
@@ -10451,7 +10451,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4919"/>
         <source>Chord</source>
-        <translation type="unfinished"/>
+        <translation>אקורד</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4928"/>
@@ -11126,7 +11126,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="14"/>
         <source>Plugin Editor</source>
-        <translation type="unfinished"/>
+        <translation>עורך התוספים</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="27"/>
@@ -11264,7 +11264,7 @@ Plugin Name
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="633"/>
         <source>Save State</source>
-        <translation type="unfinished"/>
+        <translation>שמירת מצב</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="647"/>
@@ -11484,7 +11484,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_refresh.ui" line="527"/>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation>סגירה</translation>
     </message>
 </context>
 <context>
@@ -11554,7 +11554,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_presets.ui" line="266"/>
         <source>Preset:</source>
-        <translation type="unfinished"/>
+        <translation>מערך:</translation>
     </message>
 </context>
 <context>
@@ -12036,7 +12036,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="69"/>
         <source>Bass</source>
-        <translation type="unfinished"/>
+        <translation>בס</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="70"/>
@@ -12358,7 +12358,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="367"/>
         <source>Fail to open file</source>
-        <translation type="unfinished"/>
+        <translation>פתיחת הקובץ נכשלה</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="368"/>
@@ -12368,7 +12368,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1125"/>
         <source>Open audio file</source>
-        <translation type="unfinished"/>
+        <translation>פתיחת קובץ שמע</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1152"/>
@@ -12439,7 +12439,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="39"/>
         <source>Volume</source>
-        <translation>ווליום</translation>
+        <translation>עוצמת שמע</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="40"/>
@@ -12473,7 +12473,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="66"/>
         <source>VOL</source>
-        <translation>ווליום</translation>
+        <translation>עוצ׳ שמע</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="70"/>
@@ -12511,12 +12511,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="89"/>
         <source>Volume:</source>
-        <translation>ווליום:</translation>
+        <translation>עוצמת שמע:</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="94"/>
         <source>VOL</source>
-        <translation>ווליום</translation>
+        <translation>עוצ׳ שמע</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="101"/>
@@ -12666,28 +12666,28 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="272"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>שפה</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="332"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="826"/>
         <source>Performance</source>
-        <translation type="unfinished"/>
+        <translation>ביצועים</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="337"/>
         <source>Autosave</source>
-        <translation type="unfinished"/>
+        <translation>שמירה אוטומטית</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="356"/>
         <source>Enable autosave</source>
-        <translation type="unfinished"/>
+        <translation>הפעלת שמירה אוטומטית</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="363"/>
         <source>Allow autosave while playing</source>
-        <translation type="unfinished"/>
+        <translation>לאפשר שמירה אוטומטית בזמן השמעה</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="383"/>
@@ -12707,7 +12707,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="397"/>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>תוספים</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="401"/>
@@ -12753,7 +12753,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../src/gui/SetupDialog.cpp" line="457"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="829"/>
         <source>Audio</source>
-        <translation type="unfinished"/>
+        <translation>שמע</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="461"/>
@@ -12864,23 +12864,23 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1380"/>
         <source>Choose your background picture</source>
-        <translation type="unfinished"/>
+        <translation>שינוי תמונת הרקע</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="731"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="835"/>
         <source>Paths</source>
-        <translation type="unfinished"/>
+        <translation>נתיבים</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="861"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>אישור</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="868"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1201"/>
@@ -12901,12 +12901,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1088"/>
         <source>minutes</source>
-        <translation type="unfinished"/>
+        <translation>דקות</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1088"/>
         <source>minute</source>
-        <translation type="unfinished"/>
+        <translation>דקה</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="1090"/>
@@ -12939,7 +12939,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="131"/>
         <source>Volume</source>
-        <translation>ווליום</translation>
+        <translation>עוצמת שמע</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="132"/>
@@ -12952,7 +12952,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="495"/>
         <source>Volume:</source>
-        <translation>ווליום:</translation>
+        <translation>עוצמת שמע:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="499"/>
@@ -13051,7 +13051,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="625"/>
         <source>Sync</source>
-        <translation type="unfinished"/>
+        <translation>סנכרון</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="634"/>
@@ -13079,7 +13079,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/widgets/SideBarWidget.cpp" line="47"/>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation>סגירה</translation>
     </message>
 </context>
 <context>
@@ -13135,7 +13135,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="143"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>לא היה ניתן לפתוח את הקובץ</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="144"/>
@@ -13146,7 +13146,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="331"/>
         <source>Operation denied</source>
-        <translation type="unfinished"/>
+        <translation>הפעולה נדחתה</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="332"/>
@@ -13158,7 +13158,7 @@ Latency: %2 ms</source>
         <location filename="../../src/core/DataFile.cpp" line="350"/>
         <location filename="../../src/core/DataFile.cpp" line="358"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>שגיאה</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="343"/>
@@ -13193,7 +13193,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1822"/>
         <source>Error in file</source>
-        <translation type="unfinished"/>
+        <translation>שגיאה בקובץ</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1823"/>
@@ -13265,7 +13265,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="918"/>
         <source>Song-Editor</source>
-        <translation type="unfinished"/>
+        <translation>עורך שירים</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="928"/>
@@ -13397,7 +13397,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/SubWindow.cpp" line="61"/>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation>סגירה</translation>
     </message>
     <message>
         <location filename="../../src/gui/SubWindow.cpp" line="69"/>
@@ -13626,7 +13626,7 @@ You should convert this file into a format supported by LMMS using another softw
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="103"/>
         <source>Couldn&apos;t open file</source>
-        <translation type="unfinished"/>
+        <translation>לא היה ניתן לפתוח את הקובץ</translation>
     </message>
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="104"/>
@@ -14113,7 +14113,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="70"/>
         <source>Save Options</source>
-        <translation type="unfinished"/>
+        <translation>אפשרויות שמירה</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/VersionedSaveDialog.cpp" line="164"/>
@@ -14127,7 +14127,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/vestige/vestige.cpp" line="507"/>
         <location filename="../../plugins/vestige/vestige.cpp" line="679"/>
         <source>Open VST plugin</source>
-        <translation type="unfinished"/>
+        <translation>פתיחת תוסף VST</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="519"/>
@@ -14137,7 +14137,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="532"/>
         <source>Open VST plugin preset</source>
-        <translation type="unfinished"/>
+        <translation>פתיחת מערך תוסף VST</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="545"/>
@@ -14147,7 +14147,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="560"/>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>שמירת מערך</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="573"/>
@@ -14182,7 +14182,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="896"/>
         <source>Preset</source>
-        <translation type="unfinished"/>
+        <translation>מערך</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="904"/>
@@ -14210,7 +14210,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="119"/>
         <source>Open VST plugin preset</source>
-        <translation type="unfinished"/>
+        <translation>פתיחת מערך תוסף VST</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="139"/>
@@ -14225,7 +14225,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="195"/>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>שמירת מערך</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="238"/>
@@ -14250,7 +14250,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="481"/>
         <source>Open Preset</source>
-        <translation type="unfinished"/>
+        <translation>פתיחת מערך</translation>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="482"/>
@@ -14266,7 +14266,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="561"/>
         <source>Save Preset</source>
-        <translation type="unfinished"/>
+        <translation>שמירת מערך</translation>
     </message>
     <message>
         <location filename="../../plugins/vst_base/VstPlugin.cpp" line="561"/>
@@ -14455,7 +14455,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="681"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="682"/>
         <source>Volume</source>
-        <translation>ווליום</translation>
+        <translation>עוצמת שמע</translation>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="684"/>
@@ -14760,7 +14760,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="352"/>
         <source>Open help window</source>
-        <translation type="unfinished"/>
+        <translation>פתיחת חלון עזרה</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="364"/>
@@ -16069,7 +16069,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="82"/>
         <source>Volume</source>
-        <translation>ווליום</translation>
+        <translation>עוצמת שמע</translation>
     </message>
 </context>
 <context>
@@ -16082,7 +16082,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="443"/>
         <source>Volume:</source>
-        <translation>ווליום:</translation>
+        <translation>עוצמת שמע:</translation>
     </message>
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="447"/>
