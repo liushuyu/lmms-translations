@@ -1,4 +1,5 @@
 # lmms-translations
 
-[![CircleCI](https://circleci.com/gh/liushuyu/lmms-translations.svg?style=svg)](https://circleci.com/gh/liushuyu/lmms-translations)
+[![CI](https://github.com/liushuyu/lmms-translations/actions/workflows/ci.yml/badge.svg)](https://github.com/liushuyu/lmms-translations/actions/workflows/ci.yml)
+
 Latest LMMS translations dump
