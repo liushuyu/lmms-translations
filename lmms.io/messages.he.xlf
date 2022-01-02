@@ -376,7 +376,7 @@
       </trans-unit>
       <trans-unit id="Jo.VN3p" resname="with a free, cross-platform tool for your computer.">
         <source>with a free, cross-platform tool for your computer.</source>
-        <target>עם כלי חופשי וחוצה פלטפורמות למחשבך</target>
+        <target>עם כלי חופשי וחוצה פלטפורמות למחשב</target>
         
       </trans-unit>
       <trans-unit id="ADl38LV" resname="Download now">
@@ -446,7 +446,7 @@
       </trans-unit>
       <trans-unit id="QBixtUo" resname="Pick your flavor.">
         <source>Pick your flavor.</source>
-        <target>Pick your flavor.</target>
+        <target>מה מערכת ההפעלה שלך?</target>
         
       </trans-unit>
       <trans-unit id="CaD6ze3" resname="Linux, Windows or macOS.">
@@ -491,12 +491,12 @@
       </trans-unit>
       <trans-unit id="G0SNPhL" resname="and answer a few questions while you're waiting.">
         <source>and answer a few questions while you're waiting.</source>
-        <target>and answer a few questions while you're waiting.</target>
+        <target>אפשר גם לענות על כמה שאלות בזמן ההמתנה.</target>
         
       </trans-unit>
       <trans-unit id="AZtpftd" resname="Sharing means caring.">
         <source>Sharing means caring.</source>
-        <target>שיתוף משמעו הבעת דאגה.</target>
+        <target>שיתוף משמעו הבעת אכפתיוּת.</target>
         
       </trans-unit>
       <trans-unit id="tYjliwJ" resname="Find musicians">
@@ -511,7 +511,7 @@
       </trans-unit>
       <trans-unit id="vZEmrHQ" resname="Don't be modest.">
         <source>Don't be modest.</source>
-        <target>Don't be modest.</target>
+        <target>לא להתבייש.</target>
         
       </trans-unit>
       <trans-unit id="E6hLz_I" resname="Show us your creations.">
@@ -556,12 +556,12 @@
       </trans-unit>
       <trans-unit id="oJJM7AY" resname="Featuring:">
         <source>Featuring:</source>
-        <target>Featuring:</target>
+        <target>תכונות:</target>
         
       </trans-unit>
       <trans-unit id="j6_axfx" resname="Core Functionality">
         <source>Core Functionality</source>
-        <target>Core Functionality</target>
+        <target>התכונות הבסיסיות</target>
         
       </trans-unit>
       <trans-unit id="HLWVAGp" resname="Compose music on Windows, Linux and macOS">

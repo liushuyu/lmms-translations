@@ -625,7 +625,7 @@ Ha szeretnél részt venni az LMMS más nyelvekre történő fordításában vag
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="95"/>
         <source>Add sample-track</source>
-        <translation>Hangminta sáv hozzáadása</translation>
+        <translation>Audió sáv hozzáadása</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="97"/>
@@ -2270,7 +2270,7 @@ Szeretnéd ezt most megtenni?</translation>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="932"/>
         <source>Max Parameters:</source>
-        <translation type="unfinished"/>
+        <translation>Maximális paraméterszám:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="952"/>
@@ -4283,22 +4283,22 @@ Ha nem vagy biztos benne, válaszd az &quot;Automatikus&quot; lehetőséget.</tr
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="40"/>
         <source>Peak 1 gain</source>
-        <translation type="unfinished"/>
+        <translation>1. sáv erősítés</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="41"/>
         <source>Peak 2 gain</source>
-        <translation type="unfinished"/>
+        <translation>2. sáv erősítés</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="42"/>
         <source>Peak 3 gain</source>
-        <translation type="unfinished"/>
+        <translation>3. sáv erősítés</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="43"/>
         <source>Peak 4 gain</source>
-        <translation type="unfinished"/>
+        <translation>4. sáv erősítés</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="44"/>
@@ -4358,22 +4358,22 @@ Ha nem vagy biztos benne, válaszd az &quot;Automatikus&quot; lehetőséget.</tr
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="55"/>
         <source>Peak 1 freq</source>
-        <translation type="unfinished"/>
+        <translation>1. sáv frekvencia</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="56"/>
         <source>Peak 2 freq</source>
-        <translation type="unfinished"/>
+        <translation>2. sáv frekvencia</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="57"/>
         <source>Peak 3 freq</source>
-        <translation type="unfinished"/>
+        <translation>3. sáv frekvencia</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="58"/>
         <source>Peak 4 freq</source>
-        <translation type="unfinished"/>
+        <translation>4. sáv frekvencia</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="59"/>
@@ -4398,22 +4398,22 @@ Ha nem vagy biztos benne, válaszd az &quot;Automatikus&quot; lehetőséget.</tr
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="63"/>
         <source>Peak 1 active</source>
-        <translation type="unfinished"/>
+        <translation>1. sáv aktív</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="64"/>
         <source>Peak 2 active</source>
-        <translation type="unfinished"/>
+        <translation>2. sáv aktív</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="65"/>
         <source>Peak 3 active</source>
-        <translation type="unfinished"/>
+        <translation>3. sáv aktív</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="66"/>
         <source>Peak 4 active</source>
-        <translation type="unfinished"/>
+        <translation>4. sáv aktív</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="67"/>
@@ -4491,22 +4491,22 @@ Ha nem vagy biztos benne, válaszd az &quot;Automatikus&quot; lehetőséget.</tr
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="69"/>
         <source>Peak 1</source>
-        <translation type="unfinished"/>
+        <translation>1. sáv</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="70"/>
         <source>Peak 2</source>
-        <translation type="unfinished"/>
+        <translation>2. sáv</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="71"/>
         <source>Peak 3</source>
-        <translation type="unfinished"/>
+        <translation>3. sáv</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="72"/>
         <source>Peak 4</source>
-        <translation type="unfinished"/>
+        <translation>4. sáv</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="73"/>
@@ -6357,58 +6357,58 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
         <translation>MIDI BEMENET ENGEDÉLYEZÉSE</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="83"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="82"/>
         <source>ENABLE MIDI OUTPUT</source>
         <translation>MIDI KIMENET ENGEDÉLYEZÉSE</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="62"/>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="94"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="93"/>
         <source>CHAN</source>
         <extracomment>This string must be be short, its width must be less than * width of LCD spin-box of two digits</extracomment>
         <translation>CSAT</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="71"/>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="102"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="70"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="100"/>
         <source>VELOC</source>
         <extracomment>This string must be be short, its width must be less than * width of LCD spin-box of three digits</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="109"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="107"/>
         <source>PROG</source>
         <extracomment>This string must be be short, its width must be less than the * width of LCD spin-box of three digits</extracomment>
         <translation>PROG</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="118"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="115"/>
         <source>NOTE</source>
         <extracomment>This string must be be short, its width must be less than * width of LCD spin-box of three digits</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="134"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="131"/>
         <source>MIDI devices to receive MIDI events from</source>
         <translation>MIDI események fogadása erről az eszközről</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="142"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="139"/>
         <source>MIDI devices to send MIDI events to</source>
         <translation>MIDI események küldése erre az eszközre</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="151"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="148"/>
         <source>CUSTOM BASE VELOCITY</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="158"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="155"/>
         <source>Specify the velocity normalization base for MIDI-based instruments at 100% note velocity.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="165"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="162"/>
         <source>BASE VELOCITY</source>
         <translation type="unfinished"/>
     </message>
@@ -6904,7 +6904,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
         <translation>XML preset fájl (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="445"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="451"/>
         <source>Plugin</source>
         <translation>Plugin</translation>
     </message>
@@ -7340,12 +7340,12 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="135"/>
         <source>My Projects</source>
-        <translation>Projektjeim</translation>
+        <translation>Projektek</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="143"/>
         <source>My Samples</source>
-        <translation>Mintáim</translation>
+        <translation>Hangminták</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="152"/>
@@ -7355,7 +7355,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="158"/>
         <source>My Home</source>
-        <translation>Mappám</translation>
+        <translation>Saját mappa</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="164"/>
@@ -7370,7 +7370,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="171"/>
         <source>My Computer</source>
-        <translation>Számítógépem</translation>
+        <translation>Számítógép</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="296"/>
@@ -10273,13 +10273,13 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <translation>Először válaszd ki az egyesítendő hangjegyeket.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3609"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3611"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Nyiss meg egy klipet dupla kattintással!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4246"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4265"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4248"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4267"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Adj meg egy új értéket %1 és %2 között:</translation>
     </message>
@@ -10287,241 +10287,241 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4720"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4722"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Klip lejátszása/megállítása (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4721"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4723"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Hangjegyek rögzítése MIDI eszközről vagy a virtuális billentyűzetről</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4722"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Hangjegyek rögzítése MIDI eszközről vagy a virtuális billentyűzetről a dal vagy BB sáv lejátszása közben</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4723"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4725"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Hangjegyek rögzítése MIDI eszközről vagy a virtuális billentyűzetről hangjegyenként</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Lejátszás leállítása (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4728"/>
         <source>Edit actions</source>
         <translation>Műveletek szerkesztése</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4730"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4732"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Beszúrás (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4731"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Törlés (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4732"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4734"/>
         <source>Select mode (Shift+S)</source>
         <translation>Kijelölés (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4735"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Hajlítás (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4748"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
         <source>Quantize</source>
         <translation>Kvantálás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
         <source>Quantize positions</source>
         <translation>Pozíció kvantálása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
         <source>Quantize lengths</source>
         <translation>Hosszúság kvantálása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4770"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4772"/>
         <source>File actions</source>
         <translation>Fájl műveletek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4779"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
         <source>Import pattern</source>
         <translation>Pattern importálása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5238"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4784"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5240"/>
         <source>Export pattern</source>
         <translation>Pattern exportálása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4793"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4795"/>
         <source>Copy paste controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4796"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4798"/>
         <source>Cut (%1+X)</source>
         <translation>Kivágás (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4799"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4801"/>
         <source>Copy (%1+C)</source>
         <translation>Másolás (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4802"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4804"/>
         <source>Paste (%1+V)</source>
         <translation>Beillesztés (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4817"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4819"/>
         <source>Timeline controls</source>
         <translation>Idővonal vezérlők</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
         <source>Glue</source>
         <translation>Egyesítés</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4831"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
         <source>Knife</source>
         <translation>Felosztás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4835"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4837"/>
         <source>Fill</source>
         <translation>Kitöltés</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4839"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4841"/>
         <source>Cut overlaps</source>
         <translation>Átfedések levágása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4843"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4861"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4863"/>
         <source>Zoom and note controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
         <source>Horizontal zooming</source>
         <translation>Vízszintes nagyítás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4877"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4879"/>
         <source>Vertical zooming</source>
         <translation>Függőleges nagyítás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4886"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4888"/>
         <source>Quantization</source>
         <translation>Kvantálás</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4897"/>
         <source>Note length</source>
         <translation>Hangjegy hossza</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4901"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4903"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4910"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4912"/>
         <source>Scale</source>
         <translation>Skála</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4919"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4921"/>
         <source>Chord</source>
         <translation>Akkord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4928"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4930"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4933"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5042"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5215"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5044"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5217"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano Roll - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5049"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5220"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5051"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5222"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Piano Roll</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5239"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5286"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5241"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
         <source>XML pattern file (*.xpt *.xptz)</source>
         <translation>XML pattern fájl (*.xpt *.xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5259"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5261"/>
         <source>Export pattern success</source>
         <translation>Pattern exportálása sikeres</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5260"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5262"/>
         <source>Pattern saved to %1</source>
         <translation>Pattern mentve a(z) %1 fájlba.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5275"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5277"/>
         <source>Import pattern.</source>
         <translation>Pattern importálása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5276"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5278"/>
         <source>You are about to import a pattern, this will overwrite your current pattern. Do you want to continue?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5285"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5287"/>
         <source>Open pattern</source>
         <translation>Pattern megnyitása</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5307"/>
         <source>Import pattern success</source>
         <translation>Pattern importálása sikeres</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5308"/>
         <source>Imported pattern %1!</source>
         <translation>%1 importálva</translation>
     </message>
@@ -12330,7 +12330,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="288"/>
         <source>Increase to get smoother-looking spectrum. Warning: high CPU usage.</source>
-        <translation type="unfinished"/>
+        <translation>Növelése simább spektrumkijelzést eredményez. Figyelem: Magas CPU használat.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="289"/>
@@ -12467,7 +12467,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../src/tracks/SampleTrack.cpp" line="42"/>
         <location filename="../../src/tracks/SampleTrack.cpp" line="45"/>
         <source>Sample track</source>
-        <translation>Hangminta sáv</translation>
+        <translation>Audió sáv</translation>
     </message>
 </context>
 <context>
@@ -13313,7 +13313,7 @@ Ellenőrizd, hogy rendelkezel-e a szükséges engedélyekkel és próbáld újra
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="941"/>
         <source>Add sample-track</source>
-        <translation>Hangminta sáv hozzáadása</translation>
+        <translation>Audió sáv hozzáadása</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="944"/>
@@ -14145,7 +14145,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="519"/>
         <source>Control VST plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>VST plugin vezérlése az LMMS-ből</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="532"/>
@@ -15161,7 +15161,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="80"/>
         <source>Peak attack time:</source>
-        <translation type="unfinished"/>
+        <translation>Csúcsérték felfutási idő:</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="85"/>
@@ -15171,7 +15171,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="86"/>
         <source>Peak release time:</source>
-        <translation type="unfinished"/>
+        <translation>Csúcsérték elengedési idő:</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_control_dialog.cpp" line="90"/>
@@ -15243,12 +15243,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_controls.cpp" line="44"/>
         <source>Attack time</source>
-        <translation type="unfinished"/>
+        <translation>Felfutási idő</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_controls.cpp" line="45"/>
         <source>Release time</source>
-        <translation type="unfinished"/>
+        <translation>Elengedési idő</translation>
     </message>
     <message>
         <location filename="../../plugins/dynamics_processor/dynamics_processor_controls.cpp" line="47"/>
@@ -15535,7 +15535,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="282"/>
         <source>VCF Envelope Decay</source>
-        <translation type="unfinished"/>
+        <translation>VCF burkológörbe lecsengés</translation>
     </message>
     <message>
         <location filename="../../plugins/lb302/lb302.cpp" line="283"/>
@@ -15867,7 +15867,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="119"/>
         <source>Glass</source>
-        <translation type="unfinished"/>
+        <translation>Üveg</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="121"/>

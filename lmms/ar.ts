@@ -6352,58 +6352,58 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="83"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="82"/>
         <source>ENABLE MIDI OUTPUT</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="62"/>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="94"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="93"/>
         <source>CHAN</source>
         <extracomment>This string must be be short, its width must be less than * width of LCD spin-box of two digits</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="71"/>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="102"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="70"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="100"/>
         <source>VELOC</source>
         <extracomment>This string must be be short, its width must be less than * width of LCD spin-box of three digits</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="109"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="107"/>
         <source>PROG</source>
         <extracomment>This string must be be short, its width must be less than the * width of LCD spin-box of three digits</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="118"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="115"/>
         <source>NOTE</source>
         <extracomment>This string must be be short, its width must be less than * width of LCD spin-box of three digits</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="134"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="131"/>
         <source>MIDI devices to receive MIDI events from</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="142"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="139"/>
         <source>MIDI devices to send MIDI events to</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="151"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="148"/>
         <source>CUSTOM BASE VELOCITY</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="158"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="155"/>
         <source>Specify the velocity normalization base for MIDI-based instruments at 100% note velocity.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="165"/>
+        <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="162"/>
         <source>BASE VELOCITY</source>
         <translation type="unfinished"/>
     </message>
@@ -6899,7 +6899,7 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="445"/>
+        <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="451"/>
         <source>Plugin</source>
         <translation type="unfinished"/>
     </message>
@@ -10264,13 +10264,13 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3609"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3611"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4246"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4265"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4248"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4267"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation type="unfinished"/>
     </message>
@@ -10278,241 +10278,241 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4720"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4722"/>
         <source>Play/pause current pattern (Space)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4721"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4723"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4722"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4723"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4725"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4728"/>
         <source>Edit actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4730"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4732"/>
         <source>Draw mode (Shift+D)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4731"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
         <source>Erase mode (Shift+E)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4732"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4734"/>
         <source>Select mode (Shift+S)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4735"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4748"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
         <source>Quantize</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
         <source>Quantize positions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
         <source>Quantize lengths</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4770"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4772"/>
         <source>File actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4779"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
         <source>Import pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5238"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4784"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5240"/>
         <source>Export pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4793"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4795"/>
         <source>Copy paste controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4796"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4798"/>
         <source>Cut (%1+X)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4799"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4801"/>
         <source>Copy (%1+C)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4802"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4804"/>
         <source>Paste (%1+V)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4817"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4819"/>
         <source>Timeline controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4831"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4835"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4837"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4839"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4841"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4843"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4861"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4863"/>
         <source>Zoom and note controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
         <source>Horizontal zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4877"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4879"/>
         <source>Vertical zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4886"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4888"/>
         <source>Quantization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4897"/>
         <source>Note length</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4901"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4903"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4910"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4912"/>
         <source>Scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4919"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4921"/>
         <source>Chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4928"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4930"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4933"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5042"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5215"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5044"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5217"/>
         <source>Piano-Roll - %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5049"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5220"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5051"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5222"/>
         <source>Piano-Roll - no pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5239"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5286"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5241"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
         <source>XML pattern file (*.xpt *.xptz)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5259"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5261"/>
         <source>Export pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5260"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5262"/>
         <source>Pattern saved to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5275"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5277"/>
         <source>Import pattern.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5276"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5278"/>
         <source>You are about to import a pattern, this will overwrite your current pattern. Do you want to continue?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5285"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5287"/>
         <source>Open pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5307"/>
         <source>Import pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5308"/>
         <source>Imported pattern %1!</source>
         <translation type="unfinished"/>
     </message>
