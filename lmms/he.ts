@@ -24,7 +24,7 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="100"/>
         <source>LMMS - easy music production for everyone.</source>
-        <translation>LMMS - יצירת מוזיקה פשוטה לכולם.</translation>
+        <translation>LMMS - הפקת מוזיקה פשוטה לכולם.</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="126"/>
@@ -60,8 +60,8 @@
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="220"/>
         <source>Current language not translated (or native English).
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation>השפה הנוכחית לא מתורגמת (או אנגלית שפת אם).
-אם אתה מעוניין לתרגם LMMS בשפה אחרת או רוצה לשפר תרגומים קיימים, אתה מוזמן לעזור לנו! כל שעליך לעשות הוא לפנות למתחזק!</translation>
+        <translation>אין תרגום לשפה הנוכחית (או שהתוכנה בשפה האנגלית).
+אם יש לך עניין בתרגום LMMS לשפה אחרת או בשיפור התרגומים הקיימים, נשמח לקבל ממך עזרה! כל מה שצריך לעשות הוא פשוט לפנות למתחזק!</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="229"/>
@@ -173,7 +173,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="510"/>
         <source>Enable ping-pong loop</source>
-        <translation>אפשר לולאת פינג-פונג</translation>
+        <translation>לאפשר לולאת פינג־פונג</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="525"/>
@@ -219,7 +219,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="108"/>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation>LMMS נבעט על ידי JACK מסיבה כלשהי. לכן הקצה האחורי של JACK של LMMS הופעל מחדש. תצטרך ליצור חיבורים ידניים שוב.</translation>
+        <translation>LMMS נבעט על ידי JACK מסיבה כלשהי. לכן מנגנון JACK של LMMS הופעל מחדש. יהיה ליצור חיבורים ידניים שוב.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="116"/>
@@ -229,7 +229,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="117"/>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation>נראה ששרת JACK נסגר והתחלת מופע חדש נכשלה. לכן LMMS אינו יכול להמשיך. עליך לשמור את הפרויקט שלך ולהפעיל מחדש את JACK ו-LMMS.</translation>
+        <translation>נראה ששרת JACK נסגר והתחלת מופע חדש נכשלה. לכן LMMS אינו יכול להמשיך. יש לשמור את המיזם שלך ולהפעיל מחדש את JACK ו־LMMS.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
@@ -260,7 +260,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="414"/>
         <source>Backend</source>
-        <translation>אחורי</translation>
+        <translation>מנגנון</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="421"/>
@@ -307,7 +307,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="458"/>
         <source>Backend</source>
-        <translation>אחורי</translation>
+        <translation>מנגנון</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="465"/>
@@ -340,17 +340,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="85"/>
         <source>Edit song-global automation</source>
-        <translation>עריכת אוטומציה כללית לשיר</translation>
+        <translation>עריכת אוטומציה כללית למנגינה</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="90"/>
         <source>Remove song-global automation</source>
-        <translation>הסרת אוטומציה כללית לשיר</translation>
+        <translation>הסרת אוטומציה כללית למנגינה</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="99"/>
         <source>Remove all linked controls</source>
-        <translation>הסר את כל הבקרות המקושרות</translation>
+        <translation>הסרת כל הבקרות המקושרות</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="110"/>
@@ -411,7 +411,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1837"/>
         <source>Stop playing of current pattern (Space)</source>
-        <translation>הפסק לנגן של התבנית הנוכחית (מקש-רווח)</translation>
+        <translation>הפסקת ניגון התבנית הנוכחית (רווח)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1840"/>
@@ -436,12 +436,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1853"/>
         <source>Flip vertically</source>
-        <translation>הפוך אנכית</translation>
+        <translation>להפוך אנכית</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1854"/>
         <source>Flip horizontally</source>
-        <translation>הפוך אופקית</translation>
+        <translation>להפוך אופקית</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1865"/>
@@ -554,12 +554,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="194"/>
         <source>Flip Vertically (Visible)</source>
-        <translation>הפוך אנכית (גלוי)</translation>
+        <translation>להפוך אנכית (גלוי)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="197"/>
         <source>Flip Horizontally (Visible)</source>
-        <translation>הפוך אופקית (גלוי)</translation>
+        <translation>להפוך אופקית (גלוי)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="202"/>
@@ -569,7 +569,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="210"/>
         <source>Disconnect &quot;%1&quot;</source>
-        <translation>נתק &quot;% 1&quot;</translation>
+        <translation>ניתוק &quot;% 1&quot;</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
@@ -590,17 +590,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="49"/>
         <source>Beat+Bassline Editor</source>
-        <translation>עורך Beat+Bassline</translation>
+        <translation>עורך המקצבים וה־Bassline</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="71"/>
         <source>Play/pause current beat/bassline (Space)</source>
-        <translation>הפעל/השהה את הBeat/Baseline הנוכחי (מקש-רווח)</translation>
+        <translation>ניגון/השהיית המקצב/bassline הנוכחיים (רווח)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="72"/>
         <source>Stop playback of current beat/bassline (Space)</source>
-        <translation>עצירת ההשמעה של הBeat/Bassline הנוכחי (מקש-רווח)</translation>
+        <translation>הפסקת ניגון המקצב/bassline הנוכחיים (רווח)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="76"/>
@@ -615,12 +615,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="89"/>
         <source>Add beat/bassline</source>
-        <translation>הוסף beat/bassline</translation>
+        <translation>הוספת מקצב/bassline</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="91"/>
         <source>Clone beat/bassline pattern</source>
-        <translation>שכפל תבנית beat/bassline</translation>
+        <translation>שכפול תבנית המקצב/bassline</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="95"/>
@@ -645,7 +645,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="110"/>
         <source>Clone Steps</source>
-        <translation>שלבי שיכפול</translation>
+        <translation>שלבי שכפול</translation>
     </message>
 </context>
 <context>
@@ -653,7 +653,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/BBTCOView.cpp" line="53"/>
         <source>Open in Beat+Bassline-Editor</source>
-        <translation>פתח בעורך-Beat+Bassline</translation>
+        <translation>פתיחה בעורך המקצבים וה־Bassline</translation>
     </message>
     <message>
         <location filename="../../src/gui/BBTCOView.cpp" line="60"/>
@@ -671,7 +671,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="45"/>
         <source>Beat/Bassline %1</source>
-        <translation>Beat/Bassline %1</translation>
+        <translation>מקצב/Bassline‏ %1</translation>
     </message>
     <message>
         <location filename="../../src/tracks/BBTrack.cpp" line="190"/>
@@ -684,7 +684,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="49"/>
         <source>FREQ</source>
-        <translation>תדר.</translation>
+        <translation>תדירות</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="50"/>
@@ -801,7 +801,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="98"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>תדירות</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="99"/>
@@ -892,7 +892,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="30"/>
         <source>About text here</source>
-        <translation type="unfinished"/>
+        <translation>על אודות &quot;טקסט כאן&quot;</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="102"/>
@@ -907,7 +907,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="144"/>
         <source>Using KDE Oxygen icon set, designed by Oxygen Team.</source>
-        <translation type="unfinished"/>
+        <translation>נעשה שימוש בערכת הסמלים Oxygen של KDE, שעוצבה על ידי צוות Oxygen.</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="230"/>
@@ -922,7 +922,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="579"/>
         <source>Special thanks to António Saraiva for a few extra icons and artwork!</source>
-        <translation type="unfinished"/>
+        <translation>תודותינו המיוחדות נתונות לאנטוניו סראיבה (António Saraiva) על מעט סמלים נוספים ועבודות אומנות שהכין!</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="589"/>
@@ -1009,7 +1009,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1005"/>
         <source>Example:</source>
-        <translation type="unfinished"/>
+        <translation>דוגמה:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1072"/>
@@ -1309,7 +1309,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="69"/>
         <source>Plugin Version</source>
-        <translation type="unfinished"/>
+        <translation>גרסת התוסף</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_widgets.cpp" line="71"/>
@@ -1435,7 +1435,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="429"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>ע&amp;זרה</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="444"/>
@@ -1476,7 +1476,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="704"/>
         <source>000&apos;000&apos;000</source>
-        <translation type="unfinished"/>
+        <translation>000&apos;000&apos;000</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="731"/>
@@ -1486,7 +1486,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="746"/>
         <source>00:00:00</source>
-        <translation type="unfinished"/>
+        <translation>00:00:00</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="773"/>
@@ -1496,7 +1496,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="788"/>
         <source>000|00|0000</source>
-        <translation type="unfinished"/>
+        <translation>000|00|0000</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="816"/>
@@ -1526,7 +1526,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="958"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="967"/>
@@ -1542,7 +1542,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="976"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="985"/>
@@ -1552,7 +1552,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="988"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="997"/>
@@ -1573,12 +1573,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1015"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>י&amp;ציאה</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1018"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1027"/>
@@ -1608,12 +1608,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1054"/>
         <source>Ctrl+A</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+A</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1063"/>
         <source>&amp;Remove All</source>
-        <translation type="unfinished"/>
+        <translation>לה&amp;סיר הכול</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1068"/>
@@ -1653,7 +1653,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1110"/>
         <source>&amp;Play</source>
-        <translation type="unfinished"/>
+        <translation>ני&amp;גון</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1113"/>
@@ -1668,7 +1668,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1125"/>
         <source>Ctrl+Shift+X</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Shift+X</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1134"/>
@@ -1709,7 +1709,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1173"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1178"/>
@@ -1724,17 +1724,17 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1199"/>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>התקרבות</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1202"/>
         <source>Ctrl++</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl++</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1211"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>התרחקות</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1214"/>
@@ -1744,7 +1744,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1223"/>
         <source>Zoom 100%</source>
-        <translation type="unfinished"/>
+        <translation>תקריב של 100%</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="1226"/>
@@ -1931,7 +1931,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="625"/>
         <source>Show GUI</source>
-        <translation type="unfinished"/>
+        <translation>הצגת ממשק המשתמש</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="633"/>
@@ -2092,7 +2092,7 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="393"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="1023"/>
         <source> ms</source>
-        <translation type="unfinished"/>
+        <translation> מ״ש</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="425"/>
@@ -2123,12 +2123,12 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="472"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>צבע שחור</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="477"/>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>מערכת</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="510"/>
@@ -2173,7 +2173,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="684"/>
         <source>4650x3600</source>
-        <translation type="unfinished"/>
+        <translation>4650x3600</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="689"/>
@@ -2208,7 +2208,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="749"/>
         <source>Anti-Aliasing</source>
-        <translation type="unfinished"/>
+        <translation>החלקת עקומות</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="759"/>
@@ -2229,12 +2229,12 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="858"/>
         <source>Single Client</source>
-        <translation type="unfinished"/>
+        <translation>לקוח יחיד</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="863"/>
         <source>Multiple Clients</source>
-        <translation type="unfinished"/>
+        <translation>לקוחות מרובים</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="868"/>
@@ -2274,7 +2274,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="952"/>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="991"/>
@@ -3119,7 +3119,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="136"/>
         <source>Connection Settings</source>
-        <translation type="unfinished"/>
+        <translation>הגדרות חיבור</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="140"/>
@@ -3170,12 +3170,12 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="220"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>אישור</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="226"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="334"/>
@@ -3637,7 +3637,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings_driver.ui" line="249"/>
         <source>Restart the engine to load the new settings</source>
-        <translation type="unfinished"/>
+        <translation>יש להפעיל את המנוע מחדש לטעינת ההגדרות החדשות</translation>
     </message>
 </context>
 <context>
@@ -3909,7 +3909,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="103"/>
         <source>Play (Space)</source>
-        <translation type="unfinished"/>
+        <translation>ניגון (רווח)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="104"/>
@@ -3924,7 +3924,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="107"/>
         <source>Record while playing</source>
-        <translation type="unfinished"/>
+        <translation>להקליט בזמן הניגון</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="108"/>
@@ -3973,7 +3973,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/widgets/EffectRackView.cpp" line="61"/>
         <source>Add effect</source>
-        <translation type="unfinished"/>
+        <translation>הוספת אפקט</translation>
     </message>
 </context>
 <context>
@@ -3981,28 +3981,28 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/Forms/EffectSelectDialog.ui" line="14"/>
         <source>Add effect</source>
-        <translation type="unfinished"/>
+        <translation>הוספת אפקט</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectSelectDialog.cpp" line="70"/>
         <location filename="../../src/gui/EffectSelectDialog.cpp" line="236"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>שם</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectSelectDialog.cpp" line="71"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>סוג</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectSelectDialog.cpp" line="237"/>
         <source>Description</source>
-        <translation type="unfinished"/>
+        <translation>תיאור</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectSelectDialog.cpp" line="238"/>
         <source>Author</source>
-        <translation type="unfinished"/>
+        <translation>יוצר/ת</translation>
     </message>
 </context>
 <context>
@@ -4010,7 +4010,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="60"/>
         <source>On/Off</source>
-        <translation type="unfinished"/>
+        <translation>פועל/כבוי</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="64"/>
@@ -4030,7 +4030,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="74"/>
         <source>Time:</source>
-        <translation type="unfinished"/>
+        <translation>זמן:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/EffectView.cpp" line="78"/>
@@ -4612,17 +4612,17 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="89"/>
         <source>File format settings</source>
-        <translation type="unfinished"/>
+        <translation>הגדרות פורמט קובץ</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="95"/>
         <source>File format:</source>
-        <translation type="unfinished"/>
+        <translation>פורמט קובץ:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="120"/>
         <source>Sampling rate:</source>
-        <translation type="unfinished"/>
+        <translation>קצב דגימה:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="128"/>
@@ -4672,7 +4672,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="221"/>
         <source>Stereo mode:</source>
-        <translation type="unfinished"/>
+        <translation>מצב סטריאו:</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="232"/>
@@ -4737,7 +4737,7 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="370"/>
         <source>Quality settings</source>
-        <translation type="unfinished"/>
+        <translation>הגדרות איכות</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="376"/>
@@ -4772,32 +4772,32 @@ If you are unsure, leave it as &apos;Automatic&apos;.</source>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="418"/>
         <source>1x (None)</source>
-        <translation type="unfinished"/>
+        <translation>‏1x (ללא)</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="423"/>
         <source>2x</source>
-        <translation type="unfinished"/>
+        <translation>‏2x</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="428"/>
         <source>4x</source>
-        <translation type="unfinished"/>
+        <translation>‏4x</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="433"/>
         <source>8x</source>
-        <translation type="unfinished"/>
+        <translation>‏8x</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="474"/>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>התחלה</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/export_project.ui" line="481"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="46"/>
@@ -4813,7 +4813,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="47"/>
         <source>Export project to %1</source>
-        <translation type="unfinished"/>
+        <translation>ייצוא המיזם אל %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="87"/>
@@ -4828,7 +4828,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="265"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>שגיאה</translation>
     </message>
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="266"/>
@@ -4838,7 +4838,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/ExportProjectDialog.cpp" line="297"/>
         <source>Rendering: %1%</source>
-        <translation type="unfinished"/>
+        <translation>מתבצע ייצוא: %1%</translation>
     </message>
 </context>
 <context>
@@ -4874,12 +4874,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="121"/>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>חיפוש</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="129"/>
         <source>Refresh list</source>
-        <translation type="unfinished"/>
+        <translation>ריענון הרשימה</translation>
     </message>
 </context>
 <context>
@@ -4897,7 +4897,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="519"/>
         <source>Song Editor</source>
-        <translation>עורך שירים</translation>
+        <translation>עורך המנגינות</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="524"/>
@@ -4965,7 +4965,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="39"/>
         <source>Seconds</source>
-        <translation type="unfinished"/>
+        <translation>שניות</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="40"/>
@@ -5373,144 +5373,6 @@ Please make sure you have write permission to the file and the directory contain
     </message>
 </context>
 <context>
-    <name>FxLine</name>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="86"/>
-        <source>Channel send amount</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="242"/>
-        <source>Move &amp;left</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="243"/>
-        <source>Move &amp;right</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="245"/>
-        <source>Rename &amp;channel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="250"/>
-        <source>R&amp;emove channel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="253"/>
-        <source>Remove &amp;unused channels</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="256"/>
-        <source>Color</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="258"/>
-        <source>Change</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="259"/>
-        <source>Reset</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="260"/>
-        <source>Pick random</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>FxLineLcdSpinBox</name>
-    <message>
-        <location filename="../../src/gui/widgets/FxLineLcdSpinBox.cpp" line="58"/>
-        <source>Assign to:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLineLcdSpinBox.cpp" line="58"/>
-        <source>New FX Channel</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>FxMixer</name>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="704"/>
-        <source>Master</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="704"/>
-        <location filename="../../src/core/FxMixer.cpp" line="825"/>
-        <location filename="../../src/core/FxMixer.cpp" line="827"/>
-        <source>FX %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="705"/>
-        <source>Volume</source>
-        <translation>עוצמת שמע</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="706"/>
-        <source>Mute</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="707"/>
-        <source>Solo</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>FxMixerView</name>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="70"/>
-        <source>FX-Mixer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="289"/>
-        <source>FX Fader %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="298"/>
-        <source>Mute</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="306"/>
-        <source>Mute this FX channel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="308"/>
-        <source>Solo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="318"/>
-        <source>Solo FX channel</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>FxRoute</name>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="43"/>
-        <location filename="../../src/core/FxMixer.cpp" line="58"/>
-        <source>Amount to send from channel %1 to channel %2</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>GigInstrument</name>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="85"/>
@@ -5557,7 +5419,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="71"/>
         <source>Working directory</source>
-        <translation type="unfinished"/>
+        <translation>תיקייה תקינה</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="72"/>
@@ -5567,17 +5429,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="129"/>
         <source>Preparing UI</source>
-        <translation type="unfinished"/>
+        <translation>ממשק המשתמש בהכנות</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="136"/>
         <source>Preparing song editor</source>
-        <translation>עורך השירים בהכנות</translation>
+        <translation>עורך המנגינות בהכנות</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="140"/>
         <source>Preparing mixer</source>
-        <translation type="unfinished"/>
+        <translation>המערבל בהכנות</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="144"/>
@@ -5587,7 +5449,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="148"/>
         <source>Preparing project notes</source>
-        <translation type="unfinished"/>
+        <translation>תווי המיזם בהכנות</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="152"/>
@@ -5597,7 +5459,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="156"/>
         <source>Preparing beat/bassline editor</source>
-        <translation type="unfinished"/>
+        <translation>עורך המקצבים/bassline בהכנות</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="160"/>
@@ -5607,7 +5469,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="164"/>
         <source>Preparing automation editor</source>
-        <translation type="unfinished"/>
+        <translation>עורך האוטומציה בהכנות</translation>
     </message>
 </context>
 <context>
@@ -5919,7 +5781,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="56"/>
         <source>7#5</source>
-        <translation type="unfinished"/>
+        <translation>7#5</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="57"/>
@@ -5929,7 +5791,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="58"/>
         <source>7#9</source>
-        <translation type="unfinished"/>
+        <translation>7#9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="59"/>
@@ -5939,12 +5801,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="60"/>
         <source>7#5#9</source>
-        <translation type="unfinished"/>
+        <translation>7#5#9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="61"/>
         <source>7#5b9</source>
-        <translation type="unfinished"/>
+        <translation>7#5b9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="62"/>
@@ -5964,7 +5826,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="65"/>
         <source>7#11</source>
-        <translation type="unfinished"/>
+        <translation>7#11</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="66"/>
@@ -5979,12 +5841,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="68"/>
         <source>Maj7#5</source>
-        <translation type="unfinished"/>
+        <translation>Maj7#5</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="69"/>
         <source>Maj7#11</source>
-        <translation type="unfinished"/>
+        <translation>Maj7#11</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="70"/>
@@ -5994,162 +5856,162 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="71"/>
         <source>m7</source>
-        <translation type="unfinished"/>
+        <translation>m7</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="72"/>
         <source>m7b5</source>
-        <translation type="unfinished"/>
+        <translation>m7b5</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="73"/>
         <source>m7b9</source>
-        <translation type="unfinished"/>
+        <translation>m7b9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="74"/>
         <source>m7add11</source>
-        <translation type="unfinished"/>
+        <translation>m7add11</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="75"/>
         <source>m7add13</source>
-        <translation type="unfinished"/>
+        <translation>m7add13</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="76"/>
         <source>m-Maj7</source>
-        <translation type="unfinished"/>
+        <translation>m-Maj7</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="77"/>
         <source>m-Maj7add11</source>
-        <translation type="unfinished"/>
+        <translation>m-Maj7add11</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="78"/>
         <source>m-Maj7add13</source>
-        <translation type="unfinished"/>
+        <translation>m-Maj7add13</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="80"/>
         <source>9</source>
-        <translation type="unfinished"/>
+        <translation>9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="81"/>
         <source>9sus4</source>
-        <translation type="unfinished"/>
+        <translation>9sus4</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="82"/>
         <source>add9</source>
-        <translation type="unfinished"/>
+        <translation>add9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="83"/>
         <source>9#5</source>
-        <translation type="unfinished"/>
+        <translation>9#5</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="84"/>
         <source>9b5</source>
-        <translation type="unfinished"/>
+        <translation>9b5</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="85"/>
         <source>9#11</source>
-        <translation type="unfinished"/>
+        <translation>9#11</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="86"/>
         <source>9b13</source>
-        <translation type="unfinished"/>
+        <translation>9b13</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="87"/>
         <source>Maj9</source>
-        <translation type="unfinished"/>
+        <translation>Maj9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="88"/>
         <source>Maj9sus4</source>
-        <translation type="unfinished"/>
+        <translation>Maj9sus4</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="89"/>
         <source>Maj9#5</source>
-        <translation type="unfinished"/>
+        <translation>Maj9#5</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="90"/>
         <source>Maj9#11</source>
-        <translation type="unfinished"/>
+        <translation>Maj9#11</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="91"/>
         <source>m9</source>
-        <translation type="unfinished"/>
+        <translation>m9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="92"/>
         <source>madd9</source>
-        <translation type="unfinished"/>
+        <translation>madd9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="93"/>
         <source>m9b5</source>
-        <translation type="unfinished"/>
+        <translation>m9b5</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="94"/>
         <source>m9-Maj7</source>
-        <translation type="unfinished"/>
+        <translation>m9-Maj7</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="96"/>
         <source>11</source>
-        <translation type="unfinished"/>
+        <translation>11</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="97"/>
         <source>11b9</source>
-        <translation type="unfinished"/>
+        <translation>11b9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="98"/>
         <source>Maj11</source>
-        <translation type="unfinished"/>
+        <translation>Maj11</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="99"/>
         <source>m11</source>
-        <translation type="unfinished"/>
+        <translation>m11</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="100"/>
         <source>m-Maj11</source>
-        <translation type="unfinished"/>
+        <translation>m-Maj11</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="102"/>
         <source>13</source>
-        <translation type="unfinished"/>
+        <translation>13</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="103"/>
         <source>13#9</source>
-        <translation type="unfinished"/>
+        <translation>13#9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="104"/>
         <source>13b9</source>
-        <translation type="unfinished"/>
+        <translation>13b9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="105"/>
         <source>13b5b9</source>
-        <translation type="unfinished"/>
+        <translation>13b5b9</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="106"/>
@@ -6159,12 +6021,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="107"/>
         <source>m13</source>
-        <translation type="unfinished"/>
+        <translation>m13</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="108"/>
         <source>m-Maj13</source>
-        <translation type="unfinished"/>
+        <translation>m-Maj13</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="111"/>
@@ -6289,7 +6151,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="136"/>
         <source>5</source>
-        <translation type="unfinished"/>
+        <translation>5</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="137"/>
@@ -6362,7 +6224,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="93"/>
         <source>CHAN</source>
         <extracomment>This string must be be short, its width must be less than * width of LCD spin-box of two digits</extracomment>
-        <translation type="unfinished"/>
+        <translation>ערוץ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/InstrumentMidiIOView.cpp" line="70"/>
@@ -6694,7 +6556,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="59"/>
-        <source>FX channel</source>
+        <source>Mixer channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6773,7 +6635,7 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="377"/>
-        <source>FX %1: %2</source>
+        <source>%1: %2</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -6782,7 +6644,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="90"/>
         <source>GENERAL SETTINGS</source>
-        <translation type="unfinished"/>
+        <translation>הגדרות כלליות</translation>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="136"/>
@@ -6846,12 +6708,12 @@ Please make sure you have write permission to the file and the directory contain
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="194"/>
-        <source>FX channel</source>
+        <source>Mixer channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="199"/>
-        <source>FX</source>
+        <source>CHANNEL</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7323,12 +7185,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="128"/>
         <source>Preparing plugin browser</source>
-        <translation type="unfinished"/>
+        <translation>סייר התוספים בהכנות</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="130"/>
         <source>Preparing file browsers</source>
-        <translation type="unfinished"/>
+        <translation>סיירי הקבצים בהכנות</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="135"/>
@@ -7383,7 +7245,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="190"/>
         <source>Loading background picture</source>
-        <translation type="unfinished"/>
+        <translation>תמונת הרקע נטענת</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="313"/>
@@ -7443,12 +7305,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="367"/>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>ביצוע מחדש</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="382"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>הגדרות</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="387"/>
@@ -7519,13 +7381,13 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/MainWindow.cpp" line="497"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1141"/>
         <source>Song Editor</source>
-        <translation>עורך שירים</translation>
+        <translation>עורך המנגינות</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="505"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1145"/>
         <source>Beat+Bassline Editor</source>
-        <translation type="unfinished"/>
+        <translation>עורך המקצבים וה־Bassline</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="514"/>
@@ -7537,12 +7399,12 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/MainWindow.cpp" line="522"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1153"/>
         <source>Automation Editor</source>
-        <translation type="unfinished"/>
+        <translation>עורך האוטומציה</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="531"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1158"/>
-        <source>FX Mixer</source>
+        <source>Mixer</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -8209,32 +8071,32 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="259"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="339"/>
         <source>1/4</source>
-        <translation type="unfinished"/>
+        <translation>1/4</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="61"/>
         <source>2/4</source>
-        <translation type="unfinished"/>
+        <translation>2/4</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="66"/>
         <source>3/4</source>
-        <translation type="unfinished"/>
+        <translation>3/4</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="71"/>
         <source>4/4</source>
-        <translation type="unfinished"/>
+        <translation>4/4</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="76"/>
         <source>5/4</source>
-        <translation type="unfinished"/>
+        <translation>5/4</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="81"/>
         <source>6/4</source>
-        <translation type="unfinished"/>
+        <translation>6/4</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="105"/>
@@ -8246,135 +8108,135 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="274"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="354"/>
         <source>1</source>
-        <translation type="unfinished"/>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="124"/>
         <source>2</source>
-        <translation type="unfinished"/>
+        <translation>2</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="129"/>
         <source>3</source>
-        <translation type="unfinished"/>
+        <translation>3</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="134"/>
         <source>4</source>
-        <translation type="unfinished"/>
+        <translation>4</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="139"/>
         <source>5</source>
-        <translation type="unfinished"/>
+        <translation>5</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="144"/>
         <source>6</source>
-        <translation type="unfinished"/>
+        <translation>6</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="149"/>
         <source>7</source>
-        <translation type="unfinished"/>
+        <translation>7</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="154"/>
         <source>8</source>
-        <translation type="unfinished"/>
+        <translation>8</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="159"/>
         <source>9</source>
-        <translation type="unfinished"/>
+        <translation>9</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="164"/>
         <source>10</source>
-        <translation type="unfinished"/>
+        <translation>10</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="169"/>
         <source>11</source>
-        <translation type="unfinished"/>
+        <translation>11</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="174"/>
         <source>12</source>
-        <translation type="unfinished"/>
+        <translation>12</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="179"/>
         <source>13</source>
-        <translation type="unfinished"/>
+        <translation>13</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="184"/>
         <source>14</source>
-        <translation type="unfinished"/>
+        <translation>14</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="189"/>
         <source>15</source>
-        <translation type="unfinished"/>
+        <translation>15</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="194"/>
         <source>16</source>
-        <translation type="unfinished"/>
+        <translation>16</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="218"/>
         <source>Default Length:</source>
-        <translation type="unfinished"/>
+        <translation>אורך ברירת מחדל:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="229"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="309"/>
         <source>1/16</source>
-        <translation type="unfinished"/>
+        <translation>1/16</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="234"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="314"/>
         <source>1/15</source>
-        <translation type="unfinished"/>
+        <translation>1/15</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="239"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="319"/>
         <source>1/12</source>
-        <translation type="unfinished"/>
+        <translation>1/12</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="244"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="324"/>
         <source>1/9</source>
-        <translation type="unfinished"/>
+        <translation>1/9</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="249"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="329"/>
         <source>1/8</source>
-        <translation type="unfinished"/>
+        <translation>1/8</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="254"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="334"/>
         <source>1/6</source>
-        <translation type="unfinished"/>
+        <translation>1/6</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="264"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="344"/>
         <source>1/3</source>
-        <translation type="unfinished"/>
+        <translation>1/3</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="269"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="349"/>
         <source>1/2</source>
-        <translation type="unfinished"/>
+        <translation>1/2</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="298"/>
@@ -8384,17 +8246,17 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="411"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;קובץ</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="417"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>ע&amp;ריכה</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="429"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>י&amp;ציאה</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="437"/>
@@ -8419,7 +8281,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="456"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>לבחור הכול</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/midipattern.ui" line="459"/>
@@ -8490,6 +8352,144 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="45"/>
         <source>Device</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Mixer</name>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="704"/>
+        <source>Master</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="704"/>
+        <location filename="../../src/core/Mixer.cpp" line="825"/>
+        <location filename="../../src/core/Mixer.cpp" line="827"/>
+        <source>Channel %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="705"/>
+        <source>Volume</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="706"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="707"/>
+        <source>Solo</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MixerLine</name>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="86"/>
+        <source>Channel send amount</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="241"/>
+        <source>Move &amp;left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="242"/>
+        <source>Move &amp;right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="244"/>
+        <source>Rename &amp;channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="249"/>
+        <source>R&amp;emove channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="252"/>
+        <source>Remove &amp;unused channels</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="255"/>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="257"/>
+        <source>Change</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="258"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="259"/>
+        <source>Pick random</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MixerLineLcdSpinBox</name>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLineLcdSpinBox.cpp" line="58"/>
+        <source>Assign to:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLineLcdSpinBox.cpp" line="58"/>
+        <source>New Mixer Channel</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MixerRoute</name>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="43"/>
+        <location filename="../../src/core/Mixer.cpp" line="58"/>
+        <source>Amount to send from channel %1 to channel %2</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MixerView</name>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="70"/>
+        <source>Mixer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="289"/>
+        <source>Fader %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="298"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="306"/>
+        <source>Mute this channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="318"/>
+        <source>Solo this channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="308"/>
+        <source>Solo</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -9916,12 +9916,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="173"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>אישור</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="192"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
 </context>
 <context>
@@ -9982,7 +9982,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/PatternView.cpp" line="158"/>
         <source>Clear all notes</source>
-        <translation type="unfinished"/>
+        <translation>ניקוי כל התווים</translation>
     </message>
     <message>
         <location filename="../../src/gui/PatternView.cpp" line="161"/>
@@ -10192,7 +10192,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="235"/>
         <source>Unmark all</source>
-        <translation type="unfinished"/>
+        <translation>ביטול כל הבחירות</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="236"/>
@@ -10265,13 +10265,13 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3611"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3616"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4248"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4267"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4253"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4272"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation type="unfinished"/>
     </message>
@@ -10279,241 +10279,241 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4722"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
         <source>Play/pause current pattern (Space)</source>
-        <translation type="unfinished"/>
+        <translation>ניגון/השהיית התבנית הנוכחית (רווח)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4723"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4728"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4729"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4725"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4730"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4731"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4728"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
         <source>Edit actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4732"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4737"/>
         <source>Draw mode (Shift+D)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4738"/>
         <source>Erase mode (Shift+E)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4734"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4739"/>
         <source>Select mode (Shift+S)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4735"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4740"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Quantize</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Quantize positions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
         <source>Quantize lengths</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4772"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4777"/>
         <source>File actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
         <source>Import pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4784"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5240"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4789"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5245"/>
         <source>Export pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4795"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4800"/>
         <source>Copy paste controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4798"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
         <source>Cut (%1+X)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4801"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4806"/>
         <source>Copy (%1+C)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4804"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4809"/>
         <source>Paste (%1+V)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4819"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
         <source>Timeline controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4838"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4837"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4842"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4841"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4850"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4863"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4868"/>
         <source>Zoom and note controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4876"/>
         <source>Horizontal zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4879"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4884"/>
         <source>Vertical zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4888"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4893"/>
         <source>Quantization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4897"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4902"/>
         <source>Note length</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4903"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4908"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4912"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4917"/>
         <source>Scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4921"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4926"/>
         <source>Chord</source>
         <translation>אקורד</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4930"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4940"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5044"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5217"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5049"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5222"/>
         <source>Piano-Roll - %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5051"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5222"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5056"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5227"/>
         <source>Piano-Roll - no pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5241"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5246"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5293"/>
         <source>XML pattern file (*.xpt *.xptz)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5261"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5266"/>
         <source>Export pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5262"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
         <source>Pattern saved to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5277"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5282"/>
         <source>Import pattern.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5278"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5283"/>
         <source>You are about to import a pattern, this will overwrite your current pattern. Do you want to continue?</source>
         <translation>עומד להתבצע ייבוא תבנית, שידרוס את התבנית הנוכחית שלך. להמשיך?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5287"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5292"/>
         <source>Open pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5307"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5312"/>
         <source>Import pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5308"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5313"/>
         <source>Imported pattern %1!</source>
         <translation type="unfinished"/>
     </message>
@@ -10552,7 +10552,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="247"/>
         <source>Error while loading plugin</source>
-        <translation type="unfinished"/>
+        <translation>שגיאה במהלך טעינת התוסף</translation>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="248"/>
@@ -10575,7 +10575,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="57"/>
         <source>Drag an instrument into either the Song-Editor, the Beat+Bassline Editor or into an existing instrument track.</source>
-        <translation type="unfinished"/>
+        <translation>אפשר לגרור כלי נגינה לתוך עורך המנגינות, עורך המקצבים וה־Bassline, ו/או לתוך רצועת כלֵי נגינה קיימת.</translation>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="47"/>
@@ -10934,7 +10934,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="258"/>
         <source>With Custom GUI </source>
-        <translation type="unfinished"/>
+        <translation>עם ממשק משתמש מותאם אישית</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="265"/>
@@ -10974,7 +10974,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="340"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="362"/>
@@ -11074,7 +11074,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="573"/>
         <source>Has Custom GUI:</source>
-        <translation type="unfinished"/>
+        <translation>עם ממשק משתמש מותאם אישית:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="583"/>
@@ -11535,7 +11535,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="306"/>
         <source>GUI</source>
-        <translation type="unfinished"/>
+        <translation>ממשק משתמש</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="316"/>
@@ -11578,7 +11578,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="116"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>בי&amp;טול פעולה</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="118"/>
@@ -11588,7 +11588,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="122"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>ביצוע מ&amp;חדש</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="124"/>
@@ -11598,7 +11598,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="128"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>ה&amp;עתקה</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="130"/>
@@ -11608,7 +11608,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="134"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>ג&amp;זירה</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="136"/>
@@ -11618,7 +11618,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="140"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>ה&amp;דבקה</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/ProjectNotes.cpp" line="142"/>
@@ -11739,7 +11739,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/Lv2ViewBase.cpp" line="151"/>
         <source>Show GUI</source>
-        <translation type="unfinished"/>
+        <translation>הצגת ממשק המשתמש</translation>
     </message>
     <message>
         <location filename="../../src/gui/Lv2ViewBase.cpp" line="176"/>
@@ -11790,7 +11790,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="108"/>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="114"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>כן</translation>
     </message>
     <message>
         <location filename="../../plugins/ladspa_browser/ladspa_description.cpp" line="172"/>
@@ -11924,7 +11924,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="38"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>השהיה</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="39"/>
@@ -11934,7 +11934,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="41"/>
         <source>Waterfall</source>
-        <translation type="unfinished"/>
+        <translation>מפל</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="42"/>
@@ -12062,7 +12062,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="77"/>
         <source>Silent</source>
-        <translation type="unfinished"/>
+        <translation>שקט</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="86"/>
@@ -12101,7 +12101,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="86"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>השהיה</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="87"/>
@@ -12121,7 +12121,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="111"/>
         <source>Waterfall</source>
-        <translation type="unfinished"/>
+        <translation>מפל</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="112"/>
@@ -12449,7 +12449,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="41"/>
-        <source>FX channel</source>
+        <source>Mixer channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -12493,7 +12493,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="142"/>
-        <source>FX %1: %2</source>
+        <source>%1: %2</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -12502,7 +12502,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="52"/>
         <source>GENERAL SETTINGS</source>
-        <translation type="unfinished"/>
+        <translation>הגדרות כלליות</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="87"/>
@@ -12536,12 +12536,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="117"/>
-        <source>FX channel</source>
+        <source>Mixer channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="122"/>
-        <source>FX</source>
+        <source>CHANNEL</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -12587,12 +12587,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../src/gui/SetupDialog.cpp" line="200"/>
         <location filename="../../src/gui/SetupDialog.cpp" line="823"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>כללי</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="227"/>
         <source>Graphical user interface (GUI)</source>
-        <translation type="unfinished"/>
+        <translation>ממשק משתמש גרפי (GUI)</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="230"/>
@@ -12698,7 +12698,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="385"/>
         <source>Smooth scroll in song editor</source>
-        <translation type="unfinished"/>
+        <translation>גלילה חלקה בעורך המנגינות</translation>
     </message>
     <message>
         <location filename="../../src/gui/SetupDialog.cpp" line="387"/>
@@ -13128,91 +13128,91 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/Song.cpp" line="1510"/>
         <source>The following errors occurred while loading: </source>
-        <translation type="unfinished"/>
+        <translation>אירעו השגיאות הבאות במהלך הטעינה:</translation>
     </message>
 </context>
 <context>
     <name>SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="143"/>
+        <location filename="../../src/core/DataFile.cpp" line="144"/>
         <source>Could not open file</source>
         <translation>לא היה ניתן לפתוח את הקובץ</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="144"/>
+        <location filename="../../src/core/DataFile.cpp" line="145"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="331"/>
+        <location filename="../../src/core/DataFile.cpp" line="332"/>
         <source>Operation denied</source>
         <translation>הפעולה נדחתה</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="332"/>
+        <location filename="../../src/core/DataFile.cpp" line="333"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="342"/>
-        <location filename="../../src/core/DataFile.cpp" line="350"/>
-        <location filename="../../src/core/DataFile.cpp" line="358"/>
+        <location filename="../../src/core/DataFile.cpp" line="343"/>
+        <location filename="../../src/core/DataFile.cpp" line="351"/>
+        <location filename="../../src/core/DataFile.cpp" line="359"/>
         <source>Error</source>
         <translation>שגיאה</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="343"/>
+        <location filename="../../src/core/DataFile.cpp" line="344"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="351"/>
+        <location filename="../../src/core/DataFile.cpp" line="352"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="359"/>
+        <location filename="../../src/core/DataFile.cpp" line="360"/>
         <source>Failed to copy resources.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="368"/>
+        <location filename="../../src/core/DataFile.cpp" line="369"/>
         <source>Could not write file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="369"/>
+        <location filename="../../src/core/DataFile.cpp" line="370"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1867"/>
+        <location filename="../../src/core/DataFile.cpp" line="1898"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1822"/>
+        <location filename="../../src/core/DataFile.cpp" line="1853"/>
         <source>Error in file</source>
         <translation>שגיאה בקובץ</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1823"/>
+        <location filename="../../src/core/DataFile.cpp" line="1854"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1866"/>
+        <location filename="../../src/core/DataFile.cpp" line="1897"/>
         <source>Version difference</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1863"/>
+        <location filename="../../src/core/DataFile.cpp" line="1894"/>
         <source>template</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1863"/>
+        <location filename="../../src/core/DataFile.cpp" line="1894"/>
         <source>project</source>
         <translation type="unfinished"/>
     </message>
@@ -13266,12 +13266,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="918"/>
         <source>Song-Editor</source>
-        <translation>עורך שירים</translation>
+        <translation>עורך המנגינות</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="928"/>
         <source>Play song (Space)</source>
-        <translation type="unfinished"/>
+        <translation>ניגון המנגינה (רווח)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="929"/>
@@ -13286,7 +13286,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="931"/>
         <source>Stop song (Space)</source>
-        <translation type="unfinished"/>
+        <translation>הפסקת המנגינה (רווח)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="935"/>
@@ -13296,7 +13296,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="938"/>
         <source>Add beat/bassline</source>
-        <translation type="unfinished"/>
+        <translation>הוספת מקצב/bassline</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="941"/>
@@ -13552,7 +13552,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="75"/>
         <source>BEAT</source>
-        <translation type="unfinished"/>
+        <translation>מקצב</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="76"/>
@@ -13638,13 +13638,13 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="95"/>
         <source>Loading project...</source>
-        <translation type="unfinished"/>
+        <translation>המיזם בטעינה...</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="96"/>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="310"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="100"/>
@@ -13655,17 +13655,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="117"/>
         <source>Loading cancelled</source>
-        <translation type="unfinished"/>
+        <translation>הטעינה בוטלה</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="118"/>
         <source>Project loading was cancelled.</source>
-        <translation type="unfinished"/>
+        <translation>טעינת המיזם בוטלה.</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="135"/>
         <source>Loading Track %1 (%2/Total %3)</source>
-        <translation type="unfinished"/>
+        <translation>רצועה %1 בטעינה (%2/מתוך %3)</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="309"/>
@@ -13849,22 +13849,12 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
-        <source>FX %1: %2</source>
+        <source>Channel %1: %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
-        <source>Assign to new FX Channel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="352"/>
-        <source>Turn all recording on</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
-        <source>Turn all recording off</source>
+        <source>Assign to new Mixer Channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -13890,6 +13880,16 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="364"/>
         <source>Reset clip colors</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="352"/>
+        <source>Turn all recording on</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
+        <source>Turn all recording off</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -14158,12 +14158,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="591"/>
         <source>Show/hide GUI</source>
-        <translation type="unfinished"/>
+        <translation>הצגת/הסתרת ממשק המשתמש</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="598"/>
         <source>Turn off all notes</source>
-        <translation type="unfinished"/>
+        <translation>כיבוי כל התווים</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="683"/>
@@ -14292,12 +14292,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="133"/>
         <source>Loading plugin</source>
-        <translation type="unfinished"/>
+        <translation>התוסף בטעינה</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="134"/>
         <source>Please wait while loading VST plugin...</source>
-        <translation type="unfinished"/>
+        <translation>נא להמתין בעת טעינת תוסף ה־VST...</translation>
     </message>
 </context>
 <context>
@@ -14980,7 +14980,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/zynaddsubfx/ZynAddSubFx.cpp" line="544"/>
         <source>Show GUI</source>
-        <translation type="unfinished"/>
+        <translation>הצגת ממשק המשתמש</translation>
     </message>
 </context>
 <context>
@@ -15500,7 +15500,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="149"/>
         <location filename="../../plugins/ladspa_browser/ladspa_port_dialog.cpp" line="155"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>כן</translation>
     </message>
 </context>
 <context>
@@ -15770,7 +15770,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="78"/>
         <source>Pressure</source>
-        <translation type="unfinished"/>
+        <translation>לחץ</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="79"/>
@@ -15825,7 +15825,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="103"/>
         <source>Beats</source>
-        <translation type="unfinished"/>
+        <translation>מקצבים</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="105"/>
@@ -15993,12 +15993,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="531"/>
         <source>Pressure</source>
-        <translation type="unfinished"/>
+        <translation>לחץ</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="533"/>
         <source>Pressure:</source>
-        <translation type="unfinished"/>
+        <translation>לחץ:</translation>
     </message>
     <message>
         <location filename="../../plugins/stk/mallets/mallets.cpp" line="541"/>
@@ -16157,12 +16157,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="173"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>אישור</translation>
     </message>
     <message>
         <location filename="../../plugins/sf2_player/patches_dialog.ui" line="192"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
 </context>
 <context>
@@ -16388,12 +16388,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="354"/>
         <source>Loading plugin</source>
-        <translation type="unfinished"/>
+        <translation>התוסף בטעינה</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="355"/>
         <source>Please wait while loading the VST plugin...</source>
-        <translation type="unfinished"/>
+        <translation>נא להמתין בעת טעינת תוסף ה־VST...</translation>
     </message>
 </context>
 <context>

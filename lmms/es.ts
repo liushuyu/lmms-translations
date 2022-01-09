@@ -5372,144 +5372,6 @@ Asegúrate de tener permisos de escritura tanto del archivo como del directorio 
     </message>
 </context>
 <context>
-    <name>FxLine</name>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="86"/>
-        <source>Channel send amount</source>
-        <translation>Cantidad de envío del canal</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="242"/>
-        <source>Move &amp;left</source>
-        <translation>Mover a la Izquierda (&amp;L)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="243"/>
-        <source>Move &amp;right</source>
-        <translation>Mover a la Derecha (&amp;R)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="245"/>
-        <source>Rename &amp;channel</source>
-        <translation>Renombrar &amp;Canal</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="250"/>
-        <source>R&amp;emove channel</source>
-        <translation>Borrar canal (&amp;E)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="253"/>
-        <source>Remove &amp;unused channels</source>
-        <translation>Quitar los canales que no esten en &amp;uso</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="256"/>
-        <source>Color</source>
-        <translation>Color</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="258"/>
-        <source>Change</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="259"/>
-        <source>Reset</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="260"/>
-        <source>Pick random</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>FxLineLcdSpinBox</name>
-    <message>
-        <location filename="../../src/gui/widgets/FxLineLcdSpinBox.cpp" line="58"/>
-        <source>Assign to:</source>
-        <translation>Asignar a:</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLineLcdSpinBox.cpp" line="58"/>
-        <source>New FX Channel</source>
-        <translation>Nuevo Canal FX</translation>
-    </message>
-</context>
-<context>
-    <name>FxMixer</name>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="704"/>
-        <source>Master</source>
-        <translation>Maestro</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="704"/>
-        <location filename="../../src/core/FxMixer.cpp" line="825"/>
-        <location filename="../../src/core/FxMixer.cpp" line="827"/>
-        <source>FX %1</source>
-        <translation>FX %1</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="705"/>
-        <source>Volume</source>
-        <translation>Volumen</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="706"/>
-        <source>Mute</source>
-        <translation>Silencio</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="707"/>
-        <source>Solo</source>
-        <translation>Solo</translation>
-    </message>
-</context>
-<context>
-    <name>FxMixerView</name>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="70"/>
-        <source>FX-Mixer</source>
-        <translation>Mezcladora FX</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="289"/>
-        <source>FX Fader %1</source>
-        <translation>Fader FX %1</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="298"/>
-        <source>Mute</source>
-        <translation>Silencio</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="306"/>
-        <source>Mute this FX channel</source>
-        <translation>Silenciar este canal FX</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="308"/>
-        <source>Solo</source>
-        <translation>Solo</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="318"/>
-        <source>Solo FX channel</source>
-        <translation>Canal FX Solo</translation>
-    </message>
-</context>
-<context>
-    <name>FxRoute</name>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="43"/>
-        <location filename="../../src/core/FxMixer.cpp" line="58"/>
-        <source>Amount to send from channel %1 to channel %2</source>
-        <translation>Cantidad de envío del canal %1 al canal %2</translation>
-    </message>
-</context>
-<context>
     <name>GigInstrument</name>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="85"/>
@@ -6693,8 +6555,8 @@ Asegúrate de tener permisos de escritura tanto del archivo como del directorio 
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="59"/>
-        <source>FX channel</source>
-        <translation>Canal FX</translation>
+        <source>Mixer channel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="60"/>
@@ -6772,8 +6634,8 @@ Asegúrate de tener permisos de escritura tanto del archivo como del directorio 
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="377"/>
-        <source>FX %1: %2</source>
-        <translation>FX %1: %2</translation>
+        <source>%1: %2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6845,13 +6707,13 @@ Asegúrate de tener permisos de escritura tanto del archivo como del directorio 
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="194"/>
-        <source>FX channel</source>
-        <translation>Canal FX</translation>
+        <source>Mixer channel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="199"/>
-        <source>FX</source>
-        <translation>FX</translation>
+        <source>CHANNEL</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="209"/>
@@ -7542,8 +7404,8 @@ Asegúrate de tener permisos de escritura tanto del archivo como del directorio 
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="531"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1158"/>
-        <source>FX Mixer</source>
-        <translation>Mezcladora FX</translation>
+        <source>Mixer</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="538"/>
@@ -8491,6 +8353,144 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="45"/>
         <source>Device</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Mixer</name>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="704"/>
+        <source>Master</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="704"/>
+        <location filename="../../src/core/Mixer.cpp" line="825"/>
+        <location filename="../../src/core/Mixer.cpp" line="827"/>
+        <source>Channel %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="705"/>
+        <source>Volume</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="706"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="707"/>
+        <source>Solo</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MixerLine</name>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="86"/>
+        <source>Channel send amount</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="241"/>
+        <source>Move &amp;left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="242"/>
+        <source>Move &amp;right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="244"/>
+        <source>Rename &amp;channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="249"/>
+        <source>R&amp;emove channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="252"/>
+        <source>Remove &amp;unused channels</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="255"/>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="257"/>
+        <source>Change</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="258"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="259"/>
+        <source>Pick random</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MixerLineLcdSpinBox</name>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLineLcdSpinBox.cpp" line="58"/>
+        <source>Assign to:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLineLcdSpinBox.cpp" line="58"/>
+        <source>New Mixer Channel</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MixerRoute</name>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="43"/>
+        <location filename="../../src/core/Mixer.cpp" line="58"/>
+        <source>Amount to send from channel %1 to channel %2</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MixerView</name>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="70"/>
+        <source>Mixer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="289"/>
+        <source>Fader %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="298"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="306"/>
+        <source>Mute this channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="318"/>
+        <source>Solo this channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="308"/>
+        <source>Solo</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -10266,13 +10266,13 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3611"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3616"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>¡Por favor abre el patrón haciendo doble click sobre él!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4248"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4267"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4253"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4272"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Por favor ingresa un nuevo valor entre %1 y %2:</translation>
     </message>
@@ -10280,241 +10280,241 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4722"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Reproducir/Pausar el patrón actual (Espacio)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4723"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4728"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Grabar notas desde el dispositivo/canal/teclado MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4729"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Grabar notas desde el dispositivo/canal/teclado MIDI escuchando la Canción o el Ritmo+Bajo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4725"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4730"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4731"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Detener la reproducción del patrón actual (Espacio)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4728"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
         <source>Edit actions</source>
         <translation>Acciones de edición</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4732"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4737"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Modo de dibujo (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4738"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Modo de borrado (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4734"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4739"/>
         <source>Select mode (Shift+S)</source>
         <translation>Modo de Selección (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4735"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4740"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Quantize</source>
         <translation>Cuantizar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Quantize positions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
         <source>Quantize lengths</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4772"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4777"/>
         <source>File actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
         <source>Import pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4784"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5240"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4789"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5245"/>
         <source>Export pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4795"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4800"/>
         <source>Copy paste controls</source>
         <translation>Controles de copiado y pegado</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4798"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
         <source>Cut (%1+X)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4801"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4806"/>
         <source>Copy (%1+C)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4804"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4809"/>
         <source>Paste (%1+V)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4819"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
         <source>Timeline controls</source>
         <translation>Controles de la línea de Tiempo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4838"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4837"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4842"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4841"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4850"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4863"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4868"/>
         <source>Zoom and note controls</source>
         <translation>Controles de acercamiento y nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4876"/>
         <source>Horizontal zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4879"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4884"/>
         <source>Vertical zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4888"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4893"/>
         <source>Quantization</source>
         <translation>Cuantización</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4897"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4902"/>
         <source>Note length</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4903"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4908"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4912"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4917"/>
         <source>Scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4921"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4926"/>
         <source>Chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4930"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4940"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5044"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5217"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5049"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5222"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano-Roll - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5051"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5222"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5056"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5227"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Piano-Roll - sin patrón</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5241"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5246"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5293"/>
         <source>XML pattern file (*.xpt *.xptz)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5261"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5266"/>
         <source>Export pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5262"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
         <source>Pattern saved to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5277"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5282"/>
         <source>Import pattern.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5278"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5283"/>
         <source>You are about to import a pattern, this will overwrite your current pattern. Do you want to continue?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5287"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5292"/>
         <source>Open pattern</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5307"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5312"/>
         <source>Import pattern success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5308"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5313"/>
         <source>Imported pattern %1!</source>
         <translation type="unfinished"/>
     </message>
@@ -12452,8 +12452,8 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="41"/>
-        <source>FX channel</source>
-        <translation>Canal FX</translation>
+        <source>Mixer channel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="42"/>
@@ -12496,8 +12496,8 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="142"/>
-        <source>FX %1: %2</source>
-        <translation>FX %1: %2</translation>
+        <source>%1: %2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12539,13 +12539,13 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="117"/>
-        <source>FX channel</source>
-        <translation>Canal FX</translation>
+        <source>Mixer channel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="122"/>
-        <source>FX</source>
-        <translation>FX</translation>
+        <source>CHANNEL</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13138,86 +13138,86 @@ Latencia: %2 ms</translation>
 <context>
     <name>SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="143"/>
+        <location filename="../../src/core/DataFile.cpp" line="144"/>
         <source>Could not open file</source>
         <translation>No se puede abrir el archivo</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="144"/>
+        <location filename="../../src/core/DataFile.cpp" line="145"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>No se puede abrir el archivo %1. Probablemente no tengas permisos para leer este archivo.
 Asegúrate de tener al menos permisos de lectura sobre este archivo e inténtalo nuevamente.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="331"/>
+        <location filename="../../src/core/DataFile.cpp" line="332"/>
         <source>Operation denied</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="332"/>
+        <location filename="../../src/core/DataFile.cpp" line="333"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="342"/>
-        <location filename="../../src/core/DataFile.cpp" line="350"/>
-        <location filename="../../src/core/DataFile.cpp" line="358"/>
+        <location filename="../../src/core/DataFile.cpp" line="343"/>
+        <location filename="../../src/core/DataFile.cpp" line="351"/>
+        <location filename="../../src/core/DataFile.cpp" line="359"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="343"/>
+        <location filename="../../src/core/DataFile.cpp" line="344"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="351"/>
+        <location filename="../../src/core/DataFile.cpp" line="352"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="359"/>
+        <location filename="../../src/core/DataFile.cpp" line="360"/>
         <source>Failed to copy resources.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="368"/>
+        <location filename="../../src/core/DataFile.cpp" line="369"/>
         <source>Could not write file</source>
         <translation>No se puede escribir el archivo</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="369"/>
+        <location filename="../../src/core/DataFile.cpp" line="370"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1867"/>
+        <location filename="../../src/core/DataFile.cpp" line="1898"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1822"/>
+        <location filename="../../src/core/DataFile.cpp" line="1853"/>
         <source>Error in file</source>
         <translation>Error en el archivo</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1823"/>
+        <location filename="../../src/core/DataFile.cpp" line="1854"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>El archivo %1 aparentemente contiene errores y por lo tanto no puede cargarse.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1866"/>
+        <location filename="../../src/core/DataFile.cpp" line="1897"/>
         <source>Version difference</source>
         <translation>Diferencia de versión</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1863"/>
+        <location filename="../../src/core/DataFile.cpp" line="1894"/>
         <source>template</source>
         <translation>plantilla</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1863"/>
+        <location filename="../../src/core/DataFile.cpp" line="1894"/>
         <source>project</source>
         <translation>proyecto</translation>
     </message>
@@ -13856,23 +13856,13 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
-        <source>FX %1: %2</source>
-        <translation>FX %1: %2</translation>
+        <source>Channel %1: %2</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
-        <source>Assign to new FX Channel</source>
-        <translation>Asignar a un nuevo Canal FX</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="352"/>
-        <source>Turn all recording on</source>
-        <translation>Activar todas las grabaciones</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
-        <source>Turn all recording off</source>
-        <translation>Apagar todas las grabacioens</translation>
+        <source>Assign to new Mixer Channel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="358"/>
@@ -13898,6 +13888,16 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="364"/>
         <source>Reset clip colors</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="352"/>
+        <source>Turn all recording on</source>
+        <translation>Activar todas las grabaciones</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
+        <source>Turn all recording off</source>
+        <translation>Apagar todas las grabacioens</translation>
     </message>
 </context>
 <context>

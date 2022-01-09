@@ -5477,144 +5477,6 @@ Prepričajte se, da imate pravico za zapisovanje v to datoteko in njeno mapo ter
     </message>
 </context>
 <context>
-    <name>FxLine</name>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="86"/>
-        <source>Channel send amount</source>
-        <translation>Količina pošiljanja s kanala</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="242"/>
-        <source>Move &amp;left</source>
-        <translation>Premakni &amp;levo</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="243"/>
-        <source>Move &amp;right</source>
-        <translation>Premakni &amp;desno</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="245"/>
-        <source>Rename &amp;channel</source>
-        <translation>Preimenuj &amp;kanal</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="250"/>
-        <source>R&amp;emove channel</source>
-        <translation>&amp;Odstrani kanal</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="253"/>
-        <source>Remove &amp;unused channels</source>
-        <translation>Odstrani &amp;neuporabljene kanale</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="256"/>
-        <source>Color</source>
-        <translation>Barva</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="258"/>
-        <source>Change</source>
-        <translation>Spremeni</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="259"/>
-        <source>Reset</source>
-        <translation>Ponastavi</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLine.cpp" line="260"/>
-        <source>Pick random</source>
-        <translation>Izberi naključno</translation>
-    </message>
-</context>
-<context>
-    <name>FxLineLcdSpinBox</name>
-    <message>
-        <location filename="../../src/gui/widgets/FxLineLcdSpinBox.cpp" line="58"/>
-        <source>Assign to:</source>
-        <translation>Pripši k:</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/FxLineLcdSpinBox.cpp" line="58"/>
-        <source>New FX Channel</source>
-        <translation>Nov FX kanal</translation>
-    </message>
-</context>
-<context>
-    <name>FxMixer</name>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="704"/>
-        <source>Master</source>
-        <translation>Glavni master</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="704"/>
-        <location filename="../../src/core/FxMixer.cpp" line="825"/>
-        <location filename="../../src/core/FxMixer.cpp" line="827"/>
-        <source>FX %1</source>
-        <translation>FX %1</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="705"/>
-        <source>Volume</source>
-        <translation>Glasnost</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="706"/>
-        <source>Mute</source>
-        <translation>Utišaj</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="707"/>
-        <source>Solo</source>
-        <translation>Solo</translation>
-    </message>
-</context>
-<context>
-    <name>FxMixerView</name>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="70"/>
-        <source>FX-Mixer</source>
-        <translation>FX mešalka</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="289"/>
-        <source>FX Fader %1</source>
-        <translation>FX drsnik %1</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="298"/>
-        <source>Mute</source>
-        <translation>Mute</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="306"/>
-        <source>Mute this FX channel</source>
-        <translation>Utišaj ta FX kanal</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="308"/>
-        <source>Solo</source>
-        <translation>Solist</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/FxMixerView.cpp" line="318"/>
-        <source>Solo FX channel</source>
-        <translation>Soliraj ta FX kanal</translation>
-    </message>
-</context>
-<context>
-    <name>FxRoute</name>
-    <message>
-        <location filename="../../src/core/FxMixer.cpp" line="43"/>
-        <location filename="../../src/core/FxMixer.cpp" line="58"/>
-        <source>Amount to send from channel %1 to channel %2</source>
-        <translation>Količina, ki na bo poslana s kanala %1 na kanal %2</translation>
-    </message>
-</context>
-<context>
     <name>GigInstrument</name>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="85"/>
@@ -6798,8 +6660,8 @@ Prepričajte se, da imate pravico za zapisovanje v to datoteko in njeno mapo ter
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="59"/>
-        <source>FX channel</source>
-        <translation>FX kanal</translation>
+        <source>Mixer channel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="60"/>
@@ -6877,8 +6739,8 @@ Prepričajte se, da imate pravico za zapisovanje v to datoteko in njeno mapo ter
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="377"/>
-        <source>FX %1: %2</source>
-        <translation>FX %1: %2</translation>
+        <source>%1: %2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6950,13 +6812,13 @@ Prepričajte se, da imate pravico za zapisovanje v to datoteko in njeno mapo ter
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="194"/>
-        <source>FX channel</source>
-        <translation>FX kanal</translation>
+        <source>Mixer channel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="199"/>
-        <source>FX</source>
-        <translation>FX</translation>
+        <source>CHANNEL</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="209"/>
@@ -7655,8 +7517,8 @@ Prepričajte se, da imate pravico za zapisovanje v to datoteko in njeno mapo ter
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="531"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1158"/>
-        <source>FX Mixer</source>
-        <translation>FX mešalka</translation>
+        <source>Mixer</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="538"/>
@@ -8611,6 +8473,144 @@ Vnesite &apos;x&apos;, če želite pustiti tipko nedodeljeno/ nemapirano.</trans
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="45"/>
         <source>Device</source>
         <translation>Naprava</translation>
+    </message>
+</context>
+<context>
+    <name>Mixer</name>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="704"/>
+        <source>Master</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="704"/>
+        <location filename="../../src/core/Mixer.cpp" line="825"/>
+        <location filename="../../src/core/Mixer.cpp" line="827"/>
+        <source>Channel %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="705"/>
+        <source>Volume</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="706"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="707"/>
+        <source>Solo</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MixerLine</name>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="86"/>
+        <source>Channel send amount</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="241"/>
+        <source>Move &amp;left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="242"/>
+        <source>Move &amp;right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="244"/>
+        <source>Rename &amp;channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="249"/>
+        <source>R&amp;emove channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="252"/>
+        <source>Remove &amp;unused channels</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="255"/>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="257"/>
+        <source>Change</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="258"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLine.cpp" line="259"/>
+        <source>Pick random</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MixerLineLcdSpinBox</name>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLineLcdSpinBox.cpp" line="58"/>
+        <source>Assign to:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/MixerLineLcdSpinBox.cpp" line="58"/>
+        <source>New Mixer Channel</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MixerRoute</name>
+    <message>
+        <location filename="../../src/core/Mixer.cpp" line="43"/>
+        <location filename="../../src/core/Mixer.cpp" line="58"/>
+        <source>Amount to send from channel %1 to channel %2</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MixerView</name>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="70"/>
+        <source>Mixer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="289"/>
+        <source>Fader %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="298"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="306"/>
+        <source>Mute this channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="318"/>
+        <source>Solo this channel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="308"/>
+        <source>Solo</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10385,13 +10385,13 @@ Vnesite &apos;x&apos;, če želite pustiti tipko nedodeljeno/ nemapirano.</trans
         <translation>Najprej izberite note za lepljenje.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3611"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3616"/>
         <source>Please open a pattern by double-clicking on it!</source>
         <translation>Odprite matriko z dvojnim klikom!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4248"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4267"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4253"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4272"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Prosim vpišite novo vrednost med %1 in %2:</translation>
     </message>
@@ -10399,241 +10399,241 @@ Vnesite &apos;x&apos;, če želite pustiti tipko nedodeljeno/ nemapirano.</trans
 <context>
     <name>PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4722"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
         <source>Play/pause current pattern (Space)</source>
         <translation>Predvajanje/Premor trenutne matrike (presledek)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4723"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4728"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Snemaj note z MIDI naprave/kanala-pianina</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4729"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or BB track</source>
         <translation>Snema note z MIDI naprave/kanala-pianina medtem ko predvaja skladbo ali BB stezo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4725"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4730"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Snema note z MIDI naprave/kanala-pianina, korak po koraku</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4731"/>
         <source>Stop playing of current pattern (Space)</source>
         <translation>Zaustavi predvajanje trenutne matrike (presledek)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4728"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
         <source>Edit actions</source>
         <translation>Urejanje dejanj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4732"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4737"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Način risanja (Sshift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4738"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Način brisanja (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4734"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4739"/>
         <source>Select mode (Shift+S)</source>
         <translation>Način izbire (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4735"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4740"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Način pregibanja višine (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Quantize</source>
         <translation>Kvantizacija</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Quantize positions</source>
         <translation>Kvantizacija položajev</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
         <source>Quantize lengths</source>
         <translation>Kvantizacija dolžin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4772"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4777"/>
         <source>File actions</source>
         <translation>Dejanja datoteke</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
         <source>Import pattern</source>
         <translation>Uvozi matriko</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4784"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5240"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4789"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5245"/>
         <source>Export pattern</source>
         <translation>Izvozi matriko</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4795"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4800"/>
         <source>Copy paste controls</source>
         <translation>Nadzor kopiranja/lepljenja</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4798"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
         <source>Cut (%1+X)</source>
         <translation>Izreži (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4801"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4806"/>
         <source>Copy (%1+C)</source>
         <translation>Kopiraj (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4804"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4809"/>
         <source>Paste (%1+V)</source>
         <translation>Prilepi (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4819"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
         <source>Timeline controls</source>
         <translation>Nadzor časovnice</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
         <source>Glue</source>
         <translation>Lepljenje</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4833"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4838"/>
         <source>Knife</source>
         <translation>Nož</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4837"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4842"/>
         <source>Fill</source>
         <translation>Zapolni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4841"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
         <source>Cut overlaps</source>
         <translation>Izreži prekrito</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4850"/>
         <source>Min length as last</source>
         <translation>Minimalna dolžina vsaj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
         <source>Max length as last</source>
         <translation>Maksimalna dolžina vsaj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4863"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4868"/>
         <source>Zoom and note controls</source>
         <translation>Nadzor povečave in not</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4876"/>
         <source>Horizontal zooming</source>
         <translation>Vodoravno večanje</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4879"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4884"/>
         <source>Vertical zooming</source>
         <translation>Vertikalno večanje</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4888"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4893"/>
         <source>Quantization</source>
         <translation>Kvantizacija</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4897"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4902"/>
         <source>Note length</source>
         <translation>Dolžina note</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4903"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4908"/>
         <source>Key</source>
         <translation>Ključ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4912"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4917"/>
         <source>Scale</source>
         <translation>Skala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4921"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4926"/>
         <source>Chord</source>
         <translation>Akord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4930"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
         <source>Snap mode</source>
         <translation>Način preskoka</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4940"/>
         <source>Clear ghost notes</source>
         <translation>Počisti zakrite note</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5044"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5217"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5049"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5222"/>
         <source>Piano-Roll - %1</source>
         <translation>Pianino-rolca - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5051"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5222"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5056"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5227"/>
         <source>Piano-Roll - no pattern</source>
         <translation>Pianino-rolca - ni matrike</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5241"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5246"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5293"/>
         <source>XML pattern file (*.xpt *.xptz)</source>
         <translation>XML matrične datoteke (*.xpt *.xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5261"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5266"/>
         <source>Export pattern success</source>
         <translation>Uspešno izvožena matrika</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5262"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
         <source>Pattern saved to %1</source>
         <translation>Matrika shranjena v %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5277"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5282"/>
         <source>Import pattern.</source>
         <translation>Uvozi matriko.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5278"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5283"/>
         <source>You are about to import a pattern, this will overwrite your current pattern. Do you want to continue?</source>
         <translation>Uvozili boste matriko, kar bo povozilo trenutno matriko. Želite nadaljevati?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5287"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5292"/>
         <source>Open pattern</source>
         <translation>odpri matriko</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5307"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5312"/>
         <source>Import pattern success</source>
         <translation>Uspešen uvoz matrike</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5308"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5313"/>
         <source>Imported pattern %1!</source>
         <translation>Uvožena matrika %1!</translation>
     </message>
@@ -12574,8 +12574,8 @@ Ta preverjanja lahko izklopite in s tem pohitrite skeniranje (na lastno odgovorn
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="41"/>
-        <source>FX channel</source>
-        <translation>FX kanal</translation>
+        <source>Mixer channel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="42"/>
@@ -12618,8 +12618,8 @@ Ta preverjanja lahko izklopite in s tem pohitrite skeniranje (na lastno odgovorn
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="142"/>
-        <source>FX %1: %2</source>
-        <translation>FX %1: %2</translation>
+        <source>%1: %2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12661,13 +12661,13 @@ Ta preverjanja lahko izklopite in s tem pohitrite skeniranje (na lastno odgovorn
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="117"/>
-        <source>FX channel</source>
-        <translation>FX kanal</translation>
+        <source>Mixer channel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="122"/>
-        <source>FX</source>
-        <translation>FX</translation>
+        <source>CHANNEL</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13260,86 +13260,86 @@ Latenca: %2 ms</translation>
 <context>
     <name>SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="143"/>
+        <location filename="../../src/core/DataFile.cpp" line="144"/>
         <source>Could not open file</source>
         <translation>Ne morem odpreti datoteke</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="144"/>
+        <location filename="../../src/core/DataFile.cpp" line="145"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>Datoteke %1 ni mogoče odpreti. Verjetno nimate pravic za branje te datoteke.
 Poskrbite, da boste imeli vsaj bralne pravice in poskusite znova.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="331"/>
+        <location filename="../../src/core/DataFile.cpp" line="332"/>
         <source>Operation denied</source>
         <translation>Operacija zavrnjena</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="332"/>
+        <location filename="../../src/core/DataFile.cpp" line="333"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation>Paketna mapa z imenom, ki že obstaja v izbrani poti. Paktenega projekta ni mogoče prepisati. Izberite drugo ime.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="342"/>
-        <location filename="../../src/core/DataFile.cpp" line="350"/>
-        <location filename="../../src/core/DataFile.cpp" line="358"/>
+        <location filename="../../src/core/DataFile.cpp" line="343"/>
+        <location filename="../../src/core/DataFile.cpp" line="351"/>
+        <location filename="../../src/core/DataFile.cpp" line="359"/>
         <source>Error</source>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="343"/>
+        <location filename="../../src/core/DataFile.cpp" line="344"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation>Paketne mape ni bilo mogoče ustvariti.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="351"/>
+        <location filename="../../src/core/DataFile.cpp" line="352"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation>Mape z viri ni bilo mogoče ustvariti.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="359"/>
+        <location filename="../../src/core/DataFile.cpp" line="360"/>
         <source>Failed to copy resources.</source>
         <translation>Neuspešno kopiranje virov</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="368"/>
+        <location filename="../../src/core/DataFile.cpp" line="369"/>
         <source>Could not write file</source>
         <translation>Datoteke ni bilo mogoče zapisati</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="369"/>
+        <location filename="../../src/core/DataFile.cpp" line="370"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
         <translation>%1 ni bilo mogoče odpreti za zapisovanje. Verjetno nimate pravic za zapisovanje v to datoteko. Poskrbite, da boste imeli zapisovalni dostop do te datoteke in poskusite znova.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1867"/>
+        <location filename="../../src/core/DataFile.cpp" line="1898"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>To je bilo ustvarjeno z LMMS %2</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1822"/>
+        <location filename="../../src/core/DataFile.cpp" line="1853"/>
         <source>Error in file</source>
         <translation>Napaka v datoteki</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1823"/>
+        <location filename="../../src/core/DataFile.cpp" line="1854"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Datoteka %1 vsebuje napake in je ni mogoče naložiti.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1866"/>
+        <location filename="../../src/core/DataFile.cpp" line="1897"/>
         <source>Version difference</source>
         <translation>Razlika različic</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1863"/>
+        <location filename="../../src/core/DataFile.cpp" line="1894"/>
         <source>template</source>
         <translation>predloga</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1863"/>
+        <location filename="../../src/core/DataFile.cpp" line="1894"/>
         <source>project</source>
         <translation>projekt</translation>
     </message>
@@ -13978,23 +13978,13 @@ Prepričajte se, da imate pravico za branje te datoteke in njeno mapo ter poskus
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
-        <source>FX %1: %2</source>
-        <translation>FX %1: %2</translation>
+        <source>Channel %1: %2</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="340"/>
-        <source>Assign to new FX Channel</source>
-        <translation>Dodeli novemu FX kanalu</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="352"/>
-        <source>Turn all recording on</source>
-        <translation>Vklopi snemanje vseh</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
-        <source>Turn all recording off</source>
-        <translation>Izklopi snemanje vseh</translation>
+        <source>Assign to new Mixer Channel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="358"/>
@@ -14020,6 +14010,16 @@ Prepričajte se, da imate pravico za branje te datoteke in njeno mapo ter poskus
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="364"/>
         <source>Reset clip colors</source>
         <translation>Ponastavi barve izsekov</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="352"/>
+        <source>Turn all recording on</source>
+        <translation>Vklopi snemanje vseh</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="353"/>
+        <source>Turn all recording off</source>
+        <translation>Izklopi snemanje vseh</translation>
     </message>
 </context>
 <context>
