@@ -379,6 +379,67 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
     </message>
 </context>
 <context>
+    <name>AutomationClip</name>
+    <message>
+        <location filename="../../src/core/AutomationClip.cpp" line="866"/>
+        <source>Drag a control while pressing &lt;%1&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>AutomationClipView</name>
+    <message>
+        <location filename="../../src/gui/AutomationClipView.cpp" line="174"/>
+        <source>Open in Automation editor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/AutomationClipView.cpp" line="182"/>
+        <source>Clear</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/AutomationClipView.cpp" line="185"/>
+        <source>Reset name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/AutomationClipView.cpp" line="188"/>
+        <source>Change name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/AutomationClipView.cpp" line="191"/>
+        <source>Set/clear record</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/AutomationClipView.cpp" line="194"/>
+        <source>Flip Vertically (Visible)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/AutomationClipView.cpp" line="197"/>
+        <source>Flip Horizontally (Visible)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/AutomationClipView.cpp" line="202"/>
+        <source>%1 Connections</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/AutomationClipView.cpp" line="210"/>
+        <source>Disconnect &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/AutomationClipView.cpp" line="450"/>
+        <source>Model is already connected to this clip.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>AutomationEditor</name>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="409"/>
@@ -397,21 +458,21 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1228"/>
-        <source>Please open an automation pattern with the context menu of a control!</source>
-        <translation>Veuillez ouvrir un motif d&apos;automation avec le menu contextuel d&apos;un contrôle !</translation>
+        <source>Please open an automation clip with the context menu of a control!</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>AutomationEditorWindow</name>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1835"/>
-        <source>Play/pause current pattern (Space)</source>
-        <translation>Jouer/mettre en pause le motif (barre d&apos;espace)</translation>
+        <source>Play/pause current clip (Space)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1837"/>
-        <source>Stop playing of current pattern (Space)</source>
-        <translation>Arrêter de jouer le motif actuel (barre d&apos;espace)</translation>
+        <source>Stop playing of current clip (Space)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1840"/>
@@ -501,8 +562,8 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1990"/>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2107"/>
-        <source>Automation Editor - no pattern</source>
-        <translation>Éditeur d&apos;automation - pas de motif</translation>
+        <source>Automation Editor - no clip</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1994"/>
@@ -512,69 +573,8 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2048"/>
-        <source>Model is already connected to this pattern.</source>
-        <translation>Ce modèle est déjà connecté à ce motif.</translation>
-    </message>
-</context>
-<context>
-    <name>AutomationPattern</name>
-    <message>
-        <location filename="../../src/core/AutomationPattern.cpp" line="866"/>
-        <source>Drag a control while pressing &lt;%1&gt;</source>
-        <translation>Déplacer un contrôle en appuyant sur &lt;%1&gt;</translation>
-    </message>
-</context>
-<context>
-    <name>AutomationPatternView</name>
-    <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="174"/>
-        <source>Open in Automation editor</source>
-        <translation>Ouvrir dans l&apos;éditeur d&apos;automation</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="182"/>
-        <source>Clear</source>
-        <translation>Effacer</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="185"/>
-        <source>Reset name</source>
-        <translation>Réinitialiser le nom</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="188"/>
-        <source>Change name</source>
-        <translation>Modifier le nom</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="191"/>
-        <source>Set/clear record</source>
-        <translation>Armer/désarmer l&apos;enregistrement</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="194"/>
-        <source>Flip Vertically (Visible)</source>
-        <translation>Tourner verticalement (visible)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="197"/>
-        <source>Flip Horizontally (Visible)</source>
-        <translation>Tourner horizontalement (visible)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="202"/>
-        <source>%1 Connections</source>
-        <translation>%1 connexions</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="210"/>
-        <source>Disconnect &quot;%1&quot;</source>
-        <translation>Déconnecter &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/AutomationPatternView.cpp" line="450"/>
-        <source>Model is already connected to this pattern.</source>
-        <translation>Ce modèle est déjà connecté à ce motif.</translation>
+        <source>Model is already connected to this clip.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -583,6 +583,24 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
         <location filename="../../src/tracks/AutomationTrack.cpp" line="34"/>
         <source>Automation track</source>
         <translation>Piste d&apos;automation</translation>
+    </message>
+</context>
+<context>
+    <name>BBClipView</name>
+    <message>
+        <location filename="../../src/gui/BBClipView.cpp" line="53"/>
+        <source>Open in Beat+Bassline-Editor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/BBClipView.cpp" line="60"/>
+        <source>Reset name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/BBClipView.cpp" line="63"/>
+        <source>Change name</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -619,8 +637,8 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="91"/>
-        <source>Clone beat/bassline pattern</source>
-        <translation>Cloner le rythme/la ligne de basse</translation>
+        <source>Clone beat/bassline clip</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="95"/>
@@ -646,24 +664,6 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
         <location filename="../../src/gui/editors/BBEditor.cpp" line="110"/>
         <source>Clone Steps</source>
         <translation>Cloner des pas</translation>
-    </message>
-</context>
-<context>
-    <name>BBTCOView</name>
-    <message>
-        <location filename="../../src/gui/BBTCOView.cpp" line="53"/>
-        <source>Open in Beat+Bassline-Editor</source>
-        <translation>Ouvrir dans l&apos;éditeur de rythmes et de ligne de basse</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/BBTCOView.cpp" line="60"/>
-        <source>Reset name</source>
-        <translation>Réinitialiser le nom</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/BBTCOView.cpp" line="63"/>
-        <source>Change name</source>
-        <translation>Modifier le nom</translation>
     </message>
 </context>
 <context>
@@ -2888,6 +2888,118 @@ Ce mode n&apos;est pas disponible pour les plugins VST.</translation>
         <location filename="../../plugins/carlabase/carla/source/frontend/carla_settings.cpp" line="1671"/>
         <source>Add Path</source>
         <translation>Ajouter un chemin d&apos;accès</translation>
+    </message>
+</context>
+<context>
+    <name>Clip</name>
+    <message>
+        <location filename="../../src/core/Clip.cpp" line="47"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ClipView</name>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="699"/>
+        <source>Current position</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="707"/>
+        <source>Current length</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="708"/>
+        <location filename="../../src/gui/ClipView.cpp" line="960"/>
+        <source>%1:%2 (%3:%4 to %5:%6)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="727"/>
+        <source>Press &lt;%1&gt; and drag to make a copy.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="728"/>
+        <source>Press &lt;%1&gt; for free resizing.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="729"/>
+        <source>Hint</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1059"/>
+        <source>Delete (middle mousebutton)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1060"/>
+        <source>Delete selection (middle mousebutton)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1068"/>
+        <source>Cut</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1069"/>
+        <source>Cut selection</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1076"/>
+        <source>Merge Selection</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1085"/>
+        <source>Copy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1086"/>
+        <source>Copy selection</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1091"/>
+        <source>Paste</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1099"/>
+        <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1100"/>
+        <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1105"/>
+        <source>Clip color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1107"/>
+        <source>Change</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1108"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/ClipView.cpp" line="1109"/>
+        <source>Pick random</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7671,31 +7783,31 @@ Veuillez vous assurez que vous avez les droits d&apos;écriture sur le fichier e
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="497"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1141"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1143"/>
         <source>Song Editor</source>
         <translation>Éditeur de morceau</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="505"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1145"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1147"/>
         <source>Beat+Bassline Editor</source>
         <translation>Éditeur de rythme et de ligne de basse</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="514"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1149"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1151"/>
         <source>Piano Roll</source>
         <translation>Piano virtuel</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="522"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1153"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1155"/>
         <source>Automation Editor</source>
         <translation>Éditeur d&apos;automation</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="531"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1158"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1160"/>
         <source>Mixer</source>
         <translation type="unfinished"/>
     </message>
@@ -7802,104 +7914,104 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
 Veuillez visiter http://lmms.sf.net/wiki pour la documentation de LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1162"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1164"/>
         <source>Controller Rack</source>
         <translation>Rack de contrôleurs</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1166"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1168"/>
         <source>Project Notes</source>
         <translation>Montrer/cacher les notes du projet</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1170"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1172"/>
         <source>Microtuner</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1177"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1179"/>
         <source>Fullscreen</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1187"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1189"/>
         <source>Volume as dBFS</source>
         <translation>Volume en dBFS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1201"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1203"/>
         <source>Smooth scroll</source>
         <translation>Déplacement fluide</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1215"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1217"/>
         <source>Enable note labels in piano roll</source>
         <translation>Activer les étiquettes de note dans le piano virtuel</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1489"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1491"/>
         <source>MIDI File (*.mid)</source>
         <translation>Fichier MIDI (*.mid)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1501"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1558"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1503"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1560"/>
         <source>untitled</source>
         <translation>sans titre</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1505"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1561"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1507"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1563"/>
         <source>Select file for project-export...</source>
         <translation>Sélectionnez un fichier vers lequel exporter le projet...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1530"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1532"/>
         <source>Select directory for writing exported tracks...</source>
         <translation>Sélectionnez le répertoire pour écrire les pistes exportées...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1592"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1594"/>
         <source>Save project</source>
         <translation>Sauvegarder le projet</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1609"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1611"/>
         <source>Project saved</source>
         <translation>Projet sauvegardé</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1609"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1611"/>
         <source>The project %1 is now saved.</source>
         <translation>Le projet %1 est maintenant sauvegardé.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1616"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1618"/>
         <source>Project NOT saved.</source>
         <translation>Projet NON sauvegardé.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1616"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1618"/>
         <source>The project %1 was not saved!</source>
         <translation>Le projet %1 n&apos;a pas été sauvegardé!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1655"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1657"/>
         <source>Import file</source>
         <translation>Importer un fichier</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1657"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1659"/>
         <source>MIDI sequences</source>
         <translation>Séquences MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1659"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1661"/>
         <source>Hydrogen projects</source>
         <translation>Projets Hydrogen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1661"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1663"/>
         <source>All file types</source>
         <translation>Tous les types de fichier</translation>
     </message>
@@ -8272,6 +8384,49 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="91"/>
         <source>CC %1</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MidiClipView</name>
+    <message>
+        <location filename="../../src/gui/MidiClipView.cpp" line="143"/>
+        <source>Open in piano-roll</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MidiClipView.cpp" line="149"/>
+        <source>Set as ghost in piano-roll</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MidiClipView.cpp" line="158"/>
+        <source>Clear all notes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MidiClipView.cpp" line="161"/>
+        <source>Reset name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MidiClipView.cpp" line="164"/>
+        <source>Change name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MidiClipView.cpp" line="172"/>
+        <source>Add steps</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MidiClipView.cpp" line="174"/>
+        <source>Remove steps</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MidiClipView.cpp" line="176"/>
+        <source>Clone Steps</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -10261,49 +10416,6 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     </message>
 </context>
 <context>
-    <name>PatternView</name>
-    <message>
-        <location filename="../../src/gui/PatternView.cpp" line="143"/>
-        <source>Open in piano-roll</source>
-        <translation>Ouvrir dans le piano virtuel</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/PatternView.cpp" line="149"/>
-        <source>Set as ghost in piano-roll</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/PatternView.cpp" line="158"/>
-        <source>Clear all notes</source>
-        <translation>Effacer toutes les notes</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/PatternView.cpp" line="161"/>
-        <source>Reset name</source>
-        <translation>Réinitialiser le nom</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/PatternView.cpp" line="164"/>
-        <source>Change name</source>
-        <translation>Modifier le nom</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/PatternView.cpp" line="172"/>
-        <source>Add steps</source>
-        <translation>Ajouter des pas</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/PatternView.cpp" line="174"/>
-        <source>Remove steps</source>
-        <translation>Supprimer des pas</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/PatternView.cpp" line="176"/>
-        <source>Clone Steps</source>
-        <translation>Cloner les pas</translation>
-    </message>
-</context>
-<context>
     <name>PeakController</name>
     <message>
         <location filename="../../src/core/PeakController.cpp" line="45"/>
@@ -10559,8 +10671,8 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="3616"/>
-        <source>Please open a pattern by double-clicking on it!</source>
-        <translation>Veuillez ouvrir un motif en double-cliquant dessus !</translation>
+        <source>Please open a clip by double-clicking on it!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4253"/>
@@ -10573,8 +10685,8 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <name>PianoRollWindow</name>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
-        <source>Play/pause current pattern (Space)</source>
-        <translation>Jouer/mettre en pause le motif (barre d&apos;espace)</translation>
+        <source>Play/pause current clip (Space)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4728"/>
@@ -10593,8 +10705,8 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4731"/>
-        <source>Stop playing of current pattern (Space)</source>
-        <translation>Arrêter de jouer le motif (barre d&apos;espace)</translation>
+        <source>Stop playing of current clip (Space)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
@@ -10643,13 +10755,13 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
-        <source>Import pattern</source>
+        <source>Import clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4789"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5245"/>
-        <source>Export pattern</source>
+        <source>Export clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -10766,48 +10878,48 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5056"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5227"/>
-        <source>Piano-Roll - no pattern</source>
-        <translation>Piano virtuel - pas de motif</translation>
+        <source>Piano-Roll - no clip</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5246"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5293"/>
-        <source>XML pattern file (*.xpt *.xptz)</source>
+        <source>XML clip file (*.xpt *.xptz)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5266"/>
-        <source>Export pattern success</source>
+        <source>Export clip success</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
-        <source>Pattern saved to %1</source>
+        <source>Clip saved to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5282"/>
-        <source>Import pattern.</source>
+        <source>Import clip.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5283"/>
-        <source>You are about to import a pattern, this will overwrite your current pattern. Do you want to continue?</source>
+        <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5292"/>
-        <source>Open pattern</source>
+        <source>Open clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5312"/>
-        <source>Import pattern success</source>
+        <source>Import clip success</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5313"/>
-        <source>Imported pattern %1!</source>
+        <source>Imported clip %1!</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -12718,16 +12830,16 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     </message>
 </context>
 <context>
-    <name>SampleTCOView</name>
+    <name>SampleClipView</name>
     <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="60"/>
+        <location filename="../../src/gui/SampleClipView.cpp" line="60"/>
         <source>Double-click to open sample</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTCOView.cpp" line="77"/>
+        <location filename="../../src/gui/SampleClipView.cpp" line="76"/>
         <source>Reverse sample</source>
-        <translation>Inverser l&apos;échantillon</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13970,118 +14082,6 @@ Veuillez vérifier que vous avez les droits en lecture pour ce fichier et le ré
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="309"/>
         <source>Importing MIDI-file...</source>
         <translation>Importation du fichier MIDI...</translation>
-    </message>
-</context>
-<context>
-    <name>TrackContentObject</name>
-    <message>
-        <location filename="../../src/core/TrackContentObject.cpp" line="47"/>
-        <source>Mute</source>
-        <translation>Mettre en sourdine</translation>
-    </message>
-</context>
-<context>
-    <name>TrackContentObjectView</name>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="701"/>
-        <source>Current position</source>
-        <translation>Position actuelle</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="709"/>
-        <source>Current length</source>
-        <translation>Longueur actuelle</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="710"/>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="962"/>
-        <source>%1:%2 (%3:%4 to %5:%6)</source>
-        <translation>%1:%2 (%3:%4 vers %5:%6)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="729"/>
-        <source>Press &lt;%1&gt; and drag to make a copy.</source>
-        <translation>Appuyez sur &lt;%1&gt; et glissez pour faire une copie.</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="730"/>
-        <source>Press &lt;%1&gt; for free resizing.</source>
-        <translation>Appuyez sur &lt;%1&gt; pour un redimensionnement libre.</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="731"/>
-        <source>Hint</source>
-        <translation>Astuce</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1061"/>
-        <source>Delete (middle mousebutton)</source>
-        <translation>Supprimer (bouton du milieu de la souris)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1062"/>
-        <source>Delete selection (middle mousebutton)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1070"/>
-        <source>Cut</source>
-        <translation>Couper</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1071"/>
-        <source>Cut selection</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1078"/>
-        <source>Merge Selection</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1087"/>
-        <source>Copy</source>
-        <translation>Copier</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1088"/>
-        <source>Copy selection</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1093"/>
-        <source>Paste</source>
-        <translation>Coller</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1101"/>
-        <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation>Sourdine (ou non) (&lt;%1&gt; + clic-milieu)</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1102"/>
-        <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1107"/>
-        <source>Clip color</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1109"/>
-        <source>Change</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1110"/>
-        <source>Reset</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/gui/TrackContentObjectView.cpp" line="1111"/>
-        <source>Pick random</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
