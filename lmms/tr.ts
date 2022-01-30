@@ -383,7 +383,7 @@ LMMS&apos;yi başka bir dilde çevirmekle ilgileniyorsanız veya mevcut çeviril
     <message>
         <location filename="../../src/core/AutomationClip.cpp" line="866"/>
         <source>Drag a control while pressing &lt;%1&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;%1&gt; tuşuna basarken bir kontrolü sürükleyin</translation>
     </message>
 </context>
 <context>
@@ -391,52 +391,52 @@ LMMS&apos;yi başka bir dilde çevirmekle ilgileniyorsanız veya mevcut çeviril
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="174"/>
         <source>Open in Automation editor</source>
-        <translation type="unfinished"/>
+        <translation>Otomasyon düzenleyicide aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="182"/>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Temizle</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="185"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>Adı sıfırla</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="188"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>Adı değiştir</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="191"/>
         <source>Set/clear record</source>
-        <translation type="unfinished"/>
+        <translation>Kaydı ayarla/temizle</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="194"/>
         <source>Flip Vertically (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Çevir (Görünür)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="197"/>
         <source>Flip Horizontally (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Çevir (Görünür)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="202"/>
         <source>%1 Connections</source>
-        <translation type="unfinished"/>
+        <translation>%1 Bağlantı</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="210"/>
         <source>Disconnect &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; bağlantısını kes</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="450"/>
         <source>Model is already connected to this clip.</source>
-        <translation type="unfinished"/>
+        <translation>Model zaten bu klibe bağlı.</translation>
     </message>
 </context>
 <context>
@@ -459,7 +459,7 @@ LMMS&apos;yi başka bir dilde çevirmekle ilgileniyorsanız veya mevcut çeviril
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1228"/>
         <source>Please open an automation clip with the context menu of a control!</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bir kontrolün içerik menüsü ile bir otomasyon klibi açın!</translation>
     </message>
 </context>
 <context>
@@ -467,12 +467,12 @@ LMMS&apos;yi başka bir dilde çevirmekle ilgileniyorsanız veya mevcut çeviril
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1835"/>
         <source>Play/pause current clip (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli klibi oynat/duraklat (Boşluk)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1837"/>
         <source>Stop playing of current clip (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut klibin oynatılmasını durdur (Boşluk)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1840"/>
@@ -563,7 +563,7 @@ LMMS&apos;yi başka bir dilde çevirmekle ilgileniyorsanız veya mevcut çeviril
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1990"/>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2107"/>
         <source>Automation Editor - no clip</source>
-        <translation type="unfinished"/>
+        <translation>Otomasyon Düzenleyici - klip yok</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1994"/>
@@ -574,7 +574,7 @@ LMMS&apos;yi başka bir dilde çevirmekle ilgileniyorsanız veya mevcut çeviril
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2048"/>
         <source>Model is already connected to this clip.</source>
-        <translation type="unfinished"/>
+        <translation>Model zaten bu klibe bağlı.</translation>
     </message>
 </context>
 <context>
@@ -590,17 +590,17 @@ LMMS&apos;yi başka bir dilde çevirmekle ilgileniyorsanız veya mevcut çeviril
     <message>
         <location filename="../../src/gui/BBClipView.cpp" line="53"/>
         <source>Open in Beat+Bassline-Editor</source>
-        <translation type="unfinished"/>
+        <translation>Beat+Bassline Düzenleyici&apos;de aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/BBClipView.cpp" line="60"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>Adı sıfırla</translation>
     </message>
     <message>
         <location filename="../../src/gui/BBClipView.cpp" line="63"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>Adı değiştir</translation>
     </message>
 </context>
 <context>
@@ -638,7 +638,7 @@ LMMS&apos;yi başka bir dilde çevirmekle ilgileniyorsanız veya mevcut çeviril
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="91"/>
         <source>Clone beat/bassline clip</source>
-        <translation type="unfinished"/>
+        <translation>Klon beat/bassline klibi</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/BBEditor.cpp" line="95"/>
@@ -2895,7 +2895,7 @@ Bu mod, VST eklentileri için kullanılamaz.</translation>
     <message>
         <location filename="../../src/core/Clip.cpp" line="47"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Sustur</translation>
     </message>
 </context>
 <context>
@@ -2903,103 +2903,103 @@ Bu mod, VST eklentileri için kullanılamaz.</translation>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="699"/>
         <source>Current position</source>
-        <translation type="unfinished"/>
+        <translation>Şu anki konum</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="707"/>
         <source>Current length</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut uzunluk</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="708"/>
         <location filename="../../src/gui/ClipView.cpp" line="960"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2 (%3:%4 to %5:%6)</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="727"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
-        <translation type="unfinished"/>
+        <translation>Bir kopya oluşturmak için &lt;%1&gt; tuşuna basın ve sürükleyin.</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="728"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
-        <translation type="unfinished"/>
+        <translation>Serbest yeniden boyutlandırma için &lt;%1&gt; seçeneğine basın.</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="729"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1059"/>
         <source>Delete (middle mousebutton)</source>
-        <translation type="unfinished"/>
+        <translation>Sil (farenin orta düğmesi)</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1060"/>
         <source>Delete selection (middle mousebutton)</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi sil (farenin orta düğmesi)</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1068"/>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Kes</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1069"/>
         <source>Cut selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi kes</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1076"/>
         <source>Merge Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi Birleştir</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1085"/>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1086"/>
         <source>Copy selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi kopyala</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1091"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1099"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation type="unfinished"/>
+        <translation>Sesi kapat/aç (&lt;%1&gt; + orta tıklama)</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1100"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi sessize al/sesi aç (&lt;%1&gt; + orta tıklama)</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1105"/>
         <source>Clip color</source>
-        <translation type="unfinished"/>
+        <translation>Klip rengi</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1107"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1108"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Sıfırla</translation>
     </message>
     <message>
         <location filename="../../src/gui/ClipView.cpp" line="1109"/>
         <source>Pick random</source>
-        <translation type="unfinished"/>
+        <translation>Rastgele seç</translation>
     </message>
 </context>
 <context>
@@ -8399,42 +8399,42 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
     <message>
         <location filename="../../src/gui/MidiClipView.cpp" line="143"/>
         <source>Open in piano-roll</source>
-        <translation type="unfinished"/>
+        <translation>Piyano rulosunda aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiClipView.cpp" line="149"/>
         <source>Set as ghost in piano-roll</source>
-        <translation type="unfinished"/>
+        <translation>Piyano rulosunda hayalet olarak ayarla</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiClipView.cpp" line="158"/>
         <source>Clear all notes</source>
-        <translation type="unfinished"/>
+        <translation>Tüm notaları temizle</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiClipView.cpp" line="161"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>Adı sıfırla</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiClipView.cpp" line="164"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>Adı değiştir</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiClipView.cpp" line="172"/>
         <source>Add steps</source>
-        <translation type="unfinished"/>
+        <translation>Adım ekle</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiClipView.cpp" line="174"/>
         <source>Remove steps</source>
-        <translation type="unfinished"/>
+        <translation>Adımları kaldır</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiClipView.cpp" line="176"/>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>Adımları Klonla</translation>
     </message>
 </context>
 <context>
@@ -10679,7 +10679,7 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="3616"/>
         <source>Please open a clip by double-clicking on it!</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen üzerine çift tıklayarak bir klip açın!</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4253"/>
@@ -10693,7 +10693,7 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
         <source>Play/pause current clip (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli klibi oynat/duraklat (Boşluk)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4728"/>
@@ -10713,7 +10713,7 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4731"/>
         <source>Stop playing of current clip (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut klibin oynatılmasını durdur (Boşluk)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4733"/>
@@ -10763,13 +10763,13 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
         <source>Import clip</source>
-        <translation type="unfinished"/>
+        <translation>Klibi içe aktar</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4789"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5245"/>
         <source>Export clip</source>
-        <translation type="unfinished"/>
+        <translation>Klibi dışa aktar</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4800"/>
@@ -10886,48 +10886,48 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5056"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5227"/>
         <source>Piano-Roll - no clip</source>
-        <translation type="unfinished"/>
+        <translation>Piyano Rulosu - klip yok</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5246"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5293"/>
         <source>XML clip file (*.xpt *.xptz)</source>
-        <translation type="unfinished"/>
+        <translation>XML klip dosyası (*.xpt *.xptz)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5266"/>
         <source>Export clip success</source>
-        <translation type="unfinished"/>
+        <translation>Klibi dışa aktarma başarılı</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
         <source>Clip saved to %1</source>
-        <translation type="unfinished"/>
+        <translation>Klip %1&apos;e kaydedildi</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5282"/>
         <source>Import clip.</source>
-        <translation type="unfinished"/>
+        <translation>Klibi içe aktar.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5283"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Bir klibi içe aktarmak üzeresiniz, bu, mevcut klibinizin üzerine yazacaktır. Devam etmek istiyor musun?</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5292"/>
         <source>Open clip</source>
-        <translation type="unfinished"/>
+        <translation>Klibi aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5312"/>
         <source>Import clip success</source>
-        <translation type="unfinished"/>
+        <translation>Klibi içe aktarma başarısı</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5313"/>
         <source>Imported clip %1!</source>
-        <translation type="unfinished"/>
+        <translation>%1 klip içe aktarıldı!</translation>
     </message>
 </context>
 <context>
@@ -12844,12 +12844,12 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/gui/SampleClipView.cpp" line="60"/>
         <source>Double-click to open sample</source>
-        <translation type="unfinished"/>
+        <translation>Örneği açmak için çift tıklayın</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleClipView.cpp" line="76"/>
         <source>Reverse sample</source>
-        <translation type="unfinished"/>
+        <translation>Ters örnek</translation>
     </message>
 </context>
 <context>

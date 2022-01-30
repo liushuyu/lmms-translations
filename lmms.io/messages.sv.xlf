@@ -437,7 +437,7 @@
       </trans-unit>
       <trans-unit id="WRDAWeq" resname="Download for macOS">
         <source>Download for macOS</source>
-        <target>Hämta för MacOS</target>
+        <target>Hämta för macOS</target>
         
       </trans-unit>
       <trans-unit id="QBixtUo" resname="Pick your flavor.">
@@ -447,7 +447,7 @@
       </trans-unit>
       <trans-unit id="CaD6ze3" resname="Linux, Windows or macOS.">
         <source>Linux, Windows or macOS.</source>
-        <target>LMMS funkar på Linux, Windows och MacOS</target>
+        <target>LMMS funkar på Linux, Windows och macOS</target>
         
       </trans-unit>
       <trans-unit id="vEX6OG8" resname="Houston, we have a problem.">
@@ -562,7 +562,7 @@
       </trans-unit>
       <trans-unit id="HLWVAGp" resname="Compose music on Windows, Linux and macOS">
         <source>Compose music on Windows, Linux and macOS</source>
-        <target>Komponera musik på Windows, Linux och MacOS</target>
+        <target>Komponera musik på Windows, Linux och macOS</target>
         
       </trans-unit>
       <trans-unit id="JmUgjfR" resname="Sequence, compose, mix and automate songs in one simple interface">
@@ -1143,11 +1143,6 @@
         <target>Bästa av LMMS vol. 6 av LMMS-artister</target>
         
       </trans-unit>
-      <trans-unit id="iDhOz5m" resname="The Best of LMMS Vol. 8 by LMMS Artists">
-        <source>The Best of LMMS Vol. 8 by LMMS Artists</source>
-        <target>Bästa av LMMS vol. 8 av LMMS-artister</target>
-        
-      </trans-unit>
       <trans-unit id="ZevLxCN" resname="The wiki has been moved.">
         <source>The wiki has been moved.</source>
         <target>Wikin har flyttats.</target>
@@ -1212,6 +1207,16 @@
 			**Note: Entries are approved to appear on the submission list by hand, so if you don't see yours, sit tight! It might take a while.**</source>
         
       </trans-unit>
+      <trans-unit id="XaEX_Ha" resname="LMMS Sharing Platform">
+        <source>LMMS Sharing Platform</source>
+        <target>LMMS-delningsplattform</target>
+        
+      </trans-unit>
+      <trans-unit id="CxpKTzu" resname="Share your work with the LMMS community.">
+        <source>Share your work with the LMMS community.</source>
+        <target>Dela ditt arbete med LMMS-gemenskapen.</target>
+        
+      </trans-unit>
       <trans-unit id="ziTqVa1" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;/chat/&quot;&gt;Discord server&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
         <source>See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our
 					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
@@ -1246,14 +1251,9 @@
         <source>Posting to the mailing list is another way to reach out to our developers:</source>
         
       </trans-unit>
-      <trans-unit id="XaEX_Ha" resname="LMMS Sharing Platform">
-        <source>LMMS Sharing Platform</source>
-        <target>LMMS-delningsplattform</target>
-        
-      </trans-unit>
-      <trans-unit id="CxpKTzu" resname="Share your work with the LMMS community.">
-        <source>Share your work with the LMMS community.</source>
-        <target>Dela ditt arbete med LMMS-gemenskapen.</target>
+      <trans-unit id="iDhOz5m" resname="The Best of LMMS Vol. 8 by LMMS Artists">
+        <source>The Best of LMMS Vol. 8 by LMMS Artists</source>
+        <target>Bästa av LMMS vol. 8 av LMMS-artister</target>
         
       </trans-unit>
     </body>

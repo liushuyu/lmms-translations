@@ -8814,12 +8814,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../src/core/Mixer.cpp" line="825"/>
         <location filename="../../src/core/Mixer.cpp" line="827"/>
         <source>Channel %1</source>
-        <translation type="unfinished"/>
+        <translation>Kanal %1</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="705"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Volym</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="706"/>
@@ -8852,22 +8852,22 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MixerLine.cpp" line="244"/>
         <source>Rename &amp;channel</source>
-        <translation type="unfinished"/>
+        <translation>Byt namn på &amp;kanal</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MixerLine.cpp" line="249"/>
         <source>R&amp;emove channel</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;a bort kanal</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MixerLine.cpp" line="252"/>
         <source>Remove &amp;unused channels</source>
-        <translation type="unfinished"/>
+        <translation>Ta bort &amp;oanvända kanaler</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MixerLine.cpp" line="255"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Färg</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MixerLine.cpp" line="257"/>

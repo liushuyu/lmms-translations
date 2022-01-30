@@ -355,7 +355,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="110"/>
         <source>Connected to %1</source>
-        <translation>מחובר ל %1</translation>
+        <translation>מחובר אל %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="114"/>

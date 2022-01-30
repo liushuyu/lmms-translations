@@ -400,32 +400,32 @@ Radek Słowik</translation>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="182"/>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="185"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>Zresetuj nazwę</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="188"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>Zmień nazwę</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="191"/>
         <source>Set/clear record</source>
-        <translation type="unfinished"/>
+        <translation>Ustaw/wyczyść nagranie</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="194"/>
         <source>Flip Vertically (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>Odwróć w pionie (wizualnie)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="197"/>
         <source>Flip Horizontally (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>Odwróć w poziomie (wizualnie)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="202"/>
@@ -435,7 +435,7 @@ Radek Słowik</translation>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="210"/>
         <source>Disconnect &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Rozłącz &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="450"/>
@@ -599,12 +599,12 @@ Radek Słowik</translation>
     <message>
         <location filename="../../src/gui/BBClipView.cpp" line="60"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>Zresetuj nazwę</translation>
     </message>
     <message>
         <location filename="../../src/gui/BBClipView.cpp" line="63"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>Zmień nazwę</translation>
     </message>
 </context>
 <context>
@@ -1644,7 +1644,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="40"/>
         <source>Rack</source>
-        <translation type="unfinished"/>
+        <translation>Rack</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="144"/>
@@ -1679,7 +1679,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="324"/>
         <source>DSP Load: %p%</source>
-        <translation type="unfinished"/>
+        <translation>Obciążenie DSP: %p%</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_host.ui" line="344"/>
@@ -2224,7 +2224,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="636"/>
         <source>Params</source>
-        <translation type="unfinished"/>
+        <translation>Parametry</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="642"/>
@@ -2237,7 +2237,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="757"/>
         <source>Search..</source>
-        <translation type="unfinished"/>
+        <translation>Szukaj..</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="763"/>
@@ -2252,7 +2252,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla.cpp" line="858"/>
         <source> - Parameters</source>
-        <translation type="unfinished"/>
+        <translation> - Parametry</translation>
     </message>
 </context>
 <context>
@@ -2265,7 +2265,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="71"/>
         <source>main</source>
-        <translation type="unfinished"/>
+        <translation>główne</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="76"/>
@@ -2300,7 +2300,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="106"/>
         <source>experimental</source>
-        <translation type="unfinished"/>
+        <translation>eksperymentalne</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="111"/>
@@ -2311,7 +2311,7 @@ Do you want to do this now?</source>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="116"/>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="2675"/>
         <source>Main</source>
-        <translation type="unfinished"/>
+        <translation>Główne</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_settings.ui" line="134"/>

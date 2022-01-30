@@ -973,10 +973,6 @@
         <source>The Best of LMMS Vol. 6 by LMMS Artists</source>
         
       </trans-unit>
-      <trans-unit id="iDhOz5m" resname="The Best of LMMS Vol. 8 by LMMS Artists">
-        <source>The Best of LMMS Vol. 8 by LMMS Artists</source>
-        
-      </trans-unit>
       <trans-unit id="ZevLxCN" resname="The wiki has been moved.">
         <source>The wiki has been moved.</source>
         
@@ -1037,6 +1033,14 @@
 			**Note: Entries are approved to appear on the submission list by hand, so if you don't see yours, sit tight! It might take a while.**</source>
         
       </trans-unit>
+      <trans-unit id="XaEX_Ha" resname="LMMS Sharing Platform">
+        <source>LMMS Sharing Platform</source>
+        
+      </trans-unit>
+      <trans-unit id="CxpKTzu" resname="Share your work with the LMMS community.">
+        <source>Share your work with the LMMS community.</source>
+        
+      </trans-unit>
       <trans-unit id="ziTqVa1" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;/chat/&quot;&gt;Discord server&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
         <source>See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our
 					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
@@ -1071,12 +1075,8 @@
         <source>Posting to the mailing list is another way to reach out to our developers:</source>
         
       </trans-unit>
-      <trans-unit id="XaEX_Ha" resname="LMMS Sharing Platform">
-        <source>LMMS Sharing Platform</source>
-        
-      </trans-unit>
-      <trans-unit id="CxpKTzu" resname="Share your work with the LMMS community.">
-        <source>Share your work with the LMMS community.</source>
+      <trans-unit id="iDhOz5m" resname="The Best of LMMS Vol. 8 by LMMS Artists">
+        <source>The Best of LMMS Vol. 8 by LMMS Artists</source>
         
       </trans-unit>
     </body>
