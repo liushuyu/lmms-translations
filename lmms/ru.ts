@@ -408,17 +408,17 @@ Simple88 (2016)</translation>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="182"/>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Очистить</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="185"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>Сбросить название</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="188"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomationClipView.cpp" line="191"/>
@@ -456,7 +456,7 @@ Simple88 (2016)</translation>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="409"/>
         <source>Edit Value</source>
-        <translation type="unfinished"/>
+        <translation>Изменить значение</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="411"/>
@@ -607,12 +607,12 @@ Simple88 (2016)</translation>
     <message>
         <location filename="../../src/gui/BBClipView.cpp" line="60"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>Сбросить название</translation>
     </message>
     <message>
         <location filename="../../src/gui/BBClipView.cpp" line="63"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>Переименовать</translation>
     </message>
 </context>
 <context>
@@ -3033,7 +3033,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="254"/>
         <source>Minimum</source>
-        <translation type="unfinished"/>
+        <translation>Минимум</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="257"/>
@@ -3122,7 +3122,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="44"/>
         <source>Range</source>
-        <translation type="unfinished"/>
+        <translation>Диапазон</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="45"/>
@@ -5153,7 +5153,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="69"/>
         <source>Phase:</source>
-        <translation type="unfinished"/>
+        <translation>Фаза:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="75"/>
@@ -7539,7 +7539,7 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/MainWindow.cpp" line="531"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1160"/>
         <source>Mixer</source>
-        <translation type="unfinished"/>
+        <translation>Микшер</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="538"/>
@@ -7875,13 +7875,13 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="84"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="119"/>
         <source>Load</source>
-        <translation type="unfinished"/>
+        <translation>Загрузить</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="85"/>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="120"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MicrotunerConfig.cpp" line="93"/>
@@ -8138,12 +8138,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MidiClipView.cpp" line="161"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>Сбросить название</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiClipView.cpp" line="164"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiClipView.cpp" line="172"/>
@@ -8551,17 +8551,17 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="705"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="706"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Заглушить</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="707"/>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Соло</translation>
     </message>
 </context>
 <context>
@@ -8599,17 +8599,17 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MixerLine.cpp" line="255"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Цвет</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MixerLine.cpp" line="257"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Изменить</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MixerLine.cpp" line="258"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Сброс</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MixerLine.cpp" line="259"/>
@@ -8644,7 +8644,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="70"/>
         <source>Mixer</source>
-        <translation type="unfinished"/>
+        <translation>Микшер</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="289"/>
@@ -8654,7 +8654,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="298"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Заглушить</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="306"/>
@@ -8669,7 +8669,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="308"/>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Соло</translation>
     </message>
 </context>
 <context>
@@ -10578,7 +10578,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4908"/>
         <source>Key</source>
-        <translation type="unfinished"/>
+        <translation>Ключ</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4917"/>
@@ -10982,7 +10982,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="38"/>
         <source>Internal</source>
-        <translation type="unfinished"/>
+        <translation>Внутренний</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="45"/>
@@ -11087,7 +11087,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="279"/>
         <source>Stereo only</source>
-        <translation type="unfinished"/>
+        <translation>Только стерео</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_database.ui" line="286"/>
@@ -11331,7 +11331,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="357"/>
         <source>    Audio:</source>
-        <translation type="unfinished"/>
+        <translation>    Аудио:</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_edit.ui" line="364"/>
@@ -11466,7 +11466,7 @@ Plugin Name
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_parameter.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_parameter.ui" line="23"/>
@@ -11676,7 +11676,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="306"/>
         <source>GUI</source>
-        <translation type="unfinished"/>
+        <translation>Графический интерфейс</translation>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_plugin_calf.ui" line="316"/>
@@ -12683,7 +12683,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="122"/>
         <source>CHANNEL</source>
-        <translation type="unfinished"/>
+        <translation>КАНАЛ</translation>
     </message>
 </context>
 <context>
@@ -12704,7 +12704,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/Scale.cpp" line="72"/>
         <source>empty</source>
-        <translation type="unfinished"/>
+        <translation>пусто</translation>
     </message>
 </context>
 <context>
@@ -13317,7 +13317,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="360"/>
         <source>Failed to copy resources.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось скопировать ресурсы.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="369"/>
@@ -13327,7 +13327,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="370"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось открыть %1 для записи. Возможно, у вас нет прав на запись в этот файл. Пожалуйста, проверьте, есть ли у вас права на запись в этот файл и попробуйте снова.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1898"/>
@@ -13899,12 +13899,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="360"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Изменить</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="361"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Сброс</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TrackOperationsWidget.cpp" line="362"/>
