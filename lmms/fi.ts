@@ -1,35 +1,35 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ro">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="fi">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="20"/>
         <source>About LMMS</source>
-        <translation>Despre LMMS</translation>
+        <translation>Tietoja LMMS:stä</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="43"/>
         <source>LMMS</source>
-        <translation>LMMS (Linux MultiMedia Studio)</translation>
+        <translation>LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="50"/>
         <source>Version %1 (%2/%3, Qt %4, %5).</source>
-        <translation>Versiunea %1 (%2/%3, Qt %4, %5).</translation>
+        <translation>Julkaisu %1 (%2/%3, Qt %4, %5).</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="78"/>
         <source>About</source>
-        <translation>Despre</translation>
+        <translation>Tietoja</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="100"/>
         <source>LMMS - easy music production for everyone.</source>
-        <translation>LMMS - producție ușoară de muzică pentru toată lumea.</translation>
+        <translation>LMMS - helppoa musiikintuotantoa kaikille.</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="126"/>
         <source>Copyright © %1.</source>
-        <translation>Copyright © %1.</translation>
+        <translation>Tekijänoikeus © %1.</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="152"/>
@@ -39,34 +39,34 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="176"/>
         <source>Authors</source>
-        <translation>Autor:</translation>
+        <translation>Tekijät</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="190"/>
         <source>Involved</source>
-        <translation>Implicat</translation>
+        <translation>Osallistujat</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="196"/>
         <source>Contributors ordered by number of commits:</source>
-        <translation>Contribuitori ordonați după numărul de contribuții:</translation>
+        <translation>Myötävaikuttajat järjestettynä panostusten määrän mukaan: </translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="211"/>
         <source>Translation</source>
-        <translation>Traducere</translation>
+        <translation>Kielikäännökset</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="220"/>
         <source>Current language not translated (or native English).
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation>Limba curentă nu este tradusă (sau limba engleză)
-Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți să îmbunătățiți traducerile existente, sunteți bineveniți să ne ajutați! Pur și simplu contactați întreținătorul!</translation>
+        <translation>Ohjelmaa ei ole käännetty kielellesi (tai käyttöjärjestelmäsi käyttää englantia).
+Mikäli olet kiinnostunut kääntämään LMMS:n toiselle kielelle tai haluat auttaa parantamaan nykyisiä käännöksiä, olet tervetullut meitä auttamaan! Otahan vain yhteyttä ylläpitäjään!</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="229"/>
         <source>License</source>
-        <translation>Licență (autorizație)</translation>
+        <translation>Lupa</translation>
     </message>
 </context>
 <context>
@@ -74,12 +74,12 @@ Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți s�
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="47"/>
         <source>VOL</source>
-        <translation>VOL</translation>
+        <translation>ÄÄN</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="48"/>
         <source>Volume:</source>
-        <translation>Volum:</translation>
+        <translation>Äänenvoimakkuus:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="53"/>
@@ -89,27 +89,27 @@ Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți s�
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="54"/>
         <source>Panning:</source>
-        <translation>Distribuție spațială:</translation>
+        <translation>Pannaus:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="60"/>
         <source>LEFT</source>
-        <translation>Stânga</translation>
+        <translation>VASEN</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="61"/>
         <source>Left gain:</source>
-        <translation>nivel stânga</translation>
+        <translation>Vasemman lisäys:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="67"/>
         <source>RIGHT</source>
-        <translation>Dreapta</translation>
+        <translation>OIKEA</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="68"/>
         <source>Right gain:</source>
-        <translation>nivel dreapta</translation>
+        <translation>Oikean lisäys:</translation>
     </message>
 </context>
 <context>
@@ -117,22 +117,22 @@ Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți s�
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="38"/>
         <source>Volume</source>
-        <translation>Volum</translation>
+        <translation>Äänenvoimakkuus</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="39"/>
         <source>Panning</source>
-        <translation>Distribuție spațială (mono / stereo / multi-channel)</translation>
+        <translation>Pannaus</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="40"/>
         <source>Left gain</source>
-        <translation>nivel stânga</translation>
+        <translation>Vasemman lisäys</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="41"/>
         <source>Right gain</source>
-        <translation>nivel dreapta</translation>
+        <translation>Oikean lisäys</translation>
     </message>
 </context>
 <context>
@@ -140,12 +140,12 @@ Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți s�
     <message>
         <location filename="../../src/gui/AudioAlsaSetupWidget.cpp" line="68"/>
         <source>DEVICE</source>
-        <translation>Dispozitiv</translation>
+        <translation>LAITE</translation>
     </message>
     <message>
         <location filename="../../src/gui/AudioAlsaSetupWidget.cpp" line="80"/>
         <source>CHANNELS</source>
-        <translation>Canale</translation>
+        <translation>KANAVAT</translation>
     </message>
 </context>
 <context>
@@ -153,52 +153,52 @@ Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți s�
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="471"/>
         <source>Open sample</source>
-        <translation type="unfinished"/>
+        <translation>Avaa näyte</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="480"/>
         <source>Reverse sample</source>
-        <translation>Eșantion invers</translation>
+        <translation>Käännä näyte takaperin</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="491"/>
         <source>Disable loop</source>
-        <translation>Dezactivați bucla</translation>
+        <translation>Poista silmukointi käytöstä</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="501"/>
         <source>Enable loop</source>
-        <translation>Activați bucla</translation>
+        <translation>Kytke silmukointi päälle</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="510"/>
         <source>Enable ping-pong loop</source>
-        <translation type="unfinished"/>
+        <translation>Kytke päälle ping-pong silmukka</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="525"/>
         <source>Continue sample playback across notes</source>
-        <translation>Continuă redarea eșantionului între note</translation>
+        <translation>Jatka näytteen toistoa läpi nuottien</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="530"/>
         <source>Amplify:</source>
-        <translation>Amplifică:</translation>
+        <translation>Vahvista:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="534"/>
         <source>Start point:</source>
-        <translation type="unfinished"/>
+        <translation>Alkukohta:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="538"/>
         <source>End point:</source>
-        <translation type="unfinished"/>
+        <translation>Loppukohta:</translation>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="542"/>
         <source>Loopback point:</source>
-        <translation>Punct de buclă:</translation>
+        <translation>Silmukointikohta:</translation>
     </message>
 </context>
 <context>
@@ -206,7 +206,7 @@ Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți s�
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="987"/>
         <source>Sample length:</source>
-        <translation>Lungimea eșantionului:</translation>
+        <translation>Näytteen pituus:</translation>
     </message>
 </context>
 <context>
@@ -214,32 +214,32 @@ Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți s�
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="107"/>
         <source>JACK client restarted</source>
-        <translation type="unfinished"/>
+        <translation>JACK-asiakasohjelma uudelleenkäynnistyi</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="108"/>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation type="unfinished"/>
+        <translation>JACK potkaisi LMMS:n pois linjoilta jostakin syystä. Näin ollen LMMS:n JACK-loppupää on käynnistetty uudelleen. Sinun täytyy tehdä manuaaliyhteydet toistamiseen.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="116"/>
         <source>JACK server down</source>
-        <translation type="unfinished"/>
+        <translation>JACK-palvelin meni alas</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="117"/>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation type="unfinished"/>
+        <translation>JACK-palvelinyhteys näyttäisi sammuneen ja uuden toimituksen aloittaminen epäonnistui. Näin ollen LMMS ei voi jatkaa eteenpäin. On paras tallentaa tämä projekti ja uudelleenkäynnistää JACK sekä LMMS.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="464"/>
         <source>Client name</source>
-        <translation type="unfinished"/>
+        <translation>Asiakasnimi</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="476"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanavat</translation>
     </message>
 </context>
 <context>
@@ -247,12 +247,12 @@ Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți s�
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="324"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Laite</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="336"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanavat</translation>
     </message>
 </context>
 <context>
@@ -887,7 +887,7 @@ Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți s�
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="24"/>
         <source>About</source>
-        <translation>Despre</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="30"/>
@@ -1014,7 +1014,7 @@ Dacă sunteți interesat în traducerea LMMS într-o altă limbă sau doriți s�
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1072"/>
         <source>License</source>
-        <translation>Licență (autorizație)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/carlabase/carla/resources/ui/carla_about.ui" line="1081"/>
@@ -3291,7 +3291,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="334"/>
         <source>LMMS</source>
-        <translation>LMMS (Linux MultiMedia Studio)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/ControllerConnectionDialog.cpp" line="334"/>
@@ -6430,7 +6430,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="48"/>
         <source>Volume</source>
-        <translation>Volum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="49"/>
@@ -6648,12 +6648,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="54"/>
         <source>Volume</source>
-        <translation>Volum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="55"/>
         <source>Panning</source>
-        <translation>Distribuție spațială (mono / stereo / multi-channel)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="57"/>
@@ -6697,7 +6697,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="87"/>
         <source>Volume</source>
-        <translation>Volum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="90"/>
@@ -6707,22 +6707,22 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="92"/>
         <source>VOL</source>
-        <translation>VOL</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="96"/>
         <source>Panning</source>
-        <translation>Distribuție spațială (mono / stereo / multi-channel)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="98"/>
         <source>Panning:</source>
-        <translation>Distribuție spațială:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="100"/>
         <source>PAN</source>
-        <translation>PAN</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackView.cpp" line="103"/>
@@ -6760,7 +6760,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="136"/>
         <source>Volume</source>
-        <translation>Volum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="138"/>
@@ -6770,22 +6770,22 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="143"/>
         <source>VOL</source>
-        <translation>VOL</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="150"/>
         <source>Panning</source>
-        <translation>Distribuție spațială (mono / stereo / multi-channel)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="151"/>
         <source>Panning:</source>
-        <translation>Distribuție spațială:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="156"/>
         <source>PAN</source>
-        <translation>PAN</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/InstrumentTrackWindow.cpp" line="166"/>
@@ -7451,7 +7451,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="430"/>
         <source>About</source>
-        <translation>Despre</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="436"/>
@@ -9260,14 +9260,14 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1657"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1673"/>
         <source>Volume</source>
-        <translation>Volum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1645"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1658"/>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1674"/>
         <source>Panning</source>
-        <translation>Distribuție spațială (mono / stereo / multi-channel)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/monstro/Monstro.cpp" line="1646"/>
@@ -9638,7 +9638,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/nes/Nes.cpp" line="824"/>
         <location filename="../../plugins/nes/Nes.cpp" line="829"/>
         <source>Volume</source>
-        <translation>Volum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/nes/Nes.cpp" line="763"/>
@@ -12551,12 +12551,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="39"/>
         <source>Volume</source>
-        <translation>Volum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="40"/>
         <source>Panning</source>
-        <translation>Distribuție spațială (mono / stereo / multi-channel)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="41"/>
@@ -12585,22 +12585,22 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="66"/>
         <source>VOL</source>
-        <translation>VOL</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="70"/>
         <source>Panning</source>
-        <translation>Distribuție spațială (mono / stereo / multi-channel)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="72"/>
         <source>Panning:</source>
-        <translation>Distribuție spațială:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="74"/>
         <source>PAN</source>
-        <translation>PAN</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackView.cpp" line="142"/>
@@ -12623,27 +12623,27 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="89"/>
         <source>Volume:</source>
-        <translation>Volum:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="94"/>
         <source>VOL</source>
-        <translation>VOL</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="101"/>
         <source>Panning</source>
-        <translation>Distribuție spațială (mono / stereo / multi-channel)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="102"/>
         <source>Panning:</source>
-        <translation>Distribuție spațială:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="107"/>
         <source>PAN</source>
-        <translation>PAN</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="117"/>
@@ -13051,7 +13051,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="131"/>
         <source>Volume</source>
-        <translation>Volum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="132"/>
@@ -13064,7 +13064,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="495"/>
         <source>Volume:</source>
-        <translation>Volum:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="499"/>
@@ -14455,7 +14455,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="681"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="682"/>
         <source>Volume</source>
-        <translation>Volum</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="684"/>
@@ -14463,7 +14463,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="686"/>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="687"/>
         <source>Panning</source>
-        <translation>Distribuție spațială (mono / stereo / multi-channel)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/watsyn/Watsyn.cpp" line="689"/>
@@ -15007,7 +15007,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="83"/>
         <source>Reverse sample</source>
-        <translation>Eșantion invers</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/audio_file_processor/audio_file_processor.cpp" line="84"/>
@@ -16069,7 +16069,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/organic/organic.cpp" line="82"/>
         <source>Volume</source>
-        <translation>Volum</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
