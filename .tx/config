@@ -1,16 +1,15 @@
 [main]
 host = https://www.transifex.com
-minimum_perc = 1
-#Need to finish at least 1% before merging back
 
-[lmms.lmms]
+[o:lmms:p:lmms:r:lmms]
 file_filter = lmms/<lang>.ts
 source_file = lmms/en.ts
 source_lang = en
-type = QT
+type        = QT
 
-[lmms.lmmsio]
+[o:lmms:p:lmms:r:lmmsio]
 file_filter = lmms.io/messages.<lang>.xlf
 source_file = lmms.io/messages.en.xlf
 source_lang = en
-type = XLIFF
+type        = XLIFF
+

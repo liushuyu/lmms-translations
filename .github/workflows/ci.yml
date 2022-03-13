@@ -12,14 +12,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: alpine:3.13
+    container: alpine:3.15
 
     steps:
       - name: Install Dependencies
         run: |
           apk update
-          apk add qt5-qttools-dev git bash python3 py3-pip composer php7-tokenizer php7-simplexml php7-session php7-dom php7-ctype php7-xml php7-apcu php7-pdo php7-openssl php7-intl php7-gd php7-gettext php7-curl gettext coreutils curl
-          pip install transifex-client
+          apk add qt5-qttools-dev git bash composer php8-tokenizer php8-simplexml php8-session php8-dom php8-ctype php8-xml php8-pdo php8-openssl php8-intl php8-gd php8-gettext php8-curl gettext coreutils curl
+          curl -sL https://github.com/transifex/cli/releases/download/v1.0.3/tx-linux-amd64.tar.gz -o /tmp/tx.tar.gz
+          tar -C /tmp/ -xf /tmp/tx.tar.gz
+          cp -v /tmp/tx /usr/local/bin/tx
+          ln -sv /usr/bin/php8 /usr/bin/php
 
       - uses: actions/checkout@v2
 

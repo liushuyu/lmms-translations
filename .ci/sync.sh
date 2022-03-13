@@ -28,9 +28,10 @@ abinfo "Setting up Transifex..."
 cat <<EOF > ~/.transifexrc
 [https://www.transifex.com]
 api_hostname = https://api.transifex.com
+rest_hostname = https://rest.api.transifex.com
 hostname = https://www.transifex.com
 password = $TX_API_KEY
-token = 
+token = $TX_API_KEY
 username = api
 EOF
 
