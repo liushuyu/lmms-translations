@@ -14487,7 +14487,7 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="690"/>
         <source>SO-files (*.so)</source>
-        <translation type="unfinished"/>
+        <translation>SO-dosyaları (*.so)</translation>
     </message>
     <message>
         <location filename="../../plugins/vestige/vestige.cpp" line="895"/>
