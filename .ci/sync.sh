@@ -25,6 +25,7 @@ function push_repo_translation() {
 
 abinfo "Setting up Transifex..."
 
+export TX_TOKEN="$TX_API_KEY"
 cat <<EOF > ~/.transifexrc
 [https://www.transifex.com]
 api_hostname = https://api.transifex.com
