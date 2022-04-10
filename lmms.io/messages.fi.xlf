@@ -1400,6 +1400,81 @@
         <target>LMMS:n Parhaat osa.6 LMMS artistien tekemänä</target>
         
       </trans-unit>
+      <trans-unit id="ziTqVa1" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;/chat/&quot;&gt;Discord server&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
+        <source>See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our
+					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
+					   &lt;a href=&quot;/chat/&quot;&gt;Discord server&lt;/a&gt; is a great place
+					   to introduce yourself.</source>
+        <target>Katso &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub-tietokantasivumme&lt;/a&gt; sekä
+					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;virheenseurantamme&lt;/a&gt; päästäksesi alkuun. Lisäksi, LMMS
+					   &lt;a href=&quot;/chat/&quot;&gt;Discord-palvelin&lt;/a&gt; on loistava paikka
+					   esitellä itsesi.</target>
+        
+      </trans-unit>
+      <trans-unit id="qtXj59f" resname="You can help us by improving this website or documenting the software. The website sources are in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted on&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//docs.lmms.io/&quot;&gt;GitBook&lt;/a&gt;.">
+        <source>You can help us by improving this website or documenting the software. The website sources are in our
+					   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted on
+					   &lt;a href=&quot;//docs.lmms.io/&quot;&gt;GitBook&lt;/a&gt;.</source>
+        <target>Voit auttaa meitä parantamalla tätä verkkosivua tai dokumentoimalla sovellusta. Verkkosivun lähteet löytyvät
+					   GitHub-varastosta &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, dokumentaatiomme on isännöitynä
+					   &lt;a href=&quot;//docs.lmms.io/&quot;&gt;GitBookissa&lt;/a&gt;.</target>
+        
+      </trans-unit>
+      <trans-unit id="A2g3qXB" resname="Please post to the&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//discord.gg/pZZaPZRZ35&quot;&gt;#website&lt;/a&gt; channel on Discord if you're&#10;&#9;&#9;&#9;&#9;&#9;   interested in helping out with the documentation!">
+        <source>Please post to the
+					   &lt;a href=&quot;//discord.gg/pZZaPZRZ35&quot;&gt;#website&lt;/a&gt; channel on Discord if you're
+					   interested in helping out with the documentation!</source>
+        <target>Postitathan
+					   &lt;a href=&quot;//discord.gg/pZZaPZRZ35&quot;&gt;#verkkosivu&lt;/a&gt; kanavalle Discordissa mikäli olet
+					   kiinnostunut auttamaan dokumentaatiossa!</target>
+        
+      </trans-unit>
+      <trans-unit id="xk88gGP" resname="&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;is the most active forum for LMMS development. Join our server &#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.">
+        <source>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
+					is the most active forum for LMMS development. Join our server 
+					&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.</source>
+        <target>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
+					On aktiivisin keskustelupaikkamme LMMS:n kehityksessä. Liity palvelimellemme 
+					&lt;a href=&quot;/chat/&quot;&gt;napsauttamalla tätä&lt;/a&gt;.</target>
+        
+      </trans-unit>
+      <trans-unit id="QDlEtxo" resname="Our IRC channel is &lt;a href=&quot;https://web.libera.chat/#lmms&quot;&gt;#lmms&lt;/a&gt; on&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;https://web.libera.chat&quot;&gt;Libera Chat&lt;/a&gt;.">
+        <source>Our IRC channel is &lt;a href=&quot;https://web.libera.chat/#lmms&quot;&gt;#lmms&lt;/a&gt; on
+					&lt;a href=&quot;https://web.libera.chat&quot;&gt;Libera Chat&lt;/a&gt;.</source>
+        <target>IRC-kanavamme on &lt;a href=&quot;https://web.libera.chat/#lmms&quot;&gt;#lmms&lt;/a&gt; verkossa
+					&lt;a href=&quot;https://web.libera.chat&quot;&gt;Libera Chat&lt;/a&gt;.</target>
+        
+      </trans-unit>
+      <trans-unit id="oz_V6mh" resname="Posting to the mailing list is another way to reach out to our developers:">
+        <source>Posting to the mailing list is another way to reach out to our developers:</source>
+        <target>Postituslistaan viestittäminen on toinen tapa tavoittaa kehittäjämme:</target>
+        
+      </trans-unit>
+      <trans-unit id="iDhOz5m" resname="The Best of LMMS Vol. 8 by LMMS Artists">
+        <source>The Best of LMMS Vol. 8 by LMMS Artists</source>
+        <target>LMMS:n Parhaat osa 8 LMMS artistien tekemänä</target>
+        
+      </trans-unit>
+      <trans-unit id="ZevLxCN" resname="The wiki has been moved.">
+        <source>The wiki has been moved.</source>
+        <target>Tämä wiki-tietokanta on siirretty.</target>
+        
+      </trans-unit>
+      <trans-unit id="k68J1Di" resname="All of our documentation is now hosted on &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;">
+        <source>All of our documentation is now hosted on &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;</source>
+        <target>Kaikki dokumentaatio on nyt isännöitynä osoitteessa &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;</target>
+        
+      </trans-unit>
+      <trans-unit id="oHPoIyX" resname="The Mediawiki instance has been shut down, but if you need a copy &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;we have one on archive.org.&lt;/a&gt;">
+        <source>The Mediawiki instance has been shut down, but if you need a copy &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;we have one on archive.org.&lt;/a&gt;</source>
+        <target>Mediawiki on suljettu, mutta mikäli tarvitset kopion &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;sellainen löytyy arkistosta sivulta archive.org.&lt;/a&gt;</target>
+        
+      </trans-unit>
+      <trans-unit id="u8PKUEQ" resname="You will be redirected to &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; seconds.">
+        <source>You will be redirected to &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; seconds.</source>
+        <target>Sinut siirretään osoitteeseen &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; ajassa &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; sekuntia.</target>
+        
+      </trans-unit>
       <trans-unit id="p_VY9oJ" resname="The Best of LMMS vol. IX">
         <source>The Best of LMMS vol. IX</source>
         
@@ -1525,61 +1600,6 @@
 			**Huomautus: osallistujakappaleet hyväksytään luetteloon käsin, joten ellet näe omaasi vielä, älä hermostu! Tämä voi viedä hiukan enemmän aikaa.**</target>
         
       </trans-unit>
-      <trans-unit id="iDhOz5m" resname="The Best of LMMS Vol. 8 by LMMS Artists">
-        <source>The Best of LMMS Vol. 8 by LMMS Artists</source>
-        <target>LMMS:n Parhaat osa 8 LMMS artistien tekemänä</target>
-        
-      </trans-unit>
-      <trans-unit id="ziTqVa1" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;/chat/&quot;&gt;Discord server&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
-        <source>See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our
-					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
-					   &lt;a href=&quot;/chat/&quot;&gt;Discord server&lt;/a&gt; is a great place
-					   to introduce yourself.</source>
-        <target>Katso &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub-tietokantasivumme&lt;/a&gt; sekä
-					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;virheenseurantamme&lt;/a&gt; päästäksesi alkuun. Lisäksi, LMMS
-					   &lt;a href=&quot;/chat/&quot;&gt;Discord-palvelin&lt;/a&gt; on loistava paikka
-					   esitellä itsesi.</target>
-        
-      </trans-unit>
-      <trans-unit id="qtXj59f" resname="You can help us by improving this website or documenting the software. The website sources are in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted on&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//docs.lmms.io/&quot;&gt;GitBook&lt;/a&gt;.">
-        <source>You can help us by improving this website or documenting the software. The website sources are in our
-					   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted on
-					   &lt;a href=&quot;//docs.lmms.io/&quot;&gt;GitBook&lt;/a&gt;.</source>
-        <target>Voit auttaa meitä parantamalla tätä verkkosivua tai dokumentoimalla sovellusta. Verkkosivun lähteet löytyvät
-					   GitHub-varastosta &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, dokumentaatiomme on isännöitynä
-					   &lt;a href=&quot;//docs.lmms.io/&quot;&gt;GitBookissa&lt;/a&gt;.</target>
-        
-      </trans-unit>
-      <trans-unit id="A2g3qXB" resname="Please post to the&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//discord.gg/pZZaPZRZ35&quot;&gt;#website&lt;/a&gt; channel on Discord if you're&#10;&#9;&#9;&#9;&#9;&#9;   interested in helping out with the documentation!">
-        <source>Please post to the
-					   &lt;a href=&quot;//discord.gg/pZZaPZRZ35&quot;&gt;#website&lt;/a&gt; channel on Discord if you're
-					   interested in helping out with the documentation!</source>
-        <target>Postitathan
-					   &lt;a href=&quot;//discord.gg/pZZaPZRZ35&quot;&gt;#verkkosivu&lt;/a&gt; kanavalle Discordissa mikäli olet
-					   kiinnostunut auttamaan dokumentaatiossa!</target>
-        
-      </trans-unit>
-      <trans-unit id="xk88gGP" resname="&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;is the most active forum for LMMS development. Join our server &#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.">
-        <source>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
-					is the most active forum for LMMS development. Join our server 
-					&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.</source>
-        <target>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
-					On aktiivisin keskustelupaikkamme LMMS:n kehityksessä. Liity palvelimellemme 
-					&lt;a href=&quot;/chat/&quot;&gt;napsauttamalla tätä&lt;/a&gt;.</target>
-        
-      </trans-unit>
-      <trans-unit id="QDlEtxo" resname="Our IRC channel is &lt;a href=&quot;https://web.libera.chat/#lmms&quot;&gt;#lmms&lt;/a&gt; on&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;https://web.libera.chat&quot;&gt;Libera Chat&lt;/a&gt;.">
-        <source>Our IRC channel is &lt;a href=&quot;https://web.libera.chat/#lmms&quot;&gt;#lmms&lt;/a&gt; on
-					&lt;a href=&quot;https://web.libera.chat&quot;&gt;Libera Chat&lt;/a&gt;.</source>
-        <target>IRC-kanavamme on &lt;a href=&quot;https://web.libera.chat/#lmms&quot;&gt;#lmms&lt;/a&gt; verkossa
-					&lt;a href=&quot;https://web.libera.chat&quot;&gt;Libera Chat&lt;/a&gt;.</target>
-        
-      </trans-unit>
-      <trans-unit id="oz_V6mh" resname="Posting to the mailing list is another way to reach out to our developers:">
-        <source>Posting to the mailing list is another way to reach out to our developers:</source>
-        <target>Postituslistaan viestittäminen on toinen tapa tavoittaa kehittäjämme:</target>
-        
-      </trans-unit>
       <trans-unit id="XaEX_Ha" resname="LMMS Sharing Platform">
         <source>LMMS Sharing Platform</source>
         <target>LMMS:n jakamisalusta</target>
@@ -1588,26 +1608,6 @@
       <trans-unit id="CxpKTzu" resname="Share your work with the LMMS community.">
         <source>Share your work with the LMMS community.</source>
         <target>Laita teoksesi jakoon LMMS-yhteisölle.</target>
-        
-      </trans-unit>
-      <trans-unit id="ZevLxCN" resname="The wiki has been moved.">
-        <source>The wiki has been moved.</source>
-        <target>Tämä wiki-tietokanta on siirretty.</target>
-        
-      </trans-unit>
-      <trans-unit id="k68J1Di" resname="All of our documentation is now hosted on &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;">
-        <source>All of our documentation is now hosted on &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;</source>
-        <target>Kaikki dokumentaatio on nyt isännöitynä osoitteessa &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;</target>
-        
-      </trans-unit>
-      <trans-unit id="oHPoIyX" resname="The Mediawiki instance has been shut down, but if you need a copy &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;we have one on archive.org.&lt;/a&gt;">
-        <source>The Mediawiki instance has been shut down, but if you need a copy &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;we have one on archive.org.&lt;/a&gt;</source>
-        <target>Mediawiki on suljettu, mutta mikäli tarvitset kopion &lt;a href=&quot;https://archive.org/download/lmms-mediawiki-dump&quot;&gt;sellainen löytyy arkistosta sivulta archive.org.&lt;/a&gt;</target>
-        
-      </trans-unit>
-      <trans-unit id="u8PKUEQ" resname="You will be redirected to &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; seconds.">
-        <source>You will be redirected to &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; seconds.</source>
-        <target>Sinut siirretään osoitteeseen &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; ajassa &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; sekuntia.</target>
         
       </trans-unit>
     </body>
