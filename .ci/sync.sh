@@ -36,6 +36,7 @@ token = $TX_API_KEY
 username = api
 EOF
 
+git config --global --add safe.directory "$PWD"
 push_repo_translation
 set +e
 # Only push when needed
