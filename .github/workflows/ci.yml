@@ -12,20 +12,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: alpine:3.16
+    container: alpine:edge
 
     steps:
       - name: Install Dependencies
         run: |
           apk update
           apk add qt5-qttools-dev git bash composer php81-tokenizer php81-simplexml php81-session php81-dom php81-ctype php81-xml php81-pdo php81-openssl php81-intl php81-gd php81-gettext php81-curl gettext coreutils curl
-          curl -sL https://github.com/transifex/cli/releases/download/v1.1.0/tx-linux-amd64.tar.gz -o /tmp/tx.tar.gz
+          curl -sL https://github.com/transifex/cli/releases/download/v1.6.5/tx-linux-amd64.tar.gz -o /tmp/tx.tar.gz
           tar -C /tmp/ -xf /tmp/tx.tar.gz
           cp -v /tmp/tx /usr/local/bin/tx
           rm -v /usr/bin/php
           ln -sv /usr/bin/php81 /usr/bin/php
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Validate translations
         run: ./validate_locales
