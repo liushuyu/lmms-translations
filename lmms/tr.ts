@@ -4456,22 +4456,22 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="38"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Düzey</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="39"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="40"/>
         <source>Left gain</source>
-        <translation type="unfinished"/>
+        <translation>Sol kazanç</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="41"/>
         <source>Right gain</source>
-        <translation type="unfinished"/>
+        <translation>Sağ kazanç</translation>
     </message>
 </context>
 <context>
@@ -4479,62 +4479,62 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="82"/>
         <source>Amplify</source>
-        <translation type="unfinished"/>
+        <translation>Yükseltici</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="83"/>
         <source>Start of sample</source>
-        <translation type="unfinished"/>
+        <translation>Örnek başlangıcı</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="84"/>
         <source>End of sample</source>
-        <translation type="unfinished"/>
+        <translation>Örneğin sonu</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="85"/>
         <source>Loopback point</source>
-        <translation type="unfinished"/>
+        <translation>Geri döngü noktası</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="86"/>
         <source>Reverse sample</source>
-        <translation type="unfinished"/>
+        <translation>Ters örnek</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="87"/>
         <source>Loop mode</source>
-        <translation type="unfinished"/>
+        <translation>Döngü modu</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="88"/>
         <source>Stutter</source>
-        <translation type="unfinished"/>
+        <translation>Kekemelik</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="89"/>
         <source>Interpolation mode</source>
-        <translation type="unfinished"/>
+        <translation>Ara değerlendirme modu</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="107"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbiri</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="108"/>
         <source>Linear</source>
-        <translation type="unfinished"/>
+        <translation>Doğrusal</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="109"/>
         <source>Sinc</source>
-        <translation type="unfinished"/>
+        <translation>Sinc</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="241"/>
         <source>Sample not found: %1</source>
-        <translation type="unfinished"/>
+        <translation>Örnek bulunamadı: %1</translation>
     </message>
 </context>
 <context>
@@ -4542,32 +4542,32 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="108"/>
         <source>JACK client restarted</source>
-        <translation type="unfinished"/>
+        <translation>JACK istemcisi yeniden başlatıldı</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="109"/>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS bir nedenden ötürü JACK tarafından sistemden atıldı. Bundan dolayı LMMS&apos;in JACK altyapısı yeniden başlatıldı. Bağlantıları yeniden elle yapmanız gerekecek.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="117"/>
         <source>JACK server down</source>
-        <translation type="unfinished"/>
+        <translation>JACK sunucusu kapalı</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="118"/>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation type="unfinished"/>
+        <translation>JACK sunucusu kapanmış gibi görünüyor ve yeni bir örnek başlatılamadı. Bu nedenle LMMS devam edemiyor. Projenizi kaydetmeli, JACK ve LMMS&apos;i yeniden başlatmalısınız.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="465"/>
         <source>Client name</source>
-        <translation type="unfinished"/>
+        <translation>İstemci adı</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="477"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanallar</translation>
     </message>
 </context>
 <context>
@@ -4575,12 +4575,12 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="326"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="338"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanallar</translation>
     </message>
 </context>
 <context>
@@ -4588,12 +4588,12 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="425"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Arka uç</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="432"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt</translation>
     </message>
 </context>
 <context>
@@ -4601,12 +4601,12 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="318"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="330"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanallar</translation>
     </message>
 </context>
 <context>
@@ -4614,7 +4614,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="334"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt</translation>
     </message>
 </context>
 <context>
@@ -4622,12 +4622,12 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="189"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="201"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanallar</translation>
     </message>
 </context>
 <context>
@@ -4635,12 +4635,12 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="457"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Arka uç</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="464"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt</translation>
     </message>
 </context>
 <context>
@@ -4648,62 +4648,62 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="61"/>
         <source>&amp;Reset (%1%2)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sıfırla (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="68"/>
         <source>&amp;Copy value (%1%2)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değeri kopyala (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="76"/>
         <source>&amp;Paste value (%1%2)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değeri yapıştır (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="79"/>
         <source>&amp;Paste value</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değeri yapıştır</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="87"/>
         <source>Edit song-global automation</source>
-        <translation type="unfinished"/>
+        <translation>Global şarkı otomasyonunu düzenle</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="92"/>
         <source>Remove song-global automation</source>
-        <translation type="unfinished"/>
+        <translation>Global şarkı otomasyonunu kaldır</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="101"/>
         <source>Remove all linked controls</source>
-        <translation type="unfinished"/>
+        <translation>Tüm bağlantılı kontrolleri kaldır</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="112"/>
         <source>Connected to %1</source>
-        <translation type="unfinished"/>
+        <translation>Şuna bağlı: %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="116"/>
         <source>Connected to controller</source>
-        <translation type="unfinished"/>
+        <translation>Kontrolöre bağlı</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="122"/>
         <source>Edit connection...</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantıyı düzenle...</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="125"/>
         <source>Remove connection</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantıyı kaldır</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="131"/>
         <source>Connect to controller...</source>
-        <translation type="unfinished"/>
+        <translation>Kontrolöre bağla...</translation>
     </message>
 </context>
 <context>
@@ -4711,7 +4711,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/AutomationClip.cpp" line="872"/>
         <source>Drag a control while pressing &lt;%1&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;%1&gt; tuşuna basarken bir kontrolü sürükleyin</translation>
     </message>
 </context>
 <context>
@@ -4719,7 +4719,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/tracks/AutomationTrack.cpp" line="39"/>
         <source>Automation track</source>
-        <translation type="unfinished"/>
+        <translation>Parça otomasyonu</translation>
     </message>
 </context>
 <context>
@@ -4727,17 +4727,17 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="38"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frekans</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="39"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="40"/>
         <source>Ratio</source>
-        <translation type="unfinished"/>
+        <translation>Oran</translation>
     </message>
 </context>
 <context>
@@ -4745,7 +4745,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="154"/>
         <source>Sample length</source>
-        <translation type="unfinished"/>
+        <translation>Örnek uzunluğu</translation>
     </message>
 </context>
 <context>
@@ -4753,47 +4753,47 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="40"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="41"/>
         <source>Input noise</source>
-        <translation type="unfinished"/>
+        <translation>Giriş gürültüsü</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="42"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="43"/>
         <source>Output clip</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı klibi</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="44"/>
         <source>Sample rate</source>
-        <translation type="unfinished"/>
+        <translation>Örnekleme oranı</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="45"/>
         <source>Stereo difference</source>
-        <translation type="unfinished"/>
+        <translation>Stereo farkı</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="46"/>
         <source>Levels</source>
-        <translation type="unfinished"/>
+        <translation>Seviyeler</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="47"/>
         <source>Rate enabled</source>
-        <translation type="unfinished"/>
+        <translation>Oran etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="48"/>
         <source>Depth enabled</source>
-        <translation type="unfinished"/>
+        <translation>Derinlik etkinleştirildi</translation>
     </message>
 </context>
 <context>
@@ -4801,7 +4801,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/Clip.cpp" line="50"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Sustur</translation>
     </message>
 </context>
 <context>
@@ -4809,142 +4809,142 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="38"/>
         <source>Threshold</source>
-        <translation type="unfinished"/>
+        <translation>Eşik</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="39"/>
         <source>Ratio</source>
-        <translation type="unfinished"/>
+        <translation>Oran</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="40"/>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Saldırı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="41"/>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Yayınla</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="42"/>
         <source>Knee</source>
-        <translation type="unfinished"/>
+        <translation>Diz</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="43"/>
         <source>Hold</source>
-        <translation type="unfinished"/>
+        <translation>Tut</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="44"/>
         <source>Range</source>
-        <translation type="unfinished"/>
+        <translation>Aralık</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="45"/>
         <source>RMS Size</source>
-        <translation type="unfinished"/>
+        <translation>RMS Boyutu</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="46"/>
         <source>Mid/Side</source>
-        <translation type="unfinished"/>
+        <translation>Orta/Yan</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="47"/>
         <source>Peak Mode</source>
-        <translation type="unfinished"/>
+        <translation>Tepe Modu</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="48"/>
         <source>Lookahead Length</source>
-        <translation type="unfinished"/>
+        <translation>Önden Bakış Uzunluğu</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="49"/>
         <source>Input Balance</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Dengesi</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="50"/>
         <source>Output Balance</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı Dengesi</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="51"/>
         <source>Limiter</source>
-        <translation type="unfinished"/>
+        <translation>Sınırlayıcı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="52"/>
         <source>Output Gain</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış Kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="53"/>
         <source>Input Gain</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="54"/>
         <source>Blend</source>
-        <translation type="unfinished"/>
+        <translation>Harman</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="55"/>
         <source>Stereo Balance</source>
-        <translation type="unfinished"/>
+        <translation>Çift kanal Dengesi</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="56"/>
         <source>Auto Makeup Gain</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Makyaj Kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="57"/>
         <source>Audition</source>
-        <translation type="unfinished"/>
+        <translation>İşitme</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="58"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri bildirim</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="59"/>
         <source>Auto Attack</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Saldırı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="60"/>
         <source>Auto Release</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yayın</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="61"/>
         <source>Lookahead</source>
-        <translation type="unfinished"/>
+        <translation>Önden Bakış</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="62"/>
         <source>Tilt</source>
-        <translation type="unfinished"/>
+        <translation>Eğim</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="63"/>
         <source>Tilt Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Eğim Frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="64"/>
         <source>Stereo Link</source>
-        <translation type="unfinished"/>
+        <translation>Çift kanal Bağlantı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="65"/>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Karıştır</translation>
     </message>
 </context>
 <context>
@@ -4952,7 +4952,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/Controller.cpp" line="62"/>
         <source>Controller %1</source>
-        <translation type="unfinished"/>
+        <translation>Kontrolör %1</translation>
     </message>
 </context>
 <context>
@@ -4960,27 +4960,27 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="37"/>
         <source>Delay samples</source>
-        <translation type="unfinished"/>
+        <translation>Gecikme örnekleri</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="38"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri bildirim</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="39"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>LFO frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="40"/>
         <source>LFO amount</source>
-        <translation type="unfinished"/>
+        <translation>LFO miktarı</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="41"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı</translation>
     </message>
 </context>
 <context>
@@ -4988,189 +4988,189 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="43"/>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filtre 1 etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="44"/>
         <source>Filter 1 type</source>
-        <translation type="unfinished"/>
+        <translation>Filtre türü 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="45"/>
         <source>Cutoff frequency 1</source>
-        <translation type="unfinished"/>
+        <translation>Kesme frekansı 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="46"/>
         <source>Q/Resonance 1</source>
-        <translation type="unfinished"/>
+        <translation>Q/Rezonans 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="47"/>
         <source>Gain 1</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="49"/>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Karıştır</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="51"/>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filtre 2 etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="52"/>
         <source>Filter 2 type</source>
-        <translation type="unfinished"/>
+        <translation>Filtre türü 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="53"/>
         <source>Cutoff frequency 2</source>
-        <translation type="unfinished"/>
+        <translation>Kesme frekansı 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="54"/>
         <source>Q/Resonance 2</source>
-        <translation type="unfinished"/>
+        <translation>Q/Rezonans 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="55"/>
         <source>Gain 2</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="57"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="80"/>
         <source>Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>Düşük geçiş</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="58"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="81"/>
         <source>Hi-pass</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek geçiş</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="59"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="82"/>
         <source>Band-pass csg</source>
-        <translation type="unfinished"/>
+        <translation>Bant geçişli csg</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="60"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="83"/>
         <source>Band-pass czpg</source>
-        <translation type="unfinished"/>
+        <translation>Bant geçişli czpg</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="61"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="84"/>
         <source>Notch</source>
-        <translation type="unfinished"/>
+        <translation>Çentik</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="62"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="85"/>
         <source>All-pass</source>
-        <translation type="unfinished"/>
+        <translation>Tamamı bitti</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="63"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="86"/>
         <source>Moog</source>
-        <translation type="unfinished"/>
+        <translation>Moog</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="64"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="87"/>
         <source>2x Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>2x Düşük geçiş</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="65"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="88"/>
         <source>RC Low-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Düşük geçişli 12 dB/oct</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="66"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="89"/>
         <source>RC Band-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Bant geçişi 12 dB/oct</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="67"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="90"/>
         <source>RC High-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Yüksek Geçişli 12 dB/oct</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="68"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="91"/>
         <source>RC Low-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Düşük geçişli 24 dB/oct</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="69"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="92"/>
         <source>RC Band-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Bant geçişi 24 dB/oct</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="70"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="93"/>
         <source>RC High-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Yüksek Geçişli 24 dB/oct</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="71"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="94"/>
         <source>Vocal Formant</source>
-        <translation type="unfinished"/>
+        <translation>Vokal Biçimlendirici</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="72"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="95"/>
         <source>2x Moog</source>
-        <translation type="unfinished"/>
+        <translation>2x Moog</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="73"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="96"/>
         <source>SV Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV Düşük geçiş</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="74"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="97"/>
         <source>SV Band-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV Bant geçişi</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="75"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="98"/>
         <source>SV High-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV Yüksek geçiş</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="76"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="99"/>
         <source>SV Notch</source>
-        <translation type="unfinished"/>
+        <translation>SV Çentiği</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="77"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="100"/>
         <source>Fast Formant</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Biçimlendirici</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="78"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="101"/>
         <source>Tripole</source>
-        <translation type="unfinished"/>
+        <translation>Üçlü</translation>
     </message>
 </context>
 <context>
@@ -5178,27 +5178,27 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="45"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="46"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="47"/>
         <source>Attack time</source>
-        <translation type="unfinished"/>
+        <translation>Kalkma zamanı</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="48"/>
         <source>Release time</source>
-        <translation type="unfinished"/>
+        <translation>Yayımlama zamanı</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="50"/>
         <source>Stereo mode</source>
-        <translation type="unfinished"/>
+        <translation>Çift kanal modu</translation>
     </message>
 </context>
 <context>
@@ -5206,22 +5206,22 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/Effect.cpp" line="49"/>
         <source>Effect enabled</source>
-        <translation type="unfinished"/>
+        <translation>Efekt etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="50"/>
         <source>Wet/Dry mix</source>
-        <translation type="unfinished"/>
+        <translation>Islak/Kuru karışım</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="51"/>
         <source>Gate</source>
-        <translation type="unfinished"/>
+        <translation>Geçit</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="52"/>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Bozunma</translation>
     </message>
 </context>
 <context>
@@ -5229,7 +5229,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/EffectChain.cpp" line="41"/>
         <source>Effects enabled</source>
-        <translation type="unfinished"/>
+        <translation>Efektler etkinleştirildi</translation>
     </message>
 </context>
 <context>
@@ -5237,22 +5237,22 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/Engine.cpp" line="62"/>
         <source>Generating wavetables</source>
-        <translation type="unfinished"/>
+        <translation>Dalgaboyu oluşturma</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="68"/>
         <source>Initializing data structures</source>
-        <translation type="unfinished"/>
+        <translation>Veri yapılarını başlatma</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="83"/>
         <source>Opening audio and midi devices</source>
-        <translation type="unfinished"/>
+        <translation>Ses ve midi cihazlarını açma</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="88"/>
         <source>Launching audio engine threads</source>
-        <translation type="unfinished"/>
+        <translation>Ses motoru dizileri başlatılıyor</translation>
     </message>
 </context>
 <context>
@@ -5260,72 +5260,72 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="96"/>
         <source>Env pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>Ortam ön gecikme</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="97"/>
         <source>Env attack</source>
-        <translation type="unfinished"/>
+        <translation>Ortam saldırısı</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="98"/>
         <source>Env hold</source>
-        <translation type="unfinished"/>
+        <translation>Ortam tutma</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="99"/>
         <source>Env decay</source>
-        <translation type="unfinished"/>
+        <translation>Ortam bozunma</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="100"/>
         <source>Env sustain</source>
-        <translation type="unfinished"/>
+        <translation>Ortam sürdürme</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="101"/>
         <source>Env release</source>
-        <translation type="unfinished"/>
+        <translation>Ortam yayınlama</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="102"/>
         <source>Env mod amount</source>
-        <translation type="unfinished"/>
+        <translation>Ortam mod miktarı</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="110"/>
         <source>LFO pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>LFO ön gecikmesi</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="111"/>
         <source>LFO attack</source>
-        <translation type="unfinished"/>
+        <translation>LFO saldırısı</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="114"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>LFO frekansı</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="115"/>
         <source>LFO mod amount</source>
-        <translation type="unfinished"/>
+        <translation>LFO mod miktarı</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="116"/>
         <source>LFO wave shape</source>
-        <translation type="unfinished"/>
+        <translation>LFO dalga şekli</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="117"/>
         <source>LFO frequency x 100</source>
-        <translation type="unfinished"/>
+        <translation>LFO frekansı x 100</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="118"/>
         <source>Modulate env amount</source>
-        <translation type="unfinished"/>
+        <translation>Ortam miktarını değiştir</translation>
     </message>
 </context>
 <context>
@@ -5333,212 +5333,212 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="40"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="41"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="42"/>
         <source>Low-shelf gain</source>
-        <translation type="unfinished"/>
+        <translation>Düşük raf kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="43"/>
         <source>Peak 1 gain</source>
-        <translation type="unfinished"/>
+        <translation>Tepe kazancı 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="44"/>
         <source>Peak 2 gain</source>
-        <translation type="unfinished"/>
+        <translation>Tepe kazancı 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="45"/>
         <source>Peak 3 gain</source>
-        <translation type="unfinished"/>
+        <translation>Tepe kazancı 3</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="46"/>
         <source>Peak 4 gain</source>
-        <translation type="unfinished"/>
+        <translation>Tepe kazancı 4</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="47"/>
         <source>High-shelf gain</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek raf kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="48"/>
         <source>HP res</source>
-        <translation type="unfinished"/>
+        <translation>HP res</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="49"/>
         <source>Low-shelf res</source>
-        <translation type="unfinished"/>
+        <translation>Düşük raflı res</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="50"/>
         <source>Peak 1 BW</source>
-        <translation type="unfinished"/>
+        <translation>Tepe 1 BW</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="51"/>
         <source>Peak 2 BW</source>
-        <translation type="unfinished"/>
+        <translation>Tepe 2 BW</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="52"/>
         <source>Peak 3 BW</source>
-        <translation type="unfinished"/>
+        <translation>Tepe 3 BW</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="53"/>
         <source>Peak 4 BW</source>
-        <translation type="unfinished"/>
+        <translation>Tepe 4 BW</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="54"/>
         <source>High-shelf res</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek raf çözünürlüğü</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="55"/>
         <source>LP res</source>
-        <translation type="unfinished"/>
+        <translation>LP res</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="56"/>
         <source>HP freq</source>
-        <translation type="unfinished"/>
+        <translation>HP frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="57"/>
         <source>Low-shelf freq</source>
-        <translation type="unfinished"/>
+        <translation>Düşük raf frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="58"/>
         <source>Peak 1 freq</source>
-        <translation type="unfinished"/>
+        <translation>Tepe frekansı 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="59"/>
         <source>Peak 2 freq</source>
-        <translation type="unfinished"/>
+        <translation>Tepe frekansı 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="60"/>
         <source>Peak 3 freq</source>
-        <translation type="unfinished"/>
+        <translation>Tepe frekansı 3</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="61"/>
         <source>Peak 4 freq</source>
-        <translation type="unfinished"/>
+        <translation>Tepe frekansı 4</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="62"/>
         <source>High-shelf freq</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek raf frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="63"/>
         <source>LP freq</source>
-        <translation type="unfinished"/>
+        <translation>LP frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="64"/>
         <source>HP active</source>
-        <translation type="unfinished"/>
+        <translation>HP etkin</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="65"/>
         <source>Low-shelf active</source>
-        <translation type="unfinished"/>
+        <translation>Düşük raf etkin</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="66"/>
         <source>Peak 1 active</source>
-        <translation type="unfinished"/>
+        <translation>Aktif tepe 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="67"/>
         <source>Peak 2 active</source>
-        <translation type="unfinished"/>
+        <translation>Aktif tepe 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="68"/>
         <source>Peak 3 active</source>
-        <translation type="unfinished"/>
+        <translation>Aktif tepe 3</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="69"/>
         <source>Peak 4 active</source>
-        <translation type="unfinished"/>
+        <translation>Aktif tepe 4</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="70"/>
         <source>High-shelf active</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek raf etkin</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="71"/>
         <source>LP active</source>
-        <translation type="unfinished"/>
+        <translation>LP etkin</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="72"/>
         <source>LP 12</source>
-        <translation type="unfinished"/>
+        <translation>LP 12</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="73"/>
         <source>LP 24</source>
-        <translation type="unfinished"/>
+        <translation>LP 24</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="74"/>
         <source>LP 48</source>
-        <translation type="unfinished"/>
+        <translation>LP 48</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="75"/>
         <source>HP 12</source>
-        <translation type="unfinished"/>
+        <translation>HP 12</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="76"/>
         <source>HP 24</source>
-        <translation type="unfinished"/>
+        <translation>HP 24</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="77"/>
         <source>HP 48</source>
-        <translation type="unfinished"/>
+        <translation>HP 48</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="78"/>
         <source>Low-pass type</source>
-        <translation type="unfinished"/>
+        <translation>Düşük geçişli tip</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="79"/>
         <source>High-pass type</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek geçişli tip</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="80"/>
         <source>Analyse IN</source>
-        <translation type="unfinished"/>
+        <translation>GİRİŞ&apos;i analiz et</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="81"/>
         <source>Analyse OUT</source>
-        <translation type="unfinished"/>
+        <translation>ÇIKIŞ&apos;ı analiz et</translation>
     </message>
 </context>
 <context>
@@ -5546,37 +5546,37 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="39"/>
         <source>Delay samples</source>
-        <translation type="unfinished"/>
+        <translation>Gecikme örnekleri</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="40"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>LFO frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="41"/>
         <source>Seconds</source>
-        <translation type="unfinished"/>
+        <translation>Saniye</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="42"/>
         <source>Stereo phase</source>
-        <translation type="unfinished"/>
+        <translation>Stereo faz</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="43"/>
         <source>Regen</source>
-        <translation type="unfinished"/>
+        <translation>Yenilenme</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="44"/>
         <source>Noise</source>
-        <translation type="unfinished"/>
+        <translation>Gürültü</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="45"/>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Tersine çevir</translation>
     </message>
 </context>
 <context>
@@ -5584,122 +5584,122 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="73"/>
         <source>Sweep time</source>
-        <translation type="unfinished"/>
+        <translation>Tarama zamanı</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="74"/>
         <source>Sweep direction</source>
-        <translation type="unfinished"/>
+        <translation>Tarama yönü</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="76"/>
         <source>Sweep rate shift amount</source>
-        <translation type="unfinished"/>
+        <translation>Tarama oranı kaydırma miktarı</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="78"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="87"/>
         <source>Wave pattern duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>Dalga deseni görev döngüsü</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="80"/>
         <source>Channel 1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 1 düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="82"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="91"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="102"/>
         <source>Volume sweep direction</source>
-        <translation type="unfinished"/>
+        <translation>Düzey tarama yönü</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="84"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="93"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="104"/>
         <source>Length of each step in sweep</source>
-        <translation type="unfinished"/>
+        <translation>Taramadaki her adımın uzunluğu</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="89"/>
         <source>Channel 2 volume</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 2 düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="97"/>
         <source>Channel 3 volume</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 3 düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="100"/>
         <source>Channel 4 volume</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 4 düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="106"/>
         <source>Shift Register width</source>
-        <translation type="unfinished"/>
+        <translation>Kayıt genişliğini kaydır</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="108"/>
         <source>Right output level</source>
-        <translation type="unfinished"/>
+        <translation>Sağ çıkış seviyesi</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="109"/>
         <source>Left output level</source>
-        <translation type="unfinished"/>
+        <translation>Sol çıkış seviyesi</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="110"/>
         <source>Channel 1 to SO2 (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 1&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="111"/>
         <source>Channel 2 to SO2 (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 2&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="112"/>
         <source>Channel 3 to SO2 (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 3&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="113"/>
         <source>Channel 4 to SO2 (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 4&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="114"/>
         <source>Channel 1 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 1&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="115"/>
         <source>Channel 2 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 2&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="116"/>
         <source>Channel 3 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 3&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="117"/>
         <source>Channel 4 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 4&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="118"/>
         <source>Treble</source>
-        <translation type="unfinished"/>
+        <translation>Tiz</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="119"/>
         <source>Bass</source>
-        <translation type="unfinished"/>
+        <translation>Bas</translation>
     </message>
 </context>
 <context>
@@ -5707,17 +5707,17 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="88"/>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>Yuva</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="89"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Yama</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="90"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç</translation>
     </message>
 </context>
 <context>
@@ -5725,97 +5725,97 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="298"/>
         <source>Arpeggio</source>
-        <translation type="unfinished"/>
+        <translation>Arpej</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="300"/>
         <source>Arpeggio type</source>
-        <translation type="unfinished"/>
+        <translation>Arpej türü</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="301"/>
         <source>Arpeggio range</source>
-        <translation type="unfinished"/>
+        <translation>Arpej aralığı</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="302"/>
         <source>Note repeats</source>
-        <translation type="unfinished"/>
+        <translation>Nota tekrarları</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="303"/>
         <source>Cycle steps</source>
-        <translation type="unfinished"/>
+        <translation>Döngü adımları</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="304"/>
         <source>Skip rate</source>
-        <translation type="unfinished"/>
+        <translation>Atlama oranı</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
         <source>Miss rate</source>
-        <translation type="unfinished"/>
+        <translation>Iskalama oranı</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="306"/>
         <source>Arpeggio time</source>
-        <translation type="unfinished"/>
+        <translation>Arpej zamanı</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="307"/>
         <source>Arpeggio gate</source>
-        <translation type="unfinished"/>
+        <translation>Arpej kapısı</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
         <source>Arpeggio direction</source>
-        <translation type="unfinished"/>
+        <translation>Arpej yönü</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
         <source>Arpeggio mode</source>
-        <translation type="unfinished"/>
+        <translation>Arpej modu</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="317"/>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation>Üst</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="318"/>
         <source>Down</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
         <source>Up and down</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı ve aşağı</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
         <source>Down and up</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı ve yukarı</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
         <source>Random</source>
-        <translation type="unfinished"/>
+        <translation>Rastgele</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="324"/>
         <source>Free</source>
-        <translation type="unfinished"/>
+        <translation>Boş</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="325"/>
         <source>Sort</source>
-        <translation type="unfinished"/>
+        <translation>Sırala</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
         <source>Sync</source>
-        <translation type="unfinished"/>
+        <translation>Eşitle</translation>
     </message>
 </context>
 <context>
@@ -5823,17 +5823,17 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="208"/>
         <source>Chords</source>
-        <translation type="unfinished"/>
+        <translation>Akordlar</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="210"/>
         <source>Chord type</source>
-        <translation type="unfinished"/>
+        <translation>Akord türü</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="211"/>
         <source>Chord range</source>
-        <translation type="unfinished"/>
+        <translation>Akord aralığı</translation>
     </message>
 </context>
 <context>
@@ -5846,127 +5846,127 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="65"/>
         <source>Filter type</source>
-        <translation type="unfinished"/>
+        <translation>Filtre tipi</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="66"/>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Kesme frekansı</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="67"/>
         <source>Q/Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Q/Rezonans</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="83"/>
         <source>Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>Düşük geçiş</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="84"/>
         <source>Hi-pass</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek geçiş</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="85"/>
         <source>Band-pass csg</source>
-        <translation type="unfinished"/>
+        <translation>Bant geçişli csg</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="86"/>
         <source>Band-pass czpg</source>
-        <translation type="unfinished"/>
+        <translation>Bant geçişli czpg</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="87"/>
         <source>Notch</source>
-        <translation type="unfinished"/>
+        <translation>Çentik</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="88"/>
         <source>All-pass</source>
-        <translation type="unfinished"/>
+        <translation>Tamamı bitti</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="89"/>
         <source>Moog</source>
-        <translation type="unfinished"/>
+        <translation>Moog</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="90"/>
         <source>2x Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>2x Düşük geçiş</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="91"/>
         <source>RC Low-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Düşük geçişli 12 dB/oct</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="92"/>
         <source>RC Band-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Bant geçişi 12 dB/oct</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="93"/>
         <source>RC High-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Yüksek Geçişli 12 dB/oct</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="94"/>
         <source>RC Low-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Düşük geçişli 24 dB/oct</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="95"/>
         <source>RC Band-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Bant geçişi 24 dB/oct</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="96"/>
         <source>RC High-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Yüksek Geçişli 24 dB/oct</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="97"/>
         <source>Vocal Formant</source>
-        <translation type="unfinished"/>
+        <translation>Vokal Biçimlendirici</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="98"/>
         <source>2x Moog</source>
-        <translation type="unfinished"/>
+        <translation>2x Moog</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="99"/>
         <source>SV Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV Düşük geçiş</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="100"/>
         <source>SV Band-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV Bant geçişi</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="101"/>
         <source>SV High-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV Yüksek geçiş</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="102"/>
         <source>SV Notch</source>
-        <translation type="unfinished"/>
+        <translation>SV Çentiği</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="103"/>
         <source>Fast Formant</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Biçimlendirici</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="104"/>
         <source>Tripole</source>
-        <translation type="unfinished"/>
+        <translation>Üçlü</translation>
     </message>
 </context>
 <context>
@@ -5975,37 +5975,37 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="50"/>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="62"/>
         <source>unnamed_track</source>
-        <translation type="unfinished"/>
+        <translation>adsız_parça</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="56"/>
         <source>Base note</source>
-        <translation type="unfinished"/>
+        <translation>Temel nota</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="57"/>
         <source>First note</source>
-        <translation type="unfinished"/>
+        <translation>İlk nota</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="58"/>
         <source>Last note</source>
-        <translation type="unfinished"/>
+        <translation>Son nota</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="60"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Düzey</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="61"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="63"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Saha</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="64"/>
@@ -14016,13 +14016,13 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3633"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3641"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4269"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4288"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4278"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4297"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation type="unfinished"/>
     </message>
@@ -14030,241 +14030,241 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4743"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
         <source>Play/pause current clip (Space)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4744"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4745"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4746"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4747"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Stop playing of current clip (Space)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
         <source>Edit actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4762"/>
         <source>Draw mode (Shift+D)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
         <source>Erase mode (Shift+E)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Select mode (Shift+S)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4771"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4780"/>
         <source>Quantize</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4772"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
         <source>Quantize positions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4773"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
         <source>Quantize lengths</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4793"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4802"/>
         <source>File actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4801"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4810"/>
         <source>Import clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5258"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
         <source>Export clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4814"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
         <source>Copy paste controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4816"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
         <source>Cut (%1+X)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4818"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4827"/>
         <source>Copy (%1+C)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4820"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4829"/>
         <source>Paste (%1+V)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4835"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4844"/>
         <source>Timeline controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4843"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4852"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4847"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4856"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4851"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4860"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4855"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4864"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4859"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4868"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4862"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4877"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4886"/>
         <source>Zoom and note controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4885"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4894"/>
         <source>Horizontal zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4893"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4902"/>
         <source>Vertical zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4902"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4911"/>
         <source>Quantization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4911"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4920"/>
         <source>Note length</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4917"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4926"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4926"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
         <source>Scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4944"/>
         <source>Chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4944"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4953"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4949"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4958"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5058"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5235"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5067"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5244"/>
         <source>Piano-Roll - %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5065"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5240"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5074"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5249"/>
         <source>Piano-Roll - no clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5259"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5279"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
         <source>Export clip success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5280"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
         <source>Clip saved to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5295"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5304"/>
         <source>Import clip.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5296"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5314"/>
         <source>Open clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5325"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5334"/>
         <source>Import clip success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5326"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
         <source>Imported clip %1!</source>
         <translation type="unfinished"/>
     </message>

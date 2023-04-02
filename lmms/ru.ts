@@ -150,7 +150,7 @@ Simple88 (2016)</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="677"/>
         <source>AU/AudioUnit:</source>
-        <translation type="unfinished"/>
+        <translation>AU/AudioUnit:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="697"/>
@@ -207,7 +207,7 @@ Simple88 (2016)</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="992"/>
         <source>valid osc commands here</source>
-        <translation type="unfinished"/>
+        <translation>допустимые команды osc здесь</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="1005"/>
@@ -550,7 +550,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/carla_widgets.cpp" line="164"/>
         <source>About 85% complete (missing vst bank/presets and some minor stuff)</source>
-        <translation type="unfinished"/>
+        <translation>Примерно на 85% (не хватает vst банка/пресетов и некоторых мелочей)</translation>
     </message>
 </context>
 <context>
@@ -563,12 +563,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="40"/>
         <source>Rack</source>
-        <translation type="unfinished"/>
+        <translation>Стойка</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="144"/>
         <source>Patchbay</source>
-        <translation type="unfinished"/>
+        <translation>Патчбэй</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="179"/>
@@ -618,7 +618,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="371"/>
         <source>Macros (all plugins)</source>
-        <translation type="unfinished"/>
+        <translation>Макросы (все плагины)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="395"/>
@@ -719,7 +719,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="845"/>
         <source>Use Ableton Link</source>
-        <translation type="unfinished"/>
+        <translation>Использовать Ableton Link</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="955"/>
@@ -1254,12 +1254,12 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="425"/>
         <source>Show console output in Logs tab (needs engine restart)</source>
-        <translation type="unfinished"/>
+        <translation>Показывать вывод консоли на вкладке &quot;Журналы&quot; (требуется перезапуск движка)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="432"/>
         <source>Show a confirmation dialog before quitting</source>
-        <translation type="unfinished"/>
+        <translation>Показать окно подтверждения перед выходом</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="442"/>
@@ -1345,12 +1345,12 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="719"/>
         <source>Auto-hide groups with no ports</source>
-        <translation type="unfinished"/>
+        <translation>Автоматическое скрытие групп без портов</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="726"/>
         <source>Auto-select items on hover</source>
-        <translation type="unfinished"/>
+        <translation>Автоматический выбор элементов при наведении</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="733"/>
@@ -13745,13 +13745,13 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3633"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3641"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4269"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4288"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4278"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4297"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation type="unfinished"/>
     </message>
@@ -13759,241 +13759,241 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4743"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
         <source>Play/pause current clip (Space)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4744"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4745"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4746"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4747"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Stop playing of current clip (Space)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
         <source>Edit actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4762"/>
         <source>Draw mode (Shift+D)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
         <source>Erase mode (Shift+E)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Select mode (Shift+S)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4771"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4780"/>
         <source>Quantize</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4772"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
         <source>Quantize positions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4773"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
         <source>Quantize lengths</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4793"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4802"/>
         <source>File actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4801"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4810"/>
         <source>Import clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5258"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
         <source>Export clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4814"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
         <source>Copy paste controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4816"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
         <source>Cut (%1+X)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4818"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4827"/>
         <source>Copy (%1+C)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4820"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4829"/>
         <source>Paste (%1+V)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4835"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4844"/>
         <source>Timeline controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4843"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4852"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4847"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4856"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4851"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4860"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4855"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4864"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4859"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4868"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4862"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4877"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4886"/>
         <source>Zoom and note controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4885"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4894"/>
         <source>Horizontal zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4893"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4902"/>
         <source>Vertical zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4902"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4911"/>
         <source>Quantization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4911"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4920"/>
         <source>Note length</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4917"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4926"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4926"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
         <source>Scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4944"/>
         <source>Chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4944"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4953"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4949"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4958"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5058"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5235"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5067"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5244"/>
         <source>Piano-Roll - %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5065"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5240"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5074"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5249"/>
         <source>Piano-Roll - no clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5259"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5279"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
         <source>Export clip success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5280"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
         <source>Clip saved to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5295"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5304"/>
         <source>Import clip.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5296"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5314"/>
         <source>Open clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5325"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5334"/>
         <source>Import clip success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5326"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
         <source>Imported clip %1!</source>
         <translation type="unfinished"/>
     </message>
@@ -14936,7 +14936,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1343"/>
         <source>Choose your background picture</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать фоновое изображение</translation>
     </message>
 </context>
 <context>
@@ -14955,53 +14955,53 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1015"/>
         <source>Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Усиление:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1028"/>
         <source>Apply reverb (if supported)</source>
-        <translation type="unfinished"/>
+        <translation>Применить реверберацию (если поддерживается)</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1032"/>
         <source>Room size:</source>
-        <translation type="unfinished"/>
+        <translation>Размер комнаты:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1036"/>
         <source>Damping:</source>
-        <translation type="unfinished"/>
+        <translation>Приглушение:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1040"/>
         <source>Width:</source>
-        <translation type="unfinished"/>
+        <translation>Ширина:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1044"/>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1071"/>
         <source>Level:</source>
-        <translation type="unfinished"/>
+        <translation>Уровень:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1064"/>
         <source>Apply chorus (if supported)</source>
-        <translation type="unfinished"/>
+        <translation>Применить хорус (если поддерживается)</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1067"/>
         <source>Voices:</source>
-        <translation type="unfinished"/>
+        <translation>Голоса:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1075"/>
         <source>Speed:</source>
-        <translation type="unfinished"/>
+        <translation>Скорость:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1079"/>
         <source>Depth:</source>
-        <translation type="unfinished"/>
+        <translation>Глубина:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1182"/>
@@ -15014,38 +15014,38 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="490"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Громкость:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="494"/>
         <source>Resonance:</source>
-        <translation type="unfinished"/>
+        <translation>Резонанс:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="498"/>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="685"/>
         <source>Cutoff frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Частота среза:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="505"/>
         <source>High-pass filter </source>
-        <translation type="unfinished"/>
+        <translation>Фильтр верхних частот</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="511"/>
         <source>Band-pass filter </source>
-        <translation type="unfinished"/>
+        <translation>Фильтр средних частот</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="517"/>
         <source>Low-pass filter </source>
-        <translation type="unfinished"/>
+        <translation>Фильтр нижних частот</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="529"/>
         <source>Voice 3 off </source>
-        <translation type="unfinished"/>
+        <translation>Голос 3 откл.</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="535"/>
@@ -15061,29 +15061,29 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="550"/>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="660"/>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Атака:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="554"/>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="666"/>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Спад:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="558"/>
         <source>Sustain:</source>
-        <translation type="unfinished"/>
+        <translation>Выдержка:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="562"/>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="672"/>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>Затухание:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="566"/>
         <source>Pulse Width:</source>
-        <translation type="unfinished"/>
+        <translation>Длина импульса:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="570"/>
@@ -15108,7 +15108,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="603"/>
         <source>Noise</source>
-        <translation type="unfinished"/>
+        <translation>Шум</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="619"/>
@@ -15141,7 +15141,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/SideBarWidget.cpp" line="50"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -15732,22 +15732,22 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="353"/>
         <source>Track color</source>
-        <translation type="unfinished"/>
+        <translation>Цвет дорожки</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="355"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Изменить</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="356"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Сброс</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="357"/>
         <source>Pick random</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать случайно</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="359"/>
@@ -15887,12 +15887,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="657"/>
         <source>Exponential wave</source>
-        <translation type="unfinished"/>
+        <translation>Экспоненциальная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="666"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Белый шум</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="674"/>
@@ -15910,12 +15910,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="64"/>
         <source>HQ</source>
-        <translation type="unfinished"/>
+        <translation>HQ</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="65"/>
         <source>Double the resolution and simulate continuous analog-like trace.</source>
-        <translation type="unfinished"/>
+        <translation>Удвоить разрешение и смоделировать непрерывное аналоговое отслеживание.</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="72"/>
@@ -16703,7 +16703,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="541"/>
         <source>Show GUI</source>
-        <translation type="unfinished"/>
+        <translation>Показать интерфейс</translation>
     </message>
 </context>
 </TS>

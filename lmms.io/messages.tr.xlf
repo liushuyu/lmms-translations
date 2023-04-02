@@ -1692,14 +1692,17 @@ Tüm girişleri [buradan] dinleyin.(https://docs.google.com/spreadsheets/d/1pPoM
       </trans-unit>
       <trans-unit id="lEXM897" resname="The Best of LMMS Vol. 9 by LMMS Artists">
         <source>The Best of LMMS Vol. 9 by LMMS Artists</source>
+        <target>LMMS Sanatçılarının En İyisi Cilt 9</target>
         
       </trans-unit>
       <trans-unit id="ed.Z2cG" resname="Alpha Versions">
         <source>Alpha Versions</source>
+        <target>Alfa Sürümleri</target>
         
       </trans-unit>
       <trans-unit id="OcxaEJj" resname="Downloads labeled Alpha or Beta are pre-release software, stability may suffer.">
         <source>Downloads labeled Alpha or Beta are pre-release software, stability may suffer.</source>
+        <target>Alfa veya Beta etiketli indirmeler, sürüm öncesi yazılımlardır, kararlılıkta sorunlar görülebilir.</target>
         
       </trans-unit>
     </body>
