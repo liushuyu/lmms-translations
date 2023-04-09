@@ -3587,6 +3587,11 @@ Bu çip Commodore 64 bilgisayarında kullanıldı.</translation>
         <source>Embedded ZynAddSubFX</source>
         <translation>Gömülü ZynAddSubFX</translation>
     </message>
+    <message>
+        <location filename="../../plugins/Dispersion/Dispersion.cpp" line="40"/>
+        <source>An all-pass filter allowing for extremely high orders.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>PluginDatabaseW</name>
@@ -4984,6 +4989,34 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     </message>
 </context>
 <context>
+    <name>lmms::DispersionControls</name>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="37"/>
+        <source>Amount</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="38"/>
+        <source>Frequency</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="39"/>
+        <source>Resonance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="40"/>
+        <source>Feedback</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="41"/>
+        <source>DC Offset Removal</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>lmms::DualFilterControls</name>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="43"/>
@@ -5841,7 +5874,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="62"/>
         <source>Envelopes/LFOs</source>
-        <translation type="unfinished"/>
+        <translation>Zarflar / LFO&apos;lar</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="65"/>
@@ -6010,33 +6043,33 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="64"/>
         <source>Pitch range</source>
-        <translation type="unfinished"/>
+        <translation>Eğim aralığı</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="65"/>
         <source>Mixer channel</source>
-        <translation type="unfinished"/>
+        <translation>FX kanalı</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="66"/>
         <source>Master pitch</source>
-        <translation type="unfinished"/>
+        <translation>Ana sahne</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="91"/>
         <source>Enable/Disable MIDI CC</source>
-        <translation type="unfinished"/>
+        <translation>MIDI CC&apos;yi Etkinleştir / Devre Dışı Bırak</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="98"/>
         <source>CC Controller %1</source>
-        <translation type="unfinished"/>
+        <translation>CC Denetleyicisi %1</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="104"/>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="341"/>
         <source>Default preset</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan ön ayar</translation>
     </message>
 </context>
 <context>
@@ -6044,7 +6077,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/Keymap.cpp" line="37"/>
         <source>empty</source>
-        <translation type="unfinished"/>
+        <translation>boş</translation>
     </message>
 </context>
 <context>
@@ -6052,62 +6085,62 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="69"/>
         <source>Start frequency</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="70"/>
         <source>End frequency</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="71"/>
         <source>Length</source>
-        <translation type="unfinished"/>
+        <translation>Süre</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="72"/>
         <source>Start distortion</source>
-        <translation type="unfinished"/>
+        <translation>Bozulmayı başlat</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="73"/>
         <source>End distortion</source>
-        <translation type="unfinished"/>
+        <translation>Bozulmayı bitir</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="74"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="75"/>
         <source>Envelope slope</source>
-        <translation type="unfinished"/>
+        <translation>Zarf eğimi</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="76"/>
         <source>Noise</source>
-        <translation type="unfinished"/>
+        <translation>Gürültü</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="77"/>
         <source>Click</source>
-        <translation type="unfinished"/>
+        <translation>Tıkla</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="78"/>
         <source>Frequency slope</source>
-        <translation type="unfinished"/>
+        <translation>Frekans eğimi</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="79"/>
         <source>Start from note</source>
-        <translation type="unfinished"/>
+        <translation>Notadan başla</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="80"/>
         <source>End to note</source>
-        <translation type="unfinished"/>
+        <translation>Notanın sonu</translation>
     </message>
 </context>
 <context>
@@ -6115,7 +6148,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/LadspaControl.cpp" line="42"/>
         <source>Link channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanalları bağla</translation>
     </message>
 </context>
 <context>
@@ -6123,7 +6156,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaEffect.cpp" line="82"/>
         <source>Unknown LADSPA plugin %1 requested.</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen LADSPA eklentisi %1 istendi.</translation>
     </message>
 </context>
 <context>
@@ -6131,57 +6164,57 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="278"/>
         <source>VCF Cutoff Frequency</source>
-        <translation type="unfinished"/>
+        <translation>VCF Kesme Frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="279"/>
         <source>VCF Resonance</source>
-        <translation type="unfinished"/>
+        <translation>VCF Rezonansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="280"/>
         <source>VCF Envelope Mod</source>
-        <translation type="unfinished"/>
+        <translation>VCF Zarf Modu</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="281"/>
         <source>VCF Envelope Decay</source>
-        <translation type="unfinished"/>
+        <translation>VCF Zarf Bozulması</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="282"/>
         <source>Distortion</source>
-        <translation type="unfinished"/>
+        <translation>Bozma</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="283"/>
         <source>Waveform</source>
-        <translation type="unfinished"/>
+        <translation>Dalga şekli</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="284"/>
         <source>Slide Decay</source>
-        <translation type="unfinished"/>
+        <translation>Bozulma Kaydırma</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="285"/>
         <source>Slide</source>
-        <translation type="unfinished"/>
+        <translation>Kaydır</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="286"/>
         <source>Accent</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="287"/>
         <source>Dead</source>
-        <translation type="unfinished"/>
+        <translation>Ölü</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="288"/>
         <source>24dB/oct Filter</source>
-        <translation type="unfinished"/>
+        <translation>24dB/oct FiltRESİ</translation>
     </message>
 </context>
 <context>
@@ -6189,37 +6222,37 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/LfoController.cpp" line="39"/>
         <source>LFO Controller</source>
-        <translation type="unfinished"/>
+        <translation>LFO Denetleyicisi</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="40"/>
         <source>Base value</source>
-        <translation type="unfinished"/>
+        <translation>Temel değer</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="41"/>
         <source>Oscillator speed</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör hızı</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="42"/>
         <source>Oscillator amount</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör miktarı</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="43"/>
         <source>Oscillator phase</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör fazı</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="45"/>
         <source>Oscillator waveform</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör dalga formu</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="46"/>
         <source>Frequency Multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Frekans Çarpanı</translation>
     </message>
 </context>
 <context>
@@ -6227,147 +6260,147 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="73"/>
         <source>Hardness</source>
-        <translation type="unfinished"/>
+        <translation>Sertlik</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="74"/>
         <source>Position</source>
-        <translation type="unfinished"/>
+        <translation>Konum</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="75"/>
         <source>Vibrato gain</source>
-        <translation type="unfinished"/>
+        <translation>Titreşim kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="76"/>
         <source>Vibrato frequency</source>
-        <translation type="unfinished"/>
+        <translation>Titreşim frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="77"/>
         <source>Stick mix</source>
-        <translation type="unfinished"/>
+        <translation>Çubuk karıştırıcı</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="78"/>
         <source>Modulator</source>
-        <translation type="unfinished"/>
+        <translation>Modülatör</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="79"/>
         <source>Crossfade</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz geçiş</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="80"/>
         <source>LFO speed</source>
-        <translation type="unfinished"/>
+        <translation>LFO hızı</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="81"/>
         <source>LFO depth</source>
-        <translation type="unfinished"/>
+        <translation>LFO derinliği</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="82"/>
         <source>ADSR</source>
-        <translation type="unfinished"/>
+        <translation>ADSR</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="83"/>
         <source>Pressure</source>
-        <translation type="unfinished"/>
+        <translation>Basınç</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="84"/>
         <source>Motion</source>
-        <translation type="unfinished"/>
+        <translation>Hareket</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="86"/>
         <source>Speed</source>
-        <translation type="unfinished"/>
+        <translation>Hız</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="87"/>
         <source>Bowed</source>
-        <translation type="unfinished"/>
+        <translation>Eğilmiş</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="89"/>
         <source>Spread</source>
-        <translation type="unfinished"/>
+        <translation>Etrafa Saç</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="96"/>
         <source>Marimba</source>
-        <translation type="unfinished"/>
+        <translation>Marimba</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="98"/>
         <source>Vibraphone</source>
-        <translation type="unfinished"/>
+        <translation>Vibrafon</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="100"/>
         <source>Agogo</source>
-        <translation type="unfinished"/>
+        <translation>Agogo</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="102"/>
         <source>Wood 1</source>
-        <translation type="unfinished"/>
+        <translation>Ahşap 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="104"/>
         <source>Reso</source>
-        <translation type="unfinished"/>
+        <translation>Reso</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="106"/>
         <source>Wood 2</source>
-        <translation type="unfinished"/>
+        <translation>Ahşap 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="108"/>
         <source>Beats</source>
-        <translation type="unfinished"/>
+        <translation>Vuruşlar</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="110"/>
         <source>Two fixed</source>
-        <translation type="unfinished"/>
+        <translation>İki sabit</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="112"/>
         <source>Clump</source>
-        <translation type="unfinished"/>
+        <translation>Tortu</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="116"/>
         <source>Tubular bells</source>
-        <translation type="unfinished"/>
+        <translation>Borulu çanlar</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="120"/>
         <source>Uniform bar</source>
-        <translation type="unfinished"/>
+        <translation>Üniforma çubuğu</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="122"/>
         <source>Tuned bar</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlanmış çubuk</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="124"/>
         <source>Glass</source>
-        <translation type="unfinished"/>
+        <translation>Cam</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="126"/>
         <source>Tibetan bowl</source>
-        <translation type="unfinished"/>
+        <translation>Tibet kase</translation>
     </message>
 </context>
 <context>
@@ -6375,12 +6408,12 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/MeterModel.cpp" line="35"/>
         <source>Numerator</source>
-        <translation type="unfinished"/>
+        <translation>Pay</translation>
     </message>
     <message>
         <location filename="../../src/core/MeterModel.cpp" line="36"/>
         <source>Denominator</source>
-        <translation type="unfinished"/>
+        <translation>Payda</translation>
     </message>
 </context>
 <context>
@@ -6388,22 +6421,22 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="41"/>
         <source>Microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Mikro ayarlayıcı</translation>
     </message>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="42"/>
         <source>Microtuner on / off</source>
-        <translation type="unfinished"/>
+        <translation>Mikro ayarlayıcı açık / kapalı</translation>
     </message>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="43"/>
         <source>Selected scale</source>
-        <translation type="unfinished"/>
+        <translation>Seçili ölçek</translation>
     </message>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="44"/>
         <source>Selected keyboard mapping</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen klavye eşlemesi</translation>
     </message>
 </context>
 <context>
@@ -6411,12 +6444,12 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/midi/MidiController.cpp" line="36"/>
         <source>MIDI Controller</source>
-        <translation type="unfinished"/>
+        <translation>MIDI Denetleyicisi</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiController.cpp" line="38"/>
         <source>unnamed_midi_controller</source>
-        <translation type="unfinished"/>
+        <translation>adsız_midi_denetleyici</translation>
     </message>
 </context>
 <context>
@@ -6425,48 +6458,48 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="105"/>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="117"/>
         <source>Setup incomplete</source>
-        <translation type="unfinished"/>
+        <translation>Kurulum tamamlanmadı</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="106"/>
         <source>You have not set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar iletişim kutusunda (Düzenle-&gt; Ayarlar) varsayılan bir ses yazı tipi ayarlamadınız. Bu nedenle, bu MIDI dosyasını içe aktardıktan sonra hiçbir ses çalınmayacaktır. Bir Genel MIDI ses yazı tipi indirmeli, bunu ayarlar iletişim kutusunda belirtmeli ve tekrar denemelisiniz.</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="118"/>
         <source>You did not compile LMMS with support for SoundFont2 player, which is used to add default sound to imported MIDI files. Therefore no sound will be played back after importing this MIDI file.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS&apos;yi içe aktarılan MIDI dosyalarına varsayılan ses eklemek için kullanılan SoundFont2 oynatıcı desteğiyle derlemediniz. Bu nedenle, bu MIDI dosyasını içe aktardıktan sonra hiçbir ses çalınmayacaktır.</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="332"/>
         <source>MIDI Time Signature Numerator</source>
-        <translation type="unfinished"/>
+        <translation>MIDI Zaman İmza Payı</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="334"/>
         <source>MIDI Time Signature Denominator</source>
-        <translation type="unfinished"/>
+        <translation>MIDI Zaman İmza Paydası</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="336"/>
         <source>Numerator</source>
-        <translation type="unfinished"/>
+        <translation>Pay</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="339"/>
         <source>Denominator</source>
-        <translation type="unfinished"/>
+        <translation>Payda</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="362"/>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="364"/>
         <source>Tempo</source>
-        <translation type="unfinished"/>
+        <translation>Tempo</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="404"/>
         <source>Track</source>
-        <translation type="unfinished"/>
+        <translation>Parça</translation>
     </message>
 </context>
 <context>
@@ -6475,13 +6508,13 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
         <location filename="../../src/core/midi/MidiJack.cpp" line="58"/>
         <source>JACK server down</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (title)</extracomment>
-        <translation type="unfinished"/>
+        <translation>JACK sunucusu kapalı</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiJack.cpp" line="60"/>
         <source>The JACK server seems to be shuted down.</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
-        <translation type="unfinished"/>
+        <translation>JACK sunucusu kapatılmış görünüyor.</translation>
     </message>
 </context>
 <context>
@@ -6489,57 +6522,57 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="55"/>
         <source>Input channel</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kanalı</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="56"/>
         <source>Output channel</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kanalı</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="57"/>
         <source>Input controller</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kontrolörü</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="58"/>
         <source>Output controller</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış denetleyicisi</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="59"/>
         <source>Fixed input velocity</source>
-        <translation type="unfinished"/>
+        <translation>Sabit giriş hızı</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="60"/>
         <source>Fixed output velocity</source>
-        <translation type="unfinished"/>
+        <translation>Sabit çıkış hızı</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="61"/>
         <source>Fixed output note</source>
-        <translation type="unfinished"/>
+        <translation>Sabit çıktı notu</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="62"/>
         <source>Output MIDI program</source>
-        <translation type="unfinished"/>
+        <translation>MIDI programı çıktısı</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="63"/>
         <source>Base velocity</source>
-        <translation type="unfinished"/>
+        <translation>Temel hız</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="64"/>
         <source>Receive MIDI-events</source>
-        <translation type="unfinished"/>
+        <translation>MIDI olaylarını alın</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="65"/>
         <source>Send MIDI-events</source>
-        <translation type="unfinished"/>
+        <translation>MIDI olayları gönder</translation>
     </message>
 </context>
 <context>
@@ -6547,29 +6580,29 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/Mixer.cpp" line="701"/>
         <source>Master</source>
-        <translation type="unfinished"/>
+        <translation>Usta</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="701"/>
         <location filename="../../src/core/Mixer.cpp" line="822"/>
         <location filename="../../src/core/Mixer.cpp" line="824"/>
         <source>Channel %1</source>
-        <translation type="unfinished"/>
+        <translation>FX %1</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="702"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="703"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Sustur</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="704"/>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Tek</translation>
     </message>
 </context>
 <context>
@@ -6578,7 +6611,7 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
         <location filename="../../src/core/Mixer.cpp" line="47"/>
         <location filename="../../src/core/Mixer.cpp" line="57"/>
         <source>Amount to send from channel %1 to channel %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 kanalından %2 kanalına gönderilecek miktar</translation>
     </message>
 </context>
 <context>
@@ -6586,595 +6619,595 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="831"/>
         <source>Osc 1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 düzey</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="832"/>
         <source>Osc 1 panning</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 kaydırma</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="833"/>
         <source>Osc 1 coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 kaba detay</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="834"/>
         <source>Osc 1 fine detune left</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 ince detay sol</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="835"/>
         <source>Osc 1 fine detune right</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 ince detay sağ</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="836"/>
         <source>Osc 1 stereo phase offset</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 çift kanal faz ofseti</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="837"/>
         <source>Osc 1 pulse width</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 darbe genişliği</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="838"/>
         <source>Osc 1 sync send on rise</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 nsenkronizasyonu yükselişte gönder</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="839"/>
         <source>Osc 1 sync send on fall</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 senkronizasyonu sonbaharda gönder</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="841"/>
         <source>Osc 2 volume</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 düzey</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="842"/>
         <source>Osc 2 panning</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 kaydırma</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="843"/>
         <source>Osc 2 coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 kaba detay</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="844"/>
         <source>Osc 2 fine detune left</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 ince detay sol</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="845"/>
         <source>Osc 2 fine detune right</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 ince detay sağ</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="846"/>
         <source>Osc 2 stereo phase offset</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 çift kanal faz ofseti</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="847"/>
         <source>Osc 2 waveform</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 dalga formu</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="848"/>
         <source>Osc 2 sync hard</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 senkronizasyonu zor</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="849"/>
         <source>Osc 2 sync reverse</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 senkronizasyon ters</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="851"/>
         <source>Osc 3 volume</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 düzey</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="852"/>
         <source>Osc 3 panning</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 kaydırma</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="853"/>
         <source>Osc 3 coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 kaba detay</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="854"/>
         <source>Osc 3 Stereo phase offset</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 çift kanal faz ofseti</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="855"/>
         <source>Osc 3 sub-oscillator mix</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 alt osilatör karışımı</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="856"/>
         <source>Osc 3 waveform 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 dalga formu 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="857"/>
         <source>Osc 3 waveform 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 dalga formu 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="858"/>
         <source>Osc 3 sync hard</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 senkronizasyonu zor</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="859"/>
         <source>Osc 3 Sync reverse</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 Senkronizasyon ters</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="861"/>
         <source>LFO 1 waveform</source>
-        <translation type="unfinished"/>
+        <translation>LFO 1 dalga formu</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="862"/>
         <source>LFO 1 attack</source>
-        <translation type="unfinished"/>
+        <translation>LFO 1 saldırısı</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="863"/>
         <source>LFO 1 rate</source>
-        <translation type="unfinished"/>
+        <translation>LFO 1 oran</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="864"/>
         <source>LFO 1 phase</source>
-        <translation type="unfinished"/>
+        <translation>LFO 1 aşaması</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="866"/>
         <source>LFO 2 waveform</source>
-        <translation type="unfinished"/>
+        <translation>LFO 2 dalga formu</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="867"/>
         <source>LFO 2 attack</source>
-        <translation type="unfinished"/>
+        <translation>LFO 2 saldırısı</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="868"/>
         <source>LFO 2 rate</source>
-        <translation type="unfinished"/>
+        <translation>LFO 2 oran</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="869"/>
         <source>LFO 2 phase</source>
-        <translation type="unfinished"/>
+        <translation>LFO 2 aşaması</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="871"/>
         <source>Env 1 pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>Env 1 ön gecikme</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="872"/>
         <source>Env 1 attack</source>
-        <translation type="unfinished"/>
+        <translation>Env 1 saldırısı</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="873"/>
         <source>Env 1 hold</source>
-        <translation type="unfinished"/>
+        <translation>Env 1 tutma</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="874"/>
         <source>Env 1 decay</source>
-        <translation type="unfinished"/>
+        <translation>Env 1 bozunma</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="875"/>
         <source>Env 1 sustain</source>
-        <translation type="unfinished"/>
+        <translation>Env 1 sürdürmek</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="876"/>
         <source>Env 1 release</source>
-        <translation type="unfinished"/>
+        <translation>Env 1 yayını</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="877"/>
         <source>Env 1 slope</source>
-        <translation type="unfinished"/>
+        <translation>Env 1 eğimi</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="879"/>
         <source>Env 2 pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>Env 2 ön gecikmesi</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="880"/>
         <source>Env 2 attack</source>
-        <translation type="unfinished"/>
+        <translation>Env 2 saldırısı</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="881"/>
         <source>Env 2 hold</source>
-        <translation type="unfinished"/>
+        <translation>Env 2 tutma</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="882"/>
         <source>Env 2 decay</source>
-        <translation type="unfinished"/>
+        <translation>Env 2 bozunma</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="883"/>
         <source>Env 2 sustain</source>
-        <translation type="unfinished"/>
+        <translation>Env 2 sürdürmek</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="884"/>
         <source>Env 2 release</source>
-        <translation type="unfinished"/>
+        <translation>Env 2 yayını</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="885"/>
         <source>Env 2 slope</source>
-        <translation type="unfinished"/>
+        <translation>Env 2 eğimi</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="887"/>
         <source>Osc 2+3 modulation</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2+3 modülasyonu</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="889"/>
         <source>Selected view</source>
-        <translation type="unfinished"/>
+        <translation>Seçili görünüm</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="891"/>
         <source>Osc 1 - Vol env 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - Düzey env 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="892"/>
         <source>Osc 1 - Vol env 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - Düzey env 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="893"/>
         <source>Osc 1 - Vol LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - Düzey LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="894"/>
         <source>Osc 1 - Vol LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - Düzey LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="896"/>
         <source>Osc 2 - Vol env 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 - Düzey env 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="897"/>
         <source>Osc 2 - Vol env 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 - Düzey env 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="898"/>
         <source>Osc 2 - Vol LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 - Düzey LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="899"/>
         <source>Osc 2 - Vol LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 - Düzey LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="901"/>
         <source>Osc 3 - Vol env 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Düzey env 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="902"/>
         <source>Osc 3 - Vol env 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Düzey env 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="903"/>
         <source>Osc 3 - Vol LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Düzey LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="904"/>
         <source>Osc 3 - Vol LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Düzey LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="906"/>
         <source>Osc 1 - Phs env 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - Phs env 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="907"/>
         <source>Osc 1 - Phs env 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - Phs env 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="908"/>
         <source>Osc 1 - Phs LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - Phs LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="909"/>
         <source>Osc 1 - Phs LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - Phs LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="911"/>
         <source>Osc 2 - Phs env 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 - Phs env 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="912"/>
         <source>Osc 2 - Phs env 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 - Phs env 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="913"/>
         <source>Osc 2 - Phs LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 - Phs LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="914"/>
         <source>Osc 2 - Phs LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 - Phs LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="916"/>
         <source>Osc 3 - Phs env 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Phs env 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="917"/>
         <source>Osc 3 - Phs env 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Phs env 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="918"/>
         <source>Osc 3 - Phs LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Phs LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="919"/>
         <source>Osc 3 - Phs LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Phs LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="921"/>
         <source>Osc 1 - Pit env 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - Pit env 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="922"/>
         <source>Osc 1 - Pit env 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - Pit env 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="923"/>
         <source>Osc 1 - Pit LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - Pit LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="924"/>
         <source>Osc 1 - Pit LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - Pit LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="926"/>
         <source>Osc 2 - Pit env 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 - Pit env 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="927"/>
         <source>Osc 2 - Pit env 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 - Pit env 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="928"/>
         <source>Osc 2 - Pit LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 - Pit LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="929"/>
         <source>Osc 2 - Pit LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2 - Pit LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="931"/>
         <source>Osc 3 - Pit env 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Pit env 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="932"/>
         <source>Osc 3 - Pit env 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Pit env 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="933"/>
         <source>Osc 3 - Pit LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Pit LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="934"/>
         <source>Osc 3 - Pit LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Pit LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="936"/>
         <source>Osc 1 - PW env 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - PW env 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="937"/>
         <source>Osc 1 - PW env 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - PW env 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="938"/>
         <source>Osc 1 - PW LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - PW LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="939"/>
         <source>Osc 1 - PW LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 1 - PW LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="941"/>
         <source>Osc 3 - Sub env 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Sub env 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="942"/>
         <source>Osc 3 - Sub env 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Sub env 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="943"/>
         <source>Osc 3 - Sub LFO 1</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Sub LFO 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="944"/>
         <source>Osc 3 - Sub LFO 2</source>
-        <translation type="unfinished"/>
+        <translation>Osc 3 - Sub LFO 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="326"/>
         <location filename="../../plugins/Monstro/Monstro.h" line="344"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Sinüs dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="327"/>
         <source>Bandlimited Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Band sınırlı Üçgen dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="328"/>
         <source>Bandlimited Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Bant sınırı Testere dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="329"/>
         <source>Bandlimited Ramp wave</source>
-        <translation type="unfinished"/>
+        <translation>Bant sınırlı Rampa dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="330"/>
         <source>Bandlimited Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Bant sınırı Kare dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="331"/>
         <source>Bandlimited Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Band sınırlı Moog testere dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="332"/>
         <location filename="../../plugins/Monstro/Monstro.h" line="350"/>
         <source>Soft square wave</source>
-        <translation type="unfinished"/>
+        <translation>Yumuşak kare dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="333"/>
         <source>Absolute sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Mutlak sinüs dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="334"/>
         <location filename="../../plugins/Monstro/Monstro.h" line="352"/>
         <source>Exponential wave</source>
-        <translation type="unfinished"/>
+        <translation>Üstel dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="335"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz gürültü</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="336"/>
         <source>Digital Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Dijital Üçgen dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="337"/>
         <source>Digital Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Dijital Testere dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="338"/>
         <source>Digital Ramp wave</source>
-        <translation type="unfinished"/>
+        <translation>Dijital Rampa dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="339"/>
         <source>Digital Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Dijital Kare dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="340"/>
         <source>Digital Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Digital Moog testere dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="345"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Üçgen dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="346"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Testere dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="347"/>
         <source>Ramp wave</source>
-        <translation type="unfinished"/>
+        <translation>Rampa dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="348"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Kare dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="349"/>
         <source>Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Moog testere dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="351"/>
         <source>Abs. sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Abs. sinüs dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="353"/>
         <source>Random</source>
-        <translation type="unfinished"/>
+        <translation>Rastgele</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="354"/>
         <source>Random smooth</source>
-        <translation type="unfinished"/>
+        <translation>Rastgele pürüzsüz</translation>
     </message>
 </context>
 <context>
@@ -7182,102 +7215,102 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="486"/>
         <source>Channel 1 coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 1 kaba detune</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="487"/>
         <source>Channel 1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 1 düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="491"/>
         <source>Channel 1 envelope length</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 1 zarf uzunluğu</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="493"/>
         <source>Channel 1 duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 1 görev döngüsü</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="496"/>
         <source>Channel 1 sweep amount</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 1 tarama miktarı</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="497"/>
         <source>Channel 1 sweep rate</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 1 tarama hızı</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="500"/>
         <source>Channel 2 Coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 2 Kaba detune</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="501"/>
         <source>Channel 2 Volume</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 2 Düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="505"/>
         <source>Channel 2 envelope length</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 2 zarf uzunluğu</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="507"/>
         <source>Channel 2 duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 2 görev döngüsü</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="510"/>
         <source>Channel 2 sweep amount</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 2 tarama miktarı</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="511"/>
         <source>Channel 2 sweep rate</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 2 tarama hızı</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="515"/>
         <source>Channel 3 coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 3 kaba detune</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="516"/>
         <source>Channel 3 volume</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 3 düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="520"/>
         <source>Channel 4 volume</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 4 düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="524"/>
         <source>Channel 4 envelope length</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 4 zarf uzunluğu</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="528"/>
         <source>Channel 4 noise frequency</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 4 gürültü frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="530"/>
         <source>Channel 4 noise frequency sweep</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 4 gürültü frekansı taraması</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="534"/>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>Ana ses</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="535"/>
         <source>Vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Titreşim</translation>
     </message>
 </context>
 <context>
@@ -7285,147 +7318,147 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="99"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Yama</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="100"/>
         <source>Op 1 attack</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 saldırısı</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="101"/>
         <source>Op 1 decay</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 bozunması</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="102"/>
         <source>Op 1 sustain</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 sürdürme</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="103"/>
         <source>Op 1 release</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 yayını</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="104"/>
         <source>Op 1 level</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 seviyesi</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="105"/>
         <source>Op 1 level scaling</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 seviye ölçeklendirme</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="106"/>
         <source>Op 1 frequency multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 frekans çarpanı</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="107"/>
         <source>Op 1 feedback</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 geribildirimi</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="108"/>
         <source>Op 1 key scaling rate</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 anahtar ölçekleme oranı</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="109"/>
         <source>Op 1 percussive envelope</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 vurmalı zarf</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="110"/>
         <source>Op 1 tremolo</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 tremolo</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="111"/>
         <source>Op 1 vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 titreşimi</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="116"/>
         <source>Op 1 waveform</source>
-        <translation type="unfinished"/>
+        <translation>Op 1 dalga formu</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="119"/>
         <source>Op 2 attack</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 saldırısı</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="120"/>
         <source>Op 2 decay</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 bozunması</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="121"/>
         <source>Op 2 sustain</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 sürdürme</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="122"/>
         <source>Op 2 release</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 yayını</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="123"/>
         <source>Op 2 level</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 seviyesi</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="124"/>
         <source>Op 2 level scaling</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 seviye ölçeklendirme</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="125"/>
         <source>Op 2 frequency multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 frekans çarpanı</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="126"/>
         <source>Op 2 key scaling rate</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 anahtar ölçekleme oranı</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="127"/>
         <source>Op 2 percussive envelope</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 vurmalı zarf</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="128"/>
         <source>Op 2 tremolo</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 tremolo</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="129"/>
         <source>Op 2 vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 titreşimi</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="134"/>
         <source>Op 2 waveform</source>
-        <translation type="unfinished"/>
+        <translation>Op 2 dalga formu</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="136"/>
         <source>FM</source>
-        <translation type="unfinished"/>
+        <translation>FM</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="137"/>
         <source>Vibrato depth</source>
-        <translation type="unfinished"/>
+        <translation>Titreşim derinliği</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="138"/>
         <source>Tremolo depth</source>
-        <translation type="unfinished"/>
+        <translation>Tremolo derinliği</translation>
     </message>
 </context>
 <context>
@@ -7433,12 +7466,12 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="82"/>
         <source>Distortion</source>
-        <translation type="unfinished"/>
+        <translation>Bozma</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="83"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi</translation>
     </message>
 </context>
 <context>
@@ -7446,60 +7479,60 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="571"/>
         <source>Osc %1 waveform</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 dalga biçimi</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="573"/>
         <source>Osc %1 harmonic</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 harmonik</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="575"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="73"/>
         <source>Osc %1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="577"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="75"/>
         <source>Osc %1 panning</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 kaydırma</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="579"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="80"/>
         <source>Osc %1 fine detuning left</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 ince ayar sol</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="78"/>
         <source>Osc %1 coarse detuning</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 kaba ince ayar</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="82"/>
         <source>Osc %1 fine detuning right</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 ince ayar sağ</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="84"/>
         <source>Osc %1 phase-offset</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 faz kayması</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="86"/>
         <source>Osc %1 stereo phase-detuning</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 stereo faz ayarlama</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="89"/>
         <source>Osc %1 wave shape</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 dalga şekli</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="92"/>
         <source>Modulation type %1</source>
-        <translation type="unfinished"/>
+        <translation>Modülasyon türü %1</translation>
     </message>
 </context>
 <context>
@@ -7507,12 +7540,12 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/tracks/PatternTrack.cpp" line="49"/>
         <source>Pattern %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 Kalıbı</translation>
     </message>
     <message>
         <location filename="../../src/tracks/PatternTrack.cpp" line="197"/>
         <source>Clone of %1</source>
-        <translation type="unfinished"/>
+        <translation>Kopya %1</translation>
     </message>
 </context>
 <context>
@@ -7520,17 +7553,17 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/PeakController.cpp" line="49"/>
         <source>Peak Controller</source>
-        <translation type="unfinished"/>
+        <translation>Tepe Kontrolörü</translation>
     </message>
     <message>
         <location filename="../../src/core/PeakController.cpp" line="217"/>
         <source>Peak Controller Bug</source>
-        <translation type="unfinished"/>
+        <translation>Tepe Kontrol Hatası</translation>
     </message>
     <message>
         <location filename="../../src/core/PeakController.cpp" line="218"/>
         <source>Due to a bug in older version of LMMS, the peak controllers may not be connect properly. Please ensure that peak controllers are connected properly and re-save this file. Sorry for any inconvenience caused.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS&apos;nin eski sürümündeki bir hata nedeniyle, tepe denetleyicileri doğru şekilde bağlanamayabilir. Lütfen tepe denetleyicilerin doğru şekilde bağlandığından emin olun ve bu dosyayı yeniden kaydedin. Herhangi bir rahatsızlık verdiysem üzgünüm.</translation>
     </message>
 </context>
 <context>
@@ -7538,42 +7571,42 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControls.cpp" line="41"/>
         <source>Base value</source>
-        <translation type="unfinished"/>
+        <translation>Temel değer</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControls.cpp" line="42"/>
         <source>Modulation amount</source>
-        <translation type="unfinished"/>
+        <translation>Modülasyon miktarı</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControls.cpp" line="43"/>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Saldırı</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControls.cpp" line="44"/>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Yayınla</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControls.cpp" line="45"/>
         <source>Treshold</source>
-        <translation type="unfinished"/>
+        <translation>Eşik</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControls.cpp" line="46"/>
         <source>Mute output</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış sessiz</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControls.cpp" line="47"/>
         <source>Absolute value</source>
-        <translation type="unfinished"/>
+        <translation>Mutlak değer</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControls.cpp" line="48"/>
         <source>Amount multiplicator</source>
-        <translation type="unfinished"/>
+        <translation>Miktar çarpanı</translation>
     </message>
 </context>
 <context>
@@ -7581,23 +7614,24 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../src/core/Plugin.cpp" line="220"/>
         <source>Plugin not found</source>
-        <translation type="unfinished"/>
+        <translation>Eklenti bulunamadı</translation>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="221"/>
         <source>The plugin &quot;%1&quot; wasn't found or could not be loaded!
 Reason: &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; eklentisi bulunamadı veya yüklenemedi!
+Nedeni: &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="242"/>
         <source>Error while loading plugin</source>
-        <translation type="unfinished"/>
+        <translation>Eklenti yüklenirken hata</translation>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="243"/>
         <source>Failed to load plugin &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; eklentisi yüklenemedi!</translation>
     </message>
 </context>
 <context>
@@ -7605,22 +7639,22 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="39"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="40"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Boy</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="41"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="42"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı</translation>
     </message>
 </context>
 <context>
@@ -7628,176 +7662,176 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="41"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Duraklat</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="42"/>
         <source>Reference freeze</source>
-        <translation type="unfinished"/>
+        <translation>Referans dondurma</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="44"/>
         <source>Waterfall</source>
-        <translation type="unfinished"/>
+        <translation>Şelale</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="45"/>
         <source>Averaging</source>
-        <translation type="unfinished"/>
+        <translation>Ortalama</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="46"/>
         <source>Stereo</source>
-        <translation type="unfinished"/>
+        <translation>Stereo</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="47"/>
         <source>Peak hold</source>
-        <translation type="unfinished"/>
+        <translation>Tepe tutma</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="49"/>
         <source>Logarithmic frequency</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmik frekans</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="50"/>
         <source>Logarithmic amplitude</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmik genlik</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="53"/>
         <source>Frequency range</source>
-        <translation type="unfinished"/>
+        <translation>Frekans aralığı</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="54"/>
         <source>Amplitude range</source>
-        <translation type="unfinished"/>
+        <translation>Genlik aralığı</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="55"/>
         <source>FFT block size</source>
-        <translation type="unfinished"/>
+        <translation>FFT blok boyutu</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="56"/>
         <source>FFT window type</source>
-        <translation type="unfinished"/>
+        <translation>FFT pencere türü</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="59"/>
         <source>Peak envelope resolution</source>
-        <translation type="unfinished"/>
+        <translation>En yüksek zarf çözünürlüğü</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="60"/>
         <source>Spectrum display resolution</source>
-        <translation type="unfinished"/>
+        <translation>Spektrum ekran çözünürlüğü</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="61"/>
         <source>Peak decay multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Tepe bozunma çarpanı</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="62"/>
         <source>Averaging weight</source>
-        <translation type="unfinished"/>
+        <translation>Ortalama ağırlık</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="63"/>
         <source>Waterfall history size</source>
-        <translation type="unfinished"/>
+        <translation>Şelale geçmişi boyutu</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="64"/>
         <source>Waterfall gamma correction</source>
-        <translation type="unfinished"/>
+        <translation>Şelale gama düzeltmesi</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="65"/>
         <source>FFT window overlap</source>
-        <translation type="unfinished"/>
+        <translation>FFT penceresi çakışması</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="66"/>
         <source>FFT zero padding</source>
-        <translation type="unfinished"/>
+        <translation>FFT sıfır dolgusu</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="70"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="75"/>
         <source>Full (auto)</source>
-        <translation type="unfinished"/>
+        <translation>Tam (otomatik)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="71"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="78"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="81"/>
         <source>Audible</source>
-        <translation type="unfinished"/>
+        <translation>Sesli</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="72"/>
         <source>Bass</source>
-        <translation type="unfinished"/>
+        <translation>Bas</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="73"/>
         <source>Mids</source>
-        <translation type="unfinished"/>
+        <translation>Ortalar</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="74"/>
         <source>High</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="77"/>
         <source>Extended</source>
-        <translation type="unfinished"/>
+        <translation>Genişletilmiş</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="79"/>
         <source>Loud</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="80"/>
         <source>Silent</source>
-        <translation type="unfinished"/>
+        <translation>Sessiz</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="89"/>
         <source>(High time res.)</source>
-        <translation type="unfinished"/>
+        <translation>(Yüksek zaman çözünürlüğü)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="93"/>
         <source>(High freq. res.)</source>
-        <translation type="unfinished"/>
+        <translation>(Yüksek frekans çözünürlüğü)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="103"/>
         <source>Rectangular (Off)</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen (Kapalı)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="104"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="107"/>
         <source>Blackman-Harris (Default)</source>
-        <translation type="unfinished"/>
+        <translation>Blackman-Harris (Varsayılan)</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="105"/>
         <source>Hamming</source>
-        <translation type="unfinished"/>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="106"/>
         <source>Hanning</source>
-        <translation type="unfinished"/>
+        <translation>Hanning</translation>
     </message>
 </context>
 <context>
@@ -7805,67 +7839,67 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="368"/>
         <source>Fail to open file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açılamadı</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="369"/>
         <source>Audio files are limited to %1 MB in size and %2 minutes of playing time</source>
-        <translation type="unfinished"/>
+        <translation>Ses dosyalarının boyutu %1 MB ve %2 dakika oynatma süresiyle sınırlıdır</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1124"/>
         <source>Open audio file</source>
-        <translation type="unfinished"/>
+        <translation>Ses dosyasını aç</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1151"/>
         <source>All Audio-Files (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Ses Dosyaları (*.wav *.ogg *.ds *.flac *.spx *.voc *.aif *.aiff *.au *.raw)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1153"/>
         <source>Wave-Files (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Wave Dosyaları (*.wav)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1154"/>
         <source>OGG-Files (*.ogg)</source>
-        <translation type="unfinished"/>
+        <translation>OGG Dosyaları (*.ogg)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1155"/>
         <source>DrumSynth-Files (*.ds)</source>
-        <translation type="unfinished"/>
+        <translation>DrumSynth Dosyaları (*.ds)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1156"/>
         <source>FLAC-Files (*.flac)</source>
-        <translation type="unfinished"/>
+        <translation>FLAC Dosyaları (*.flac)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1157"/>
         <source>SPEEX-Files (*.spx)</source>
-        <translation type="unfinished"/>
+        <translation>SPEEX Dosyaları (*.spx)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1160"/>
         <source>VOC-Files (*.voc)</source>
-        <translation type="unfinished"/>
+        <translation>VOC Dosyaları (*.voc)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1161"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
-        <translation type="unfinished"/>
+        <translation>AIFF Dosyaları (*.aif *.aiff)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1162"/>
         <source>AU-Files (*.au)</source>
-        <translation type="unfinished"/>
+        <translation>AU Dosyaları (*.au)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1163"/>
         <source>RAW-Files (*.raw)</source>
-        <translation type="unfinished"/>
+        <translation>RAW Dosyaları (*.raw)</translation>
     </message>
 </context>
 <context>
@@ -7873,23 +7907,23 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="49"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="50"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="51"/>
         <source>Mixer channel</source>
-        <translation type="unfinished"/>
+        <translation>FX kanalı</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="52"/>
         <location filename="../../src/tracks/SampleTrack.cpp" line="55"/>
         <source>Sample track</source>
-        <translation type="unfinished"/>
+        <translation>Örnek parça</translation>
     </message>
 </context>
 <context>
@@ -7897,7 +7931,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/Scale.cpp" line="76"/>
         <source>empty</source>
-        <translation type="unfinished"/>
+        <translation>boş</translation>
     </message>
 </context>
 <context>
@@ -7905,72 +7939,72 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="104"/>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>Yuva</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="105"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Yama</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="106"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="107"/>
         <source>Reverb</source>
-        <translation type="unfinished"/>
+        <translation>Yankı</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="108"/>
         <source>Reverb room size</source>
-        <translation type="unfinished"/>
+        <translation>Yankı odası boyutu</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="109"/>
         <source>Reverb damping</source>
-        <translation type="unfinished"/>
+        <translation>Yankı sönümleme</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="110"/>
         <source>Reverb width</source>
-        <translation type="unfinished"/>
+        <translation>Yankı genişliği</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="111"/>
         <source>Reverb level</source>
-        <translation type="unfinished"/>
+        <translation>Yankı seviyesi</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="112"/>
         <source>Chorus</source>
-        <translation type="unfinished"/>
+        <translation>Koro</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="113"/>
         <source>Chorus voices</source>
-        <translation type="unfinished"/>
+        <translation>Koro sesleri</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="114"/>
         <source>Chorus level</source>
-        <translation type="unfinished"/>
+        <translation>Koro seviyesi</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="115"/>
         <source>Chorus speed</source>
-        <translation type="unfinished"/>
+        <translation>Koro hızı</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="116"/>
         <source>Chorus depth</source>
-        <translation type="unfinished"/>
+        <translation>Koro derinliği</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="417"/>
         <source>A soundfont %1 could not be loaded.</source>
-        <translation type="unfinished"/>
+        <translation>%1 ses yazı tipi yüklenemedi.</translation>
     </message>
 </context>
 <context>
@@ -7978,7 +8012,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/Sfxr/Sfxr.cpp" line="353"/>
         <source>Wave</source>
-        <translation type="unfinished"/>
+        <translation>Dalga</translation>
     </message>
 </context>
 <context>
@@ -7986,32 +8020,32 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="122"/>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Kesme frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="123"/>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Çınlama</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="124"/>
         <source>Filter type</source>
-        <translation type="unfinished"/>
+        <translation>Filtre tipi</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="127"/>
         <source>Voice 3 off</source>
-        <translation type="unfinished"/>
+        <translation>Ses 3 kapalı</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="128"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="129"/>
         <source>Chip model</source>
-        <translation type="unfinished"/>
+        <translation>Yonga modeli</translation>
     </message>
 </context>
 <context>
@@ -8019,47 +8053,47 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/Song.cpp" line="73"/>
         <source>Tempo</source>
-        <translation type="unfinished"/>
+        <translation>Tempo</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="76"/>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>Ana ses</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="77"/>
         <source>Master pitch</source>
-        <translation type="unfinished"/>
+        <translation>Ana sahne</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1040"/>
         <source>Aborting project load</source>
-        <translation type="unfinished"/>
+        <translation>Proje yüklemesi iptal ediliyor</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1041"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
-        <translation type="unfinished"/>
+        <translation>Proje dosyası, kötü amaçlı kod çalıştırmak için kullanılabilecek eklentilere giden yerel yolları içerir.</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1046"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
-        <translation type="unfinished"/>
+        <translation>Proje yüklenemiyor: Proje dosyası, eklentilere giden yerel yolları içerir.</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1212"/>
         <source>LMMS Error report</source>
-        <translation type="unfinished"/>
+        <translation>LMMS Hata raporu</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1509"/>
         <source> (repeated %1 times)</source>
-        <translation type="unfinished"/>
+        <translation> (%1 kez tekrarlandı)</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1516"/>
         <source>The following errors occurred while loading: </source>
-        <translation type="unfinished"/>
+        <translation>Yükleme sırasında aşağıdaki hatalar oluştu: </translation>
     </message>
 </context>
 <context>
@@ -8067,7 +8101,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/StereoEnhancer/StereoEnhancerControls.cpp" line="38"/>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Genişlik</translation>
     </message>
 </context>
 <context>
@@ -8075,22 +8109,22 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/StereoMatrix/StereoMatrixControls.cpp" line="38"/>
         <source>Left to Left</source>
-        <translation type="unfinished"/>
+        <translation>Soldan Sola</translation>
     </message>
     <message>
         <location filename="../../plugins/StereoMatrix/StereoMatrixControls.cpp" line="39"/>
         <source>Left to Right</source>
-        <translation type="unfinished"/>
+        <translation>Soldan sağa</translation>
     </message>
     <message>
         <location filename="../../plugins/StereoMatrix/StereoMatrixControls.cpp" line="40"/>
         <source>Right to Left</source>
-        <translation type="unfinished"/>
+        <translation>Sağdan sola</translation>
     </message>
     <message>
         <location filename="../../plugins/StereoMatrix/StereoMatrixControls.cpp" line="41"/>
         <source>Right to Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Doğru</translation>
     </message>
 </context>
 <context>
@@ -8098,12 +8132,12 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/Track.cpp" line="64"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Sustur</translation>
     </message>
     <message>
         <location filename="../../src/core/Track.cpp" line="65"/>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Tek</translation>
     </message>
 </context>
 <context>
@@ -8111,61 +8145,63 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="80"/>
         <source>Couldn&apos;t import file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya içe aktarılamadı</translation>
     </message>
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="81"/>
         <source>Couldn't find a filter for importing file %1.
 You should convert this file into a format supported by LMMS using another software.</source>
-        <translation type="unfinished"/>
+        <translation>%1 dosyasını içe aktarmak için bir filtre bulunamadı.
+Bu dosyayı başka bir yazılım kullanarak LMMS tarafından desteklenen bir biçime dönüştürmelisiniz.</translation>
     </message>
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="100"/>
         <source>Couldn&apos;t open file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açılamadı</translation>
     </message>
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="101"/>
         <source>Couldn't open file %1 for reading.
 Please make sure you have read-permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
+        <translation>%1 dosyası okumak için açılamadı.
+Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emin olun ve tekrar deneyin!</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="98"/>
         <source>Loading project...</source>
-        <translation type="unfinished"/>
+        <translation>Proje yükleniyor...</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="99"/>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="305"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="103"/>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="306"/>
         <source>Please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bekleyin...</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="120"/>
         <source>Loading cancelled</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme iptal edildi</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="121"/>
         <source>Project loading was cancelled.</source>
-        <translation type="unfinished"/>
+        <translation>Proje yüklemesi iptal edildi.</translation>
     </message>
     <message>
         <location filename="../../src/core/TrackContainer.cpp" line="138"/>
         <source>Loading Track %1 (%2/Total %3)</source>
-        <translation type="unfinished"/>
+        <translation>%1 Parça Yükleniyor (%2/Toplam %3)</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="304"/>
         <source>Importing MIDI-file...</source>
-        <translation type="unfinished"/>
+        <translation>MIDI dosyası içe aktarılıyor...</translation>
     </message>
 </context>
 <context>
@@ -8173,17 +8209,17 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Vectorscope/VecControls.cpp" line="41"/>
         <source>Display persistence amount</source>
-        <translation type="unfinished"/>
+        <translation>Kalıcılık miktarını göster</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControls.cpp" line="42"/>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmik ölçek</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControls.cpp" line="43"/>
         <source>High quality</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek kalite</translation>
     </message>
 </context>
 <context>
@@ -8191,12 +8227,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="360"/>
         <source>Loading plugin</source>
-        <translation type="unfinished"/>
+        <translation>Eklenti yükleniyor</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="361"/>
         <source>Please wait while loading the VST plugin...</source>
-        <translation type="unfinished"/>
+        <translation>VST eklentisini yüklerken lütfen bekleyin...</translation>
     </message>
 </context>
 <context>
@@ -8204,52 +8240,52 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="82"/>
         <source>String %1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Dize %1 hacmi</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="86"/>
         <source>String %1 stiffness</source>
-        <translation type="unfinished"/>
+        <translation>Dize %1 sertliği</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="90"/>
         <source>Pick %1 position</source>
-        <translation type="unfinished"/>
+        <translation>%1 pozisyon seçin</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="94"/>
         <source>Pickup %1 position</source>
-        <translation type="unfinished"/>
+        <translation>Alım %1 pozisyon</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="98"/>
         <source>String %1 panning</source>
-        <translation type="unfinished"/>
+        <translation>%1 dize kaydırma</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="102"/>
         <source>String %1 detune</source>
-        <translation type="unfinished"/>
+        <translation>%1 dize detune</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="106"/>
         <source>String %1 fuzziness</source>
-        <translation type="unfinished"/>
+        <translation>Dize %1 belirsizliği</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="110"/>
         <source>String %1 length</source>
-        <translation type="unfinished"/>
+        <translation>Dize %1 uzunluğu</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="114"/>
         <source>Impulse %1</source>
-        <translation type="unfinished"/>
+        <translation>Dürtü %1</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="118"/>
         <source>String %1</source>
-        <translation type="unfinished"/>
+        <translation>Dize %1</translation>
     </message>
 </context>
 <context>
@@ -8257,57 +8293,57 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="97"/>
         <source>Voice %1 pulse width</source>
-        <translation type="unfinished"/>
+        <translation>Ses %1 darbe genişliği</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="99"/>
         <source>Voice %1 attack</source>
-        <translation type="unfinished"/>
+        <translation>Ses %1 saldırısı</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="101"/>
         <source>Voice %1 decay</source>
-        <translation type="unfinished"/>
+        <translation>Ses %1 zayıflaması</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="103"/>
         <source>Voice %1 sustain</source>
-        <translation type="unfinished"/>
+        <translation>Ses %1 sürdür</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="105"/>
         <source>Voice %1 release</source>
-        <translation type="unfinished"/>
+        <translation>Ses %1 sürümü</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="107"/>
         <source>Voice %1 coarse detuning</source>
-        <translation type="unfinished"/>
+        <translation>Ses %1 kaba ince ayar</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="109"/>
         <source>Voice %1 wave shape</source>
-        <translation type="unfinished"/>
+        <translation>Ses %1 dalga şekli</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="111"/>
         <source>Voice %1 sync</source>
-        <translation type="unfinished"/>
+        <translation>Ses %1 senkronizasyonu</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="112"/>
         <source>Voice %1 ring modulate</source>
-        <translation type="unfinished"/>
+        <translation>Ses %1 zil sesi modülasyonu</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="113"/>
         <source>Voice %1 filtered</source>
-        <translation type="unfinished"/>
+        <translation>Ses %1 filtrelendi</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="114"/>
         <source>Voice %1 test</source>
-        <translation type="unfinished"/>
+        <translation>Ses %1 testi</translation>
     </message>
 </context>
 <context>
@@ -8316,58 +8352,58 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/Vestige/Vestige.cpp" line="372"/>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="141"/>
         <source>The VST plugin %1 could not be loaded.</source>
-        <translation type="unfinished"/>
+        <translation>%1 VST eklentisi yüklenemedi.</translation>
     </message>
     <message>
         <location filename="../../plugins/VstBase/VstPlugin.cpp" line="507"/>
         <source>Open Preset</source>
-        <translation type="unfinished"/>
+        <translation>Ön Ayarı Aç</translation>
     </message>
     <message>
         <location filename="../../plugins/VstBase/VstPlugin.cpp" line="507"/>
         <location filename="../../plugins/VstBase/VstPlugin.cpp" line="583"/>
         <source>VST Plugin Preset (*.fxp *.fxb)</source>
-        <translation type="unfinished"/>
+        <translation>VST Eklenti Ön Ayarı (*.fxp *.fxb)</translation>
     </message>
     <message>
         <location filename="../../plugins/VstBase/VstPlugin.cpp" line="579"/>
         <source>: default</source>
-        <translation type="unfinished"/>
+        <translation>: öntanımlı</translation>
     </message>
     <message>
         <location filename="../../plugins/VstBase/VstPlugin.cpp" line="582"/>
         <source>Save Preset</source>
-        <translation type="unfinished"/>
+        <translation>Önayarı Kaydet</translation>
     </message>
     <message>
         <location filename="../../plugins/VstBase/VstPlugin.cpp" line="582"/>
         <source>.fxp</source>
-        <translation type="unfinished"/>
+        <translation>.fxp</translation>
     </message>
     <message>
         <location filename="../../plugins/VstBase/VstPlugin.cpp" line="597"/>
         <source>.FXP</source>
-        <translation type="unfinished"/>
+        <translation>.FXP</translation>
     </message>
     <message>
         <location filename="../../plugins/VstBase/VstPlugin.cpp" line="597"/>
         <source>.FXB</source>
-        <translation type="unfinished"/>
+        <translation>.FXB</translation>
     </message>
     <message>
         <location filename="../../plugins/VstBase/VstPlugin.cpp" line="599"/>
         <source>.fxb</source>
-        <translation type="unfinished"/>
+        <translation>.fxb</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="130"/>
         <source>Loading plugin</source>
-        <translation type="unfinished"/>
+        <translation>Eklenti yükleniyor</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="131"/>
         <source>Please wait while loading VST plugin...</source>
-        <translation type="unfinished"/>
+        <translation>VST eklentisi yüklenirken lütfen bekleyin...</translation>
     </message>
 </context>
 <context>
@@ -8375,147 +8411,147 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="238"/>
         <source>Volume A1</source>
-        <translation type="unfinished"/>
+        <translation>Düzey A1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="239"/>
         <source>Volume A2</source>
-        <translation type="unfinished"/>
+        <translation>Düzey A2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="240"/>
         <source>Volume B1</source>
-        <translation type="unfinished"/>
+        <translation>Düzey B1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="241"/>
         <source>Volume B2</source>
-        <translation type="unfinished"/>
+        <translation>Düzey B2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="243"/>
         <source>Panning A1</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma A1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="244"/>
         <source>Panning A2</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma A2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="245"/>
         <source>Panning B1</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma B1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="246"/>
         <source>Panning B2</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma B2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="248"/>
         <source>Freq. multiplier A1</source>
-        <translation type="unfinished"/>
+        <translation>Frekans. çarpan A1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="249"/>
         <source>Freq. multiplier A2</source>
-        <translation type="unfinished"/>
+        <translation>Frekans. çarpan A2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="250"/>
         <source>Freq. multiplier B1</source>
-        <translation type="unfinished"/>
+        <translation>Frekans. çarpan B1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="251"/>
         <source>Freq. multiplier B2</source>
-        <translation type="unfinished"/>
+        <translation>Frekans. çarpan B2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="253"/>
         <source>Left detune A1</source>
-        <translation type="unfinished"/>
+        <translation>Sol detune A1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="254"/>
         <source>Left detune A2</source>
-        <translation type="unfinished"/>
+        <translation>Sol detune A2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="255"/>
         <source>Left detune B1</source>
-        <translation type="unfinished"/>
+        <translation>Sol detune B1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="256"/>
         <source>Left detune B2</source>
-        <translation type="unfinished"/>
+        <translation>Sol detune B2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="258"/>
         <source>Right detune A1</source>
-        <translation type="unfinished"/>
+        <translation>Sağ detune A1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="259"/>
         <source>Right detune A2</source>
-        <translation type="unfinished"/>
+        <translation>Sağ detune A2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="260"/>
         <source>Right detune B1</source>
-        <translation type="unfinished"/>
+        <translation>Sağ detune B1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="261"/>
         <source>Right detune B2</source>
-        <translation type="unfinished"/>
+        <translation>Sağ detune B2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="268"/>
         <source>A-B Mix</source>
-        <translation type="unfinished"/>
+        <translation>A-B Karışımı</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="269"/>
         <source>A-B Mix envelope amount</source>
-        <translation type="unfinished"/>
+        <translation>A-B Karışık zarf miktarı</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="271"/>
         <source>A-B Mix envelope attack</source>
-        <translation type="unfinished"/>
+        <translation>A-B Karışık zarf saldırısı</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="272"/>
         <source>A-B Mix envelope hold</source>
-        <translation type="unfinished"/>
+        <translation>A-B Karışık zarf tutma</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="273"/>
         <source>A-B Mix envelope decay</source>
-        <translation type="unfinished"/>
+        <translation>A-B Karışım zarf bozunması</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="275"/>
         <source>A1-B2 Crosstalk</source>
-        <translation type="unfinished"/>
+        <translation>A1-B2 Çapraz Karışma</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="277"/>
         <source>A2-A1 modulation</source>
-        <translation type="unfinished"/>
+        <translation>A2-A1 modülasyonu</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="278"/>
         <source>B2-B1 modulation</source>
-        <translation type="unfinished"/>
+        <translation>B2-B1 modülasyonu</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="280"/>
         <source>Selected graph</source>
-        <translation type="unfinished"/>
+        <translation>Seçili grafik</translation>
     </message>
 </context>
 <context>
@@ -8523,12 +8559,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControls.cpp" line="45"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControls.cpp" line="46"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı</translation>
     </message>
 </context>
 <context>
@@ -8536,52 +8572,52 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="92"/>
         <source>Selected graph</source>
-        <translation type="unfinished"/>
+        <translation>Seçili grafik</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="93"/>
         <source>A1</source>
-        <translation type="unfinished"/>
+        <translation>A1</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="94"/>
         <source>A2</source>
-        <translation type="unfinished"/>
+        <translation>A2</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="95"/>
         <source>A3</source>
-        <translation type="unfinished"/>
+        <translation>A3</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="96"/>
         <source>W1 smoothing</source>
-        <translation type="unfinished"/>
+        <translation>W1 yumuşatma</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="97"/>
         <source>W2 smoothing</source>
-        <translation type="unfinished"/>
+        <translation>W2 yumuşatma</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="98"/>
         <source>W3 smoothing</source>
-        <translation type="unfinished"/>
+        <translation>W3 yumuşatma</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="102"/>
         <source>Panning 1</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="103"/>
         <source>Panning 2</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="104"/>
         <source>Rel trans</source>
-        <translation type="unfinished"/>
+        <translation>Rel trans</translation>
     </message>
 </context>
 <context>
@@ -8589,42 +8625,42 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="111"/>
         <source>Portamento</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="112"/>
         <source>Filter frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frekans filtresi</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="113"/>
         <source>Filter resonance</source>
-        <translation type="unfinished"/>
+        <translation>Rezonans filtresi</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="114"/>
         <source>Bandwidth</source>
-        <translation type="unfinished"/>
+        <translation>Bant genişliği</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="115"/>
         <source>FM gain</source>
-        <translation type="unfinished"/>
+        <translation>FM kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="116"/>
         <source>Resonance center frequency</source>
-        <translation type="unfinished"/>
+        <translation>Rezonans merkez frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="117"/>
         <source>Resonance bandwidth</source>
-        <translation type="unfinished"/>
+        <translation>Rezonans bant genişliği</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="118"/>
         <source>Forward MIDI control change events</source>
-        <translation type="unfinished"/>
+        <translation>MIDI kontrol değişikliği olaylarını iletme</translation>
     </message>
 </context>
 <context>
@@ -8632,7 +8668,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/widgets/Graph.cpp" line="463"/>
         <source>Graph</source>
-        <translation type="unfinished"/>
+        <translation>Grafik</translation>
     </message>
 </context>
 <context>
@@ -8640,42 +8676,42 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="50"/>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>SES</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="51"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="56"/>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="57"/>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="63"/>
         <source>LEFT</source>
-        <translation type="unfinished"/>
+        <translation>SOL</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="64"/>
         <source>Left gain:</source>
-        <translation type="unfinished"/>
+        <translation>Sol kazanç:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="70"/>
         <source>RIGHT</source>
-        <translation type="unfinished"/>
+        <translation>SAĞ</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="71"/>
         <source>Right gain:</source>
-        <translation type="unfinished"/>
+        <translation>Sağ kazanç:</translation>
     </message>
 </context>
 <context>
@@ -8683,12 +8719,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/AudioAlsaSetupWidget.cpp" line="70"/>
         <source>DEVICE</source>
-        <translation type="unfinished"/>
+        <translation>AYGIT</translation>
     </message>
     <message>
         <location filename="../../src/gui/AudioAlsaSetupWidget.cpp" line="82"/>
         <source>CHANNELS</source>
-        <translation type="unfinished"/>
+        <translation>KANALLAR</translation>
     </message>
 </context>
 <context>
@@ -8696,52 +8732,52 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="469"/>
         <source>Open sample</source>
-        <translation type="unfinished"/>
+        <translation>Örnek açın</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="478"/>
         <source>Reverse sample</source>
-        <translation type="unfinished"/>
+        <translation>Ters örnek</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="489"/>
         <source>Disable loop</source>
-        <translation type="unfinished"/>
+        <translation>Döngüyü kapat</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="498"/>
         <source>Enable loop</source>
-        <translation type="unfinished"/>
+        <translation>Döngüyü aç</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="507"/>
         <source>Enable ping-pong loop</source>
-        <translation type="unfinished"/>
+        <translation>Ping-pong döngüsünü etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="522"/>
         <source>Continue sample playback across notes</source>
-        <translation type="unfinished"/>
+        <translation>Örneği notalar arasında oynatmaya devam et</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="527"/>
         <source>Amplify:</source>
-        <translation type="unfinished"/>
+        <translation>Güçlendirin:</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="531"/>
         <source>Start point:</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç noktası:</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="535"/>
         <source>End point:</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş noktası:</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="539"/>
         <source>Loopback point:</source>
-        <translation type="unfinished"/>
+        <translation>Geri döngü noktası:</translation>
     </message>
 </context>
 <context>
@@ -8749,7 +8785,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="981"/>
         <source>Sample length:</source>
-        <translation type="unfinished"/>
+        <translation>Örnek uzunluğu:</translation>
     </message>
 </context>
 <context>
@@ -8757,52 +8793,52 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/clips/AutomationClipView.cpp" line="169"/>
         <source>Open in Automation editor</source>
-        <translation type="unfinished"/>
+        <translation>Ayarkayıt Düzenleyici&apos;de aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/AutomationClipView.cpp" line="177"/>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Temizle</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/AutomationClipView.cpp" line="180"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>İsmini sıfırla</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/AutomationClipView.cpp" line="183"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>İsmini değiştir</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/AutomationClipView.cpp" line="186"/>
         <source>Set/clear record</source>
-        <translation type="unfinished"/>
+        <translation>Kayıdı başlat/durdur</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/AutomationClipView.cpp" line="189"/>
         <source>Flip Vertically (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Yönde Çevir (Görünür)</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/AutomationClipView.cpp" line="192"/>
         <source>Flip Horizontally (Visible)</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Yönde Çevir (Görünür)</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/AutomationClipView.cpp" line="197"/>
         <source>%1 Connections</source>
-        <translation type="unfinished"/>
+        <translation>%1 Bağlantı</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/AutomationClipView.cpp" line="202"/>
         <source>Disconnect &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Şunun bağlantısını kes: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/AutomationClipView.cpp" line="439"/>
         <source>Model is already connected to this clip.</source>
-        <translation type="unfinished"/>
+        <translation>Model zaten bu desene bağlanmış.</translation>
     </message>
 </context>
 <context>
@@ -8810,22 +8846,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="410"/>
         <source>Edit Value</source>
-        <translation type="unfinished"/>
+        <translation>Değeri Düzenleyin</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="412"/>
         <source>New outValue</source>
-        <translation type="unfinished"/>
+        <translation>Yeni çıkış değeri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="413"/>
         <source>New inValue</source>
-        <translation type="unfinished"/>
+        <translation>Yeni giriş Değeri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1228"/>
         <source>Please open an automation clip with the context menu of a control!</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bir kontrolün içerik menüsü ile bir otomasyon modeli açın!</translation>
     </message>
 </context>
 <context>
@@ -8833,114 +8869,114 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1834"/>
         <source>Play/pause current clip (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Seçili bölümü oynat/durdur (Boşluk Tuşu)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1836"/>
         <source>Stop playing of current clip (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Seçili modeli oynatmayı durdur (Boşluk Tuşu)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1839"/>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>İşlemleri düzenle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1842"/>
         <source>Draw mode (Shift+D)</source>
-        <translation type="unfinished"/>
+        <translation>Çizim modu (Shift+D)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1846"/>
         <source>Erase mode (Shift+E)</source>
-        <translation type="unfinished"/>
+        <translation>Silgi modu (Shift+E)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1849"/>
         <source>Draw outValues mode (Shift+C)</source>
-        <translation type="unfinished"/>
+        <translation>Değerleri çiz modu (Shift+C)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1852"/>
         <source>Flip vertically</source>
-        <translation type="unfinished"/>
+        <translation>Dikey çevir</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1853"/>
         <source>Flip horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Yatay çevir</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1864"/>
         <source>Interpolation controls</source>
-        <translation type="unfinished"/>
+        <translation>Enterpolasyon kontrolleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1869"/>
         <source>Discrete progression</source>
-        <translation type="unfinished"/>
+        <translation>Kesikli ilerleme</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1873"/>
         <source>Linear progression</source>
-        <translation type="unfinished"/>
+        <translation>Doğrusal ilerleme</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1875"/>
         <source>Cubic Hermite progression</source>
-        <translation type="unfinished"/>
+        <translation>Kübik Hermite ilerleme</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1882"/>
         <source>Tension value for spline</source>
-        <translation type="unfinished"/>
+        <translation>Sapma için gerilim değeri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1891"/>
         <source>Tension: </source>
-        <translation type="unfinished"/>
+        <translation>Gerginlik: </translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1899"/>
         <source>Zoom controls</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştırma kontrolleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1906"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Yatay yakınlaştırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1924"/>
         <source>Vertical zooming</source>
-        <translation type="unfinished"/>
+        <translation>Dikey yakınlaştırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1945"/>
         <source>Quantization controls</source>
-        <translation type="unfinished"/>
+        <translation>Niceleme kontrolleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1952"/>
         <source>Quantization</source>
-        <translation type="unfinished"/>
+        <translation>Niceleme</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1983"/>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2098"/>
         <source>Automation Editor - no clip</source>
-        <translation type="unfinished"/>
+        <translation>Ayarkayıt Düzenleyici - oluşturulmuş bölüm yok</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1987"/>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2102"/>
         <source>Automation Editor - %1</source>
-        <translation type="unfinished"/>
+        <translation>Ayarkayıt Düzenleyici - %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2039"/>
         <source>Model is already connected to this clip.</source>
-        <translation type="unfinished"/>
+        <translation>Model zaten bu desene bağlanmış.</translation>
     </message>
 </context>
 <context>
@@ -8948,32 +8984,32 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="55"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREK</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="56"/>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Frekans:</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="60"/>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>GAIN</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="61"/>
         <source>Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç:</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="65"/>
         <source>RATIO</source>
-        <translation type="unfinished"/>
+        <translation>ORAN</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="66"/>
         <source>Ratio:</source>
-        <translation type="unfinished"/>
+        <translation>Oran:</translation>
     </message>
 </context>
 <context>
@@ -8981,64 +9017,64 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="351"/>
         <source>Sample length</source>
-        <translation type="unfinished"/>
+        <translation>Örnek uzunluğu</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="358"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation type="unfinished"/>
+        <translation>Farenizi bu grafiğin üzerine sürükleyerek buraya kendi dalga formunuzu çizin.</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="369"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="376"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Sinüs dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="378"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="385"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Üçgen dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="387"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="394"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Testere dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="396"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="403"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Kare dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="406"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="413"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz gürültü</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="415"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="422"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı tanımlı dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="424"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="431"/>
         <source>Smooth waveform</source>
-        <translation type="unfinished"/>
+        <translation>Düzgün dalga formu</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="435"/>
         <source>Interpolation</source>
-        <translation type="unfinished"/>
+        <translation>Aradeğerleme</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="440"/>
         <source>Normalize</source>
-        <translation type="unfinished"/>
+        <translation>Normalleştir</translation>
     </message>
 </context>
 <context>
@@ -9046,98 +9082,98 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="49"/>
         <source>IN</source>
-        <translation type="unfinished"/>
+        <translation>İÇİNDE</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="52"/>
         <source>OUT</source>
-        <translation type="unfinished"/>
+        <translation>OUT</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="59"/>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="73"/>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>GAIN</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="60"/>
         <source>Input gain:</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kazancı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="65"/>
         <source>NOISE</source>
-        <translation type="unfinished"/>
+        <translation>PARAZİT</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="66"/>
         <source>Input noise:</source>
-        <translation type="unfinished"/>
+        <translation>Giriş gürültüsü:</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="74"/>
         <source>Output gain:</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="79"/>
         <source>CLIP</source>
-        <translation type="unfinished"/>
+        <translation>KIRP</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="80"/>
         <source>Output clip:</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı klibi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="85"/>
         <source>Rate enabled</source>
-        <translation type="unfinished"/>
+        <translation>Oran etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="88"/>
         <source>Enable sample-rate crushing</source>
-        <translation type="unfinished"/>
+        <translation>Örnek hızında ezmeyi etkinleştirin</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="90"/>
         <source>Depth enabled</source>
-        <translation type="unfinished"/>
+        <translation>Derinlik etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="93"/>
         <source>Enable bit-depth crushing</source>
-        <translation type="unfinished"/>
+        <translation>Bit derinliğinde ezmeyi etkinleştirin</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="100"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREK</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="101"/>
         <source>Sample rate:</source>
-        <translation type="unfinished"/>
+        <translation>Örnekleme oranı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="106"/>
         <source>STEREO</source>
-        <translation type="unfinished"/>
+        <translation>STEREO</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="107"/>
         <source>Stereo difference:</source>
-        <translation type="unfinished"/>
+        <translation>Stereo farklılığı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="114"/>
         <source>QUANT</source>
-        <translation type="unfinished"/>
+        <translation>MİKTAR</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="115"/>
         <source>Levels:</source>
-        <translation type="unfinished"/>
+        <translation>Düzey:</translation>
     </message>
 </context>
 <context>
@@ -9145,22 +9181,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/CarlaBase/Carla.cpp" line="634"/>
         <source>Show GUI</source>
-        <translation type="unfinished"/>
+        <translation>Görselli Arayüzü Göster</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/Carla.cpp" line="642"/>
         <source>Click here to show or hide the graphical user interface (GUI) of Carla.</source>
-        <translation type="unfinished"/>
+        <translation>Carla&apos;nın grafiksel kullanıcı arayüzünü (GUI) göstermek veya gizlemek için buraya tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/Carla.cpp" line="645"/>
         <source>Params</source>
-        <translation type="unfinished"/>
+        <translation>Parametreler</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/Carla.cpp" line="651"/>
         <source>Available from Carla version 2.1 and up.</source>
-        <translation type="unfinished"/>
+        <translation>Carla sürüm 2.1 ve üzeri sürümlerde mevcuttur.</translation>
     </message>
 </context>
 <context>
@@ -9168,22 +9204,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/CarlaBase/Carla.cpp" line="766"/>
         <source>Search..</source>
-        <translation type="unfinished"/>
+        <translation>Ara..</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/Carla.cpp" line="772"/>
         <source>Clear filter text</source>
-        <translation type="unfinished"/>
+        <translation>Filtre metnini temizle</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/Carla.cpp" line="780"/>
         <source>Only show knobs with a connection.</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca bağlantılı düğmeleri gösterin.</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/Carla.cpp" line="878"/>
         <source> - Parameters</source>
-        <translation type="unfinished"/>
+        <translation> - Parametreler</translation>
     </message>
 </context>
 <context>
@@ -9191,103 +9227,103 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="705"/>
         <source>Current position</source>
-        <translation type="unfinished"/>
+        <translation>Şu anki pozisyon</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="713"/>
         <source>Current length</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut uzunluk</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="714"/>
         <location filename="../../src/gui/clips/ClipView.cpp" line="979"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2 (%3:%4 to %5:%6)</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="733"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
-        <translation type="unfinished"/>
+        <translation>Bir kopya oluşturmak için &lt;%1&gt; tuşuna basın ve sürükleyin.</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="734"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
-        <translation type="unfinished"/>
+        <translation>Serbest yeniden boyutlandırma için &lt;%1&gt; seçeneğine basın.</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="735"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1078"/>
         <source>Delete (middle mousebutton)</source>
-        <translation type="unfinished"/>
+        <translation>Sil (orta klik)</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1079"/>
         <source>Delete selection (middle mousebutton)</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi sil (orta fare düğmesi)</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1087"/>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Kes</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1088"/>
         <source>Cut selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi Kes</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1095"/>
         <source>Merge Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi Birleştir</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1104"/>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopya</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1105"/>
         <source>Copy selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi Kopyala</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1110"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1118"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
-        <translation type="unfinished"/>
+        <translation>Sesi kapat/sesi aç (&lt;%1&gt; + orta tıklama)</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1119"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
-        <translation type="unfinished"/>
+        <translation>Seçimin sesini kapat/aç (&lt;%1&gt; + orta tıklama)</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1124"/>
         <source>Clip color</source>
-        <translation type="unfinished"/>
+        <translation>Klip rengi</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1126"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1127"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Sıfırla</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1128"/>
         <source>Pick random</source>
-        <translation type="unfinished"/>
+        <translation>Rastgele seç</translation>
     </message>
 </context>
 <context>
@@ -9295,354 +9331,354 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="99"/>
         <source>Threshold:</source>
-        <translation type="unfinished"/>
+        <translation>Eşik:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="101"/>
         <source>Volume at which the compression begins to take place</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştırmanın gerçekleşmeye başladığı düzey</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="104"/>
         <source>Ratio:</source>
-        <translation type="unfinished"/>
+        <translation>Oran:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="106"/>
         <source>How far the compressor must turn the volume down after crossing the threshold</source>
-        <translation type="unfinished"/>
+        <translation>Eşiği geçtikten sonra kompresörün hacmi ne kadar azaltması gerekir</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="109"/>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Saldırı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="111"/>
         <source>Speed at which the compressor starts to compress the audio</source>
-        <translation type="unfinished"/>
+        <translation>Kompresörün sesi sıkıştırmaya başladığı hız</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="114"/>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>Yayınla:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="116"/>
         <source>Speed at which the compressor ceases to compress the audio</source>
-        <translation type="unfinished"/>
+        <translation>Kompresörün sesi sıkıştırmayı bıraktığı hız</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="119"/>
         <source>Knee:</source>
-        <translation type="unfinished"/>
+        <translation>Diz:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="121"/>
         <source>Smooth out the gain reduction curve around the threshold</source>
-        <translation type="unfinished"/>
+        <translation>Eşiğin etrafındaki kazanç azaltma eğrisini düzeltin</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="124"/>
         <source>Range:</source>
-        <translation type="unfinished"/>
+        <translation>Menzil:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="126"/>
         <source>Maximum gain reduction</source>
-        <translation type="unfinished"/>
+        <translation>Maksimum kazanç azaltma</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="129"/>
         <source>Lookahead Length:</source>
-        <translation type="unfinished"/>
+        <translation>Önden Bakış Uzunluğu:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="131"/>
         <source>How long the compressor has to react to the sidechain signal ahead of time</source>
-        <translation type="unfinished"/>
+        <translation>Kompresörün yan zincir sinyaline vaktinden önce ne kadar süre tepki vermesi gerekir</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="134"/>
         <source>Hold:</source>
-        <translation type="unfinished"/>
+        <translation>Ambar:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="136"/>
         <source>Delay between attack and release stages</source>
-        <translation type="unfinished"/>
+        <translation>Saldırı ve serbest bırakma aşamaları arasındaki gecikme</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="139"/>
         <source>RMS Size:</source>
-        <translation type="unfinished"/>
+        <translation>RMS Boyutu:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="141"/>
         <source>Size of the RMS buffer</source>
-        <translation type="unfinished"/>
+        <translation>RMS arabelleğinin boyutu</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="144"/>
         <source>Input Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Dengesi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="146"/>
         <source>Bias the input audio to the left/right or mid/side</source>
-        <translation type="unfinished"/>
+        <translation>Giriş sesini sola / sağa veya ortaya / yana çevirin</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="149"/>
         <source>Output Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı Dengesi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="151"/>
         <source>Bias the output audio to the left/right or mid/side</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış sesini sola / sağa veya ortaya / tarafa çevirin</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="154"/>
         <source>Stereo Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Çift kanal Dengesi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="156"/>
         <source>Bias the sidechain signal to the left/right or mid/side</source>
-        <translation type="unfinished"/>
+        <translation>Yan zincir sinyalini sola / sağa veya ortaya / yana çevirin</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="159"/>
         <source>Stereo Link Blend:</source>
-        <translation type="unfinished"/>
+        <translation>Çift kanal Bağlantı Karışımı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="161"/>
         <source>Blend between unlinked/maximum/average/minimum stereo linking modes</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantısız / maksimum / ortalama / minimum çift kanal bağlantı modları arasında uyum sağlayın</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="164"/>
         <source>Tilt Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Eğim Kazancı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="166"/>
         <source>Bias the sidechain signal to the low or high frequencies.  -6 db is lowpass, 6 db is highpass.</source>
-        <translation type="unfinished"/>
+        <translation>Yan zincir sinyalini düşük veya yüksek frekanslara yönlendirin.  -6 db alçak geçiş, 6 db yüksek geçiştir.</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="169"/>
         <source>Tilt Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Eğim Frekansı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="171"/>
         <source>Center frequency of sidechain tilt filter</source>
-        <translation type="unfinished"/>
+        <translation>Yan zincir eğim filtresinin merkez frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="174"/>
         <source>Mix:</source>
-        <translation type="unfinished"/>
+        <translation>Karıştır:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="176"/>
         <source>Balance between wet and dry signals</source>
-        <translation type="unfinished"/>
+        <translation>Islak ve kuru sinyaller arasında denge</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="179"/>
         <source>Auto Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Saldırı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="181"/>
         <source>Automatically control attack value depending on crest factor</source>
-        <translation type="unfinished"/>
+        <translation>Crest faktörüne bağlı olarak saldırı değerini otomatik olarak kontrol edin</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="184"/>
         <source>Auto Release:</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yayın:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="186"/>
         <source>Automatically control release value depending on crest factor</source>
-        <translation type="unfinished"/>
+        <translation>Crest faktörüne bağlı olarak serbest bırakma değerini otomatik olarak kontrol edin</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="188"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="191"/>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="197"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="192"/>
         <source>Output volume</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış Düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="194"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="198"/>
         <source>Input volume</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="200"/>
         <source>Root Mean Square</source>
-        <translation type="unfinished"/>
+        <translation>Kök kare ortalama</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="203"/>
         <source>Use RMS of the input</source>
-        <translation type="unfinished"/>
+        <translation>Girişin RMS&apos;sini kullanın</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="205"/>
         <source>Peak</source>
-        <translation type="unfinished"/>
+        <translation>Zirve</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="208"/>
         <source>Use absolute value of the input</source>
-        <translation type="unfinished"/>
+        <translation>Girişin mutlak değerini kullan</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="215"/>
         <source>Left/Right</source>
-        <translation type="unfinished"/>
+        <translation>Sol/Sağ</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="218"/>
         <source>Compress left and right audio</source>
-        <translation type="unfinished"/>
+        <translation>Sol ve sağ sesi sıkıştır</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="220"/>
         <source>Mid/Side</source>
-        <translation type="unfinished"/>
+        <translation>Orta/Yan</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="223"/>
         <source>Compress mid and side audio</source>
-        <translation type="unfinished"/>
+        <translation>Orta ve yan sesi sıkıştır</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="230"/>
         <source>Compressor</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştırıcı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="233"/>
         <source>Compress the audio</source>
-        <translation type="unfinished"/>
+        <translation>Sesi sıkıştır</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="235"/>
         <source>Limiter</source>
-        <translation type="unfinished"/>
+        <translation>Sınırlayıcı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="238"/>
         <source>Set Ratio to infinity (is not guaranteed to limit audio volume)</source>
-        <translation type="unfinished"/>
+        <translation>Oranı sonsuza ayarla (ses seviyesini sınırlaması garanti edilmez)</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="245"/>
         <source>Unlinked</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantısız</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="248"/>
         <source>Compress each channel separately</source>
-        <translation type="unfinished"/>
+        <translation>Her kanalı ayrı ayrı sıkıştırın</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="250"/>
         <source>Maximum</source>
-        <translation type="unfinished"/>
+        <translation>En Çok</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="253"/>
         <source>Compress based on the loudest channel</source>
-        <translation type="unfinished"/>
+        <translation>En gürültülü kanala göre sıkıştır</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="255"/>
         <source>Average</source>
-        <translation type="unfinished"/>
+        <translation>Ortalama</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="258"/>
         <source>Compress based on the averaged channel volume</source>
-        <translation type="unfinished"/>
+        <translation>Ortalama kanal hacmine göre sıkıştır</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="260"/>
         <source>Minimum</source>
-        <translation type="unfinished"/>
+        <translation>En Az</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="263"/>
         <source>Compress based on the quietest channel</source>
-        <translation type="unfinished"/>
+        <translation>En sessiz kanala göre sıkıştırın</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="265"/>
         <source>Blend</source>
-        <translation type="unfinished"/>
+        <translation>Harman</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="268"/>
         <source>Blend between stereo linking modes</source>
-        <translation type="unfinished"/>
+        <translation>Stereo bağlantı modları arasında uyum sağlayın</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="278"/>
         <source>Auto Makeup Gain</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Makyaj Kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="281"/>
         <source>Automatically change makeup gain depending on threshold, knee, and ratio settings</source>
-        <translation type="unfinished"/>
+        <translation>Eşik, diz ve oran ayarlarına bağlı olarak makyaj kazancını otomatik olarak değiştirin</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="285"/>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="292"/>
         <source>Soft Clip</source>
-        <translation type="unfinished"/>
+        <translation>Yumuşak Kırpılma</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="288"/>
         <source>Play the delta signal</source>
-        <translation type="unfinished"/>
+        <translation>Delta sinyalini çal</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="295"/>
         <source>Use the compressor&apos;s output as the sidechain input</source>
-        <translation type="unfinished"/>
+        <translation>Yan zincir girişi olarak kompresörün çıktısını kullanın</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="299"/>
         <source>Lookahead Enabled</source>
-        <translation type="unfinished"/>
+        <translation>İleri Bakış Etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="302"/>
         <source>Enable Lookahead, which introduces 20 milliseconds of latency</source>
-        <translation type="unfinished"/>
+        <translation>20 milisaniyelik gecikme süresi sağlayan Lookahead&apos;i etkinleştirin</translation>
     </message>
 </context>
 <context>
@@ -9650,73 +9686,73 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="138"/>
         <source>Connection Settings</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Ayarları</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="142"/>
         <source>MIDI CONTROLLER</source>
-        <translation type="unfinished"/>
+        <translation>MIDI KONTROLÖR</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="148"/>
         <source>Input channel</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kanalı</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="150"/>
         <source>CHANNEL</source>
-        <translation type="unfinished"/>
+        <translation>KANAL</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="154"/>
         <source>Input controller</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kontrolörü</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="156"/>
         <source>CONTROLLER</source>
-        <translation type="unfinished"/>
+        <translation>KONTROLÖR</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="161"/>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="162"/>
         <source>Auto Detect</source>
-        <translation type="unfinished"/>
+        <translation>Oto-Tespit</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="176"/>
         <source>MIDI-devices to receive MIDI-events from</source>
-        <translation type="unfinished"/>
+        <translation>MIDI olaylarını almak için MIDI cihazları</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="186"/>
         <source>USER CONTROLLER</source>
-        <translation type="unfinished"/>
+        <translation>KULLANICI KONTROLÖRÜ</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="204"/>
         <source>MAPPING FUNCTION</source>
-        <translation type="unfinished"/>
+        <translation>EŞLEŞTİRME FONKSİYONU</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="220"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>TAMAM</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="224"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="332"/>
         <source>LMMS</source>
-        <translation type="unfinished"/>
+        <translation>LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="332"/>
         <source>Cycle Detected.</source>
-        <translation type="unfinished"/>
+        <translation>Döngü Algılandı.</translation>
     </message>
 </context>
 <context>
@@ -9724,22 +9760,22 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/ControllerRackView.cpp" line="50"/>
         <source>Controller Rack</source>
-        <translation type="unfinished"/>
+        <translation>Denetleyici Rafı</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerRackView.cpp" line="65"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerRackView.cpp" line="121"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"/>
+        <translation>Silmeyi Onayla</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerRackView.cpp" line="122"/>
         <source>Confirm delete? There are existing connection(s) associated with this controller. There is no way to undo.</source>
-        <translation type="unfinished"/>
+        <translation>Silmeyi onaylıyor musunuz? Bu denetleyiciyle ilişkili mevcut bağlantılar var. Geri almanın bir yolu yok.</translation>
     </message>
 </context>
 <context>
@@ -9747,32 +9783,32 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/ControllerView.cpp" line="69"/>
         <source>Controls</source>
-        <translation type="unfinished"/>
+        <translation>Kontroller</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerView.cpp" line="146"/>
         <source>Rename controller</source>
-        <translation type="unfinished"/>
+        <translation>Denetleyiciyi yeniden adlandır</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerView.cpp" line="147"/>
         <source>Enter the new name for this controller</source>
-        <translation type="unfinished"/>
+        <translation>Bu denetleyicinin yeni adını girin</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerView.cpp" line="154"/>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerView.cpp" line="178"/>
         <source>&amp;Remove this controller</source>
-        <translation type="unfinished"/>
+        <translation>Bu denetleyiciyi &amp;kaldırın</translation>
     </message>
     <message>
         <location filename="../../src/gui/ControllerView.cpp" line="180"/>
         <source>Re&amp;name this controller</source>
-        <translation type="unfinished"/>
+        <translation>Bu denetleyiciyi yeniden ad&amp;landırın</translation>
     </message>
 </context>
 <context>
@@ -9780,97 +9816,97 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="53"/>
         <source>Band 1/2 crossover:</source>
-        <translation type="unfinished"/>
+        <translation>Bant geçişi 1/2:</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="59"/>
         <source>Band 2/3 crossover:</source>
-        <translation type="unfinished"/>
+        <translation>Bant geçişi 2/3:</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="65"/>
         <source>Band 3/4 crossover:</source>
-        <translation type="unfinished"/>
+        <translation>Bant geçişi 3/4:</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="72"/>
         <source>Band 1 gain</source>
-        <translation type="unfinished"/>
+        <translation>Band kazancı 1</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="75"/>
         <source>Band 1 gain:</source>
-        <translation type="unfinished"/>
+        <translation>Band kazancı 1:</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="77"/>
         <source>Band 2 gain</source>
-        <translation type="unfinished"/>
+        <translation>Band kazancı 2</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="80"/>
         <source>Band 2 gain:</source>
-        <translation type="unfinished"/>
+        <translation>Band kazancı 2:</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="82"/>
         <source>Band 3 gain</source>
-        <translation type="unfinished"/>
+        <translation>Band kazancı 3</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="85"/>
         <source>Band 3 gain:</source>
-        <translation type="unfinished"/>
+        <translation>Band kazancı 3:</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="87"/>
         <source>Band 4 gain</source>
-        <translation type="unfinished"/>
+        <translation>Band kazancı 4</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="90"/>
         <source>Band 4 gain:</source>
-        <translation type="unfinished"/>
+        <translation>Band kazancı 4:</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="93"/>
         <source>Band 1 mute</source>
-        <translation type="unfinished"/>
+        <translation>Band 1 sesini kapatma</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="96"/>
         <source>Mute band 1</source>
-        <translation type="unfinished"/>
+        <translation>Bant 1&apos;in sesini kapat</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="98"/>
         <source>Band 2 mute</source>
-        <translation type="unfinished"/>
+        <translation>Band 2 sesini kapatma</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="101"/>
         <source>Mute band 2</source>
-        <translation type="unfinished"/>
+        <translation>Band 2&apos;yi sessize al</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="103"/>
         <source>Band 3 mute</source>
-        <translation type="unfinished"/>
+        <translation>Band 3 sesini kapatma</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="106"/>
         <source>Mute band 3</source>
-        <translation type="unfinished"/>
+        <translation>Bant 3&apos;ü sessize al</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="108"/>
         <source>Band 4 mute</source>
-        <translation type="unfinished"/>
+        <translation>Band 4 sesini kapatma</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="111"/>
         <source>Mute band 4</source>
-        <translation type="unfinished"/>
+        <translation>Bant 4&apos;ü sessize al</translation>
     </message>
 </context>
 <context>
@@ -9878,51 +9914,104 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="51"/>
         <source>DELAY</source>
-        <translation type="unfinished"/>
+        <translation>GECİKME</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="52"/>
         <source>Delay time</source>
-        <translation type="unfinished"/>
+        <translation>Gecikme süresi</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="58"/>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>FDBK</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="59"/>
         <source>Feedback amount</source>
-        <translation type="unfinished"/>
+        <translation>Geri bildirim miktarı</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="65"/>
         <source>RATE</source>
-        <translation type="unfinished"/>
+        <translation>ORAN</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="66"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>LFO frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="72"/>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>AMNT</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="73"/>
         <source>LFO amount</source>
-        <translation type="unfinished"/>
+        <translation>LFO miktarı</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="76"/>
         <source>Out gain</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="80"/>
         <source>Gain</source>
+        <translation>Kazanç</translation>
+    </message>
+</context>
+<context>
+    <name>lmms::gui::DispersionControlDialog</name>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="51"/>
+        <source>AMOUNT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="52"/>
+        <source>Number of all-pass filters</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="57"/>
+        <source>FREQ</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="58"/>
+        <source>Frequency:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="63"/>
+        <source>RESO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="64"/>
+        <source>Resonance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="69"/>
+        <source>FEED</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="70"/>
+        <source>Feedback:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="72"/>
+        <source>DC Offset Removal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="78"/>
+        <source>Remove DC Offset</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -9932,67 +10021,67 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="56"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="60"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREK</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="56"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="60"/>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Kesme frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="57"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="61"/>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>RESO</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="57"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="61"/>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Çınlama</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="58"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="62"/>
         <source>GAIN</source>
-        <translation type="unfinished"/>
+        <translation>GAIN</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="58"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="62"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="59"/>
         <source>MIX</source>
-        <translation type="unfinished"/>
+        <translation>KARIŞIM</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="59"/>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Karıştır</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="67"/>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filtre 1 etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="68"/>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filtre 2 etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="72"/>
         <source>Enable/disable filter 1</source>
-        <translation type="unfinished"/>
+        <translation>Filtre 1&apos;i etkinleştir / devre dışı bırak</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="75"/>
         <source>Enable/disable filter 2</source>
-        <translation type="unfinished"/>
+        <translation>Filtre 2&apos;yi etkinleştir / devre dışı bırak</translation>
     </message>
 </context>
 <context>
@@ -10000,96 +10089,96 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="66"/>
         <source>INPUT</source>
-        <translation type="unfinished"/>
+        <translation>GİRDİ</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="67"/>
         <source>Input gain:</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kazancı:</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="74"/>
         <source>OUTPUT</source>
-        <translation type="unfinished"/>
+        <translation>ÇIKTI</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="75"/>
         <source>Output gain:</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı:</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="80"/>
         <source>ATTACK</source>
-        <translation type="unfinished"/>
+        <translation>SALDIRI</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="81"/>
         <source>Peak attack time:</source>
-        <translation type="unfinished"/>
+        <translation>Tepe saldırı süresi:</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="86"/>
         <source>RELEASE</source>
-        <translation type="unfinished"/>
+        <translation>YAYINLAMA</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="87"/>
         <source>Peak release time:</source>
-        <translation type="unfinished"/>
+        <translation>En yüksek yayın süresi:</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="91"/>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="96"/>
         <source>Reset wavegraph</source>
-        <translation type="unfinished"/>
+        <translation>Dalga grafiğini sıfırla</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="98"/>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="103"/>
         <source>Smooth wavegraph</source>
-        <translation type="unfinished"/>
+        <translation>Pürüzsüz dalga grafiği</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="105"/>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="110"/>
         <source>Increase wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Dalga grafiğinin genliğini 1 dB artırın</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="112"/>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="117"/>
         <source>Decrease wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Dalga grafiğinin genliğini 1 dB azaltın</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="120"/>
         <source>Stereo mode: maximum</source>
-        <translation type="unfinished"/>
+        <translation>Stereo modu: maksimum</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="125"/>
         <source>Process based on the maximum of both stereo channels</source>
-        <translation type="unfinished"/>
+        <translation>Her iki stereo kanalın maksimumuna dayalı işlem</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="127"/>
         <source>Stereo mode: average</source>
-        <translation type="unfinished"/>
+        <translation>Stereo modu: ortalama</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="132"/>
         <source>Process based on the average of both stereo channels</source>
-        <translation type="unfinished"/>
+        <translation>Her iki stereo kanalın ortalamasına dayalı işlem</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="134"/>
         <source>Stereo mode: unlinked</source>
-        <translation type="unfinished"/>
+        <translation>Stereo mod: bağlantısız</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="139"/>
         <source>Process each stereo channel independently</source>
-        <translation type="unfinished"/>
+        <translation>Her bir stereo kanalı bağımsız olarak işleyin</translation>
     </message>
 </context>
 <context>
@@ -10097,32 +10186,32 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="97"/>
         <source>Transport controls</source>
-        <translation type="unfinished"/>
+        <translation>Aktarım kontrolleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="105"/>
         <source>Play (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Oynat (Boşluk)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="106"/>
         <source>Stop (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Durdur ( Boşluk)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="108"/>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation>Kayıt</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="109"/>
         <source>Record while playing</source>
-        <translation type="unfinished"/>
+        <translation>Çalarken kayıt</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/Editor.cpp" line="110"/>
         <source>Toggle Step Recording</source>
-        <translation type="unfinished"/>
+        <translation>Adım Kaydı Değiştir</translation>
     </message>
 </context>
 <context>
@@ -10130,12 +10219,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/EffectRackView.cpp" line="47"/>
         <source>EFFECTS CHAIN</source>
-        <translation type="unfinished"/>
+        <translation>ETKİ ZİNCİRİ</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectRackView.cpp" line="64"/>
         <source>Add effect</source>
-        <translation type="unfinished"/>
+        <translation>Efekt ekleyin</translation>
     </message>
 </context>
 <context>
@@ -10144,22 +10233,22 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../src/gui/modals/EffectSelectDialog.cpp" line="74"/>
         <location filename="../../src/gui/modals/EffectSelectDialog.cpp" line="240"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>İsme göre</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/EffectSelectDialog.cpp" line="75"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tür</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/EffectSelectDialog.cpp" line="241"/>
         <source>Description</source>
-        <translation type="unfinished"/>
+        <translation>Açıklama</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/EffectSelectDialog.cpp" line="242"/>
         <source>Author</source>
-        <translation type="unfinished"/>
+        <translation>Yazar</translation>
     </message>
 </context>
 <context>
@@ -10167,57 +10256,57 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/EffectView.cpp" line="63"/>
         <source>On/Off</source>
-        <translation type="unfinished"/>
+        <translation>Aç/Kapat</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectView.cpp" line="67"/>
         <source>W/D</source>
-        <translation type="unfinished"/>
+        <translation>I/K</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectView.cpp" line="70"/>
         <source>Wet Level:</source>
-        <translation type="unfinished"/>
+        <translation>Islak düzey:</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectView.cpp" line="74"/>
         <source>DECAY</source>
-        <translation type="unfinished"/>
+        <translation>BOZULMA</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectView.cpp" line="77"/>
         <source>Time:</source>
-        <translation type="unfinished"/>
+        <translation>Zaman:</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectView.cpp" line="81"/>
         <source>GATE</source>
-        <translation type="unfinished"/>
+        <translation>PORTAL</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectView.cpp" line="84"/>
         <source>Gate:</source>
-        <translation type="unfinished"/>
+        <translation>Portal:</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectView.cpp" line="91"/>
         <source>Controls</source>
-        <translation type="unfinished"/>
+        <translation>Kontroller</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectView.cpp" line="201"/>
         <source>Move &amp;up</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;ukarı taşı</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectView.cpp" line="204"/>
         <source>Move &amp;down</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aşağı taşı</translation>
     </message>
     <message>
         <location filename="../../src/gui/EffectView.cpp" line="208"/>
         <source>&amp;Remove this plugin</source>
-        <translation type="unfinished"/>
+        <translation>Bu eklentiyi &amp;kaldır</translation>
     </message>
 </context>
 <context>
@@ -10226,122 +10315,122 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="103"/>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="147"/>
         <source>DEL</source>
-        <translation type="unfinished"/>
+        <translation>SİL</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="105"/>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="149"/>
         <source>Pre-delay:</source>
-        <translation type="unfinished"/>
+        <translation>Ön gecikme:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="109"/>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="153"/>
         <source>ATT</source>
-        <translation type="unfinished"/>
+        <translation>ATT</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="111"/>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="155"/>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Saldırı:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="115"/>
         <source>HOLD</source>
-        <translation type="unfinished"/>
+        <translation>TUT</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="117"/>
         <source>Hold:</source>
-        <translation type="unfinished"/>
+        <translation>Ambar:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="121"/>
         <source>DEC</source>
-        <translation type="unfinished"/>
+        <translation>DEC</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="123"/>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Bozunma:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="127"/>
         <source>SUST</source>
-        <translation type="unfinished"/>
+        <translation>SUST</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="129"/>
         <source>Sustain:</source>
-        <translation type="unfinished"/>
+        <translation>Sürdürmek:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="133"/>
         <source>REL</source>
-        <translation type="unfinished"/>
+        <translation>REL</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="135"/>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>Yayınla:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="139"/>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="165"/>
         <source>AMT</source>
-        <translation type="unfinished"/>
+        <translation>AMT</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="141"/>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="167"/>
         <source>Modulation amount:</source>
-        <translation type="unfinished"/>
+        <translation>Modülasyon miktarı:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="159"/>
         <source>SPD</source>
-        <translation type="unfinished"/>
+        <translation>SPD</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="161"/>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Frekans:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="222"/>
         <source>FREQ x 100</source>
-        <translation type="unfinished"/>
+        <translation>FREQ x 100</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="225"/>
         <source>Multiply LFO frequency by 100</source>
-        <translation type="unfinished"/>
+        <translation>LFO frekansını 100 ile çarpın</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="228"/>
         <source>MODULATE ENV AMOUNT</source>
-        <translation type="unfinished"/>
+        <translation>ENV MİKTARINI MODÜLE EDİN</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="233"/>
         <source>Control envelope amount by this LFO</source>
-        <translation type="unfinished"/>
+        <translation>Bu LFO ile kontrol zarfı miktarı</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="508"/>
         <source>ms/LFO:</source>
-        <translation type="unfinished"/>
+        <translation>ms/LFO:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="524"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="525"/>
         <source>Drag and drop a sample into this window.</source>
-        <translation type="unfinished"/>
+        <translation>Bu pencereye bir örnek sürükleyip bırakın.</translation>
     </message>
 </context>
 <context>
@@ -10349,89 +10438,89 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="66"/>
         <source>HP</source>
-        <translation type="unfinished"/>
+        <translation>HP</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="67"/>
         <source>Low-shelf</source>
-        <translation type="unfinished"/>
+        <translation>Düşük raf</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="68"/>
         <source>Peak 1</source>
-        <translation type="unfinished"/>
+        <translation>Tepe 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="69"/>
         <source>Peak 2</source>
-        <translation type="unfinished"/>
+        <translation>Tepe 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="70"/>
         <source>Peak 3</source>
-        <translation type="unfinished"/>
+        <translation>Tepe 3</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="71"/>
         <source>Peak 4</source>
-        <translation type="unfinished"/>
+        <translation>Tepe 4</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="72"/>
         <source>High-shelf</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek raf</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="73"/>
         <source>LP</source>
-        <translation type="unfinished"/>
+        <translation>LP</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="79"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="83"/>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="89"/>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="102"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="85"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="113"/>
         <source>Bandwidth: </source>
-        <translation type="unfinished"/>
+        <translation>Bant genişliği: </translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="113"/>
         <source> Octave</source>
-        <translation type="unfinished"/>
+        <translation> Octave</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="114"/>
         <source>Resonance : </source>
-        <translation type="unfinished"/>
+        <translation>Rezonans : </translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="120"/>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Frekans:</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="202"/>
         <source>LP group</source>
-        <translation type="unfinished"/>
+        <translation>LP grubu</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="208"/>
         <source>HP group</source>
-        <translation type="unfinished"/>
+        <translation>HP grubu</translation>
     </message>
 </context>
 <context>
@@ -10439,18 +10528,18 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="142"/>
         <source>Reso: </source>
-        <translation type="unfinished"/>
+        <translation>Reso: </translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="146"/>
         <source>BW: </source>
-        <translation type="unfinished"/>
+        <translation>BW: </translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="158"/>
         <location filename="../../plugins/Eq/EqCurve.cpp" line="161"/>
         <source>Freq: </source>
-        <translation type="unfinished"/>
+        <translation>Freq: </translation>
     </message>
 </context>
 <context>
@@ -10458,43 +10547,44 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="50"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açılamadı</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="51"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
+        <translation>%1 dosyası yazmak için açılamadı.
+Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun ve tekrar deneyin!</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="47"/>
         <source>Export project to %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 projesini dışa aktar</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="87"/>
         <source>( Fastest - biggest )</source>
-        <translation type="unfinished"/>
+        <translation>(En hızlı - en büyük)</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="88"/>
         <source>( Slowest - smallest )</source>
-        <translation type="unfinished"/>
+        <translation>(En yavaş - en küçük)</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="265"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Sorun</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="266"/>
         <source>Error while determining file-encoder device. Please try to choose a different output format.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya kodlayıcı cihazı belirlenirken hata oluştu. Lütfen farklı bir çıktı biçimi seçmeyi deneyin.</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="297"/>
         <source>Rendering: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Oluşturuluyor: %1%</translation>
     </message>
 </context>
 <context>
@@ -10502,12 +10592,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/Fader.cpp" line="222"/>
         <source>Set value</source>
-        <translation type="unfinished"/>
+        <translation>Değeri ayarla</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Fader.cpp" line="223"/>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen %1 ile %2 arasında yeni bir değer girin:</translation>
     </message>
 </context>
 <context>
@@ -10515,27 +10605,27 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="89"/>
         <source>User content</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı içeriği</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="91"/>
         <source>Factory content</source>
-        <translation type="unfinished"/>
+        <translation>Fabrika içeriği</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="111"/>
         <source>Browser</source>
-        <translation type="unfinished"/>
+        <translation>Tarayıcı</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="126"/>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Ara</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="132"/>
         <source>Refresh list</source>
-        <translation type="unfinished"/>
+        <translation>Listeyi yenile</translation>
     </message>
 </context>
 <context>
@@ -10543,67 +10633,67 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="509"/>
         <source>Send to active instrument-track</source>
-        <translation type="unfinished"/>
+        <translation>Aktif alet izine gönder</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="517"/>
         <source>Open containing folder</source>
-        <translation type="unfinished"/>
+        <translation>Bulunduğu dizini aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="521"/>
         <source>Song Editor</source>
-        <translation type="unfinished"/>
+        <translation>Şarkı Düzenleyici</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="526"/>
         <source>Pattern Editor</source>
-        <translation type="unfinished"/>
+        <translation>Kalıp Düzenleyici</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="545"/>
         <source>Send to new AudioFileProcessor instance</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Ses Dosyası İşlemcisi örneğine gönder</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="546"/>
         <source>Send to new instrument track</source>
-        <translation type="unfinished"/>
+        <translation>Yeni enstrüman kanalına gönder</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="549"/>
         <source> (%2Enter)</source>
-        <translation type="unfinished"/>
+        <translation> (%2Enter)</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="556"/>
         <source>Send to new sample track (Shift + Enter)</source>
-        <translation type="unfinished"/>
+        <translation>Yeni örnek kanala gönder (Shift + Enter)</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="613"/>
         <source>Loading sample</source>
-        <translation type="unfinished"/>
+        <translation>Örnek yükleniyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="614"/>
         <source>Please wait, loading sample for preview...</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bekleyin, önizleme için örnek yükleniyor...</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="641"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Sorun</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="642"/>
         <source>%1 does not appear to be a valid %2 file</source>
-        <translation type="unfinished"/>
+        <translation>%1 geçerli bir %2 dosyası gibi görünmüyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="994"/>
         <source>--- Factory files ---</source>
-        <translation type="unfinished"/>
+        <translation>--- Fabrika dosyaları ---</translation>
     </message>
 </context>
 <context>
@@ -10611,67 +10701,67 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="49"/>
         <source>DELAY</source>
-        <translation type="unfinished"/>
+        <translation>GECİKME</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="50"/>
         <source>Delay time:</source>
-        <translation type="unfinished"/>
+        <translation>Gecikme süresi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="56"/>
         <source>RATE</source>
-        <translation type="unfinished"/>
+        <translation>ORAN</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="57"/>
         <source>Period:</source>
-        <translation type="unfinished"/>
+        <translation>Periyod:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="63"/>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>AMNT</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="64"/>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>Miktar:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="70"/>
         <source>PHASE</source>
-        <translation type="unfinished"/>
+        <translation>Evre</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="71"/>
         <source>Phase:</source>
-        <translation type="unfinished"/>
+        <translation>Evre:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="77"/>
         <source>FDBK</source>
-        <translation type="unfinished"/>
+        <translation>FDBK</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="78"/>
         <source>Feedback amount:</source>
-        <translation type="unfinished"/>
+        <translation>Geri bildirim miktarı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="84"/>
         <source>NOISE</source>
-        <translation type="unfinished"/>
+        <translation>PARAZİT</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="85"/>
         <source>White noise amount:</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz gürültü miktarı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="87"/>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Tersine çevir</translation>
     </message>
 </context>
 <context>
@@ -10679,133 +10769,133 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="469"/>
         <source>Sweep time:</source>
-        <translation type="unfinished"/>
+        <translation>Tarama zamanı:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="471"/>
         <source>Sweep time</source>
-        <translation type="unfinished"/>
+        <translation>Tarama zamanı</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="474"/>
         <source>Sweep rate shift amount:</source>
-        <translation type="unfinished"/>
+        <translation>Tarama oranı kaydırma miktarı:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="477"/>
         <source>Sweep rate shift amount</source>
-        <translation type="unfinished"/>
+        <translation>Tarama oranı kaydırma miktarı</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="480"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="500"/>
         <source>Wave pattern duty cycle:</source>
-        <translation type="unfinished"/>
+        <translation>Dalga deseni görev döngüsü:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="483"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="503"/>
         <source>Wave pattern duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>Dalga deseni görev döngüsü</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="486"/>
         <source>Square channel 1 volume:</source>
-        <translation type="unfinished"/>
+        <translation>Kare kanal 1 düzeyi:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="489"/>
         <source>Square channel 1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Kare kanal 1 düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="492"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="512"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="532"/>
         <source>Length of each step in sweep:</source>
-        <translation type="unfinished"/>
+        <translation>Taramadaki her adımın uzunluğu:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="495"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="515"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="535"/>
         <source>Length of each step in sweep</source>
-        <translation type="unfinished"/>
+        <translation>Taramadaki her adımın uzunluğu</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="506"/>
         <source>Square channel 2 volume:</source>
-        <translation type="unfinished"/>
+        <translation>Kare kanal 2 düzeyi:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="509"/>
         <source>Square channel 2 volume</source>
-        <translation type="unfinished"/>
+        <translation>Kare kanal 2 düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="520"/>
         <source>Wave pattern channel volume:</source>
-        <translation type="unfinished"/>
+        <translation>Dalga deseni kanal düzeyi:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="522"/>
         <source>Wave pattern channel volume</source>
-        <translation type="unfinished"/>
+        <translation>Dalga deseni kanal düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="527"/>
         <source>Noise channel volume:</source>
-        <translation type="unfinished"/>
+        <translation>Gürültü kanalı düzeyi:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="529"/>
         <source>Noise channel volume</source>
-        <translation type="unfinished"/>
+        <translation>Gürültü kanalı düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="540"/>
         <source>SO1 volume (Right):</source>
-        <translation type="unfinished"/>
+        <translation>SO2 düzeyi (Sağ):</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="542"/>
         <source>SO1 volume (Right)</source>
-        <translation type="unfinished"/>
+        <translation>SO2 düzeyi (Sağ)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="545"/>
         <source>SO2 volume (Left):</source>
-        <translation type="unfinished"/>
+        <translation>SO2 düzeyi (Sol):</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="547"/>
         <source>SO2 volume (Left)</source>
-        <translation type="unfinished"/>
+        <translation>SO2 düzeyi (Sol)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="550"/>
         <source>Treble:</source>
-        <translation type="unfinished"/>
+        <translation>Tiz:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="552"/>
         <source>Treble</source>
-        <translation type="unfinished"/>
+        <translation>Tiz</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="555"/>
         <source>Bass:</source>
-        <translation type="unfinished"/>
+        <translation>Bas:</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="557"/>
         <source>Bass</source>
-        <translation type="unfinished"/>
+        <translation>Bas</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="566"/>
         <source>Sweep direction</source>
-        <translation type="unfinished"/>
+        <translation>Tarama yönü</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="575"/>
@@ -10814,57 +10904,57 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="593"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="600"/>
         <source>Volume sweep direction</source>
-        <translation type="unfinished"/>
+        <translation>Düzey tarama yönü</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="609"/>
         <source>Shift register width</source>
-        <translation type="unfinished"/>
+        <translation>Vardiya kaydı genişliği</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="619"/>
         <source>Channel 1 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 1&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="626"/>
         <source>Channel 2 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 2&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="633"/>
         <source>Channel 3 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 3&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="641"/>
         <source>Channel 4 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 4&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="648"/>
         <source>Channel 1 to SO2 (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 1&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="655"/>
         <source>Channel 2 to SO2 (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 2&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="662"/>
         <source>Channel 3 to SO2 (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 3&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="670"/>
         <source>Channel 4 to SO2 (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Kanal 4&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="678"/>
         <source>Wave pattern graph</source>
-        <translation type="unfinished"/>
+        <translation>Dalga deseni grafiği</translation>
     </message>
 </context>
 <context>
@@ -10873,22 +10963,22 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="937"/>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1040"/>
         <source>Open GIG file</source>
-        <translation type="unfinished"/>
+        <translation>GIG dosyasını açın</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="949"/>
         <source>Choose patch</source>
-        <translation type="unfinished"/>
+        <translation>Yama seçin</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="966"/>
         <source>Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç:</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1044"/>
         <source>GIG Files (*.gig)</source>
-        <translation type="unfinished"/>
+        <translation>GIG Dosyaları (*.gig)</translation>
     </message>
 </context>
 <context>
@@ -10896,57 +10986,57 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="81"/>
         <source>Working directory</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma dizini</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="82"/>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
-        <translation type="unfinished"/>
+        <translation>%1 LMMS çalışma dizini yok. Şimdi oluşturulsun mu? Dizini daha sonra Düzenle -&gt; Ayarlar üzerinden değiştirebilirsiniz.</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="139"/>
         <source>Preparing UI</source>
-        <translation type="unfinished"/>
+        <translation>Arayüz hazırlanıyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="146"/>
         <source>Preparing song editor</source>
-        <translation type="unfinished"/>
+        <translation>Şarkı düzenleyicinin hazırlanıyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="150"/>
         <source>Preparing mixer</source>
-        <translation type="unfinished"/>
+        <translation>Karıştırıcı hazırlanıyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="154"/>
         <source>Preparing controller rack</source>
-        <translation type="unfinished"/>
+        <translation>Denetleyici rafını hazırlanıyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="158"/>
         <source>Preparing project notes</source>
-        <translation type="unfinished"/>
+        <translation>Proje notlarının hazırlanıyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="162"/>
         <source>Preparing microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Mikro ayarlayıcı hazırlanıyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="166"/>
         <source>Preparing pattern editor</source>
-        <translation type="unfinished"/>
+        <translation>Kalıp düzenleyici hazırlanıyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="170"/>
         <source>Preparing piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Piyano rulosunun hazırlanıyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="174"/>
         <source>Preparing automation editor</source>
-        <translation type="unfinished"/>
+        <translation>Otomasyon düzenleyicinin hazırlanıyor</translation>
     </message>
 </context>
 <context>
@@ -10954,119 +11044,119 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="99"/>
         <source>ARPEGGIO</source>
-        <translation type="unfinished"/>
+        <translation>ARPEJ</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="121"/>
         <source>RANGE</source>
-        <translation type="unfinished"/>
+        <translation>ARALIK</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="122"/>
         <source>Arpeggio range:</source>
-        <translation type="unfinished"/>
+        <translation>Arpej aralığı:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="122"/>
         <source>octave(s)</source>
-        <translation type="unfinished"/>
+        <translation>octave(s)</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="125"/>
         <source>REP</source>
-        <translation type="unfinished"/>
+        <translation>REP</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="126"/>
         <source>Note repeats:</source>
-        <translation type="unfinished"/>
+        <translation>Nota tekrarları:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="126"/>
         <source>time(s)</source>
-        <translation type="unfinished"/>
+        <translation>zamanlar)</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="129"/>
         <source>CYCLE</source>
-        <translation type="unfinished"/>
+        <translation>DÖNGÜ</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="130"/>
         <source>Cycle notes:</source>
-        <translation type="unfinished"/>
+        <translation>Döngü notaları:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="130"/>
         <source>note(s)</source>
-        <translation type="unfinished"/>
+        <translation>nota(lar)</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="133"/>
         <source>SKIP</source>
-        <translation type="unfinished"/>
+        <translation>ATLA</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="134"/>
         <source>Skip rate:</source>
-        <translation type="unfinished"/>
+        <translation>Atlama oranı:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="134"/>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="138"/>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="146"/>
         <source>%</source>
-        <translation type="unfinished"/>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="137"/>
         <source>MISS</source>
-        <translation type="unfinished"/>
+        <translation>KAÇIRMA</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="138"/>
         <source>Miss rate:</source>
-        <translation type="unfinished"/>
+        <translation>Kaçırma oranı:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="141"/>
         <source>TIME</source>
-        <translation type="unfinished"/>
+        <translation>ZAMAN</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="142"/>
         <source>Arpeggio time:</source>
-        <translation type="unfinished"/>
+        <translation>Arpej zamanı:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="142"/>
         <source>ms</source>
-        <translation type="unfinished"/>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="145"/>
         <source>GATE</source>
-        <translation type="unfinished"/>
+        <translation>PORTAL</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="146"/>
         <source>Arpeggio gate:</source>
-        <translation type="unfinished"/>
+        <translation>Arpej kapısı:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="148"/>
         <source>Chord:</source>
-        <translation type="unfinished"/>
+        <translation>Akord:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="151"/>
         <source>Direction:</source>
-        <translation type="unfinished"/>
+        <translation>Yön:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="154"/>
         <source>Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Kip:</translation>
     </message>
 </context>
 <context>
@@ -11074,27 +11164,27 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="45"/>
         <source>STACKING</source>
-        <translation type="unfinished"/>
+        <translation>İSTİFLEME</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="59"/>
         <source>Chord:</source>
-        <translation type="unfinished"/>
+        <translation>Akord:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="62"/>
         <source>RANGE</source>
-        <translation type="unfinished"/>
+        <translation>ARALIK</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="63"/>
         <source>Chord range:</source>
-        <translation type="unfinished"/>
+        <translation>Akord aralığı:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="63"/>
         <source>octave(s)</source>
-        <translation type="unfinished"/>
+        <translation>octave(s)</translation>
     </message>
 </context>
 <context>
@@ -11102,63 +11192,63 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="52"/>
         <source>ENABLE MIDI INPUT</source>
-        <translation type="unfinished"/>
+        <translation>MIDI GİRİŞİNİ ETKİNLEŞTİR</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="63"/>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="94"/>
         <source>CHAN</source>
         <extracomment>This string must be be short, its width must be less than * width of LCD spin-box of two digits</extracomment>
-        <translation type="unfinished"/>
+        <translation>KANAL</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="71"/>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="101"/>
         <source>VELOC</source>
         <extracomment>This string must be be short, its width must be less than * width of LCD spin-box of three digits</extracomment>
-        <translation type="unfinished"/>
+        <translation>VELOC</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="83"/>
         <source>ENABLE MIDI OUTPUT</source>
-        <translation type="unfinished"/>
+        <translation>MIDI ÇIKIŞINI ETKİNLEŞTİR</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="108"/>
         <source>PROG</source>
         <extracomment>This string must be be short, its width must be less than the * width of LCD spin-box of three digits</extracomment>
-        <translation type="unfinished"/>
+        <translation>PROG</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="116"/>
         <source>NOTE</source>
         <extracomment>This string must be be short, its width must be less than * width of LCD spin-box of three digits</extracomment>
-        <translation type="unfinished"/>
+        <translation>NOTA</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="132"/>
         <source>MIDI devices to receive MIDI events from</source>
-        <translation type="unfinished"/>
+        <translation>MIDI olaylarının alınacağı MIDI cihazları</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="140"/>
         <source>MIDI devices to send MIDI events to</source>
-        <translation type="unfinished"/>
+        <translation>MIDI olaylarının gönderileceği MIDI cihazları</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="147"/>
         <source>CUSTOM BASE VELOCITY</source>
-        <translation type="unfinished"/>
+        <translation>ÖZEL BAZ HIZI</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="155"/>
         <source>Specify the velocity normalization base for MIDI-based instruments at 100% note velocity.</source>
-        <translation type="unfinished"/>
+        <translation>% 100 nota hızında MIDI tabanlı enstrümanlar için hız normalleştirme tabanını belirtin.</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="162"/>
         <source>BASE VELOCITY</source>
-        <translation type="unfinished"/>
+        <translation>TABAN HIZI</translation>
     </message>
 </context>
 <context>
@@ -11166,37 +11256,37 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentMiscView.cpp" line="50"/>
         <source>GLOBAL TRANSPOSITION</source>
-        <translation type="unfinished"/>
+        <translation>GENEL  AKTARMA</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMiscView.cpp" line="57"/>
         <source>Enables the use of global transposition</source>
-        <translation type="unfinished"/>
+        <translation>Genel aktarımın kullanılmasını sağlar</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMiscView.cpp" line="63"/>
         <source>MICROTUNER</source>
-        <translation type="unfinished"/>
+        <translation>MIKRO AYARLAYICI</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMiscView.cpp" line="70"/>
         <source>Active scale:</source>
-        <translation type="unfinished"/>
+        <translation>Etkin ölçek:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMiscView.cpp" line="77"/>
         <source>Active keymap:</source>
-        <translation type="unfinished"/>
+        <translation>Etkin tuş haritası:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMiscView.cpp" line="84"/>
         <source>Import note ranges from keymap</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritasından not aralıklarını içe aktar</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentMiscView.cpp" line="86"/>
         <source>When enabled, the first, last and base notes of this instrument will be overwritten with values specified by the selected keymap.</source>
-        <translation type="unfinished"/>
+        <translation>Etkinleştirildiğinde, bu enstrümanın ilk, son ve temel notalarının üzerine seçilen tuş haritası tarafından belirtilen değerler yazılacaktır.</translation>
     </message>
 </context>
 <context>
@@ -11204,42 +11294,42 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="57"/>
         <source>TARGET</source>
-        <translation type="unfinished"/>
+        <translation>HEDEF</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="72"/>
         <source>FILTER</source>
-        <translation type="unfinished"/>
+        <translation>FİLTRE</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="84"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREK</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="86"/>
         <source>Cutoff frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Kesim frekansı:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="86"/>
         <source>Hz</source>
-        <translation type="unfinished"/>
+        <translation>Hz</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="90"/>
         <source>Q/RESO</source>
-        <translation type="unfinished"/>
+        <translation>Q/RESO</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="92"/>
         <source>Q/Resonance:</source>
-        <translation type="unfinished"/>
+        <translation>Q/Rezonans:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="95"/>
         <source>Envelopes, LFOs and filters are not supported by the current instrument.</source>
-        <translation type="unfinished"/>
+        <translation>Zarflar, LFO&apos;lar ve filtreler mevcut cihaz tarafından desteklenmemektedir.</translation>
     </message>
 </context>
 <context>
@@ -11247,57 +11337,57 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="91"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="94"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi:</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="96"/>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>SES</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="100"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="102"/>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma:</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="104"/>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="107"/>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="139"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Giriş</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="140"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="142"/>
         <source>Open/Close MIDI CC Rack</source>
-        <translation type="unfinished"/>
+        <translation>MIDI CC Rafını Aç / Kapat</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="381"/>
         <source>%1: %2</source>
-        <translation type="unfinished"/>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -11305,127 +11395,127 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="96"/>
         <source>GENERAL SETTINGS</source>
-        <translation type="unfinished"/>
+        <translation>GENEL AYARLAR</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="151"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="153"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="158"/>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>SES</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="165"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="166"/>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="171"/>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="181"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Saha</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="182"/>
         <source>Pitch:</source>
-        <translation type="unfinished"/>
+        <translation>Hatve (Aralık):</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="182"/>
         <source>cents</source>
-        <translation type="unfinished"/>
+        <translation>sent</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="187"/>
         <source>PITCH</source>
-        <translation type="unfinished"/>
+        <translation>PERDE</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="194"/>
         <source>Pitch range (semitones)</source>
-        <translation type="unfinished"/>
+        <translation>Perde aralığı (yarım tonlar)</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="199"/>
         <source>RANGE</source>
-        <translation type="unfinished"/>
+        <translation>ARALIK</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="209"/>
         <source>Mixer channel</source>
-        <translation type="unfinished"/>
+        <translation>FX kanalı</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="214"/>
         <source>CHANNEL</source>
-        <translation type="unfinished"/>
+        <translation>KANAL</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="224"/>
         <source>Save current instrument track settings in a preset file</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut enstrüman parça ayarlarını önceden ayarlanmış bir dosyaya kaydedin</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="228"/>
         <source>SAVE</source>
-        <translation type="unfinished"/>
+        <translation>KAYDET</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="267"/>
         <source>Envelope, filter &amp; LFO</source>
-        <translation type="unfinished"/>
+        <translation>Zarf, filtre ve LFO</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="268"/>
         <source>Chord stacking &amp; arpeggio</source>
-        <translation type="unfinished"/>
+        <translation>Akor istifleme &amp; arpej</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="269"/>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>Efektler</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="270"/>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="271"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"/>
+        <translation>Çeşitli</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="405"/>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>Ön ayarı kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="405"/>
         <source>XML preset file (*.xpf)</source>
-        <translation type="unfinished"/>
+        <translation>XML hazır ayar dosyası (*.xpf)</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="466"/>
         <source>Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Eklenti</translation>
     </message>
 </context>
 <context>
@@ -11433,52 +11523,52 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="281"/>
         <source>Start frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç frekansı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="285"/>
         <source>End frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş frekansı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="289"/>
         <source>Frequency slope:</source>
-        <translation type="unfinished"/>
+        <translation>Frekans eğimi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="293"/>
         <source>Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç:</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="297"/>
         <source>Envelope length:</source>
-        <translation type="unfinished"/>
+        <translation>Zarf uzunluğu:</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="301"/>
         <source>Envelope slope:</source>
-        <translation type="unfinished"/>
+        <translation>Zarf eğimi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="305"/>
         <source>Click:</source>
-        <translation type="unfinished"/>
+        <translation>Tıkla:</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="309"/>
         <source>Noise:</source>
-        <translation type="unfinished"/>
+        <translation>Gürültü:</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="313"/>
         <source>Start distortion:</source>
-        <translation type="unfinished"/>
+        <translation>Bozulmayı başlat:</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="317"/>
         <source>End distortion:</source>
-        <translation type="unfinished"/>
+        <translation>Bozulmayı bitir:</translation>
     </message>
 </context>
 <context>
@@ -11486,28 +11576,28 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="517"/>
         <source>Set linear</source>
-        <translation type="unfinished"/>
+        <translation>Doğrusal ayarla</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="517"/>
         <source>Set logarithmic</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmik ayarla</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="761"/>
         <location filename="../../src/gui/widgets/Knob.cpp" line="778"/>
         <source>Set value</source>
-        <translation type="unfinished"/>
+        <translation>Değeri ayarla</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen -96.0 dBFS ve 6.0 dBFS arasında yeni bir değer girin:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen %1 ile %2 arasında yeni bir değer girin:</translation>
     </message>
 </context>
 <context>
@@ -11516,36 +11606,36 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../plugins/LadspaBrowser/LadspaBrowser.cpp" line="110"/>
         <location filename="../../plugins/LadspaBrowser/LadspaBrowser.cpp" line="118"/>
         <source>Available Effects</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut Efektler</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaBrowser.cpp" line="111"/>
         <location filename="../../plugins/LadspaBrowser/LadspaBrowser.cpp" line="121"/>
         <source>Unavailable Effects</source>
-        <translation type="unfinished"/>
+        <translation>Kullanılamayan Etkiler</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaBrowser.cpp" line="113"/>
         <location filename="../../plugins/LadspaBrowser/LadspaBrowser.cpp" line="125"/>
         <source>Instruments</source>
-        <translation type="unfinished"/>
+        <translation>Enstrümanlar</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaBrowser.cpp" line="114"/>
         <location filename="../../plugins/LadspaBrowser/LadspaBrowser.cpp" line="129"/>
         <source>Analysis Tools</source>
-        <translation type="unfinished"/>
+        <translation>Analiz Araçları</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaBrowser.cpp" line="115"/>
         <location filename="../../plugins/LadspaBrowser/LadspaBrowser.cpp" line="132"/>
         <source>Don&apos;t know</source>
-        <translation type="unfinished"/>
+        <translation>Bilmiyorum</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaBrowser.cpp" line="171"/>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Tür:</translation>
     </message>
 </context>
 <context>
@@ -11553,12 +11643,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaControlDialog.cpp" line="61"/>
         <source>Link Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanalları Bağla</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaControlDialog.cpp" line="94"/>
         <source>Channel </source>
-        <translation type="unfinished"/>
+        <translation>Kanallar </translation>
     </message>
 </context>
 <context>
@@ -11566,12 +11656,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LadspaControlView.cpp" line="55"/>
         <source>Link channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanalları bağla</translation>
     </message>
     <message>
         <location filename="../../src/gui/LadspaControlView.cpp" line="106"/>
         <source>Value:</source>
-        <translation type="unfinished"/>
+        <translation>Değer:</translation>
     </message>
 </context>
 <context>
@@ -11579,12 +11669,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaDescription.cpp" line="85"/>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Eklentiler</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaDescription.cpp" line="94"/>
         <source>Description</source>
-        <translation type="unfinished"/>
+        <translation>Açıklama</translation>
     </message>
 </context>
 <context>
@@ -11592,83 +11682,83 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="45"/>
         <source>Ports</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Noktaları</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="57"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>İsme göre</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="58"/>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Oran</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="59"/>
         <source>Direction</source>
-        <translation type="unfinished"/>
+        <translation>Yön</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="60"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tür</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="61"/>
         <source>Min &lt; Default &lt; Max</source>
-        <translation type="unfinished"/>
+        <translation>Min &lt;Varsayılan &lt;Maks</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="62"/>
         <source>Logarithmic</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmik</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="63"/>
         <source>SR Dependent</source>
-        <translation type="unfinished"/>
+        <translation>SR Bağımlı</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="78"/>
         <source>Audio</source>
-        <translation type="unfinished"/>
+        <translation>Ses</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="78"/>
         <source>Control</source>
-        <translation type="unfinished"/>
+        <translation>Kontrol</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="80"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Giriş</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="80"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="82"/>
         <source>Toggled</source>
-        <translation type="unfinished"/>
+        <translation>Geçişli</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="82"/>
         <source>Integer</source>
-        <translation type="unfinished"/>
+        <translation>Tamsayı</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="82"/>
         <source>Float</source>
-        <translation type="unfinished"/>
+        <translation>Şamandıra</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="152"/>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="158"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Evet</translation>
     </message>
 </context>
 <context>
@@ -11676,153 +11766,153 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="824"/>
         <source>Cutoff Freq:</source>
-        <translation type="unfinished"/>
+        <translation>Kesim Frekansı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="829"/>
         <source>Resonance:</source>
-        <translation type="unfinished"/>
+        <translation>Rezonans:</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="834"/>
         <source>Env Mod:</source>
-        <translation type="unfinished"/>
+        <translation>Env Mod:</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="839"/>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Bozunma:</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="855"/>
         <source>303-es-que, 24dB/octave, 3 pole filter</source>
-        <translation type="unfinished"/>
+        <translation>303-es-que, 24dB/octave, 3 kutuplu filtre</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="860"/>
         <source>Slide Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Bozulma Kaydırma:</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="865"/>
         <source>DIST:</source>
-        <translation type="unfinished"/>
+        <translation>MESAFE:</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="873"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Testere dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="880"/>
         <source>Click here for a saw-wave.</source>
-        <translation type="unfinished"/>
+        <translation>Testere dalgası için buraya tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="882"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Üçgen dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="889"/>
         <source>Click here for a triangle-wave.</source>
-        <translation type="unfinished"/>
+        <translation>Üçgen dalga için burayı tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="891"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Kare dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="898"/>
         <source>Click here for a square-wave.</source>
-        <translation type="unfinished"/>
+        <translation>Kare dalga için burayı tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="900"/>
         <source>Rounded square wave</source>
-        <translation type="unfinished"/>
+        <translation>Yuvarlak kare dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="907"/>
         <source>Click here for a square-wave with a rounded end.</source>
-        <translation type="unfinished"/>
+        <translation>Yuvarlak uçlu bir kare dalga için burayı tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="909"/>
         <source>Moog wave</source>
-        <translation type="unfinished"/>
+        <translation>Moog dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="916"/>
         <source>Click here for a moog-like wave.</source>
-        <translation type="unfinished"/>
+        <translation>Moog benzeri bir dalga için burayı tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="918"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Sinüs dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="925"/>
         <source>Click for a sine-wave.</source>
-        <translation type="unfinished"/>
+        <translation>Sinüs dalgası için tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="927"/>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="936"/>
         <source>White noise wave</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz gürültü dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="934"/>
         <source>Click here for an exponential wave.</source>
-        <translation type="unfinished"/>
+        <translation>Üstel dalga için burayı tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="943"/>
         <source>Click here for white-noise.</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz gürültü için buraya tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="945"/>
         <source>Bandlimited saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Bant sınırlı testere dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="952"/>
         <source>Click here for bandlimited saw wave.</source>
-        <translation type="unfinished"/>
+        <translation>Bantlı testere dalgası için buraya tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="954"/>
         <source>Bandlimited square wave</source>
-        <translation type="unfinished"/>
+        <translation>Bant sınırlı kare dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="961"/>
         <source>Click here for bandlimited square wave.</source>
-        <translation type="unfinished"/>
+        <translation>Band sınırlı kare dalga için buraya tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="963"/>
         <source>Bandlimited triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Bant sınırlı üçgen dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="970"/>
         <source>Click here for bandlimited triangle wave.</source>
-        <translation type="unfinished"/>
+        <translation>Bant sınırlı üçgen dalga için buraya tıklayın.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="972"/>
         <source>Bandlimited moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Band sınırlı moog testere dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="979"/>
         <source>Click here for bandlimited moog saw wave.</source>
-        <translation type="unfinished"/>
+        <translation>Bant sınırlı moog testere dalgası için buraya tıklayın.</translation>
     </message>
 </context>
 <context>
@@ -11830,12 +11920,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/LcdFloatSpinBox.cpp" line="204"/>
         <source>Set value</source>
-        <translation type="unfinished"/>
+        <translation>Değeri ayarla</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/LcdFloatSpinBox.cpp" line="205"/>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen %1 ile %2 arasında yeni bir değer girin:</translation>
     </message>
 </context>
 <context>
@@ -11843,12 +11933,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="159"/>
         <source>Set value</source>
-        <translation type="unfinished"/>
+        <translation>Değeri ayarla</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/LcdSpinBox.cpp" line="160"/>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen %1 ile %2 arasında yeni bir değer girin:</translation>
     </message>
 </context>
 <context>
@@ -11858,24 +11948,24 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="65"/>
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="68"/>
         <source>Previous</source>
-        <translation type="unfinished"/>
+        <translation>Önceki</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="39"/>
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="66"/>
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="69"/>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="93"/>
         <source>Previous (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Önceki (%1)</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/LeftRightNav.cpp" line="94"/>
         <source>Next (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki (%1)</translation>
     </message>
 </context>
 <context>
@@ -11883,108 +11973,109 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="56"/>
         <source>LFO</source>
-        <translation type="unfinished"/>
+        <translation>LFO</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="65"/>
         <source>BASE</source>
-        <translation type="unfinished"/>
+        <translation>TEMEL</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="67"/>
         <source>Base:</source>
-        <translation type="unfinished"/>
+        <translation>Temel:</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="70"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREK</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="72"/>
         <source>LFO frequency:</source>
-        <translation type="unfinished"/>
+        <translation>LFO frekansı:</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="75"/>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>AMNT</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="77"/>
         <source>Modulation amount:</source>
-        <translation type="unfinished"/>
+        <translation>Modülasyon miktarı:</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="80"/>
         <source>PHS</source>
-        <translation type="unfinished"/>
+        <translation>PHS</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="82"/>
         <source>Phase offset:</source>
-        <translation type="unfinished"/>
+        <translation>Faz uzaklığı:</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="82"/>
         <source> degrees</source>
-        <translation type="unfinished"/>
+        <translation> derece</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="91"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Sinüs dalgası</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="100"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Üçgen dalga</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="109"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Testere dalga</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="118"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Kare dalgası</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="127"/>
         <source>Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Moog testere dalgası</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="136"/>
         <source>Exponential wave</source>
-        <translation type="unfinished"/>
+        <translation>Üstel dalga</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="145"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz gürültü</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="157"/>
         <source>User-defined shape.
 Double click to pick a file.</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı tanımlı şekil.
+Bir dosya seçmek için çift tıklayın.</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="173"/>
         <source>Multiply modulation frequency by 1</source>
-        <translation type="unfinished"/>
+        <translation>Geçiş frekansını 1 ile çarpın</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="179"/>
         <source>Multiply modulation frequency by 100</source>
-        <translation type="unfinished"/>
+        <translation>Geçiş frekansını 100 ile çarpın</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="185"/>
         <source>Divide modulation frequency by 100</source>
-        <translation type="unfinished"/>
+        <translation>Modülasyon frekansını 100&apos;e bölün</translation>
     </message>
 </context>
 <context>
@@ -11992,488 +12083,490 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="520"/>
         <source>Configuration file</source>
-        <translation type="unfinished"/>
+        <translation>Yapılandırma dosyası</translation>
     </message>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="521"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2: %3 satırındaki yapılandırma dosyası ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="638"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açılamadı</translation>
     </message>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="639"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
+        <translation>%1 dosyası yazmak için açılamadı.
+Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun ve tekrar deneyin!</translation>
     </message>
     <message>
         <location filename="../../src/core/main.cpp" line="877"/>
         <source>Project recovery</source>
-        <translation type="unfinished"/>
+        <translation>Proje kurtarma</translation>
     </message>
     <message>
         <location filename="../../src/core/main.cpp" line="892"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut bir kurtarma dosyası var. Görünüşe göre son oturum düzgün şekilde sona ermemiş veya başka bir LMMS örneği zaten çalışıyor. Bu oturumun projesini kurtarmak istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="../../src/core/main.cpp" line="897"/>
         <location filename="../../src/core/main.cpp" line="917"/>
         <source>Recover</source>
-        <translation type="unfinished"/>
+        <translation>Kurtar</translation>
     </message>
     <message>
         <location filename="../../src/core/main.cpp" line="898"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı kurtarın. Lütfen bunu yaptığınızda birden fazla LMMS örneği çalıştırmayın.</translation>
     </message>
     <message>
         <location filename="../../src/core/main.cpp" line="900"/>
         <location filename="../../src/core/main.cpp" line="915"/>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Iskarta</translation>
     </message>
     <message>
         <location filename="../../src/core/main.cpp" line="901"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan bir oturum başlatın ve geri yüklenen dosyaları silin. Bu geri alınamaz.</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="119"/>
         <source>Version %1</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="109"/>
         <source>Preparing plugin browser</source>
-        <translation type="unfinished"/>
+        <translation>Eklenti tarayıcısı hazırlanıyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="111"/>
         <source>Preparing file browsers</source>
-        <translation type="unfinished"/>
+        <translation>Dosya tarayıcıları hazırlanıyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="116"/>
         <source>My Projects</source>
-        <translation type="unfinished"/>
+        <translation>Projelerim</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="124"/>
         <source>My Samples</source>
-        <translation type="unfinished"/>
+        <translation>Örneklerim</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="133"/>
         <source>My Presets</source>
-        <translation type="unfinished"/>
+        <translation>Ön ayarlarım</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="139"/>
         <source>My Home</source>
-        <translation type="unfinished"/>
+        <translation>Ana sayfam</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="145"/>
         <source>Root directory</source>
-        <translation type="unfinished"/>
+        <translation>Kök dizini</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="149"/>
         <source>Volumes</source>
-        <translation type="unfinished"/>
+        <translation>Düzeyler</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="152"/>
         <source>My Computer</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayarım</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="171"/>
         <source>Loading background picture</source>
-        <translation type="unfinished"/>
+        <translation>Arka plan resmi yükleniyor</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="282"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;DOSYA</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="284"/>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeni</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="292"/>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aç...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="299"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="303"/>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Farklı kaydet...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="307"/>
         <source>Save as New &amp;Version</source>
-        <translation type="unfinished"/>
+        <translation>Yeni &amp;Sürüm Olarak Kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="312"/>
         <source>Save as default template</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan şablon olarak kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="317"/>
         <source>Import...</source>
-        <translation type="unfinished"/>
+        <translation>İçe Aktar...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="321"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;ışa aktar...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="326"/>
         <source>E&amp;xport Tracks...</source>
-        <translation type="unfinished"/>
+        <translation>Parçaları D&amp;ışa aktar...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="332"/>
         <source>Export &amp;MIDI...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;MIDI Dışa Aktar...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="341"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Çıkış</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="346"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Düzen</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="348"/>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Geri Al</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="352"/>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>İleri Al</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="367"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="372"/>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>Gö&amp;rünüm</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="388"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Araçlar</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="396"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yardım</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="401"/>
         <source>Online Help</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Yardım</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="407"/>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Yardım</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="415"/>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Hakkında</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="420"/>
         <source>Create new project</source>
-        <translation type="unfinished"/>
+        <translation>Yeni proje oluştur</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="423"/>
         <source>Create new project from template</source>
-        <translation type="unfinished"/>
+        <translation>Şablondan yeni proje oluştur</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="428"/>
         <source>Open existing project</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut projeyi aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="431"/>
         <source>Recently opened projects</source>
-        <translation type="unfinished"/>
+        <translation>Yakın zamanda açılan projeler</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="436"/>
         <source>Save current project</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut projeyi kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="439"/>
         <source>Export current project</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut projeyi dışa aktar</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="443"/>
         <source>Metronome</source>
-        <translation type="unfinished"/>
+        <translation>Metronom</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="460"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1075"/>
         <source>Song Editor</source>
-        <translation type="unfinished"/>
+        <translation>Şarkı Düzenleyici</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="465"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1079"/>
         <source>Pattern Editor</source>
-        <translation type="unfinished"/>
+        <translation>Kalıp Düzenleyici</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="469"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1083"/>
         <source>Piano Roll</source>
-        <translation type="unfinished"/>
+        <translation>Piyano Rulosu</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="473"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1087"/>
         <source>Automation Editor</source>
-        <translation type="unfinished"/>
+        <translation>Otomasyon Düzenleyicisi</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="477"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1092"/>
         <source>Mixer</source>
-        <translation type="unfinished"/>
+        <translation>FX-Karıştırıcısı</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="481"/>
         <source>Show/hide controller rack</source>
-        <translation type="unfinished"/>
+        <translation>Denetleyici rafını göster / gizle</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="485"/>
         <source>Show/hide project notes</source>
-        <translation type="unfinished"/>
+        <translation>Proje notlarını göster / gizle</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="489"/>
         <source>Microtuner configuration</source>
-        <translation type="unfinished"/>
+        <translation>Mikro ayarlayıcı yapılandırması</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="590"/>
         <source>Untitled</source>
-        <translation type="unfinished"/>
+        <translation>Başlıksız</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="605"/>
         <source>Recover session. Please save your work!</source>
-        <translation type="unfinished"/>
+        <translation>Oturumu kurtarın. Lütfen çalışmanızı kaydedin!</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="608"/>
         <source>LMMS %1</source>
-        <translation type="unfinished"/>
+        <translation>LMMS %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="627"/>
         <source>Recovered project not saved</source>
-        <translation type="unfinished"/>
+        <translation>Kurtarılan proje kaydedilmedi</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="628"/>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
-        <translation type="unfinished"/>
+        <translation>Bu proje önceki oturumdan kurtarıldı. Şu anda kaydedilmedi ve kaydetmezseniz kaybolacak. Şimdi kaydetmek ister misin?</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="633"/>
         <source>Project not saved</source>
-        <translation type="unfinished"/>
+        <translation>Proje kaydedilmedi</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="634"/>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut proje, son kayıttan bu yana değiştirildi. Şimdi kaydetmek ister misin?</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="770"/>
         <source>Open Project</source>
-        <translation type="unfinished"/>
+        <translation>Projeyi Aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="770"/>
         <source>LMMS (*.mmp *.mmpz)</source>
-        <translation type="unfinished"/>
+        <translation>LMMS (*.mmp *.mmpz)</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="813"/>
         <source>Save Project</source>
-        <translation type="unfinished"/>
+        <translation>Projeyi Kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="814"/>
         <source>LMMS Project</source>
-        <translation type="unfinished"/>
+        <translation>LMMS Projesi</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="815"/>
         <source>LMMS Project Template</source>
-        <translation type="unfinished"/>
+        <translation>LMMS Proje Şablonu</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="845"/>
         <source>Save project template</source>
-        <translation type="unfinished"/>
+        <translation>Proje şablonunu kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="893"/>
         <source>Overwrite default template?</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan şablonun üzerine yazılsın mı?</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="894"/>
         <source>This will overwrite your current default template.</source>
-        <translation type="unfinished"/>
+        <translation>Bu, mevcut varsayılan şablonunuzun üzerine yazacaktır.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="927"/>
         <source>Help not available</source>
-        <translation type="unfinished"/>
+        <translation>Yardım mevcut değil</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="928"/>
         <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda LMMS&apos;de yardım bulunmamaktadır.
+LMMS ile ilgili belgeler için lütfen http://lmms.sf.net/wiki adresini ziyaret edin.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1096"/>
         <source>Controller Rack</source>
-        <translation type="unfinished"/>
+        <translation>Denetleyici Rafı</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1100"/>
         <source>Project Notes</source>
-        <translation type="unfinished"/>
+        <translation>Proje Notları</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1104"/>
         <source>Microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Mikro ayarlayıcı</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1111"/>
         <source>Fullscreen</source>
-        <translation type="unfinished"/>
+        <translation>Tam ekran</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1121"/>
         <source>Volume as dBFS</source>
-        <translation type="unfinished"/>
+        <translation>DBFS olarak düzey</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1127"/>
         <source>Smooth scroll</source>
-        <translation type="unfinished"/>
+        <translation>Düzgün kaydırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1141"/>
         <source>Enable note labels in piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Piyano rulosunda not etiketlerini etkinleştirin</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1431"/>
         <source>MIDI File (*.mid)</source>
-        <translation type="unfinished"/>
+        <translation>MIDI Dosyası (*.mid)</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1443"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1500"/>
         <source>untitled</source>
-        <translation type="unfinished"/>
+        <translation>başlıksız</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1447"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1503"/>
         <source>Select file for project-export...</source>
-        <translation type="unfinished"/>
+        <translation>Proje dışa aktarımı için dosya seçin...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1472"/>
         <source>Select directory for writing exported tracks...</source>
-        <translation type="unfinished"/>
+        <translation>Dışa aktarılan parkurları yazmak için dizin seçin...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1534"/>
         <source>Save project</source>
-        <translation type="unfinished"/>
+        <translation>Projeyi kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1551"/>
         <source>Project saved</source>
-        <translation type="unfinished"/>
+        <translation>Proje kaydedildi</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1551"/>
         <source>The project %1 is now saved.</source>
-        <translation type="unfinished"/>
+        <translation>%1 projesi şimdi kaydedildi.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1558"/>
         <source>Project NOT saved.</source>
-        <translation type="unfinished"/>
+        <translation>Proje kaydedilmedi.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1558"/>
         <source>The project %1 was not saved!</source>
-        <translation type="unfinished"/>
+        <translation>%1 projesi kaydedilmedi!</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1597"/>
         <source>Import file</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı içe aktar</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1599"/>
         <source>MIDI sequences</source>
-        <translation type="unfinished"/>
+        <translation>MIDI dizileri</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1601"/>
         <source>Hydrogen projects</source>
-        <translation type="unfinished"/>
+        <translation>Hidrojen projeleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1603"/>
         <source>All file types</source>
-        <translation type="unfinished"/>
+        <translation>Tüm dosya türleri</translation>
     </message>
 </context>
 <context>
@@ -12481,147 +12574,147 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="405"/>
         <source>Instrument</source>
-        <translation type="unfinished"/>
+        <translation>Enstrüman</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="413"/>
         <source>Spread</source>
-        <translation type="unfinished"/>
+        <translation>Etrafa Saç</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="415"/>
         <source>Spread:</source>
-        <translation type="unfinished"/>
+        <translation>Yayılmış:</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="420"/>
         <source>Missing files</source>
-        <translation type="unfinished"/>
+        <translation>Eksik Dosyalar</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="421"/>
         <source>Your Stk-installation seems to be incomplete. Please make sure the full Stk-package is installed!</source>
-        <translation type="unfinished"/>
+        <translation>Stk kurulumunuz eksik görünüyor. Lütfen tam Stk paketinin kurulu olduğundan emin olun!</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="449"/>
         <source>Hardness</source>
-        <translation type="unfinished"/>
+        <translation>Sertlik</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="451"/>
         <source>Hardness:</source>
-        <translation type="unfinished"/>
+        <translation>Sertlik:</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="454"/>
         <source>Position</source>
-        <translation type="unfinished"/>
+        <translation>Konum</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="456"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Konum:</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="459"/>
         <source>Vibrato gain</source>
-        <translation type="unfinished"/>
+        <translation>Titreşim kazancı</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="461"/>
         <source>Vibrato gain:</source>
-        <translation type="unfinished"/>
+        <translation>Titreşim kazancı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="464"/>
         <source>Vibrato frequency</source>
-        <translation type="unfinished"/>
+        <translation>Titreşim frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="466"/>
         <source>Vibrato frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Titreşim frekansı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="469"/>
         <source>Stick mix</source>
-        <translation type="unfinished"/>
+        <translation>Çubuk karıştırıcı</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="471"/>
         <source>Stick mix:</source>
-        <translation type="unfinished"/>
+        <translation>Çubuk karıştırıcı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="485"/>
         <source>Modulator</source>
-        <translation type="unfinished"/>
+        <translation>Modülatör</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="487"/>
         <source>Modulator:</source>
-        <translation type="unfinished"/>
+        <translation>Modülatör:</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="490"/>
         <source>Crossfade</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz geçiş</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="492"/>
         <source>Crossfade:</source>
-        <translation type="unfinished"/>
+        <translation>Çapraz geçiş:</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="495"/>
         <source>LFO speed</source>
-        <translation type="unfinished"/>
+        <translation>LFO hızı</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="497"/>
         <source>LFO speed:</source>
-        <translation type="unfinished"/>
+        <translation>LFO hızı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="500"/>
         <source>LFO depth</source>
-        <translation type="unfinished"/>
+        <translation>LFO derinliği</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="502"/>
         <source>LFO depth:</source>
-        <translation type="unfinished"/>
+        <translation>LFO derinliği:</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="505"/>
         <source>ADSR</source>
-        <translation type="unfinished"/>
+        <translation>ADSR</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="507"/>
         <source>ADSR:</source>
-        <translation type="unfinished"/>
+        <translation>ADSR:</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="525"/>
         <source>Pressure</source>
-        <translation type="unfinished"/>
+        <translation>Basınç</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="527"/>
         <source>Pressure:</source>
-        <translation type="unfinished"/>
+        <translation>Basınç:</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="535"/>
         <source>Speed</source>
-        <translation type="unfinished"/>
+        <translation>Hız</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="537"/>
         <source>Speed:</source>
-        <translation type="unfinished"/>
+        <translation>Hız:</translation>
     </message>
 </context>
 <context>
@@ -12629,23 +12722,23 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="329"/>
         <source> - VST parameter control</source>
-        <translation type="unfinished"/>
+        <translation> - VST parametre kontrolü</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="338"/>
         <source>VST sync</source>
-        <translation type="unfinished"/>
+        <translation>VST senkronizasyonu</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="344"/>
         <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="468"/>
         <source>Automated</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="351"/>
         <source>    Close    </source>
-        <translation type="unfinished"/>
+        <translation>    Kapat    </translation>
     </message>
 </context>
 <context>
@@ -12654,23 +12747,23 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="954"/>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="1243"/>
         <source> - VST plugin control</source>
-        <translation type="unfinished"/>
+        <translation> - VST eklenti kontrolü</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="963"/>
         <source>VST Sync</source>
-        <translation type="unfinished"/>
+        <translation>VST Senkronizasyonu</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="969"/>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="1092"/>
         <source>Automated</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="976"/>
         <source>    Close    </source>
-        <translation type="unfinished"/>
+        <translation>    Kapat    </translation>
     </message>
 </context>
 <context>
@@ -12679,28 +12772,28 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="54"/>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="61"/>
         <source>Meter Numerator</source>
-        <translation type="unfinished"/>
+        <translation>Sayaç Payı</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="55"/>
         <source>Meter numerator</source>
-        <translation type="unfinished"/>
+        <translation>Sayaç payı</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="74"/>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="85"/>
         <source>Meter Denominator</source>
-        <translation type="unfinished"/>
+        <translation>Metre Paydası</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="75"/>
         <source>Meter denominator</source>
-        <translation type="unfinished"/>
+        <translation>Metre paydası</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="78"/>
         <source>TIME SIG</source>
-        <translation type="unfinished"/>
+        <translation>TIME SIG</translation>
     </message>
 </context>
 <context>
@@ -12708,92 +12801,94 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="59"/>
         <source>Selected scale</source>
-        <translation type="unfinished"/>
+        <translation>Seçili ölçek</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="60"/>
         <source>Selected keymap</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen tuş haritası</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="61"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="144"/>
         <source>First key</source>
-        <translation type="unfinished"/>
+        <translation>İlk tuş</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="62"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="150"/>
         <source>Last key</source>
-        <translation type="unfinished"/>
+        <translation>Son tuş</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="63"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="156"/>
         <source>Middle key</source>
-        <translation type="unfinished"/>
+        <translation>Orta tuş</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="64"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="162"/>
         <source>Base key</source>
-        <translation type="unfinished"/>
+        <translation>Temel tuş</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="65"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="168"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="171"/>
         <source>Base note frequency</source>
-        <translation type="unfinished"/>
+        <translation>Temel nota frekansı</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="68"/>
         <source>Microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Mikro ayarlayıcı</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="77"/>
         <source>Scale:</source>
-        <translation type="unfinished"/>
+        <translation>Ölçeklendir:</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="90"/>
         <source>Scale description. Cannot start with &quot;!&quot; and cannot contain a newline character.</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek açıklaması. &quot;!&quot; İle başlayamaz ve yeni satır karakteri içeremez.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="93"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="128"/>
         <source>Load</source>
-        <translation type="unfinished"/>
+        <translation>Yükle</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="94"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="129"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="102"/>
         <source>Enter intervals on separate lines. Numbers containing a decimal point are treated as cents.
 Other inputs are treated as integer ratios and must be in the form of 'a/b' or 'a'.
 Unity (0.0 cents or ratio 1/1) is always present as a hidden first value; do not enter it manually.</source>
-        <translation type="unfinished"/>
+        <translation>Aralıkları ayrı satırlara girin. Ondalık nokta içeren sayılar sent olarak kabul edilir.
+Diğer girdiler tamsayı oranları olarak değerlendirilir ve &apos;a/b&apos; veya &apos;a&apos; biçiminde olmalıdır.
+Birlik (0.0 sent veya oran 1/1) her zaman gizli bir ilk değer olarak bulunur; manuel olarak girmeyin.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="105"/>
         <source>Apply scale</source>
-        <translation type="unfinished"/>
+        <translation>Ölçeği uygula</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="112"/>
         <source>Keymap:</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası:</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="125"/>
         <source>Keymap description. Cannot start with &quot;!&quot; and cannot contain a newline character.</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası açıklaması. &quot;!&quot; İle başlayamaz ve yeni satır karakteri içeremez.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="137"/>
@@ -12802,191 +12897,195 @@ starting with the middle key and continuing in sequence.
 The pattern repeats for keys outside of the explicit keymap range.
 Multiple keys can be mapped to the same scale degree.
 Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar eşlemelerini ayrı satırlara girin. Her satır bir MIDI anahtarına bir ölçek derecesi atar,
+orta tuşla başlayıp sırayla devam eder.
+Kalıp, açık anahtar eşleme aralığının dışındaki anahtarlar için tekrarlanır.
+Birden fazla anahtar aynı ölçek derecesine eşlenebilir.
+Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız &apos;x&apos; girin.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="145"/>
         <source>FIRST</source>
-        <translation type="unfinished"/>
+        <translation>İLK</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="146"/>
         <source>First MIDI key that will be mapped</source>
-        <translation type="unfinished"/>
+        <translation>Eşlenecek ilk MIDI anahtarı</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="151"/>
         <source>LAST</source>
-        <translation type="unfinished"/>
+        <translation>SON</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="152"/>
         <source>Last MIDI key that will be mapped</source>
-        <translation type="unfinished"/>
+        <translation>Eşlenecek son MIDI anahtarı</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="157"/>
         <source>MIDDLE</source>
-        <translation type="unfinished"/>
+        <translation>ORTA</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="158"/>
         <source>First line in the keymap refers to this MIDI key</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritasındaki ilk satır bu MIDI anahtarına atıfta bulunur</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="163"/>
         <source>BASE N.</source>
-        <translation type="unfinished"/>
+        <translation>TEMEL N.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="164"/>
         <source>Base note frequency will be assigned to this MIDI key</source>
-        <translation type="unfinished"/>
+        <translation>Temel nota frekansı bu MIDI anahtarına atanacaktır</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="169"/>
         <source>BASE NOTE FREQ</source>
-        <translation type="unfinished"/>
+        <translation>TEMEL NOTA FREKANS</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="174"/>
         <source>Apply keymap</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritasını uygula</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="312"/>
         <source>Scale parsing error</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek ayrıştırma hatası</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="316"/>
         <source>Scale name cannot start with an exclamation mark</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek adı bir ünlem işaretiyle başlayamaz</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="317"/>
         <source>Scale name cannot contain a new-line character</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek adı yeni satır karakteri içeremez</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="334"/>
         <source>Interval defined in cents cannot be converted to a number</source>
-        <translation type="unfinished"/>
+        <translation>Sent olarak tanımlanan aralık bir sayıya dönüştürülemez</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="341"/>
         <source>Numerator of an interval defined as a ratio cannot be converted to a number</source>
-        <translation type="unfinished"/>
+        <translation>Oran olarak tanımlanan bir aralığın payı sayıya dönüştürülemez</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="346"/>
         <source>Denominator of an interval defined as a ratio cannot be converted to a number</source>
-        <translation type="unfinished"/>
+        <translation>Oran olarak tanımlanan bir aralığın paydası sayıya dönüştürülemez</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="347"/>
         <source>Interval defined as a ratio cannot be negative</source>
-        <translation type="unfinished"/>
+        <translation>Oran olarak tanımlanan aralık negatif olamaz</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="360"/>
         <source>Keymap parsing error</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası ayrıştırma hatası</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="364"/>
         <source>Keymap name cannot start with an exclamation mark</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası adı ünlem işaretiyle başlayamaz</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="365"/>
         <source>Keymap name cannot contain a new-line character</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası adı yeni satır karakteri içeremez</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="383"/>
         <source>Scale degree cannot be converted to a whole number</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek derecesi tam sayıya dönüştürülemez</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="384"/>
         <source>Scale degree cannot be negative</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek derecesi negatif olamaz</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="481"/>
         <source>Invalid keymap</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz tuş haritası</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="481"/>
         <source>Base key is not mapped to any scale degree. No sound will be produced as there is no way to assign reference frequency to any note.</source>
-        <translation type="unfinished"/>
+        <translation>Temel anahtar herhangi bir ölçek derecesine eşlenmez. Herhangi bir nota referans frekansı atamanın bir yolu olmadığından ses üretilmeyecektir.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="493"/>
         <source>Open scale</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek açın</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="493"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="577"/>
         <source>Scala scale definition (*.scl)</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek ölçeği tanımı (*.scl)</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="498"/>
         <source>Scale load failure</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek yükleme hatası</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="498"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="533"/>
         <source>Unable to open selected file.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili dosya açılamıyor.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="528"/>
         <source>Open keymap</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritasını aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="528"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="613"/>
         <source>Scala keymap definition (*.kbm)</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası ölçek tanımı (*.kbm)</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="533"/>
         <source>Keymap load failure</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası yükleme hatası</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="577"/>
         <source>Save scale</source>
-        <translation type="unfinished"/>
+        <translation>Ölçeği kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="583"/>
         <source>Scale save failure</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek kaydetme hatası</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="583"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="619"/>
         <source>Unable to open selected file for writing.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili dosya yazmak için açılamıyor.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="613"/>
         <source>Save keymap</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritasını kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="619"/>
         <source>Keymap save failure</source>
-        <translation type="unfinished"/>
+        <translation>Tuş haritası kaydetme hatası</translation>
     </message>
 </context>
 <context>
@@ -12995,17 +13094,17 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="50"/>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="126"/>
         <source>MIDI CC Rack - %1</source>
-        <translation type="unfinished"/>
+        <translation>MIDI CC Rack - %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="70"/>
         <source>MIDI CC Knobs:</source>
-        <translation type="unfinished"/>
+        <translation>MIDI CC Düğmeleri:</translation>
     </message>
     <message>
         <location filename="../../src/gui/MidiCCRackView.cpp" line="93"/>
         <source>CC %1</source>
-        <translation type="unfinished"/>
+        <translation>CC %1</translation>
     </message>
 </context>
 <context>
@@ -13014,52 +13113,52 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="168"/>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="226"/>
         <source>Transpose</source>
-        <translation type="unfinished"/>
+        <translation>Devrik</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="168"/>
         <source>Semitones to transpose by:</source>
-        <translation type="unfinished"/>
+        <translation>Aktarılacak yarım tonlar:</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="209"/>
         <source>Open in piano-roll</source>
-        <translation type="unfinished"/>
+        <translation>Piyano rulosunda aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="214"/>
         <source>Set as ghost in piano-roll</source>
-        <translation type="unfinished"/>
+        <translation>Piyano rulosunda hayalet olarak ayarla</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="223"/>
         <source>Clear all notes</source>
-        <translation type="unfinished"/>
+        <translation>Tüm notaları temizle</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="230"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>İsmini sıfırla</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="233"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>İsmini değiştir</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="241"/>
         <source>Add steps</source>
-        <translation type="unfinished"/>
+        <translation>Uzat</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="243"/>
         <source>Remove steps</source>
-        <translation type="unfinished"/>
+        <translation>Kısalt</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="245"/>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>Klon Adımları</translation>
     </message>
 </context>
 <context>
@@ -13067,7 +13166,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="51"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt</translation>
     </message>
 </context>
 <context>
@@ -13075,52 +13174,52 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MixerLine.cpp" line="99"/>
         <source>Channel send amount</source>
-        <translation type="unfinished"/>
+        <translation>Kanal gönderme miktarı</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerLine.cpp" line="254"/>
         <source>Move &amp;left</source>
-        <translation type="unfinished"/>
+        <translation>Sol&amp;a taşı</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerLine.cpp" line="255"/>
         <source>Move &amp;right</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sağa taşı</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerLine.cpp" line="257"/>
         <source>Rename &amp;channel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kanalı yeniden adlandır</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerLine.cpp" line="262"/>
         <source>R&amp;emove channel</source>
-        <translation type="unfinished"/>
+        <translation>Kanalı k&amp;aldır</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerLine.cpp" line="265"/>
         <source>Remove &amp;unused channels</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kullanılmayan kanalları kaldırın</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerLine.cpp" line="268"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerLine.cpp" line="270"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerLine.cpp" line="271"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Sıfırla</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerLine.cpp" line="272"/>
         <source>Pick random</source>
-        <translation type="unfinished"/>
+        <translation>Rastgele seç</translation>
     </message>
 </context>
 <context>
@@ -13128,12 +13227,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MixerLineLcdSpinBox.cpp" line="62"/>
         <source>Assign to:</source>
-        <translation type="unfinished"/>
+        <translation>Ata:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MixerLineLcdSpinBox.cpp" line="62"/>
         <source>New Mixer Channel</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Karştırıcı Kanalı</translation>
     </message>
 </context>
 <context>
@@ -13141,32 +13240,32 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="68"/>
         <source>Mixer</source>
-        <translation type="unfinished"/>
+        <translation>FX-Karıştırıcısı</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="285"/>
         <source>Fader %1</source>
-        <translation type="unfinished"/>
+        <translation>FX Fader %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="294"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Sustur</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="302"/>
         <source>Mute this channel</source>
-        <translation type="unfinished"/>
+        <translation>Bu kanalı sessize al</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="304"/>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Tek</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="314"/>
         <source>Solo this channel</source>
-        <translation type="unfinished"/>
+        <translation>Bu kanalı yalnız</translation>
     </message>
 </context>
 <context>
@@ -13174,46 +13273,46 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1466"/>
         <source>Operators view</source>
-        <translation type="unfinished"/>
+        <translation>Operatörler görünümü</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1472"/>
         <source>Matrix view</source>
-        <translation type="unfinished"/>
+        <translation>Matris görünümü</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1637"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1650"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1666"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1638"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1651"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1667"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1639"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1652"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1668"/>
         <source>Coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Kaba detune</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1639"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1652"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1668"/>
         <source> semitones</source>
-        <translation type="unfinished"/>
+        <translation> yarım tonlar</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1640"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1653"/>
         <source>Fine tune left</source>
-        <translation type="unfinished"/>
+        <translation>Sola ince ayar</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1640"/>
@@ -13221,20 +13320,20 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1653"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1654"/>
         <source> cents</source>
-        <translation type="unfinished"/>
+        <translation> sent</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1641"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1654"/>
         <source>Fine tune right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa ince ayar</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1642"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1655"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1669"/>
         <source>Stereo phase offset</source>
-        <translation type="unfinished"/>
+        <translation>Stereo faz kayması</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1642"/>
@@ -13243,47 +13342,47 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1691"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1699"/>
         <source> deg</source>
-        <translation type="unfinished"/>
+        <translation> deg</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1643"/>
         <source>Pulse width</source>
-        <translation type="unfinished"/>
+        <translation>Darbe genişliği</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1647"/>
         <source>Send sync on pulse rise</source>
-        <translation type="unfinished"/>
+        <translation>Nabız yükseldiğinde senkronizasyon gönder</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1648"/>
         <source>Send sync on pulse fall</source>
-        <translation type="unfinished"/>
+        <translation>Nabız düşüşünde senkronizasyon gönder</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1663"/>
         <source>Hard sync oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Sabit senkron osilatör 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1664"/>
         <source>Reverse sync oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Ters senkron osilatör 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1670"/>
         <source>Sub-osc mix</source>
-        <translation type="unfinished"/>
+        <translation>Alt osc karışımı</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1682"/>
         <source>Hard sync oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Sabit senkron osilatör 3</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1683"/>
         <source>Reverse sync oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Ters senkron osilatör 3</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1689"/>
@@ -13291,75 +13390,75 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1702"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1711"/>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Saldırı</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1690"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1698"/>
         <source>Rate</source>
-        <translation type="unfinished"/>
+        <translation>Oran</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1691"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1699"/>
         <source>Phase</source>
-        <translation type="unfinished"/>
+        <translation>Evre</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1701"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1710"/>
         <source>Pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>Ön gecikme</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1703"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1712"/>
         <source>Hold</source>
-        <translation type="unfinished"/>
+        <translation>Tut</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1704"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1713"/>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Bozunma</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1706"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1714"/>
         <source>Sustain</source>
-        <translation type="unfinished"/>
+        <translation>Sürdürmek</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1707"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1715"/>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Yayınla</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1708"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1716"/>
         <source>Slope</source>
-        <translation type="unfinished"/>
+        <translation>Eğim</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1723"/>
         <source>Mix osc 2 with osc 3</source>
-        <translation type="unfinished"/>
+        <translation>Osc 2&apos;yi osc 3 ile karıştır</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1729"/>
         <source>Modulate amplitude of osc 3 by osc 2</source>
-        <translation type="unfinished"/>
+        <translation>OSC 3&apos;ün genliğini osc 2 ile modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1735"/>
         <source>Modulate frequency of osc 3 by osc 2</source>
-        <translation type="unfinished"/>
+        <translation>OSC 3&apos;ün frekansını osc 2 ile modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1741"/>
         <source>Modulate phase of osc 3 by osc 2</source>
-        <translation type="unfinished"/>
+        <translation>OSC 3&apos;ün fazını OSC 2 ile modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1762"/>
@@ -13407,7 +13506,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1814"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1815"/>
         <source>Modulation amount</source>
-        <translation type="unfinished"/>
+        <translation>Modülasyon miktarı</translation>
     </message>
 </context>
 <context>
@@ -13415,42 +13514,42 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="84"/>
         <source>Length</source>
-        <translation type="unfinished"/>
+        <translation>Süre</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="85"/>
         <source>Step length:</source>
-        <translation type="unfinished"/>
+        <translation>Adım uzunluğu:</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="90"/>
         <source>Dry</source>
-        <translation type="unfinished"/>
+        <translation>Kuru</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="91"/>
         <source>Dry gain:</source>
-        <translation type="unfinished"/>
+        <translation>Kuru kazanç:</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="96"/>
         <source>Stages</source>
-        <translation type="unfinished"/>
+        <translation>Aşamalar</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="97"/>
         <source>Low-pass stages:</source>
-        <translation type="unfinished"/>
+        <translation>Düşük geçiş aşamaları:</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="100"/>
         <source>Swap inputs</source>
-        <translation type="unfinished"/>
+        <translation>Girişleri değiştir</translation>
     </message>
     <message>
         <location filename="../../plugins/MultitapEcho/MultitapEchoControlDialog.cpp" line="103"/>
         <source>Swap left and right input channels for reflections</source>
-        <translation type="unfinished"/>
+        <translation>Yansımalar için sol ve sağ giriş kanallarını değiştirin</translation>
     </message>
 </context>
 <context>
@@ -13461,152 +13560,152 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/Nes/Nes.cpp" line="818"/>
         <location filename="../../plugins/Nes/Nes.cpp" line="823"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="757"/>
         <location filename="../../plugins/Nes/Nes.cpp" line="788"/>
         <location filename="../../plugins/Nes/Nes.cpp" line="819"/>
         <source>Coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Kaba detune</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="758"/>
         <location filename="../../plugins/Nes/Nes.cpp" line="789"/>
         <location filename="../../plugins/Nes/Nes.cpp" line="825"/>
         <source>Envelope length</source>
-        <translation type="unfinished"/>
+        <translation>Zarf uzunluğu</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="760"/>
         <source>Enable channel 1</source>
-        <translation type="unfinished"/>
+        <translation>1. kanalı etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="761"/>
         <source>Enable envelope 1</source>
-        <translation type="unfinished"/>
+        <translation>Zarf 1&apos;i etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="762"/>
         <source>Enable envelope 1 loop</source>
-        <translation type="unfinished"/>
+        <translation>Zarf 1 döngüsünü etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="764"/>
         <source>Enable sweep 1</source>
-        <translation type="unfinished"/>
+        <translation>Tarama 1`i etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="765"/>
         <location filename="../../plugins/Nes/Nes.cpp" line="796"/>
         <source>Sweep amount</source>
-        <translation type="unfinished"/>
+        <translation>Tarama miktarı</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="766"/>
         <location filename="../../plugins/Nes/Nes.cpp" line="797"/>
         <source>Sweep rate</source>
-        <translation type="unfinished"/>
+        <translation>Tarama oranı</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="769"/>
         <location filename="../../plugins/Nes/Nes.cpp" line="800"/>
         <source>12.5% Duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>% 12,5 Görev döngüsü</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="771"/>
         <location filename="../../plugins/Nes/Nes.cpp" line="802"/>
         <source>25% Duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>% 25 Görev döngüsü</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="773"/>
         <location filename="../../plugins/Nes/Nes.cpp" line="804"/>
         <source>50% Duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>% 50 Görev döngüsü</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="775"/>
         <location filename="../../plugins/Nes/Nes.cpp" line="806"/>
         <source>75% Duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>% 75 Görev döngüsü</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="791"/>
         <source>Enable channel 2</source>
-        <translation type="unfinished"/>
+        <translation>2. kanalı etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="792"/>
         <source>Enable envelope 2</source>
-        <translation type="unfinished"/>
+        <translation>Zarf 2&apos;yi etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="793"/>
         <source>Enable envelope 2 loop</source>
-        <translation type="unfinished"/>
+        <translation>Zarf 2 döngüsünü etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="795"/>
         <source>Enable sweep 2</source>
-        <translation type="unfinished"/>
+        <translation>Tarama 2 yi etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="817"/>
         <source>Enable channel 3</source>
-        <translation type="unfinished"/>
+        <translation>3. kanalı etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="824"/>
         <source>Noise Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Gürültü Frekansı</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="826"/>
         <source>Frequency sweep</source>
-        <translation type="unfinished"/>
+        <translation>Frekans taraması</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="828"/>
         <source>Enable channel 4</source>
-        <translation type="unfinished"/>
+        <translation>4. kanalı etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="829"/>
         <source>Enable envelope 4</source>
-        <translation type="unfinished"/>
+        <translation>Zarf 4&apos;ü etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="830"/>
         <source>Enable envelope 4 loop</source>
-        <translation type="unfinished"/>
+        <translation>Zarf 4 döngüsünü etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="832"/>
         <source>Quantize noise frequency when using note frequency</source>
-        <translation type="unfinished"/>
+        <translation>Nota frekansını kullanırken gürültü frekansını nicelendirin</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="834"/>
         <source>Use note frequency for noise</source>
-        <translation type="unfinished"/>
+        <translation>Gürültü için nota frekansını kullanın</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="835"/>
         <source>Noise mode</source>
-        <translation type="unfinished"/>
+        <translation>Gürültü modu</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="839"/>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>Ana ses</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="840"/>
         <source>Vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Titreşim</translation>
     </message>
 </context>
 <context>
@@ -13615,25 +13714,25 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="803"/>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="805"/>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Saldırı</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="807"/>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="809"/>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Bozunma</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="811"/>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="813"/>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Yayınla</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="815"/>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="817"/>
         <source>Frequency multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Frekans çarpanı</translation>
     </message>
 </context>
 <context>
@@ -13641,48 +13740,48 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="437"/>
         <source>Distortion:</source>
-        <translation type="unfinished"/>
+        <translation>Çarpıtma:</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="445"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="449"/>
         <source>Randomise</source>
-        <translation type="unfinished"/>
+        <translation>Rastgele</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="512"/>
         <location filename="../../plugins/Organic/Organic.cpp" line="558"/>
         <source>Osc %1 waveform:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 dalga biçimi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="519"/>
         <source>Osc %1 volume:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 düzeyi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="525"/>
         <source>Osc %1 panning:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 kaydırma:</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="531"/>
         <source>Osc %1 stereo detuning</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 stereo perdeleme</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="533"/>
         <source>cents</source>
-        <translation type="unfinished"/>
+        <translation>sent</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="556"/>
         <source>Osc %1 harmonic:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 harmonik:</translation>
     </message>
 </context>
 <context>
@@ -13690,12 +13789,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/Oscilloscope.cpp" line="61"/>
         <source>Oscilloscope</source>
-        <translation type="unfinished"/>
+        <translation>Oscilloscope</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Oscilloscope.cpp" line="181"/>
         <source>Click to enable</source>
-        <translation type="unfinished"/>
+        <translation>Etkinleştirmek için tıklayın</translation>
     </message>
 </context>
 <context>
@@ -13703,42 +13802,42 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/Patman/Patman.cpp" line="468"/>
         <source>Open patch</source>
-        <translation type="unfinished"/>
+        <translation>Yama aç</translation>
     </message>
     <message>
         <location filename="../../plugins/Patman/Patman.cpp" line="470"/>
         <source>Loop</source>
-        <translation type="unfinished"/>
+        <translation>Döngü</translation>
     </message>
     <message>
         <location filename="../../plugins/Patman/Patman.cpp" line="478"/>
         <source>Loop mode</source>
-        <translation type="unfinished"/>
+        <translation>Döngü modu</translation>
     </message>
     <message>
         <location filename="../../plugins/Patman/Patman.cpp" line="480"/>
         <source>Tune</source>
-        <translation type="unfinished"/>
+        <translation>Ayarla</translation>
     </message>
     <message>
         <location filename="../../plugins/Patman/Patman.cpp" line="488"/>
         <source>Tune mode</source>
-        <translation type="unfinished"/>
+        <translation>Ayar modu</translation>
     </message>
     <message>
         <location filename="../../plugins/Patman/Patman.cpp" line="490"/>
         <source>No file selected</source>
-        <translation type="unfinished"/>
+        <translation>Dosya seçilmedi</translation>
     </message>
     <message>
         <location filename="../../plugins/Patman/Patman.cpp" line="500"/>
         <source>Open patch file</source>
-        <translation type="unfinished"/>
+        <translation>Yama dosyasını aç</translation>
     </message>
     <message>
         <location filename="../../plugins/Patman/Patman.cpp" line="504"/>
         <source>Patch-Files (*.pat)</source>
-        <translation type="unfinished"/>
+        <translation>Yama Dosyaları (*.pat)</translation>
     </message>
 </context>
 <context>
@@ -13746,17 +13845,17 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/clips/PatternClipView.cpp" line="55"/>
         <source>Open in Pattern Editor</source>
-        <translation type="unfinished"/>
+        <translation>Kalıp Düzenleyicide Aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/PatternClipView.cpp" line="61"/>
         <source>Reset name</source>
-        <translation type="unfinished"/>
+        <translation>İsmini sıfırla</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/PatternClipView.cpp" line="64"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>İsmini değiştir</translation>
     </message>
 </context>
 <context>
@@ -13764,62 +13863,62 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="228"/>
         <source>Pattern Editor</source>
-        <translation type="unfinished"/>
+        <translation>Kalıp Düzenleyici</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="246"/>
         <source>Play/pause current pattern (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli kalıbı oynat/duraklat (Boşluk)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="247"/>
         <source>Stop playback of current pattern (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli kalıbın oynatılmasını durdur (Boşluk)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="251"/>
         <source>Pattern selector</source>
-        <translation type="unfinished"/>
+        <translation>Kalıp seçici</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="261"/>
         <source>Track and step actions</source>
-        <translation type="unfinished"/>
+        <translation>Eylemleri izleyin ve adımlayın</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="264"/>
         <source>New pattern</source>
-        <translation type="unfinished"/>
+        <translation>Yeni kalıp</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="266"/>
         <source>Clone pattern</source>
-        <translation type="unfinished"/>
+        <translation>Kalıbı klonla</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="268"/>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Örnek parça ekle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="270"/>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>Ayarkayıt parçası ekle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="279"/>
         <source>Remove steps</source>
-        <translation type="unfinished"/>
+        <translation>Kısalt</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="281"/>
         <source>Add steps</source>
-        <translation type="unfinished"/>
+        <translation>Uzat</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="283"/>
         <source>Clone Steps</source>
-        <translation type="unfinished"/>
+        <translation>Klon Adımları</translation>
     </message>
 </context>
 <context>
@@ -13827,12 +13926,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/PeakControllerDialog.cpp" line="42"/>
         <source>PEAK</source>
-        <translation type="unfinished"/>
+        <translation>ZİRVE</translation>
     </message>
     <message>
         <location filename="../../src/gui/PeakControllerDialog.cpp" line="46"/>
         <source>LFO Controller</source>
-        <translation type="unfinished"/>
+        <translation>LFO Denetleyicisi</translation>
     </message>
 </context>
 <context>
@@ -13840,72 +13939,72 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="53"/>
         <source>BASE</source>
-        <translation type="unfinished"/>
+        <translation>TEMEL</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="55"/>
         <source>Base:</source>
-        <translation type="unfinished"/>
+        <translation>Temel:</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="58"/>
         <source>AMNT</source>
-        <translation type="unfinished"/>
+        <translation>AMNT</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="60"/>
         <source>Modulation amount:</source>
-        <translation type="unfinished"/>
+        <translation>Modülasyon miktarı:</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="63"/>
         <source>MULT</source>
-        <translation type="unfinished"/>
+        <translation>ÇOK</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="65"/>
         <source>Amount multiplicator:</source>
-        <translation type="unfinished"/>
+        <translation>Miktar çarpanı:</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="68"/>
         <source>ATCK</source>
-        <translation type="unfinished"/>
+        <translation>SALDIRI</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="70"/>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Saldırı:</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="73"/>
         <source>DCAY</source>
-        <translation type="unfinished"/>
+        <translation>BOZUNMA</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="75"/>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>Yayınla:</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="78"/>
         <source>TRSH</source>
-        <translation type="unfinished"/>
+        <translation>EŞİK</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="80"/>
         <source>Treshold:</source>
-        <translation type="unfinished"/>
+        <translation>Eşik:</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="82"/>
         <source>Mute output</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış sessiz</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="85"/>
         <source>Absolute value</source>
-        <translation type="unfinished"/>
+        <translation>Mutlak değer</translation>
     </message>
 </context>
 <context>
@@ -13913,118 +14012,118 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="223"/>
         <source>Note Velocity</source>
-        <translation type="unfinished"/>
+        <translation>Nota Hızı</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="224"/>
         <source>Note Panning</source>
-        <translation type="unfinished"/>
+        <translation>Nota Kaydırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="237"/>
         <source>Mark/unmark current semitone</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli yarım tonu işaretle / işareti kaldır</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="238"/>
         <source>Mark/unmark all corresponding octave semitones</source>
-        <translation type="unfinished"/>
+        <translation>İlgili tüm oktav yarı tonlarını işaretle / işareti kaldır</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="239"/>
         <source>Mark current scale</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut ölçeği işaretle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="240"/>
         <source>Mark current chord</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli akoru işaretle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="241"/>
         <source>Unmark all</source>
-        <translation type="unfinished"/>
+        <translation>Hepsinin işaretini kaldır</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="242"/>
         <source>Select all notes on this key</source>
-        <translation type="unfinished"/>
+        <translation>Bu anahtardaki tüm notaları seçin</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="360"/>
         <source>Note lock</source>
-        <translation type="unfinished"/>
+        <translation>Nota kilidi</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="370"/>
         <source>Last note</source>
-        <translation type="unfinished"/>
+        <translation>Son nota</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="394"/>
         <source>No key</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar yok</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="407"/>
         <source>No scale</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek yok</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="424"/>
         <source>No chord</source>
-        <translation type="unfinished"/>
+        <translation>Akord yok</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="454"/>
         <source>Nudge</source>
-        <translation type="unfinished"/>
+        <translation>Dürtme</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="455"/>
         <source>Snap</source>
-        <translation type="unfinished"/>
+        <translation>Yapış</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="496"/>
         <source>Velocity: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Hız: %1%</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="505"/>
         <source>Panning: %1% left</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma: %1% sola</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="509"/>
         <source>Panning: %1% right</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma: %1% sağa</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="513"/>
         <source>Panning: center</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma: merkez</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="681"/>
         <source>Glue notes failed</source>
-        <translation type="unfinished"/>
+        <translation>Yapışkan notaları başarısız oldu</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="682"/>
         <source>Please select notes to glue first.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen önce yapıştırılacak notaları seçin.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="3641"/>
         <source>Please open a clip by double-clicking on it!</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen üzerine çift tıklayarak bir desen açın!</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4278"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4297"/>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen %1 ile %2 arasında yeni bir değer girin:</translation>
     </message>
 </context>
 <context>
@@ -14032,241 +14131,241 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
         <source>Play/pause current clip (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Seçili bölümü oynat/durdur (Boşluk Tuşu)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
         <source>Record notes from MIDI-device/channel-piano</source>
-        <translation type="unfinished"/>
+        <translation>MIDI aygıtında/kanal piyanodan notaları kaydedin</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
-        <translation type="unfinished"/>
+        <translation>Şarkı veya kalıp parçasını çalarken MIDI cihazından/kanal piyanosundan notlar kaydedin</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
-        <translation type="unfinished"/>
+        <translation>MIDI aygıtından/kanal piyanodan notaları bir seferde bir adım kaydedin</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Stop playing of current clip (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Seçili modeli oynatmayı durdur (Boşluk Tuşu)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>İşlemleri düzenle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4762"/>
         <source>Draw mode (Shift+D)</source>
-        <translation type="unfinished"/>
+        <translation>Çizim modu (Shift+D)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
         <source>Erase mode (Shift+E)</source>
-        <translation type="unfinished"/>
+        <translation>Silgi modu (Shift+E)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Select mode (Shift+S)</source>
-        <translation type="unfinished"/>
+        <translation>Modu seçin (Shift + S)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
         <source>Pitch Bend mode (Shift+T)</source>
-        <translation type="unfinished"/>
+        <translation>Pitch Bend modu (Shift+T)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4780"/>
         <source>Quantize</source>
-        <translation type="unfinished"/>
+        <translation>Niceleme</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
         <source>Quantize positions</source>
-        <translation type="unfinished"/>
+        <translation>Niceleme pozisyonları</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
         <source>Quantize lengths</source>
-        <translation type="unfinished"/>
+        <translation>Niceleme uzunlukları</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4802"/>
         <source>File actions</source>
-        <translation type="unfinished"/>
+        <translation>Dosya işlemleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4810"/>
         <source>Import clip</source>
-        <translation type="unfinished"/>
+        <translation>Deseni içe aktar</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
         <source>Export clip</source>
-        <translation type="unfinished"/>
+        <translation>Deseni dışa aktar</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
         <source>Copy paste controls</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala yapıştır kontrolleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
         <source>Cut (%1+X)</source>
-        <translation type="unfinished"/>
+        <translation>Kes (%1+X)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4827"/>
         <source>Copy (%1+C)</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala (%1+C)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4829"/>
         <source>Paste (%1+V)</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır (%1+V)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4844"/>
         <source>Timeline controls</source>
-        <translation type="unfinished"/>
+        <translation>Zaman çizelgesi kontrolleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4852"/>
         <source>Glue</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştırıcı</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4856"/>
         <source>Knife</source>
-        <translation type="unfinished"/>
+        <translation>Bıçak</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4860"/>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Dolgu</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4864"/>
         <source>Cut overlaps</source>
-        <translation type="unfinished"/>
+        <translation>Örtüşmeleri kes</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4868"/>
         <source>Min length as last</source>
-        <translation type="unfinished"/>
+        <translation>Son olarak en düşük uzunluk</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
         <source>Max length as last</source>
-        <translation type="unfinished"/>
+        <translation>Son olarak en yüksek uzunluk</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4886"/>
         <source>Zoom and note controls</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştırma ve nota kontrolleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4894"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Yatay yakınlaştırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4902"/>
         <source>Vertical zooming</source>
-        <translation type="unfinished"/>
+        <translation>Dikey yakınlaştırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4911"/>
         <source>Quantization</source>
-        <translation type="unfinished"/>
+        <translation>Niceleme</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4920"/>
         <source>Note length</source>
-        <translation type="unfinished"/>
+        <translation>Nota uzunluğu</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4926"/>
         <source>Key</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
         <source>Scale</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4944"/>
         <source>Chord</source>
-        <translation type="unfinished"/>
+        <translation>Kiriş</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4953"/>
         <source>Snap mode</source>
-        <translation type="unfinished"/>
+        <translation>Anlık çekim modu</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4958"/>
         <source>Clear ghost notes</source>
-        <translation type="unfinished"/>
+        <translation>Hayalet notaları temizle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5067"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5244"/>
         <source>Piano-Roll - %1</source>
-        <translation type="unfinished"/>
+        <translation>Piyano Rulosu -%1</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5074"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5249"/>
         <source>Piano-Roll - no clip</source>
-        <translation type="unfinished"/>
+        <translation>Piyano Rulosu - desen yok</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
         <source>XML clip file (*.xpt *.xptz)</source>
-        <translation type="unfinished"/>
+        <translation>XML desen dosyası (*.xpt *.xptz)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
         <source>Export clip success</source>
-        <translation type="unfinished"/>
+        <translation>Deseni dışa aktarma başarılı</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
         <source>Clip saved to %1</source>
-        <translation type="unfinished"/>
+        <translation>Desen %1&apos;e kaydedildi</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5304"/>
         <source>Import clip.</source>
-        <translation type="unfinished"/>
+        <translation>Deseni içe aktar.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Bir kalıp almak üzeresiniz, bu mevcut kalıbınızın üzerine yazılacaktır. Devam etmek istiyor musun?</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5314"/>
         <source>Open clip</source>
-        <translation type="unfinished"/>
+        <translation>Desen aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5334"/>
         <source>Import clip success</source>
-        <translation type="unfinished"/>
+        <translation>Desen başarılı şekilde içe aktarıldı</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
         <source>Imported clip %1!</source>
-        <translation type="unfinished"/>
+        <translation>%1 deseni içe aktarıldı!</translation>
     </message>
 </context>
 <context>
@@ -14274,17 +14373,17 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/instrument/PianoView.cpp" line="821"/>
         <source>Base note</source>
-        <translation type="unfinished"/>
+        <translation>Temel nota</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/PianoView.cpp" line="826"/>
         <source>First note</source>
-        <translation type="unfinished"/>
+        <translation>İlk nota</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/PianoView.cpp" line="831"/>
         <source>Last note</source>
-        <translation type="unfinished"/>
+        <translation>Son nota</translation>
     </message>
 </context>
 <context>
@@ -14292,17 +14391,17 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="45"/>
         <source>Instrument Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Enstrüman Eklentileri</translation>
     </message>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="48"/>
         <source>Instrument browser</source>
-        <translation type="unfinished"/>
+        <translation>Enstrüman tarayıcısı</translation>
     </message>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="59"/>
         <source>Drag an instrument into either the Song Editor, the Pattern Editor or into an existing instrument track.</source>
-        <translation type="unfinished"/>
+        <translation>Bir enstrümanı Şarkı Düzenleyici, Kalıp Düzenleyici veya mevcut bir enstrüman parçasına sürükleyin.</translation>
     </message>
 </context>
 <context>
@@ -14310,147 +14409,147 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="74"/>
         <source>Project Notes</source>
-        <translation type="unfinished"/>
+        <translation>Proje Notları</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="89"/>
         <source>Enter project notes here</source>
-        <translation type="unfinished"/>
+        <translation>Buraya proje notlarını girin</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="110"/>
         <source>Edit Actions</source>
-        <translation type="unfinished"/>
+        <translation>İşlemleri Düzenle</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="113"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>Geri &amp;Al</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="115"/>
         <source>%1+Z</source>
-        <translation type="unfinished"/>
+        <translation>%1+Z</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="119"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yinele</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="121"/>
         <source>%1+Y</source>
-        <translation type="unfinished"/>
+        <translation>%1+Y</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="125"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kopyala</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="127"/>
         <source>%1+C</source>
-        <translation type="unfinished"/>
+        <translation>%1+C</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="131"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Ke&amp;s</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="133"/>
         <source>%1+X</source>
-        <translation type="unfinished"/>
+        <translation>%1+X</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="137"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yapıştır</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="139"/>
         <source>%1+V</source>
-        <translation type="unfinished"/>
+        <translation>%1+V</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="144"/>
         <source>Format Actions</source>
-        <translation type="unfinished"/>
+        <translation>Eylemleri Biçimlendir</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="168"/>
         <source>&amp;Bold</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kalın</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="169"/>
         <source>%1+B</source>
-        <translation type="unfinished"/>
+        <translation>%1+B</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="175"/>
         <source>&amp;Italic</source>
-        <translation type="unfinished"/>
+        <translation>&amp;İtalik</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="176"/>
         <source>%1+I</source>
-        <translation type="unfinished"/>
+        <translation>%1+I</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="183"/>
         <source>&amp;Underline</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Altını çizgili</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="184"/>
         <source>%1+U</source>
-        <translation type="unfinished"/>
+        <translation>%1+U</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="194"/>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sol</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="195"/>
         <source>%1+L</source>
-        <translation type="unfinished"/>
+        <translation>%1+L</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="201"/>
         <source>C&amp;enter</source>
-        <translation type="unfinished"/>
+        <translation>M&amp;erkez</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="203"/>
         <source>%1+E</source>
-        <translation type="unfinished"/>
+        <translation>%1+E</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="208"/>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ağ</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="210"/>
         <source>%1+R</source>
-        <translation type="unfinished"/>
+        <translation>%1+R</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="216"/>
         <source>&amp;Justify</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yasla</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="217"/>
         <source>%1+J</source>
-        <translation type="unfinished"/>
+        <translation>%1+J</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="224"/>
         <source>&amp;Color...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Renk...</translation>
     </message>
 </context>
 <context>
@@ -14458,7 +14557,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/menus/RecentProjectsMenu.cpp" line="18"/>
         <source>&amp;Recently Opened Projects</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeni Açılan Projeler</translation>
     </message>
 </context>
 <context>
@@ -14466,7 +14565,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/modals/RenameDialog.cpp" line="40"/>
         <source>Rename...</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden adlandır...</translation>
     </message>
 </context>
 <context>
@@ -14474,42 +14573,42 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="48"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Giriş</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="49"/>
         <source>Input gain:</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kazancı:</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="54"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Boy</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="55"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Büyüklük:</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="60"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Renk</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="61"/>
         <source>Color:</source>
-        <translation type="unfinished"/>
+        <translation>Renk:</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="66"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="67"/>
         <source>Output gain:</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı:</translation>
     </message>
 </context>
 <context>
@@ -14517,241 +14616,241 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="90"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Duraklat</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="91"/>
         <source>Pause data acquisition</source>
-        <translation type="unfinished"/>
+        <translation>Veri edinmeyi duraklatın</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="104"/>
         <source>Reference freeze</source>
-        <translation type="unfinished"/>
+        <translation>Referans dondurma</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="105"/>
         <source>Freeze current input as a reference / disable falloff in peak-hold mode.</source>
-        <translation type="unfinished"/>
+        <translation>Pik tutma modunda akım girişini referans olarak dondurun / düşüşü devre dışı bırakın.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="119"/>
         <source>Waterfall</source>
-        <translation type="unfinished"/>
+        <translation>Şelale</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="120"/>
         <source>Display real-time spectrogram</source>
-        <translation type="unfinished"/>
+        <translation>Gerçek zamanlı spektrogramı göster</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="126"/>
         <source>Averaging</source>
-        <translation type="unfinished"/>
+        <translation>Ortalama</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="127"/>
         <source>Enable exponential moving average</source>
-        <translation type="unfinished"/>
+        <translation>Üstel hareketli ortalamayı etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="133"/>
         <source>Stereo</source>
-        <translation type="unfinished"/>
+        <translation>Stereo</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="134"/>
         <source>Display stereo channels separately</source>
-        <translation type="unfinished"/>
+        <translation>Stereo kanalları ayrı olarak görüntüleyin</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="140"/>
         <source>Peak hold</source>
-        <translation type="unfinished"/>
+        <translation>Tepe tutma</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="141"/>
         <source>Display envelope of peak values</source>
-        <translation type="unfinished"/>
+        <translation>Tepe değerlerin zarfını görüntüle</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="148"/>
         <source>Logarithmic frequency</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmik frekans</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="149"/>
         <source>Switch between logarithmic and linear frequency scale</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmik ve doğrusal frekans ölçeği arasında geçiş yapın</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="162"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="163"/>
         <source>Frequency range</source>
-        <translation type="unfinished"/>
+        <translation>Frekans aralığı</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="170"/>
         <source>Logarithmic amplitude</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmik genlik</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="171"/>
         <source>Switch between logarithmic and linear amplitude scale</source>
-        <translation type="unfinished"/>
+        <translation>Logaritmik ve doğrusal genlik ölçeği arasında geçiş yapın</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="184"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="185"/>
         <source>Amplitude range</source>
-        <translation type="unfinished"/>
+        <translation>Genlik aralığı</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="198"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="199"/>
         <source>FFT block size</source>
-        <translation type="unfinished"/>
+        <translation>FFT blok boyutu</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="214"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="215"/>
         <source>FFT window type</source>
-        <translation type="unfinished"/>
+        <translation>FFT pencere türü</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="241"/>
         <source>Envelope res.</source>
-        <translation type="unfinished"/>
+        <translation>Zarf çözümü.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="242"/>
         <source>Increase envelope resolution for better details, decrease for better GUI performance.</source>
-        <translation type="unfinished"/>
+        <translation>Daha iyi ayrıntılar için zarf çözünürlüğünü artırın, daha iyi Arayüz performansı için azaltın.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="243"/>
         <source>Maximum number of envelope points drawn per pixel:</source>
-        <translation type="unfinished"/>
+        <translation>Piksel başına çizilen azami zarf noktası sayısı:</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="249"/>
         <source>Spectrum res.</source>
-        <translation type="unfinished"/>
+        <translation>Spectrum res.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="250"/>
         <source>Increase spectrum resolution for better details, decrease for better GUI performance.</source>
-        <translation type="unfinished"/>
+        <translation>Daha iyi ayrıntılar için spektrum çözünürlüğünü artırın, daha iyi Arayüz performansı için azaltın.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="251"/>
         <source>Maximum number of spectrum points drawn per pixel:</source>
-        <translation type="unfinished"/>
+        <translation>Piksel başına çizilen azami spektrum noktası sayısı:</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="257"/>
         <source>Falloff factor</source>
-        <translation type="unfinished"/>
+        <translation>Düşüş faktörü</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="258"/>
         <source>Decrease to make peaks fall faster.</source>
-        <translation type="unfinished"/>
+        <translation>Zirvelerin daha hızlı düşmesi için azaltın.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="259"/>
         <source>Multiply buffered value by</source>
-        <translation type="unfinished"/>
+        <translation>Arabelleğe alınan değeri şununla çarp</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="265"/>
         <source>Averaging weight</source>
-        <translation type="unfinished"/>
+        <translation>Ortalama ağırlık</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="266"/>
         <source>Decrease to make averaging slower and smoother.</source>
-        <translation type="unfinished"/>
+        <translation>Ortalama almayı daha yavaş ve pürüzsüz hale getirmek için azaltın.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="267"/>
         <source>New sample contributes</source>
-        <translation type="unfinished"/>
+        <translation>Yeni örnek katkıda bulunur</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="273"/>
         <source>Waterfall height</source>
-        <translation type="unfinished"/>
+        <translation>Şelale yüksekliği</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="274"/>
         <source>Increase to get slower scrolling, decrease to see fast transitions better. Warning: medium CPU usage.</source>
-        <translation type="unfinished"/>
+        <translation>Daha yavaş kaydırmak için artırın, hızlı geçişleri daha iyi görmek için azaltın. Uyarı: orta CPU kullanımı.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="275"/>
         <source>Number of lines to keep:</source>
-        <translation type="unfinished"/>
+        <translation>Saklanacak satır sayısı:</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="283"/>
         <source>Waterfall gamma</source>
-        <translation type="unfinished"/>
+        <translation>Şelale gama</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="284"/>
         <source>Decrease to see very weak signals, increase to get better contrast.</source>
-        <translation type="unfinished"/>
+        <translation>Çok zayıf sinyalleri görmeyi azaltın, daha iyi kontrast elde etmek için artırın.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="285"/>
         <source>Gamma value:</source>
-        <translation type="unfinished"/>
+        <translation>Gama değeri:</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="291"/>
         <source>Window overlap</source>
-        <translation type="unfinished"/>
+        <translation>Pencere örtüşmesi</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="292"/>
         <source>Increase to prevent missing fast transitions arriving near FFT window edges. Warning: high CPU usage.</source>
-        <translation type="unfinished"/>
+        <translation>FFT pencere kenarlarının yakınına gelen eksik hızlı geçişleri önlemek için artırın. Uyarı: yüksek CPU kullanımı.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="293"/>
         <source>Number of times each sample is processed:</source>
-        <translation type="unfinished"/>
+        <translation>Her örneğin işlenme sayısı:</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="299"/>
         <source>Zero padding</source>
-        <translation type="unfinished"/>
+        <translation>Sıfır dolgu</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="300"/>
         <source>Increase to get smoother-looking spectrum. Warning: high CPU usage.</source>
-        <translation type="unfinished"/>
+        <translation>Daha pürüzsüz görünen spektrum elde etmek için artırın. Uyarı: yüksek CPU kullanımı.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="301"/>
         <source>Processing buffer is</source>
-        <translation type="unfinished"/>
+        <translation>İşleme tamponu</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="301"/>
         <source> steps larger than input block</source>
-        <translation type="unfinished"/>
+        <translation> giriş bloğundan daha büyük adımlar</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="308"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"/>
+        <translation>Gelişmiş ayarlar</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="309"/>
         <source>Access advanced settings</source>
-        <translation type="unfinished"/>
+        <translation>Gelişmiş ayarlara erişin</translation>
     </message>
 </context>
 <context>
@@ -14759,12 +14858,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/clips/SampleClipView.cpp" line="65"/>
         <source>Double-click to open sample</source>
-        <translation type="unfinished"/>
+        <translation>Örneği açmak için çift tıklayın</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/SampleClipView.cpp" line="81"/>
         <source>Reverse sample</source>
-        <translation type="unfinished"/>
+        <translation>Ters örnek</translation>
     </message>
 </context>
 <context>
@@ -14772,37 +14871,37 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/tracks/SampleTrackView.cpp" line="63"/>
         <source>Track volume</source>
-        <translation type="unfinished"/>
+        <translation>Parça ses düzeyi</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/SampleTrackView.cpp" line="66"/>
         <source>Channel volume:</source>
-        <translation type="unfinished"/>
+        <translation>Kanal ses düzeyi:</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/SampleTrackView.cpp" line="73"/>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>SES</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/SampleTrackView.cpp" line="77"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/SampleTrackView.cpp" line="79"/>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma:</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/SampleTrackView.cpp" line="81"/>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/SampleTrackView.cpp" line="149"/>
         <source>%1: %2</source>
-        <translation type="unfinished"/>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -14810,47 +14909,47 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="63"/>
         <source>GENERAL SETTINGS</source>
-        <translation type="unfinished"/>
+        <translation>GENEL AYARLAR</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="97"/>
         <source>Sample volume</source>
-        <translation type="unfinished"/>
+        <translation>Örnek düzey</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="99"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi:</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="104"/>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>SES</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="111"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="112"/>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma:</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="117"/>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="127"/>
         <source>Mixer channel</source>
-        <translation type="unfinished"/>
+        <translation>FX kanalı</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="132"/>
         <source>CHANNEL</source>
-        <translation type="unfinished"/>
+        <translation>KANAL</translation>
     </message>
 </context>
 <context>
@@ -14858,12 +14957,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/modals/VersionedSaveDialog.cpp" line="184"/>
         <source>Discard MIDI connections</source>
-        <translation type="unfinished"/>
+        <translation>MIDI bağlantılarını atın</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/VersionedSaveDialog.cpp" line="188"/>
         <source>Save As Project Bundle (with resources)</source>
-        <translation type="unfinished"/>
+        <translation>Proje Paketi Olarak Kaydet (kaynaklarla)</translation>
     </message>
 </context>
 <context>
@@ -14871,343 +14970,344 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="159"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="199"/>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="798"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Genel</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="217"/>
         <source>Graphical user interface (GUI)</source>
-        <translation type="unfinished"/>
+        <translation>Grafik kullanıcı arayüzü (GUI)</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="219"/>
         <source>Display volume as dBFS </source>
-        <translation type="unfinished"/>
+        <translation>Ses seviyesini dBFS olarak görüntüle </translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="221"/>
         <source>Enable tooltips</source>
-        <translation type="unfinished"/>
+        <translation>Araç ipuçlarını etkinleştirin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="223"/>
         <source>Enable master oscilloscope by default</source>
-        <translation type="unfinished"/>
+        <translation>Ana osiloskopu varsayılan olarak etkinleştirin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="225"/>
         <source>Enable all note labels in piano roll</source>
-        <translation type="unfinished"/>
+        <translation>Piyano rulosundaki tüm nota etiketlerini etkinleştirin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="227"/>
         <source>Enable compact track buttons</source>
-        <translation type="unfinished"/>
+        <translation>Kompakt parça düğmelerini etkinleştirin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="229"/>
         <source>Enable one instrument-track-window mode</source>
-        <translation type="unfinished"/>
+        <translation>Bir enstrüman izleme penceresi modunu etkinleştirin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="231"/>
         <source>Show sidebar on the right-hand side</source>
-        <translation type="unfinished"/>
+        <translation>Sağ tarafta kenar çubuğunu göster</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="233"/>
         <source>Let sample previews continue when mouse is released</source>
-        <translation type="unfinished"/>
+        <translation>Fare bırakıldığında örnek önizlemelerin devam etmesine izin verin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="235"/>
         <source>Mute automation tracks during solo</source>
-        <translation type="unfinished"/>
+        <translation>Solo sırasında otomasyon izlerini sessize alma</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="237"/>
         <source>Show warning when deleting tracks</source>
-        <translation type="unfinished"/>
+        <translation>Parçaları silerken uyarı göster</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="246"/>
         <source>Projects</source>
-        <translation type="unfinished"/>
+        <translation>Projeler</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="248"/>
         <source>Compress project files by default</source>
-        <translation type="unfinished"/>
+        <translation>Proje dosyalarını varsayılan olarak sıkıştır</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="250"/>
         <source>Create a backup file when saving a project</source>
-        <translation type="unfinished"/>
+        <translation>Bir projeyi kaydederken bir yedek dosya oluşturun</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="252"/>
         <source>Reopen last project on startup</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıçta son projeyi yeniden aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="258"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Dil</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="329"/>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="801"/>
         <source>Performance</source>
-        <translation type="unfinished"/>
+        <translation>Başarım</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="333"/>
         <source>Autosave</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="352"/>
         <source>Enable autosave</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik kaydetmeyi etkinleştir</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="359"/>
         <source>Allow autosave while playing</source>
-        <translation type="unfinished"/>
+        <translation>Oynatırken otomatik kaydetmeye izin ver</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="377"/>
         <source>User interface (UI) effects vs. performance</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı arayüzü (UI) efektleri ile performans karşılaştırması</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="379"/>
         <source>Smooth scroll in song editor</source>
-        <translation type="unfinished"/>
+        <translation>Şarkı düzenleyicide yumuşak kaydırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="381"/>
         <source>Display playback cursor in AudioFileProcessor</source>
-        <translation type="unfinished"/>
+        <translation>Ses Dosyası İşlemcisindeki oynatma imlecini görüntüle</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="390"/>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Eklentiler</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="394"/>
         <source>VST plugins embedding:</source>
-        <translation type="unfinished"/>
+        <translation>Gömülü VST eklentileri:</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="400"/>
         <source>No embedding</source>
-        <translation type="unfinished"/>
+        <translation>Yerleştirme yok</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="403"/>
         <source>Embed using Qt API</source>
-        <translation type="unfinished"/>
+        <translation>Qt API kullanarak yerleştirin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="407"/>
         <source>Embed using native Win32 API</source>
-        <translation type="unfinished"/>
+        <translation>Yerel Win32 API kullanarak yerleştirme</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="411"/>
         <source>Embed using XEmbed protocol</source>
-        <translation type="unfinished"/>
+        <translation>XEmbed protokolünü kullanarak gömün</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="420"/>
         <source>Keep plugin windows on top when not embedded</source>
-        <translation type="unfinished"/>
+        <translation>Gömülü değilken eklenti pencerelerini üstte tutun</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="427"/>
         <source>Keep effects running even without input</source>
-        <translation type="unfinished"/>
+        <translation>Efektlerin girdi olmasa bile çalışmaya devam etmesini sağlayın</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="447"/>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="804"/>
         <source>Audio</source>
-        <translation type="unfinished"/>
+        <translation>Ses</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="450"/>
         <source>Audio interface</source>
-        <translation type="unfinished"/>
+        <translation>Ses arayüzü</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="541"/>
         <source>Use built-in NaN handler</source>
-        <translation type="unfinished"/>
+        <translation>Yerleşik NaN işleyicisini kullanın</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="546"/>
         <source>HQ mode for output audio device</source>
-        <translation type="unfinished"/>
+        <translation>Ses çıkışı cihazı için HQ modu</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="554"/>
         <source>Buffer size</source>
-        <translation type="unfinished"/>
+        <translation>Arabellek boyutu</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="579"/>
         <source>Reset to default value</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan değere sıfırla</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="597"/>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="807"/>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="600"/>
         <source>MIDI interface</source>
-        <translation type="unfinished"/>
+        <translation>MIDI arayüzü</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="679"/>
         <source>Automatically assign MIDI controller to selected track</source>
-        <translation type="unfinished"/>
+        <translation>MIDI denetleyicisini seçilen parçaya otomatik olarak atayın</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="714"/>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="810"/>
         <source>Paths</source>
-        <translation type="unfinished"/>
+        <translation>Yollar</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="751"/>
         <source>LMMS working directory</source>
-        <translation type="unfinished"/>
+        <translation>LMMS çalışma dizini</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="755"/>
         <source>VST plugins directory</source>
-        <translation type="unfinished"/>
+        <translation>VST eklentileri dizini</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="759"/>
         <source>LADSPA plugins directories</source>
-        <translation type="unfinished"/>
+        <translation>LADSPA eklenti dizinleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="763"/>
         <source>SF2 directory</source>
-        <translation type="unfinished"/>
+        <translation>SF2 dizini</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="768"/>
         <source>Default SF2</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan SF2</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="773"/>
         <source>GIG directory</source>
-        <translation type="unfinished"/>
+        <translation>GIG dizini</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="777"/>
         <source>Theme directory</source>
-        <translation type="unfinished"/>
+        <translation>Tema dizini</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="781"/>
         <source>Background artwork</source>
-        <translation type="unfinished"/>
+        <translation>Arka plan resmi</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="830"/>
         <source>Some changes require restarting.</source>
-        <translation type="unfinished"/>
+        <translation>Bazı değişiklikler yeniden başlatmayı gerektirir.</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="834"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>TAMAM</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="839"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1057"/>
         <source>minutes</source>
-        <translation type="unfinished"/>
+        <translation>dakika</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1057"/>
         <source>minute</source>
-        <translation type="unfinished"/>
+        <translation>dakika</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1059"/>
         <source>Disabled</source>
-        <translation type="unfinished"/>
+        <translation>Devre dışı</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1061"/>
         <source>Autosave interval: %1</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik kaydetme aralığı: %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1164"/>
         <source>Frames: %1
 Latency: %2 ms</source>
-        <translation type="unfinished"/>
+        <translation>Çerçeveler: %1
+Gecikme: %2 ms</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1194"/>
         <source>Choose the LMMS working directory</source>
-        <translation type="unfinished"/>
+        <translation>LMMS çalışma dizinini seçin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1211"/>
         <source>Choose your VST plugins directory</source>
-        <translation type="unfinished"/>
+        <translation>VST eklentileri dizininizi seçin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1228"/>
         <source>Choose your LADSPA plugins directory</source>
-        <translation type="unfinished"/>
+        <translation>LADSPA eklentileri dizininizi seçin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1253"/>
         <source>Choose your SF2 directory</source>
-        <translation type="unfinished"/>
+        <translation>SF2 dizininizi seçin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1271"/>
         <source>Choose your default SF2</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan SF2&apos;nizi seçin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1292"/>
         <source>Choose your GIG directory</source>
-        <translation type="unfinished"/>
+        <translation>GIG dizininizi seçin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1309"/>
         <source>Choose your theme directory</source>
-        <translation type="unfinished"/>
+        <translation>Tema dizininizi seçin</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1343"/>
         <source>Choose your background picture</source>
-        <translation type="unfinished"/>
+        <translation>Arka plan resminizi seçin</translation>
     </message>
 </context>
 <context>
@@ -15216,68 +15316,68 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="969"/>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1178"/>
         <source>Open SoundFont file</source>
-        <translation type="unfinished"/>
+        <translation>Ses Yazı Tipi dosyasını aç</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="981"/>
         <source>Choose patch</source>
-        <translation type="unfinished"/>
+        <translation>Yama seçin</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1015"/>
         <source>Gain:</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1028"/>
         <source>Apply reverb (if supported)</source>
-        <translation type="unfinished"/>
+        <translation>Yankı uygula (destekleniyorsa)</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1032"/>
         <source>Room size:</source>
-        <translation type="unfinished"/>
+        <translation>Oda boyutu:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1036"/>
         <source>Damping:</source>
-        <translation type="unfinished"/>
+        <translation>Sönümleme:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1040"/>
         <source>Width:</source>
-        <translation type="unfinished"/>
+        <translation>En:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1044"/>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1071"/>
         <source>Level:</source>
-        <translation type="unfinished"/>
+        <translation>Düzey:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1064"/>
         <source>Apply chorus (if supported)</source>
-        <translation type="unfinished"/>
+        <translation>Koro uygula (destekleniyorsa)</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1067"/>
         <source>Voices:</source>
-        <translation type="unfinished"/>
+        <translation>Sesler:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1075"/>
         <source>Speed:</source>
-        <translation type="unfinished"/>
+        <translation>Hız:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1079"/>
         <source>Depth:</source>
-        <translation type="unfinished"/>
+        <translation>Derinlik:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1182"/>
         <source>SoundFont Files (*.sf2 *.sf3)</source>
-        <translation type="unfinished"/>
+        <translation>Ses Yazı Tipi Dosyaları (*.sf2 *.sf3)</translation>
     </message>
 </context>
 <context>
@@ -15285,126 +15385,126 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="490"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="494"/>
         <source>Resonance:</source>
-        <translation type="unfinished"/>
+        <translation>Rezonans:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="498"/>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="685"/>
         <source>Cutoff frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Kesim frekansı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="505"/>
         <source>High-pass filter </source>
-        <translation type="unfinished"/>
+        <translation>Yüksek geçişli filtre </translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="511"/>
         <source>Band-pass filter </source>
-        <translation type="unfinished"/>
+        <translation>Bant geçişli filtre </translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="517"/>
         <source>Low-pass filter </source>
-        <translation type="unfinished"/>
+        <translation>Düşük geçişli filtre </translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="529"/>
         <source>Voice 3 off </source>
-        <translation type="unfinished"/>
+        <translation>Ses 3 kapalı </translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="535"/>
         <source>MOS6581 SID </source>
-        <translation type="unfinished"/>
+        <translation>MOS6581 SID </translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="541"/>
         <source>MOS8580 SID </source>
-        <translation type="unfinished"/>
+        <translation>MOS8580 SID </translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="550"/>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="660"/>
         <source>Attack:</source>
-        <translation type="unfinished"/>
+        <translation>Saldırı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="554"/>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="666"/>
         <source>Decay:</source>
-        <translation type="unfinished"/>
+        <translation>Bozunma:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="558"/>
         <source>Sustain:</source>
-        <translation type="unfinished"/>
+        <translation>Sürdürmek:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="562"/>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="672"/>
         <source>Release:</source>
-        <translation type="unfinished"/>
+        <translation>Yayınla:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="566"/>
         <source>Pulse Width:</source>
-        <translation type="unfinished"/>
+        <translation>Darbe genişliği:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="570"/>
         <source>Coarse:</source>
-        <translation type="unfinished"/>
+        <translation>Kaba:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="579"/>
         <source>Pulse wave</source>
-        <translation type="unfinished"/>
+        <translation>Nabız dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="587"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Üçgen dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="595"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Testere dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="603"/>
         <source>Noise</source>
-        <translation type="unfinished"/>
+        <translation>Gürültü</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="619"/>
         <source>Sync</source>
-        <translation type="unfinished"/>
+        <translation>Eşitle</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="628"/>
         <source>Ring modulation</source>
-        <translation type="unfinished"/>
+        <translation>Halka modülasyonu</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="637"/>
         <source>Filtered</source>
-        <translation type="unfinished"/>
+        <translation>Filtrelenmiş</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="646"/>
         <source>Test</source>
-        <translation type="unfinished"/>
+        <translation>Dene</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="678"/>
         <source>Pulse width:</source>
-        <translation type="unfinished"/>
+        <translation>Darbe genişliği:</translation>
     </message>
 </context>
 <context>
@@ -15412,7 +15512,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/SideBarWidget.cpp" line="50"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
 </context>
 <context>
@@ -15420,129 +15520,130 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="157"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açılamadı</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="158"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
-        <translation type="unfinished"/>
+        <translation>%1 dosyası açılamadı. Muhtemelen bu dosyayı okuma izniniz yok.
+  Lütfen dosya için en azından okuma izninizin olduğundan emin olun ve tekrar deneyin.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="344"/>
         <source>Operation denied</source>
-        <translation type="unfinished"/>
+        <translation>İşlem reddedildi</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="345"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
-        <translation type="unfinished"/>
+        <translation>Bu ada sahip bir paket klasörü zaten seçili yolda bulunuyor. Proje paketinin üzerine yazılamaz. Lütfen farklı bir isim seçin.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="355"/>
         <location filename="../../src/core/DataFile.cpp" line="363"/>
         <location filename="../../src/core/DataFile.cpp" line="371"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Sorun</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="356"/>
         <source>Couldn&apos;t create bundle folder.</source>
-        <translation type="unfinished"/>
+        <translation>Paket klasörü oluşturulamadı.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="364"/>
         <source>Couldn&apos;t create resources folder.</source>
-        <translation type="unfinished"/>
+        <translation>Kaynaklar klasörü oluşturulamadı.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="372"/>
         <source>Failed to copy resources.</source>
-        <translation type="unfinished"/>
+        <translation>Kaynaklar kopyalanamadı.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="381"/>
         <source>Could not write file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya yazılamadı</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="382"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
-        <translation type="unfinished"/>
+        <translation>%1 yazmak için açılamadı. Muhtemelen bu dosyaya yazma izniniz yok. Lütfen dosyaya yazma erişiminiz olduğundan emin olun ve tekrar deneyin.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1899"/>
         <source>Error in file</source>
-        <translation type="unfinished"/>
+        <translation>Dosyada hata</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1900"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
-        <translation type="unfinished"/>
+        <translation>Görünüşe göre %1 dosyası hatalar içeriyor ve bu nedenle yüklenemiyor.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1940"/>
         <source>template</source>
-        <translation type="unfinished"/>
+        <translation>şablon</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1940"/>
         <source>project</source>
-        <translation type="unfinished"/>
+        <translation>proje</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1943"/>
         <source>Version difference</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm farkı</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1944"/>
         <source>This %1 was created with LMMS %2</source>
-        <translation type="unfinished"/>
+        <translation>Bu %1, %2 LMMS ile oluşturuldu</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="123"/>
         <source>Tempo</source>
-        <translation type="unfinished"/>
+        <translation>Tempo</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="125"/>
         <source>TEMPO</source>
-        <translation type="unfinished"/>
+        <translation>TEMPO</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="126"/>
         <source>Tempo in BPM</source>
-        <translation type="unfinished"/>
+        <translation>BPM&apos;de Tempo</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="132"/>
         <source>High quality mode</source>
-        <translation type="unfinished"/>
+        <translation>Yüksek kalite modu</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="155"/>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="162"/>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="174"/>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>Ana ses</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="187"/>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="194"/>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="205"/>
         <source>Global transposition</source>
-        <translation type="unfinished"/>
+        <translation>Genel aktarma</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="684"/>
         <source>Value: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Değer: %1%</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="726"/>
         <source>Value: %1 keys</source>
-        <translation type="unfinished"/>
+        <translation>Değer: %1 anahtar</translation>
     </message>
 </context>
 <context>
@@ -15550,118 +15651,118 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="924"/>
         <source>Song-Editor</source>
-        <translation type="unfinished"/>
+        <translation>Şarkı-Düzenleyici</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="934"/>
         <source>Play song (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Şarkıyı başlat (Space)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="935"/>
         <source>Record samples from Audio-device</source>
-        <translation type="unfinished"/>
+        <translation>Ses cihazından örnekleri kaydedin</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="936"/>
         <source>Record samples from Audio-device while playing song or pattern track</source>
-        <translation type="unfinished"/>
+        <translation>Şarkı veya kalıp parçası çalarken Ses cihazından örnekler kaydedin</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="937"/>
         <source>Stop song (Space)</source>
-        <translation type="unfinished"/>
+        <translation>Şarkıyı durdur (Space)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="941"/>
         <source>Track actions</source>
-        <translation type="unfinished"/>
+        <translation>Parça eylemleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="944"/>
         <source>Add pattern-track</source>
-        <translation type="unfinished"/>
+        <translation>Kalıp-parça ekle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="947"/>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Örnek parça ekle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="950"/>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>Ayarkayıt parçası ekle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="962"/>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>İşlemleri düzenle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="965"/>
         <source>Draw mode</source>
-        <translation type="unfinished"/>
+        <translation>Çizim kipi</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="966"/>
         <source>Knife mode (split sample clips)</source>
-        <translation type="unfinished"/>
+        <translation>Bıçak modu (örnek klipleri ayır)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="967"/>
         <source>Edit mode (select and move)</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme modu (seç ve taşı)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="978"/>
         <source>Timeline controls</source>
-        <translation type="unfinished"/>
+        <translation>Zaman çizelgesi kontrolleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="981"/>
         <source>Bar insert controls</source>
-        <translation type="unfinished"/>
+        <translation>Çubuk ekleme kontrolleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="982"/>
         <source>Insert bar</source>
-        <translation type="unfinished"/>
+        <translation>Çubuk ekle</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="983"/>
         <source>Remove bar</source>
-        <translation type="unfinished"/>
+        <translation>Çubuğu kaldır</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="989"/>
         <source>Zoom controls</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştırma kontrolleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="999"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Yatay yakınlaştırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="1005"/>
         <source>Snap controls</source>
-        <translation type="unfinished"/>
+        <translation>Yapış denetimleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="1013"/>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="1048"/>
         <source>Clip snapping size</source>
-        <translation type="unfinished"/>
+        <translation>Klip yapışma boyutu</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="1017"/>
         <source>Toggle proportional snap on/off</source>
-        <translation type="unfinished"/>
+        <translation>Orantılı tutturmayı aç/kapat</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="1044"/>
         <source>Base snapping size</source>
-        <translation type="unfinished"/>
+        <translation>Taban yapışma boyutu</translation>
     </message>
 </context>
 <context>
@@ -15669,12 +15770,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/StepRecorderWidget.cpp" line="97"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/StepRecorderWidget.cpp" line="97"/>
         <source>Move recording curser using &lt;Left/Right&gt; arrows</source>
-        <translation type="unfinished"/>
+        <translation>&lt;Sol/Sağ&gt; oklarını kullanarak kayıt imlecini hareket ettirin</translation>
     </message>
 </context>
 <context>
@@ -15682,12 +15783,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/StereoEnhancer/StereoEnhancerControlDialog.cpp" line="45"/>
         <source>WIDTH</source>
-        <translation type="unfinished"/>
+        <translation>GENİŞLİK</translation>
     </message>
     <message>
         <location filename="../../plugins/StereoEnhancer/StereoEnhancerControlDialog.cpp" line="46"/>
         <source>Width:</source>
-        <translation type="unfinished"/>
+        <translation>En:</translation>
     </message>
 </context>
 <context>
@@ -15695,22 +15796,22 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="53"/>
         <source>Left to Left Vol:</source>
-        <translation type="unfinished"/>
+        <translation>Soldan Sola Düzey:</translation>
     </message>
     <message>
         <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="58"/>
         <source>Left to Right Vol:</source>
-        <translation type="unfinished"/>
+        <translation>Soldan Sağa Düzey:</translation>
     </message>
     <message>
         <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="63"/>
         <source>Right to Left Vol:</source>
-        <translation type="unfinished"/>
+        <translation>Sağdan Sola Düzey:</translation>
     </message>
     <message>
         <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="68"/>
         <source>Right to Right Vol:</source>
-        <translation type="unfinished"/>
+        <translation>Sağdan Sağa Düzey:</translation>
     </message>
 </context>
 <context>
@@ -15718,17 +15819,17 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/SubWindow.cpp" line="65"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <location filename="../../src/gui/SubWindow.cpp" line="73"/>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Büyütme</translation>
     </message>
     <message>
         <location filename="../../src/gui/SubWindow.cpp" line="81"/>
         <source>Restore</source>
-        <translation type="unfinished"/>
+        <translation>Onar</translation>
     </message>
 </context>
 <context>
@@ -15737,7 +15838,7 @@ Latency: %2 ms</source>
         <location filename="../../src/gui/AudioDeviceSetupWidget.cpp" line="31"/>
         <location filename="../../src/gui/MidiSetupWidget.cpp" line="40"/>
         <source>Settings for %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 ayarları</translation>
     </message>
 </context>
 <context>
@@ -15745,7 +15846,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/menus/TemplatesMenu.cpp" line="17"/>
         <source>New from template</source>
-        <translation type="unfinished"/>
+        <translation>Şablondan yeni</translation>
     </message>
 </context>
 <context>
@@ -15754,92 +15855,92 @@ Latency: %2 ms</source>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="49"/>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="210"/>
         <source>Tempo Sync</source>
-        <translation type="unfinished"/>
+        <translation>Tempo Senkronizasyonu</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="107"/>
         <source>No Sync</source>
-        <translation type="unfinished"/>
+        <translation>Senkronizasyon yok</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="111"/>
         <source>Eight beats</source>
-        <translation type="unfinished"/>
+        <translation>Sekiz vuruş</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="117"/>
         <source>Whole note</source>
-        <translation type="unfinished"/>
+        <translation>Tam nota</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="123"/>
         <source>Half note</source>
-        <translation type="unfinished"/>
+        <translation>Yarım nota</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="129"/>
         <source>Quarter note</source>
-        <translation type="unfinished"/>
+        <translation>Çeyrek nota</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="135"/>
         <source>8th note</source>
-        <translation type="unfinished"/>
+        <translation>8&apos;lik nota</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="141"/>
         <source>16th note</source>
-        <translation type="unfinished"/>
+        <translation>16&apos;lık nota</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="145"/>
         <source>32nd note</source>
-        <translation type="unfinished"/>
+        <translation>32&apos;lik nota</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="148"/>
         <source>Custom...</source>
-        <translation type="unfinished"/>
+        <translation>Özel...</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="170"/>
         <source>Custom </source>
-        <translation type="unfinished"/>
+        <translation>Özel </translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="178"/>
         <source>Synced to Eight Beats</source>
-        <translation type="unfinished"/>
+        <translation>Sekiz Vuruşla Senkronize Edildi</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="182"/>
         <source>Synced to Whole Note</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Nota Senkronize Edildi</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="186"/>
         <source>Synced to Half Note</source>
-        <translation type="unfinished"/>
+        <translation>Yarım Nota Senkronize Edildi</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="190"/>
         <source>Synced to Quarter Note</source>
-        <translation type="unfinished"/>
+        <translation>Çeyrek Nota Senkronize Edildi</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="194"/>
         <source>Synced to 8th Note</source>
-        <translation type="unfinished"/>
+        <translation>8. Nota senkronize edildi</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="198"/>
         <source>Synced to 16th Note</source>
-        <translation type="unfinished"/>
+        <translation>16. Nota senkronize edildi</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="202"/>
         <source>Synced to 32nd Note</source>
-        <translation type="unfinished"/>
+        <translation>32. Nota senkronize edildi</translation>
     </message>
 </context>
 <context>
@@ -15847,37 +15948,37 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="53"/>
         <source>Time units</source>
-        <translation type="unfinished"/>
+        <translation>Zaman birimleri</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="69"/>
         <source>MIN</source>
-        <translation type="unfinished"/>
+        <translation>DAK</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="70"/>
         <source>SEC</source>
-        <translation type="unfinished"/>
+        <translation>SAN</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="71"/>
         <source>MSEC</source>
-        <translation type="unfinished"/>
+        <translation>MSEC</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="75"/>
         <source>BAR</source>
-        <translation type="unfinished"/>
+        <translation>ÇUBUK</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="76"/>
         <source>BEAT</source>
-        <translation type="unfinished"/>
+        <translation>VURUŞ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="77"/>
         <source>TICK</source>
-        <translation type="unfinished"/>
+        <translation>TIK</translation>
     </message>
 </context>
 <context>
@@ -15885,37 +15986,37 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="125"/>
         <source>Auto scrolling</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik kaydırma</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="132"/>
         <source>Loop points</source>
-        <translation type="unfinished"/>
+        <translation>Döngü noktaları</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="142"/>
         <source>After stopping go back to beginning</source>
-        <translation type="unfinished"/>
+        <translation>Durduktan sonra başa dön</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="145"/>
         <source>After stopping go back to position at which playing was started</source>
-        <translation type="unfinished"/>
+        <translation>Durduktan sonra oyunun başladığı konuma geri dönün</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="149"/>
         <source>After stopping keep position</source>
-        <translation type="unfinished"/>
+        <translation>Durduktan sonra pozisyonunuzu koruyun</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="351"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="352"/>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
-        <translation type="unfinished"/>
+        <translation>Manyetik döngü noktalarını devre dışı bırakmak için &lt;%1&gt; tuşuna basın.</translation>
     </message>
 </context>
 <context>
@@ -15923,7 +16024,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/tracks/TrackContentWidget.cpp" line="649"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
 </context>
 <context>
@@ -15931,99 +16032,99 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="63"/>
         <source>Press &lt;%1&gt; while clicking on move-grip to begin a new drag&apos;n&apos;drop action.</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir sürükle ve bırak eylemine başlamak için tutamağa tıklarken &lt;%1&gt; tuşuna basın.</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="78"/>
         <source>Actions</source>
-        <translation type="unfinished"/>
+        <translation>Eylemler</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="81"/>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="104"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Sustur</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="86"/>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="107"/>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Tek</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="193"/>
         <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Bir parça kaldırıldıktan sonra kurtarılamaz. &quot;%1&quot; parçasını kaldırmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="196"/>
         <source>Confirm removal</source>
-        <translation type="unfinished"/>
+        <translation>Kaldırma işlemini onayla</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="197"/>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"/>
+        <translation>Bir daha sorma</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="325"/>
         <source>Clone this track</source>
-        <translation type="unfinished"/>
+        <translation>Bu parçayı çoğalt</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="328"/>
         <source>Remove this track</source>
-        <translation type="unfinished"/>
+        <translation>Bu parçayı sil</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="333"/>
         <source>Clear this track</source>
-        <translation type="unfinished"/>
+        <translation>Bu parçayı temizle</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="335"/>
         <source>Channel %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>FX %1: %2</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="335"/>
         <source>Assign to new Mixer Channel</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Karıştırıcı Kanalına Ata</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="347"/>
         <source>Turn all recording on</source>
-        <translation type="unfinished"/>
+        <translation>Tüm kaydı aç</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="348"/>
         <source>Turn all recording off</source>
-        <translation type="unfinished"/>
+        <translation>Tüm kayıtları kapat</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="353"/>
         <source>Track color</source>
-        <translation type="unfinished"/>
+        <translation>Parça rengi</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="355"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="356"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Sıfırla</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="357"/>
         <source>Pick random</source>
-        <translation type="unfinished"/>
+        <translation>Rastgele seç</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="359"/>
         <source>Reset clip colors</source>
-        <translation type="unfinished"/>
+        <translation>Klip renklerini sıfırla</translation>
     </message>
 </context>
 <context>
@@ -16031,149 +16132,149 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="461"/>
         <source>Modulate phase of oscillator 1 by oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör 1&apos;in fazını osilatör 2 ile modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="469"/>
         <source>Modulate amplitude of oscillator 1 by oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör 1&apos;in genliğini osilatör 2 ile modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="477"/>
         <source>Mix output of oscillators 1 &amp; 2</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör 1 ve 2&apos;nin Karışım çıkışı</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="485"/>
         <source>Synchronize oscillator 1 with oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör 1&apos;i osilatör 2 ile senkronize edin</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="494"/>
         <source>Modulate frequency of oscillator 1 by oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör 1&apos;in frekansını osilatör 2 ile modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="509"/>
         <source>Modulate phase of oscillator 2 by oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör 2&apos;nin fazını osilatör 3 ile modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="517"/>
         <source>Modulate amplitude of oscillator 2 by oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör 2&apos;nin genliğini osilatör 3 ile modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="525"/>
         <source>Mix output of oscillators 2 &amp; 3</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör 2 ve 3&apos;ün Karışım çıkışı</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="533"/>
         <source>Synchronize oscillator 2 with oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör 2&apos;yi osilatör 3 ile senkronize edin</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="541"/>
         <source>Modulate frequency of oscillator 2 by oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör 2&apos;nin frekansını osilatör 3 ile modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="561"/>
         <source>Osc %1 volume:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 düzeyi:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="567"/>
         <source>Osc %1 panning:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 kaydırma:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="572"/>
         <source>Osc %1 coarse detuning:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 kaba ince ayar:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="573"/>
         <source>semitones</source>
-        <translation type="unfinished"/>
+        <translation>yarım tonlar</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="578"/>
         <source>Osc %1 fine detuning left:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 ince ayar sol:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="580"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="587"/>
         <source>cents</source>
-        <translation type="unfinished"/>
+        <translation>sent</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="585"/>
         <source>Osc %1 fine detuning right:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 ince ayar sağ:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="592"/>
         <source>Osc %1 phase-offset:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 faz kayması:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="594"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="601"/>
         <source>degrees</source>
-        <translation type="unfinished"/>
+        <translation>derece</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="599"/>
         <source>Osc %1 stereo phase-detuning:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 stereo faz ayarlama:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="612"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Sinüs dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="621"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Üçgen dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="630"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Testere dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="639"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Kare dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="648"/>
         <source>Moog-like saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Moog benzeri testere dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="657"/>
         <source>Exponential wave</source>
-        <translation type="unfinished"/>
+        <translation>Üstel dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="666"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz gürültü</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="674"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı tanımlı dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="683"/>
         <source>Use alias-free wavetable oscillators.</source>
-        <translation type="unfinished"/>
+        <translation>Takma ad içermeyen dalga tablosu osilatörleri kullanın.</translation>
     </message>
 </context>
 <context>
@@ -16181,37 +16282,37 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="64"/>
         <source>HQ</source>
-        <translation type="unfinished"/>
+        <translation>YK</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="65"/>
         <source>Double the resolution and simulate continuous analog-like trace.</source>
-        <translation type="unfinished"/>
+        <translation>Çözünürlüğü ikiye katlayın ve sürekli analog benzeri izi simüle edin.</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="72"/>
         <source>Log. scale</source>
-        <translation type="unfinished"/>
+        <translation>Günlük. ölçeği</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="73"/>
         <source>Display amplitude on logarithmic scale to better see small values.</source>
-        <translation type="unfinished"/>
+        <translation>Küçük değerleri daha iyi görmek için genliği logaritmik ölçekte görüntüleyin.</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="84"/>
         <source>Persist.</source>
-        <translation type="unfinished"/>
+        <translation>Kalıcılık.</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="85"/>
         <source>Trace persistence: higher amount means the trace will stay bright for longer time.</source>
-        <translation type="unfinished"/>
+        <translation>Kalıcılığı izleme: daha yüksek miktar, izin daha uzun süre parlak kalacağı anlamına gelir.</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="86"/>
         <source>Trace persistence</source>
-        <translation type="unfinished"/>
+        <translation>Kalıcılığı izle</translation>
     </message>
 </context>
 <context>
@@ -16219,22 +16320,22 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/modals/VersionedSaveDialog.cpp" line="53"/>
         <source>Increment version number</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm numarasını artır</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/VersionedSaveDialog.cpp" line="55"/>
         <source>Decrement version number</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm numarasını azaltın</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/VersionedSaveDialog.cpp" line="72"/>
         <source>Save Options</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekleri Kaydet</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/VersionedSaveDialog.cpp" line="166"/>
         <source> already exists. Do you want to replace it?</source>
-        <translation type="unfinished"/>
+        <translation> zaten var. Değiştirmek istiyor musun?</translation>
     </message>
 </context>
 <context>
@@ -16243,77 +16344,77 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="517"/>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="683"/>
         <source>Open VST plugin</source>
-        <translation type="unfinished"/>
+        <translation>VST eklentisini aç</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="529"/>
         <source>Control VST plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>LMMS ana bilgisayarından VST eklentisini kontrol edin</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="542"/>
         <source>Open VST plugin preset</source>
-        <translation type="unfinished"/>
+        <translation>VST eklenti ön ayarını aç</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="555"/>
         <source>Previous (-)</source>
-        <translation type="unfinished"/>
+        <translation>Önceki (-)</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="570"/>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>Ön ayarı kaydet</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="583"/>
         <source>Next (+)</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki (+)</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="601"/>
         <source>Show/hide GUI</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı arabirimini göster/gizle</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="608"/>
         <source>Turn off all notes</source>
-        <translation type="unfinished"/>
+        <translation>Tüm notaları kapat</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="687"/>
         <source>DLL-files (*.dll)</source>
-        <translation type="unfinished"/>
+        <translation>DLL-dosyaları (*.dll)</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="688"/>
         <source>EXE-files (*.exe)</source>
-        <translation type="unfinished"/>
+        <translation>EXE-dosyaları (*.exe)</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="690"/>
         <source>SO-files (*.so)</source>
-        <translation type="unfinished"/>
+        <translation>SO-dosyaları (*.so)</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="894"/>
         <source>No VST plugin loaded</source>
-        <translation type="unfinished"/>
+        <translation>Yüklü VST eklentisi yok</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="902"/>
         <source>Preset</source>
-        <translation type="unfinished"/>
+        <translation>Hazır Ayar</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="910"/>
         <source>by </source>
-        <translation type="unfinished"/>
+        <translation>tarafından </translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="919"/>
         <source> - VST plugin control</source>
-        <translation type="unfinished"/>
+        <translation> - VST eklenti kontrolü</translation>
     </message>
 </context>
 <context>
@@ -16321,120 +16422,120 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="363"/>
         <source>String volume:</source>
-        <translation type="unfinished"/>
+        <translation>Dize hacmi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="367"/>
         <source>String stiffness:</source>
-        <translation type="unfinished"/>
+        <translation>Dize sertliği:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="373"/>
         <source>Pick position:</source>
-        <translation type="unfinished"/>
+        <translation>Pozisyon seçin:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="377"/>
         <source>Pickup position:</source>
-        <translation type="unfinished"/>
+        <translation>Alış konumu:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="382"/>
         <source>String panning:</source>
-        <translation type="unfinished"/>
+        <translation>Dize kaydırma:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="386"/>
         <source>String detune:</source>
-        <translation type="unfinished"/>
+        <translation>Dize detayı:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="390"/>
         <source>String fuzziness:</source>
-        <translation type="unfinished"/>
+        <translation>Dize belirsizliği:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="395"/>
         <source>String length:</source>
-        <translation type="unfinished"/>
+        <translation>Dize uzunluğu:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="401"/>
         <source>Impulse</source>
-        <translation type="unfinished"/>
+        <translation>Dürtü</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="426"/>
         <source>Octave</source>
-        <translation type="unfinished"/>
+        <translation>Octave</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="453"/>
         <source>Impulse Editor</source>
-        <translation type="unfinished"/>
+        <translation>Dürtü Düzenleyici</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="459"/>
         <source>Enable waveform</source>
-        <translation type="unfinished"/>
+        <translation>Dalga biçimini etkinleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="462"/>
         <source>Enable/disable string</source>
-        <translation type="unfinished"/>
+        <translation>Dizeyi etkinleştir / devre dışı bırak</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="466"/>
         <source>String</source>
-        <translation type="unfinished"/>
+        <translation>Dize</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="473"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="480"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Sinüs dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="485"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="492"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Üçgen dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="497"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="504"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Testere dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="509"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="516"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Kare dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="521"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="528"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz gürültü</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="533"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="540"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı tanımlı dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="545"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="553"/>
         <source>Smooth waveform</source>
-        <translation type="unfinished"/>
+        <translation>Düzgün dalga formu</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="557"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="565"/>
         <source>Normalize waveform</source>
-        <translation type="unfinished"/>
+        <translation>Dalga formunu normalleştir</translation>
     </message>
 </context>
 <context>
@@ -16442,43 +16543,43 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="76"/>
         <source>Show/hide</source>
-        <translation type="unfinished"/>
+        <translation>Göster/gizle</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="103"/>
         <source>Control VST plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>LMMS ana bilgisayarından VST eklentisini kontrol edin</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="119"/>
         <source>Open VST plugin preset</source>
-        <translation type="unfinished"/>
+        <translation>VST eklenti ön ayarını aç</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="139"/>
         <source>Previous (-)</source>
-        <translation type="unfinished"/>
+        <translation>Önceki (-)</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="161"/>
         <source>Next (+)</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki (+)</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="195"/>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>Ön ayarı kaydet</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="238"/>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="253"/>
         <source>Effect by: </source>
-        <translation type="unfinished"/>
+        <translation>Efektler: </translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="254"/>
         <source>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</translation>
     </message>
 </context>
 <context>
@@ -16489,7 +16590,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="676"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="677"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Ses Düzeyi</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="679"/>
@@ -16497,7 +16598,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="681"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="682"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="684"/>
@@ -16505,7 +16606,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="686"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="687"/>
         <source>Freq. multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Frekans. çarpanı</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="689"/>
@@ -16513,7 +16614,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="691"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="692"/>
         <source>Left detune</source>
-        <translation type="unfinished"/>
+        <translation>Sol detune</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="689"/>
@@ -16525,7 +16626,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="696"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="697"/>
         <source> cents</source>
-        <translation type="unfinished"/>
+        <translation> sent</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="694"/>
@@ -16533,97 +16634,97 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="696"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="697"/>
         <source>Right detune</source>
-        <translation type="unfinished"/>
+        <translation>Sağ detune</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="699"/>
         <source>A-B Mix</source>
-        <translation type="unfinished"/>
+        <translation>A-B Karışımı</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="701"/>
         <source>Mix envelope amount</source>
-        <translation type="unfinished"/>
+        <translation>Zarf miktarını karıştır</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="703"/>
         <source>Mix envelope attack</source>
-        <translation type="unfinished"/>
+        <translation>Zarf saldırısını karıştır</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="704"/>
         <source>Mix envelope hold</source>
-        <translation type="unfinished"/>
+        <translation>Zarf tutmayı karıştır</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="705"/>
         <source>Mix envelope decay</source>
-        <translation type="unfinished"/>
+        <translation>Zarf bozunmasını karıştır</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="707"/>
         <source>Crosstalk</source>
-        <translation type="unfinished"/>
+        <translation>Cızırtı</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="724"/>
         <source>Select oscillator A1</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör A1&apos;i seçin</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="730"/>
         <source>Select oscillator A2</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör A2`yi seçin</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="736"/>
         <source>Select oscillator B1</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör B1&apos;i seçin</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="742"/>
         <source>Select oscillator B2</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör B2&apos;yi seçin</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="757"/>
         <source>Mix output of A2 to A1</source>
-        <translation type="unfinished"/>
+        <translation>A2&apos;den A1&apos;e Karışım çıkışı</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="763"/>
         <source>Modulate amplitude of A1 by output of A2</source>
-        <translation type="unfinished"/>
+        <translation>A1&apos;in genliğini A2 çıkışı ile modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="769"/>
         <source>Ring modulate A1 and A2</source>
-        <translation type="unfinished"/>
+        <translation>Halka modüle A1 ve A2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="775"/>
         <source>Modulate phase of A1 by output of A2</source>
-        <translation type="unfinished"/>
+        <translation>A1&apos;in fazını A2 çıkışı ile modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="788"/>
         <source>Mix output of B2 to B1</source>
-        <translation type="unfinished"/>
+        <translation>B2&apos;den B1&apos;e Karıştırma çıkışı</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="794"/>
         <source>Modulate amplitude of B1 by output of B2</source>
-        <translation type="unfinished"/>
+        <translation>B2 çıkışı ile B1 genliğini modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="800"/>
         <source>Ring modulate B1 and B2</source>
-        <translation type="unfinished"/>
+        <translation>Halka modülasyonu B1 ve B2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="806"/>
         <source>Modulate phase of B1 by output of B2</source>
-        <translation type="unfinished"/>
+        <translation>B2 çıkışı ile B1 fazını modüle edin</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="823"/>
@@ -16631,79 +16732,79 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="839"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="847"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation type="unfinished"/>
+        <translation>Farenizi bu grafiğin üzerine sürükleyerek buraya kendi dalga formunuzu çizin.</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="854"/>
         <source>Load waveform</source>
-        <translation type="unfinished"/>
+        <translation>Dalga formu yükle</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="858"/>
         <source>Load a waveform from a sample file</source>
-        <translation type="unfinished"/>
+        <translation>Örnek bir dosyadan bir dalga formu yükleyin</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="860"/>
         <source>Phase left</source>
-        <translation type="unfinished"/>
+        <translation>Aşama sola</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="864"/>
         <source>Shift phase by -15 degrees</source>
-        <translation type="unfinished"/>
+        <translation>Aşamayı -15 derece kaydır</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="866"/>
         <source>Phase right</source>
-        <translation type="unfinished"/>
+        <translation>Aşama sağa</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="870"/>
         <source>Shift phase by +15 degrees</source>
-        <translation type="unfinished"/>
+        <translation>Aşamayı +15 derece kaydır</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="872"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="876"/>
         <source>Normalize</source>
-        <translation type="unfinished"/>
+        <translation>Normalleştir</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="879"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="883"/>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Tersine çevir</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="885"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="889"/>
         <source>Smooth</source>
-        <translation type="unfinished"/>
+        <translation>Pürüzsüz</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="893"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="897"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Sinüs dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="899"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="903"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="905"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Üçgen dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="909"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Testere dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="911"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="915"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Kare dalgası</translation>
     </message>
 </context>
 <context>
@@ -16711,56 +16812,56 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="67"/>
         <source>INPUT</source>
-        <translation type="unfinished"/>
+        <translation>GİRDİ</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="68"/>
         <source>Input gain:</source>
-        <translation type="unfinished"/>
+        <translation>Giriş kazancı:</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="75"/>
         <source>OUTPUT</source>
-        <translation type="unfinished"/>
+        <translation>ÇIKTI</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="76"/>
         <source>Output gain:</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış kazancı:</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="78"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="83"/>
         <source>Reset wavegraph</source>
-        <translation type="unfinished"/>
+        <translation>Dalga grafiğini sıfırla</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="85"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="90"/>
         <source>Smooth wavegraph</source>
-        <translation type="unfinished"/>
+        <translation>Pürüzsüz dalga grafiği</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="92"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="97"/>
         <source>Increase wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Dalga grafiğinin genliğini 1 dB artırın</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="99"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="104"/>
         <source>Decrease wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Dalga grafiğinin genliğini 1 dB azaltın</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="106"/>
         <source>Clip input</source>
-        <translation type="unfinished"/>
+        <translation>Klip girişi</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="109"/>
         <source>Clip input signal to 0 dB</source>
-        <translation type="unfinished"/>
+        <translation>Giriş sinyalini 0 dB&apos;ye klipsleyin</translation>
     </message>
 </context>
 <context>
@@ -16768,130 +16869,130 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="334"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation type="unfinished"/>
+        <translation>Farenizi bu grafiğin üzerine sürükleyerek buraya kendi dalga formunuzu çizin.</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="352"/>
         <source>Select oscillator W1</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör W1&apos;i seçin</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="358"/>
         <source>Select oscillator W2</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör W2&apos;yi seçin</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="364"/>
         <source>Select oscillator W3</source>
-        <translation type="unfinished"/>
+        <translation>Osilatör W3 seçin</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="370"/>
         <source>Select output O1</source>
-        <translation type="unfinished"/>
+        <translation>O1 çıkışını seçin</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="376"/>
         <source>Select output O2</source>
-        <translation type="unfinished"/>
+        <translation>O2 çıkışını seçin</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="382"/>
         <source>Open help window</source>
-        <translation type="unfinished"/>
+        <translation>Yardım penceresini aç</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="394"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="398"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Sinüs dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="400"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="405"/>
         <source>Moog-saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Moog-saw dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="407"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="411"/>
         <source>Exponential wave</source>
-        <translation type="unfinished"/>
+        <translation>Üstel dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="413"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="417"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Testere dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="419"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="423"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı tanımlı dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="425"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="431"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Üçgen dalga</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="433"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="438"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Kare dalgası</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="440"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="446"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz gürültü</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="449"/>
         <source>WaveInterpolate</source>
-        <translation type="unfinished"/>
+        <translation>Dalga ekleme</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="453"/>
         <source>ExpressionValid</source>
-        <translation type="unfinished"/>
+        <translation>İfade Geçerli</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="463"/>
         <source>General purpose 1:</source>
-        <translation type="unfinished"/>
+        <translation>Genel amaç 1:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="467"/>
         <source>General purpose 2:</source>
-        <translation type="unfinished"/>
+        <translation>Genel amaç 2:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="471"/>
         <source>General purpose 3:</source>
-        <translation type="unfinished"/>
+        <translation>Genel amaçlı 3:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="475"/>
         <source>O1 panning:</source>
-        <translation type="unfinished"/>
+        <translation>O1 kaydırma:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="479"/>
         <source>O2 panning:</source>
-        <translation type="unfinished"/>
+        <translation>O2 kaydırma:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="483"/>
         <source>Release transition:</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm geçişi:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="496"/>
         <source>Smoothness</source>
-        <translation type="unfinished"/>
+        <translation>Pürüssüzlük</translation>
     </message>
 </context>
 <context>
@@ -16899,82 +17000,82 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="512"/>
         <source>Portamento:</source>
-        <translation type="unfinished"/>
+        <translation>Kaydırma:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="513"/>
         <source>PORT</source>
-        <translation type="unfinished"/>
+        <translation>KAYDIRMA</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="516"/>
         <source>Filter frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Frekans filtresi:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="517"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREK</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="520"/>
         <source>Filter resonance:</source>
-        <translation type="unfinished"/>
+        <translation>Rezonans filtresi:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="521"/>
         <source>RES</source>
-        <translation type="unfinished"/>
+        <translation>RF</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="524"/>
         <source>Bandwidth:</source>
-        <translation type="unfinished"/>
+        <translation>Bant genişliği:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="525"/>
         <source>BW</source>
-        <translation type="unfinished"/>
+        <translation>BG</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="528"/>
         <source>FM gain:</source>
-        <translation type="unfinished"/>
+        <translation>FM kazancı:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="529"/>
         <source>FM GAIN</source>
-        <translation type="unfinished"/>
+        <translation>FM KAZANÇ</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="532"/>
         <source>Resonance center frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Rezonans merkez frekansı:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="533"/>
         <source>RES CF</source>
-        <translation type="unfinished"/>
+        <translation>Rez MF</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="536"/>
         <source>Resonance bandwidth:</source>
-        <translation type="unfinished"/>
+        <translation>Rezonans bant genişliği:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="537"/>
         <source>RES BW</source>
-        <translation type="unfinished"/>
+        <translation>REZ BG</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="539"/>
         <source>Forward MIDI control changes</source>
-        <translation type="unfinished"/>
+        <translation>MIDI kontrol değişikliklerini ilet</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="541"/>
         <source>Show GUI</source>
-        <translation type="unfinished"/>
+        <translation>Görselli Arayüzü Göster</translation>
     </message>
 </context>
 </TS>

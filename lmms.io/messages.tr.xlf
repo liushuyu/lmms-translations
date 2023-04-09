@@ -376,7 +376,7 @@
       </trans-unit>
       <trans-unit id="Jo.VN3p" resname="with a free, cross-platform tool for your computer.">
         <source>with a free, cross-platform tool for your computer.</source>
-        <target>bilgisayarınız için ücretsiz bir çapraz platform aracı ile.</target>
+        <target>bilgisayarınız için ücretsiz, platformlar arası bir araçla.</target>
         
       </trans-unit>
       <trans-unit id="ADl38LV" resname="Download now">
@@ -1688,11 +1688,53 @@ Tüm girişleri [buradan] dinleyin.(https://docs.google.com/spreadsheets/d/1pPoM
 			 - The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.
 
 			**Note: Entries are approved to appear on the submission list by hand, so if you don't see yours, sit tight! It might take a while.**</source>
+        <target>#### Yarışma **16 Nisan 2022**'de sona erdi.
+			LMMS'yi destekleyin ve [bandcamp sayfamızdan](https://lmms.bandcamp.com/album/the-best-of-lmms-vol-9) derlemeyi satın alın.
+
+			[Buradan] tüm kayıtları dinleyin.(https://docs.google.com/spreadsheets/d/e/2PACX-1vTbAi115g6ocLFF75ccNYzAk3Am0RsYZAyL6GX0LwxR-DGf6KBpbTLc7IZkO7LdSYNQQqWIW4QTRJML/pubhtml?gid=491403559&amp;single=true)
+
+			Kazananlar:
+				&lt;iframe class=&quot;bandcamp-iframe&quot; referrerpolicy=&quot;no-referrer&quot; height=&quot;472&quot; style=&quot;border: 0; height: 472px; width: 100%%;&quot; src=&quot;&quot; seamless&gt;&lt;a href=&quot;https://lmms.bandcamp.com/album/the-best-of-lmms-vol-9&quot;&gt;LMMS nin en iyileri SÜRÜM.9 LMMS Sanatçıları tarafından&lt;/a&gt;&lt;/iframe&gt;
+			&lt;/div&gt;
+			#### Orijinal açıklama:
+			The Best of LMMS yarışmasının 9. sayısını size sunmaktan gurur duyuyoruz!
+			Yarışma, topluluğa müziklerini yaratmaları ve paylaşmaları için ilham vermeyi amaçlıyor. Parçanızı gece yarısından önce aşağıdaki bağlantıdan gönderin
+			(23:59.59 UTC Saati) 16 Nisan 2022'de BoL v9 albümünde yer alma şansı için. Derleme, tüm gelir LMMS'nin daha fazla geliştirilmesine harcanacak şekilde Bandcamp'a yüklenecek.
+
+			&lt;p class=&quot;center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg center&quot; href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScWb8vuktPblEO1-7sTV5Es7nZRmsQOUS_PUYJh--VFbW-hAg/viewform&quot;&gt;Buraya gönder&lt;/a&gt;&lt;/p&gt;
+			#### Yarışma kuralları:
+
+			1. **Son Teslim Tarihi:**
+			 - Parça, bu formu kullanarak 16 Nisan 2022 23:59.59 UTC'ye kadar gönderilmelidir.
+			2. **Paça:**
+			 - LMMS'de üretilmelidir.
+			 - Mastering ve son işleme için başka programlar kullanabilirsiniz.
+			 - 10 dakikadan kısa olmalıdır.
+			 - Önceki LMMS nin en iyileri albümlerinden kazanan hiçbir parçaya izin verilmez.
+			 - Başka kişi(ler)in eserlerinin cover'larına veya remikslerine izin verilmez.
+			 - Kendi parçalarınızın yeniden çalışmaları, jüri onayı ile uygundur.
+			3. **Gönderiler:**
+			 - Yalnızca bu formu kullanarak göndermelisiniz.
+			 - Sanatçı başına birden fazla BİR girişe izin verilmez.
+			 - İşbirlikleri, dahil olan her sanatçı için BİR giriş olarak sayılır.
+			 - Girişlerde jüri üyeleriyle işbirliği yapılmaz.
+			 - Yalnızca Soundcloud veya YouTube'da barındırılan gönderimlere izin verilir.
+			 - Parçanın tamamı sağlanan gönderim bağlantısında mevcut olmalıdır
+			 - Girişiniz, değerlendirme sürecinin sonuna kadar dinlemeye açık olmalıdır. Aksi takdirde, girişiniz diskalifiye edilecektir.
+			 - Giriş, haklarına sahip olmadığınız herhangi bir ticari markalı veya telifli materyal içermemelidir.
+			4. **Jüriler:**
+			 - Jüri şu isimlerden oluşuyor: Etorna, Noeroti, Spekular, Squatro, Stakeout Punch ve Umcaruje.
+			5. **Değerlendirme:**
+			 - Son teslim tarihinden sonra, jüri üyeleri kararlarını verecek ve kişisel programları izin verdiği sürece 14-21 gün içinde sonuçları açıklayacaktır.
+			6. **Yayınlama:**
+			 - En çok puan alan 25 şarkı “İstediğini Öde” fiyatıyla Bandcamp üzerinden albüm olarak yayınlanacak. Alınan tüm fonlar, sevdiğimiz program olan LMMS'nin daha da geliştirilmesi için bağışlanacak.
+
+			**Not: Girişlerin gönderim listesinde görünmesi elle onaylanır, bu nedenle sizinkini göremiyorsanız, sıkı durun! Biraz zaman alabilir.**</target>
         
       </trans-unit>
       <trans-unit id="lEXM897" resname="The Best of LMMS Vol. 9 by LMMS Artists">
         <source>The Best of LMMS Vol. 9 by LMMS Artists</source>
-        <target>LMMS Sanatçılarının En İyisi Cilt 9</target>
+        <target>LMMS Sanatçılarının En İyisi Vol. 9</target>
         
       </trans-unit>
       <trans-unit id="ed.Z2cG" resname="Alpha Versions">

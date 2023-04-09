@@ -3316,6 +3316,11 @@ This chip was used in the Commodore 64 computer.</source>
         <source>Embedded ZynAddSubFX</source>
         <translation>Встроенный ZynAddSubFX</translation>
     </message>
+    <message>
+        <location filename="../../plugins/Dispersion/Dispersion.cpp" line="40"/>
+        <source>An all-pass filter allowing for extremely high orders.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>PluginDatabaseW</name>
@@ -4709,6 +4714,34 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="41"/>
         <source>Output gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>lmms::DispersionControls</name>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="37"/>
+        <source>Amount</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="38"/>
+        <source>Frequency</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="39"/>
+        <source>Resonance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="40"/>
+        <source>Feedback</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="41"/>
+        <source>DC Offset Removal</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -9652,6 +9685,59 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="80"/>
         <source>Gain</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>lmms::gui::DispersionControlDialog</name>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="51"/>
+        <source>AMOUNT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="52"/>
+        <source>Number of all-pass filters</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="57"/>
+        <source>FREQ</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="58"/>
+        <source>Frequency:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="63"/>
+        <source>RESO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="64"/>
+        <source>Resonance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="69"/>
+        <source>FEED</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="70"/>
+        <source>Feedback:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="72"/>
+        <source>DC Offset Removal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="78"/>
+        <source>Remove DC Offset</source>
         <translation type="unfinished"/>
     </message>
 </context>
