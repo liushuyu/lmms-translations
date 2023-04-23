@@ -3411,7 +3411,7 @@ Telif Hakkı (C) 2017 ROLI Ltd.</translation>
         <translation>Yerel bir flanger eklentisi</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="57"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="61"/>
         <source>Emulation of GameBoy (TM) APU</source>
         <translation>GameBoy (TM) APU Emülasyonu</translation>
     </message>
@@ -3590,7 +3590,7 @@ Bu çip Commodore 64 bilgisayarında kullanıldı.</translation>
     <message>
         <location filename="../../plugins/Dispersion/Dispersion.cpp" line="40"/>
         <source>An all-pass filter allowing for extremely high orders.</source>
-        <translation type="unfinished"/>
+        <translation>Son derece yüksek siparişlere izin veren bir all-pass filtresi.</translation>
     </message>
 </context>
 <context>
@@ -4993,27 +4993,27 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="37"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Miktar</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="38"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frekans</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="39"/>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Rezonans</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="40"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri bildirim</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="41"/>
         <source>DC Offset Removal</source>
-        <translation type="unfinished"/>
+        <translation>DC Ofset Kaldırma</translation>
     </message>
 </context>
 <context>
@@ -5615,122 +5615,122 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
 <context>
     <name>lmms::FreeBoyInstrument</name>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="73"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="77"/>
         <source>Sweep time</source>
         <translation>Tarama zamanı</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="74"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="78"/>
         <source>Sweep direction</source>
         <translation>Tarama yönü</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="76"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="80"/>
         <source>Sweep rate shift amount</source>
         <translation>Tarama oranı kaydırma miktarı</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="78"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="87"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="82"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="91"/>
         <source>Wave pattern duty cycle</source>
         <translation>Dalga deseni görev döngüsü</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="80"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="84"/>
         <source>Channel 1 volume</source>
         <translation>Kanal 1 düzeyi</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="82"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="91"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="102"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="86"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="95"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="106"/>
         <source>Volume sweep direction</source>
         <translation>Düzey tarama yönü</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="84"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="93"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="104"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="88"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="97"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="108"/>
         <source>Length of each step in sweep</source>
         <translation>Taramadaki her adımın uzunluğu</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="89"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="93"/>
         <source>Channel 2 volume</source>
         <translation>Kanal 2 düzeyi</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="97"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="101"/>
         <source>Channel 3 volume</source>
         <translation>Kanal 3 düzeyi</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="100"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="104"/>
         <source>Channel 4 volume</source>
         <translation>Kanal 4 düzeyi</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="106"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="110"/>
         <source>Shift Register width</source>
         <translation>Kayıt genişliğini kaydır</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="108"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="112"/>
         <source>Right output level</source>
         <translation>Sağ çıkış seviyesi</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="109"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="113"/>
         <source>Left output level</source>
         <translation>Sol çıkış seviyesi</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="110"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="114"/>
         <source>Channel 1 to SO2 (Left)</source>
         <translation>Kanal 1&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="111"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="115"/>
         <source>Channel 2 to SO2 (Left)</source>
         <translation>Kanal 2&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="112"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="116"/>
         <source>Channel 3 to SO2 (Left)</source>
         <translation>Kanal 3&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="113"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="117"/>
         <source>Channel 4 to SO2 (Left)</source>
         <translation>Kanal 4&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="114"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="118"/>
         <source>Channel 1 to SO1 (Right)</source>
         <translation>Kanal 1&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="115"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="119"/>
         <source>Channel 2 to SO1 (Right)</source>
         <translation>Kanal 2&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="116"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="120"/>
         <source>Channel 3 to SO1 (Right)</source>
         <translation>Kanal 3&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="117"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="121"/>
         <source>Channel 4 to SO1 (Right)</source>
         <translation>Kanal 4&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="118"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="122"/>
         <source>Treble</source>
         <translation>Tiz</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="119"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="123"/>
         <source>Bass</source>
         <translation>Bas</translation>
     </message>
@@ -9967,52 +9967,52 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="51"/>
         <source>AMOUNT</source>
-        <translation type="unfinished"/>
+        <translation>MİKTAR</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="52"/>
         <source>Number of all-pass filters</source>
-        <translation type="unfinished"/>
+        <translation>all-pass filtree numarası</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="57"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREKANS</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="58"/>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Frekans:</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="63"/>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>REZONANS</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="64"/>
         <source>Resonance:</source>
-        <translation type="unfinished"/>
+        <translation>Rezonans:</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="69"/>
         <source>FEED</source>
-        <translation type="unfinished"/>
+        <translation>GERİ BİLDİRİM</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="70"/>
         <source>Feedback:</source>
-        <translation type="unfinished"/>
+        <translation>Geri bildirim:</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="72"/>
         <source>DC Offset Removal</source>
-        <translation type="unfinished"/>
+        <translation>DC Ofset Kaldırma</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="78"/>
         <source>Remove DC Offset</source>
-        <translation type="unfinished"/>
+        <translation>DC Ofsetini Kaldır</translation>
     </message>
 </context>
 <context>
@@ -10767,192 +10767,192 @@ Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun v
 <context>
     <name>lmms::gui::FreeBoyInstrumentView</name>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="469"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="471"/>
         <source>Sweep time:</source>
         <translation>Tarama zamanı:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="471"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="473"/>
         <source>Sweep time</source>
         <translation>Tarama zamanı</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="474"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="476"/>
         <source>Sweep rate shift amount:</source>
         <translation>Tarama oranı kaydırma miktarı:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="477"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="479"/>
         <source>Sweep rate shift amount</source>
         <translation>Tarama oranı kaydırma miktarı</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="480"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="500"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="482"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="502"/>
         <source>Wave pattern duty cycle:</source>
         <translation>Dalga deseni görev döngüsü:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="483"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="503"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="485"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="505"/>
         <source>Wave pattern duty cycle</source>
         <translation>Dalga deseni görev döngüsü</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="486"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="488"/>
         <source>Square channel 1 volume:</source>
         <translation>Kare kanal 1 düzeyi:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="489"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="491"/>
         <source>Square channel 1 volume</source>
         <translation>Kare kanal 1 düzeyi</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="492"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="512"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="532"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="494"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="514"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="534"/>
         <source>Length of each step in sweep:</source>
         <translation>Taramadaki her adımın uzunluğu:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="495"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="515"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="535"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="497"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="517"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="537"/>
         <source>Length of each step in sweep</source>
         <translation>Taramadaki her adımın uzunluğu</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="506"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="508"/>
         <source>Square channel 2 volume:</source>
         <translation>Kare kanal 2 düzeyi:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="509"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="511"/>
         <source>Square channel 2 volume</source>
         <translation>Kare kanal 2 düzeyi</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="520"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="522"/>
         <source>Wave pattern channel volume:</source>
         <translation>Dalga deseni kanal düzeyi:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="522"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="524"/>
         <source>Wave pattern channel volume</source>
         <translation>Dalga deseni kanal düzeyi</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="527"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="529"/>
         <source>Noise channel volume:</source>
         <translation>Gürültü kanalı düzeyi:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="529"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="531"/>
         <source>Noise channel volume</source>
         <translation>Gürültü kanalı düzeyi</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="540"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="542"/>
         <source>SO1 volume (Right):</source>
         <translation>SO2 düzeyi (Sağ):</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="542"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="544"/>
         <source>SO1 volume (Right)</source>
         <translation>SO2 düzeyi (Sağ)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="545"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="547"/>
         <source>SO2 volume (Left):</source>
         <translation>SO2 düzeyi (Sol):</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="547"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="549"/>
         <source>SO2 volume (Left)</source>
         <translation>SO2 düzeyi (Sol)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="550"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="552"/>
         <source>Treble:</source>
         <translation>Tiz:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="552"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="554"/>
         <source>Treble</source>
         <translation>Tiz</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="555"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="557"/>
         <source>Bass:</source>
         <translation>Bas:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="557"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="559"/>
         <source>Bass</source>
         <translation>Bas</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="566"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="568"/>
         <source>Sweep direction</source>
         <translation>Tarama yönü</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="575"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="580"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="587"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="593"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="600"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="577"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="582"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="589"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="595"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="602"/>
         <source>Volume sweep direction</source>
         <translation>Düzey tarama yönü</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="609"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="611"/>
         <source>Shift register width</source>
         <translation>Vardiya kaydı genişliği</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="619"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="621"/>
         <source>Channel 1 to SO1 (Right)</source>
         <translation>Kanal 1&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="626"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="628"/>
         <source>Channel 2 to SO1 (Right)</source>
         <translation>Kanal 2&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="633"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="635"/>
         <source>Channel 3 to SO1 (Right)</source>
         <translation>Kanal 3&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="641"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="643"/>
         <source>Channel 4 to SO1 (Right)</source>
         <translation>Kanal 4&apos;den SO1&apos;e (Sağ)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="648"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="650"/>
         <source>Channel 1 to SO2 (Left)</source>
         <translation>Kanal 1&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="655"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="657"/>
         <source>Channel 2 to SO2 (Left)</source>
         <translation>Kanal 2&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="662"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="664"/>
         <source>Channel 3 to SO2 (Left)</source>
         <translation>Kanal 3&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="670"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="672"/>
         <source>Channel 4 to SO2 (Left)</source>
         <translation>Kanal 4&apos;den SO2&apos;ye (Sol)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="678"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="680"/>
         <source>Wave pattern graph</source>
         <translation>Dalga deseni grafiği</translation>
     </message>

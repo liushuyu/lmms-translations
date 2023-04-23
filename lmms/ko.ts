@@ -86,7 +86,7 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="30"/>
         <source>About text here</source>
-        <translation>여기 텍스트 정보</translation>
+        <translation>텍스트에 대한 정보</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="102"/>
@@ -198,12 +198,12 @@ LMMS를 다른 언어로 번역하고 싶다거나 기존 번역을 개선하고
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="992"/>
         <source>valid osc commands here</source>
-        <translation>여기에 올바른 osc 명령</translation>
+        <translation>여기에서 올바른 osc 명령</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="1005"/>
         <source>Example:</source>
-        <translation>예제:</translation>
+        <translation>예시:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="1072"/>
@@ -3413,7 +3413,7 @@ JUCE는 GNU Public License 버전 2.0에 따라 사용이 허가되었습니다.
         <translation>기본 내장 플랜저 플러그인</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="57"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="61"/>
         <source>Emulation of GameBoy (TM) APU</source>
         <translation>GameBoy (TM) APU 에뮬레이션</translation>
     </message>
@@ -3592,7 +3592,7 @@ This chip was used in the Commodore 64 computer.</source>
     <message>
         <location filename="../../plugins/Dispersion/Dispersion.cpp" line="40"/>
         <source>An all-pass filter allowing for extremely high orders.</source>
-        <translation type="unfinished"/>
+        <translation>올패스 필터로 매우 높은 오더를 처리할 수 있습니다.</translation>
     </message>
 </context>
 <context>
@@ -4995,27 +4995,27 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="37"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>양</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="38"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>주파수</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="39"/>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>공명</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="40"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>피드백</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="41"/>
         <source>DC Offset Removal</source>
-        <translation type="unfinished"/>
+        <translation>DC 오프셋 제거</translation>
     </message>
 </context>
 <context>
@@ -5617,122 +5617,122 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>lmms::FreeBoyInstrument</name>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="73"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="77"/>
         <source>Sweep time</source>
         <translation>스위프 시간</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="74"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="78"/>
         <source>Sweep direction</source>
         <translation>스위프 방향</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="76"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="80"/>
         <source>Sweep rate shift amount</source>
         <translation>스위프 레이트 시프트 양</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="78"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="87"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="82"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="91"/>
         <source>Wave pattern duty cycle</source>
         <translation>웨이브 패턴 듀티 사이클</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="80"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="84"/>
         <source>Channel 1 volume</source>
         <translation>채널 1 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="82"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="91"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="102"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="86"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="95"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="106"/>
         <source>Volume sweep direction</source>
         <translation>볼륨 스위프 방향</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="84"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="93"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="104"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="88"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="97"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="108"/>
         <source>Length of each step in sweep</source>
         <translation>스위프에서 각 스텝의 길이</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="89"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="93"/>
         <source>Channel 2 volume</source>
         <translation>채널 2 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="97"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="101"/>
         <source>Channel 3 volume</source>
         <translation>채널 3 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="100"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="104"/>
         <source>Channel 4 volume</source>
         <translation>채널 4 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="106"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="110"/>
         <source>Shift Register width</source>
         <translation>시프트 레지스터 너비</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="108"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="112"/>
         <source>Right output level</source>
         <translation>우측 출력 레벨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="109"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="113"/>
         <source>Left output level</source>
         <translation>좌측 출력 레벨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="110"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="114"/>
         <source>Channel 1 to SO2 (Left)</source>
         <translation>채널 1 → SO2 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="111"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="115"/>
         <source>Channel 2 to SO2 (Left)</source>
         <translation>채널 2 → SO2 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="112"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="116"/>
         <source>Channel 3 to SO2 (Left)</source>
         <translation>채널 3 → SO2 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="113"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="117"/>
         <source>Channel 4 to SO2 (Left)</source>
         <translation>채널 4 → SO2 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="114"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="118"/>
         <source>Channel 1 to SO1 (Right)</source>
         <translation>채널 1 → SO1 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="115"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="119"/>
         <source>Channel 2 to SO1 (Right)</source>
         <translation>채널 2 → SO1 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="116"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="120"/>
         <source>Channel 3 to SO1 (Right)</source>
         <translation>채널 3 → SO1 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="117"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="121"/>
         <source>Channel 4 to SO1 (Right)</source>
         <translation>채널 4 → SO1 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="118"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="122"/>
         <source>Treble</source>
         <translation>트레블</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="119"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="123"/>
         <source>Bass</source>
         <translation>베이스</translation>
     </message>
@@ -7102,33 +7102,33 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="327"/>
         <source>Bandlimited Triangle wave</source>
-        <translation>밴드제한된 삼각파</translation>
+        <translation>밴드리밋된 삼각파</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="328"/>
         <source>Bandlimited Saw wave</source>
-        <translation>밴드제한된 톱니파</translation>
+        <translation>밴드리밋된 톱니파</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="329"/>
         <source>Bandlimited Ramp wave</source>
-        <translation>밴드제한된 램프파</translation>
+        <translation>밴드리밋된 램프파</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="330"/>
         <source>Bandlimited Square wave</source>
-        <translation>밴드제한된 사각파</translation>
+        <translation>밴드리밋된 사각파</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="331"/>
         <source>Bandlimited Moog saw wave</source>
-        <translation>밴드제한된 모그 톱니파</translation>
+        <translation>밴드리밋된 모그 톱니파</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="332"/>
         <location filename="../../plugins/Monstro/Monstro.h" line="350"/>
         <source>Soft square wave</source>
-        <translation>소프트 사각파</translation>
+        <translation>둥근 모서리 사각파</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="333"/>
@@ -7209,7 +7209,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="354"/>
         <source>Random smooth</source>
-        <translation>무작위 스무드</translation>
+        <translation>무작위로 부드럽게</translation>
     </message>
 </context>
 <context>
@@ -9024,7 +9024,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="358"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation>이 그래프 위에 마우스를 드래그하여 나만의 파형을 그려보세요.</translation>
+        <translation>이 그래프 위에 마우스를 드래그하여 여기에 나만의 파형을 그려보세요.</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="369"/>
@@ -9066,7 +9066,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="424"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="431"/>
         <source>Smooth waveform</source>
-        <translation>스무드 파형</translation>
+        <translation>부드러운 파형</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="435"/>
@@ -9378,7 +9378,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="121"/>
         <source>Smooth out the gain reduction curve around the threshold</source>
-        <translation>스레시홀드 주변에서 게인 감소 곡선 부드럽게 하기</translation>
+        <translation>스레시홀드 주변에서 게인 감소 곡선 부드럽게 펴기</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="124"/>
@@ -9969,52 +9969,52 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="51"/>
         <source>AMOUNT</source>
-        <translation type="unfinished"/>
+        <translation>AMOUNT</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="52"/>
         <source>Number of all-pass filters</source>
-        <translation type="unfinished"/>
+        <translation>올패스 필터의 수</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="57"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREQ</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="58"/>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>주파수:</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="63"/>
         <source>RESO</source>
-        <translation type="unfinished"/>
+        <translation>RESO</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="64"/>
         <source>Resonance:</source>
-        <translation type="unfinished"/>
+        <translation>공명:</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="69"/>
         <source>FEED</source>
-        <translation type="unfinished"/>
+        <translation>FEED</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="70"/>
         <source>Feedback:</source>
-        <translation type="unfinished"/>
+        <translation>피드백:</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="72"/>
         <source>DC Offset Removal</source>
-        <translation type="unfinished"/>
+        <translation>DC 오프셋 제거</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="78"/>
         <source>Remove DC Offset</source>
-        <translation type="unfinished"/>
+        <translation>DC 오프셋 제거하기</translation>
     </message>
 </context>
 <context>
@@ -10138,7 +10138,7 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="98"/>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="103"/>
         <source>Smooth wavegraph</source>
-        <translation>스무드 웨이브그래프</translation>
+        <translation>부드러운 웨이브그래프</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="105"/>
@@ -10718,7 +10718,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="57"/>
         <source>Period:</source>
-        <translation type="unfinished"/>
+        <translation>주기:</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="63"/>
@@ -10769,192 +10769,192 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>lmms::gui::FreeBoyInstrumentView</name>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="469"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="471"/>
         <source>Sweep time:</source>
         <translation>스위프 시간:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="471"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="473"/>
         <source>Sweep time</source>
         <translation>스위프 시간</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="474"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="476"/>
         <source>Sweep rate shift amount:</source>
         <translation>스위프 레이트 시프트 양:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="477"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="479"/>
         <source>Sweep rate shift amount</source>
         <translation>스위프 레이트 시프트 양</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="480"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="500"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="482"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="502"/>
         <source>Wave pattern duty cycle:</source>
         <translation>웨이브 패턴 듀티 사이클:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="483"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="503"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="485"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="505"/>
         <source>Wave pattern duty cycle</source>
         <translation>웨이브 패턴 듀티 사이클</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="486"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="488"/>
         <source>Square channel 1 volume:</source>
         <translation>스퀘어 채널 1 볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="489"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="491"/>
         <source>Square channel 1 volume</source>
         <translation>스퀘어 채널 1 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="492"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="512"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="532"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="494"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="514"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="534"/>
         <source>Length of each step in sweep:</source>
         <translation>스위프에서 각 스텝의 길이:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="495"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="515"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="535"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="497"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="517"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="537"/>
         <source>Length of each step in sweep</source>
         <translation>스위프에서 각 스텝의 길이</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="506"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="508"/>
         <source>Square channel 2 volume:</source>
         <translation>스퀘어 채널 2 볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="509"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="511"/>
         <source>Square channel 2 volume</source>
         <translation>스퀘어 채널 2 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="520"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="522"/>
         <source>Wave pattern channel volume:</source>
         <translation>웨이브 패턴 채널 볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="522"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="524"/>
         <source>Wave pattern channel volume</source>
         <translation>웨이브 패턴 채널 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="527"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="529"/>
         <source>Noise channel volume:</source>
         <translation>잡음 채널 볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="529"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="531"/>
         <source>Noise channel volume</source>
         <translation>잡음 채널 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="540"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="542"/>
         <source>SO1 volume (Right):</source>
         <translation>SO1 볼륨 (우측):</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="542"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="544"/>
         <source>SO1 volume (Right)</source>
         <translation>SO1 볼륨 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="545"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="547"/>
         <source>SO2 volume (Left):</source>
         <translation>SO2 볼륨 (좌측):</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="547"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="549"/>
         <source>SO2 volume (Left)</source>
         <translation>SO2 볼륨 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="550"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="552"/>
         <source>Treble:</source>
         <translation>트레블:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="552"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="554"/>
         <source>Treble</source>
         <translation>트레블</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="555"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="557"/>
         <source>Bass:</source>
         <translation>베이스:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="557"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="559"/>
         <source>Bass</source>
         <translation>베이스</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="566"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="568"/>
         <source>Sweep direction</source>
         <translation>스위프 방향</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="575"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="580"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="587"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="593"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="600"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="577"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="582"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="589"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="595"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="602"/>
         <source>Volume sweep direction</source>
         <translation>볼륨 스위프 방향</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="609"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="611"/>
         <source>Shift register width</source>
         <translation>시프트 레지스터 너비</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="619"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="621"/>
         <source>Channel 1 to SO1 (Right)</source>
         <translation>채널 1 → SO1 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="626"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="628"/>
         <source>Channel 2 to SO1 (Right)</source>
         <translation>채널 2 → SO1 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="633"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="635"/>
         <source>Channel 3 to SO1 (Right)</source>
         <translation>채널 3 → SO1 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="641"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="643"/>
         <source>Channel 4 to SO1 (Right)</source>
         <translation>채널 4 → SO1 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="648"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="650"/>
         <source>Channel 1 to SO2 (Left)</source>
         <translation>채널 1 → SO2 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="655"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="657"/>
         <source>Channel 2 to SO2 (Left)</source>
         <translation>채널 2 → SO2 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="662"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="664"/>
         <source>Channel 3 to SO2 (Left)</source>
         <translation>채널 3 → SO2 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="670"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="672"/>
         <source>Channel 4 to SO2 (Left)</source>
         <translation>채널 4 → SO2 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="678"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="680"/>
         <source>Wave pattern graph</source>
         <translation>웨이브 패턴 그래프</translation>
     </message>
@@ -11879,42 +11879,42 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="945"/>
         <source>Bandlimited saw wave</source>
-        <translation>밴드제한된 톱니파</translation>
+        <translation>밴드리밋된 톱니파</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="952"/>
         <source>Click here for bandlimited saw wave.</source>
-        <translation>밴드제한된 톱니파를 얻으려면 여기를 클릭하세요.</translation>
+        <translation>밴드리밋된 톱니파를 얻으려면 여기를 클릭하세요.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="954"/>
         <source>Bandlimited square wave</source>
-        <translation>밴드제한된 사각파</translation>
+        <translation>밴드리밋된 사각파</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="961"/>
         <source>Click here for bandlimited square wave.</source>
-        <translation>밴드제한된 사각파를 얻으려면 여기를 클릭하세요.</translation>
+        <translation>밴드리밋된 사각파를 얻으려면 여기를 클릭하세요.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="963"/>
         <source>Bandlimited triangle wave</source>
-        <translation>밴드제한된 삼각파</translation>
+        <translation>밴드리밋된 삼각파</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="970"/>
         <source>Click here for bandlimited triangle wave.</source>
-        <translation>밴드제한된 삼각파를 얻으려면 여기를 클릭하세요.</translation>
+        <translation>밴드리밋된 삼각파를 얻으려면 여기를 클릭하세요.</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="972"/>
         <source>Bandlimited moog saw wave</source>
-        <translation>밴드제한된 모그 톱니파</translation>
+        <translation>밴드리밋된 모그 톱니파</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="979"/>
         <source>Click here for bandlimited moog saw wave.</source>
-        <translation>밴드제한된 모그 톱니파를 얻으려면 여기를 클릭하세요.</translation>
+        <translation>밴드리밋된 모그 톱니파를 얻으려면 여기를 클릭하세요.</translation>
     </message>
 </context>
 <context>
@@ -12496,7 +12496,7 @@ LMMS에 대한 문서는 http://lmms.sf.net/wiki를 방문하세요.</translatio
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1127"/>
         <source>Smooth scroll</source>
-        <translation>스무드 스크롤</translation>
+        <translation>부드러운 스크롤</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1141"/>
@@ -14772,7 +14772,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="266"/>
         <source>Decrease to make averaging slower and smoother.</source>
-        <translation>애버리징을 더 느리고 매끄럽게 하려면 값을 줄입니다.</translation>
+        <translation>애버리징을 더 느리고 부드럽게 하려면 값을 줄입니다.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="267"/>
@@ -15089,7 +15089,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="379"/>
         <source>Smooth scroll in song editor</source>
-        <translation>노래 편집기에서 스무드 스크롤</translation>
+        <translation>노래 편집기에서 부드러운 스크롤</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="381"/>
@@ -16531,7 +16531,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="545"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="553"/>
         <source>Smooth waveform</source>
-        <translation>스무드 파형</translation>
+        <translation>부드러운 파형</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="557"/>
@@ -16841,7 +16841,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="85"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="90"/>
         <source>Smooth wavegraph</source>
-        <translation>스무드 웨이브그래프</translation>
+        <translation>부드러운 웨이브그래프</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="92"/>

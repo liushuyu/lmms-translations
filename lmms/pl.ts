@@ -88,7 +88,7 @@ Radek Słowik</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="30"/>
         <source>About text here</source>
-        <translation type="unfinished"/>
+        <translation>Tekst opisowy</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="102"/>
@@ -3413,7 +3413,7 @@ Copyright (C) 2017 ROLI Ltd.</translation>
         <translation>Natywna wtyczka flangera</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="57"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="61"/>
         <source>Emulation of GameBoy (TM) APU</source>
         <translation>Emulator układu APU GameBoy&apos;a (TM).</translation>
     </message>
@@ -4462,12 +4462,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="38"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="39"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panoramowanie</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="40"/>
@@ -4505,12 +4505,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="86"/>
         <source>Reverse sample</source>
-        <translation type="unfinished"/>
+        <translation>Odwróć próbkę</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="87"/>
         <source>Loop mode</source>
-        <translation type="unfinished"/>
+        <translation>Tryb zapętlenia</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="88"/>
@@ -4525,7 +4525,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="107"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Brak</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="108"/>
@@ -4558,7 +4558,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="117"/>
         <source>JACK server down</source>
-        <translation type="unfinished"/>
+        <translation>Serwer JACK wyłączony</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="118"/>
@@ -4573,7 +4573,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="477"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanały</translation>
     </message>
 </context>
 <context>
@@ -4581,12 +4581,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="326"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="338"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanały</translation>
     </message>
 </context>
 <context>
@@ -4594,12 +4594,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="425"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Backend</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="432"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
 </context>
 <context>
@@ -4607,12 +4607,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="318"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="330"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanały</translation>
     </message>
 </context>
 <context>
@@ -4620,7 +4620,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="334"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
 </context>
 <context>
@@ -4628,12 +4628,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="189"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="201"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Kanały</translation>
     </message>
 </context>
 <context>
@@ -4641,12 +4641,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="457"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Backend</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="464"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Urządzenie</translation>
     </message>
 </context>
 <context>
@@ -4733,17 +4733,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="38"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="39"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="40"/>
         <source>Ratio</source>
-        <translation type="unfinished"/>
+        <translation>Współczynnik</translation>
     </message>
 </context>
 <context>
@@ -4751,7 +4751,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="154"/>
         <source>Sample length</source>
-        <translation type="unfinished"/>
+        <translation>Długość próbki</translation>
     </message>
 </context>
 <context>
@@ -4759,7 +4759,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="40"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie wejścia</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="41"/>
@@ -4769,7 +4769,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="42"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie wyścia</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="43"/>
@@ -4794,12 +4794,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="47"/>
         <source>Rate enabled</source>
-        <translation type="unfinished"/>
+        <translation>Tempo włączone</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="48"/>
         <source>Depth enabled</source>
-        <translation type="unfinished"/>
+        <translation>Głębia włączona</translation>
     </message>
 </context>
 <context>
@@ -4807,7 +4807,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/Clip.cpp" line="50"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Wycisz</translation>
     </message>
 </context>
 <context>
@@ -4820,17 +4820,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="39"/>
         <source>Ratio</source>
-        <translation type="unfinished"/>
+        <translation>Współczynnik</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="40"/>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Atak</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="41"/>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Wybrzmiewanie</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="42"/>
@@ -4840,7 +4840,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="43"/>
         <source>Hold</source>
-        <translation type="unfinished"/>
+        <translation>Przetrzymanie</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="44"/>
@@ -4880,7 +4880,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="51"/>
         <source>Limiter</source>
-        <translation type="unfinished"/>
+        <translation>Limiter</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="52"/>
@@ -4950,7 +4950,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="65"/>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Miks</translation>
     </message>
 </context>
 <context>
@@ -4966,7 +4966,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="37"/>
         <source>Delay samples</source>
-        <translation type="unfinished"/>
+        <translation>Próbki Opóźnień</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="38"/>
@@ -4976,17 +4976,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="39"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="40"/>
         <source>LFO amount</source>
-        <translation type="unfinished"/>
+        <translation>Ilość LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="41"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie wyścia</translation>
     </message>
 </context>
 <context>
@@ -4999,12 +4999,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="38"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="39"/>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Rezonans</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="40"/>
@@ -5022,7 +5022,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="43"/>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Włączono filtr 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="44"/>
@@ -5047,12 +5047,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="49"/>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Miks</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="51"/>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Włączono filtr 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="52"/>
@@ -5090,19 +5090,19 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="59"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="82"/>
         <source>Band-pass csg</source>
-        <translation type="unfinished"/>
+        <translation>Pasmowoprzepustowy csg</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="60"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="83"/>
         <source>Band-pass czpg</source>
-        <translation type="unfinished"/>
+        <translation>Pasmowoprzepustowy czpg</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="61"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="84"/>
         <source>Notch</source>
-        <translation type="unfinished"/>
+        <translation>Pasmowozaporowy</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="62"/>
@@ -5114,7 +5114,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="63"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="86"/>
         <source>Moog</source>
-        <translation type="unfinished"/>
+        <translation>Moog</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="64"/>
@@ -5168,7 +5168,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="72"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="95"/>
         <source>2x Moog</source>
-        <translation type="unfinished"/>
+        <translation>2x Moog</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="73"/>
@@ -5192,7 +5192,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="76"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="99"/>
         <source>SV Notch</source>
-        <translation type="unfinished"/>
+        <translation>SV Zaporowy</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="77"/>
@@ -5339,7 +5339,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="114"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość LFO</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="115"/>
@@ -5585,7 +5585,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="40"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="41"/>
@@ -5610,130 +5610,130 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="45"/>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Odwróć</translation>
     </message>
 </context>
 <context>
     <name>lmms::FreeBoyInstrument</name>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="73"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="77"/>
         <source>Sweep time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="74"/>
-        <source>Sweep direction</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="76"/>
-        <source>Sweep rate shift amount</source>
-        <translation type="unfinished"/>
+        <translation>Okres wobulacji</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="78"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="87"/>
-        <source>Wave pattern duty cycle</source>
-        <translation type="unfinished"/>
+        <source>Sweep direction</source>
+        <translation>Kierunek wobulacji</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="80"/>
-        <source>Channel 1 volume</source>
+        <source>Sweep rate shift amount</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="82"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="91"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="102"/>
-        <source>Volume sweep direction</source>
-        <translation type="unfinished"/>
+        <source>Wave pattern duty cycle</source>
+        <translation>Wypełnienie impulsu szablonu fali</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="84"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="93"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="104"/>
-        <source>Length of each step in sweep</source>
-        <translation type="unfinished"/>
+        <source>Channel 1 volume</source>
+        <translation>Głośność kanału 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="89"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="86"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="95"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="106"/>
+        <source>Volume sweep direction</source>
+        <translation>Kierunek wobulacji głośności</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="88"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="97"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="108"/>
+        <source>Length of each step in sweep</source>
+        <translation>Długość każdego kroku wobulacji</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="93"/>
         <source>Channel 2 volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="97"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="101"/>
         <source>Channel 3 volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność kanału 3</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="100"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="104"/>
         <source>Channel 4 volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność kanału 4</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="106"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="110"/>
         <source>Shift Register width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="108"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="112"/>
         <source>Right output level</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="109"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="113"/>
         <source>Left output level</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="110"/>
-        <source>Channel 1 to SO2 (Left)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="111"/>
-        <source>Channel 2 to SO2 (Left)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="112"/>
-        <source>Channel 3 to SO2 (Left)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="113"/>
-        <source>Channel 4 to SO2 (Left)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="114"/>
-        <source>Channel 1 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <source>Channel 1 to SO2 (Left)</source>
+        <translation>Kanał 1 do SO2 (lewy)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="115"/>
-        <source>Channel 2 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <source>Channel 2 to SO2 (Left)</source>
+        <translation>Kanał 2 do SO2 (lewy)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="116"/>
-        <source>Channel 3 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <source>Channel 3 to SO2 (Left)</source>
+        <translation>Kanał 3 do SO2 (lewy)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="117"/>
-        <source>Channel 4 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <source>Channel 4 to SO2 (Left)</source>
+        <translation>Kanał 4 do SO2 (lewy)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="118"/>
-        <source>Treble</source>
-        <translation type="unfinished"/>
+        <source>Channel 1 to SO1 (Right)</source>
+        <translation>Kanał 1 do SO1 (prawy)</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="119"/>
+        <source>Channel 2 to SO1 (Right)</source>
+        <translation>Kanał 2 do SO1 (prawy)</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="120"/>
+        <source>Channel 3 to SO1 (Right)</source>
+        <translation>Kanał 3 do SO1 (prawy)</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="121"/>
+        <source>Channel 4 to SO1 (Right)</source>
+        <translation>Kanał 4 do SO1 (prawy)</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="122"/>
+        <source>Treble</source>
+        <translation>Soprany</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="123"/>
         <source>Bass</source>
-        <translation type="unfinished"/>
+        <translation>Basy</translation>
     </message>
 </context>
 <context>
@@ -5741,17 +5741,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="88"/>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>Bank</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="89"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Próbka</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="90"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Wzmocnienie</translation>
     </message>
 </context>
 <context>
@@ -5834,7 +5834,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
         <source>Random</source>
-        <translation type="unfinished"/>
+        <translation>Losowe</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="324"/>
@@ -5849,7 +5849,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
         <source>Sync</source>
-        <translation type="unfinished"/>
+        <translation>Synchronizacja</translation>
     </message>
 </context>
 <context>
@@ -5880,12 +5880,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="65"/>
         <source>Filter type</source>
-        <translation type="unfinished"/>
+        <translation>Rodzaj filtru</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="66"/>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość graniczna</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="67"/>
@@ -5915,7 +5915,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="87"/>
         <source>Notch</source>
-        <translation type="unfinished"/>
+        <translation>Pasmowozaporowy</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="88"/>
@@ -5925,7 +5925,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="89"/>
         <source>Moog</source>
-        <translation type="unfinished"/>
+        <translation>Moog</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="90"/>
@@ -5970,7 +5970,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="98"/>
         <source>2x Moog</source>
-        <translation type="unfinished"/>
+        <translation>2x Moog</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="99"/>
@@ -5990,7 +5990,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="102"/>
         <source>SV Notch</source>
-        <translation type="unfinished"/>
+        <translation>SV Zaporowy</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="103"/>
@@ -6029,7 +6029,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="60"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="61"/>
@@ -6039,7 +6039,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="63"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Odstrojenie</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="64"/>
@@ -6049,12 +6049,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="65"/>
         <source>Mixer channel</source>
-        <translation type="unfinished"/>
+        <translation>Kanał miksera</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="66"/>
         <source>Master pitch</source>
-        <translation type="unfinished"/>
+        <translation>Odstrojenie główne</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="91"/>
@@ -6149,7 +6149,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/LadspaControl.cpp" line="42"/>
         <source>Link channels</source>
-        <translation type="unfinished"/>
+        <translation>Połącz kanały</translation>
     </message>
 </context>
 <context>
@@ -6276,7 +6276,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="76"/>
         <source>Vibrato frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość vibrato</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="77"/>
@@ -6291,7 +6291,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="79"/>
         <source>Crossfade</source>
-        <translation type="unfinished"/>
+        <translation>Płynne przechodzenie</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="80"/>
@@ -6301,7 +6301,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="81"/>
         <source>LFO depth</source>
-        <translation type="unfinished"/>
+        <translation>Głębia LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="82"/>
@@ -6523,7 +6523,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="55"/>
         <source>Input channel</source>
-        <translation type="unfinished"/>
+        <translation>Kanał wejściowy</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="56"/>
@@ -6593,7 +6593,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/Mixer.cpp" line="702"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="703"/>
@@ -7096,7 +7096,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/Monstro/Monstro.h" line="326"/>
         <location filename="../../plugins/Monstro/Monstro.h" line="344"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala sinusoidalna</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="327"/>
@@ -7138,7 +7138,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/Monstro/Monstro.h" line="334"/>
         <location filename="../../plugins/Monstro/Monstro.h" line="352"/>
         <source>Exponential wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala wykładnicza</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="335"/>
@@ -7173,12 +7173,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="345"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala trójkątna</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="346"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala piłokształtna</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="347"/>
@@ -7188,12 +7188,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="348"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala prostokątna</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="349"/>
         <source>Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala piłokształtna Mooga</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="351"/>
@@ -7221,7 +7221,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="487"/>
         <source>Channel 1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność kanału 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="491"/>
@@ -7281,12 +7281,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="516"/>
         <source>Channel 3 volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność kanału 3</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="520"/>
         <source>Channel 4 volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność kanału 4</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="524"/>
@@ -7306,7 +7306,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="534"/>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność główna</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="535"/>
@@ -7319,7 +7319,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="99"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Próbka</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="100"/>
@@ -7472,7 +7472,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="83"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność</translation>
     </message>
 </context>
 <context>
@@ -7602,7 +7602,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControls.cpp" line="47"/>
         <source>Absolute value</source>
-        <translation type="unfinished"/>
+        <translation>Wartość absolutna</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControls.cpp" line="48"/>
@@ -7692,7 +7692,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="49"/>
         <source>Logarithmic frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość logarytmiczna</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="50"/>
@@ -7702,7 +7702,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="53"/>
         <source>Frequency range</source>
-        <translation type="unfinished"/>
+        <translation>Zakres częstotliwości</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="54"/>
@@ -7717,7 +7717,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="56"/>
         <source>FFT window type</source>
-        <translation type="unfinished"/>
+        <translation>Typ okna FFT</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="59"/>
@@ -7775,7 +7775,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="72"/>
         <source>Bass</source>
-        <translation type="unfinished"/>
+        <translation>Bas</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="73"/>
@@ -7907,7 +7907,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="49"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="50"/>
@@ -7917,7 +7917,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="51"/>
         <source>Mixer channel</source>
-        <translation type="unfinished"/>
+        <translation>Kanał miksera</translation>
     </message>
     <message>
         <location filename="../../src/tracks/SampleTrack.cpp" line="52"/>
@@ -7944,7 +7944,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="105"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Próbka</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="106"/>
@@ -8020,7 +8020,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="122"/>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość graniczna</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="123"/>
@@ -8030,7 +8030,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="124"/>
         <source>Filter type</source>
-        <translation type="unfinished"/>
+        <translation>Rodzaj filtru</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="127"/>
@@ -8040,7 +8040,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="128"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="129"/>
@@ -8058,12 +8058,12 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/Song.cpp" line="76"/>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność główna</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="77"/>
         <source>Master pitch</source>
-        <translation type="unfinished"/>
+        <translation>Odstrojenie główne</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1040"/>
@@ -8679,7 +8679,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="51"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Głośność:</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControlDialog.cpp" line="56"/>
@@ -8806,7 +8806,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/clips/AutomationClipView.cpp" line="183"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>Zmień nazwę</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/AutomationClipView.cpp" line="186"/>
@@ -8877,7 +8877,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1839"/>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj akcje</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1842"/>
@@ -8982,12 +8982,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="55"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREQ</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="56"/>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość:</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControlDialog.cpp" line="60"/>
@@ -9020,31 +9020,31 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="358"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation type="unfinished"/>
+        <translation>Narysuj swój własny przebieg fali przeciągając kursorem po tym wykresie.</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="369"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="376"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala sinusoidalna</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="378"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="385"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala trójkątna</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="387"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="394"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala piłokształtna</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="396"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="403"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala prostokątna</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="406"/>
@@ -9056,13 +9056,13 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="415"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="422"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Przebieg zdefiniowany przez użytkownika</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="424"/>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="431"/>
         <source>Smooth waveform</source>
-        <translation type="unfinished"/>
+        <translation>Gładki kształt przebiegu</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="435"/>
@@ -9126,7 +9126,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="85"/>
         <source>Rate enabled</source>
-        <translation type="unfinished"/>
+        <translation>Tempo włączone</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="88"/>
@@ -9136,7 +9136,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="90"/>
         <source>Depth enabled</source>
-        <translation type="unfinished"/>
+        <translation>Głębia włączona</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="93"/>
@@ -9146,7 +9146,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="100"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREQ</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControlDialog.cpp" line="101"/>
@@ -9311,7 +9311,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1126"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Zmień</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/ClipView.cpp" line="1127"/>
@@ -9694,12 +9694,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="148"/>
         <source>Input channel</source>
-        <translation type="unfinished"/>
+        <translation>Kanał wejściowy</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="150"/>
         <source>CHANNEL</source>
-        <translation type="unfinished"/>
+        <translation>KANAŁ</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="154"/>
@@ -9745,7 +9745,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="332"/>
         <source>LMMS</source>
-        <translation type="unfinished"/>
+        <translation>LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="332"/>
@@ -9937,7 +9937,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="66"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="72"/>
@@ -9975,12 +9975,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="57"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREQ</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="58"/>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość:</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControlDialog.cpp" line="63"/>
@@ -10019,13 +10019,13 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="56"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="60"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREQ</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="56"/>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="60"/>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość graniczna</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="57"/>
@@ -10064,12 +10064,12 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="67"/>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Włączono filtr 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="68"/>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Włączono filtr 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControlDialog.cpp" line="72"/>
@@ -10128,25 +10128,25 @@ Please make sure you have read-permission to the file and the directory containi
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="91"/>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="96"/>
         <source>Reset wavegraph</source>
-        <translation type="unfinished"/>
+        <translation>Resetuj wykres falowy</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="98"/>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="103"/>
         <source>Smooth wavegraph</source>
-        <translation type="unfinished"/>
+        <translation>Płynny wykres falowy</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="105"/>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="110"/>
         <source>Increase wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Zwiększ amplitudę wykresu falowego o 1 dB</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="112"/>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="117"/>
         <source>Decrease wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Zmniejsz amplitudę wykresu falowego o 1 dB</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControlDialog.cpp" line="120"/>
@@ -10222,7 +10222,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/EffectRackView.cpp" line="64"/>
         <source>Add effect</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj efekt</translation>
     </message>
 </context>
 <context>
@@ -10236,7 +10236,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/modals/EffectSelectDialog.cpp" line="75"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Rodzaj</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/EffectSelectDialog.cpp" line="241"/>
@@ -10393,7 +10393,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="161"/>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="222"/>
@@ -10508,7 +10508,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="120"/>
         <source>Frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość:</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="202"/>
@@ -10545,13 +10545,14 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="50"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Nie można otworzyć pliku</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioFileDevice.cpp" line="51"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
+        <translation>Nie udało się otworzyć pliku %1 do zapisu.
+Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego plik i spróbuj ponownie!</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="47"/>
@@ -10640,12 +10641,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="521"/>
         <source>Song Editor</source>
-        <translation type="unfinished"/>
+        <translation>Edytor Kompozycji</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="526"/>
         <source>Pattern Editor</source>
-        <translation type="unfinished"/>
+        <translation>Edytor szablonów</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="545"/>
@@ -10764,192 +10765,192 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>lmms::gui::FreeBoyInstrumentView</name>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="469"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="471"/>
         <source>Sweep time:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="471"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="473"/>
         <source>Sweep time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="474"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="476"/>
         <source>Sweep rate shift amount:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="477"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="479"/>
         <source>Sweep rate shift amount</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="480"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="500"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="482"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="502"/>
         <source>Wave pattern duty cycle:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="483"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="503"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="485"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="505"/>
         <source>Wave pattern duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>Wypełnienie impulsu szablonu fali</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="486"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="488"/>
         <source>Square channel 1 volume:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="489"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="491"/>
         <source>Square channel 1 volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="492"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="512"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="532"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="494"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="514"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="534"/>
         <source>Length of each step in sweep:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="495"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="515"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="535"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="497"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="517"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="537"/>
         <source>Length of each step in sweep</source>
-        <translation type="unfinished"/>
+        <translation>Długość każdego kroku wobulacji</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="506"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="508"/>
         <source>Square channel 2 volume:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="509"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="511"/>
         <source>Square channel 2 volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="520"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="522"/>
         <source>Wave pattern channel volume:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="522"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="524"/>
         <source>Wave pattern channel volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="527"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="529"/>
         <source>Noise channel volume:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="529"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="531"/>
         <source>Noise channel volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="540"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="542"/>
         <source>SO1 volume (Right):</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="542"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="544"/>
         <source>SO1 volume (Right)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="545"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="547"/>
         <source>SO2 volume (Left):</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="547"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="549"/>
         <source>SO2 volume (Left)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="550"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="552"/>
         <source>Treble:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="552"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="554"/>
         <source>Treble</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="555"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="557"/>
         <source>Bass:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="557"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="559"/>
         <source>Bass</source>
-        <translation type="unfinished"/>
+        <translation>Bas</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="566"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="568"/>
         <source>Sweep direction</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="575"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="580"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="587"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="593"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="600"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="577"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="582"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="589"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="595"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="602"/>
         <source>Volume sweep direction</source>
-        <translation type="unfinished"/>
+        <translation>Kierunek wobulacji głośności</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="609"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="611"/>
         <source>Shift register width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="619"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="621"/>
         <source>Channel 1 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Kanał 1 do SO1 (prawy)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="626"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="628"/>
         <source>Channel 2 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Kanał 2 do SO1 (prawy)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="633"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="635"/>
         <source>Channel 3 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Kanał 3 do SO1 (prawy)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="641"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="643"/>
         <source>Channel 4 to SO1 (Right)</source>
-        <translation type="unfinished"/>
+        <translation>Kanał 4 do SO1 (prawy)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="648"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="650"/>
         <source>Channel 1 to SO2 (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Kanał 1 do SO2 (lewy)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="655"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="657"/>
         <source>Channel 2 to SO2 (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Kanał 2 do SO2 (lewy)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="662"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="664"/>
         <source>Channel 3 to SO2 (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Kanał 3 do SO2 (lewy)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="670"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="672"/>
         <source>Channel 4 to SO2 (Left)</source>
-        <translation type="unfinished"/>
+        <translation>Kanał 4 do SO2 (lewy)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="678"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="680"/>
         <source>Wave pattern graph</source>
         <translation type="unfinished"/>
     </message>
@@ -10965,7 +10966,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="949"/>
         <source>Choose patch</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz próbkę</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="966"/>
@@ -11143,7 +11144,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="148"/>
         <source>Chord:</source>
-        <translation type="unfinished"/>
+        <translation>Akord:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="151"/>
@@ -11166,7 +11167,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="59"/>
         <source>Chord:</source>
-        <translation type="unfinished"/>
+        <translation>Akord:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="62"/>
@@ -11301,12 +11302,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="84"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREQ</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="86"/>
         <source>Cutoff frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość graniczna:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="86"/>
@@ -11334,12 +11335,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="91"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="94"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Głośność:</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="96"/>
@@ -11364,7 +11365,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="107"/>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="139"/>
@@ -11397,12 +11398,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="151"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="153"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Głośność:</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="158"/>
@@ -11427,7 +11428,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="181"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Odstrojenie</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="182"/>
@@ -11457,12 +11458,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="209"/>
         <source>Mixer channel</source>
-        <translation type="unfinished"/>
+        <translation>Kanał miksera</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="214"/>
         <source>CHANNEL</source>
-        <translation type="unfinished"/>
+        <translation>KANAŁ</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="224"/>
@@ -11487,12 +11488,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="269"/>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>Efekty</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="270"/>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="271"/>
@@ -11502,7 +11503,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="405"/>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz preset</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="405"/>
@@ -11632,7 +11633,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaBrowser.cpp" line="171"/>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Rodzaj:</translation>
     </message>
 </context>
 <context>
@@ -11653,7 +11654,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LadspaControlView.cpp" line="55"/>
         <source>Link channels</source>
-        <translation type="unfinished"/>
+        <translation>Połącz kanały</translation>
     </message>
     <message>
         <location filename="../../src/gui/LadspaControlView.cpp" line="106"/>
@@ -11699,7 +11700,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="60"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Rodzaj</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaBrowser/LadspaPortDialog.cpp" line="61"/>
@@ -11798,7 +11799,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="873"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala piłokształtna</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="880"/>
@@ -11808,7 +11809,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="882"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala trójkątna</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="889"/>
@@ -11818,7 +11819,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="891"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala prostokątna</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="898"/>
@@ -11848,7 +11849,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="918"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala sinusoidalna</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="925"/>
@@ -11985,7 +11986,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="70"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREQ</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="72"/>
@@ -12020,32 +12021,32 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="91"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala sinusoidalna</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="100"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala trójkątna</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="109"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala piłokształtna</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="118"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala prostokątna</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="127"/>
         <source>Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala piłokształtna Mooga</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="136"/>
         <source>Exponential wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala wykładnicza</translation>
     </message>
     <message>
         <location filename="../../src/gui/LfoControllerDialog.cpp" line="145"/>
@@ -12089,13 +12090,14 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="638"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Nie można otworzyć pliku</translation>
     </message>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="639"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
-        <translation type="unfinished"/>
+        <translation>Nie udało się otworzyć pliku %1 do zapisu.
+Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego plik i spróbuj ponownie!</translation>
     </message>
     <message>
         <location filename="../../src/core/main.cpp" line="877"/>
@@ -12187,7 +12189,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="282"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Plik</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="284"/>
@@ -12202,12 +12204,12 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="299"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zapisz</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="303"/>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz &amp;Jako...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="307"/>
@@ -12247,7 +12249,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="346"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Edycja</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="348"/>
@@ -12292,7 +12294,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="415"/>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>O LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="420"/>
@@ -12333,13 +12335,13 @@ Please make sure you have write permission to the file and the directory contain
         <location filename="../../src/gui/MainWindow.cpp" line="460"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1075"/>
         <source>Song Editor</source>
-        <translation type="unfinished"/>
+        <translation>Edytor Kompozycji</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="465"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1079"/>
         <source>Pattern Editor</source>
-        <translation type="unfinished"/>
+        <translation>Edytor szablonów</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="469"/>
@@ -12468,7 +12470,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1100"/>
         <source>Project Notes</source>
-        <translation type="unfinished"/>
+        <translation>Notatki do projektu</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1104"/>
@@ -12623,7 +12625,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="464"/>
         <source>Vibrato frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość vibrato</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="466"/>
@@ -12653,7 +12655,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="490"/>
         <source>Crossfade</source>
-        <translation type="unfinished"/>
+        <translation>Płynne przechodzenie</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="492"/>
@@ -12673,7 +12675,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="500"/>
         <source>LFO depth</source>
-        <translation type="unfinished"/>
+        <translation>Głębia LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="502"/>
@@ -12741,7 +12743,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="954"/>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="1243"/>
         <source> - VST plugin control</source>
-        <translation type="unfinished"/>
+        <translation> - kontrola wtyczki VST</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="963"/>
@@ -13131,12 +13133,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="233"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>Zmień nazwę</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="241"/>
         <source>Add steps</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj kroki</translation>
     </message>
     <message>
         <location filename="../../src/gui/clips/MidiClipView.cpp" line="243"/>
@@ -13197,7 +13199,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MixerLine.cpp" line="270"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Zmień</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerLine.cpp" line="271"/>
@@ -13273,7 +13275,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1650"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1666"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1638"/>
@@ -13548,7 +13550,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/Nes/Nes.cpp" line="818"/>
         <location filename="../../plugins/Nes/Nes.cpp" line="823"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="757"/>
@@ -13688,7 +13690,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="839"/>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność główna</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="840"/>
@@ -13733,7 +13735,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="445"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Głośność:</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="449"/>
@@ -13749,7 +13751,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="519"/>
         <source>Osc %1 volume:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 głośność:</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="525"/>
@@ -13843,7 +13845,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/clips/PatternClipView.cpp" line="64"/>
         <source>Change name</source>
-        <translation type="unfinished"/>
+        <translation>Zmień nazwę</translation>
     </message>
 </context>
 <context>
@@ -13851,7 +13853,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="228"/>
         <source>Pattern Editor</source>
-        <translation type="unfinished"/>
+        <translation>Edytor szablonów</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="246"/>
@@ -13886,12 +13888,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="268"/>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj próbkę</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="270"/>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj ścieżkę automatyki</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="279"/>
@@ -13901,7 +13903,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="281"/>
         <source>Add steps</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj kroki</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PatternEditor.cpp" line="283"/>
@@ -13992,7 +13994,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffectControlDialog.cpp" line="85"/>
         <source>Absolute value</source>
-        <translation type="unfinished"/>
+        <translation>Wartość absolutna</translation>
     </message>
 </context>
 <context>
@@ -14144,7 +14146,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj akcje</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4762"/>
@@ -14397,7 +14399,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="74"/>
         <source>Project Notes</source>
-        <translation type="unfinished"/>
+        <translation>Notatki do projektu</translation>
     </message>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="89"/>
@@ -14664,7 +14666,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="148"/>
         <source>Logarithmic frequency</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość logarytmiczna</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="149"/>
@@ -14675,7 +14677,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="162"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="163"/>
         <source>Frequency range</source>
-        <translation type="unfinished"/>
+        <translation>Zakres częstotliwości</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="170"/>
@@ -14703,7 +14705,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="214"/>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="215"/>
         <source>FFT window type</source>
-        <translation type="unfinished"/>
+        <translation>Typ okna FFT</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="241"/>
@@ -14907,7 +14909,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="99"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Głośność:</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="104"/>
@@ -14932,12 +14934,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="127"/>
         <source>Mixer channel</source>
-        <translation type="unfinished"/>
+        <translation>Kanał miksera</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleTrackWindow.cpp" line="132"/>
         <source>CHANNEL</source>
-        <translation type="unfinished"/>
+        <translation>KANAŁ</translation>
     </message>
 </context>
 <context>
@@ -15157,7 +15159,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="597"/>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="807"/>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="600"/>
@@ -15308,7 +15310,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="981"/>
         <source>Choose patch</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz próbkę</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1015"/>
@@ -15372,7 +15374,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="490"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Głośność:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="494"/>
@@ -15383,7 +15385,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="498"/>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="685"/>
         <source>Cutoff frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Częstotliwość graniczna:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="505"/>
@@ -15456,12 +15458,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="587"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala trójkątna</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="595"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala piłokształtna</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="603"/>
@@ -15507,7 +15509,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="157"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Nie można otworzyć pliku</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="158"/>
@@ -15612,7 +15614,7 @@ Latency: %2 ms</source>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="162"/>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="174"/>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność główna</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="187"/>
@@ -15672,17 +15674,17 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="947"/>
         <source>Add sample-track</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj próbkę</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="950"/>
         <source>Add automation-track</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj ścieżkę automatyki</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="962"/>
         <source>Edit actions</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj akcje</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="965"/>
@@ -16095,7 +16097,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="355"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Zmień</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="356"/>
@@ -16168,7 +16170,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="561"/>
         <source>Osc %1 volume:</source>
-        <translation type="unfinished"/>
+        <translation>Osc %1 głośność:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="567"/>
@@ -16220,22 +16222,22 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="612"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala sinusoidalna</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="621"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala trójkątna</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="630"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala piłokształtna</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="639"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala prostokątna</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="648"/>
@@ -16245,7 +16247,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="657"/>
         <source>Exponential wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala wykładnicza</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="666"/>
@@ -16255,7 +16257,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="674"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Przebieg zdefiniowany przez użytkownika</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="683"/>
@@ -16335,12 +16337,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="529"/>
         <source>Control VST plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>Kontroluj wtyczkę VST z hosta LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="542"/>
         <source>Open VST plugin preset</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz preset wtyczki VST</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="555"/>
@@ -16350,7 +16352,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="570"/>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz preset</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="583"/>
@@ -16400,7 +16402,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="919"/>
         <source> - VST plugin control</source>
-        <translation type="unfinished"/>
+        <translation> - kontrola wtyczki VST</translation>
     </message>
 </context>
 <context>
@@ -16479,25 +16481,25 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="473"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="480"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala sinusoidalna</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="485"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="492"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala trójkątna</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="497"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="504"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala piłokształtna</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="509"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="516"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala prostokątna</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="521"/>
@@ -16509,13 +16511,13 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="533"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="540"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Przebieg zdefiniowany przez użytkownika</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="545"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="553"/>
         <source>Smooth waveform</source>
-        <translation type="unfinished"/>
+        <translation>Gładki kształt przebiegu</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="557"/>
@@ -16534,12 +16536,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="103"/>
         <source>Control VST plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>Kontroluj wtyczkę VST z hosta LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="119"/>
         <source>Open VST plugin preset</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz preset wtyczki VST</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="139"/>
@@ -16554,7 +16556,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="195"/>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz preset</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="238"/>
@@ -16576,7 +16578,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="676"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="677"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Głośność</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="679"/>
@@ -16718,7 +16720,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="839"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="847"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation type="unfinished"/>
+        <translation>Narysuj swój własny przebieg fali przeciągając kursorem po tym wykresie.</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="854"/>
@@ -16772,25 +16774,25 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="893"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="897"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala sinusoidalna</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="899"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="903"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="905"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala trójkątna</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="909"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala piłokształtna</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="911"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="915"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala prostokątna</translation>
     </message>
 </context>
 <context>
@@ -16819,25 +16821,25 @@ Latency: %2 ms</source>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="78"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="83"/>
         <source>Reset wavegraph</source>
-        <translation type="unfinished"/>
+        <translation>Resetuj wykres falowy</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="85"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="90"/>
         <source>Smooth wavegraph</source>
-        <translation type="unfinished"/>
+        <translation>Płynny wykres falowy</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="92"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="97"/>
         <source>Increase wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Zwiększ amplitudę wykresu falowego o 1 dB</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="99"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="104"/>
         <source>Decrease wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Zmniejsz amplitudę wykresu falowego o 1 dB</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="106"/>
@@ -16855,7 +16857,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="334"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation type="unfinished"/>
+        <translation>Narysuj swój własny przebieg fali przeciągając kursorem po tym wykresie.</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="352"/>
@@ -16891,7 +16893,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="394"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="398"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala sinusoidalna</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="400"/>
@@ -16903,31 +16905,31 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="407"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="411"/>
         <source>Exponential wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala wykładnicza</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="413"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="417"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala piłokształtna</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="419"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="423"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Przebieg zdefiniowany przez użytkownika</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="425"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="431"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala trójkątna</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="433"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="438"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Fala prostokątna</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="440"/>
@@ -17001,7 +17003,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="517"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>FREQ</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="520"/>
