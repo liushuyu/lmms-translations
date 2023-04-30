@@ -14012,118 +14012,118 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>lmms::gui::PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="223"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="224"/>
         <source>Note Velocity</source>
         <translation>노트 벨로시티</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="224"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="225"/>
         <source>Note Panning</source>
         <translation>노트 패닝</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="237"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="238"/>
         <source>Mark/unmark current semitone</source>
         <translation>현재 반음 마킹하기/마킹해제</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="238"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="239"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>해당하는 모든 옥타브 반음 마킹하기/마킹해제</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="239"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="240"/>
         <source>Mark current scale</source>
         <translation>현재 스케일 마킹하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="240"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="241"/>
         <source>Mark current chord</source>
         <translation>현재 코드 마킹하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="241"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="242"/>
         <source>Unmark all</source>
         <translation>모두 마킹해제</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="242"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="243"/>
         <source>Select all notes on this key</source>
         <translation>이 키의 노트 모두 선택하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="360"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="361"/>
         <source>Note lock</source>
         <translation>노트 잠금</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="370"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="371"/>
         <source>Last note</source>
         <translation>마지막 노트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="394"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="395"/>
         <source>No key</source>
         <translation>키 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="407"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="408"/>
         <source>No scale</source>
         <translation>스케일 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="424"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="425"/>
         <source>No chord</source>
         <translation>코드 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="454"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="455"/>
         <source>Nudge</source>
         <translation>넛지</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="455"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="456"/>
         <source>Snap</source>
         <translation>스냅</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="496"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="497"/>
         <source>Velocity: %1%</source>
         <translation>벨로시티: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="505"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="506"/>
         <source>Panning: %1% left</source>
         <translation>패닝: %1% 좌측</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="509"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="510"/>
         <source>Panning: %1% right</source>
         <translation>패닝: %1% 우측</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="513"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="514"/>
         <source>Panning: center</source>
         <translation>패닝: 중앙</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="681"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="682"/>
         <source>Glue notes failed</source>
         <translation>노트 붙이기 실패</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="682"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="683"/>
         <source>Please select notes to glue first.</source>
         <translation>먼저 붙여넣을 노트를 선택하세요.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3641"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3642"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation>클립을 두 번 클릭하여 열어주세요!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4278"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4297"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4279"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4298"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>%1부터 %2까지의 값을 입력하세요:</translation>
     </message>
@@ -14131,241 +14131,241 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
         <source>Play/pause current clip (Space)</source>
         <translation>현재 클립 연주하기/일시중지 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>MIDI 디바이스/채널 피아노에서 노트 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation>노래 또는 패턴 트랙을 연주하는 동안 MIDI 디바이스/채널 피아노에서 노트 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>MIDI 디바이스/채널 피아노에서 한 번에 한 스탭씩 노트 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>현재 클립 연주 중지하기 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
         <source>Edit actions</source>
         <translation>편집 작업</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4762"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
         <source>Draw mode (Shift+D)</source>
         <translation>그리기 모드 (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Erase mode (Shift+E)</source>
         <translation>지우기 모드 (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
         <source>Select mode (Shift+S)</source>
         <translation>선택하기 모드 (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>피치 밴드 모드 (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4780"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
         <source>Quantize</source>
         <translation>퀀타이즈</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
         <source>Quantize positions</source>
         <translation>퀀타이즈 포지션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4783"/>
         <source>Quantize lengths</source>
         <translation>퀀타이즈 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4802"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
         <source>File actions</source>
         <translation>파일 작업</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4810"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
         <source>Import clip</source>
         <translation>클립 가져오기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4813"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
         <source>Export clip</source>
         <translation>클립 내보내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
         <source>Copy paste controls</source>
         <translation>복사 붙여넣기 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
         <source>Cut (%1+X)</source>
         <translation>잘라내기 (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4827"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
         <source>Copy (%1+C)</source>
         <translation>복사하기 (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4829"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4830"/>
         <source>Paste (%1+V)</source>
         <translation>붙여넣기 (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4844"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
         <source>Timeline controls</source>
         <translation>타임라인 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4852"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
         <source>Glue</source>
         <translation>붙이기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4856"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4857"/>
         <source>Knife</source>
         <translation>자르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4860"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4861"/>
         <source>Fill</source>
         <translation>채우기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4864"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4865"/>
         <source>Cut overlaps</source>
         <translation>오버랩 잘라내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4868"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
         <source>Min length as last</source>
         <translation>마지막 최소 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4872"/>
         <source>Max length as last</source>
         <translation>마지막 최대 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4886"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4887"/>
         <source>Zoom and note controls</source>
         <translation>확대/축소 및 노트 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4894"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
         <source>Horizontal zooming</source>
         <translation>수평 주밍</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4902"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4903"/>
         <source>Vertical zooming</source>
         <translation>수직 주밍</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4911"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4912"/>
         <source>Quantization</source>
         <translation>퀀티제이션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4920"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4921"/>
         <source>Note length</source>
         <translation>노트 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4926"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4927"/>
         <source>Key</source>
         <translation>키</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4936"/>
         <source>Scale</source>
         <translation>스케일</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4944"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4945"/>
         <source>Chord</source>
         <translation>코드</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4953"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4954"/>
         <source>Snap mode</source>
         <translation>스냅 모드</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4958"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4959"/>
         <source>Clear ghost notes</source>
         <translation>고스트 노트 지우기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5067"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5244"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5068"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5245"/>
         <source>Piano-Roll - %1</source>
         <translation>피아노-롤 - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5074"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5249"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5075"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5250"/>
         <source>Piano-Roll - no clip</source>
         <translation>피아노-롤 - 클립 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5269"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5316"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation>XML 클립 파일 (*.xpt *.xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
         <source>Export clip success</source>
         <translation>클립 내보내기 성공</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5290"/>
         <source>Clip saved to %1</source>
         <translation>%1에 저장된 클립</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5304"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
         <source>Import clip.</source>
         <translation>클립을 가져옵니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation>클립을 가져오려는 중이며, 사용자의 현재 클립을 덮어씁니다. 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5314"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
         <source>Open clip</source>
         <translation>클립 열기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5334"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
         <source>Import clip success</source>
         <translation>클립 가져오기 성공</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5336"/>
         <source>Imported clip %1!</source>
         <translation>%1 클립을 가져왔습니다!</translation>
     </message>

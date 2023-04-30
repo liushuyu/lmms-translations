@@ -14010,118 +14010,118 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
 <context>
     <name>lmms::gui::PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="223"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="224"/>
         <source>Note Velocity</source>
         <translation>Nota Hızı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="224"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="225"/>
         <source>Note Panning</source>
         <translation>Nota Kaydırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="237"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="238"/>
         <source>Mark/unmark current semitone</source>
         <translation>Geçerli yarım tonu işaretle / işareti kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="238"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="239"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>İlgili tüm oktav yarı tonlarını işaretle / işareti kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="239"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="240"/>
         <source>Mark current scale</source>
         <translation>Mevcut ölçeği işaretle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="240"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="241"/>
         <source>Mark current chord</source>
         <translation>Geçerli akoru işaretle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="241"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="242"/>
         <source>Unmark all</source>
         <translation>Hepsinin işaretini kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="242"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="243"/>
         <source>Select all notes on this key</source>
         <translation>Bu anahtardaki tüm notaları seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="360"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="361"/>
         <source>Note lock</source>
         <translation>Nota kilidi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="370"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="371"/>
         <source>Last note</source>
         <translation>Son nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="394"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="395"/>
         <source>No key</source>
         <translation>Anahtar yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="407"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="408"/>
         <source>No scale</source>
         <translation>Ölçek yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="424"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="425"/>
         <source>No chord</source>
         <translation>Akord yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="454"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="455"/>
         <source>Nudge</source>
         <translation>Dürtme</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="455"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="456"/>
         <source>Snap</source>
         <translation>Yapış</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="496"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="497"/>
         <source>Velocity: %1%</source>
         <translation>Hız: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="505"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="506"/>
         <source>Panning: %1% left</source>
         <translation>Kaydırma: %1% sola</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="509"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="510"/>
         <source>Panning: %1% right</source>
         <translation>Kaydırma: %1% sağa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="513"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="514"/>
         <source>Panning: center</source>
         <translation>Kaydırma: merkez</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="681"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="682"/>
         <source>Glue notes failed</source>
         <translation>Yapışkan notaları başarısız oldu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="682"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="683"/>
         <source>Please select notes to glue first.</source>
         <translation>Lütfen önce yapıştırılacak notaları seçin.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3641"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3642"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation>Lütfen üzerine çift tıklayarak bir desen açın!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4278"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4297"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4279"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4298"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Lütfen %1 ile %2 arasında yeni bir değer girin:</translation>
     </message>
@@ -14129,241 +14129,241 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
         <source>Play/pause current clip (Space)</source>
         <translation>Seçili bölümü oynat/durdur (Boşluk Tuşu)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>MIDI aygıtında/kanal piyanodan notaları kaydedin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation>Şarkı veya kalıp parçasını çalarken MIDI cihazından/kanal piyanosundan notlar kaydedin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>MIDI aygıtından/kanal piyanodan notaları bir seferde bir adım kaydedin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>Seçili modeli oynatmayı durdur (Boşluk Tuşu)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
         <source>Edit actions</source>
         <translation>İşlemleri düzenle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4762"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Çizim modu (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Silgi modu (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
         <source>Select mode (Shift+S)</source>
         <translation>Modu seçin (Shift + S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Pitch Bend modu (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4780"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
         <source>Quantize</source>
         <translation>Niceleme</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
         <source>Quantize positions</source>
         <translation>Niceleme pozisyonları</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4783"/>
         <source>Quantize lengths</source>
         <translation>Niceleme uzunlukları</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4802"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
         <source>File actions</source>
         <translation>Dosya işlemleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4810"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
         <source>Import clip</source>
         <translation>Deseni içe aktar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4813"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
         <source>Export clip</source>
         <translation>Deseni dışa aktar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
         <source>Copy paste controls</source>
         <translation>Kopyala yapıştır kontrolleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
         <source>Cut (%1+X)</source>
         <translation>Kes (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4827"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
         <source>Copy (%1+C)</source>
         <translation>Kopyala (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4829"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4830"/>
         <source>Paste (%1+V)</source>
         <translation>Yapıştır (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4844"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
         <source>Timeline controls</source>
         <translation>Zaman çizelgesi kontrolleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4852"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
         <source>Glue</source>
         <translation>Yapıştırıcı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4856"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4857"/>
         <source>Knife</source>
         <translation>Bıçak</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4860"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4861"/>
         <source>Fill</source>
         <translation>Dolgu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4864"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4865"/>
         <source>Cut overlaps</source>
         <translation>Örtüşmeleri kes</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4868"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
         <source>Min length as last</source>
         <translation>Son olarak en düşük uzunluk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4871"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4872"/>
         <source>Max length as last</source>
         <translation>Son olarak en yüksek uzunluk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4886"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4887"/>
         <source>Zoom and note controls</source>
         <translation>Yakınlaştırma ve nota kontrolleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4894"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
         <source>Horizontal zooming</source>
         <translation>Yatay yakınlaştırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4902"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4903"/>
         <source>Vertical zooming</source>
         <translation>Dikey yakınlaştırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4911"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4912"/>
         <source>Quantization</source>
         <translation>Niceleme</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4920"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4921"/>
         <source>Note length</source>
         <translation>Nota uzunluğu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4926"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4927"/>
         <source>Key</source>
         <translation>Anahtar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4935"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4936"/>
         <source>Scale</source>
         <translation>Ölçek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4944"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4945"/>
         <source>Chord</source>
         <translation>Kiriş</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4953"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4954"/>
         <source>Snap mode</source>
         <translation>Anlık çekim modu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4958"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4959"/>
         <source>Clear ghost notes</source>
         <translation>Hayalet notaları temizle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5067"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5244"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5068"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5245"/>
         <source>Piano-Roll - %1</source>
         <translation>Piyano Rulosu -%1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5074"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5249"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5075"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5250"/>
         <source>Piano-Roll - no clip</source>
         <translation>Piyano Rulosu - desen yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5269"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5316"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation>XML desen dosyası (*.xpt *.xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
         <source>Export clip success</source>
         <translation>Deseni dışa aktarma başarılı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5290"/>
         <source>Clip saved to %1</source>
         <translation>Desen %1&apos;e kaydedildi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5304"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
         <source>Import clip.</source>
         <translation>Deseni içe aktar.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation>Bir kalıp almak üzeresiniz, bu mevcut kalıbınızın üzerine yazılacaktır. Devam etmek istiyor musun?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5314"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
         <source>Open clip</source>
         <translation>Desen aç</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5334"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
         <source>Import clip success</source>
         <translation>Desen başarılı şekilde içe aktarıldı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5336"/>
         <source>Imported clip %1!</source>
         <translation>%1 deseni içe aktarıldı!</translation>
     </message>
