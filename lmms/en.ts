@@ -14082,18 +14082,26 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>lmms::gui::PluginBrowser</name>
     <message>
-        <location filename="../../src/gui/PluginBrowser.cpp" line="45"/>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="49"/>
         <source>Instrument Plugins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gui/PluginBrowser.cpp" line="48"/>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="52"/>
         <source>Instrument browser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gui/PluginBrowser.cpp" line="59"/>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="63"/>
         <source>Drag an instrument into either the Song Editor, the Pattern Editor or into an existing instrument track.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>lmms::gui::PluginDescWidget</name>
+    <message>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="298"/>
+        <source>Send to new instrument track</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

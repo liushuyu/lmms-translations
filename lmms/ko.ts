@@ -14391,19 +14391,27 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>lmms::gui::PluginBrowser</name>
     <message>
-        <location filename="../../src/gui/PluginBrowser.cpp" line="45"/>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="49"/>
         <source>Instrument Plugins</source>
         <translation>악기 플러그인</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PluginBrowser.cpp" line="48"/>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="52"/>
         <source>Instrument browser</source>
         <translation>악기 탐색기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PluginBrowser.cpp" line="59"/>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="63"/>
         <source>Drag an instrument into either the Song Editor, the Pattern Editor or into an existing instrument track.</source>
         <translation>악기를 노래 편집기, 패턴 편집기 또는 기존 악기 트랙으로 드래그하십시오.</translation>
+    </message>
+</context>
+<context>
+    <name>lmms::gui::PluginDescWidget</name>
+    <message>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="298"/>
+        <source>Send to new instrument track</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

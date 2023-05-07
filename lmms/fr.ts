@@ -7099,12 +7099,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="327"/>
         <source>Bandlimited Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Onde triangulaire à bande limitée</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="328"/>
         <source>Bandlimited Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Onde en dents-de-scie à bande limitée</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="329"/>
@@ -7114,12 +7114,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="330"/>
         <source>Bandlimited Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Onde carrée à bande limitée</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="331"/>
         <source>Bandlimited Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Onde en dents-de-scie Moog à bande limitée</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="332"/>
@@ -7130,7 +7130,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="333"/>
         <source>Absolute sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Onde sinusoïdale absolue</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="334"/>
@@ -7141,7 +7141,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="335"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Bruit blanc</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="336"/>
@@ -7176,7 +7176,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="346"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Onde en dents-de-scie</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="347"/>
@@ -7186,7 +7186,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="348"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Onde carrée</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="349"/>
@@ -7196,7 +7196,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="351"/>
         <source>Abs. sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Onde sinusoïdale absolue</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="353"/>
@@ -14375,18 +14375,26 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>lmms::gui::PluginBrowser</name>
     <message>
-        <location filename="../../src/gui/PluginBrowser.cpp" line="45"/>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="49"/>
         <source>Instrument Plugins</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/PluginBrowser.cpp" line="48"/>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="52"/>
         <source>Instrument browser</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/PluginBrowser.cpp" line="59"/>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="63"/>
         <source>Drag an instrument into either the Song Editor, the Pattern Editor or into an existing instrument track.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>lmms::gui::PluginDescWidget</name>
+    <message>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="298"/>
+        <source>Send to new instrument track</source>
         <translation type="unfinished"/>
     </message>
 </context>

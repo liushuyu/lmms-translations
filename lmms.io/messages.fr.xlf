@@ -1687,18 +1687,65 @@ Veuillez &lt;a href=&quot;/get-involved/#contact&quot;&gt;nous contacter&lt;/a&g
 			 - The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.
 
 			**Note: Entries are approved to appear on the submission list by hand, so if you don't see yours, sit tight! It might take a while.**</source>
+        <target>#### La compétition s'est terminée le **16 avril 2022**.
+			Supportez LMMS et achetez la compilation sur notre [page Bandcamp.](https://lmms.bandcamp.com/album/the-best-of-lmms-vol-9)
+
+			Écoutez tous les morceaux proposés [ici.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbAi115g6ocLFF75ccNYzAk3Am0RsYZAyL6GX0LwxR-DGf6KBpbTLc7IZkO7LdSYNQQqWIW4QTRJML/pubhtml?gid=491403559&amp;single=true)
+
+			Gagnants :
+			&lt;div class=&quot;bandcamp-widget&quot; data-href=&quot;https://bandcamp.com/EmbeddedPlayer/album=1414817703/size=large/bgcol=ffffff/linkcol=2ebd35/artwork=small/transparent=false/&quot;&gt;
+				&lt;iframe class=&quot;bandcamp-iframe&quot; referrerpolicy=&quot;no-referrer&quot; height=&quot;472&quot; style=&quot;border: 0; height: 472px; width: 100%%;&quot; src=&quot;&quot; seamless&gt;&lt;a href=&quot;https://lmms.bandcamp.com/album/the-best-of-lmms-vol-9&quot;&gt;Le meilleur de LMMS volume 9 par des artistes LMMS&lt;/a&gt;&lt;/iframe&gt;
+			&lt;/div&gt;
+
+#### Description originale :
+			Nous sommes fiers de vous présenter le concours 'Le meilleur de LMMS volume 9' !
+			Le concours a pour objectif d'encourager les membres de la communauté à créer et partager leurs musiques. Faites parvenir votre piste par le lien ci-dessous avant minuit
+			(23h59m59s heure UTC) le 16 avril 2022 pour avoir une chance de figurer sur l'album 'Le meilleur de LMMS v9'. La compilation sera téléversée sur Bandcamp, et tous les profits iront vers les futurs développements de LMMS.
+
+			&lt;p class=&quot;center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg center&quot; href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScWb8vuktPblEO1-7sTV5Es7nZRmsQOUS_PUYJh--VFbW-hAg/viewform&quot;&gt;Soumettez ici&lt;/a&gt;&lt;/p&gt;
+			#### Règlement du concours :
+
+			1. **La date limite :**
+			 - les pistes doivent être soumises avant le 16 avril 2022 à 23h59m59s UTC en utilisant ce formulaire.
+			2. **Les pistes :**
+			 - doivent être produites dans LMMS.
+			 - vous pouvez utiliser d'autres programmes pour la mastérisation et le post-traitement.
+			 - doivent avoir une durée inférieure à 10 minutes.
+			 - aucune piste gagnante issue de précédents albums 'Le meilleur de LMMS', n'est autorisée.
+			 - les reprises ou remixes d'œuvres d'autres personnes ne sont pas autorisés.
+			 - les reprises de vos propres morceaux sont admissibles avec l'approbation du jury.
+			3. **Les soumissions :**
+			 - vous ne pouvez soumettre qu'en utilisant ce formulaire.
+			 - pas plus d'UN morceau par artiste n'est autorisé.
+			 - les collaborations comptent pour UN morceau pour chaque artiste impliqué.
+			 - pas de collaboration avec les juges dans les entrées.
+			 - seules les soumissions hébergées sur Soundcloud ou YouTube sont autorisées.
+			 - la piste complète doit être disponible sur le lien de soumission fourni.
+			 - votre entrée doit être disponible à écouter jusqu'à la fin du processus de jugement. Sinon, votre entrée sera disqualifiée.
+			 - votre entrée ne doit pas contenir de matériel protégé par une marque ou un droit d'auteur dont vous ne possédez pas les droits.
+			4. **Les juges :**
+			 - le jury est composé de : Etorna, Noeroti, Spekular, Squatro, Stakeout, Punch et Umcaruje.
+			5. **Le jugement :**
+				 - après la date limite, les juges prendront leurs décisions et rendront leurs résultats sous 14-21 jours, en fonction de leurs agendas personnels.
+			6. **Publication :**
+			 - les 25 morceaux ayant les scores les plus hauts seront publiés sous forme d'un album sur Bandcamp à “prix libre“. Tous les montants perçus seront donnés pour les futurs développements de LMMS, le programme que nous aimons.
+
+			**Note : Les entrées sont approuvées manuellement pour apparaître sur la liste des soumissions, donc si vous ne voyez pas la vôtre, restez tranquille ! Cela peut prendre un certain temps.</target>
         
       </trans-unit>
       <trans-unit id="lEXM897" resname="The Best of LMMS Vol. 9 by LMMS Artists">
         <source>The Best of LMMS Vol. 9 by LMMS Artists</source>
+        <target>Le meilleur de LMMS volume 9 par des artistes LMMS</target>
         
       </trans-unit>
       <trans-unit id="ed.Z2cG" resname="Alpha Versions">
         <source>Alpha Versions</source>
+        <target>Versions alpha</target>
         
       </trans-unit>
       <trans-unit id="OcxaEJj" resname="Downloads labeled Alpha or Beta are pre-release software, stability may suffer.">
         <source>Downloads labeled Alpha or Beta are pre-release software, stability may suffer.</source>
+        <target>Les téléchargements étiquetées Alpha ou Bêta sont des logiciels en préversion, ils peuvent être moins stables.</target>
         
       </trans-unit>
     </body>

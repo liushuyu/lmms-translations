@@ -14389,19 +14389,27 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
 <context>
     <name>lmms::gui::PluginBrowser</name>
     <message>
-        <location filename="../../src/gui/PluginBrowser.cpp" line="45"/>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="49"/>
         <source>Instrument Plugins</source>
         <translation>Enstrüman Eklentileri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PluginBrowser.cpp" line="48"/>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="52"/>
         <source>Instrument browser</source>
         <translation>Enstrüman tarayıcısı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/PluginBrowser.cpp" line="59"/>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="63"/>
         <source>Drag an instrument into either the Song Editor, the Pattern Editor or into an existing instrument track.</source>
         <translation>Bir enstrümanı Şarkı Düzenleyici, Kalıp Düzenleyici veya mevcut bir enstrüman parçasına sürükleyin.</translation>
+    </message>
+</context>
+<context>
+    <name>lmms::gui::PluginDescWidget</name>
+    <message>
+        <location filename="../../src/gui/PluginBrowser.cpp" line="298"/>
+        <source>Send to new instrument track</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
