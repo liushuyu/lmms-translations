@@ -13240,34 +13240,52 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>lmms::gui::MixerView</name>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="68"/>
+        <location filename="../../src/gui/MixerView.cpp" line="70"/>
         <source>Mixer</source>
         <translation>믹서</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="285"/>
+        <location filename="../../src/gui/MixerView.cpp" line="287"/>
         <source>Fader %1</source>
         <translation>페이더 %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="294"/>
+        <location filename="../../src/gui/MixerView.cpp" line="296"/>
         <source>Mute</source>
         <translation>음소거</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="302"/>
+        <location filename="../../src/gui/MixerView.cpp" line="304"/>
         <source>Mute this channel</source>
         <translation>이 채널 음소거</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="304"/>
+        <location filename="../../src/gui/MixerView.cpp" line="306"/>
         <source>Solo</source>
         <translation>솔로 연주</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="314"/>
+        <location filename="../../src/gui/MixerView.cpp" line="316"/>
         <source>Solo this channel</source>
         <translation>이 채널 솔로 연주</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="450"/>
+        <source>This Mixer Channel is being used.
+Are you sure you want to remove this channel?
+
+Warning: This operation can not be undone.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="454"/>
+        <source>Confirm removal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="455"/>
+        <source>Don&apos;t ask again</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14978,344 +14996,349 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>lmms::gui::SetupDialog</name>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="159"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="161"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="199"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="798"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="201"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="825"/>
         <source>General</source>
         <translation>일반</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="217"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="231"/>
         <source>Graphical user interface (GUI)</source>
         <translation>그래픽 사용자 인터페이스 (GUI)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="219"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="233"/>
         <source>Display volume as dBFS </source>
         <translation>볼륨을 dBFS 단위로 화면표시 </translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="221"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="235"/>
         <source>Enable tooltips</source>
         <translation>툴팁 활성화</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="223"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="237"/>
         <source>Enable master oscilloscope by default</source>
         <translation>기본적으로 마스터 오실로스코프 활성화</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="225"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="239"/>
         <source>Enable all note labels in piano roll</source>
         <translation>피아노 롤의 모든 노트 레이블 활성화</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="227"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="241"/>
         <source>Enable compact track buttons</source>
         <translation>콤팩트 트랙 버튼 활성화</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="229"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="243"/>
         <source>Enable one instrument-track-window mode</source>
         <translation>하나의 악기 트랙 창 모드 활성화</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="231"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="245"/>
         <source>Show sidebar on the right-hand side</source>
         <translation>우측면에 사이드바 표시하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="233"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="247"/>
         <source>Let sample previews continue when mouse is released</source>
         <translation>마우스를 놓으면 샘플 미리보기를 계속할 수 있습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="235"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="249"/>
         <source>Mute automation tracks during solo</source>
         <translation>솔로 연주 중 오토메이션 트랙 음소거</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="237"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="251"/>
         <source>Show warning when deleting tracks</source>
         <translation>트랙 삭제 시 경고 표시하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="246"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="253"/>
+        <source>Show warning when deleting a mixer channel that is in use</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="265"/>
         <source>Projects</source>
         <translation>프로젝트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="248"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="267"/>
         <source>Compress project files by default</source>
         <translation>기본적으로 프로젝트 파일 압축</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="250"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="269"/>
         <source>Create a backup file when saving a project</source>
         <translation>프로젝트를 저장할 때 백업 파일 만들기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="252"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="271"/>
         <source>Reopen last project on startup</source>
         <translation>시작 시 마지막 프로젝트 다시 열기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="258"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="281"/>
         <source>Language</source>
         <translation>언어</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="329"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="801"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="356"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="828"/>
         <source>Performance</source>
         <translation>퍼포먼스</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="333"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="360"/>
         <source>Autosave</source>
         <translation>자동저장</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="352"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="379"/>
         <source>Enable autosave</source>
         <translation>자동저장 활성화</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="359"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="386"/>
         <source>Allow autosave while playing</source>
         <translation>연주 중 자동저장 허용하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="377"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="404"/>
         <source>User interface (UI) effects vs. performance</source>
         <translation>사용자 인터페이스(UI) 이펙트 대 퍼포먼스</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="379"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="406"/>
         <source>Smooth scroll in song editor</source>
         <translation>노래 편집기에서 부드러운 스크롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="381"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="408"/>
         <source>Display playback cursor in AudioFileProcessor</source>
         <translation>AudioFileProcessor에 플레이백 커서 화면표시</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="390"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="417"/>
         <source>Plugins</source>
         <translation>플러그인</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="394"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="421"/>
         <source>VST plugins embedding:</source>
         <translation>VST 플러그인 포함됨:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="400"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="427"/>
         <source>No embedding</source>
         <translation>임베딩 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="403"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="430"/>
         <source>Embed using Qt API</source>
         <translation>Qt API를 사용하여 포함하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="407"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="434"/>
         <source>Embed using native Win32 API</source>
         <translation>기본 내장 Win32 API를 사용하여 포함하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="411"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="438"/>
         <source>Embed using XEmbed protocol</source>
         <translation>XEMbed 프로토콜을 사용하여 포함하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="420"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="447"/>
         <source>Keep plugin windows on top when not embedded</source>
         <translation>포함되지 않은 경우 플러그인 창을 맨 위에 유지하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="427"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="454"/>
         <source>Keep effects running even without input</source>
         <translation>입력 없이도 이펙트 실행 유지하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="447"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="804"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="474"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="831"/>
         <source>Audio</source>
         <translation>오디오</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="450"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="477"/>
         <source>Audio interface</source>
         <translation>오디오 인터페이스</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="541"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="568"/>
         <source>Use built-in NaN handler</source>
         <translation>내장된 NaN 처리기 사용하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="546"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="573"/>
         <source>HQ mode for output audio device</source>
         <translation>출력 오디오 디바이스의 HQ 모드</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="554"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="581"/>
         <source>Buffer size</source>
         <translation>버퍼 크기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="579"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="606"/>
         <source>Reset to default value</source>
         <translation>기본 값으로 재설정</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="597"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="807"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="624"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="834"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="600"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="627"/>
         <source>MIDI interface</source>
         <translation>MIDI 인터페이스</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="679"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="706"/>
         <source>Automatically assign MIDI controller to selected track</source>
         <translation>선택한 트랙에 MIDI 컨트롤러 자동적으로 할당</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="714"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="810"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="741"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="837"/>
         <source>Paths</source>
         <translation>경로</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="751"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="778"/>
         <source>LMMS working directory</source>
         <translation>LMMS 작업 디렉터리</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="755"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="782"/>
         <source>VST plugins directory</source>
         <translation>VST 플러그인 디렉터리</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="759"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="786"/>
         <source>LADSPA plugins directories</source>
         <translation>LADSPA 플러그인 디렉터리</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="763"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="790"/>
         <source>SF2 directory</source>
         <translation>SF2 디렉터리</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="768"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="795"/>
         <source>Default SF2</source>
         <translation>기본 SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="773"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="800"/>
         <source>GIG directory</source>
         <translation>GIG 디렉터리</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="777"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="804"/>
         <source>Theme directory</source>
         <translation>테마 디렉터리</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="781"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="808"/>
         <source>Background artwork</source>
         <translation>배경 아트워크</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="830"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="857"/>
         <source>Some changes require restarting.</source>
         <translation>일부 변경사항은 다시 시작해야 합니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="834"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="861"/>
         <source>OK</source>
         <translation>확인</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="839"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="866"/>
         <source>Cancel</source>
         <translation>취소</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1057"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1091"/>
         <source>minutes</source>
         <translation>분</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1057"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1091"/>
         <source>minute</source>
         <translation>분</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1059"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1093"/>
         <source>Disabled</source>
         <translation>비활성화됨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1061"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1095"/>
         <source>Autosave interval: %1</source>
         <translation>자동저장 간격: %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1164"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1198"/>
         <source>Frames: %1
 Latency: %2 ms</source>
         <translation>프레임: %1
 레이턴시: %2 ms</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1194"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1228"/>
         <source>Choose the LMMS working directory</source>
         <translation>LMMS 작업 디렉터리 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1211"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1245"/>
         <source>Choose your VST plugins directory</source>
         <translation>사용자의 VST 플러그인 디렉터리 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1228"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1262"/>
         <source>Choose your LADSPA plugins directory</source>
         <translation>사용자의 LADSPA 플러그인 디렉터리 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1253"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1287"/>
         <source>Choose your SF2 directory</source>
         <translation>사용자의 SF2 디렉터리 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1271"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1305"/>
         <source>Choose your default SF2</source>
         <translation>사용자의 기본 SF2 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1292"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1326"/>
         <source>Choose your GIG directory</source>
         <translation>사용자의 GIG 디렉터리 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1309"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1343"/>
         <source>Choose your theme directory</source>
         <translation>사용자의 테마 디렉터리 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1343"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1377"/>
         <source>Choose your background picture</source>
         <translation>사용자의 배경 사진 고르기</translation>
     </message>

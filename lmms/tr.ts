@@ -13238,34 +13238,52 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
 <context>
     <name>lmms::gui::MixerView</name>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="68"/>
+        <location filename="../../src/gui/MixerView.cpp" line="70"/>
         <source>Mixer</source>
         <translation>FX-Karıştırıcısı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="285"/>
+        <location filename="../../src/gui/MixerView.cpp" line="287"/>
         <source>Fader %1</source>
         <translation>FX Fader %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="294"/>
+        <location filename="../../src/gui/MixerView.cpp" line="296"/>
         <source>Mute</source>
         <translation>Sustur</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="302"/>
+        <location filename="../../src/gui/MixerView.cpp" line="304"/>
         <source>Mute this channel</source>
         <translation>Bu kanalı sessize al</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="304"/>
+        <location filename="../../src/gui/MixerView.cpp" line="306"/>
         <source>Solo</source>
         <translation>Tek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="314"/>
+        <location filename="../../src/gui/MixerView.cpp" line="316"/>
         <source>Solo this channel</source>
         <translation>Bu kanalı yalnız</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="450"/>
+        <source>This Mixer Channel is being used.
+Are you sure you want to remove this channel?
+
+Warning: This operation can not be undone.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="454"/>
+        <source>Confirm removal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/MixerView.cpp" line="455"/>
+        <source>Don&apos;t ask again</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14409,7 +14427,7 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="298"/>
         <source>Send to new instrument track</source>
-        <translation type="unfinished"/>
+        <translation>Yeni enstrüman parçasına gönder</translation>
     </message>
 </context>
 <context>
@@ -14976,344 +14994,349 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
 <context>
     <name>lmms::gui::SetupDialog</name>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="159"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="161"/>
         <source>Settings</source>
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="199"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="798"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="201"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="825"/>
         <source>General</source>
         <translation>Genel</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="217"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="231"/>
         <source>Graphical user interface (GUI)</source>
         <translation>Grafik kullanıcı arayüzü (GUI)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="219"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="233"/>
         <source>Display volume as dBFS </source>
         <translation>Ses seviyesini dBFS olarak görüntüle </translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="221"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="235"/>
         <source>Enable tooltips</source>
         <translation>Araç ipuçlarını etkinleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="223"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="237"/>
         <source>Enable master oscilloscope by default</source>
         <translation>Ana osiloskopu varsayılan olarak etkinleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="225"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="239"/>
         <source>Enable all note labels in piano roll</source>
         <translation>Piyano rulosundaki tüm nota etiketlerini etkinleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="227"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="241"/>
         <source>Enable compact track buttons</source>
         <translation>Kompakt parça düğmelerini etkinleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="229"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="243"/>
         <source>Enable one instrument-track-window mode</source>
         <translation>Bir enstrüman izleme penceresi modunu etkinleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="231"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="245"/>
         <source>Show sidebar on the right-hand side</source>
         <translation>Sağ tarafta kenar çubuğunu göster</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="233"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="247"/>
         <source>Let sample previews continue when mouse is released</source>
         <translation>Fare bırakıldığında örnek önizlemelerin devam etmesine izin verin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="235"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="249"/>
         <source>Mute automation tracks during solo</source>
         <translation>Solo sırasında otomasyon izlerini sessize alma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="237"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="251"/>
         <source>Show warning when deleting tracks</source>
         <translation>Parçaları silerken uyarı göster</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="246"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="253"/>
+        <source>Show warning when deleting a mixer channel that is in use</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="265"/>
         <source>Projects</source>
         <translation>Projeler</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="248"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="267"/>
         <source>Compress project files by default</source>
         <translation>Proje dosyalarını varsayılan olarak sıkıştır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="250"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="269"/>
         <source>Create a backup file when saving a project</source>
         <translation>Bir projeyi kaydederken bir yedek dosya oluşturun</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="252"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="271"/>
         <source>Reopen last project on startup</source>
         <translation>Başlangıçta son projeyi yeniden aç</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="258"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="281"/>
         <source>Language</source>
         <translation>Dil</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="329"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="801"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="356"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="828"/>
         <source>Performance</source>
         <translation>Başarım</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="333"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="360"/>
         <source>Autosave</source>
         <translation>Otomatik kaydet</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="352"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="379"/>
         <source>Enable autosave</source>
         <translation>Otomatik kaydetmeyi etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="359"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="386"/>
         <source>Allow autosave while playing</source>
         <translation>Oynatırken otomatik kaydetmeye izin ver</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="377"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="404"/>
         <source>User interface (UI) effects vs. performance</source>
         <translation>Kullanıcı arayüzü (UI) efektleri ile performans karşılaştırması</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="379"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="406"/>
         <source>Smooth scroll in song editor</source>
         <translation>Şarkı düzenleyicide yumuşak kaydırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="381"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="408"/>
         <source>Display playback cursor in AudioFileProcessor</source>
         <translation>Ses Dosyası İşlemcisindeki oynatma imlecini görüntüle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="390"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="417"/>
         <source>Plugins</source>
         <translation>Eklentiler</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="394"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="421"/>
         <source>VST plugins embedding:</source>
         <translation>Gömülü VST eklentileri:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="400"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="427"/>
         <source>No embedding</source>
         <translation>Yerleştirme yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="403"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="430"/>
         <source>Embed using Qt API</source>
         <translation>Qt API kullanarak yerleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="407"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="434"/>
         <source>Embed using native Win32 API</source>
         <translation>Yerel Win32 API kullanarak yerleştirme</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="411"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="438"/>
         <source>Embed using XEmbed protocol</source>
         <translation>XEmbed protokolünü kullanarak gömün</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="420"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="447"/>
         <source>Keep plugin windows on top when not embedded</source>
         <translation>Gömülü değilken eklenti pencerelerini üstte tutun</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="427"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="454"/>
         <source>Keep effects running even without input</source>
         <translation>Efektlerin girdi olmasa bile çalışmaya devam etmesini sağlayın</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="447"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="804"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="474"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="831"/>
         <source>Audio</source>
         <translation>Ses</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="450"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="477"/>
         <source>Audio interface</source>
         <translation>Ses arayüzü</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="541"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="568"/>
         <source>Use built-in NaN handler</source>
         <translation>Yerleşik NaN işleyicisini kullanın</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="546"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="573"/>
         <source>HQ mode for output audio device</source>
         <translation>Ses çıkışı cihazı için HQ modu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="554"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="581"/>
         <source>Buffer size</source>
         <translation>Arabellek boyutu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="579"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="606"/>
         <source>Reset to default value</source>
         <translation>Varsayılan değere sıfırla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="597"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="807"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="624"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="834"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="600"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="627"/>
         <source>MIDI interface</source>
         <translation>MIDI arayüzü</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="679"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="706"/>
         <source>Automatically assign MIDI controller to selected track</source>
         <translation>MIDI denetleyicisini seçilen parçaya otomatik olarak atayın</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="714"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="810"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="741"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="837"/>
         <source>Paths</source>
         <translation>Yollar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="751"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="778"/>
         <source>LMMS working directory</source>
         <translation>LMMS çalışma dizini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="755"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="782"/>
         <source>VST plugins directory</source>
         <translation>VST eklentileri dizini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="759"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="786"/>
         <source>LADSPA plugins directories</source>
         <translation>LADSPA eklenti dizinleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="763"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="790"/>
         <source>SF2 directory</source>
         <translation>SF2 dizini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="768"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="795"/>
         <source>Default SF2</source>
         <translation>Varsayılan SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="773"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="800"/>
         <source>GIG directory</source>
         <translation>GIG dizini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="777"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="804"/>
         <source>Theme directory</source>
         <translation>Tema dizini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="781"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="808"/>
         <source>Background artwork</source>
         <translation>Arka plan resmi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="830"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="857"/>
         <source>Some changes require restarting.</source>
         <translation>Bazı değişiklikler yeniden başlatmayı gerektirir.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="834"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="861"/>
         <source>OK</source>
         <translation>TAMAM</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="839"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="866"/>
         <source>Cancel</source>
         <translation>Çıkış</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1057"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1091"/>
         <source>minutes</source>
         <translation>dakika</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1057"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1091"/>
         <source>minute</source>
         <translation>dakika</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1059"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1093"/>
         <source>Disabled</source>
         <translation>Devre dışı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1061"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1095"/>
         <source>Autosave interval: %1</source>
         <translation>Otomatik kaydetme aralığı: %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1164"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1198"/>
         <source>Frames: %1
 Latency: %2 ms</source>
         <translation>Çerçeveler: %1
 Gecikme: %2 ms</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1194"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1228"/>
         <source>Choose the LMMS working directory</source>
         <translation>LMMS çalışma dizinini seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1211"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1245"/>
         <source>Choose your VST plugins directory</source>
         <translation>VST eklentileri dizininizi seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1228"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1262"/>
         <source>Choose your LADSPA plugins directory</source>
         <translation>LADSPA eklentileri dizininizi seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1253"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1287"/>
         <source>Choose your SF2 directory</source>
         <translation>SF2 dizininizi seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1271"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1305"/>
         <source>Choose your default SF2</source>
         <translation>Varsayılan SF2&apos;nizi seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1292"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1326"/>
         <source>Choose your GIG directory</source>
         <translation>GIG dizininizi seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1309"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1343"/>
         <source>Choose your theme directory</source>
         <translation>Tema dizininizi seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1343"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1377"/>
         <source>Choose your background picture</source>
         <translation>Arka plan resminizi seçin</translation>
     </message>
