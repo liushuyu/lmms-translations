@@ -51,6 +51,7 @@
       </trans-unit>
       <trans-unit id="uCmXDvQ" resname="Competitions">
         <source>Competitions</source>
+        <target>경연 대회</target>
         
       </trans-unit>
       <trans-unit id="1BeqFto" resname="Branding">
@@ -472,6 +473,7 @@
       </trans-unit>
       <trans-unit id="AZtpftd" resname="Sharing means caring.">
         <source>Sharing means caring.</source>
+        <target>공유는 곧 배려를 의미합니다.</target>
         
       </trans-unit>
       <trans-unit id="tYjliwJ" resname="Find musicians">
@@ -486,6 +488,7 @@
       </trans-unit>
       <trans-unit id="vZEmrHQ" resname="Don't be modest.">
         <source>Don't be modest.</source>
+        <target>얌전하게 굴지 마세요.</target>
         
       </trans-unit>
       <trans-unit id="E6hLz_I" resname="Show us your creations.">
@@ -520,6 +523,7 @@
       </trans-unit>
       <trans-unit id="73lMPDq" resname="Watch our promo video.">
         <source>Watch our promo video.</source>
+        <target>홍보용 동영상을 시청하세요.</target>
         
       </trans-unit>
       <trans-unit id="VnDwhfQ" resname="Click anywhere to close this dialog">
@@ -539,10 +543,12 @@
       </trans-unit>
       <trans-unit id="HLWVAGp" resname="Compose music on Windows, Linux and macOS">
         <source>Compose music on Windows, Linux and macOS</source>
+        <target>Windows, Linux 및 macOS에서 음악 작곡하기</target>
         
       </trans-unit>
       <trans-unit id="JmUgjfR" resname="Sequence, compose, mix and automate songs in one simple interface">
         <source>Sequence, compose, mix and automate songs in one simple interface</source>
+        <target>하나의 간단한 인터페이스에서 곡의 시퀀스, 작곡, 믹스 및 자동화</target>
         
       </trans-unit>
       <trans-unit id="q85N8NQ" resname="Note playback via MIDI or typing keyboard">
@@ -576,6 +582,7 @@
       </trans-unit>
       <trans-unit id="6W6XaNr" resname="Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit Windows)">
         <source>Built-in 64-bit VST instrument support with 32-bit VST bridge (64-bit Windows)</source>
+        <target>32비트 VST 브리지를 통해 내장된 64비트 VST 악기 지원 (64비트 Windows)</target>
         
       </trans-unit>
       <trans-unit id="koI1Kzb" resname="16 built in synthesizers, including emultations of Roland ® TB-303, Commodore 64 ® SID microchip, Nintendo ® NES and GameBoy, Yamaha ® OPL2 chip and more">
@@ -993,6 +1000,7 @@
       </trans-unit>
       <trans-unit id="oEXz92z" resname="Nightly Versions">
         <source>Nightly Versions</source>
+        <target>Nightly 버전</target>
         
       </trans-unit>
       <trans-unit id="paHvzJ5" resname="Downloads labeled Beta or Nightly are pre-release software, stability may suffer.">
@@ -1096,6 +1104,7 @@
       </trans-unit>
       <trans-unit id="MKppsp2" resname="An unknown error occurred.">
         <source>An unknown error occurred.</source>
+        <target>알 수없는 오류가 발생했습니다.</target>
         
       </trans-unit>
       <trans-unit id="Ush5SF0" resname="The Best of LMMS Vol. 7 by LMMS Artists">
@@ -1115,14 +1124,17 @@
       </trans-unit>
       <trans-unit id="XaEX_Ha" resname="LMMS Sharing Platform">
         <source>LMMS Sharing Platform</source>
+        <target>LMMS 공유 플랫폼</target>
         
       </trans-unit>
       <trans-unit id="CxpKTzu" resname="Share your work with the LMMS community.">
         <source>Share your work with the LMMS community.</source>
+        <target>LMMS 커뮤니티와 작업을 공유하세요.</target>
         
       </trans-unit>
       <trans-unit id="ZevLxCN" resname="The wiki has been moved.">
         <source>The wiki has been moved.</source>
+        <target>위키가 이동되었습니다.</target>
         
       </trans-unit>
       <trans-unit id="k68J1Di" resname="All of our documentation is now hosted on &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;">
@@ -1135,6 +1147,7 @@
       </trans-unit>
       <trans-unit id="u8PKUEQ" resname="You will be redirected to &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; seconds.">
         <source>You will be redirected to &lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt; in &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt; seconds.</source>
+        <target>&lt;a href=&quot;https://docs.lmms.io/user-manual/&quot;&gt;docs.lmms.io&lt;/a&gt;로 &lt;b&gt;&lt;span id=&quot;counter&quot;&gt;30&lt;/span&gt;&lt;/b&gt;초 안에 리디렉션됩니다.</target>
         
       </trans-unit>
       <trans-unit id="ziTqVa1" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;/chat/&quot;&gt;Discord server&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
@@ -1165,10 +1178,13 @@
       <trans-unit id="QDlEtxo" resname="Our IRC channel is &lt;a href=&quot;https://web.libera.chat/#lmms&quot;&gt;#lmms&lt;/a&gt; on&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;https://web.libera.chat&quot;&gt;Libera Chat&lt;/a&gt;.">
         <source>Our IRC channel is &lt;a href=&quot;https://web.libera.chat/#lmms&quot;&gt;#lmms&lt;/a&gt; on
 					&lt;a href=&quot;https://web.libera.chat&quot;&gt;Libera Chat&lt;/a&gt;.</source>
+        <target>IRC 채널은 &lt;a href=&quot;https://web.libera.chat&quot;&gt;Libera Chat&lt;/a&gt;의
+					&lt;a href=&quot;https://web.libera.chat/#lmms&quot;&gt;#lmms&lt;/a&gt;입니다.</target>
         
       </trans-unit>
       <trans-unit id="oz_V6mh" resname="Posting to the mailing list is another way to reach out to our developers:">
         <source>Posting to the mailing list is another way to reach out to our developers:</source>
+        <target>메일링 리스트에 게시하는 것도 개발자에게 연락할 수 있는 또 다른 방법입니다:</target>
         
       </trans-unit>
       <trans-unit id="p_VY9oJ" resname="The Best of LMMS vol. IX">
@@ -1305,14 +1321,37 @@
       </trans-unit>
       <trans-unit id="lEXM897" resname="The Best of LMMS Vol. 9 by LMMS Artists">
         <source>The Best of LMMS Vol. 9 by LMMS Artists</source>
+        <target>LMMS 아티스트의 베스트 오브 LMMS 9집</target>
         
       </trans-unit>
       <trans-unit id="ed.Z2cG" resname="Alpha Versions">
         <source>Alpha Versions</source>
+        <target>알파 버전</target>
         
       </trans-unit>
-      <trans-unit id="OcxaEJj" resname="Downloads labeled Alpha or Beta are pre-release software, stability may suffer.">
-        <source>Downloads labeled Alpha or Beta are pre-release software, stability may suffer.</source>
+      <trans-unit id="7wM4KTV" resname="Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.">
+        <source>Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.</source>
+        
+      </trans-unit>
+      <trans-unit id="86sS5b_" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
+        <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
+		Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        
+      </trans-unit>
+      <trans-unit id="wVgk0cT" resname="Anyone can open a pull request against LMMS; we are not responsible for the builds on this page.&lt;br&gt;Unless you were directed here to test a pull request, please download an official build from the &lt;a href=&quot;%download%&quot;&gt;main download page&lt;/a&gt; instead.">
+        <source>Anyone can open a pull request against LMMS; we are not responsible for the builds on this page.&lt;br&gt;Unless you were directed here to test a pull request, please download an official build from the &lt;a href=&quot;%download%&quot;&gt;main download page&lt;/a&gt; instead.</source>
+        
+      </trans-unit>
+      <trans-unit id="x19HYlO" resname="Pull Request #%id%">
+        <source>Pull Request #%id%</source>
+        
+      </trans-unit>
+      <trans-unit id="aZvcwqp" resname="Pull request builds are experimental software; expect stability issues.">
+        <source>Pull request builds are experimental software; expect stability issues.</source>
+        
+      </trans-unit>
+      <trans-unit id="KLF9W5d" resname="There are currently no builds available for this pull request. Building may have failed, or may not have completed yet.&lt;br&gt;If this is an old pull request, the builds may have expired.">
+        <source>There are currently no builds available for this pull request. Building may have failed, or may not have completed yet.&lt;br&gt;If this is an old pull request, the builds may have expired.</source>
         
       </trans-unit>
     </body>

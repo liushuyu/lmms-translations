@@ -13273,17 +13273,20 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
 Are you sure you want to remove this channel?
 
 Warning: This operation can not be undone.</source>
-        <translation type="unfinished"/>
+        <translation>Bu Mikser Kanalı kullanılıyor
+Bu kanalı kaldırmak istediğinizden emin misiniz?
+
+Uyarı: Bu işlem geri alınamaz.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="454"/>
         <source>Confirm removal</source>
-        <translation type="unfinished"/>
+        <translation>Kaldırma işlemini onayla</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerView.cpp" line="455"/>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"/>
+        <translation>Tekrar sorma</translation>
     </message>
 </context>
 <context>
@@ -15062,7 +15065,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="253"/>
         <source>Show warning when deleting a mixer channel that is in use</source>
-        <translation type="unfinished"/>
+        <translation>Kullanımda olan bir mikser kanalını silerken uyarı göster</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="265"/>

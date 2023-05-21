@@ -3096,7 +3096,7 @@ JUCE는 GNU Public License 버전 2.0에 따라 사용이 허가되었습니다.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="105"/>
         <source>Measures:</source>
-        <translation>마디:</translation>
+        <translation>소절:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="119"/>
