@@ -10631,67 +10631,67 @@ Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun v
 <context>
     <name>lmms::gui::FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="509"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="505"/>
         <source>Send to active instrument-track</source>
         <translation>Aktif alet izine gönder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="517"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="513"/>
         <source>Open containing folder</source>
         <translation>Bulunduğu dizini aç</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="521"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="517"/>
         <source>Song Editor</source>
         <translation>Şarkı Düzenleyici</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="526"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="522"/>
         <source>Pattern Editor</source>
         <translation>Kalıp Düzenleyici</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="545"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="541"/>
         <source>Send to new AudioFileProcessor instance</source>
         <translation>Yeni Ses Dosyası İşlemcisi örneğine gönder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="546"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="542"/>
         <source>Send to new instrument track</source>
         <translation>Yeni enstrüman kanalına gönder</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="549"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="545"/>
         <source> (%2Enter)</source>
         <translation> (%2Enter)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="556"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="552"/>
         <source>Send to new sample track (Shift + Enter)</source>
         <translation>Yeni örnek kanala gönder (Shift + Enter)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="613"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="609"/>
         <source>Loading sample</source>
         <translation>Örnek yükleniyor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="614"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="610"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>Lütfen bekleyin, önizleme için örnek yükleniyor...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="641"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="637"/>
         <source>Error</source>
         <translation>Sorun</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="642"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="638"/>
         <source>%1 does not appear to be a valid %2 file</source>
         <translation>%1 geçerli bir %2 dosyası gibi görünmüyor</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="994"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="990"/>
         <source>--- Factory files ---</source>
         <translation>--- Fabrika dosyaları ---</translation>
     </message>
