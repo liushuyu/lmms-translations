@@ -6576,29 +6576,29 @@ Du kan inaktivera dessa kontroller för att få en snabbare skanningstid (på eg
 <context>
     <name>lmms::Mixer</name>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="701"/>
+        <location filename="../../src/core/Mixer.cpp" line="708"/>
         <source>Master</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="701"/>
-        <location filename="../../src/core/Mixer.cpp" line="822"/>
-        <location filename="../../src/core/Mixer.cpp" line="824"/>
+        <location filename="../../src/core/Mixer.cpp" line="708"/>
+        <location filename="../../src/core/Mixer.cpp" line="829"/>
+        <location filename="../../src/core/Mixer.cpp" line="831"/>
         <source>Channel %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="702"/>
+        <location filename="../../src/core/Mixer.cpp" line="709"/>
         <source>Volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="703"/>
+        <location filename="../../src/core/Mixer.cpp" line="710"/>
         <source>Mute</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="704"/>
+        <location filename="../../src/core/Mixer.cpp" line="711"/>
         <source>Solo</source>
         <translation type="unfinished"/>
     </message>
