@@ -10769,192 +10769,192 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>lmms::gui::FreeBoyInstrumentView</name>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="471"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="475"/>
         <source>Sweep time:</source>
         <translation>스위프 시간:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="473"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="477"/>
         <source>Sweep time</source>
         <translation>스위프 시간</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="476"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="480"/>
         <source>Sweep rate shift amount:</source>
         <translation>스위프 레이트 시프트 양:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="479"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="483"/>
         <source>Sweep rate shift amount</source>
         <translation>스위프 레이트 시프트 양</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="482"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="502"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="486"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="506"/>
         <source>Wave pattern duty cycle:</source>
         <translation>웨이브 패턴 듀티 사이클:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="485"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="505"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="489"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="509"/>
         <source>Wave pattern duty cycle</source>
         <translation>웨이브 패턴 듀티 사이클</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="488"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="492"/>
         <source>Square channel 1 volume:</source>
         <translation>스퀘어 채널 1 볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="491"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="495"/>
         <source>Square channel 1 volume</source>
         <translation>스퀘어 채널 1 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="494"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="514"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="534"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="498"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="518"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="538"/>
         <source>Length of each step in sweep:</source>
         <translation>스위프에서 각 스텝의 길이:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="497"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="517"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="537"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="501"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="521"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="541"/>
         <source>Length of each step in sweep</source>
         <translation>스위프에서 각 스텝의 길이</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="508"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="512"/>
         <source>Square channel 2 volume:</source>
         <translation>스퀘어 채널 2 볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="511"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="515"/>
         <source>Square channel 2 volume</source>
         <translation>스퀘어 채널 2 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="522"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="526"/>
         <source>Wave pattern channel volume:</source>
         <translation>웨이브 패턴 채널 볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="524"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="528"/>
         <source>Wave pattern channel volume</source>
         <translation>웨이브 패턴 채널 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="529"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="533"/>
         <source>Noise channel volume:</source>
         <translation>잡음 채널 볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="531"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="535"/>
         <source>Noise channel volume</source>
         <translation>잡음 채널 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="542"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="546"/>
         <source>SO1 volume (Right):</source>
         <translation>SO1 볼륨 (우측):</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="544"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="548"/>
         <source>SO1 volume (Right)</source>
         <translation>SO1 볼륨 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="547"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="551"/>
         <source>SO2 volume (Left):</source>
         <translation>SO2 볼륨 (좌측):</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="549"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="553"/>
         <source>SO2 volume (Left)</source>
         <translation>SO2 볼륨 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="552"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="556"/>
         <source>Treble:</source>
         <translation>트레블:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="554"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="558"/>
         <source>Treble</source>
         <translation>트레블</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="557"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="561"/>
         <source>Bass:</source>
         <translation>베이스:</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="559"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="563"/>
         <source>Bass</source>
         <translation>베이스</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="568"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="572"/>
         <source>Sweep direction</source>
         <translation>스위프 방향</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="577"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="582"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="589"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="595"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="602"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="581"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="586"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="593"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="599"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="606"/>
         <source>Volume sweep direction</source>
         <translation>볼륨 스위프 방향</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="611"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="615"/>
         <source>Shift register width</source>
         <translation>시프트 레지스터 너비</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="621"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="625"/>
         <source>Channel 1 to SO1 (Right)</source>
         <translation>채널 1 → SO1 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="628"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="632"/>
         <source>Channel 2 to SO1 (Right)</source>
         <translation>채널 2 → SO1 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="635"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="639"/>
         <source>Channel 3 to SO1 (Right)</source>
         <translation>채널 3 → SO1 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="643"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="647"/>
         <source>Channel 4 to SO1 (Right)</source>
         <translation>채널 4 → SO1 (우측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="650"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="654"/>
         <source>Channel 1 to SO2 (Left)</source>
         <translation>채널 1 → SO2 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="657"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="661"/>
         <source>Channel 2 to SO2 (Left)</source>
         <translation>채널 2 → SO2 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="664"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="668"/>
         <source>Channel 3 to SO2 (Left)</source>
         <translation>채널 3 → SO2 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="672"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="676"/>
         <source>Channel 4 to SO2 (Left)</source>
         <translation>채널 4 → SO2 (좌측)</translation>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="680"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="684"/>
         <source>Wave pattern graph</source>
         <translation>웨이브 패턴 그래프</translation>
     </message>
@@ -14135,13 +14135,13 @@ Warning: This operation can not be undone.</source>
         <translation>먼저 붙여넣을 노트를 선택하세요.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3642"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3643"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation>클립을 두 번 클릭하여 열어주세요!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4279"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4298"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4280"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4299"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>%1부터 %2까지의 값을 입력하세요:</translation>
     </message>
@@ -14149,241 +14149,241 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <source>Play/pause current clip (Space)</source>
         <translation>현재 클립 연주하기/일시중지 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>MIDI 디바이스/채널 피아노에서 노트 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation>노래 또는 패턴 트랙을 연주하는 동안 MIDI 디바이스/채널 피아노에서 노트 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>MIDI 디바이스/채널 피아노에서 한 번에 한 스탭씩 노트 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>현재 클립 연주 중지하기 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
         <source>Edit actions</source>
         <translation>편집 작업</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Draw mode (Shift+D)</source>
         <translation>그리기 모드 (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
         <source>Erase mode (Shift+E)</source>
         <translation>지우기 모드 (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
         <source>Select mode (Shift+S)</source>
         <translation>선택하기 모드 (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4767"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>피치 밴드 모드 (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
         <source>Quantize</source>
         <translation>퀀타이즈</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4783"/>
         <source>Quantize positions</source>
         <translation>퀀타이즈 포지션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4783"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4784"/>
         <source>Quantize lengths</source>
         <translation>퀀타이즈 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4804"/>
         <source>File actions</source>
         <translation>파일 작업</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
         <source>Import clip</source>
         <translation>클립 가져오기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4813"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4814"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5269"/>
         <source>Export clip</source>
         <translation>클립 내보내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
         <source>Copy paste controls</source>
         <translation>복사 붙여넣기 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4827"/>
         <source>Cut (%1+X)</source>
         <translation>잘라내기 (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4829"/>
         <source>Copy (%1+C)</source>
         <translation>복사하기 (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4830"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4831"/>
         <source>Paste (%1+V)</source>
         <translation>붙여넣기 (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
         <source>Timeline controls</source>
         <translation>타임라인 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4854"/>
         <source>Glue</source>
         <translation>붙이기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4857"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
         <source>Knife</source>
         <translation>자르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4861"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4862"/>
         <source>Fill</source>
         <translation>채우기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4865"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4866"/>
         <source>Cut overlaps</source>
         <translation>오버랩 잘라내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4870"/>
         <source>Min length as last</source>
         <translation>마지막 최소 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4872"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4873"/>
         <source>Max length as last</source>
         <translation>마지막 최대 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4887"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4888"/>
         <source>Zoom and note controls</source>
         <translation>확대/축소 및 노트 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4896"/>
         <source>Horizontal zooming</source>
         <translation>수평 주밍</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4903"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4904"/>
         <source>Vertical zooming</source>
         <translation>수직 주밍</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4912"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4913"/>
         <source>Quantization</source>
         <translation>퀀티제이션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4921"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4922"/>
         <source>Note length</source>
         <translation>노트 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4927"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4928"/>
         <source>Key</source>
         <translation>키</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4936"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4937"/>
         <source>Scale</source>
         <translation>스케일</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4945"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4946"/>
         <source>Chord</source>
         <translation>코드</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4954"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4955"/>
         <source>Snap mode</source>
         <translation>스냅 모드</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4959"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4960"/>
         <source>Clear ghost notes</source>
         <translation>고스트 노트 지우기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5068"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5245"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5069"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5246"/>
         <source>Piano-Roll - %1</source>
         <translation>피아노-롤 - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5075"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5250"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5076"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5251"/>
         <source>Piano-Roll - no clip</source>
         <translation>피아노-롤 - 클립 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5269"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5316"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5270"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5317"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation>XML 클립 파일 (*.xpt *.xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5290"/>
         <source>Export clip success</source>
         <translation>클립 내보내기 성공</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5290"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5291"/>
         <source>Clip saved to %1</source>
         <translation>%1에 저장된 클립</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
         <source>Import clip.</source>
         <translation>클립을 가져옵니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5307"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation>클립을 가져오려는 중이며, 사용자의 현재 클립을 덮어씁니다. 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5316"/>
         <source>Open clip</source>
         <translation>클립 열기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5336"/>
         <source>Import clip success</source>
         <translation>클립 가져오기 성공</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5336"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5337"/>
         <source>Imported clip %1!</source>
         <translation>%1 클립을 가져왔습니다!</translation>
     </message>

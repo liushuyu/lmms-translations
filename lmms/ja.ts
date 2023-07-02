@@ -10468,192 +10468,192 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>lmms::gui::FreeBoyInstrumentView</name>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="471"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="475"/>
         <source>Sweep time:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="473"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="477"/>
         <source>Sweep time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="476"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="480"/>
         <source>Sweep rate shift amount:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="479"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="483"/>
         <source>Sweep rate shift amount</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="482"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="502"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="486"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="506"/>
         <source>Wave pattern duty cycle:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="485"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="505"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="489"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="509"/>
         <source>Wave pattern duty cycle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="488"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="492"/>
         <source>Square channel 1 volume:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="491"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="495"/>
         <source>Square channel 1 volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="494"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="514"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="534"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="498"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="518"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="538"/>
         <source>Length of each step in sweep:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="497"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="517"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="537"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="501"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="521"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="541"/>
         <source>Length of each step in sweep</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="508"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="512"/>
         <source>Square channel 2 volume:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="511"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="515"/>
         <source>Square channel 2 volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="522"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="526"/>
         <source>Wave pattern channel volume:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="524"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="528"/>
         <source>Wave pattern channel volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="529"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="533"/>
         <source>Noise channel volume:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="531"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="535"/>
         <source>Noise channel volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="542"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="546"/>
         <source>SO1 volume (Right):</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="544"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="548"/>
         <source>SO1 volume (Right)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="547"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="551"/>
         <source>SO2 volume (Left):</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="549"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="553"/>
         <source>SO2 volume (Left)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="552"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="556"/>
         <source>Treble:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="554"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="558"/>
         <source>Treble</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="557"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="561"/>
         <source>Bass:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="559"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="563"/>
         <source>Bass</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="568"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="572"/>
         <source>Sweep direction</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="577"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="582"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="589"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="595"/>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="602"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="581"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="586"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="593"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="599"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="606"/>
         <source>Volume sweep direction</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="611"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="615"/>
         <source>Shift register width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="621"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="625"/>
         <source>Channel 1 to SO1 (Right)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="628"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="632"/>
         <source>Channel 2 to SO1 (Right)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="635"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="639"/>
         <source>Channel 3 to SO1 (Right)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="643"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="647"/>
         <source>Channel 4 to SO1 (Right)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="650"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="654"/>
         <source>Channel 1 to SO2 (Left)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="657"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="661"/>
         <source>Channel 2 to SO2 (Left)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="664"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="668"/>
         <source>Channel 3 to SO2 (Left)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="672"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="676"/>
         <source>Channel 4 to SO2 (Left)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="680"/>
+        <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="684"/>
         <source>Wave pattern graph</source>
         <translation type="unfinished"/>
     </message>
@@ -13825,13 +13825,13 @@ Warning: This operation can not be undone.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3642"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3643"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4279"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4298"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4280"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4299"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation type="unfinished"/>
     </message>
@@ -13839,241 +13839,241 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <source>Play/pause current clip (Space)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
         <source>Stop playing of current clip (Space)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
         <source>Edit actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Draw mode (Shift+D)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
         <source>Erase mode (Shift+E)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
         <source>Select mode (Shift+S)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4767"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
         <source>Quantize</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4783"/>
         <source>Quantize positions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4783"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4784"/>
         <source>Quantize lengths</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4804"/>
         <source>File actions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
         <source>Import clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4813"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4814"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5269"/>
         <source>Export clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
         <source>Copy paste controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4827"/>
         <source>Cut (%1+X)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4829"/>
         <source>Copy (%1+C)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4830"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4831"/>
         <source>Paste (%1+V)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
         <source>Timeline controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4854"/>
         <source>Glue</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4857"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
         <source>Knife</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4861"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4862"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4865"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4866"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4870"/>
         <source>Min length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4872"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4873"/>
         <source>Max length as last</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4887"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4888"/>
         <source>Zoom and note controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4896"/>
         <source>Horizontal zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4903"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4904"/>
         <source>Vertical zooming</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4912"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4913"/>
         <source>Quantization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4921"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4922"/>
         <source>Note length</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4927"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4928"/>
         <source>Key</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4936"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4937"/>
         <source>Scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4945"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4946"/>
         <source>Chord</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4954"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4955"/>
         <source>Snap mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4959"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4960"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5068"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5245"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5069"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5246"/>
         <source>Piano-Roll - %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5075"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5250"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5076"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5251"/>
         <source>Piano-Roll - no clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5269"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5316"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5270"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5317"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5290"/>
         <source>Export clip success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5290"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5291"/>
         <source>Clip saved to %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
         <source>Import clip.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5307"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5316"/>
         <source>Open clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5336"/>
         <source>Import clip success</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5336"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5337"/>
         <source>Imported clip %1!</source>
         <translation type="unfinished"/>
     </message>
