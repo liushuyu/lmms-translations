@@ -4553,7 +4553,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="109"/>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS został odrzucony przez JACK z jakiegoś powodu. Back-end LMMSa został zrestartowany więc możesz ponownie dokonać ręcznych połączeń.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="117"/>
@@ -4563,7 +4563,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="118"/>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation type="unfinished"/>
+        <translation>Wygląda na to, że serwer JACK został wyłączony i uruchomienie nowej instancji nie powiodło się. LMMS nie może kontynuować pracy. Należy zapisać projekt i uruchomić serwer JACK i LMMSa ponownie.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="465"/>
@@ -4699,7 +4699,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="122"/>
         <source>Edit connection...</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj połączenie...</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="125"/>
@@ -7859,37 +7859,37 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1153"/>
         <source>Wave-Files (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Pliki Wave (*.wav)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1154"/>
         <source>OGG-Files (*.ogg)</source>
-        <translation type="unfinished"/>
+        <translation>Pliki OGG (*.ogg)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1155"/>
         <source>DrumSynth-Files (*.ds)</source>
-        <translation type="unfinished"/>
+        <translation>Pliki DrumSynth (*.ds)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1156"/>
         <source>FLAC-Files (*.flac)</source>
-        <translation type="unfinished"/>
+        <translation>Pliki FLAC (*.flac)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1157"/>
         <source>SPEEX-Files (*.spx)</source>
-        <translation type="unfinished"/>
+        <translation>Pliki SPEEX (*.spx)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1160"/>
         <source>VOC-Files (*.voc)</source>
-        <translation type="unfinished"/>
+        <translation>Pliki VOC (*.voc)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1161"/>
         <source>AIFF-Files (*.aif *.aiff)</source>
-        <translation type="unfinished"/>
+        <translation>Pliki AIFF (*.aif *.aiff)</translation>
     </message>
     <message>
         <location filename="../../src/core/SampleBuffer.cpp" line="1162"/>
@@ -8083,7 +8083,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/Song.cpp" line="1212"/>
         <source>LMMS Error report</source>
-        <translation type="unfinished"/>
+        <translation>Zgłoszenie błędu LMMS</translation>
     </message>
     <message>
         <location filename="../../src/core/Song.cpp" line="1509"/>
@@ -8151,7 +8151,8 @@ Reason: &quot;%2&quot;</source>
         <location filename="../../src/core/ImportFilter.cpp" line="81"/>
         <source>Couldn't find a filter for importing file %1.
 You should convert this file into a format supported by LMMS using another software.</source>
-        <translation type="unfinished"/>
+        <translation>Nie można odnaleźć filtra do zaimportowania pliku %1.
+Powinienieś przekonwertować ten plik do formatu wspieranego przez LMMS za pomocą zewnętrznego oprogramowania.</translation>
     </message>
     <message>
         <location filename="../../src/core/ImportFilter.cpp" line="100"/>
@@ -8844,7 +8845,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="410"/>
         <source>Edit Value</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj Wartość</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="412"/>
@@ -10961,7 +10962,7 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="937"/>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1040"/>
         <source>Open GIG file</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz plik GIG</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="949"/>
@@ -10976,7 +10977,7 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1044"/>
         <source>GIG Files (*.gig)</source>
-        <translation type="unfinished"/>
+        <translation>Pliki GIG (*.gig)</translation>
     </message>
 </context>
 <context>
@@ -10989,7 +10990,7 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="82"/>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
-        <translation type="unfinished"/>
+        <translation>Katalog roboczy LMMS %1 nie istnieje. Czy chcesz go utworzyć? Możesz zmienić katalog później w ustawieniach.</translation>
     </message>
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="139"/>
@@ -12353,7 +12354,7 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
         <location filename="../../src/gui/MainWindow.cpp" line="473"/>
         <location filename="../../src/gui/MainWindow.cpp" line="1087"/>
         <source>Automation Editor</source>
-        <translation type="unfinished"/>
+        <translation>Edytor automatyki</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="477"/>
@@ -12389,7 +12390,7 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="608"/>
         <source>LMMS %1</source>
-        <translation type="unfinished"/>
+        <translation>LMMS %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="627"/>
@@ -12419,7 +12420,7 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="770"/>
         <source>LMMS (*.mmp *.mmpz)</source>
-        <translation type="unfinished"/>
+        <translation>LMMS (*.mmp *.mmpz)</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="813"/>
@@ -12429,12 +12430,12 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="814"/>
         <source>LMMS Project</source>
-        <translation type="unfinished"/>
+        <translation>Projekt LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="815"/>
         <source>LMMS Project Template</source>
-        <translation type="unfinished"/>
+        <translation>Szablon projektu LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="845"/>
@@ -12460,7 +12461,8 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
         <location filename="../../src/gui/MainWindow.cpp" line="928"/>
         <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
-        <translation type="unfinished"/>
+        <translation>Aktualnie pomoc dla LMMS jest niedostępna.
+Odwiedź witrynę http://lmms.sf.net/wiki for documentation on LMMS.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1096"/>
@@ -15211,7 +15213,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="778"/>
         <source>LMMS working directory</source>
-        <translation type="unfinished"/>
+        <translation>Katalog roboczy LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="782"/>
@@ -15226,17 +15228,17 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="790"/>
         <source>SF2 directory</source>
-        <translation type="unfinished"/>
+        <translation>Katalog SF2</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="795"/>
         <source>Default SF2</source>
-        <translation type="unfinished"/>
+        <translation>Domyślny plik SF2</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="800"/>
         <source>GIG directory</source>
-        <translation type="unfinished"/>
+        <translation>Katalog GIG</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="804"/>
@@ -15292,7 +15294,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1228"/>
         <source>Choose the LMMS working directory</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz katalog roboczy LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1245"/>
@@ -15307,17 +15309,17 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1287"/>
         <source>Choose your SF2 directory</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz swój katalog z SF2</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1305"/>
         <source>Choose your default SF2</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz swój domyślny plik SF2</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1326"/>
         <source>Choose your GIG directory</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz swój katalog z plikami GIG</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1343"/>
@@ -15397,7 +15399,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1182"/>
         <source>SoundFont Files (*.sf2 *.sf3)</source>
-        <translation type="unfinished"/>
+        <translation>Pliki SoundFont (*.sf2 *.sf3)</translation>
     </message>
 </context>
 <context>
@@ -15618,7 +15620,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1944"/>
         <source>This %1 was created with LMMS %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 został utworzony w LMMS %2.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/SongEditor.cpp" line="123"/>

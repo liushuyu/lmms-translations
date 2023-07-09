@@ -1628,11 +1628,6 @@
         <source>The Best of LMMS Vol. 9 by LMMS Artists</source>
         
       </trans-unit>
-      <trans-unit id="86sS5b_" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
-        <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
-		Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
-        
-      </trans-unit>
       <trans-unit id="wVgk0cT" resname="Anyone can open a pull request against LMMS; we are not responsible for the builds on this page.&lt;br&gt;Unless you were directed here to test a pull request, please download an official build from the &lt;a href=&quot;%download%&quot;&gt;main download page&lt;/a&gt; instead.">
         <source>Anyone can open a pull request against LMMS; we are not responsible for the builds on this page.&lt;br&gt;Unless you were directed here to test a pull request, please download an official build from the &lt;a href=&quot;%download%&quot;&gt;main download page&lt;/a&gt; instead.</source>
         
@@ -1655,6 +1650,11 @@
       </trans-unit>
       <trans-unit id="7wM4KTV" resname="Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.">
         <source>Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.</source>
+        
+      </trans-unit>
+      <trans-unit id="86sS5b_" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
+        <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
+		Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
         
       </trans-unit>
     </body>

@@ -1737,13 +1737,6 @@ Tüm girişleri [buradan] dinleyin.(https://docs.google.com/spreadsheets/d/1pPoM
         <target>LMMS Sanatçılarının En İyisi Vol. 9</target>
         
       </trans-unit>
-      <trans-unit id="86sS5b_" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
-        <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
-		Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
-        <target>LMMS, çoğu büyük Linux dağıtımının paket havuzlarına dahil edilmiştir.&lt;br&gt;
-		Dağıtımınız burada listelenmiyorsa lütfen bizimle &lt;a href=&quot;/get-involved/#contact&quot;&gt;iletişime&lt;/a&gt; geçin.</target>
-        
-      </trans-unit>
       <trans-unit id="wVgk0cT" resname="Anyone can open a pull request against LMMS; we are not responsible for the builds on this page.&lt;br&gt;Unless you were directed here to test a pull request, please download an official build from the &lt;a href=&quot;%download%&quot;&gt;main download page&lt;/a&gt; instead.">
         <source>Anyone can open a pull request against LMMS; we are not responsible for the builds on this page.&lt;br&gt;Unless you were directed here to test a pull request, please download an official build from the &lt;a href=&quot;%download%&quot;&gt;main download page&lt;/a&gt; instead.</source>
         <target>LMMS'ye karşı herkes çekme isteği açabilir; Bu sayfadaki yapılardan biz sorumlu değiliz. &lt;br&gt;Buraya bir çekme isteğini test etmek için yönlendirilmediyseniz, lütfen bunun yerine &lt;a href=&quot;%download%&quot;&gt;ana indirme sayfasından&lt;/a&gt; resmi bir yapı indirin.</target>
@@ -1772,6 +1765,13 @@ Tüm girişleri [buradan] dinleyin.(https://docs.google.com/spreadsheets/d/1pPoM
       <trans-unit id="7wM4KTV" resname="Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.">
         <source>Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.</source>
         <target>Alpha, Beta veya Nightly etiketli yüklemeler, yayın öncesi yazılımlardır, kararlılık sorunları görülebilir.</target>
+        
+      </trans-unit>
+      <trans-unit id="86sS5b_" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
+        <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
+		Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>LMMS, çoğu büyük Linux dağıtımının paket havuzlarına dahil edilmiştir.&lt;br&gt;
+		Dağıtımınız burada listelenmiyorsa lütfen bizimle &lt;a href=&quot;/get-involved/#contact&quot;&gt;iletişime&lt;/a&gt; geçin.</target>
         
       </trans-unit>
     </body>
