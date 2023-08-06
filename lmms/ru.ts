@@ -957,7 +957,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1234"/>
         <source>Show &amp;Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Показать панель инструментов</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1243"/>
@@ -1007,7 +1007,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1306"/>
         <source>Show &amp;Side Panel</source>
-        <translation type="unfinished"/>
+        <translation>Показать боковую панель</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1315"/>
@@ -1017,12 +1017,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1329"/>
         <source>Compact Slots</source>
-        <translation type="unfinished"/>
+        <translation>Компактные слоты</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1334"/>
         <source>Expand Slots</source>
-        <translation type="unfinished"/>
+        <translation>Развернуть слоты</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1339"/>
@@ -1683,12 +1683,12 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2653"/>
         <source>Experimental options! Likely to be unstable!</source>
-        <translation type="unfinished"/>
+        <translation>Экспериментальные возможности! Скорее всего, будут нестабильными!</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2681"/>
         <source>Enable plugin bridges</source>
-        <translation type="unfinished"/>
+        <translation>Включить мосты для плагина</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2691"/>
@@ -1734,27 +1734,28 @@ Do you want to do this now?</source>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2768"/>
         <source>Force mono plugins as stereo by running 2 instances at the same time.
 This mode is not available for VST plugins.</source>
-        <translation type="unfinished"/>
+        <translation>Принудительное преобразование монофонических плагинов в стереофонические путем одновременного запуска двух экземпляров.
+Этот режим недоступен для VST-плагинов.</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2772"/>
         <source>Force mono plugins as stereo</source>
-        <translation type="unfinished"/>
+        <translation>Принудительное преобразование моно плагинов в стерео</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2779"/>
         <source>Prevent plugins from doing bad stuff (needs restart)</source>
-        <translation type="unfinished"/>
+        <translation>Предотвращение нежелательных действий плагинов (требуется перезагрузка)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2789"/>
         <source>Whenever possible, run the plugins in bridge mode.</source>
-        <translation type="unfinished"/>
+        <translation>По возможности запускать плагины в режиме моста.</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2792"/>
         <source>Run plugins in bridge mode when possible</source>
-        <translation type="unfinished"/>
+        <translation>По возможности запускать плагины в режиме моста</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/carla_settings.cpp" line="1457"/>
@@ -1860,7 +1861,7 @@ This mode is not available for VST plugins.</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_add_jack.ui" line="486"/>
         <source>Wait for external application start (Advanced, for Debug only)</source>
-        <translation type="unfinished"/>
+        <translation>Ожидание запуска внешнего приложения (Дополнительно, только для отладки)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_add_jack.ui" line="496"/>
@@ -2786,7 +2787,7 @@ Copyright © 2017 ROLI Ltd.</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="39"/>
         <source>Time Signature:</source>
-        <translation type="unfinished"/>
+        <translation>Временная сигнатура:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="56"/>
@@ -4190,22 +4191,22 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="38"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="39"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Баланс</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="40"/>
         <source>Left gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление (Л)</translation>
     </message>
     <message>
         <location filename="../../plugins/Amplifier/AmplifierControls.cpp" line="41"/>
         <source>Right gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление (П)</translation>
     </message>
 </context>
 <context>
@@ -4213,62 +4214,62 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="82"/>
         <source>Amplify</source>
-        <translation type="unfinished"/>
+        <translation>Усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="83"/>
         <source>Start of sample</source>
-        <translation type="unfinished"/>
+        <translation>Начало сэмпла</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="84"/>
         <source>End of sample</source>
-        <translation type="unfinished"/>
+        <translation>Конец сэмпла</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="85"/>
         <source>Loopback point</source>
-        <translation type="unfinished"/>
+        <translation>Точка петли</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="86"/>
         <source>Reverse sample</source>
-        <translation type="unfinished"/>
+        <translation>Перевернуть сэмпл</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="87"/>
         <source>Loop mode</source>
-        <translation type="unfinished"/>
+        <translation>Режим повтора</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="88"/>
         <source>Stutter</source>
-        <translation type="unfinished"/>
+        <translation>Запинание</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="89"/>
         <source>Interpolation mode</source>
-        <translation type="unfinished"/>
+        <translation>Режим интерполяции</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="107"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="108"/>
         <source>Linear</source>
-        <translation type="unfinished"/>
+        <translation>Линейный</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="109"/>
         <source>Sinc</source>
-        <translation type="unfinished"/>
+        <translation>Приёмник</translation>
     </message>
     <message>
         <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="241"/>
         <source>Sample not found: %1</source>
-        <translation type="unfinished"/>
+        <translation>Сэмпл не найден: %1</translation>
     </message>
 </context>
 <context>
@@ -4276,32 +4277,32 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="108"/>
         <source>JACK client restarted</source>
-        <translation type="unfinished"/>
+        <translation>Клиент JACK перезапущен</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="109"/>
         <source>LMMS was kicked by JACK for some reason. Therefore the JACK backend of LMMS has been restarted. You will have to make manual connections again.</source>
-        <translation type="unfinished"/>
+        <translation>LMMS не был подключен к JACK по какой-то причине, поэтому подключение LMMS к JACK было перезапущено. Вам придётся заново вручную создать соединения.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="117"/>
         <source>JACK server down</source>
-        <translation type="unfinished"/>
+        <translation>Cервер JACK выключен</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="118"/>
         <source>The JACK server seems to have been shutdown and starting a new instance failed. Therefore LMMS is unable to proceed. You should save your project and restart JACK and LMMS.</source>
-        <translation type="unfinished"/>
+        <translation>Возможно JACK-сервер был выключен и запуск нового процесса не удался, поэтому LMMS не может продолжить работу. Вам следует сохранить проект и перезапустить JACK и LMMS.</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="465"/>
         <source>Client name</source>
-        <translation type="unfinished"/>
+        <translation>Имя клиента</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="477"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Каналы</translation>
     </message>
 </context>
 <context>
@@ -4309,12 +4310,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="326"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Устройство</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="338"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Каналы</translation>
     </message>
 </context>
 <context>
@@ -4322,12 +4323,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="425"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Интерфейс</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="432"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Устройство</translation>
     </message>
 </context>
 <context>
@@ -4335,12 +4336,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="318"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Устройство</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="330"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Каналы</translation>
     </message>
 </context>
 <context>
@@ -4348,7 +4349,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="334"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Устройство</translation>
     </message>
 </context>
 <context>
@@ -4356,12 +4357,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="189"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Устройство</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="201"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Каналы</translation>
     </message>
 </context>
 <context>
@@ -4369,12 +4370,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="457"/>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Интерфейс</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="464"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>Устройство</translation>
     </message>
 </context>
 <context>
@@ -4382,62 +4383,62 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="61"/>
         <source>&amp;Reset (%1%2)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Сбросить (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="68"/>
         <source>&amp;Copy value (%1%2)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Копировать значение (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="76"/>
         <source>&amp;Paste value (%1%2)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Вставить значение (%1%2)</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="79"/>
         <source>&amp;Paste value</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Вставить значение</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="87"/>
         <source>Edit song-global automation</source>
-        <translation type="unfinished"/>
+        <translation>Изменить глобальную автоматизацию</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="92"/>
         <source>Remove song-global automation</source>
-        <translation type="unfinished"/>
+        <translation>Убрать глобальную автоматизацию</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="101"/>
         <source>Remove all linked controls</source>
-        <translation type="unfinished"/>
+        <translation>Убрать всё присоединенное управление</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="112"/>
         <source>Connected to %1</source>
-        <translation type="unfinished"/>
+        <translation>Подключено к %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="116"/>
         <source>Connected to controller</source>
-        <translation type="unfinished"/>
+        <translation>Соединено с контроллером</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="122"/>
         <source>Edit connection...</source>
-        <translation type="unfinished"/>
+        <translation>Изменить соединение…</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="125"/>
         <source>Remove connection</source>
-        <translation type="unfinished"/>
+        <translation>Удалить соединение</translation>
     </message>
     <message>
         <location filename="../../src/gui/AutomatableModelView.cpp" line="131"/>
         <source>Connect to controller...</source>
-        <translation type="unfinished"/>
+        <translation>Соединить с контроллером...</translation>
     </message>
 </context>
 <context>
@@ -4445,7 +4446,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/AutomationClip.cpp" line="872"/>
         <source>Drag a control while pressing &lt;%1&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Перетащите элемент управления, удерживая &lt;%1&gt;</translation>
     </message>
 </context>
 <context>
@@ -4453,7 +4454,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/tracks/AutomationTrack.cpp" line="39"/>
         <source>Automation track</source>
-        <translation type="unfinished"/>
+        <translation>Дорожка автоматизации</translation>
     </message>
 </context>
 <context>
@@ -4461,17 +4462,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="38"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="39"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="40"/>
         <source>Ratio</source>
-        <translation type="unfinished"/>
+        <translation>Соотношение</translation>
     </message>
 </context>
 <context>
@@ -4479,7 +4480,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="154"/>
         <source>Sample length</source>
-        <translation type="unfinished"/>
+        <translation>Длина сэмпла</translation>
     </message>
 </context>
 <context>
@@ -4487,47 +4488,47 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="40"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Входное усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="41"/>
         <source>Input noise</source>
-        <translation type="unfinished"/>
+        <translation>Входной шум</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="42"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Выходное усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="43"/>
         <source>Output clip</source>
-        <translation type="unfinished"/>
+        <translation>Выходная обрезка</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="44"/>
         <source>Sample rate</source>
-        <translation type="unfinished"/>
+        <translation>Частота сэмплирования</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="45"/>
         <source>Stereo difference</source>
-        <translation type="unfinished"/>
+        <translation>Разница стерео</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="46"/>
         <source>Levels</source>
-        <translation type="unfinished"/>
+        <translation>Уровни</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="47"/>
         <source>Rate enabled</source>
-        <translation type="unfinished"/>
+        <translation>Частота выборки включена</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="48"/>
         <source>Depth enabled</source>
-        <translation type="unfinished"/>
+        <translation>Глубина включена</translation>
     </message>
 </context>
 <context>
@@ -4535,7 +4536,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/Clip.cpp" line="50"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Заглушить</translation>
     </message>
 </context>
 <context>
@@ -4543,22 +4544,22 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="38"/>
         <source>Threshold</source>
-        <translation type="unfinished"/>
+        <translation>Пороговый уровень</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="39"/>
         <source>Ratio</source>
-        <translation type="unfinished"/>
+        <translation>Соотношение</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="40"/>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Атака</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="41"/>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Затухание</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="42"/>
@@ -4568,12 +4569,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="43"/>
         <source>Hold</source>
-        <translation type="unfinished"/>
+        <translation>Удержание</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="44"/>
         <source>Range</source>
-        <translation type="unfinished"/>
+        <translation>Диапазон</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="45"/>
@@ -4583,12 +4584,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="46"/>
         <source>Mid/Side</source>
-        <translation type="unfinished"/>
+        <translation>Середина/стороны</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="47"/>
         <source>Peak Mode</source>
-        <translation type="unfinished"/>
+        <translation>Держать пик</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="48"/>
@@ -4598,37 +4599,37 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="49"/>
         <source>Input Balance</source>
-        <translation type="unfinished"/>
+        <translation>Входной баланс:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="50"/>
         <source>Output Balance</source>
-        <translation type="unfinished"/>
+        <translation>Выходной баланс</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="51"/>
         <source>Limiter</source>
-        <translation type="unfinished"/>
+        <translation>Лимитер</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="52"/>
         <source>Output Gain</source>
-        <translation type="unfinished"/>
+        <translation>Выходная мощность</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="53"/>
         <source>Input Gain</source>
-        <translation type="unfinished"/>
+        <translation>Входная мощность</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="54"/>
         <source>Blend</source>
-        <translation type="unfinished"/>
+        <translation>Смешать</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="55"/>
         <source>Stereo Balance</source>
-        <translation type="unfinished"/>
+        <translation>Баланс стерео</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="56"/>
@@ -4638,22 +4639,22 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="57"/>
         <source>Audition</source>
-        <translation type="unfinished"/>
+        <translation>Прослушивание</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="58"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Обратная связь</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="59"/>
         <source>Auto Attack</source>
-        <translation type="unfinished"/>
+        <translation>Автоатака</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="60"/>
         <source>Auto Release</source>
-        <translation type="unfinished"/>
+        <translation>Убывание</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="61"/>
@@ -4668,7 +4669,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="63"/>
         <source>Tilt Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Фильтр Частот</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="64"/>
@@ -4678,7 +4679,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="65"/>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Микс</translation>
     </message>
 </context>
 <context>
@@ -4686,7 +4687,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/Controller.cpp" line="62"/>
         <source>Controller %1</source>
-        <translation type="unfinished"/>
+        <translation>Контроллер %1</translation>
     </message>
 </context>
 <context>
@@ -4694,27 +4695,27 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="37"/>
         <source>Delay samples</source>
-        <translation type="unfinished"/>
+        <translation>Задержка сэмплов</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="38"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Обратная связь</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="39"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="40"/>
         <source>LFO amount</source>
-        <translation type="unfinished"/>
+        <translation>Объём LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="41"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Выходное усиление</translation>
     </message>
 </context>
 <context>
@@ -4722,22 +4723,22 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="37"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Величина</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="38"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="39"/>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Резонанс</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="40"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Обратная связь</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="41"/>
@@ -4750,69 +4751,69 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="43"/>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Фильтр 1 включен</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="44"/>
         <source>Filter 1 type</source>
-        <translation type="unfinished"/>
+        <translation>Фильтр 1 тип</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="45"/>
         <source>Cutoff frequency 1</source>
-        <translation type="unfinished"/>
+        <translation>Частота среза 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="46"/>
         <source>Q/Resonance 1</source>
-        <translation type="unfinished"/>
+        <translation>Q/Резонанс 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="47"/>
         <source>Gain 1</source>
-        <translation type="unfinished"/>
+        <translation>Усиление 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="49"/>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Микс</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="51"/>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Фильтр 2 включен</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="52"/>
         <source>Filter 2 type</source>
-        <translation type="unfinished"/>
+        <translation>Фильтр 2 тип</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="53"/>
         <source>Cutoff frequency 2</source>
-        <translation type="unfinished"/>
+        <translation>Частота среза 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="54"/>
         <source>Q/Resonance 2</source>
-        <translation type="unfinished"/>
+        <translation>Q/Резонанс 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="55"/>
         <source>Gain 2</source>
-        <translation type="unfinished"/>
+        <translation>Усиление 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="57"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="80"/>
         <source>Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>Пропуск низких</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="58"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="81"/>
         <source>Hi-pass</source>
-        <translation type="unfinished"/>
+        <translation>Пропуск высоких</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="59"/>
@@ -4836,13 +4837,13 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="62"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="85"/>
         <source>All-pass</source>
-        <translation type="unfinished"/>
+        <translation>Пропускать все</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="63"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="86"/>
         <source>Moog</source>
-        <translation type="unfinished"/>
+        <translation>Муг</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="64"/>
@@ -4860,37 +4861,37 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="66"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="89"/>
         <source>RC Band-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC полосовой 12 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="67"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="90"/>
         <source>RC High-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФВЧ 12 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="68"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="91"/>
         <source>RC Low-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФНЧ 24 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="69"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="92"/>
         <source>RC Band-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC полосовой 24 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="70"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="93"/>
         <source>RC High-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФВЧ 24 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="71"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="94"/>
         <source>Vocal Formant</source>
-        <translation type="unfinished"/>
+        <translation>Формантный</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="72"/>
@@ -4940,27 +4941,27 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="45"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Входное усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="46"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Выходное усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="47"/>
         <source>Attack time</source>
-        <translation type="unfinished"/>
+        <translation>Время атаки</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="48"/>
         <source>Release time</source>
-        <translation type="unfinished"/>
+        <translation>Время затухания</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="50"/>
         <source>Stereo mode</source>
-        <translation type="unfinished"/>
+        <translation>Режим стерео</translation>
     </message>
 </context>
 <context>
@@ -4968,7 +4969,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/Effect.cpp" line="49"/>
         <source>Effect enabled</source>
-        <translation type="unfinished"/>
+        <translation>Эффект включён</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="50"/>
@@ -4978,12 +4979,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/Effect.cpp" line="51"/>
         <source>Gate</source>
-        <translation type="unfinished"/>
+        <translation>Порог</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="52"/>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Спад</translation>
     </message>
 </context>
 <context>
@@ -4991,7 +4992,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/EffectChain.cpp" line="41"/>
         <source>Effects enabled</source>
-        <translation type="unfinished"/>
+        <translation>Эффекты включены</translation>
     </message>
 </context>
 <context>
@@ -4999,22 +5000,22 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/Engine.cpp" line="62"/>
         <source>Generating wavetables</source>
-        <translation type="unfinished"/>
+        <translation>Генерация волновых таблиц</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="68"/>
         <source>Initializing data structures</source>
-        <translation type="unfinished"/>
+        <translation>Инициализация структуры данных</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="83"/>
         <source>Opening audio and midi devices</source>
-        <translation type="unfinished"/>
+        <translation>Открываем аудио и MIDI-устройства</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="88"/>
         <source>Launching audio engine threads</source>
-        <translation type="unfinished"/>
+        <translation>Запускаем потоки микшера</translation>
     </message>
 </context>
 <context>
@@ -5022,7 +5023,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="96"/>
         <source>Env pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>Огиб предзадержка</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="97"/>
@@ -5057,37 +5058,37 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="110"/>
         <source>LFO pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>LFO предзадержка</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="111"/>
         <source>LFO attack</source>
-        <translation type="unfinished"/>
+        <translation>Атака LFO</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="114"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота LFO</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="115"/>
         <source>LFO mod amount</source>
-        <translation type="unfinished"/>
+        <translation>Глубина мод LFO</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="116"/>
         <source>LFO wave shape</source>
-        <translation type="unfinished"/>
+        <translation>Форма LFO волны</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="117"/>
         <source>LFO frequency x 100</source>
-        <translation type="unfinished"/>
+        <translation>Частота x 100 LFO </translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="118"/>
         <source>Modulate env amount</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать уровень огибающей</translation>
     </message>
 </context>
 <context>
@@ -5095,42 +5096,42 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="40"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Входное усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="41"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Выходное усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="42"/>
         <source>Low-shelf gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление уровня низких</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="43"/>
         <source>Peak 1 gain</source>
-        <translation type="unfinished"/>
+        <translation>Пик 1 усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="44"/>
         <source>Peak 2 gain</source>
-        <translation type="unfinished"/>
+        <translation>Пик 2 усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="45"/>
         <source>Peak 3 gain</source>
-        <translation type="unfinished"/>
+        <translation>Пик 3 усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="46"/>
         <source>Peak 4 gain</source>
-        <translation type="unfinished"/>
+        <translation>Пик 4 усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="47"/>
         <source>High-shelf gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление уровня высоких</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="48"/>
@@ -5250,37 +5251,37 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="71"/>
         <source>LP active</source>
-        <translation type="unfinished"/>
+        <translation>НЧ активна</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="72"/>
         <source>LP 12</source>
-        <translation type="unfinished"/>
+        <translation>НЧ 12</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="73"/>
         <source>LP 24</source>
-        <translation type="unfinished"/>
+        <translation>НЧ 24</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="74"/>
         <source>LP 48</source>
-        <translation type="unfinished"/>
+        <translation>НЧ 48</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="75"/>
         <source>HP 12</source>
-        <translation type="unfinished"/>
+        <translation>ВЧ 12</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="76"/>
         <source>HP 24</source>
-        <translation type="unfinished"/>
+        <translation>ВЧ 24</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="77"/>
         <source>HP 48</source>
-        <translation type="unfinished"/>
+        <translation>ВЧ 48</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControls.cpp" line="78"/>
@@ -5318,12 +5319,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="41"/>
         <source>Seconds</source>
-        <translation type="unfinished"/>
+        <translation>Секунды</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="42"/>
         <source>Stereo phase</source>
-        <translation type="unfinished"/>
+        <translation>Фаза стерео</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="43"/>
@@ -5333,12 +5334,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="44"/>
         <source>Noise</source>
-        <translation type="unfinished"/>
+        <translation>Шум</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControls.cpp" line="45"/>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Инвертировать</translation>
     </message>
 </context>
 <context>
@@ -5346,28 +5347,28 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="77"/>
         <source>Sweep time</source>
-        <translation type="unfinished"/>
+        <translation>Время колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="78"/>
         <source>Sweep direction</source>
-        <translation type="unfinished"/>
+        <translation>Направление колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="80"/>
         <source>Sweep rate shift amount</source>
-        <translation type="unfinished"/>
+        <translation>Величина сдвига частоты колебаний</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="82"/>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="91"/>
         <source>Wave pattern duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>Рабочий цикл волны</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="84"/>
         <source>Channel 1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость 1 канала</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="86"/>
@@ -5386,17 +5387,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="93"/>
         <source>Channel 2 volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость 2 канала</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="101"/>
         <source>Channel 3 volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость 3 канала</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="104"/>
         <source>Channel 4 volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость 4 канала</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="110"/>
@@ -5456,12 +5457,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="122"/>
         <source>Treble</source>
-        <translation type="unfinished"/>
+        <translation>Верхние</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="123"/>
         <source>Bass</source>
-        <translation type="unfinished"/>
+        <translation>Басы</translation>
     </message>
 </context>
 <context>
@@ -5469,17 +5470,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="88"/>
         <source>Bank</source>
-        <translation type="unfinished"/>
+        <translation>Банк</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="89"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Патч</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="90"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление</translation>
     </message>
 </context>
 <context>
@@ -5487,17 +5488,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="298"/>
         <source>Arpeggio</source>
-        <translation type="unfinished"/>
+        <translation>Арпеджио</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="300"/>
         <source>Arpeggio type</source>
-        <translation type="unfinished"/>
+        <translation>Тип арпеджио</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="301"/>
         <source>Arpeggio range</source>
-        <translation type="unfinished"/>
+        <translation>Диапазон арпеджио</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="302"/>
@@ -5507,77 +5508,77 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="303"/>
         <source>Cycle steps</source>
-        <translation type="unfinished"/>
+        <translation>Шагов в цикле</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="304"/>
         <source>Skip rate</source>
-        <translation type="unfinished"/>
+        <translation>Частота пропуска</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
         <source>Miss rate</source>
-        <translation type="unfinished"/>
+        <translation>Частость обхода</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="306"/>
         <source>Arpeggio time</source>
-        <translation type="unfinished"/>
+        <translation>Период арпеджио</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="307"/>
         <source>Arpeggio gate</source>
-        <translation type="unfinished"/>
+        <translation>Шлюз арпеджио</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
         <source>Arpeggio direction</source>
-        <translation type="unfinished"/>
+        <translation>Направление арпеджио</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
         <source>Arpeggio mode</source>
-        <translation type="unfinished"/>
+        <translation>Режим арпеджио</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="317"/>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation>Вверх</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="318"/>
         <source>Down</source>
-        <translation type="unfinished"/>
+        <translation>Вниз</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
         <source>Up and down</source>
-        <translation type="unfinished"/>
+        <translation>Вверх и вниз</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
         <source>Down and up</source>
-        <translation type="unfinished"/>
+        <translation>Вниз и вверх</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
         <source>Random</source>
-        <translation type="unfinished"/>
+        <translation>Случайно</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="324"/>
         <source>Free</source>
-        <translation type="unfinished"/>
+        <translation>Свободно</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="325"/>
         <source>Sort</source>
-        <translation type="unfinished"/>
+        <translation>Упорядочить</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
         <source>Sync</source>
-        <translation type="unfinished"/>
+        <translation>Синхро</translation>
     </message>
 </context>
 <context>
@@ -5585,17 +5586,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="208"/>
         <source>Chords</source>
-        <translation type="unfinished"/>
+        <translation>Аккорды</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="210"/>
         <source>Chord type</source>
-        <translation type="unfinished"/>
+        <translation>Тип аккорда</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="211"/>
         <source>Chord range</source>
-        <translation type="unfinished"/>
+        <translation>Диапазон аккорда</translation>
     </message>
 </context>
 <context>
@@ -5603,42 +5604,42 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="62"/>
         <source>Envelopes/LFOs</source>
-        <translation type="unfinished"/>
+        <translation>Огибание/LFO</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="65"/>
         <source>Filter type</source>
-        <translation type="unfinished"/>
+        <translation>Тип фильтра</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="66"/>
         <source>Cutoff frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота среза</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="67"/>
         <source>Q/Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Q/Резонанс</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="83"/>
         <source>Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>Пропуск низких</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="84"/>
         <source>Hi-pass</source>
-        <translation type="unfinished"/>
+        <translation>Пропуск высоких</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="85"/>
         <source>Band-pass csg</source>
-        <translation type="unfinished"/>
+        <translation>Полосовой csg</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="86"/>
         <source>Band-pass czpg</source>
-        <translation type="unfinished"/>
+        <translation>Полосовой czpg</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="87"/>
@@ -5648,87 +5649,87 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="88"/>
         <source>All-pass</source>
-        <translation type="unfinished"/>
+        <translation>Пропускать все</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="89"/>
         <source>Moog</source>
-        <translation type="unfinished"/>
+        <translation>Муг</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="90"/>
         <source>2x Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>2x ФНЧ</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="91"/>
         <source>RC Low-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФНЧ 12дБ/окт</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="92"/>
         <source>RC Band-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC полосовой 12 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="93"/>
         <source>RC High-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФВЧ 12 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="94"/>
         <source>RC Low-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФНЧ 24 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="95"/>
         <source>RC Band-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC полосовой 24 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="96"/>
         <source>RC High-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC ФВЧ 24 дБ/окт</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="97"/>
         <source>Vocal Formant</source>
-        <translation type="unfinished"/>
+        <translation>Формантный</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="98"/>
         <source>2x Moog</source>
-        <translation type="unfinished"/>
+        <translation>2x Муг</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="99"/>
         <source>SV Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV нижних частот</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="100"/>
         <source>SV Band-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV полосовой</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="101"/>
         <source>SV High-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV верхних частот</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="102"/>
         <source>SV Notch</source>
-        <translation type="unfinished"/>
+        <translation>SV Notch (вырез)</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="103"/>
         <source>Fast Formant</source>
-        <translation type="unfinished"/>
+        <translation>Быстрый формантный</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="104"/>
         <source>Tripole</source>
-        <translation type="unfinished"/>
+        <translation>Трёхполюсный</translation>
     </message>
 </context>
 <context>
@@ -5737,17 +5738,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="50"/>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="62"/>
         <source>unnamed_track</source>
-        <translation type="unfinished"/>
+        <translation>дорожка без имени</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="56"/>
         <source>Base note</source>
-        <translation type="unfinished"/>
+        <translation>Опорная нота</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="57"/>
         <source>First note</source>
-        <translation type="unfinished"/>
+        <translation>Первая нота</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="58"/>
@@ -5757,32 +5758,32 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="60"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="61"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Баланс</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="63"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Тональность</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="64"/>
         <source>Pitch range</source>
-        <translation type="unfinished"/>
+        <translation>Диапазон тональности</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="65"/>
         <source>Mixer channel</source>
-        <translation type="unfinished"/>
+        <translation>Канал микшера</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="66"/>
         <source>Master pitch</source>
-        <translation type="unfinished"/>
+        <translation>Основной тон</translation>
     </message>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="91"/>
@@ -5798,7 +5799,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="104"/>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="341"/>
         <source>Default preset</source>
-        <translation type="unfinished"/>
+        <translation>Основная предустановка</translation>
     </message>
 </context>
 <context>
@@ -5806,7 +5807,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/Keymap.cpp" line="37"/>
         <source>empty</source>
-        <translation type="unfinished"/>
+        <translation>пусто</translation>
     </message>
 </context>
 <context>
@@ -5814,62 +5815,62 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="69"/>
         <source>Start frequency</source>
-        <translation type="unfinished"/>
+        <translation>Начальная частота</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="70"/>
         <source>End frequency</source>
-        <translation type="unfinished"/>
+        <translation>Конечная частота</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="71"/>
         <source>Length</source>
-        <translation type="unfinished"/>
+        <translation>Длина</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="72"/>
         <source>Start distortion</source>
-        <translation type="unfinished"/>
+        <translation>Начало перегруза</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="73"/>
         <source>End distortion</source>
-        <translation type="unfinished"/>
+        <translation>Конец перегруза</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="74"/>
         <source>Gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="75"/>
         <source>Envelope slope</source>
-        <translation type="unfinished"/>
+        <translation>Уклон огибающей</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="76"/>
         <source>Noise</source>
-        <translation type="unfinished"/>
+        <translation>Шум</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="77"/>
         <source>Click</source>
-        <translation type="unfinished"/>
+        <translation>Щелчок</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="78"/>
         <source>Frequency slope</source>
-        <translation type="unfinished"/>
+        <translation>Уклон частоты</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="79"/>
         <source>Start from note</source>
-        <translation type="unfinished"/>
+        <translation>Начать с ноты</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="80"/>
         <source>End to note</source>
-        <translation type="unfinished"/>
+        <translation>Закончить нотой</translation>
     </message>
 </context>
 <context>
@@ -5877,7 +5878,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/LadspaControl.cpp" line="42"/>
         <source>Link channels</source>
-        <translation type="unfinished"/>
+        <translation>Связать каналы</translation>
     </message>
 </context>
 <context>
@@ -5893,57 +5894,57 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="278"/>
         <source>VCF Cutoff Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота среза VCF</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="279"/>
         <source>VCF Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Резонанс VCF</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="280"/>
         <source>VCF Envelope Mod</source>
-        <translation type="unfinished"/>
+        <translation>Мод Огибающей VCF</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="281"/>
         <source>VCF Envelope Decay</source>
-        <translation type="unfinished"/>
+        <translation>Спад огибающей VCF</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="282"/>
         <source>Distortion</source>
-        <translation type="unfinished"/>
+        <translation>Перегруз</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="283"/>
         <source>Waveform</source>
-        <translation type="unfinished"/>
+        <translation>Форма волны</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="284"/>
         <source>Slide Decay</source>
-        <translation type="unfinished"/>
+        <translation>Сдвиг спада</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="285"/>
         <source>Slide</source>
-        <translation type="unfinished"/>
+        <translation>Сдвиг</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="286"/>
         <source>Accent</source>
-        <translation type="unfinished"/>
+        <translation>Акцент</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="287"/>
         <source>Dead</source>
-        <translation type="unfinished"/>
+        <translation>Глухо</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="288"/>
         <source>24dB/oct Filter</source>
-        <translation type="unfinished"/>
+        <translation>24дБ/окт фильтр</translation>
     </message>
 </context>
 <context>
@@ -5951,37 +5952,37 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/LfoController.cpp" line="39"/>
         <source>LFO Controller</source>
-        <translation type="unfinished"/>
+        <translation>Контроллер LFO</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="40"/>
         <source>Base value</source>
-        <translation type="unfinished"/>
+        <translation>Опорное значение</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="41"/>
         <source>Oscillator speed</source>
-        <translation type="unfinished"/>
+        <translation>Скорость волны</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="42"/>
         <source>Oscillator amount</source>
-        <translation type="unfinished"/>
+        <translation>Размер волны</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="43"/>
         <source>Oscillator phase</source>
-        <translation type="unfinished"/>
+        <translation>Фаза волны</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="45"/>
         <source>Oscillator waveform</source>
-        <translation type="unfinished"/>
+        <translation>Форма волны</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="46"/>
         <source>Frequency Multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Множитель частоты</translation>
     </message>
 </context>
 <context>
@@ -5989,22 +5990,22 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="73"/>
         <source>Hardness</source>
-        <translation type="unfinished"/>
+        <translation>Жёсткость</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="74"/>
         <source>Position</source>
-        <translation type="unfinished"/>
+        <translation>Позиция</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="75"/>
         <source>Vibrato gain</source>
-        <translation type="unfinished"/>
+        <translation>Усиление вибрато</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="76"/>
         <source>Vibrato frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота вибрато</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="77"/>
@@ -6014,92 +6015,92 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="78"/>
         <source>Modulator</source>
-        <translation type="unfinished"/>
+        <translation>Модулятор</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="79"/>
         <source>Crossfade</source>
-        <translation type="unfinished"/>
+        <translation>Переход</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="80"/>
         <source>LFO speed</source>
-        <translation type="unfinished"/>
+        <translation>Скорость LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="81"/>
         <source>LFO depth</source>
-        <translation type="unfinished"/>
+        <translation>Глубина LFO</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="82"/>
         <source>ADSR</source>
-        <translation type="unfinished"/>
+        <translation>ADSR</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="83"/>
         <source>Pressure</source>
-        <translation type="unfinished"/>
+        <translation>Давление</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="84"/>
         <source>Motion</source>
-        <translation type="unfinished"/>
+        <translation>Движение</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="86"/>
         <source>Speed</source>
-        <translation type="unfinished"/>
+        <translation>Скорость</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="87"/>
         <source>Bowed</source>
-        <translation type="unfinished"/>
+        <translation>Наклон</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="89"/>
         <source>Spread</source>
-        <translation type="unfinished"/>
+        <translation>Разброс</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="96"/>
         <source>Marimba</source>
-        <translation type="unfinished"/>
+        <translation>Маримба</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="98"/>
         <source>Vibraphone</source>
-        <translation type="unfinished"/>
+        <translation>Вибрафон</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="100"/>
         <source>Agogo</source>
-        <translation type="unfinished"/>
+        <translation>Агого</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="102"/>
         <source>Wood 1</source>
-        <translation type="unfinished"/>
+        <translation>Дерево 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="104"/>
         <source>Reso</source>
-        <translation type="unfinished"/>
+        <translation>Резо</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="106"/>
         <source>Wood 2</source>
-        <translation type="unfinished"/>
+        <translation>Дерево 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="108"/>
         <source>Beats</source>
-        <translation type="unfinished"/>
+        <translation>Удары</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="110"/>
         <source>Two fixed</source>
-        <translation type="unfinished"/>
+        <translation>Два постоянно</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="112"/>
@@ -6124,12 +6125,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="124"/>
         <source>Glass</source>
-        <translation type="unfinished"/>
+        <translation>Стекло</translation>
     </message>
     <message>
         <location filename="../../plugins/Stk/Mallets/Mallets.cpp" line="126"/>
         <source>Tibetan bowl</source>
-        <translation type="unfinished"/>
+        <translation>Тибетская чаша</translation>
     </message>
 </context>
 <context>
@@ -6137,12 +6138,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/MeterModel.cpp" line="35"/>
         <source>Numerator</source>
-        <translation type="unfinished"/>
+        <translation>Число долей</translation>
     </message>
     <message>
         <location filename="../../src/core/MeterModel.cpp" line="36"/>
         <source>Denominator</source>
-        <translation type="unfinished"/>
+        <translation>Длительность доли</translation>
     </message>
 </context>
 <context>
@@ -6150,17 +6151,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="41"/>
         <source>Microtuner</source>
-        <translation type="unfinished"/>
+        <translation>Микротюнер</translation>
     </message>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="42"/>
         <source>Microtuner on / off</source>
-        <translation type="unfinished"/>
+        <translation>Микротюнер вкл/выкл</translation>
     </message>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="43"/>
         <source>Selected scale</source>
-        <translation type="unfinished"/>
+        <translation>Выбранный масштаб</translation>
     </message>
     <message>
         <location filename="../../src/core/Microtuner.cpp" line="44"/>
@@ -6173,12 +6174,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/midi/MidiController.cpp" line="36"/>
         <source>MIDI Controller</source>
-        <translation type="unfinished"/>
+        <translation>Контроллер MIDI</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiController.cpp" line="38"/>
         <source>unnamed_midi_controller</source>
-        <translation type="unfinished"/>
+        <translation>MIDI-контроллер без имени</translation>
     </message>
 </context>
 <context>
@@ -6187,48 +6188,48 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="105"/>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="117"/>
         <source>Setup incomplete</source>
-        <translation type="unfinished"/>
+        <translation>Установка не завершена</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="106"/>
         <source>You have not set up a default soundfont in the settings dialog (Edit-&gt;Settings). Therefore no sound will be played back after importing this MIDI file. You should download a General MIDI soundfont, specify it in settings dialog and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Вы не установили основной SoundFont в настройках (Правка -&gt; Параметры). Поэтому звук не будет воспроизводиться после импортирования этого MIDI-файла. Вам следует загрузить General MIDI SoundFont, определить его в настройках и попробовать снова.   </translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="118"/>
         <source>You did not compile LMMS with support for SoundFont2 player, which is used to add default sound to imported MIDI files. Therefore no sound will be played back after importing this MIDI file.</source>
-        <translation type="unfinished"/>
+        <translation>Вы не включили поддержку проигрывателя SoundFont2 при компиляции LMMS, он используется для добавления основного звука в импортируемые MIDI-файлы, поэтому звука не будет после импорта этого MIDI-файла.</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="332"/>
         <source>MIDI Time Signature Numerator</source>
-        <translation type="unfinished"/>
+        <translation>Число долей времени MIDI</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="334"/>
         <source>MIDI Time Signature Denominator</source>
-        <translation type="unfinished"/>
+        <translation>Длительность доли времени MIDI</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="336"/>
         <source>Numerator</source>
-        <translation type="unfinished"/>
+        <translation>Число долей</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="339"/>
         <source>Denominator</source>
-        <translation type="unfinished"/>
+        <translation>Длительность доли</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="362"/>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="364"/>
         <source>Tempo</source>
-        <translation type="unfinished"/>
+        <translation>Темп</translation>
     </message>
     <message>
         <location filename="../../plugins/MidiImport/MidiImport.cpp" line="404"/>
         <source>Track</source>
-        <translation type="unfinished"/>
+        <translation>Дорожка</translation>
     </message>
 </context>
 <context>
@@ -6237,13 +6238,13 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../src/core/midi/MidiJack.cpp" line="58"/>
         <source>JACK server down</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (title)</extracomment>
-        <translation type="unfinished"/>
+        <translation>Cервер JACK выключен</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiJack.cpp" line="60"/>
         <source>The JACK server seems to be shuted down.</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
-        <translation type="unfinished"/>
+        <translation>JACK-сервер, похоже, не запущен.</translation>
     </message>
 </context>
 <context>
@@ -6251,57 +6252,57 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="55"/>
         <source>Input channel</source>
-        <translation type="unfinished"/>
+        <translation>Канал входа</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="56"/>
         <source>Output channel</source>
-        <translation type="unfinished"/>
+        <translation>Канал выхода</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="57"/>
         <source>Input controller</source>
-        <translation type="unfinished"/>
+        <translation>Контроллер входа</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="58"/>
         <source>Output controller</source>
-        <translation type="unfinished"/>
+        <translation>Контроллер выхода</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="59"/>
         <source>Fixed input velocity</source>
-        <translation type="unfinished"/>
+        <translation>Постоянная скорость ввода</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="60"/>
         <source>Fixed output velocity</source>
-        <translation type="unfinished"/>
+        <translation>Постоянная скорость вывода</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="61"/>
         <source>Fixed output note</source>
-        <translation type="unfinished"/>
+        <translation>Постоянный вывод нот</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="62"/>
         <source>Output MIDI program</source>
-        <translation type="unfinished"/>
+        <translation>Программа для вывода MIDI</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="63"/>
         <source>Base velocity</source>
-        <translation type="unfinished"/>
+        <translation>Базовая скорость</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="64"/>
         <source>Receive MIDI-events</source>
-        <translation type="unfinished"/>
+        <translation>Принимать события MIDI</translation>
     </message>
     <message>
         <location filename="../../src/core/midi/MidiPort.cpp" line="65"/>
         <source>Send MIDI-events</source>
-        <translation type="unfinished"/>
+        <translation>Отправлять события MIDI</translation>
     </message>
 </context>
 <context>
@@ -6309,29 +6310,29 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../src/core/Mixer.cpp" line="708"/>
         <source>Master</source>
-        <translation type="unfinished"/>
+        <translation>Главный</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="708"/>
         <location filename="../../src/core/Mixer.cpp" line="829"/>
         <location filename="../../src/core/Mixer.cpp" line="831"/>
         <source>Channel %1</source>
-        <translation type="unfinished"/>
+        <translation>Канал %1</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="709"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="710"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Заглушить</translation>
     </message>
     <message>
         <location filename="../../src/core/Mixer.cpp" line="711"/>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Соло</translation>
     </message>
 </context>
 <context>
@@ -6340,7 +6341,7 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../src/core/Mixer.cpp" line="47"/>
         <location filename="../../src/core/Mixer.cpp" line="57"/>
         <source>Amount to send from channel %1 to channel %2</source>
-        <translation type="unfinished"/>
+        <translation>Величина отправки с канала %1 на канал %2</translation>
     </message>
 </context>
 <context>
@@ -6824,119 +6825,119 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <location filename="../../plugins/Monstro/Monstro.h" line="326"/>
         <location filename="../../plugins/Monstro/Monstro.h" line="344"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Синусоида</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="327"/>
         <source>Bandlimited Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Тембр. треугольная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="328"/>
         <source>Bandlimited Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Тембр. пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="329"/>
         <source>Bandlimited Ramp wave</source>
-        <translation type="unfinished"/>
+        <translation>Тембр. пологая волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="330"/>
         <source>Bandlimited Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Тембр. квадратная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="331"/>
         <source>Bandlimited Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Тембр. Муг пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="332"/>
         <location filename="../../plugins/Monstro/Monstro.h" line="350"/>
         <source>Soft square wave</source>
-        <translation type="unfinished"/>
+        <translation>Сглаженная квадратная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="333"/>
         <source>Absolute sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Идеальная синусоида</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="334"/>
         <location filename="../../plugins/Monstro/Monstro.h" line="352"/>
         <source>Exponential wave</source>
-        <translation type="unfinished"/>
+        <translation>Экспоненциальная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="335"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Белый шум</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="336"/>
         <source>Digital Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Цифровая треугольная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="337"/>
         <source>Digital Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Цифровая пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="338"/>
         <source>Digital Ramp wave</source>
-        <translation type="unfinished"/>
+        <translation>Цифровая пологая волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="339"/>
         <source>Digital Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Цифровая квадратная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="340"/>
         <source>Digital Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Цифровая Муг пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="345"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Треугольная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="346"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Пилообразная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="347"/>
         <source>Ramp wave</source>
-        <translation type="unfinished"/>
+        <translation>Пологая волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="348"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Квадратная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="349"/>
         <source>Moog saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Муг пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="351"/>
         <source>Abs. sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Идеальная синусоида</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="353"/>
         <source>Random</source>
-        <translation type="unfinished"/>
+        <translation>Случайно</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.h" line="354"/>
         <source>Random smooth</source>
-        <translation type="unfinished"/>
+        <translation>Случайное сглаживание</translation>
     </message>
 </context>
 <context>
@@ -6944,102 +6945,102 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="486"/>
         <source>Channel 1 coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Грубая подстройка канала 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="487"/>
         <source>Channel 1 volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость 1 канала</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="491"/>
         <source>Channel 1 envelope length</source>
-        <translation type="unfinished"/>
+        <translation>Длительность огибающей канала 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="493"/>
         <source>Channel 1 duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>Рабочий цикл канала 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="496"/>
         <source>Channel 1 sweep amount</source>
-        <translation type="unfinished"/>
+        <translation>Уровень колебаний канала 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="497"/>
         <source>Channel 1 sweep rate</source>
-        <translation type="unfinished"/>
+        <translation>Частота колебаний канала 1</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="500"/>
         <source>Channel 2 Coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Грубая подстройка канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="501"/>
         <source>Channel 2 Volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="505"/>
         <source>Channel 2 envelope length</source>
-        <translation type="unfinished"/>
+        <translation>Длительность огибающей канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="507"/>
         <source>Channel 2 duty cycle</source>
-        <translation type="unfinished"/>
+        <translation>Рабочий цикл канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="510"/>
         <source>Channel 2 sweep amount</source>
-        <translation type="unfinished"/>
+        <translation>Уровень колебаний канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="511"/>
         <source>Channel 2 sweep rate</source>
-        <translation type="unfinished"/>
+        <translation>Частота колебаний канала 2</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="515"/>
         <source>Channel 3 coarse detune</source>
-        <translation type="unfinished"/>
+        <translation>Грубая подстройка канала 3</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="516"/>
         <source>Channel 3 volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость 3 канала</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="520"/>
         <source>Channel 4 volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость 4 канала</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="524"/>
         <source>Channel 4 envelope length</source>
-        <translation type="unfinished"/>
+        <translation>Длительность огибающей канала 4</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="528"/>
         <source>Channel 4 noise frequency</source>
-        <translation type="unfinished"/>
+        <translation>Частота шума канала 4</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="530"/>
         <source>Channel 4 noise frequency sweep</source>
-        <translation type="unfinished"/>
+        <translation>Частота помех колебаний канала 4</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="534"/>
         <source>Master volume</source>
-        <translation type="unfinished"/>
+        <translation>Главная громкость</translation>
     </message>
     <message>
         <location filename="../../plugins/Nes/Nes.cpp" line="535"/>
         <source>Vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Вибрато</translation>
     </message>
 </context>
 <context>
@@ -7047,137 +7048,137 @@ You can disable these checks to get a faster scanning time (at your own risk).</
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="99"/>
         <source>Patch</source>
-        <translation type="unfinished"/>
+        <translation>Патч</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="100"/>
         <source>Op 1 attack</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 атака</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="101"/>
         <source>Op 1 decay</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 спад</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="102"/>
         <source>Op 1 sustain</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 выдержка</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="103"/>
         <source>Op 1 release</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 затухание</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="104"/>
         <source>Op 1 level</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 уровень</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="105"/>
         <source>Op 1 level scaling</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 увеличение уровня</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="106"/>
         <source>Op 1 frequency multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 множитель частоты</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="107"/>
         <source>Op 1 feedback</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 возврат</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="108"/>
         <source>Op 1 key scaling rate</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 скорость увеличения нот</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="109"/>
         <source>Op 1 percussive envelope</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 огибающая ударников</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="110"/>
         <source>Op 1 tremolo</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 тремоло</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="111"/>
         <source>Op 1 vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 вибрато</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="116"/>
         <source>Op 1 waveform</source>
-        <translation type="unfinished"/>
+        <translation>Оп 1 форма волны</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="119"/>
         <source>Op 2 attack</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 атака</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="120"/>
         <source>Op 2 decay</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 спад</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="121"/>
         <source>Op 2 sustain</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 выдержка</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="122"/>
         <source>Op 2 release</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 затухание</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="123"/>
         <source>Op 2 level</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 уровень</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="124"/>
         <source>Op 2 level scaling</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 увеличение уровня</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="125"/>
         <source>Op 2 frequency multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 множитель частоты</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="126"/>
         <source>Op 2 key scaling rate</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 скорость увеличения нот</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="127"/>
         <source>Op 2 percussive envelope</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 огибающая ударников</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="128"/>
         <source>Op 2 tremolo</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 Тремоло</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="129"/>
         <source>Op 2 vibrato</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 Вибрато</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="134"/>
         <source>Op 2 waveform</source>
-        <translation type="unfinished"/>
+        <translation>Оп 2 Волна</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="136"/>
         <source>FM</source>
-        <translation type="unfinished"/>
+        <translation>FM</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="137"/>
@@ -14712,18 +14713,18 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="161"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="201"/>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="825"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Главное</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="231"/>
         <source>Graphical user interface (GUI)</source>
-        <translation type="unfinished"/>
+        <translation>Интерфейс</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="233"/>
@@ -14783,17 +14784,17 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="265"/>
         <source>Projects</source>
-        <translation type="unfinished"/>
+        <translation>Проекты</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="267"/>
         <source>Compress project files by default</source>
-        <translation type="unfinished"/>
+        <translation>Сжимать файлы проекта по умолчанию</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="269"/>
         <source>Create a backup file when saving a project</source>
-        <translation type="unfinished"/>
+        <translation>Создать файл восстановления когда проект сохраняется</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="271"/>
@@ -14803,28 +14804,28 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="281"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Язык</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="356"/>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="828"/>
         <source>Performance</source>
-        <translation type="unfinished"/>
+        <translation>Производительность</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="360"/>
         <source>Autosave</source>
-        <translation type="unfinished"/>
+        <translation>Автосохранение</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="379"/>
         <source>Enable autosave</source>
-        <translation type="unfinished"/>
+        <translation>Включить автосохранение</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="386"/>
         <source>Allow autosave while playing</source>
-        <translation type="unfinished"/>
+        <translation>Разрешить автосохранение при воспроизведении</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="404"/>
@@ -14834,7 +14835,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="406"/>
         <source>Smooth scroll in song editor</source>
-        <translation type="unfinished"/>
+        <translation>Плавная прокрутка в редакторе музыки</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="408"/>
@@ -14844,7 +14845,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="417"/>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Плагины</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="421"/>
@@ -14885,12 +14886,12 @@ Warning: This operation can not be undone.</source>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="474"/>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="831"/>
         <source>Audio</source>
-        <translation type="unfinished"/>
+        <translation>Аудио</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="477"/>
         <source>Audio interface</source>
-        <translation type="unfinished"/>
+        <translation>Аудио-интерфейс</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="568"/>
@@ -14982,27 +14983,27 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="861"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="866"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1091"/>
         <source>minutes</source>
-        <translation type="unfinished"/>
+        <translation>минуты</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1091"/>
         <source>minute</source>
-        <translation type="unfinished"/>
+        <translation>минута</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1093"/>
         <source>Disabled</source>
-        <translation type="unfinished"/>
+        <translation>Отключено</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1095"/>
@@ -15245,7 +15246,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="646"/>
         <source>Test</source>
-        <translation type="unfinished"/>
+        <translation>Тест</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="678"/>
@@ -15289,7 +15290,7 @@ Latency: %2 ms</source>
         <location filename="../../src/core/DataFile.cpp" line="363"/>
         <location filename="../../src/core/DataFile.cpp" line="371"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="356"/>
@@ -15319,7 +15320,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1899"/>
         <source>Error in file</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка в файле</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="1900"/>
@@ -16288,7 +16289,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="76"/>
         <source>Show/hide</source>
-        <translation type="unfinished"/>
+        <translation>Показать/скрыть</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="103"/>
@@ -16313,7 +16314,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="195"/>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить пресет</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="238"/>
@@ -16335,7 +16336,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="676"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="677"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Громкость</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="679"/>
