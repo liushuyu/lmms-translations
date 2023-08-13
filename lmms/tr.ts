@@ -16056,7 +16056,7 @@ Gecikme: %2 ms</translation>
 <context>
     <name>lmms::gui::TrackContentWidget</name>
     <message>
-        <location filename="../../src/gui/tracks/TrackContentWidget.cpp" line="649"/>
+        <location filename="../../src/gui/tracks/TrackContentWidget.cpp" line="656"/>
         <source>Paste</source>
         <translation>Yapıştır</translation>
     </message>

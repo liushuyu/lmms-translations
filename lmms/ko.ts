@@ -16055,7 +16055,7 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::TrackContentWidget</name>
     <message>
-        <location filename="../../src/gui/tracks/TrackContentWidget.cpp" line="649"/>
+        <location filename="../../src/gui/tracks/TrackContentWidget.cpp" line="656"/>
         <source>Paste</source>
         <translation>붙여넣기</translation>
     </message>
