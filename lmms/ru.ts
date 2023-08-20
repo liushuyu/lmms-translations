@@ -15265,85 +15265,85 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="157"/>
+        <location filename="../../src/core/DataFile.cpp" line="158"/>
         <source>Could not open file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="158"/>
+        <location filename="../../src/core/DataFile.cpp" line="159"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="344"/>
+        <location filename="../../src/core/DataFile.cpp" line="345"/>
         <source>Operation denied</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="345"/>
+        <location filename="../../src/core/DataFile.cpp" line="346"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="355"/>
-        <location filename="../../src/core/DataFile.cpp" line="363"/>
-        <location filename="../../src/core/DataFile.cpp" line="371"/>
+        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <location filename="../../src/core/DataFile.cpp" line="364"/>
+        <location filename="../../src/core/DataFile.cpp" line="372"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <location filename="../../src/core/DataFile.cpp" line="357"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="364"/>
+        <location filename="../../src/core/DataFile.cpp" line="365"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="372"/>
+        <location filename="../../src/core/DataFile.cpp" line="373"/>
         <source>Failed to copy resources.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="381"/>
+        <location filename="../../src/core/DataFile.cpp" line="382"/>
         <source>Could not write file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="382"/>
+        <location filename="../../src/core/DataFile.cpp" line="383"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1899"/>
+        <location filename="../../src/core/DataFile.cpp" line="1834"/>
         <source>Error in file</source>
         <translation>Ошибка в файле</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1900"/>
+        <location filename="../../src/core/DataFile.cpp" line="1835"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1940"/>
+        <location filename="../../src/core/DataFile.cpp" line="1875"/>
         <source>template</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1940"/>
+        <location filename="../../src/core/DataFile.cpp" line="1875"/>
         <source>project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1943"/>
+        <location filename="../../src/core/DataFile.cpp" line="1878"/>
         <source>Version difference</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1944"/>
+        <location filename="../../src/core/DataFile.cpp" line="1879"/>
         <source>This %1 was created with LMMS %2</source>
         <translation type="unfinished"/>
     </message>
@@ -15646,47 +15646,47 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="148"/>
         <source>Custom...</source>
-        <translation type="unfinished"/>
+        <translation>Своя...</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="170"/>
         <source>Custom </source>
-        <translation type="unfinished"/>
+        <translation>Своя</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="178"/>
         <source>Synced to Eight Beats</source>
-        <translation type="unfinished"/>
+        <translation>Синхро по 8 ударам</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="182"/>
         <source>Synced to Whole Note</source>
-        <translation type="unfinished"/>
+        <translation>Синхро по целой ноте</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="186"/>
         <source>Synced to Half Note</source>
-        <translation type="unfinished"/>
+        <translation>Синхро по половинной ноте</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="190"/>
         <source>Synced to Quarter Note</source>
-        <translation type="unfinished"/>
+        <translation>Синхро по четвертной ноте</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="194"/>
         <source>Synced to 8th Note</source>
-        <translation type="unfinished"/>
+        <translation>Синхро по 1/8 ноте</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="198"/>
         <source>Synced to 16th Note</source>
-        <translation type="unfinished"/>
+        <translation>Синхро по 1/16 ноте</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="202"/>
         <source>Synced to 32nd Note</source>
-        <translation type="unfinished"/>
+        <translation>Синхро по 1/32 ноте</translation>
     </message>
 </context>
 <context>
@@ -15694,37 +15694,37 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="53"/>
         <source>Time units</source>
-        <translation type="unfinished"/>
+        <translation>Единицы времени</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="69"/>
         <source>MIN</source>
-        <translation type="unfinished"/>
+        <translation>МИН</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="70"/>
         <source>SEC</source>
-        <translation type="unfinished"/>
+        <translation>СЕК</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="71"/>
         <source>MSEC</source>
-        <translation type="unfinished"/>
+        <translation>мСЕК</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="75"/>
         <source>BAR</source>
-        <translation type="unfinished"/>
+        <translation>ДЕЛЕНИЕ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="76"/>
         <source>BEAT</source>
-        <translation type="unfinished"/>
+        <translation>БИТ</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/TimeDisplayWidget.cpp" line="77"/>
         <source>TICK</source>
-        <translation type="unfinished"/>
+        <translation>ТИК</translation>
     </message>
 </context>
 <context>
@@ -15732,37 +15732,37 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="125"/>
         <source>Auto scrolling</source>
-        <translation type="unfinished"/>
+        <translation>Авто-перемотка</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="132"/>
         <source>Loop points</source>
-        <translation type="unfinished"/>
+        <translation>Точки петли</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="142"/>
         <source>After stopping go back to beginning</source>
-        <translation type="unfinished"/>
+        <translation>После остановки возвращаться в начало</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="145"/>
         <source>After stopping go back to position at which playing was started</source>
-        <translation type="unfinished"/>
+        <translation>После остановки переходить к месту, с которого началось воспроизведение</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="149"/>
         <source>After stopping keep position</source>
-        <translation type="unfinished"/>
+        <translation>Оставаться на месте остановки</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="351"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Подсказка</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="352"/>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите &lt;%1&gt;, чтобы убрать прилипание точек петли.</translation>
     </message>
 </context>
 <context>
@@ -15770,7 +15770,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/tracks/TrackContentWidget.cpp" line="656"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Вставить</translation>
     </message>
 </context>
 <context>
@@ -15778,74 +15778,74 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="63"/>
         <source>Press &lt;%1&gt; while clicking on move-grip to begin a new drag&apos;n&apos;drop action.</source>
-        <translation type="unfinished"/>
+        <translation>Удерживайте нажатой клавишу &lt;%1&gt; при щелчке по захвату перемещения, чтобы начать новое перетаскивание.</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="78"/>
         <source>Actions</source>
-        <translation type="unfinished"/>
+        <translation>Действия</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="81"/>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="104"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Заглушить</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="86"/>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="107"/>
         <source>Solo</source>
-        <translation type="unfinished"/>
+        <translation>Соло</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="193"/>
         <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Удалённый трек будет невозможно восстановить. Удалить трек «%1»?</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="196"/>
         <source>Confirm removal</source>
-        <translation type="unfinished"/>
+        <translation>Подтвердить удаление</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="197"/>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"/>
+        <translation>Больше не спрашивать</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="325"/>
         <source>Clone this track</source>
-        <translation type="unfinished"/>
+        <translation>Клонировать дорожку</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="328"/>
         <source>Remove this track</source>
-        <translation type="unfinished"/>
+        <translation>Удалить дорожку</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="333"/>
         <source>Clear this track</source>
-        <translation type="unfinished"/>
+        <translation>Очистить эту дорожку</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="335"/>
         <source>Channel %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Канал %1: %2</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="335"/>
         <source>Assign to new Mixer Channel</source>
-        <translation type="unfinished"/>
+        <translation>Назначить на новый канал микшера</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="347"/>
         <source>Turn all recording on</source>
-        <translation type="unfinished"/>
+        <translation>Включить всё на запись</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="348"/>
         <source>Turn all recording off</source>
-        <translation type="unfinished"/>
+        <translation>Выключить всю запись</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="353"/>
@@ -15870,7 +15870,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="359"/>
         <source>Reset clip colors</source>
-        <translation type="unfinished"/>
+        <translation>Сбросить цвета клипа</translation>
     </message>
 </context>
 <context>
@@ -15878,129 +15878,129 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="461"/>
         <source>Modulate phase of oscillator 1 by oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать фазу осциллятора 1 сигналом с 2</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="469"/>
         <source>Modulate amplitude of oscillator 1 by oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать амплитуду осциллятора 1 сигналом с 2</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="477"/>
         <source>Mix output of oscillators 1 &amp; 2</source>
-        <translation type="unfinished"/>
+        <translation>Смешать выход осцилляторов 1 и 2</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="485"/>
         <source>Synchronize oscillator 1 with oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Синхронизировать осциллятор 1 с осц 2</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="494"/>
         <source>Modulate frequency of oscillator 1 by oscillator 2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать частоту осциллятора 1 сигналом с 2</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="509"/>
         <source>Modulate phase of oscillator 2 by oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать фазу осциллятора 2 сигналом с 3</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="517"/>
         <source>Modulate amplitude of oscillator 2 by oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать амплитуду осциллятора 2 сигналом с 3</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="525"/>
         <source>Mix output of oscillators 2 &amp; 3</source>
-        <translation type="unfinished"/>
+        <translation>Смешать выход осцилляторов 2 и 3</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="533"/>
         <source>Synchronize oscillator 2 with oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Синхронизировать осциллятор 2 с осц 3</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="541"/>
         <source>Modulate frequency of oscillator 2 by oscillator 3</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать частоту осциллятора 2 сигналом с 3</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="561"/>
         <source>Osc %1 volume:</source>
-        <translation type="unfinished"/>
+        <translation>Громкость осц %1:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="567"/>
         <source>Osc %1 panning:</source>
-        <translation type="unfinished"/>
+        <translation>Баланс осц %1:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="572"/>
         <source>Osc %1 coarse detuning:</source>
-        <translation type="unfinished"/>
+        <translation>Грубая подстройка осц %1:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="573"/>
         <source>semitones</source>
-        <translation type="unfinished"/>
+        <translation>полутона</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="578"/>
         <source>Osc %1 fine detuning left:</source>
-        <translation type="unfinished"/>
+        <translation>Точная подстройка осц %1 слева:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="580"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="587"/>
         <source>cents</source>
-        <translation type="unfinished"/>
+        <translation>цент[а,ов]</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="585"/>
         <source>Osc %1 fine detuning right:</source>
-        <translation type="unfinished"/>
+        <translation>Точная подстройка осц %1 справа:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="592"/>
         <source>Osc %1 phase-offset:</source>
-        <translation type="unfinished"/>
+        <translation>Сдвиг фазы осц %1:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="594"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="601"/>
         <source>degrees</source>
-        <translation type="unfinished"/>
+        <translation>°</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="599"/>
         <source>Osc %1 stereo phase-detuning:</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка стерео-фазы осциллятора %1:</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="612"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Синусоида</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="621"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Треугольная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="630"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Пилообразная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="639"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Квадратная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="648"/>
         <source>Moog-like saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Типа муг пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="657"/>
@@ -16015,7 +16015,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="674"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Пользовательская волна</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="683"/>
@@ -16038,12 +16038,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="72"/>
         <source>Log. scale</source>
-        <translation type="unfinished"/>
+        <translation>Лог. шкала</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="73"/>
         <source>Display amplitude on logarithmic scale to better see small values.</source>
-        <translation type="unfinished"/>
+        <translation>Отображать амплитуду на логарифмической шкале, чтобы лучше видеть маленькие значения.</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="84"/>
@@ -16066,22 +16066,22 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/modals/VersionedSaveDialog.cpp" line="53"/>
         <source>Increment version number</source>
-        <translation type="unfinished"/>
+        <translation>Увеличить номер версии</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/VersionedSaveDialog.cpp" line="55"/>
         <source>Decrement version number</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшить номер версии</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/VersionedSaveDialog.cpp" line="72"/>
         <source>Save Options</source>
-        <translation type="unfinished"/>
+        <translation>Параметры сохранения</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/VersionedSaveDialog.cpp" line="166"/>
         <source> already exists. Do you want to replace it?</source>
-        <translation type="unfinished"/>
+        <translation>уже существует. Заменить?</translation>
     </message>
 </context>
 <context>
@@ -16090,77 +16090,77 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="517"/>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="683"/>
         <source>Open VST plugin</source>
-        <translation type="unfinished"/>
+        <translation>Открыть VST-плагин</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="529"/>
         <source>Control VST plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>Контроль VST-модуля из хоста LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="542"/>
         <source>Open VST plugin preset</source>
-        <translation type="unfinished"/>
+        <translation>Открыть пресет VST-плагина</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="555"/>
         <source>Previous (-)</source>
-        <translation type="unfinished"/>
+        <translation>Предыдущий (−)</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="570"/>
         <source>Save preset</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить пресет</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="583"/>
         <source>Next (+)</source>
-        <translation type="unfinished"/>
+        <translation>Следующий (+)</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="601"/>
         <source>Show/hide GUI</source>
-        <translation type="unfinished"/>
+        <translation>Показать/скрыть интерфейс</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="608"/>
         <source>Turn off all notes</source>
-        <translation type="unfinished"/>
+        <translation>Выключить все ноты</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="687"/>
         <source>DLL-files (*.dll)</source>
-        <translation type="unfinished"/>
+        <translation>Библиотеки DLL (*.dll)</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="688"/>
         <source>EXE-files (*.exe)</source>
-        <translation type="unfinished"/>
+        <translation>Программы EXE (*.exe)</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="690"/>
         <source>SO-files (*.so)</source>
-        <translation type="unfinished"/>
+        <translation>Файлы SO (*.so)</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="894"/>
         <source>No VST plugin loaded</source>
-        <translation type="unfinished"/>
+        <translation>Нет загруженного VST-модуля</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="902"/>
         <source>Preset</source>
-        <translation type="unfinished"/>
+        <translation>Предустановка</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="910"/>
         <source>by </source>
-        <translation type="unfinished"/>
+        <translation>от</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="919"/>
         <source> - VST plugin control</source>
-        <translation type="unfinished"/>
+        <translation> - управление VST-плагином</translation>
     </message>
 </context>
 <context>
@@ -16168,120 +16168,120 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="363"/>
         <source>String volume:</source>
-        <translation type="unfinished"/>
+        <translation>Громкость струны:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="367"/>
         <source>String stiffness:</source>
-        <translation type="unfinished"/>
+        <translation>Натяжение струны:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="373"/>
         <source>Pick position:</source>
-        <translation type="unfinished"/>
+        <translation>Выберите позицию:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="377"/>
         <source>Pickup position:</source>
-        <translation type="unfinished"/>
+        <translation>Положение звукоснимателя:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="382"/>
         <source>String panning:</source>
-        <translation type="unfinished"/>
+        <translation>Стерео-баланс струны:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="386"/>
         <source>String detune:</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка струны:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="390"/>
         <source>String fuzziness:</source>
-        <translation type="unfinished"/>
+        <translation>Расплывчатость струны:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="395"/>
         <source>String length:</source>
-        <translation type="unfinished"/>
+        <translation>Длина струны:</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="401"/>
         <source>Impulse</source>
-        <translation type="unfinished"/>
+        <translation>Импульс</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="426"/>
         <source>Octave</source>
-        <translation type="unfinished"/>
+        <translation>Октава</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="453"/>
         <source>Impulse Editor</source>
-        <translation type="unfinished"/>
+        <translation>Редактор импульса</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="459"/>
         <source>Enable waveform</source>
-        <translation type="unfinished"/>
+        <translation>Включить форму волны</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="462"/>
         <source>Enable/disable string</source>
-        <translation type="unfinished"/>
+        <translation>Включить/отключить струну</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="466"/>
         <source>String</source>
-        <translation type="unfinished"/>
+        <translation>Струна</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="473"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="480"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Синусоида</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="485"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="492"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Треугольная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="497"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="504"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Пилообразная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="509"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="516"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Квадратная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="521"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="528"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Белый шум</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="533"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="540"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Пользовательская волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="545"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="553"/>
         <source>Smooth waveform</source>
-        <translation type="unfinished"/>
+        <translation>Сгладить волну</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="557"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="565"/>
         <source>Normalize waveform</source>
-        <translation type="unfinished"/>
+        <translation>Нормализовать форму волны</translation>
     </message>
 </context>
 <context>
@@ -16294,22 +16294,22 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="103"/>
         <source>Control VST plugin from LMMS host</source>
-        <translation type="unfinished"/>
+        <translation>Контроль VST-модуля из хоста LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="119"/>
         <source>Open VST plugin preset</source>
-        <translation type="unfinished"/>
+        <translation>Открыть пресет VST-плагина</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="139"/>
         <source>Previous (-)</source>
-        <translation type="unfinished"/>
+        <translation>Предыдущий (−)</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="161"/>
         <source>Next (+)</source>
-        <translation type="unfinished"/>
+        <translation>Следующий (+)</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="195"/>
@@ -16320,12 +16320,12 @@ Latency: %2 ms</source>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="238"/>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="253"/>
         <source>Effect by: </source>
-        <translation type="unfinished"/>
+        <translation>Эффекты от:</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="254"/>
         <source>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</translation>
     </message>
 </context>
 <context>
@@ -16344,7 +16344,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="681"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="682"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Баланс</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="684"/>
@@ -16352,7 +16352,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="686"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="687"/>
         <source>Freq. multiplier</source>
-        <translation type="unfinished"/>
+        <translation>Множитель частоты</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="689"/>
@@ -16360,7 +16360,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="691"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="692"/>
         <source>Left detune</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка слева</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="689"/>
@@ -16372,7 +16372,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="696"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="697"/>
         <source> cents</source>
-        <translation type="unfinished"/>
+        <translation>центы</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="694"/>
@@ -16380,97 +16380,97 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="696"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="697"/>
         <source>Right detune</source>
-        <translation type="unfinished"/>
+        <translation>Подстройка справа</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="699"/>
         <source>A-B Mix</source>
-        <translation type="unfinished"/>
+        <translation>Микс A-B</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="701"/>
         <source>Mix envelope amount</source>
-        <translation type="unfinished"/>
+        <translation>Уровень огибающей микса</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="703"/>
         <source>Mix envelope attack</source>
-        <translation type="unfinished"/>
+        <translation>Атака огибающей микса</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="704"/>
         <source>Mix envelope hold</source>
-        <translation type="unfinished"/>
+        <translation>Удержание огибающей микса</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="705"/>
         <source>Mix envelope decay</source>
-        <translation type="unfinished"/>
+        <translation>Спад огибающей микса</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="707"/>
         <source>Crosstalk</source>
-        <translation type="unfinished"/>
+        <translation>Смешивание</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="724"/>
         <source>Select oscillator A1</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать генератор А1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="730"/>
         <source>Select oscillator A2</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать генератор А2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="736"/>
         <source>Select oscillator B1</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать генератор В1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="742"/>
         <source>Select oscillator B2</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать генератор В2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="757"/>
         <source>Mix output of A2 to A1</source>
-        <translation type="unfinished"/>
+        <translation>Смешать выход А2 с А1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="763"/>
         <source>Modulate amplitude of A1 by output of A2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать амплитуду A1 выходом с A2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="769"/>
         <source>Ring modulate A1 and A2</source>
-        <translation type="unfinished"/>
+        <translation>Кольцевая модуляция A1 и A2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="775"/>
         <source>Modulate phase of A1 by output of A2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать фазу A1 выходом с A2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="788"/>
         <source>Mix output of B2 to B1</source>
-        <translation type="unfinished"/>
+        <translation>Смешать выход из B2 в B1</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="794"/>
         <source>Modulate amplitude of B1 by output of B2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать амплитуду B1 выходом с B2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="800"/>
         <source>Ring modulate B1 and B2</source>
-        <translation type="unfinished"/>
+        <translation>Кольцевая модуляция B1 и B2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="806"/>
         <source>Modulate phase of B1 by output of B2</source>
-        <translation type="unfinished"/>
+        <translation>Модулировать фазу B1 выходом с B2</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="823"/>
@@ -16478,79 +16478,79 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="839"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="847"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation type="unfinished"/>
+        <translation>Нарисуйте здесь свою собственную форму волны, перетащив мышь на этот график.</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="854"/>
         <source>Load waveform</source>
-        <translation type="unfinished"/>
+        <translation>Загрузить форму волны</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="858"/>
         <source>Load a waveform from a sample file</source>
-        <translation type="unfinished"/>
+        <translation>Загрузить форму волны из сэмпл-файла</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="860"/>
         <source>Phase left</source>
-        <translation type="unfinished"/>
+        <translation>Фаза слева</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="864"/>
         <source>Shift phase by -15 degrees</source>
-        <translation type="unfinished"/>
+        <translation>Сдвинуть фазу на -15°</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="866"/>
         <source>Phase right</source>
-        <translation type="unfinished"/>
+        <translation>Фаза справа</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="870"/>
         <source>Shift phase by +15 degrees</source>
-        <translation type="unfinished"/>
+        <translation>Сдвинуть фазу на +15°</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="872"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="876"/>
         <source>Normalize</source>
-        <translation type="unfinished"/>
+        <translation>Нормализовать</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="879"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="883"/>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Инвертировать</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="885"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="889"/>
         <source>Smooth</source>
-        <translation type="unfinished"/>
+        <translation>Сгладить</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="893"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="897"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Синусоида</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="899"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="903"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="905"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Треугольная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="909"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Пилообразная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="911"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="915"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Квадратная волна</translation>
     </message>
 </context>
 <context>
@@ -16558,56 +16558,56 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="67"/>
         <source>INPUT</source>
-        <translation type="unfinished"/>
+        <translation>ВХОД</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="68"/>
         <source>Input gain:</source>
-        <translation type="unfinished"/>
+        <translation>Входное усиление:</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="75"/>
         <source>OUTPUT</source>
-        <translation type="unfinished"/>
+        <translation>ВЫХОД</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="76"/>
         <source>Output gain:</source>
-        <translation type="unfinished"/>
+        <translation>Выходное усиление:</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="78"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="83"/>
         <source>Reset wavegraph</source>
-        <translation type="unfinished"/>
+        <translation>Сбросить волновой график</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="85"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="90"/>
         <source>Smooth wavegraph</source>
-        <translation type="unfinished"/>
+        <translation>Сгладить волновой график</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="92"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="97"/>
         <source>Increase wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Увеличить амплитуду графика волны на 1 дБ</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="99"/>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="104"/>
         <source>Decrease wavegraph amplitude by 1 dB</source>
-        <translation type="unfinished"/>
+        <translation>Уменьшить амплитуду графика волны на 1 дБ</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="106"/>
         <source>Clip input</source>
-        <translation type="unfinished"/>
+        <translation>Срезать входной сигнал</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="109"/>
         <source>Clip input signal to 0 dB</source>
-        <translation type="unfinished"/>
+        <translation>Обрезать входной сигнал на 0 dB</translation>
     </message>
 </context>
 <context>
@@ -16615,130 +16615,130 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="334"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
-        <translation type="unfinished"/>
+        <translation>Нарисуйте здесь свою собственную форму волны, перетащив мышь на этот график.</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="352"/>
         <source>Select oscillator W1</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать осциллятор W1</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="358"/>
         <source>Select oscillator W2</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать осциллятор W2</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="364"/>
         <source>Select oscillator W3</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать осциллятор W3</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="370"/>
         <source>Select output O1</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать выход О1</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="376"/>
         <source>Select output O2</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать выход О2</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="382"/>
         <source>Open help window</source>
-        <translation type="unfinished"/>
+        <translation>Открыть окно справки</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="394"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="398"/>
         <source>Sine wave</source>
-        <translation type="unfinished"/>
+        <translation>Синусоида</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="400"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="405"/>
         <source>Moog-saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Муг пило-волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="407"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="411"/>
         <source>Exponential wave</source>
-        <translation type="unfinished"/>
+        <translation>Экспоненциальная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="413"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="417"/>
         <source>Saw wave</source>
-        <translation type="unfinished"/>
+        <translation>Пилообразная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="419"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="423"/>
         <source>User-defined wave</source>
-        <translation type="unfinished"/>
+        <translation>Пользовательская волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="425"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="431"/>
         <source>Triangle wave</source>
-        <translation type="unfinished"/>
+        <translation>Треугольная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="433"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="438"/>
         <source>Square wave</source>
-        <translation type="unfinished"/>
+        <translation>Квадратная волна</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="440"/>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="446"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Белый шум</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="449"/>
         <source>WaveInterpolate</source>
-        <translation type="unfinished"/>
+        <translation>Волн. интерполяция</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="453"/>
         <source>ExpressionValid</source>
-        <translation type="unfinished"/>
+        <translation>ВыражениеВерно</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="463"/>
         <source>General purpose 1:</source>
-        <translation type="unfinished"/>
+        <translation>Общего назначения 1:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="467"/>
         <source>General purpose 2:</source>
-        <translation type="unfinished"/>
+        <translation>Общего назначения 2:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="471"/>
         <source>General purpose 3:</source>
-        <translation type="unfinished"/>
+        <translation>Общего назначения 3:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="475"/>
         <source>O1 panning:</source>
-        <translation type="unfinished"/>
+        <translation>O1 баланс:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="479"/>
         <source>O2 panning:</source>
-        <translation type="unfinished"/>
+        <translation>О2 баланс:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="483"/>
         <source>Release transition:</source>
-        <translation type="unfinished"/>
+        <translation>Переход затухания:</translation>
     </message>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="496"/>
         <source>Smoothness</source>
-        <translation type="unfinished"/>
+        <translation>Гладкость</translation>
     </message>
 </context>
 <context>
@@ -16746,7 +16746,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="512"/>
         <source>Portamento:</source>
-        <translation type="unfinished"/>
+        <translation>Портаменто:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="513"/>
@@ -16756,27 +16756,27 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="516"/>
         <source>Filter frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Частота фильтра:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="517"/>
         <source>FREQ</source>
-        <translation type="unfinished"/>
+        <translation>ЧАСТ</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="520"/>
         <source>Filter resonance:</source>
-        <translation type="unfinished"/>
+        <translation>Резонанс фильтра:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="521"/>
         <source>RES</source>
-        <translation type="unfinished"/>
+        <translation>РЕЗ</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="524"/>
         <source>Bandwidth:</source>
-        <translation type="unfinished"/>
+        <translation>Полоса пропускания:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="525"/>
@@ -16786,17 +16786,17 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="528"/>
         <source>FM gain:</source>
-        <translation type="unfinished"/>
+        <translation>FM усиление:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="529"/>
         <source>FM GAIN</source>
-        <translation type="unfinished"/>
+        <translation>FM УСИЛ</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="532"/>
         <source>Resonance center frequency:</source>
-        <translation type="unfinished"/>
+        <translation>Частоты центра резонанса:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="533"/>
@@ -16806,7 +16806,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="536"/>
         <source>Resonance bandwidth:</source>
-        <translation type="unfinished"/>
+        <translation>Полоса пропуска резонанса:</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="537"/>
@@ -16816,7 +16816,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="539"/>
         <source>Forward MIDI control changes</source>
-        <translation type="unfinished"/>
+        <translation>Передавать изменения MIDI управления</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="541"/>

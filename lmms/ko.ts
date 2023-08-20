@@ -15551,86 +15551,86 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="157"/>
+        <location filename="../../src/core/DataFile.cpp" line="158"/>
         <source>Could not open file</source>
         <translation>파일을 열 수 없음</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="158"/>
+        <location filename="../../src/core/DataFile.cpp" line="159"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>%1 파일을 열 수 없습니다. 이 파일을 읽을 수 있는 권한이 없는 것 같습니다.
 최소한 파일에 대한 읽기 권한이 있는지 확인하고 다시 시도하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="344"/>
+        <location filename="../../src/core/DataFile.cpp" line="345"/>
         <source>Operation denied</source>
         <translation>오퍼레이션 거부됨</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="345"/>
+        <location filename="../../src/core/DataFile.cpp" line="346"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation>선택한 경로에 해당 이름의 번들 폴더가 이미 존재합니다. 프로젝트 번들을 덮어쓸 수 없습니다. 다른 이름을 선택하세요.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="355"/>
-        <location filename="../../src/core/DataFile.cpp" line="363"/>
-        <location filename="../../src/core/DataFile.cpp" line="371"/>
+        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <location filename="../../src/core/DataFile.cpp" line="364"/>
+        <location filename="../../src/core/DataFile.cpp" line="372"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <location filename="../../src/core/DataFile.cpp" line="357"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation>번들 폴더를 만들 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="364"/>
+        <location filename="../../src/core/DataFile.cpp" line="365"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation>리소스 폴더를 만들 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="372"/>
+        <location filename="../../src/core/DataFile.cpp" line="373"/>
         <source>Failed to copy resources.</source>
         <translation>리소스를 복사하지 못했습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="381"/>
+        <location filename="../../src/core/DataFile.cpp" line="382"/>
         <source>Could not write file</source>
         <translation>파일을 쓸 수 없음</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="382"/>
+        <location filename="../../src/core/DataFile.cpp" line="383"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
         <translation>쓰기 위한 %1 파일을 열 수 없습니다. 이 파일에 대한 쓰기 권한이 없을 수 있습니다. 파일에 대한 쓰기 권한이 있는지 확인한 후 다시 시도하세요.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1899"/>
+        <location filename="../../src/core/DataFile.cpp" line="1834"/>
         <source>Error in file</source>
         <translation>파일에서 오류 발생</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1900"/>
+        <location filename="../../src/core/DataFile.cpp" line="1835"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>%1 파일에 오류가 있는 것 같으므로 불러올 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1940"/>
+        <location filename="../../src/core/DataFile.cpp" line="1875"/>
         <source>template</source>
         <translation>템플릿</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1940"/>
+        <location filename="../../src/core/DataFile.cpp" line="1875"/>
         <source>project</source>
         <translation>프로젝트</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1943"/>
+        <location filename="../../src/core/DataFile.cpp" line="1878"/>
         <source>Version difference</source>
         <translation>버전 차이</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1944"/>
+        <location filename="../../src/core/DataFile.cpp" line="1879"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>이 %1은(는) LMMS %2(으)로 만들어졌습니다</translation>
     </message>

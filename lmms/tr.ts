@@ -15552,86 +15552,86 @@ Gecikme: %2 ms</translation>
 <context>
     <name>lmms::gui::SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="157"/>
+        <location filename="../../src/core/DataFile.cpp" line="158"/>
         <source>Could not open file</source>
         <translation>Dosya açılamadı</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="158"/>
+        <location filename="../../src/core/DataFile.cpp" line="159"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>%1 dosyası açılamadı. Muhtemelen bu dosyayı okuma izniniz yok.
   Lütfen dosya için en azından okuma izninizin olduğundan emin olun ve tekrar deneyin.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="344"/>
+        <location filename="../../src/core/DataFile.cpp" line="345"/>
         <source>Operation denied</source>
         <translation>İşlem reddedildi</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="345"/>
+        <location filename="../../src/core/DataFile.cpp" line="346"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation>Bu ada sahip bir paket klasörü zaten seçili yolda bulunuyor. Proje paketinin üzerine yazılamaz. Lütfen farklı bir isim seçin.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="355"/>
-        <location filename="../../src/core/DataFile.cpp" line="363"/>
-        <location filename="../../src/core/DataFile.cpp" line="371"/>
+        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <location filename="../../src/core/DataFile.cpp" line="364"/>
+        <location filename="../../src/core/DataFile.cpp" line="372"/>
         <source>Error</source>
         <translation>Sorun</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <location filename="../../src/core/DataFile.cpp" line="357"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation>Paket klasörü oluşturulamadı.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="364"/>
+        <location filename="../../src/core/DataFile.cpp" line="365"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation>Kaynaklar klasörü oluşturulamadı.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="372"/>
+        <location filename="../../src/core/DataFile.cpp" line="373"/>
         <source>Failed to copy resources.</source>
         <translation>Kaynaklar kopyalanamadı.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="381"/>
+        <location filename="../../src/core/DataFile.cpp" line="382"/>
         <source>Could not write file</source>
         <translation>Dosya yazılamadı</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="382"/>
+        <location filename="../../src/core/DataFile.cpp" line="383"/>
         <source>Could not open %1 for writing. You probably are not permitted towrite to this file. Please make sure you have write-access to the file and try again.</source>
         <translation>%1 yazmak için açılamadı. Muhtemelen bu dosyaya yazma izniniz yok. Lütfen dosyaya yazma erişiminiz olduğundan emin olun ve tekrar deneyin.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1899"/>
+        <location filename="../../src/core/DataFile.cpp" line="1834"/>
         <source>Error in file</source>
         <translation>Dosyada hata</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1900"/>
+        <location filename="../../src/core/DataFile.cpp" line="1835"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Görünüşe göre %1 dosyası hatalar içeriyor ve bu nedenle yüklenemiyor.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1940"/>
+        <location filename="../../src/core/DataFile.cpp" line="1875"/>
         <source>template</source>
         <translation>şablon</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1940"/>
+        <location filename="../../src/core/DataFile.cpp" line="1875"/>
         <source>project</source>
         <translation>proje</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1943"/>
+        <location filename="../../src/core/DataFile.cpp" line="1878"/>
         <source>Version difference</source>
         <translation>Sürüm farkı</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1944"/>
+        <location filename="../../src/core/DataFile.cpp" line="1879"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>Bu %1, %2 LMMS ile oluşturuldu</translation>
     </message>
