@@ -3346,7 +3346,7 @@ Telif Hakkı (C) 2017 ROLI Ltd.</translation>
         <translation>Yerel bir amplifikatör eklentisi</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="62"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="61"/>
         <source>Simple sampler with various settings for using samples (e.g. drums) in an instrument-track</source>
         <translation>Bir enstrüman kanalında örnekleri (ör. Davullar) kullanmak için çeşitli ayarlara sahip basit örnekleyici</translation>
     </message>
@@ -3426,7 +3426,7 @@ Telif Hakkı (C) 2017 ROLI Ltd.</translation>
         <translation>Hydrogen dosyalarını LMMS&apos;ye aktarmak için filtre</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="54"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="53"/>
         <source>Versatile drum synthesizer</source>
         <translation>Çok yönlü davul synthesizer</translation>
     </message>
@@ -3486,7 +3486,7 @@ Telif Hakkı (C) 2017 ROLI Ltd.</translation>
         <translation>2 operatörlü FM Synth</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="55"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="51"/>
         <source>Additive Synthesizer for organ-like sounds</source>
         <translation>Organ benzeri sesler için Additive Synthesizer</translation>
     </message>
@@ -3558,7 +3558,7 @@ Bu çip Commodore 64 bilgisayarında kullanıldı.</translation>
         <translation>LMMS içinde VST (i) eklentilerini kullanmak için VST ana bilgisayarı</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="57"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="56"/>
         <source>Vibrating string modeler</source>
         <translation>Titreşimli dizi modelleyici</translation>
     </message>
@@ -3591,6 +3591,11 @@ Bu çip Commodore 64 bilgisayarında kullanıldı.</translation>
         <location filename="../../plugins/Dispersion/Dispersion.cpp" line="40"/>
         <source>An all-pass filter allowing for extremely high orders.</source>
         <translation>Son derece yüksek siparişlere izin veren bir all-pass filtresi.</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempo.cpp" line="50"/>
+        <source>Tap to the beat</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4077,12 +4082,12 @@ Eklenti İsmi
 <context>
     <name>PluginFactory</name>
     <message>
-        <location filename="../../src/core/PluginFactory.cpp" line="140"/>
+        <location filename="../../src/core/PluginFactory.cpp" line="139"/>
         <source>Plugin not found.</source>
         <translation>Eklenti bulunamadı.</translation>
     </message>
     <message>
-        <location filename="../../src/core/PluginFactory.cpp" line="189"/>
+        <location filename="../../src/core/PluginFactory.cpp" line="188"/>
         <source>LMMS plugin %1 does not have a plugin descriptor named %2!</source>
         <translation>LMMS eklentisi %1,%2 adında bir eklenti tanımlayıcısına sahip değil!</translation>
     </message>
@@ -4482,62 +4487,62 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
 <context>
     <name>lmms::AudioFileProcessor</name>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="82"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="81"/>
         <source>Amplify</source>
         <translation>Yükseltici</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="83"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="82"/>
         <source>Start of sample</source>
         <translation>Örnek başlangıcı</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="84"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="83"/>
         <source>End of sample</source>
         <translation>Örneğin sonu</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="85"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="84"/>
         <source>Loopback point</source>
         <translation>Geri döngü noktası</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="86"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="85"/>
         <source>Reverse sample</source>
         <translation>Ters örnek</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="87"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="86"/>
         <source>Loop mode</source>
         <translation>Döngü modu</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="88"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="87"/>
         <source>Stutter</source>
         <translation>Kekemelik</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="89"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="88"/>
         <source>Interpolation mode</source>
         <translation>Ara değerlendirme modu</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="107"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="106"/>
         <source>None</source>
         <translation>Hiçbiri</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="108"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="107"/>
         <source>Linear</source>
         <translation>Doğrusal</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="109"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="108"/>
         <source>Sinc</source>
         <translation>Sinc</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="241"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="237"/>
         <source>Sample not found: %1</source>
         <translation>Örnek bulunamadı: %1</translation>
     </message>
@@ -5756,97 +5761,97 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
 <context>
     <name>lmms::InstrumentFunctionArpeggio</name>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="298"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="300"/>
         <source>Arpeggio</source>
         <translation>Arpej</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="300"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="302"/>
         <source>Arpeggio type</source>
         <translation>Arpej türü</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="301"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="303"/>
         <source>Arpeggio range</source>
         <translation>Arpej aralığı</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="302"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="304"/>
         <source>Note repeats</source>
         <translation>Nota tekrarları</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="303"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
         <source>Cycle steps</source>
         <translation>Döngü adımları</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="304"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="306"/>
         <source>Skip rate</source>
         <translation>Atlama oranı</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="307"/>
         <source>Miss rate</source>
         <translation>Iskalama oranı</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="306"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
         <source>Arpeggio time</source>
         <translation>Arpej zamanı</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="307"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
         <source>Arpeggio gate</source>
         <translation>Arpej kapısı</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="310"/>
         <source>Arpeggio direction</source>
         <translation>Arpej yönü</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="311"/>
         <source>Arpeggio mode</source>
         <translation>Arpej modu</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="317"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
         <source>Up</source>
         <translation>Üst</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="318"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
         <source>Down</source>
         <translation>Aşağı</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
         <source>Up and down</source>
         <translation>Yukarı ve aşağı</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="322"/>
         <source>Down and up</source>
         <translation>Aşağı ve yukarı</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="323"/>
         <source>Random</source>
         <translation>Rastgele</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="324"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
         <source>Free</source>
         <translation>Boş</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="325"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="327"/>
         <source>Sort</source>
         <translation>Sırala</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="328"/>
         <source>Sync</source>
         <translation>Eşitle</translation>
     </message>
@@ -5854,17 +5859,17 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
 <context>
     <name>lmms::InstrumentFunctionNoteStacking</name>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="208"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="209"/>
         <source>Chords</source>
         <translation>Akordlar</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="210"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="211"/>
         <source>Chord type</source>
         <translation>Akord türü</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="211"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="212"/>
         <source>Chord range</source>
         <translation>Akord aralığı</translation>
     </message>
@@ -6083,62 +6088,62 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
 <context>
     <name>lmms::KickerInstrument</name>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="69"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="68"/>
         <source>Start frequency</source>
         <translation>Başlangıç frekansı</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="70"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="69"/>
         <source>End frequency</source>
         <translation>Bitiş frekansı</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="71"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="70"/>
         <source>Length</source>
         <translation>Süre</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="72"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="71"/>
         <source>Start distortion</source>
         <translation>Bozulmayı başlat</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="73"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="72"/>
         <source>End distortion</source>
         <translation>Bozulmayı bitir</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="74"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="73"/>
         <source>Gain</source>
         <translation>Kazanç</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="75"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="74"/>
         <source>Envelope slope</source>
         <translation>Zarf eğimi</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="76"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="75"/>
         <source>Noise</source>
         <translation>Gürültü</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="77"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="76"/>
         <source>Click</source>
         <translation>Tıkla</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="78"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="77"/>
         <source>Frequency slope</source>
         <translation>Frekans eğimi</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="79"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="78"/>
         <source>Start from note</source>
         <translation>Notadan başla</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="80"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="79"/>
         <source>End to note</source>
         <translation>Notanın sonu</translation>
     </message>
@@ -6578,29 +6583,29 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
 <context>
     <name>lmms::Mixer</name>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="708"/>
+        <location filename="../../src/core/Mixer.cpp" line="721"/>
         <source>Master</source>
         <translation>Usta</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="708"/>
-        <location filename="../../src/core/Mixer.cpp" line="829"/>
-        <location filename="../../src/core/Mixer.cpp" line="831"/>
+        <location filename="../../src/core/Mixer.cpp" line="721"/>
+        <location filename="../../src/core/Mixer.cpp" line="842"/>
+        <location filename="../../src/core/Mixer.cpp" line="844"/>
         <source>Channel %1</source>
         <translation>FX %1</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="709"/>
+        <location filename="../../src/core/Mixer.cpp" line="722"/>
         <source>Volume</source>
         <translation>Ses Düzeyi</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="710"/>
+        <location filename="../../src/core/Mixer.cpp" line="723"/>
         <source>Mute</source>
         <translation>Sustur</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="711"/>
+        <location filename="../../src/core/Mixer.cpp" line="724"/>
         <source>Solo</source>
         <translation>Tek</translation>
     </message>
@@ -7464,12 +7469,12 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
 <context>
     <name>lmms::OrganicInstrument</name>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="82"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="80"/>
         <source>Distortion</source>
         <translation>Bozma</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="83"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="81"/>
         <source>Volume</source>
         <translation>Ses Düzeyi</translation>
     </message>
@@ -7477,29 +7482,29 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
 <context>
     <name>lmms::OscillatorObject</name>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="571"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="567"/>
         <source>Osc %1 waveform</source>
         <translation>Osc %1 dalga biçimi</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="573"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="569"/>
         <source>Osc %1 harmonic</source>
         <translation>Osc %1 harmonik</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="575"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="571"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="73"/>
         <source>Osc %1 volume</source>
         <translation>Osc %1 düzeyi</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="577"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="573"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="75"/>
         <source>Osc %1 panning</source>
         <translation>Osc %1 kaydırma</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="579"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="575"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="80"/>
         <source>Osc %1 fine detuning left</source>
         <translation>Osc %1 ince ayar sol</translation>
@@ -7556,12 +7561,12 @@ Daha hızlı bir tarama süresi elde etmek için bu kontrolleri devre dışı b�
         <translation>Tepe Kontrolörü</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="217"/>
+        <location filename="../../src/core/PeakController.cpp" line="214"/>
         <source>Peak Controller Bug</source>
         <translation>Tepe Kontrol Hatası</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="218"/>
+        <location filename="../../src/core/PeakController.cpp" line="215"/>
         <source>Due to a bug in older version of LMMS, the peak controllers may not be connect properly. Please ensure that peak controllers are connected properly and re-save this file. Sorry for any inconvenience caused.</source>
         <translation>LMMS&apos;nin eski sürümündeki bir hata nedeniyle, tepe denetleyicileri doğru şekilde bağlanamayabilir. Lütfen tepe denetleyicilerin doğru şekilde bağlandığından emin olun ve bu dosyayı yeniden kaydedin. Herhangi bir rahatsızlık verdiysem üzgünüm.</translation>
     </message>
@@ -8066,32 +8071,32 @@ Nedeni: &quot;%2&quot;</translation>
         <translation>Ana sahne</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1040"/>
+        <location filename="../../src/core/Song.cpp" line="1042"/>
         <source>Aborting project load</source>
         <translation>Proje yüklemesi iptal ediliyor</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1041"/>
+        <location filename="../../src/core/Song.cpp" line="1043"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
         <translation>Proje dosyası, kötü amaçlı kod çalıştırmak için kullanılabilecek eklentilere giden yerel yolları içerir.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1046"/>
+        <location filename="../../src/core/Song.cpp" line="1048"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
         <translation>Proje yüklenemiyor: Proje dosyası, eklentilere giden yerel yolları içerir.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1212"/>
+        <location filename="../../src/core/Song.cpp" line="1214"/>
         <source>LMMS Error report</source>
         <translation>LMMS Hata raporu</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1509"/>
+        <location filename="../../src/core/Song.cpp" line="1511"/>
         <source> (repeated %1 times)</source>
         <translation> (%1 kez tekrarlandı)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1516"/>
+        <location filename="../../src/core/Song.cpp" line="1518"/>
         <source>The following errors occurred while loading: </source>
         <translation>Yükleme sırasında aşağıdaki hatalar oluştu: </translation>
     </message>
@@ -8238,52 +8243,52 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
 <context>
     <name>lmms::Vibed</name>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="82"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="107"/>
         <source>String %1 volume</source>
         <translation>Dize %1 hacmi</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="86"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="109"/>
         <source>String %1 stiffness</source>
         <translation>Dize %1 sertliği</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="90"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="111"/>
         <source>Pick %1 position</source>
         <translation>%1 pozisyon seçin</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="94"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="113"/>
         <source>Pickup %1 position</source>
         <translation>Alım %1 pozisyon</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="98"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="115"/>
         <source>String %1 panning</source>
         <translation>%1 dize kaydırma</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="102"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="117"/>
         <source>String %1 detune</source>
         <translation>%1 dize detune</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="106"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="119"/>
         <source>String %1 fuzziness</source>
         <translation>Dize %1 belirsizliği</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="110"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="121"/>
         <source>String %1 length</source>
         <translation>Dize %1 uzunluğu</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="114"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="123"/>
         <source>Impulse %1</source>
         <translation>Dürtü %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="118"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="124"/>
         <source>String %1</source>
         <translation>Dize %1</translation>
     </message>
@@ -8730,52 +8735,52 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
 <context>
     <name>lmms::gui::AudioFileProcessorView</name>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="469"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="464"/>
         <source>Open sample</source>
         <translation>Örnek açın</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="478"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="473"/>
         <source>Reverse sample</source>
         <translation>Ters örnek</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="489"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="484"/>
         <source>Disable loop</source>
         <translation>Döngüyü kapat</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="498"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="493"/>
         <source>Enable loop</source>
         <translation>Döngüyü aç</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="507"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="502"/>
         <source>Enable ping-pong loop</source>
         <translation>Ping-pong döngüsünü etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="522"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="517"/>
         <source>Continue sample playback across notes</source>
         <translation>Örneği notalar arasında oynatmaya devam et</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="527"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="522"/>
         <source>Amplify:</source>
         <translation>Güçlendirin:</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="531"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="526"/>
         <source>Start point:</source>
         <translation>Başlangıç noktası:</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="535"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="530"/>
         <source>End point:</source>
         <translation>Bitiş noktası:</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="539"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="534"/>
         <source>Loopback point:</source>
         <translation>Geri döngü noktası:</translation>
     </message>
@@ -8783,7 +8788,7 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
 <context>
     <name>lmms::gui::AudioFileProcessorWaveView</name>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="981"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="974"/>
         <source>Sample length:</source>
         <translation>Örnek uzunluğu:</translation>
     </message>
@@ -9015,64 +9020,64 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
 <context>
     <name>lmms::gui::BitInvaderView</name>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="351"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="350"/>
         <source>Sample length</source>
         <translation>Örnek uzunluğu</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="358"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="357"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
         <translation>Farenizi bu grafiğin üzerine sürükleyerek buraya kendi dalga formunuzu çizin.</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="369"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="376"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="368"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="375"/>
         <source>Sine wave</source>
         <translation>Sinüs dalgası</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="378"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="385"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="377"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="384"/>
         <source>Triangle wave</source>
         <translation>Üçgen dalga</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="387"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="394"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="386"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="393"/>
         <source>Saw wave</source>
         <translation>Testere dalga</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="396"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="403"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="395"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="402"/>
         <source>Square wave</source>
         <translation>Kare dalgası</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="406"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="413"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="405"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="412"/>
         <source>White noise</source>
         <translation>Beyaz gürültü</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="415"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="422"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="414"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="421"/>
         <source>User-defined wave</source>
         <translation>Kullanıcı tanımlı dalga</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="424"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="431"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="423"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="430"/>
         <source>Smooth waveform</source>
         <translation>Düzgün dalga formu</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="435"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="434"/>
         <source>Interpolation</source>
         <translation>Aradeğerleme</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="440"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="439"/>
         <source>Normalize</source>
         <translation>Normalleştir</translation>
     </message>
@@ -9225,103 +9230,103 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
 <context>
     <name>lmms::gui::ClipView</name>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="705"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="707"/>
         <source>Current position</source>
         <translation>Şu anki pozisyon</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="713"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="715"/>
         <source>Current length</source>
         <translation>Mevcut uzunluk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="714"/>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="979"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="716"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="981"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 to %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="733"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="735"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>Bir kopya oluşturmak için &lt;%1&gt; tuşuna basın ve sürükleyin.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="734"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="736"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>Serbest yeniden boyutlandırma için &lt;%1&gt; seçeneğine basın.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="735"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="737"/>
         <source>Hint</source>
         <translation>İpucu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1078"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1080"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Sil (orta klik)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1079"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1081"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation>Seçimi sil (orta fare düğmesi)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1087"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1089"/>
         <source>Cut</source>
         <translation>Kes</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1088"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1090"/>
         <source>Cut selection</source>
         <translation>Seçimi Kes</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1095"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1097"/>
         <source>Merge Selection</source>
         <translation>Seçimi Birleştir</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1104"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1106"/>
         <source>Copy</source>
         <translation>Kopya</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1105"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1107"/>
         <source>Copy selection</source>
         <translation>Seçimi Kopyala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1110"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1112"/>
         <source>Paste</source>
         <translation>Yapıştır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1118"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1120"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>Sesi kapat/sesi aç (&lt;%1&gt; + orta tıklama)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1119"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1121"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation>Seçimin sesini kapat/aç (&lt;%1&gt; + orta tıklama)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1124"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1126"/>
         <source>Clip color</source>
         <translation>Klip rengi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1126"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1128"/>
         <source>Change</source>
         <translation>Değiştir</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1127"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1129"/>
         <source>Reset</source>
         <translation>Sıfırla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1128"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1130"/>
         <source>Pick random</source>
         <translation>Rastgele seç</translation>
     </message>
@@ -9745,12 +9750,12 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
         <translation>Çıkış</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="332"/>
+        <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="334"/>
         <source>LMMS</source>
         <translation>LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="332"/>
+        <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="334"/>
         <source>Cycle Detected.</source>
         <translation>Döngü Algılandı.</translation>
     </message>
@@ -10418,17 +10423,17 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
         <translation>Bu LFO ile kontrol zarfı miktarı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="508"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="509"/>
         <source>ms/LFO:</source>
         <translation>ms/LFO:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="524"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="525"/>
         <source>Hint</source>
         <translation>İpucu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="525"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="526"/>
         <source>Drag and drop a sample into this window.</source>
         <translation>Bu pencereye bir örnek sürükleyip bırakın.</translation>
     </message>
@@ -10960,23 +10965,23 @@ Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun v
 <context>
     <name>lmms::gui::GigInstrumentView</name>
     <message>
-        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="937"/>
-        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1040"/>
+        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="935"/>
+        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1038"/>
         <source>Open GIG file</source>
         <translation>GIG dosyasını açın</translation>
     </message>
     <message>
-        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="949"/>
+        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="947"/>
         <source>Choose patch</source>
         <translation>Yama seçin</translation>
     </message>
     <message>
-        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="966"/>
+        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="964"/>
         <source>Gain:</source>
         <translation>Kazanç:</translation>
     </message>
     <message>
-        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1044"/>
+        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1042"/>
         <source>GIG Files (*.gig)</source>
         <translation>GIG Dosyaları (*.gig)</translation>
     </message>
@@ -11521,52 +11526,52 @@ Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun v
 <context>
     <name>lmms::gui::KickerInstrumentView</name>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="281"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="279"/>
         <source>Start frequency:</source>
         <translation>Başlangıç frekansı:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="285"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="283"/>
         <source>End frequency:</source>
         <translation>Bitiş frekansı:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="289"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="287"/>
         <source>Frequency slope:</source>
         <translation>Frekans eğimi:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="293"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="291"/>
         <source>Gain:</source>
         <translation>Kazanç:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="297"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="295"/>
         <source>Envelope length:</source>
         <translation>Zarf uzunluğu:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="301"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="299"/>
         <source>Envelope slope:</source>
         <translation>Zarf eğimi:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="305"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="303"/>
         <source>Click:</source>
         <translation>Tıkla:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="309"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="307"/>
         <source>Noise:</source>
         <translation>Gürültü:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="313"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="311"/>
         <source>Start distortion:</source>
         <translation>Bozulmayı başlat:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="317"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="315"/>
         <source>End distortion:</source>
         <translation>Bozulmayı bitir:</translation>
     </message>
@@ -11584,18 +11589,18 @@ Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun v
         <translation>Logaritmik ayarla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="761"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="778"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="803"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="820"/>
         <source>Set value</source>
         <translation>Değeri ayarla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="804"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Lütfen -96.0 dBFS ve 6.0 dBFS arasında yeni bir değer girin:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="821"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Lütfen %1 ile %2 arasında yeni bir değer girin:</translation>
     </message>
@@ -12081,22 +12086,22 @@ Bir dosya seçmek için çift tıklayın.</translation>
 <context>
     <name>lmms::gui::MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="520"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="508"/>
         <source>Configuration file</source>
         <translation>Yapılandırma dosyası</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="521"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="509"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>%1:%2: %3 satırındaki yapılandırma dosyası ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="638"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="626"/>
         <source>Could not open file</source>
         <translation>Dosya açılamadı</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="639"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="627"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>%1 dosyası yazmak için açılamadı.
@@ -12720,23 +12725,23 @@ LMMS ile ilgili belgeler için lütfen http://lmms.sf.net/wiki adresini ziyaret 
 <context>
     <name>lmms::gui::ManageVSTEffectView</name>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="329"/>
+        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="339"/>
         <source> - VST parameter control</source>
         <translation> - VST parametre kontrolü</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="338"/>
+        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="348"/>
         <source>VST sync</source>
         <translation>VST senkronizasyonu</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="344"/>
-        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="468"/>
+        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="354"/>
+        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="478"/>
         <source>Automated</source>
         <translation>Otomatik</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="351"/>
+        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="361"/>
         <source>    Close    </source>
         <translation>    Kapat    </translation>
     </message>
@@ -12810,64 +12815,64 @@ LMMS ile ilgili belgeler için lütfen http://lmms.sf.net/wiki adresini ziyaret 
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="61"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="144"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="154"/>
         <source>First key</source>
         <translation>İlk tuş</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="62"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="150"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="160"/>
         <source>Last key</source>
         <translation>Son tuş</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="63"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="156"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="166"/>
         <source>Middle key</source>
         <translation>Orta tuş</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="64"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="162"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="172"/>
         <source>Base key</source>
         <translation>Temel tuş</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="65"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="168"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="171"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="178"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="181"/>
         <source>Base note frequency</source>
         <translation>Temel nota frekansı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="68"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="78"/>
         <source>Microtuner</source>
         <translation>Mikro ayarlayıcı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="77"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="87"/>
         <source>Scale:</source>
         <translation>Ölçeklendir:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="90"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="100"/>
         <source>Scale description. Cannot start with &quot;!&quot; and cannot contain a newline character.</source>
         <translation>Ölçek açıklaması. &quot;!&quot; İle başlayamaz ve yeni satır karakteri içeremez.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="93"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="128"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="103"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="138"/>
         <source>Load</source>
         <translation>Yükle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="94"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="129"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="104"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="139"/>
         <source>Save</source>
         <translation>Kaydet</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="102"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="112"/>
         <source>Enter intervals on separate lines. Numbers containing a decimal point are treated as cents.
 Other inputs are treated as integer ratios and must be in the form of 'a/b' or 'a'.
 Unity (0.0 cents or ratio 1/1) is always present as a hidden first value; do not enter it manually.</source>
@@ -12876,22 +12881,22 @@ Diğer girdiler tamsayı oranları olarak değerlendirilir ve &apos;a/b&apos; ve
 Birlik (0.0 sent veya oran 1/1) her zaman gizli bir ilk değer olarak bulunur; manuel olarak girmeyin.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="105"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="115"/>
         <source>Apply scale</source>
         <translation>Ölçeği uygula</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="112"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="122"/>
         <source>Keymap:</source>
         <translation>Tuş haritası:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="125"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="135"/>
         <source>Keymap description. Cannot start with &quot;!&quot; and cannot contain a newline character.</source>
         <translation>Tuş haritası açıklaması. &quot;!&quot; İle başlayamaz ve yeni satır karakteri içeremez.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="137"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="147"/>
         <source>Enter key mappings on separate lines. Each line assigns a scale degree to a MIDI key,
 starting with the middle key and continuing in sequence.
 The pattern repeats for keys outside of the explicit keymap range.
@@ -12904,186 +12909,186 @@ Birden fazla anahtar aynı ölçek derecesine eşlenebilir.
 Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız &apos;x&apos; girin.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="145"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="155"/>
         <source>FIRST</source>
         <translation>İLK</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="146"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="156"/>
         <source>First MIDI key that will be mapped</source>
         <translation>Eşlenecek ilk MIDI anahtarı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="151"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="161"/>
         <source>LAST</source>
         <translation>SON</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="152"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="162"/>
         <source>Last MIDI key that will be mapped</source>
         <translation>Eşlenecek son MIDI anahtarı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="157"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="167"/>
         <source>MIDDLE</source>
         <translation>ORTA</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="158"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="168"/>
         <source>First line in the keymap refers to this MIDI key</source>
         <translation>Tuş haritasındaki ilk satır bu MIDI anahtarına atıfta bulunur</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="163"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="173"/>
         <source>BASE N.</source>
         <translation>TEMEL N.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="164"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="174"/>
         <source>Base note frequency will be assigned to this MIDI key</source>
         <translation>Temel nota frekansı bu MIDI anahtarına atanacaktır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="169"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="179"/>
         <source>BASE NOTE FREQ</source>
         <translation>TEMEL NOTA FREKANS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="174"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="184"/>
         <source>Apply keymap</source>
         <translation>Tuş haritasını uygula</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="312"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="322"/>
         <source>Scale parsing error</source>
         <translation>Ölçek ayrıştırma hatası</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="316"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="326"/>
         <source>Scale name cannot start with an exclamation mark</source>
         <translation>Ölçek adı bir ünlem işaretiyle başlayamaz</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="317"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="327"/>
         <source>Scale name cannot contain a new-line character</source>
         <translation>Ölçek adı yeni satır karakteri içeremez</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="334"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="344"/>
         <source>Interval defined in cents cannot be converted to a number</source>
         <translation>Sent olarak tanımlanan aralık bir sayıya dönüştürülemez</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="341"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="351"/>
         <source>Numerator of an interval defined as a ratio cannot be converted to a number</source>
         <translation>Oran olarak tanımlanan bir aralığın payı sayıya dönüştürülemez</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="346"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="356"/>
         <source>Denominator of an interval defined as a ratio cannot be converted to a number</source>
         <translation>Oran olarak tanımlanan bir aralığın paydası sayıya dönüştürülemez</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="347"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="357"/>
         <source>Interval defined as a ratio cannot be negative</source>
         <translation>Oran olarak tanımlanan aralık negatif olamaz</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="360"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="370"/>
         <source>Keymap parsing error</source>
         <translation>Tuş haritası ayrıştırma hatası</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="364"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="374"/>
         <source>Keymap name cannot start with an exclamation mark</source>
         <translation>Tuş haritası adı ünlem işaretiyle başlayamaz</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="365"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="375"/>
         <source>Keymap name cannot contain a new-line character</source>
         <translation>Tuş haritası adı yeni satır karakteri içeremez</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="383"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="393"/>
         <source>Scale degree cannot be converted to a whole number</source>
         <translation>Ölçek derecesi tam sayıya dönüştürülemez</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="384"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="394"/>
         <source>Scale degree cannot be negative</source>
         <translation>Ölçek derecesi negatif olamaz</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="481"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="491"/>
         <source>Invalid keymap</source>
         <translation>Geçersiz tuş haritası</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="481"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="491"/>
         <source>Base key is not mapped to any scale degree. No sound will be produced as there is no way to assign reference frequency to any note.</source>
         <translation>Temel anahtar herhangi bir ölçek derecesine eşlenmez. Herhangi bir nota referans frekansı atamanın bir yolu olmadığından ses üretilmeyecektir.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="493"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="503"/>
         <source>Open scale</source>
         <translation>Ölçek açın</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="493"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="577"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="503"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="587"/>
         <source>Scala scale definition (*.scl)</source>
         <translation>Ölçek ölçeği tanımı (*.scl)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="498"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="508"/>
         <source>Scale load failure</source>
         <translation>Ölçek yükleme hatası</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="498"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="533"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="508"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="543"/>
         <source>Unable to open selected file.</source>
         <translation>Seçili dosya açılamıyor.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="528"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="538"/>
         <source>Open keymap</source>
         <translation>Tuş haritasını aç</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="528"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="613"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="538"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="623"/>
         <source>Scala keymap definition (*.kbm)</source>
         <translation>Tuş haritası ölçek tanımı (*.kbm)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="533"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="543"/>
         <source>Keymap load failure</source>
         <translation>Tuş haritası yükleme hatası</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="577"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="587"/>
         <source>Save scale</source>
         <translation>Ölçeği kaydet</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="583"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="593"/>
         <source>Scale save failure</source>
         <translation>Ölçek kaydetme hatası</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="583"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="619"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="593"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="629"/>
         <source>Unable to open selected file for writing.</source>
         <translation>Seçili dosya yazmak için açılamıyor.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="613"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="623"/>
         <source>Save keymap</source>
         <translation>Tuş haritasını kaydet</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="619"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="629"/>
         <source>Keymap save failure</source>
         <translation>Tuş haritası kaydetme hatası</translation>
     </message>
@@ -13238,37 +13243,37 @@ Anahtarı devre dışı bırakmak / eşlenmemiş olarak bırakmak istiyorsanız 
 <context>
     <name>lmms::gui::MixerView</name>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="70"/>
+        <location filename="../../src/gui/MixerView.cpp" line="80"/>
         <source>Mixer</source>
         <translation>FX-Karıştırıcısı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="287"/>
+        <location filename="../../src/gui/MixerView.cpp" line="297"/>
         <source>Fader %1</source>
         <translation>FX Fader %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="296"/>
+        <location filename="../../src/gui/MixerView.cpp" line="306"/>
         <source>Mute</source>
         <translation>Sustur</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="304"/>
+        <location filename="../../src/gui/MixerView.cpp" line="314"/>
         <source>Mute this channel</source>
         <translation>Bu kanalı sessize al</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="306"/>
+        <location filename="../../src/gui/MixerView.cpp" line="316"/>
         <source>Solo</source>
         <translation>Tek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="316"/>
+        <location filename="../../src/gui/MixerView.cpp" line="326"/>
         <source>Solo this channel</source>
         <translation>Bu kanalı yalnız</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="450"/>
+        <location filename="../../src/gui/MixerView.cpp" line="460"/>
         <source>This Mixer Channel is being used.
 Are you sure you want to remove this channel?
 
@@ -13279,12 +13284,12 @@ Bu kanalı kaldırmak istediğinizden emin misiniz?
 Uyarı: Bu işlem geri alınamaz.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="454"/>
+        <location filename="../../src/gui/MixerView.cpp" line="464"/>
         <source>Confirm removal</source>
         <translation>Kaldırma işlemini onayla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="455"/>
+        <location filename="../../src/gui/MixerView.cpp" line="465"/>
         <source>Don&apos;t ask again</source>
         <translation>Tekrar sorma</translation>
     </message>
@@ -13759,48 +13764,48 @@ Uyarı: Bu işlem geri alınamaz.</translation>
 <context>
     <name>lmms::gui::OrganicInstrumentView</name>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="437"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="433"/>
         <source>Distortion:</source>
         <translation>Çarpıtma:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="445"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="441"/>
         <source>Volume:</source>
         <translation>Ses Düzeyi:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="449"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="445"/>
         <source>Randomise</source>
         <translation>Rastgele</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="512"/>
-        <location filename="../../plugins/Organic/Organic.cpp" line="558"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="508"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="554"/>
         <source>Osc %1 waveform:</source>
         <translation>Osc %1 dalga biçimi:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="519"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="515"/>
         <source>Osc %1 volume:</source>
         <translation>Osc %1 düzeyi:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="525"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="521"/>
         <source>Osc %1 panning:</source>
         <translation>Osc %1 kaydırma:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="531"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="527"/>
         <source>Osc %1 stereo detuning</source>
         <translation>Osc %1 stereo perdeleme</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="533"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="529"/>
         <source>cents</source>
         <translation>sent</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="556"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="552"/>
         <source>Osc %1 harmonic:</source>
         <translation>Osc %1 harmonik:</translation>
     </message>
@@ -14031,118 +14036,118 @@ Uyarı: Bu işlem geri alınamaz.</translation>
 <context>
     <name>lmms::gui::PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="224"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="223"/>
         <source>Note Velocity</source>
         <translation>Nota Hızı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="225"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="224"/>
         <source>Note Panning</source>
         <translation>Nota Kaydırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="238"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="237"/>
         <source>Mark/unmark current semitone</source>
         <translation>Geçerli yarım tonu işaretle / işareti kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="239"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="238"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>İlgili tüm oktav yarı tonlarını işaretle / işareti kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="240"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="239"/>
         <source>Mark current scale</source>
         <translation>Mevcut ölçeği işaretle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="241"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="240"/>
         <source>Mark current chord</source>
         <translation>Geçerli akoru işaretle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="242"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="241"/>
         <source>Unmark all</source>
         <translation>Hepsinin işaretini kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="243"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="242"/>
         <source>Select all notes on this key</source>
         <translation>Bu anahtardaki tüm notaları seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="361"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="360"/>
         <source>Note lock</source>
         <translation>Nota kilidi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="371"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="370"/>
         <source>Last note</source>
         <translation>Son nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="395"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="394"/>
         <source>No key</source>
         <translation>Anahtar yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="408"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="407"/>
         <source>No scale</source>
         <translation>Ölçek yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="425"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="424"/>
         <source>No chord</source>
         <translation>Akord yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="455"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="454"/>
         <source>Nudge</source>
         <translation>Dürtme</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="456"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="455"/>
         <source>Snap</source>
         <translation>Yapış</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="497"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="496"/>
         <source>Velocity: %1%</source>
         <translation>Hız: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="506"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="505"/>
         <source>Panning: %1% left</source>
         <translation>Kaydırma: %1% sola</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="510"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="509"/>
         <source>Panning: %1% right</source>
         <translation>Kaydırma: %1% sağa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="514"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="513"/>
         <source>Panning: center</source>
         <translation>Kaydırma: merkez</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="682"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="681"/>
         <source>Glue notes failed</source>
         <translation>Yapışkan notaları başarısız oldu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="683"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="682"/>
         <source>Please select notes to glue first.</source>
         <translation>Lütfen önce yapıştırılacak notaları seçin.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3643"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3642"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation>Lütfen üzerine çift tıklayarak bir desen açın!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4280"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4299"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4279"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4298"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Lütfen %1 ile %2 arasında yeni bir değer girin:</translation>
     </message>
@@ -14150,241 +14155,241 @@ Uyarı: Bu işlem geri alınamaz.</translation>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
         <source>Play/pause current clip (Space)</source>
         <translation>Seçili bölümü oynat/durdur (Boşluk Tuşu)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>MIDI aygıtında/kanal piyanodan notaları kaydedin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation>Şarkı veya kalıp parçasını çalarken MIDI cihazından/kanal piyanosundan notlar kaydedin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>MIDI aygıtından/kanal piyanodan notaları bir seferde bir adım kaydedin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>Seçili modeli oynatmayı durdur (Boşluk Tuşu)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
         <source>Edit actions</source>
         <translation>İşlemleri düzenle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Çizim modu (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Silgi modu (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
         <source>Select mode (Shift+S)</source>
         <translation>Modu seçin (Shift + S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4767"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Pitch Bend modu (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
         <source>Quantize</source>
         <translation>Niceleme</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4783"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
         <source>Quantize positions</source>
         <translation>Niceleme pozisyonları</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4784"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4783"/>
         <source>Quantize lengths</source>
         <translation>Niceleme uzunlukları</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4804"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
         <source>File actions</source>
         <translation>Dosya işlemleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
         <source>Import clip</source>
         <translation>Deseni içe aktar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4814"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5269"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4813"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
         <source>Export clip</source>
         <translation>Deseni dışa aktar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
         <source>Copy paste controls</source>
         <translation>Kopyala yapıştır kontrolleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4827"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
         <source>Cut (%1+X)</source>
         <translation>Kes (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4829"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
         <source>Copy (%1+C)</source>
         <translation>Kopyala (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4831"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4830"/>
         <source>Paste (%1+V)</source>
         <translation>Yapıştır (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
         <source>Timeline controls</source>
         <translation>Zaman çizelgesi kontrolleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4854"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
         <source>Glue</source>
         <translation>Yapıştırıcı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4857"/>
         <source>Knife</source>
         <translation>Bıçak</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4862"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4861"/>
         <source>Fill</source>
         <translation>Dolgu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4866"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4865"/>
         <source>Cut overlaps</source>
         <translation>Örtüşmeleri kes</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4870"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
         <source>Min length as last</source>
         <translation>Son olarak en düşük uzunluk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4873"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4872"/>
         <source>Max length as last</source>
         <translation>Son olarak en yüksek uzunluk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4888"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4887"/>
         <source>Zoom and note controls</source>
         <translation>Yakınlaştırma ve nota kontrolleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4896"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
         <source>Horizontal zooming</source>
         <translation>Yatay yakınlaştırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4904"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4903"/>
         <source>Vertical zooming</source>
         <translation>Dikey yakınlaştırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4913"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4912"/>
         <source>Quantization</source>
         <translation>Niceleme</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4922"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4921"/>
         <source>Note length</source>
         <translation>Nota uzunluğu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4928"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4927"/>
         <source>Key</source>
         <translation>Anahtar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4937"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4936"/>
         <source>Scale</source>
         <translation>Ölçek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4946"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4945"/>
         <source>Chord</source>
         <translation>Kiriş</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4955"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4954"/>
         <source>Snap mode</source>
         <translation>Anlık çekim modu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4960"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4959"/>
         <source>Clear ghost notes</source>
         <translation>Hayalet notaları temizle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5069"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5246"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5068"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5245"/>
         <source>Piano-Roll - %1</source>
         <translation>Piyano Rulosu -%1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5076"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5251"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5075"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5250"/>
         <source>Piano-Roll - no clip</source>
         <translation>Piyano Rulosu - desen yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5270"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5317"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5269"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5316"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation>XML desen dosyası (*.xpt *.xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5290"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
         <source>Export clip success</source>
         <translation>Deseni dışa aktarma başarılı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5291"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5290"/>
         <source>Clip saved to %1</source>
         <translation>Desen %1&apos;e kaydedildi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
         <source>Import clip.</source>
         <translation>Deseni içe aktar.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5307"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation>Bir kalıp almak üzeresiniz, bu mevcut kalıbınızın üzerine yazılacaktır. Devam etmek istiyor musun?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5316"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
         <source>Open clip</source>
         <translation>Desen aç</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5336"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
         <source>Import clip success</source>
         <translation>Desen başarılı şekilde içe aktarıldı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5337"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5336"/>
         <source>Imported clip %1!</source>
         <translation>%1 deseni içe aktarıldı!</translation>
     </message>
@@ -14936,47 +14941,47 @@ Uyarı: Bu işlem geri alınamaz.</translation>
 <context>
     <name>lmms::gui::SampleTrackWindow</name>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="63"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="73"/>
         <source>GENERAL SETTINGS</source>
         <translation>GENEL AYARLAR</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="97"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="107"/>
         <source>Sample volume</source>
         <translation>Örnek düzey</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="99"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="109"/>
         <source>Volume:</source>
         <translation>Ses Düzeyi:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="104"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="114"/>
         <source>VOL</source>
         <translation>SES</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="111"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="121"/>
         <source>Panning</source>
         <translation>Kaydırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="112"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="122"/>
         <source>Panning:</source>
         <translation>Kaydırma:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="117"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="127"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="127"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="137"/>
         <source>Mixer channel</source>
         <translation>FX kanalı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="132"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="142"/>
         <source>CHANNEL</source>
         <translation>KANAL</translation>
     </message>
@@ -15347,69 +15352,69 @@ Gecikme: %2 ms</translation>
 <context>
     <name>lmms::gui::Sf2InstrumentView</name>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="969"/>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1178"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="967"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1176"/>
         <source>Open SoundFont file</source>
         <translation>Ses Yazı Tipi dosyasını aç</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="981"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="979"/>
         <source>Choose patch</source>
         <translation>Yama seçin</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1015"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1013"/>
         <source>Gain:</source>
         <translation>Kazanç:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1028"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1026"/>
         <source>Apply reverb (if supported)</source>
         <translation>Yankı uygula (destekleniyorsa)</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1032"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1030"/>
         <source>Room size:</source>
         <translation>Oda boyutu:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1036"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1034"/>
         <source>Damping:</source>
         <translation>Sönümleme:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1040"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1038"/>
         <source>Width:</source>
         <translation>En:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1044"/>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1071"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1042"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1069"/>
         <source>Level:</source>
         <translation>Düzey:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1064"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1062"/>
         <source>Apply chorus (if supported)</source>
         <translation>Koro uygula (destekleniyorsa)</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1067"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1065"/>
         <source>Voices:</source>
         <translation>Sesler:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1075"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1073"/>
         <source>Speed:</source>
         <translation>Hız:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1079"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1077"/>
         <source>Depth:</source>
         <translation>Derinlik:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1182"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1180"/>
         <source>SoundFont Files (*.sf2 *.sf3)</source>
         <translation>Ses Yazı Tipi Dosyaları (*.sf2 *.sf3)</translation>
     </message>
@@ -15417,126 +15422,126 @@ Gecikme: %2 ms</translation>
 <context>
     <name>lmms::gui::SidInstrumentView</name>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="490"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="488"/>
         <source>Volume:</source>
         <translation>Ses Düzeyi:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="494"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="492"/>
         <source>Resonance:</source>
         <translation>Rezonans:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="498"/>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="685"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="496"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="683"/>
         <source>Cutoff frequency:</source>
         <translation>Kesim frekansı:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="505"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="503"/>
         <source>High-pass filter </source>
         <translation>Yüksek geçişli filtre </translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="511"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="509"/>
         <source>Band-pass filter </source>
         <translation>Bant geçişli filtre </translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="517"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="515"/>
         <source>Low-pass filter </source>
         <translation>Düşük geçişli filtre </translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="529"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="527"/>
         <source>Voice 3 off </source>
         <translation>Ses 3 kapalı </translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="535"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="533"/>
         <source>MOS6581 SID </source>
         <translation>MOS6581 SID </translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="541"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="539"/>
         <source>MOS8580 SID </source>
         <translation>MOS8580 SID </translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="550"/>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="660"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="548"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="658"/>
         <source>Attack:</source>
         <translation>Saldırı:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="554"/>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="666"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="552"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="664"/>
         <source>Decay:</source>
         <translation>Bozunma:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="558"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="556"/>
         <source>Sustain:</source>
         <translation>Sürdürmek:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="562"/>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="672"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="560"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="670"/>
         <source>Release:</source>
         <translation>Yayınla:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="566"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="564"/>
         <source>Pulse Width:</source>
         <translation>Darbe genişliği:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="570"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="568"/>
         <source>Coarse:</source>
         <translation>Kaba:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="579"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="577"/>
         <source>Pulse wave</source>
         <translation>Nabız dalgası</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="587"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="585"/>
         <source>Triangle wave</source>
         <translation>Üçgen dalga</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="595"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="593"/>
         <source>Saw wave</source>
         <translation>Testere dalga</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="603"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="601"/>
         <source>Noise</source>
         <translation>Gürültü</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="619"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="617"/>
         <source>Sync</source>
         <translation>Eşitle</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="628"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="626"/>
         <source>Ring modulation</source>
         <translation>Halka modülasyonu</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="637"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="635"/>
         <source>Filtered</source>
         <translation>Filtrelenmiş</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="646"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="644"/>
         <source>Test</source>
         <translation>Dene</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="678"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="676"/>
         <source>Pulse width:</source>
         <translation>Darbe genişliği:</translation>
     </message>
@@ -15606,76 +15611,91 @@ Gecikme: %2 ms</translation>
         <translation>%1 yazmak için açılamadı. Muhtemelen bu dosyaya yazma izniniz yok. Lütfen dosyaya yazma erişiminiz olduğundan emin olun ve tekrar deneyin.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1834"/>
+        <location filename="../../src/core/DataFile.cpp" line="1825"/>
         <source>Error in file</source>
         <translation>Dosyada hata</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1835"/>
+        <location filename="../../src/core/DataFile.cpp" line="1826"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Görünüşe göre %1 dosyası hatalar içeriyor ve bu nedenle yüklenemiyor.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1875"/>
+        <location filename="../../src/core/DataFile.cpp" line="1866"/>
         <source>template</source>
         <translation>şablon</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1875"/>
+        <location filename="../../src/core/DataFile.cpp" line="1866"/>
         <source>project</source>
         <translation>proje</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1878"/>
+        <location filename="../../src/core/DataFile.cpp" line="1869"/>
         <source>Version difference</source>
         <translation>Sürüm farkı</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1879"/>
+        <location filename="../../src/core/DataFile.cpp" line="1870"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>Bu %1, %2 LMMS ile oluşturuldu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="123"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="80"/>
+        <source>Zoom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="140"/>
         <source>Tempo</source>
         <translation>Tempo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="125"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="142"/>
         <source>TEMPO</source>
         <translation>TEMPO</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="126"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="143"/>
         <source>Tempo in BPM</source>
         <translation>BPM&apos;de Tempo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="132"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="149"/>
         <source>High quality mode</source>
         <translation>Yüksek kalite modu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="155"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="162"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="174"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="172"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="179"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="191"/>
         <source>Master volume</source>
         <translation>Ana ses</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="187"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="194"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="205"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="204"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="211"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="222"/>
         <source>Global transposition</source>
         <translation>Genel aktarma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="684"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="326"/>
+        <source>1/%1 Bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="330"/>
+        <source>%1 Bars</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="681"/>
         <source>Value: %1%</source>
         <translation>Değer: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="726"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="723"/>
         <source>Value: %1 keys</source>
         <translation>Değer: %1 anahtar</translation>
     </message>
@@ -15683,118 +15703,119 @@ Gecikme: %2 ms</translation>
 <context>
     <name>lmms::gui::SongEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="924"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="946"/>
         <source>Song-Editor</source>
         <translation>Şarkı-Düzenleyici</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="934"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="956"/>
         <source>Play song (Space)</source>
         <translation>Şarkıyı başlat (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="935"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="957"/>
         <source>Record samples from Audio-device</source>
         <translation>Ses cihazından örnekleri kaydedin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="936"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="958"/>
         <source>Record samples from Audio-device while playing song or pattern track</source>
         <translation>Şarkı veya kalıp parçası çalarken Ses cihazından örnekler kaydedin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="937"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="959"/>
         <source>Stop song (Space)</source>
         <translation>Şarkıyı durdur (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="941"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="963"/>
         <source>Track actions</source>
         <translation>Parça eylemleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="944"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="966"/>
         <source>Add pattern-track</source>
         <translation>Kalıp-parça ekle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="947"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="969"/>
         <source>Add sample-track</source>
         <translation>Örnek parça ekle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="950"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="972"/>
         <source>Add automation-track</source>
         <translation>Ayarkayıt parçası ekle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="962"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="984"/>
         <source>Edit actions</source>
         <translation>İşlemleri düzenle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="965"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="987"/>
         <source>Draw mode</source>
         <translation>Çizim kipi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="966"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="988"/>
         <source>Knife mode (split sample clips)</source>
         <translation>Bıçak modu (örnek klipleri ayır)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="967"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="989"/>
         <source>Edit mode (select and move)</source>
         <translation>Düzenleme modu (seç ve taşı)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="978"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1000"/>
         <source>Timeline controls</source>
         <translation>Zaman çizelgesi kontrolleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="981"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1003"/>
         <source>Bar insert controls</source>
         <translation>Çubuk ekleme kontrolleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="982"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1004"/>
         <source>Insert bar</source>
         <translation>Çubuk ekle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="983"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1005"/>
         <source>Remove bar</source>
         <translation>Çubuğu kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="989"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1011"/>
         <source>Zoom controls</source>
         <translation>Yakınlaştırma kontrolleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="999"/>
-        <source>Horizontal zooming</source>
-        <translation>Yatay yakınlaştırma</translation>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1017"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1023"/>
+        <source>Zoom</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1005"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1030"/>
         <source>Snap controls</source>
         <translation>Yapış denetimleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1013"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1048"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1038"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1073"/>
         <source>Clip snapping size</source>
         <translation>Klip yapışma boyutu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1017"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1042"/>
         <source>Toggle proportional snap on/off</source>
         <translation>Orantılı tutturmayı aç/kapat</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1044"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1069"/>
         <source>Base snapping size</source>
         <translation>Taban yapışma boyutu</translation>
     </message>
@@ -15876,6 +15897,90 @@ Gecikme: %2 ms</translation>
     </message>
 </context>
 <context>
+    <name>lmms::gui::TapTempoView</name>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="55"/>
+        <source>0</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="57"/>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="60"/>
+        <source>Precision</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="59"/>
+        <source>Display in high precision</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="62"/>
+        <source>0.0 ms</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="64"/>
+        <source>Mute metronome</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="65"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="69"/>
+        <source>BPM in milliseconds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="70"/>
+        <source>0 ms</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="74"/>
+        <source>Frequency of BPM</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="75"/>
+        <source>0.0000 hz</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="77"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="79"/>
+        <source>Reset counter and sidebar information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="81"/>
+        <source>Sync</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="83"/>
+        <source>Sync with project tempo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="151"/>
+        <source>%1 ms</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="152"/>
+        <source>%1 hz</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>lmms::gui::TemplatesMenu</name>
     <message>
         <location filename="../../src/gui/menus/TemplatesMenu.cpp" line="17"/>
@@ -15887,92 +15992,92 @@ Gecikme: %2 ms</translation>
     <name>lmms::gui::TempoSyncKnob</name>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="49"/>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="210"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="209"/>
         <source>Tempo Sync</source>
         <translation>Tempo Senkronizasyonu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="107"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="106"/>
         <source>No Sync</source>
         <translation>Senkronizasyon yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="111"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="110"/>
         <source>Eight beats</source>
         <translation>Sekiz vuruş</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="117"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="116"/>
         <source>Whole note</source>
         <translation>Tam nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="123"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="122"/>
         <source>Half note</source>
         <translation>Yarım nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="129"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="128"/>
         <source>Quarter note</source>
         <translation>Çeyrek nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="135"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="134"/>
         <source>8th note</source>
         <translation>8&apos;lik nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="141"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="140"/>
         <source>16th note</source>
         <translation>16&apos;lık nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="145"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="144"/>
         <source>32nd note</source>
         <translation>32&apos;lik nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="148"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="147"/>
         <source>Custom...</source>
         <translation>Özel...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="170"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="169"/>
         <source>Custom </source>
         <translation>Özel </translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="178"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="177"/>
         <source>Synced to Eight Beats</source>
         <translation>Sekiz Vuruşla Senkronize Edildi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="182"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="181"/>
         <source>Synced to Whole Note</source>
         <translation>Tüm Nota Senkronize Edildi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="186"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="185"/>
         <source>Synced to Half Note</source>
         <translation>Yarım Nota Senkronize Edildi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="190"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="189"/>
         <source>Synced to Quarter Note</source>
         <translation>Çeyrek Nota Senkronize Edildi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="194"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="193"/>
         <source>Synced to 8th Note</source>
         <translation>8. Nota senkronize edildi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="198"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="197"/>
         <source>Synced to 16th Note</source>
         <translation>16. Nota senkronize edildi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="202"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="201"/>
         <source>Synced to 32nd Note</source>
         <translation>32. Nota senkronize edildi</translation>
     </message>
@@ -16018,37 +16123,37 @@ Gecikme: %2 ms</translation>
 <context>
     <name>lmms::gui::TimeLineWidget</name>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="125"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="131"/>
         <source>Auto scrolling</source>
         <translation>Otomatik kaydırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="132"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="138"/>
         <source>Loop points</source>
         <translation>Döngü noktaları</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="142"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="148"/>
         <source>After stopping go back to beginning</source>
         <translation>Durduktan sonra başa dön</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="145"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="151"/>
         <source>After stopping go back to position at which playing was started</source>
         <translation>Durduktan sonra oyunun başladığı konuma geri dönün</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="149"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="155"/>
         <source>After stopping keep position</source>
         <translation>Durduktan sonra pozisyonunuzu koruyun</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="351"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="359"/>
         <source>Hint</source>
         <translation>İpucu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="352"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="360"/>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
         <translation>Manyetik döngü noktalarını devre dışı bırakmak için &lt;%1&gt; tuşuna basın.</translation>
     </message>
@@ -16056,7 +16161,7 @@ Gecikme: %2 ms</translation>
 <context>
     <name>lmms::gui::TrackContentWidget</name>
     <message>
-        <location filename="../../src/gui/tracks/TrackContentWidget.cpp" line="656"/>
+        <location filename="../../src/gui/tracks/TrackContentWidget.cpp" line="658"/>
         <source>Paste</source>
         <translation>Yapıştır</translation>
     </message>
@@ -16454,164 +16559,164 @@ Gecikme: %2 ms</translation>
 <context>
     <name>lmms::gui::VibedView</name>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="363"/>
-        <source>String volume:</source>
-        <translation>Dize hacmi:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="367"/>
-        <source>String stiffness:</source>
-        <translation>Dize sertliği:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="373"/>
-        <source>Pick position:</source>
-        <translation>Pozisyon seçin:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="377"/>
-        <source>Pickup position:</source>
-        <translation>Alış konumu:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="382"/>
-        <source>String panning:</source>
-        <translation>Dize kaydırma:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="386"/>
-        <source>String detune:</source>
-        <translation>Dize detayı:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="390"/>
-        <source>String fuzziness:</source>
-        <translation>Dize belirsizliği:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="395"/>
-        <source>String length:</source>
-        <translation>Dize uzunluğu:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="401"/>
-        <source>Impulse</source>
-        <translation>Dürtü</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="426"/>
-        <source>Octave</source>
-        <translation>Octave</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="453"/>
-        <source>Impulse Editor</source>
-        <translation>Dürtü Düzenleyici</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="459"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="285"/>
         <source>Enable waveform</source>
         <translation>Dalga biçimini etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="462"/>
-        <source>Enable/disable string</source>
-        <translation>Dizeyi etkinleştir / devre dışı bırak</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="466"/>
-        <source>String</source>
-        <translation>Dize</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="473"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="480"/>
-        <source>Sine wave</source>
-        <translation>Sinüs dalgası</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="485"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="492"/>
-        <source>Triangle wave</source>
-        <translation>Üçgen dalga</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="497"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="504"/>
-        <source>Saw wave</source>
-        <translation>Testere dalga</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="509"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="516"/>
-        <source>Square wave</source>
-        <translation>Kare dalgası</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="521"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="528"/>
-        <source>White noise</source>
-        <translation>Beyaz gürültü</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="533"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="540"/>
-        <source>User-defined wave</source>
-        <translation>Kullanıcı tanımlı dalga</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="545"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="553"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="286"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="397"/>
         <source>Smooth waveform</source>
         <translation>Düzgün dalga formu</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="557"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="565"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="287"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="404"/>
         <source>Normalize waveform</source>
         <translation>Dalga formunu normalleştir</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="288"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="410"/>
+        <source>Sine wave</source>
+        <translation>Sinüs dalgası</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="289"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="416"/>
+        <source>Triangle wave</source>
+        <translation>Üçgen dalga</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="290"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="422"/>
+        <source>Saw wave</source>
+        <translation>Testere dalga</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="291"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="428"/>
+        <source>Square wave</source>
+        <translation>Kare dalgası</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="292"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="434"/>
+        <source>White noise</source>
+        <translation>Beyaz gürültü</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="293"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="440"/>
+        <source>User-defined wave</source>
+        <translation>Kullanıcı tanımlı dalga</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="302"/>
+        <source>String volume:</source>
+        <translation>Dize hacmi:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="305"/>
+        <source>String stiffness:</source>
+        <translation>Dize sertliği:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="308"/>
+        <source>Pick position:</source>
+        <translation>Pozisyon seçin:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="311"/>
+        <source>Pickup position:</source>
+        <translation>Alış konumu:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="314"/>
+        <source>String panning:</source>
+        <translation>Dize kaydırma:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="317"/>
+        <source>String detune:</source>
+        <translation>Dize detayı:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="320"/>
+        <source>String fuzziness:</source>
+        <translation>Dize belirsizliği:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="323"/>
+        <source>String length:</source>
+        <translation>Dize uzunluğu:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="325"/>
+        <source>Impulse Editor</source>
+        <translation>Dürtü Düzenleyici</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="331"/>
+        <source>Impulse</source>
+        <translation>Dürtü</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="334"/>
+        <source>Enable/disable string</source>
+        <translation>Dizeyi etkinleştir / devre dışı bırak</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="360"/>
+        <source>Octave</source>
+        <translation>Octave</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="387"/>
+        <source>String</source>
+        <translation>Dize</translation>
     </message>
 </context>
 <context>
     <name>lmms::gui::VstEffectControlDialog</name>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="76"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="86"/>
         <source>Show/hide</source>
         <translation>Göster/gizle</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="103"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="113"/>
         <source>Control VST plugin from LMMS host</source>
         <translation>LMMS ana bilgisayarından VST eklentisini kontrol edin</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="119"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="129"/>
         <source>Open VST plugin preset</source>
         <translation>VST eklenti ön ayarını aç</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="139"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="149"/>
         <source>Previous (-)</source>
         <translation>Önceki (-)</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="161"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="171"/>
         <source>Next (+)</source>
         <translation>Sonraki (+)</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="195"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="205"/>
         <source>Save preset</source>
         <translation>Ön ayarı kaydet</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="238"/>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="253"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="248"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="263"/>
         <source>Effect by: </source>
         <translation>Efektler: </translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="254"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="264"/>
         <source>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</source>
         <translation>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</translation>
     </message>

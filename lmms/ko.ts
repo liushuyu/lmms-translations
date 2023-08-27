@@ -3348,7 +3348,7 @@ JUCE는 GNU Public License 버전 2.0에 따라 사용이 허가되었습니다.
         <translation>기본 내장 앰프 플러그인</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="62"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="61"/>
         <source>Simple sampler with various settings for using samples (e.g. drums) in an instrument-track</source>
         <translation>악기 트랙에서 샘플(예: 드럼)을 사용하기 위한 다양한 설정이 있는 간단한 샘플러</translation>
     </message>
@@ -3428,7 +3428,7 @@ JUCE는 GNU Public License 버전 2.0에 따라 사용이 허가되었습니다.
         <translation>Hydrogen 파일을 LMMS로 읽어오기 위한 필터링</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="54"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="53"/>
         <source>Versatile drum synthesizer</source>
         <translation>다용도 드럼 신시사이저</translation>
     </message>
@@ -3488,7 +3488,7 @@ JUCE는 GNU Public License 버전 2.0에 따라 사용이 허가되었습니다.
         <translation>2-오퍼레이터 FM 신시사이저</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="55"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="51"/>
         <source>Additive Synthesizer for organ-like sounds</source>
         <translation>오르간과 비슷한 소리를 내는 부가적 신시사이저</translation>
     </message>
@@ -3560,7 +3560,7 @@ This chip was used in the Commodore 64 computer.</source>
         <translation>LMMS 내에서 VST(i) 플러그인을 사용하기 위한 VST 호스트</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="57"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="56"/>
         <source>Vibrating string modeler</source>
         <translation>진동 스트링 모델러</translation>
     </message>
@@ -3593,6 +3593,11 @@ This chip was used in the Commodore 64 computer.</source>
         <location filename="../../plugins/Dispersion/Dispersion.cpp" line="40"/>
         <source>An all-pass filter allowing for extremely high orders.</source>
         <translation>올패스 필터로 매우 높은 오더를 처리할 수 있습니다.</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempo.cpp" line="50"/>
+        <source>Tap to the beat</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4079,12 +4084,12 @@ Plugin Name
 <context>
     <name>PluginFactory</name>
     <message>
-        <location filename="../../src/core/PluginFactory.cpp" line="140"/>
+        <location filename="../../src/core/PluginFactory.cpp" line="139"/>
         <source>Plugin not found.</source>
         <translation>플러그인을 찾을 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/PluginFactory.cpp" line="189"/>
+        <location filename="../../src/core/PluginFactory.cpp" line="188"/>
         <source>LMMS plugin %1 does not have a plugin descriptor named %2!</source>
         <translation>LMMS 플러그인 %1은(는) 이름이 %2인 플러그인 디스크립터를 가지고 있지 않습니다!</translation>
     </message>
@@ -4484,62 +4489,62 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>lmms::AudioFileProcessor</name>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="82"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="81"/>
         <source>Amplify</source>
         <translation>증폭하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="83"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="82"/>
         <source>Start of sample</source>
         <translation>샘플의 시작</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="84"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="83"/>
         <source>End of sample</source>
         <translation>샘플의 끝</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="85"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="84"/>
         <source>Loopback point</source>
         <translation>루프백 포인트</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="86"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="85"/>
         <source>Reverse sample</source>
         <translation>리버스 샘플</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="87"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="86"/>
         <source>Loop mode</source>
         <translation>루프 모드</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="88"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="87"/>
         <source>Stutter</source>
         <translation>Stutter</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="89"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="88"/>
         <source>Interpolation mode</source>
         <translation>인터폴레이션 모드</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="107"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="106"/>
         <source>None</source>
         <translation>없음</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="108"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="107"/>
         <source>Linear</source>
         <translation>리니어</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="109"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="108"/>
         <source>Sinc</source>
         <translation>Sinc</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="241"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="237"/>
         <source>Sample not found: %1</source>
         <translation>샘플을 찾을 수 없음: %1</translation>
     </message>
@@ -5758,97 +5763,97 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>lmms::InstrumentFunctionArpeggio</name>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="298"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="300"/>
         <source>Arpeggio</source>
         <translation>아르페지오</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="300"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="302"/>
         <source>Arpeggio type</source>
         <translation>아르페지오 유형</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="301"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="303"/>
         <source>Arpeggio range</source>
         <translation>아르페지오 범위</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="302"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="304"/>
         <source>Note repeats</source>
         <translation>노트 반복</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="303"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
         <source>Cycle steps</source>
         <translation>사이클 스탭</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="304"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="306"/>
         <source>Skip rate</source>
         <translation>스킵 비율</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="305"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="307"/>
         <source>Miss rate</source>
         <translation>누락 비율</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="306"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
         <source>Arpeggio time</source>
         <translation>아르페지오 시간</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="307"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
         <source>Arpeggio gate</source>
         <translation>아르페지오 게이트</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="308"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="310"/>
         <source>Arpeggio direction</source>
         <translation>아르페지오 방향</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="309"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="311"/>
         <source>Arpeggio mode</source>
         <translation>아르페지오 모드</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="317"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
         <source>Up</source>
         <translation>위로</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="318"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
         <source>Down</source>
         <translation>아래로</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="319"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
         <source>Up and down</source>
         <translation>위 다음 아래</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="320"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="322"/>
         <source>Down and up</source>
         <translation>아래 다음 위</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="321"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="323"/>
         <source>Random</source>
         <translation>무작위</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="324"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
         <source>Free</source>
         <translation>자유</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="325"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="327"/>
         <source>Sort</source>
         <translation>정렬</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="326"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="328"/>
         <source>Sync</source>
         <translation>싱크</translation>
     </message>
@@ -5856,17 +5861,17 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>lmms::InstrumentFunctionNoteStacking</name>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="208"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="209"/>
         <source>Chords</source>
         <translation>코드</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="210"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="211"/>
         <source>Chord type</source>
         <translation>코드 유형</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentFunctions.cpp" line="211"/>
+        <location filename="../../src/core/InstrumentFunctions.cpp" line="212"/>
         <source>Chord range</source>
         <translation>코드 범위</translation>
     </message>
@@ -6085,62 +6090,62 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>lmms::KickerInstrument</name>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="69"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="68"/>
         <source>Start frequency</source>
         <translation>시작 주파수</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="70"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="69"/>
         <source>End frequency</source>
         <translation>끝 주파수</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="71"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="70"/>
         <source>Length</source>
         <translation>길이</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="72"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="71"/>
         <source>Start distortion</source>
         <translation>시작 디스토션</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="73"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="72"/>
         <source>End distortion</source>
         <translation>끝 디스토션</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="74"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="73"/>
         <source>Gain</source>
         <translation>게인</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="75"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="74"/>
         <source>Envelope slope</source>
         <translation>엔벨로프 슬로프</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="76"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="75"/>
         <source>Noise</source>
         <translation>잡음</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="77"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="76"/>
         <source>Click</source>
         <translation>클릭</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="78"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="77"/>
         <source>Frequency slope</source>
         <translation>주파수 슬로프</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="79"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="78"/>
         <source>Start from note</source>
         <translation>시작을 노트에서</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="80"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="79"/>
         <source>End to note</source>
         <translation>끝을 노트까지</translation>
     </message>
@@ -6580,29 +6585,29 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>lmms::Mixer</name>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="708"/>
+        <location filename="../../src/core/Mixer.cpp" line="721"/>
         <source>Master</source>
         <translation>마스터</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="708"/>
-        <location filename="../../src/core/Mixer.cpp" line="829"/>
-        <location filename="../../src/core/Mixer.cpp" line="831"/>
+        <location filename="../../src/core/Mixer.cpp" line="721"/>
+        <location filename="../../src/core/Mixer.cpp" line="842"/>
+        <location filename="../../src/core/Mixer.cpp" line="844"/>
         <source>Channel %1</source>
         <translation>채널 %1</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="709"/>
+        <location filename="../../src/core/Mixer.cpp" line="722"/>
         <source>Volume</source>
         <translation>볼륨</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="710"/>
+        <location filename="../../src/core/Mixer.cpp" line="723"/>
         <source>Mute</source>
         <translation>음소거</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="711"/>
+        <location filename="../../src/core/Mixer.cpp" line="724"/>
         <source>Solo</source>
         <translation>솔로 연주</translation>
     </message>
@@ -7466,12 +7471,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>lmms::OrganicInstrument</name>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="82"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="80"/>
         <source>Distortion</source>
         <translation>디스토션</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="83"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="81"/>
         <source>Volume</source>
         <translation>볼륨</translation>
     </message>
@@ -7479,29 +7484,29 @@ You can disable these checks to get a faster scanning time (at your own risk).</
 <context>
     <name>lmms::OscillatorObject</name>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="571"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="567"/>
         <source>Osc %1 waveform</source>
         <translation>Osc %1 파형</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="573"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="569"/>
         <source>Osc %1 harmonic</source>
         <translation>Osc %1 하모닉</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="575"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="571"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="73"/>
         <source>Osc %1 volume</source>
         <translation>Osc %1 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="577"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="573"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="75"/>
         <source>Osc %1 panning</source>
         <translation>Osc %1 패닝</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="579"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="575"/>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="80"/>
         <source>Osc %1 fine detuning left</source>
         <translation>Osc %1 파인 디튜닝 좌측</translation>
@@ -7558,12 +7563,12 @@ You can disable these checks to get a faster scanning time (at your own risk).</
         <translation>피크 컨트롤러</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="217"/>
+        <location filename="../../src/core/PeakController.cpp" line="214"/>
         <source>Peak Controller Bug</source>
         <translation>피크 컨트롤러 버그</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="218"/>
+        <location filename="../../src/core/PeakController.cpp" line="215"/>
         <source>Due to a bug in older version of LMMS, the peak controllers may not be connect properly. Please ensure that peak controllers are connected properly and re-save this file. Sorry for any inconvenience caused.</source>
         <translation>이전 버전 LMMS의 버그로 인해 피크 컨트롤러가 제대로 연결되지 않았을 수 있습니다. 피크 컨트롤러가 제대로 연결되었는지 확인 후 이 파일을 다시 저장해 주시기 바랍니다. 불편을 드려 죄송합니다.</translation>
     </message>
@@ -8068,32 +8073,32 @@ Reason: &quot;%2&quot;</source>
         <translation>마스터 피치</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1040"/>
+        <location filename="../../src/core/Song.cpp" line="1042"/>
         <source>Aborting project load</source>
         <translation>프로젝트 불러오기 중단하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1041"/>
+        <location filename="../../src/core/Song.cpp" line="1043"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
         <translation>프로젝트 파일에는 악성 코드를 실행하는 데 사용될 수 있는 플러그인의 로컬 경로가 포함되어 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1046"/>
+        <location filename="../../src/core/Song.cpp" line="1048"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
         <translation>프로젝트 불러올 수 없음: 프로젝트 파일에 플러그인에 대한 로컬 경로가 포함되어 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1212"/>
+        <location filename="../../src/core/Song.cpp" line="1214"/>
         <source>LMMS Error report</source>
         <translation>LMMS 오류 보고</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1509"/>
+        <location filename="../../src/core/Song.cpp" line="1511"/>
         <source> (repeated %1 times)</source>
         <translation> (%1번 반복됨)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1516"/>
+        <location filename="../../src/core/Song.cpp" line="1518"/>
         <source>The following errors occurred while loading: </source>
         <translation>불러오는 동안 다음 오류가 발생했습니다: </translation>
     </message>
@@ -8240,52 +8245,52 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::Vibed</name>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="82"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="107"/>
         <source>String %1 volume</source>
         <translation>스트링 %1 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="86"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="109"/>
         <source>String %1 stiffness</source>
         <translation>스트링 %1 스티프니스</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="90"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="111"/>
         <source>Pick %1 position</source>
         <translation>픽 %1 포지션</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="94"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="113"/>
         <source>Pickup %1 position</source>
         <translation>픽업 %1 포지션</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="98"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="115"/>
         <source>String %1 panning</source>
         <translation>스트링 %1 패닝</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="102"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="117"/>
         <source>String %1 detune</source>
         <translation>스트링 %1 디튠</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="106"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="119"/>
         <source>String %1 fuzziness</source>
         <translation>스트링 %1 퍼지니스</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="110"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="121"/>
         <source>String %1 length</source>
         <translation>스트링 %1 길이</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="114"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="123"/>
         <source>Impulse %1</source>
         <translation>임펄스 %1</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="118"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="124"/>
         <source>String %1</source>
         <translation>스트링 %1</translation>
     </message>
@@ -8732,52 +8737,52 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::AudioFileProcessorView</name>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="469"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="464"/>
         <source>Open sample</source>
         <translation>샘플 열기</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="478"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="473"/>
         <source>Reverse sample</source>
         <translation>리버스 샘플</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="489"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="484"/>
         <source>Disable loop</source>
         <translation>루프 비활성화</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="498"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="493"/>
         <source>Enable loop</source>
         <translation>루프 활성화</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="507"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="502"/>
         <source>Enable ping-pong loop</source>
         <translation>핑-퐁 루프 활성화</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="522"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="517"/>
         <source>Continue sample playback across notes</source>
         <translation>노트 전체에 걸쳐 샘플 재생 계속하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="527"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="522"/>
         <source>Amplify:</source>
         <translation>Amplify:</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="531"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="526"/>
         <source>Start point:</source>
         <translation>시작점:</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="535"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="530"/>
         <source>End point:</source>
         <translation>끝점:</translation>
     </message>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="539"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="534"/>
         <source>Loopback point:</source>
         <translation>루프백 포인트:</translation>
     </message>
@@ -8785,7 +8790,7 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::AudioFileProcessorWaveView</name>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="981"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessor.cpp" line="974"/>
         <source>Sample length:</source>
         <translation>샘플 길이:</translation>
     </message>
@@ -9017,64 +9022,64 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::BitInvaderView</name>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="351"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="350"/>
         <source>Sample length</source>
         <translation>샘플 길이</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="358"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="357"/>
         <source>Draw your own waveform here by dragging your mouse on this graph.</source>
         <translation>이 그래프 위에 마우스를 드래그하여 여기에 나만의 파형을 그려보세요.</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="369"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="376"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="368"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="375"/>
         <source>Sine wave</source>
         <translation>사인파</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="378"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="385"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="377"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="384"/>
         <source>Triangle wave</source>
         <translation>삼각파</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="387"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="394"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="386"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="393"/>
         <source>Saw wave</source>
         <translation>톱니파</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="396"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="403"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="395"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="402"/>
         <source>Square wave</source>
         <translation>사각파</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="406"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="413"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="405"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="412"/>
         <source>White noise</source>
         <translation>백색 잡음</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="415"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="422"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="414"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="421"/>
         <source>User-defined wave</source>
         <translation>사용자 정의된 파형</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="424"/>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="431"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="423"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="430"/>
         <source>Smooth waveform</source>
         <translation>부드러운 파형</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="435"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="434"/>
         <source>Interpolation</source>
         <translation>인터폴레이션</translation>
     </message>
     <message>
-        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="440"/>
+        <location filename="../../plugins/BitInvader/BitInvader.cpp" line="439"/>
         <source>Normalize</source>
         <translation>노멀라이즈</translation>
     </message>
@@ -9227,103 +9232,103 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::ClipView</name>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="705"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="707"/>
         <source>Current position</source>
         <translation>현재 포지션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="713"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="715"/>
         <source>Current length</source>
         <translation>현재 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="714"/>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="979"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="716"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="981"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 ~ %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="733"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="735"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>&lt;%1&gt;을 누르고 드래그하여 복사합니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="734"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="736"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>자유롭게 크기를 조정하려면 &lt;%1&gt;을 누르십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="735"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="737"/>
         <source>Hint</source>
         <translation>힌트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1078"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1080"/>
         <source>Delete (middle mousebutton)</source>
         <translation>삭제하기 (마우스 가운데 버튼)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1079"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1081"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation>선택항목 삭제하기 (마우스 가운데 버튼)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1087"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1089"/>
         <source>Cut</source>
         <translation>잘라내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1088"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1090"/>
         <source>Cut selection</source>
         <translation>선택항목 잘라내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1095"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1097"/>
         <source>Merge Selection</source>
         <translation>선택항목 합치기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1104"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1106"/>
         <source>Copy</source>
         <translation>복사하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1105"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1107"/>
         <source>Copy selection</source>
         <translation>선택항목 복사하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1110"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1112"/>
         <source>Paste</source>
         <translation>붙여넣기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1118"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1120"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>음소거/음소거 해제 (&lt;%1&gt; + 가운데 버튼 클릭)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1119"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1121"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation>선택항목 음소거/음소거 해제 (&lt;%1&gt; + 가운데 버튼 클릭)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1124"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1126"/>
         <source>Clip color</source>
         <translation>클립 색상</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1126"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1128"/>
         <source>Change</source>
         <translation>변경하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1127"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1129"/>
         <source>Reset</source>
         <translation>재설정</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1128"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1130"/>
         <source>Pick random</source>
         <translation>무작위 고르기</translation>
     </message>
@@ -9747,12 +9752,12 @@ Please make sure you have read-permission to the file and the directory containi
         <translation>취소</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="332"/>
+        <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="334"/>
         <source>LMMS</source>
         <translation>LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="332"/>
+        <location filename="../../src/gui/modals/ControllerConnectionDialog.cpp" line="334"/>
         <source>Cycle Detected.</source>
         <translation>사이클이 감지되었습니다.</translation>
     </message>
@@ -10420,17 +10425,17 @@ Please make sure you have read-permission to the file and the directory containi
         <translation>이 LFO로 엔벨로프 양 제어하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="508"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="509"/>
         <source>ms/LFO:</source>
         <translation>ms/LFO:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="524"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="525"/>
         <source>Hint</source>
         <translation>힌트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="525"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="526"/>
         <source>Drag and drop a sample into this window.</source>
         <translation>샘플을 이 창으로 끌어다 놓으세요.</translation>
     </message>
@@ -10962,23 +10967,23 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>lmms::gui::GigInstrumentView</name>
     <message>
-        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="937"/>
-        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1040"/>
+        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="935"/>
+        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1038"/>
         <source>Open GIG file</source>
         <translation>GIG 파일 열기</translation>
     </message>
     <message>
-        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="949"/>
+        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="947"/>
         <source>Choose patch</source>
         <translation>패치 고르기</translation>
     </message>
     <message>
-        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="966"/>
+        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="964"/>
         <source>Gain:</source>
         <translation>게인:</translation>
     </message>
     <message>
-        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1044"/>
+        <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="1042"/>
         <source>GIG Files (*.gig)</source>
         <translation>GIG 파일 (*.gig)</translation>
     </message>
@@ -11523,52 +11528,52 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>lmms::gui::KickerInstrumentView</name>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="281"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="279"/>
         <source>Start frequency:</source>
         <translation>시작 주파수:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="285"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="283"/>
         <source>End frequency:</source>
         <translation>끝 주파수:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="289"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="287"/>
         <source>Frequency slope:</source>
         <translation>주파수 슬로프:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="293"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="291"/>
         <source>Gain:</source>
         <translation>게인:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="297"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="295"/>
         <source>Envelope length:</source>
         <translation>엔벨로프 길이:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="301"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="299"/>
         <source>Envelope slope:</source>
         <translation>엔벨로프 슬로프:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="305"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="303"/>
         <source>Click:</source>
         <translation>클릭:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="309"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="307"/>
         <source>Noise:</source>
         <translation>잡음:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="313"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="311"/>
         <source>Start distortion:</source>
         <translation>시작 디스토션:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Kicker/Kicker.cpp" line="317"/>
+        <location filename="../../plugins/Kicker/Kicker.cpp" line="315"/>
         <source>End distortion:</source>
         <translation>끝 디스토션:</translation>
     </message>
@@ -11586,18 +11591,18 @@ Please make sure you have write permission to the file and the directory contain
         <translation>로가리듬 설정하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="761"/>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="778"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="803"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="820"/>
         <source>Set value</source>
         <translation>값 설정하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="762"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="804"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>-96.0 dBFS부터 6.0 dBFS까지의 값을 입력하세요:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Knob.cpp" line="779"/>
+        <location filename="../../src/gui/widgets/Knob.cpp" line="821"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>%1부터 %2까지의 값을 입력하세요:</translation>
     </message>
@@ -12083,22 +12088,22 @@ Double click to pick a file.</source>
 <context>
     <name>lmms::gui::MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="520"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="508"/>
         <source>Configuration file</source>
         <translation>구성 파일</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="521"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="509"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>%1:%2 줄에서 구성 파일을 분석하는 동안 오류: %3</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="638"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="626"/>
         <source>Could not open file</source>
         <translation>파일을 열 수 없음</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="639"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="627"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>쓰기 위한 %1 파일을 열 수 없습니다.
@@ -12722,23 +12727,23 @@ LMMS에 대한 문서는 http://lmms.sf.net/wiki를 방문하세요.</translatio
 <context>
     <name>lmms::gui::ManageVSTEffectView</name>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="329"/>
+        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="339"/>
         <source> - VST parameter control</source>
         <translation> - VST 매개변수 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="338"/>
+        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="348"/>
         <source>VST sync</source>
         <translation>VST 싱크</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="344"/>
-        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="468"/>
+        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="354"/>
+        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="478"/>
         <source>Automated</source>
         <translation>자동화됨</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="351"/>
+        <location filename="../../plugins/VstEffect/VstEffectControls.cpp" line="361"/>
         <source>    Close    </source>
         <translation>    닫기    </translation>
     </message>
@@ -12812,64 +12817,64 @@ LMMS에 대한 문서는 http://lmms.sf.net/wiki를 방문하세요.</translatio
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="61"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="144"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="154"/>
         <source>First key</source>
         <translation>처음 노트</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="62"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="150"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="160"/>
         <source>Last key</source>
         <translation>처음 노트</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="63"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="156"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="166"/>
         <source>Middle key</source>
         <translation>중간 키</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="64"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="162"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="172"/>
         <source>Base key</source>
         <translation>기준 키</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="65"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="168"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="171"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="178"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="181"/>
         <source>Base note frequency</source>
         <translation>기본 노트 주파수</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="68"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="78"/>
         <source>Microtuner</source>
         <translation>마이크로튜너</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="77"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="87"/>
         <source>Scale:</source>
         <translation>스케일:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="90"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="100"/>
         <source>Scale description. Cannot start with &quot;!&quot; and cannot contain a newline character.</source>
         <translation>스케일 설명입니다. &quot;!&quot;로 시작할 수 없고 개행 문자를 포함할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="93"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="128"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="103"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="138"/>
         <source>Load</source>
         <translation>불러오기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="94"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="129"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="104"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="139"/>
         <source>Save</source>
         <translation>저장하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="102"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="112"/>
         <source>Enter intervals on separate lines. Numbers containing a decimal point are treated as cents.
 Other inputs are treated as integer ratios and must be in the form of 'a/b' or 'a'.
 Unity (0.0 cents or ratio 1/1) is always present as a hidden first value; do not enter it manually.</source>
@@ -12878,22 +12883,22 @@ Unity (0.0 cents or ratio 1/1) is always present as a hidden first value; do not
 단수(0.0 센트 또는 레시오 1/1)는 항상 숨겨진 첫 번째 값으로 표시되므로 수동으로 입력하지 마세요.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="105"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="115"/>
         <source>Apply scale</source>
         <translation>스케일 적용하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="112"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="122"/>
         <source>Keymap:</source>
         <translation>키맵:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="125"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="135"/>
         <source>Keymap description. Cannot start with &quot;!&quot; and cannot contain a newline character.</source>
         <translation>키맵 설명입니다. &quot;!&quot;로 시작할 수 없고 개행 문자를 포함할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="137"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="147"/>
         <source>Enter key mappings on separate lines. Each line assigns a scale degree to a MIDI key,
 starting with the middle key and continuing in sequence.
 The pattern repeats for keys outside of the explicit keymap range.
@@ -12906,186 +12911,186 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 키를 비활성화/매핑하지 않으려면 &apos;X&apos;를 입력합니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="145"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="155"/>
         <source>FIRST</source>
         <translation>FIRST</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="146"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="156"/>
         <source>First MIDI key that will be mapped</source>
         <translation>매핑될 첫 번째 미디 키</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="151"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="161"/>
         <source>LAST</source>
         <translation>LAST</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="152"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="162"/>
         <source>Last MIDI key that will be mapped</source>
         <translation>매핑될 마지막 MIDI 키</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="157"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="167"/>
         <source>MIDDLE</source>
         <translation>MIDDLE</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="158"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="168"/>
         <source>First line in the keymap refers to this MIDI key</source>
         <translation>키맵의 첫 번째 줄은 이 미디 키를 나타냅니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="163"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="173"/>
         <source>BASE N.</source>
         <translation>BASE N.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="164"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="174"/>
         <source>Base note frequency will be assigned to this MIDI key</source>
         <translation>기본 노트 주파수가 이 MIDI 키에 할당됩니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="169"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="179"/>
         <source>BASE NOTE FREQ</source>
         <translation>기본 노트 주파수</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="174"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="184"/>
         <source>Apply keymap</source>
         <translation>키맵 적용하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="312"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="322"/>
         <source>Scale parsing error</source>
         <translation>스케일 분석중 오류</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="316"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="326"/>
         <source>Scale name cannot start with an exclamation mark</source>
         <translation>스케일 이름은 느낌표로 시작할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="317"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="327"/>
         <source>Scale name cannot contain a new-line character</source>
         <translation>스케일 이름은 개행 문자를 포함할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="334"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="344"/>
         <source>Interval defined in cents cannot be converted to a number</source>
         <translation>센트 단위로 정의된 간격은 숫자로 변환할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="341"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="351"/>
         <source>Numerator of an interval defined as a ratio cannot be converted to a number</source>
         <translation>레시오로 정의된 간격의 분자는 숫자로 변환할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="346"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="356"/>
         <source>Denominator of an interval defined as a ratio cannot be converted to a number</source>
         <translation>레시오로 정의된 간격의 분모는 숫자로 변환할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="347"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="357"/>
         <source>Interval defined as a ratio cannot be negative</source>
         <translation>레시오로 정의된 간격은 음수가 될 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="360"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="370"/>
         <source>Keymap parsing error</source>
         <translation>키맵 분석중 오류</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="364"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="374"/>
         <source>Keymap name cannot start with an exclamation mark</source>
         <translation>키맵 이름은 느낌표로 시작할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="365"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="375"/>
         <source>Keymap name cannot contain a new-line character</source>
         <translation>키맵 이름은 개행 문자를 포함할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="383"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="393"/>
         <source>Scale degree cannot be converted to a whole number</source>
         <translation>스케일 디그리는 정수로 변환할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="384"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="394"/>
         <source>Scale degree cannot be negative</source>
         <translation>스케일 디그리는 음수일 수 없습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="481"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="491"/>
         <source>Invalid keymap</source>
         <translation>잘못된 키맵</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="481"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="491"/>
         <source>Base key is not mapped to any scale degree. No sound will be produced as there is no way to assign reference frequency to any note.</source>
         <translation>기본 키는 스케일 디그리에 매핑되지 않습니다. 노트에 레퍼런스 주파수를 할당할 방법이 없으므로 소리가 나지 않습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="493"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="503"/>
         <source>Open scale</source>
         <translation>스케일 열기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="493"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="577"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="503"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="587"/>
         <source>Scala scale definition (*.scl)</source>
         <translation>Scala 스케일 정의 (*.scl)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="498"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="508"/>
         <source>Scale load failure</source>
         <translation>스케일 불러오기 실패</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="498"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="533"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="508"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="543"/>
         <source>Unable to open selected file.</source>
         <translation>선택한 파일을 열 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="528"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="538"/>
         <source>Open keymap</source>
         <translation>키맵 열기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="528"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="613"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="538"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="623"/>
         <source>Scala keymap definition (*.kbm)</source>
         <translation>Scala 키맵 정의 (*.kbm)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="533"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="543"/>
         <source>Keymap load failure</source>
         <translation>키맵 불러오기 실패</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="577"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="587"/>
         <source>Save scale</source>
         <translation>스케일 저장하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="583"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="593"/>
         <source>Scale save failure</source>
         <translation>스케일 저장 실패</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="583"/>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="619"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="593"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="629"/>
         <source>Unable to open selected file for writing.</source>
         <translation>쓰기 위해 선택한 파일을 열 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="613"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="623"/>
         <source>Save keymap</source>
         <translation>키맵 저장하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MicrotunerConfig.cpp" line="619"/>
+        <location filename="../../src/gui/MicrotunerConfig.cpp" line="629"/>
         <source>Keymap save failure</source>
         <translation>키맵 저장 실패</translation>
     </message>
@@ -13240,37 +13245,37 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>lmms::gui::MixerView</name>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="70"/>
+        <location filename="../../src/gui/MixerView.cpp" line="80"/>
         <source>Mixer</source>
         <translation>믹서</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="287"/>
+        <location filename="../../src/gui/MixerView.cpp" line="297"/>
         <source>Fader %1</source>
         <translation>페이더 %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="296"/>
+        <location filename="../../src/gui/MixerView.cpp" line="306"/>
         <source>Mute</source>
         <translation>음소거</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="304"/>
+        <location filename="../../src/gui/MixerView.cpp" line="314"/>
         <source>Mute this channel</source>
         <translation>이 채널 음소거</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="306"/>
+        <location filename="../../src/gui/MixerView.cpp" line="316"/>
         <source>Solo</source>
         <translation>솔로 연주</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="316"/>
+        <location filename="../../src/gui/MixerView.cpp" line="326"/>
         <source>Solo this channel</source>
         <translation>이 채널 솔로 연주</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="450"/>
+        <location filename="../../src/gui/MixerView.cpp" line="460"/>
         <source>This Mixer Channel is being used.
 Are you sure you want to remove this channel?
 
@@ -13278,12 +13283,12 @@ Warning: This operation can not be undone.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="454"/>
+        <location filename="../../src/gui/MixerView.cpp" line="464"/>
         <source>Confirm removal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerView.cpp" line="455"/>
+        <location filename="../../src/gui/MixerView.cpp" line="465"/>
         <source>Don&apos;t ask again</source>
         <translation type="unfinished"/>
     </message>
@@ -13758,48 +13763,48 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::OrganicInstrumentView</name>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="437"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="433"/>
         <source>Distortion:</source>
         <translation>디스토션:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="445"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="441"/>
         <source>Volume:</source>
         <translation>볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="449"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="445"/>
         <source>Randomise</source>
         <translation>무작위화</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="512"/>
-        <location filename="../../plugins/Organic/Organic.cpp" line="558"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="508"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="554"/>
         <source>Osc %1 waveform:</source>
         <translation>Osc %1 파형:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="519"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="515"/>
         <source>Osc %1 volume:</source>
         <translation>Osc %1 볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="525"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="521"/>
         <source>Osc %1 panning:</source>
         <translation>Osc %1 패닝:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="531"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="527"/>
         <source>Osc %1 stereo detuning</source>
         <translation>Osc %1 스테레오 디튜닝</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="533"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="529"/>
         <source>cents</source>
         <translation>센트</translation>
     </message>
     <message>
-        <location filename="../../plugins/Organic/Organic.cpp" line="556"/>
+        <location filename="../../plugins/Organic/Organic.cpp" line="552"/>
         <source>Osc %1 harmonic:</source>
         <translation>Osc %1 하모닉:</translation>
     </message>
@@ -14030,118 +14035,118 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="224"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="223"/>
         <source>Note Velocity</source>
         <translation>노트 벨로시티</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="225"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="224"/>
         <source>Note Panning</source>
         <translation>노트 패닝</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="238"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="237"/>
         <source>Mark/unmark current semitone</source>
         <translation>현재 반음 마킹하기/마킹해제</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="239"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="238"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>해당하는 모든 옥타브 반음 마킹하기/마킹해제</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="240"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="239"/>
         <source>Mark current scale</source>
         <translation>현재 스케일 마킹하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="241"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="240"/>
         <source>Mark current chord</source>
         <translation>현재 코드 마킹하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="242"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="241"/>
         <source>Unmark all</source>
         <translation>모두 마킹해제</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="243"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="242"/>
         <source>Select all notes on this key</source>
         <translation>이 키의 노트 모두 선택하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="361"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="360"/>
         <source>Note lock</source>
         <translation>노트 잠금</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="371"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="370"/>
         <source>Last note</source>
         <translation>마지막 노트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="395"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="394"/>
         <source>No key</source>
         <translation>키 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="408"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="407"/>
         <source>No scale</source>
         <translation>스케일 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="425"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="424"/>
         <source>No chord</source>
         <translation>코드 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="455"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="454"/>
         <source>Nudge</source>
         <translation>넛지</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="456"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="455"/>
         <source>Snap</source>
         <translation>스냅</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="497"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="496"/>
         <source>Velocity: %1%</source>
         <translation>벨로시티: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="506"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="505"/>
         <source>Panning: %1% left</source>
         <translation>패닝: %1% 좌측</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="510"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="509"/>
         <source>Panning: %1% right</source>
         <translation>패닝: %1% 우측</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="514"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="513"/>
         <source>Panning: center</source>
         <translation>패닝: 중앙</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="682"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="681"/>
         <source>Glue notes failed</source>
         <translation>노트 붙이기 실패</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="683"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="682"/>
         <source>Please select notes to glue first.</source>
         <translation>먼저 붙여넣을 노트를 선택하세요.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3643"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3642"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation>클립을 두 번 클릭하여 열어주세요!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4280"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4299"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4279"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4298"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>%1부터 %2까지의 값을 입력하세요:</translation>
     </message>
@@ -14149,241 +14154,241 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
         <source>Play/pause current clip (Space)</source>
         <translation>현재 클립 연주하기/일시중지 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>MIDI 디바이스/채널 피아노에서 노트 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation>노래 또는 패턴 트랙을 연주하는 동안 MIDI 디바이스/채널 피아노에서 노트 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>MIDI 디바이스/채널 피아노에서 한 번에 한 스탭씩 노트 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>현재 클립 연주 중지하기 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
         <source>Edit actions</source>
         <translation>편집 작업</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
         <source>Draw mode (Shift+D)</source>
         <translation>그리기 모드 (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Erase mode (Shift+E)</source>
         <translation>지우기 모드 (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
         <source>Select mode (Shift+S)</source>
         <translation>선택하기 모드 (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4767"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>피치 밴드 모드 (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
         <source>Quantize</source>
         <translation>퀀타이즈</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4783"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
         <source>Quantize positions</source>
         <translation>퀀타이즈 포지션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4784"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4783"/>
         <source>Quantize lengths</source>
         <translation>퀀타이즈 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4804"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
         <source>File actions</source>
         <translation>파일 작업</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
         <source>Import clip</source>
         <translation>클립 가져오기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4814"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5269"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4813"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
         <source>Export clip</source>
         <translation>클립 내보내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
         <source>Copy paste controls</source>
         <translation>복사 붙여넣기 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4827"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
         <source>Cut (%1+X)</source>
         <translation>잘라내기 (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4829"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
         <source>Copy (%1+C)</source>
         <translation>복사하기 (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4831"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4830"/>
         <source>Paste (%1+V)</source>
         <translation>붙여넣기 (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4846"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
         <source>Timeline controls</source>
         <translation>타임라인 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4854"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
         <source>Glue</source>
         <translation>붙이기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4857"/>
         <source>Knife</source>
         <translation>자르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4862"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4861"/>
         <source>Fill</source>
         <translation>채우기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4866"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4865"/>
         <source>Cut overlaps</source>
         <translation>오버랩 잘라내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4870"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
         <source>Min length as last</source>
         <translation>마지막 최소 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4873"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4872"/>
         <source>Max length as last</source>
         <translation>마지막 최대 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4888"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4887"/>
         <source>Zoom and note controls</source>
         <translation>확대/축소 및 노트 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4896"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
         <source>Horizontal zooming</source>
         <translation>수평 주밍</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4904"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4903"/>
         <source>Vertical zooming</source>
         <translation>수직 주밍</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4913"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4912"/>
         <source>Quantization</source>
         <translation>퀀티제이션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4922"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4921"/>
         <source>Note length</source>
         <translation>노트 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4928"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4927"/>
         <source>Key</source>
         <translation>키</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4937"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4936"/>
         <source>Scale</source>
         <translation>스케일</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4946"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4945"/>
         <source>Chord</source>
         <translation>코드</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4955"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4954"/>
         <source>Snap mode</source>
         <translation>스냅 모드</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4960"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4959"/>
         <source>Clear ghost notes</source>
         <translation>고스트 노트 지우기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5069"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5246"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5068"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5245"/>
         <source>Piano-Roll - %1</source>
         <translation>피아노-롤 - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5076"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5251"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5075"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5250"/>
         <source>Piano-Roll - no clip</source>
         <translation>피아노-롤 - 클립 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5270"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5317"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5269"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5316"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation>XML 클립 파일 (*.xpt *.xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5290"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
         <source>Export clip success</source>
         <translation>클립 내보내기 성공</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5291"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5290"/>
         <source>Clip saved to %1</source>
         <translation>%1에 저장된 클립</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
         <source>Import clip.</source>
         <translation>클립을 가져옵니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5307"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5306"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation>클립을 가져오려는 중이며, 사용자의 현재 클립을 덮어씁니다. 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5316"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
         <source>Open clip</source>
         <translation>클립 열기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5336"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
         <source>Import clip success</source>
         <translation>클립 가져오기 성공</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5337"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5336"/>
         <source>Imported clip %1!</source>
         <translation>%1 클립을 가져왔습니다!</translation>
     </message>
@@ -14935,47 +14940,47 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::SampleTrackWindow</name>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="63"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="73"/>
         <source>GENERAL SETTINGS</source>
         <translation>일반 설정</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="97"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="107"/>
         <source>Sample volume</source>
         <translation>샘플 볼륨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="99"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="109"/>
         <source>Volume:</source>
         <translation>볼륨:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="104"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="114"/>
         <source>VOL</source>
         <translation>볼륨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="111"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="121"/>
         <source>Panning</source>
         <translation>패닝</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="112"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="122"/>
         <source>Panning:</source>
         <translation>패닝:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="117"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="127"/>
         <source>PAN</source>
         <translation>패닝</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="127"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="137"/>
         <source>Mixer channel</source>
         <translation>믹서 채널</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="132"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="142"/>
         <source>CHANNEL</source>
         <translation>채널</translation>
     </message>
@@ -15346,69 +15351,69 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::Sf2InstrumentView</name>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="969"/>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1178"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="967"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1176"/>
         <source>Open SoundFont file</source>
         <translation>사운드폰트 파일 열기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="981"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="979"/>
         <source>Choose patch</source>
         <translation>패치 고르기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1015"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1013"/>
         <source>Gain:</source>
         <translation>게인:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1028"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1026"/>
         <source>Apply reverb (if supported)</source>
         <translation>리버브 적용 (지원될 경우)</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1032"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1030"/>
         <source>Room size:</source>
         <translation>공간 크기:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1036"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1034"/>
         <source>Damping:</source>
         <translation>진폭 감소:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1040"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1038"/>
         <source>Width:</source>
         <translation>폭:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1044"/>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1071"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1042"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1069"/>
         <source>Level:</source>
         <translation>레벨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1064"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1062"/>
         <source>Apply chorus (if supported)</source>
         <translation>코러스 적용 (지원될 경우)</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1067"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1065"/>
         <source>Voices:</source>
         <translation>보이스:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1075"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1073"/>
         <source>Speed:</source>
         <translation>속도:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1079"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1077"/>
         <source>Depth:</source>
         <translation>깊이:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1182"/>
+        <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1180"/>
         <source>SoundFont Files (*.sf2 *.sf3)</source>
         <translation>사운드폰트 파일 (*.sf2 *.sf3)</translation>
     </message>
@@ -15416,126 +15421,126 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::SidInstrumentView</name>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="490"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="488"/>
         <source>Volume:</source>
         <translation>볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="494"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="492"/>
         <source>Resonance:</source>
         <translation>공명:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="498"/>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="685"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="496"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="683"/>
         <source>Cutoff frequency:</source>
         <translation>컷오프 주파수:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="505"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="503"/>
         <source>High-pass filter </source>
         <translation>하이패스 필터 </translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="511"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="509"/>
         <source>Band-pass filter </source>
         <translation>밴드패스 필터 </translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="517"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="515"/>
         <source>Low-pass filter </source>
         <translation>로패스 필터 </translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="529"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="527"/>
         <source>Voice 3 off </source>
         <translation>보이스 3 끔 </translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="535"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="533"/>
         <source>MOS6581 SID </source>
         <translation>MOS6581 SID </translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="541"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="539"/>
         <source>MOS8580 SID </source>
         <translation>MOS8580 SID </translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="550"/>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="660"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="548"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="658"/>
         <source>Attack:</source>
         <translation>어택:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="554"/>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="666"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="552"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="664"/>
         <source>Decay:</source>
         <translation>디케이:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="558"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="556"/>
         <source>Sustain:</source>
         <translation>서스테인:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="562"/>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="672"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="560"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="670"/>
         <source>Release:</source>
         <translation>릴리즈:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="566"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="564"/>
         <source>Pulse Width:</source>
         <translation>펄스 폭:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="570"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="568"/>
         <source>Coarse:</source>
         <translation>코어스:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="579"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="577"/>
         <source>Pulse wave</source>
         <translation>펄스파</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="587"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="585"/>
         <source>Triangle wave</source>
         <translation>삼각파</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="595"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="593"/>
         <source>Saw wave</source>
         <translation>톱니파</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="603"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="601"/>
         <source>Noise</source>
         <translation>잡음</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="619"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="617"/>
         <source>Sync</source>
         <translation>싱크</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="628"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="626"/>
         <source>Ring modulation</source>
         <translation>종소리 모듈레이션</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="637"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="635"/>
         <source>Filtered</source>
         <translation>필터링됨</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="646"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="644"/>
         <source>Test</source>
         <translation>테스트</translation>
     </message>
     <message>
-        <location filename="../../plugins/Sid/SidInstrument.cpp" line="678"/>
+        <location filename="../../plugins/Sid/SidInstrument.cpp" line="676"/>
         <source>Pulse width:</source>
         <translation>펄스 폭:</translation>
     </message>
@@ -15605,76 +15610,91 @@ Latency: %2 ms</source>
         <translation>쓰기 위한 %1 파일을 열 수 없습니다. 이 파일에 대한 쓰기 권한이 없을 수 있습니다. 파일에 대한 쓰기 권한이 있는지 확인한 후 다시 시도하세요.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1834"/>
+        <location filename="../../src/core/DataFile.cpp" line="1825"/>
         <source>Error in file</source>
         <translation>파일에서 오류 발생</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1835"/>
+        <location filename="../../src/core/DataFile.cpp" line="1826"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>%1 파일에 오류가 있는 것 같으므로 불러올 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1875"/>
+        <location filename="../../src/core/DataFile.cpp" line="1866"/>
         <source>template</source>
         <translation>템플릿</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1875"/>
+        <location filename="../../src/core/DataFile.cpp" line="1866"/>
         <source>project</source>
         <translation>프로젝트</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1878"/>
+        <location filename="../../src/core/DataFile.cpp" line="1869"/>
         <source>Version difference</source>
         <translation>버전 차이</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1879"/>
+        <location filename="../../src/core/DataFile.cpp" line="1870"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>이 %1은(는) LMMS %2(으)로 만들어졌습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="123"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="80"/>
+        <source>Zoom</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="140"/>
         <source>Tempo</source>
         <translation>템포</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="125"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="142"/>
         <source>TEMPO</source>
         <translation>템포</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="126"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="143"/>
         <source>Tempo in BPM</source>
         <translation>템포 (BPM 단위)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="132"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="149"/>
         <source>High quality mode</source>
         <translation>고음질 모드</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="155"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="162"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="174"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="172"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="179"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="191"/>
         <source>Master volume</source>
         <translation>마스터 볼륨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="187"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="194"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="205"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="204"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="211"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="222"/>
         <source>Global transposition</source>
         <translation>전역 트랜스포지션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="684"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="326"/>
+        <source>1/%1 Bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="330"/>
+        <source>%1 Bars</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="681"/>
         <source>Value: %1%</source>
         <translation>값: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="726"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="723"/>
         <source>Value: %1 keys</source>
         <translation>값: %1% 키</translation>
     </message>
@@ -15682,118 +15702,119 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::SongEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="924"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="946"/>
         <source>Song-Editor</source>
         <translation>노래 편집기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="934"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="956"/>
         <source>Play song (Space)</source>
         <translation>노래 연주하기 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="935"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="957"/>
         <source>Record samples from Audio-device</source>
         <translation>오디오 디바이스에서 샘플 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="936"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="958"/>
         <source>Record samples from Audio-device while playing song or pattern track</source>
         <translation>노래 또는 패턴 트랙을 연주하는 동안 오디오 디바이스에서 샘플 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="937"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="959"/>
         <source>Stop song (Space)</source>
         <translation>노래 중지하기 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="941"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="963"/>
         <source>Track actions</source>
         <translation>트랙 작업</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="944"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="966"/>
         <source>Add pattern-track</source>
         <translation>패턴-트랙 추가하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="947"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="969"/>
         <source>Add sample-track</source>
         <translation>샘플-트랙 추가하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="950"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="972"/>
         <source>Add automation-track</source>
         <translation>오토메이션-트랙 추가하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="962"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="984"/>
         <source>Edit actions</source>
         <translation>편집 작업</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="965"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="987"/>
         <source>Draw mode</source>
         <translation>그리기 모드</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="966"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="988"/>
         <source>Knife mode (split sample clips)</source>
         <translation>자르기 모드 (샘플 클립 분할)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="967"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="989"/>
         <source>Edit mode (select and move)</source>
         <translation>편집 모드 (선택 및 이동)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="978"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1000"/>
         <source>Timeline controls</source>
         <translation>타임라인 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="981"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1003"/>
         <source>Bar insert controls</source>
         <translation>마디 삽입 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="982"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1004"/>
         <source>Insert bar</source>
         <translation>마디 삽입</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="983"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1005"/>
         <source>Remove bar</source>
         <translation>마디 제거하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="989"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1011"/>
         <source>Zoom controls</source>
         <translation>확대/축소 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="999"/>
-        <source>Horizontal zooming</source>
-        <translation>수평 주밍</translation>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1017"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1023"/>
+        <source>Zoom</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1005"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1030"/>
         <source>Snap controls</source>
         <translation>스냅 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1013"/>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1048"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1038"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1073"/>
         <source>Clip snapping size</source>
         <translation>클립 스내핑 크기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1017"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1042"/>
         <source>Toggle proportional snap on/off</source>
         <translation>비례 스냅 켬/끔 전환하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/SongEditor.cpp" line="1044"/>
+        <location filename="../../src/gui/editors/SongEditor.cpp" line="1069"/>
         <source>Base snapping size</source>
         <translation>베이스 스내핑 크기</translation>
     </message>
@@ -15875,6 +15896,90 @@ Latency: %2 ms</source>
     </message>
 </context>
 <context>
+    <name>lmms::gui::TapTempoView</name>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="55"/>
+        <source>0</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="57"/>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="60"/>
+        <source>Precision</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="59"/>
+        <source>Display in high precision</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="62"/>
+        <source>0.0 ms</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="64"/>
+        <source>Mute metronome</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="65"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="69"/>
+        <source>BPM in milliseconds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="70"/>
+        <source>0 ms</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="74"/>
+        <source>Frequency of BPM</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="75"/>
+        <source>0.0000 hz</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="77"/>
+        <source>Reset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="79"/>
+        <source>Reset counter and sidebar information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="81"/>
+        <source>Sync</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="83"/>
+        <source>Sync with project tempo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="151"/>
+        <source>%1 ms</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="152"/>
+        <source>%1 hz</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>lmms::gui::TemplatesMenu</name>
     <message>
         <location filename="../../src/gui/menus/TemplatesMenu.cpp" line="17"/>
@@ -15886,92 +15991,92 @@ Latency: %2 ms</source>
     <name>lmms::gui::TempoSyncKnob</name>
     <message>
         <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="49"/>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="210"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="209"/>
         <source>Tempo Sync</source>
         <translation>템포 싱크</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="107"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="106"/>
         <source>No Sync</source>
         <translation>싱크 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="111"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="110"/>
         <source>Eight beats</source>
         <translation>8비트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="117"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="116"/>
         <source>Whole note</source>
         <translation>온음표</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="123"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="122"/>
         <source>Half note</source>
         <translation>2분음표</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="129"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="128"/>
         <source>Quarter note</source>
         <translation>4분음표</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="135"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="134"/>
         <source>8th note</source>
         <translation>8분음표</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="141"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="140"/>
         <source>16th note</source>
         <translation>16분음표</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="145"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="144"/>
         <source>32nd note</source>
         <translation>32분음표</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="148"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="147"/>
         <source>Custom...</source>
         <translation>사용자 지정...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="170"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="169"/>
         <source>Custom </source>
         <translation>사용자 지정 </translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="178"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="177"/>
         <source>Synced to Eight Beats</source>
         <translation>8비트와 싱크됨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="182"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="181"/>
         <source>Synced to Whole Note</source>
         <translation>온음표에 싱크됨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="186"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="185"/>
         <source>Synced to Half Note</source>
         <translation>2분음표에 싱크됨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="190"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="189"/>
         <source>Synced to Quarter Note</source>
         <translation>4분음표에 싱크됨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="194"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="193"/>
         <source>Synced to 8th Note</source>
         <translation>8분음표에 싱크됨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="198"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="197"/>
         <source>Synced to 16th Note</source>
         <translation>16분음표에 싱크됨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="202"/>
+        <location filename="../../src/gui/widgets/TempoSyncKnob.cpp" line="201"/>
         <source>Synced to 32nd Note</source>
         <translation>32분음표에 싱크됨</translation>
     </message>
@@ -16017,37 +16122,37 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::TimeLineWidget</name>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="125"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="131"/>
         <source>Auto scrolling</source>
         <translation>자동 스크롤링</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="132"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="138"/>
         <source>Loop points</source>
         <translation>루프 포인트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="142"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="148"/>
         <source>After stopping go back to beginning</source>
         <translation>중지한 후 처음으로 돌아가기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="145"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="151"/>
         <source>After stopping go back to position at which playing was started</source>
         <translation>중지한 후 연주가 시작된 위치로 돌아가기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="149"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="155"/>
         <source>After stopping keep position</source>
         <translation>중지한 후 위치 유지하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="351"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="359"/>
         <source>Hint</source>
         <translation>힌트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="352"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="360"/>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
         <translation>마그네틱 루프 포인트를 비활성화하려면 &lt;%1&gt; 키를 누릅니다.</translation>
     </message>
@@ -16055,7 +16160,7 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::TrackContentWidget</name>
     <message>
-        <location filename="../../src/gui/tracks/TrackContentWidget.cpp" line="656"/>
+        <location filename="../../src/gui/tracks/TrackContentWidget.cpp" line="658"/>
         <source>Paste</source>
         <translation>붙여넣기</translation>
     </message>
@@ -16453,164 +16558,164 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::VibedView</name>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="363"/>
-        <source>String volume:</source>
-        <translation>스트링 볼륨:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="367"/>
-        <source>String stiffness:</source>
-        <translation>스트링 스티프니스:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="373"/>
-        <source>Pick position:</source>
-        <translation>픽 포지션:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="377"/>
-        <source>Pickup position:</source>
-        <translation>픽업 포지션:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="382"/>
-        <source>String panning:</source>
-        <translation>스트링 패닝:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="386"/>
-        <source>String detune:</source>
-        <translation>스트링 디튠:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="390"/>
-        <source>String fuzziness:</source>
-        <translation>스트링 퍼지니스:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="395"/>
-        <source>String length:</source>
-        <translation>스트링 길이:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="401"/>
-        <source>Impulse</source>
-        <translation>임펄스</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="426"/>
-        <source>Octave</source>
-        <translation>옥타브</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="453"/>
-        <source>Impulse Editor</source>
-        <translation>임펄스 편집기</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="459"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="285"/>
         <source>Enable waveform</source>
         <translation>파형 활성화</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="462"/>
-        <source>Enable/disable string</source>
-        <translation>스트링 활성화/비활성화</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="466"/>
-        <source>String</source>
-        <translation>스트링</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="473"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="480"/>
-        <source>Sine wave</source>
-        <translation>사인파</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="485"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="492"/>
-        <source>Triangle wave</source>
-        <translation>삼각파</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="497"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="504"/>
-        <source>Saw wave</source>
-        <translation>톱니파</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="509"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="516"/>
-        <source>Square wave</source>
-        <translation>사각파</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="521"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="528"/>
-        <source>White noise</source>
-        <translation>백색 잡음</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="533"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="540"/>
-        <source>User-defined wave</source>
-        <translation>사용자 정의된 파형</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="545"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="553"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="286"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="397"/>
         <source>Smooth waveform</source>
         <translation>부드러운 파형</translation>
     </message>
     <message>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="557"/>
-        <location filename="../../plugins/Vibed/Vibed.cpp" line="565"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="287"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="404"/>
         <source>Normalize waveform</source>
         <translation>노멀라이즈 파형</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="288"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="410"/>
+        <source>Sine wave</source>
+        <translation>사인파</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="289"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="416"/>
+        <source>Triangle wave</source>
+        <translation>삼각파</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="290"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="422"/>
+        <source>Saw wave</source>
+        <translation>톱니파</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="291"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="428"/>
+        <source>Square wave</source>
+        <translation>사각파</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="292"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="434"/>
+        <source>White noise</source>
+        <translation>백색 잡음</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="293"/>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="440"/>
+        <source>User-defined wave</source>
+        <translation>사용자 정의된 파형</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="302"/>
+        <source>String volume:</source>
+        <translation>스트링 볼륨:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="305"/>
+        <source>String stiffness:</source>
+        <translation>스트링 스티프니스:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="308"/>
+        <source>Pick position:</source>
+        <translation>픽 포지션:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="311"/>
+        <source>Pickup position:</source>
+        <translation>픽업 포지션:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="314"/>
+        <source>String panning:</source>
+        <translation>스트링 패닝:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="317"/>
+        <source>String detune:</source>
+        <translation>스트링 디튠:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="320"/>
+        <source>String fuzziness:</source>
+        <translation>스트링 퍼지니스:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="323"/>
+        <source>String length:</source>
+        <translation>스트링 길이:</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="325"/>
+        <source>Impulse Editor</source>
+        <translation>임펄스 편집기</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="331"/>
+        <source>Impulse</source>
+        <translation>임펄스</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="334"/>
+        <source>Enable/disable string</source>
+        <translation>스트링 활성화/비활성화</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="360"/>
+        <source>Octave</source>
+        <translation>옥타브</translation>
+    </message>
+    <message>
+        <location filename="../../plugins/Vibed/Vibed.cpp" line="387"/>
+        <source>String</source>
+        <translation>스트링</translation>
     </message>
 </context>
 <context>
     <name>lmms::gui::VstEffectControlDialog</name>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="76"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="86"/>
         <source>Show/hide</source>
         <translation>표시하기/숨기기</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="103"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="113"/>
         <source>Control VST plugin from LMMS host</source>
         <translation>LMMS 호스트에서 VST 플러그인 제어</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="119"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="129"/>
         <source>Open VST plugin preset</source>
         <translation>VST 플러그인 프리셋 열기</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="139"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="149"/>
         <source>Previous (-)</source>
         <translation>이전 (-)</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="161"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="171"/>
         <source>Next (+)</source>
         <translation>다음 (+)</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="195"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="205"/>
         <source>Save preset</source>
         <translation>프리셋 저장하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="238"/>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="253"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="248"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="263"/>
         <source>Effect by: </source>
         <translation>이펙트: </translation>
     </message>
     <message>
-        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="254"/>
+        <location filename="../../plugins/VstEffect/VstEffectControlDialog.cpp" line="264"/>
         <source>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</source>
         <translation>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;</translation>
     </message>
