@@ -31,12 +31,12 @@ function collect_strings_lmms_io() {
 
 function clone_lmms() {
     abinfo "Cloning LMMS source directory..."
-    git clone --recursive --depth 1 'https://github.com/LMMS/lmms' "$1"
+    git clone --recursive --depth 1 -j4 'https://github.com/LMMS/lmms' "$1"
 }
 
 function clone_lmms_io() {
     abinfo "Cloning lmms.io source directory..."
-    git clone --recursive --depth 1 'https://github.com/LMMS/lmms.io' "$1"
+    git clone --recursive --depth 1 -j4 'https://github.com/LMMS/lmms.io' "$1"
     pushd "$1" > /dev/null 2>&1
     abinfo "Installing PHP libraries..."
     composer install
