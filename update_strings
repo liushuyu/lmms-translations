@@ -14,7 +14,7 @@ function collect_strings_lmms() {
     rm -rf src/3rdparty/qt5-x11embed/3rdparty/ECM/
     fi
 
-    if ! lupdate-qt5 -I include/ src/ plugins/ -ts data/locale/en.ts; then
+    if ! lupdate -I include/ src/ plugins/ -ts data/locale/en.ts; then
     aberr "There are some problems when collecting the strings."
     exit 1
     fi

@@ -6,7 +6,7 @@ function validate_ts() {
   LANG=""
   BUF=""
   for i in ./**/*.ts; do
-    if ! BUF=$(lconvert-qt5 -i "${i}" -o "/tmp/test.qm" -of qm 2>&1); then
+    if ! BUF=$(lconvert -i "${i}" -o "/tmp/test.qm" -of qm 2>&1); then
       LANG+="\e[96m$(basename "${i}")\e[0m: \e[93m${BUF}\e[0m\n"
       printf "\e[31mx\e[0m"
       ERR=1

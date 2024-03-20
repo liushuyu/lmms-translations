@@ -1,7 +1,7 @@
 name: CI
 on:
   workflow_dispatch:
-    inputs:
+    inputs: {}
   schedule:
     - cron: '0 7 * * 0'
   push:
@@ -12,18 +12,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: alpine:edge
+    container: ubuntu:rolling
 
     steps:
       - name: Install Dependencies
         run: |
-          apk update
-          apk add qt5-qttools-dev git bash composer php81-tokenizer php81-simplexml php81-session php81-dom php81-ctype php81-xml php81-pdo php81-openssl php81-intl php81-gd php81-gettext php81-curl gettext coreutils curl
-          curl -sL https://github.com/transifex/cli/releases/download/v1.6.5/tx-linux-amd64.tar.gz -o /tmp/tx.tar.gz
+          apt-get update
+          apt-get install -y qttools5-dev-tools git bash composer php8.2-cli php8.2-intl php8.2-xml php8.2-curl php8.2-gd gettext curl
+          curl -sL https://github.com/transifex/cli/releases/download/v1.6.10/tx-linux-amd64.tar.gz -o /tmp/tx.tar.gz
           tar -C /tmp/ -xf /tmp/tx.tar.gz
           cp -v /tmp/tx /usr/local/bin/tx
-          rm -v /usr/bin/php
-          ln -sv /usr/bin/php81 /usr/bin/php
 
       - uses: actions/checkout@v3
 
