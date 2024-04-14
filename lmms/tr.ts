@@ -11106,6 +11106,44 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
     </message>
 </context>
 <context>
+    <name>lmms::gui::EnvelopeGraph</name>
+    <message>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="65"/>
+        <source>Scaling</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="86"/>
+        <source>Dynamic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="87"/>
+        <source>Uses absolute spacings but switches to relative spacing if it&apos;s running out of space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="90"/>
+        <source>Absolute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="91"/>
+        <source>Provides enough potential space for each segment but does not scale</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="94"/>
+        <source>Relative</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="95"/>
+        <source>Always uses all of the available space to display the envelope graph</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>lmms::gui::EqControlsDialog</name>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="66"/>
@@ -15319,118 +15357,118 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="216"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="217"/>
         <source>Note Velocity</source>
         <translation>Nota Hızı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="217"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="218"/>
         <source>Note Panning</source>
         <translation>Nota Kaydırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="230"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="231"/>
         <source>Mark/unmark current semitone</source>
         <translation>Geçerli yarım tonu işaretle / işareti kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="231"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="232"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>İlgili tüm oktav yarı tonlarını işaretle / işareti kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="232"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="233"/>
         <source>Mark current scale</source>
         <translation>Mevcut ölçeği işaretle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="233"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="234"/>
         <source>Mark current chord</source>
         <translation>Geçerli akoru işaretle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="234"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="235"/>
         <source>Unmark all</source>
         <translation>Hepsinin işaretini kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="235"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="236"/>
         <source>Select all notes on this key</source>
         <translation>Bu anahtardaki tüm notaları seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="323"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="333"/>
         <source>Note lock</source>
         <translation>Nota kilidi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="333"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="343"/>
         <source>Last note</source>
         <translation>Son nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="357"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="367"/>
         <source>No key</source>
         <translation>Anahtar yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="370"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="380"/>
         <source>No scale</source>
         <translation>Ölçek yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="387"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="397"/>
         <source>No chord</source>
         <translation>Akord yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="417"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="427"/>
         <source>Nudge</source>
         <translation>Dürtme</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="418"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="428"/>
         <source>Snap</source>
         <translation>Yapış</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="459"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="469"/>
         <source>Velocity: %1%</source>
         <translation>Hız: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="468"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="478"/>
         <source>Panning: %1% left</source>
         <translation>Kaydırma: %1% sola</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="472"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="482"/>
         <source>Panning: %1% right</source>
         <translation>Kaydırma: %1% sağa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="476"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="486"/>
         <source>Panning: center</source>
         <translation>Kaydırma: merkez</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="644"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="654"/>
         <source>Glue notes failed</source>
         <translation>Yapışkan notaları başarısız oldu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="645"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="655"/>
         <source>Please select notes to glue first.</source>
         <translation>Lütfen önce yapıştırılacak notaları seçin.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3606"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3616"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation>Lütfen üzerine çift tıklayarak bir desen açın!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4250"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4269"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4265"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4284"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Lütfen %1 ile %2 arasında yeni bir değer girin:</translation>
     </message>
@@ -15438,241 +15476,241 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4724"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4739"/>
         <source>Play/pause current clip (Space)</source>
         <translation>Seçili bölümü oynat/durdur (Boşluk Tuşu)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4725"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4740"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>MIDI aygıtında/kanal piyanodan notaları kaydedin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4726"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4741"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation>Şarkı veya kalıp parçasını çalarken MIDI cihazından/kanal piyanosundan notlar kaydedin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4727"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4742"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>MIDI aygıtından/kanal piyanodan notaları bir seferde bir adım kaydedin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4728"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4743"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>Seçili modeli oynatmayı durdur (Boşluk Tuşu)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4730"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4745"/>
         <source>Edit actions</source>
         <translation>İşlemleri düzenle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4734"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Çizim modu (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4735"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Silgi modu (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4736"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
         <source>Select mode (Shift+S)</source>
         <translation>Modu seçin (Shift + S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4737"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Pitch Bend modu (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4767"/>
         <source>Quantize</source>
         <translation>Niceleme</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4768"/>
         <source>Quantize positions</source>
         <translation>Niceleme pozisyonları</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4769"/>
         <source>Quantize lengths</source>
         <translation>Niceleme uzunlukları</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4774"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4789"/>
         <source>File actions</source>
         <translation>Dosya işlemleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4797"/>
         <source>Import clip</source>
         <translation>Deseni içe aktar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4784"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5241"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4799"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5256"/>
         <source>Export clip</source>
         <translation>Deseni dışa aktar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4795"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4810"/>
         <source>Copy paste controls</source>
         <translation>Kopyala yapıştır kontrolleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4797"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4812"/>
         <source>Cut (%1+X)</source>
         <translation>Kes (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4799"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4814"/>
         <source>Copy (%1+C)</source>
         <translation>Kopyala (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4801"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4816"/>
         <source>Paste (%1+V)</source>
         <translation>Yapıştır (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4816"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4831"/>
         <source>Timeline controls</source>
         <translation>Zaman çizelgesi kontrolleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4839"/>
         <source>Glue</source>
         <translation>Yapıştırıcı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4843"/>
         <source>Knife</source>
         <translation>Bıçak</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4832"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4847"/>
         <source>Fill</source>
         <translation>Dolgu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4836"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4851"/>
         <source>Cut overlaps</source>
         <translation>Örtüşmeleri kes</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4840"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4855"/>
         <source>Min length as last</source>
         <translation>Son olarak en düşük uzunluk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4843"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
         <source>Max length as last</source>
         <translation>Son olarak en yüksek uzunluk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4873"/>
         <source>Zoom and note controls</source>
         <translation>Yakınlaştırma ve nota kontrolleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4866"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4881"/>
         <source>Horizontal zooming</source>
         <translation>Yatay yakınlaştırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4874"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4889"/>
         <source>Vertical zooming</source>
         <translation>Dikey yakınlaştırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4883"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4898"/>
         <source>Quantization</source>
         <translation>Niceleme</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4892"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4907"/>
         <source>Note length</source>
         <translation>Nota uzunluğu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4898"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4913"/>
         <source>Key</source>
         <translation>Anahtar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4907"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4922"/>
         <source>Scale</source>
         <translation>Ölçek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4916"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4931"/>
         <source>Chord</source>
         <translation>Kiriş</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4925"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4940"/>
         <source>Snap mode</source>
         <translation>Anlık çekim modu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4930"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4945"/>
         <source>Clear ghost notes</source>
         <translation>Hayalet notaları temizle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5039"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5218"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5054"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5233"/>
         <source>Piano-Roll - %1</source>
         <translation>Piyano Rulosu -%1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5046"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5223"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5061"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5238"/>
         <source>Piano-Roll - no clip</source>
         <translation>Piyano Rulosu - desen yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5242"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5257"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5304"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation>XML desen dosyası (*.xpt *.xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5262"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5277"/>
         <source>Export clip success</source>
         <translation>Deseni dışa aktarma başarılı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5263"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5278"/>
         <source>Clip saved to %1</source>
         <translation>Desen %1&apos;e kaydedildi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5278"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5293"/>
         <source>Import clip.</source>
         <translation>Deseni içe aktar.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5279"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5294"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation>Bir kalıp almak üzeresiniz, bu mevcut kalıbınızın üzerine yazılacaktır. Devam etmek istiyor musun?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5303"/>
         <source>Open clip</source>
         <translation>Desen aç</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5308"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5323"/>
         <source>Import clip success</source>
         <translation>Desen başarılı şekilde içe aktarıldı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5309"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5324"/>
         <source>Imported clip %1!</source>
         <translation>%1 deseni içe aktarıldı!</translation>
     </message>
@@ -16295,374 +16333,389 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::SetupDialog</name>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="161"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="163"/>
         <source>Settings</source>
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="197"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="826"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="198"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="839"/>
         <source>General</source>
         <translation>Genel</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="232"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="233"/>
         <source>Graphical user interface (GUI)</source>
         <translation>Grafik kullanıcı arayüzü (GUI)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="235"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="236"/>
         <source>Display volume as dBFS </source>
         <translation>Ses seviyesini dBFS olarak görüntüle </translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="237"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="238"/>
         <source>Enable tooltips</source>
         <translation>Araç ipuçlarını etkinleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="239"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="240"/>
         <source>Enable master oscilloscope by default</source>
         <translation>Ana osiloskopu varsayılan olarak etkinleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="241"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="242"/>
         <source>Enable all note labels in piano roll</source>
         <translation>Piyano rulosundaki tüm nota etiketlerini etkinleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="243"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="244"/>
         <source>Enable compact track buttons</source>
         <translation>Kompakt parça düğmelerini etkinleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="245"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="246"/>
         <source>Enable one instrument-track-window mode</source>
         <translation>Bir enstrüman izleme penceresi modunu etkinleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="247"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="248"/>
         <source>Show sidebar on the right-hand side</source>
         <translation>Sağ tarafta kenar çubuğunu göster</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="249"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="250"/>
         <source>Let sample previews continue when mouse is released</source>
         <translation>Fare bırakıldığında örnek önizlemelerin devam etmesine izin verin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="251"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="252"/>
         <source>Mute automation tracks during solo</source>
         <translation>Solo sırasında otomasyon izlerini sessize alma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="253"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="254"/>
         <source>Show warning when deleting tracks</source>
         <translation>Parçaları silerken uyarı göster</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="255"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="256"/>
         <source>Show warning when deleting a mixer channel that is in use</source>
         <translation>Kullanımda olan bir mikser kanalını silerken uyarı göster</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="260"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="261"/>
         <source>Dual-button</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="261"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="262"/>
         <source>Grab closest</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="262"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="263"/>
         <source>Handles</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="268"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="269"/>
         <source>Loop edit mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="276"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="277"/>
         <source>Projects</source>
         <translation>Projeler</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="279"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="280"/>
         <source>Compress project files by default</source>
         <translation>Proje dosyalarını varsayılan olarak sıkıştır</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="281"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="282"/>
         <source>Create a backup file when saving a project</source>
         <translation>Bir projeyi kaydederken bir yedek dosya oluşturun</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="283"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="284"/>
         <source>Reopen last project on startup</source>
         <translation>Başlangıçta son projeyi yeniden aç</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="291"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="292"/>
         <source>Language</source>
         <translation>Dil</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="365"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="829"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="366"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="842"/>
         <source>Performance</source>
         <translation>Başarım</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="369"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="370"/>
         <source>Autosave</source>
         <translation>Otomatik kaydet</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="397"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="398"/>
         <source>Enable autosave</source>
         <translation>Otomatik kaydetmeyi etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="400"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="401"/>
         <source>Allow autosave while playing</source>
         <translation>Oynatırken otomatik kaydetmeye izin ver</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="408"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="409"/>
         <source>User interface (UI) effects vs. performance</source>
         <translation>Kullanıcı arayüzü (UI) efektleri ile performans karşılaştırması</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="411"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="412"/>
         <source>Smooth scroll in song editor</source>
         <translation>Şarkı düzenleyicide yumuşak kaydırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="413"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="414"/>
         <source>Display playback cursor in AudioFileProcessor</source>
         <translation>Ses Dosyası İşlemcisindeki oynatma imlecini görüntüle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="418"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="419"/>
         <source>Plugins</source>
         <translation>Eklentiler</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="422"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="423"/>
         <source>VST plugins embedding:</source>
         <translation>Gömülü VST eklentileri:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="428"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="429"/>
         <source>No embedding</source>
         <translation>Yerleştirme yok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="431"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="432"/>
         <source>Embed using Qt API</source>
         <translation>Qt API kullanarak yerleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="435"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="436"/>
         <source>Embed using native Win32 API</source>
         <translation>Yerel Win32 API kullanarak yerleştirme</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="439"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="440"/>
         <source>Embed using XEmbed protocol</source>
         <translation>XEmbed protokolünü kullanarak gömün</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="446"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="447"/>
         <source>Keep plugin windows on top when not embedded</source>
         <translation>Gömülü değilken eklenti pencerelerini üstte tutun</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="449"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="450"/>
         <source>Keep effects running even without input</source>
         <translation>Efektlerin girdi olmasa bile çalışmaya devam etmesini sağlayın</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="467"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="832"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="468"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="845"/>
         <source>Audio</source>
         <translation>Ses</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="470"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="471"/>
         <source>Audio interface</source>
         <translation>Ses arayüzü</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="563"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="564"/>
         <source>HQ mode for output audio device</source>
         <translation>Ses çıkışı cihazı için HQ modu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="567"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="568"/>
         <source>Buffer size</source>
         <translation>Arabellek boyutu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="589"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="590"/>
         <source>Reset to default value</source>
         <translation>Varsayılan değere sıfırla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="618"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="835"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="619"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="848"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="621"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="622"/>
         <source>MIDI interface</source>
         <translation>MIDI arayüzü</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="699"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="700"/>
         <source>Automatically assign MIDI controller to selected track</source>
         <translation>MIDI denetleyicisini seçilen parçaya otomatik olarak atayın</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="734"/>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="838"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="721"/>
+        <source>Behavior when recording</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="724"/>
+        <source>Auto-quantize notes in Piano Roll</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="728"/>
+        <source>If enabled, notes will be automatically quantized when recording them from a MIDI controller. If disabled, they are always recorded at the highest possible resolution.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="747"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="851"/>
         <source>Paths</source>
         <translation>Yollar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="771"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="784"/>
         <source>LMMS working directory</source>
         <translation>LMMS çalışma dizini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="775"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="788"/>
         <source>VST plugins directory</source>
         <translation>VST eklentileri dizini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="779"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="792"/>
         <source>LADSPA plugins directories</source>
         <translation>LADSPA eklenti dizinleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="783"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="796"/>
         <source>SF2 directory</source>
         <translation>SF2 dizini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="788"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="801"/>
         <source>Default SF2</source>
         <translation>Varsayılan SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="793"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="806"/>
         <source>GIG directory</source>
         <translation>GIG dizini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="797"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="810"/>
         <source>Theme directory</source>
         <translation>Tema dizini</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="801"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="814"/>
         <source>Background artwork</source>
         <translation>Arka plan resmi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="858"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="871"/>
         <source>Some changes require restarting.</source>
         <translation>Bazı değişiklikler yeniden başlatmayı gerektirir.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="862"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="875"/>
         <source>OK</source>
         <translation>TAMAM</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="867"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="880"/>
         <source>Cancel</source>
         <translation>Çıkış</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1102"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1116"/>
         <source>minutes</source>
         <translation>dakika</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1102"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1116"/>
         <source>minute</source>
         <translation>dakika</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1104"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1118"/>
         <source>Disabled</source>
         <translation>Devre dışı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1106"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1120"/>
         <source>Autosave interval: %1</source>
         <translation>Otomatik kaydetme aralığı: %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1195"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1209"/>
         <source>The currently selected value is not a power of 2 (32, 64, 128, 256). Some plugins may not be available.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1200"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1214"/>
         <source>The currently selected value is less than or equal to 32. Some plugins may not be available.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1231"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1245"/>
         <source>Frames: %1
 Latency: %2 ms</source>
         <translation>Çerçeveler: %1
 Gecikme: %2 ms</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1262"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1281"/>
         <source>Choose the LMMS working directory</source>
         <translation>LMMS çalışma dizinini seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1279"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1298"/>
         <source>Choose your VST plugins directory</source>
         <translation>VST eklentileri dizininizi seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1296"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1315"/>
         <source>Choose your LADSPA plugins directory</source>
         <translation>LADSPA eklentileri dizininizi seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1321"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1340"/>
         <source>Choose your SF2 directory</source>
         <translation>SF2 dizininizi seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1339"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1358"/>
         <source>Choose your default SF2</source>
         <translation>Varsayılan SF2&apos;nizi seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1360"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1379"/>
         <source>Choose your GIG directory</source>
         <translation>GIG dizininizi seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1377"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1396"/>
         <source>Choose your theme directory</source>
         <translation>Tema dizininizi seçin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1411"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1430"/>
         <source>Choose your background picture</source>
         <translation>Arka plan resminizi seçin</translation>
     </message>
