@@ -12059,62 +12059,62 @@ Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun v
 <context>
     <name>lmms::gui::InstrumentTrackView</name>
     <message>
-        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="78"/>
+        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="77"/>
         <source>Mixer channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="82"/>
+        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="81"/>
         <source>Volume</source>
         <translation>Ses Düzeyi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="85"/>
+        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="84"/>
         <source>Volume:</source>
         <translation>Ses Düzeyi:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="86"/>
+        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="85"/>
         <source>VOL</source>
         <translation>SES</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="90"/>
+        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="89"/>
         <source>Panning</source>
         <translation>Kaydırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="92"/>
+        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="91"/>
         <source>Panning:</source>
         <translation>Kaydırma:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="93"/>
+        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="92"/>
         <source>PAN</source>
         <translation>PAN</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="96"/>
+        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="95"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="128"/>
+        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="127"/>
         <source>Input</source>
         <translation>Giriş</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="129"/>
+        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="128"/>
         <source>Output</source>
         <translation>Çıkış</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="131"/>
+        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="130"/>
         <source>Open/Close MIDI CC Rack</source>
         <translation>MIDI CC Rafını Aç / Kapat</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="390"/>
+        <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="389"/>
         <source>%1: %2</source>
         <translation>%1: %2</translation>
     </message>
@@ -13362,64 +13362,64 @@ Bir dosya seçmek için çift tıklayın.</translation>
 <context>
     <name>lmms::gui::LfoGraph</name>
     <message>
-        <location filename="../../src/gui/instrument/LfoGraph.cpp" line="155"/>
-        <source>%1 ms/LFO</source>
+        <location filename="../../src/gui/instrument/LfoGraph.cpp" line="165"/>
+        <source>%1 Hz</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>lmms::gui::MainWindow</name>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="508"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="506"/>
         <source>Configuration file</source>
         <translation>Yapılandırma dosyası</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="509"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="507"/>
         <source>Error while parsing configuration file at line %1:%2: %3</source>
         <translation>%1:%2: %3 satırındaki yapılandırma dosyası ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="626"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="624"/>
         <source>Could not open file</source>
         <translation>Dosya açılamadı</translation>
     </message>
     <message>
-        <location filename="../../src/core/ConfigManager.cpp" line="627"/>
+        <location filename="../../src/core/ConfigManager.cpp" line="625"/>
         <source>Could not open file %1 for writing.
 Please make sure you have write permission to the file and the directory containing the file and try again!</source>
         <translation>%1 dosyası yazmak için açılamadı.
 Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun ve tekrar deneyin!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="877"/>
+        <location filename="../../src/core/main.cpp" line="875"/>
         <source>Project recovery</source>
         <translation>Proje kurtarma</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="892"/>
+        <location filename="../../src/core/main.cpp" line="890"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>Mevcut bir kurtarma dosyası var. Görünüşe göre son oturum düzgün şekilde sona ermemiş veya başka bir LMMS örneği zaten çalışıyor. Bu oturumun projesini kurtarmak istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="897"/>
-        <location filename="../../src/core/main.cpp" line="912"/>
+        <location filename="../../src/core/main.cpp" line="895"/>
+        <location filename="../../src/core/main.cpp" line="910"/>
         <source>Recover</source>
         <translation>Kurtar</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="898"/>
+        <location filename="../../src/core/main.cpp" line="896"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Dosyayı kurtarın. Lütfen bunu yaptığınızda birden fazla LMMS örneği çalıştırmayın.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="900"/>
-        <location filename="../../src/core/main.cpp" line="911"/>
+        <location filename="../../src/core/main.cpp" line="898"/>
+        <location filename="../../src/core/main.cpp" line="909"/>
         <source>Discard</source>
         <translation>Iskarta</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="901"/>
+        <location filename="../../src/core/main.cpp" line="899"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Varsayılan bir oturum başlatın ve geri yüklenen dosyaları silin. Bu geri alınamaz.</translation>
     </message>
@@ -13534,321 +13534,321 @@ Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun v
         <translation>&amp;MIDI Dışa Aktar...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="331"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="328"/>
         <source>&amp;Quit</source>
         <translation>&amp;Çıkış</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="336"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="333"/>
         <source>&amp;Edit</source>
         <translation>&amp;Düzen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="338"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="335"/>
         <source>Undo</source>
         <translation>Geri Al</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="342"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="339"/>
         <source>Redo</source>
         <translation>İleri Al</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="356"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="353"/>
         <source>Scales and keymaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="358"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="355"/>
         <source>Settings</source>
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="364"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="361"/>
         <source>&amp;View</source>
         <translation>Gö&amp;rünüm</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="380"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="377"/>
         <source>&amp;Tools</source>
         <translation>&amp;Araçlar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="388"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="385"/>
         <source>&amp;Help</source>
         <translation>&amp;Yardım</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="393"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="390"/>
         <source>Online Help</source>
         <translation>Çevrimiçi Yardım</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="399"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="396"/>
         <source>Help</source>
         <translation>Yardım</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="407"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="401"/>
         <source>About</source>
         <translation>Hakkında</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="412"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="406"/>
         <source>Create new project</source>
         <translation>Yeni proje oluştur</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="415"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="409"/>
         <source>Create new project from template</source>
         <translation>Şablondan yeni proje oluştur</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="420"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="414"/>
         <source>Open existing project</source>
         <translation>Mevcut projeyi aç</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="423"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="417"/>
         <source>Recently opened projects</source>
         <translation>Yakın zamanda açılan projeler</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="428"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="422"/>
         <source>Save current project</source>
         <translation>Mevcut projeyi kaydet</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="431"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="425"/>
         <source>Export current project</source>
         <translation>Mevcut projeyi dışa aktar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="435"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="429"/>
         <source>Metronome</source>
         <translation>Metronom</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="452"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1070"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="446"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1064"/>
         <source>Song Editor</source>
         <translation>Şarkı Düzenleyici</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="457"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1074"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="451"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1068"/>
         <source>Pattern Editor</source>
         <translation>Kalıp Düzenleyici</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="461"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1078"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="455"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1072"/>
         <source>Piano Roll</source>
         <translation>Piyano Rulosu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="465"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1082"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="459"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1076"/>
         <source>Automation Editor</source>
         <translation>Otomasyon Düzenleyicisi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="469"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1087"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="463"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1081"/>
         <source>Mixer</source>
         <translation>FX-Karıştırıcısı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="473"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="467"/>
         <source>Show/hide controller rack</source>
         <translation>Denetleyici rafını göster / gizle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="477"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="471"/>
         <source>Show/hide project notes</source>
         <translation>Proje notlarını göster / gizle</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="585"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="579"/>
         <source>Untitled</source>
         <translation>Başlıksız</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="600"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="594"/>
         <source>Recover session. Please save your work!</source>
         <translation>Oturumu kurtarın. Lütfen çalışmanızı kaydedin!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="603"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="597"/>
         <source>LMMS %1</source>
         <translation>LMMS %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="622"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="616"/>
         <source>Recovered project not saved</source>
         <translation>Kurtarılan proje kaydedilmedi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="623"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="617"/>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
         <translation>Bu proje önceki oturumdan kurtarıldı. Şu anda kaydedilmedi ve kaydetmezseniz kaybolacak. Şimdi kaydetmek ister misin?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="628"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="622"/>
         <source>Project not saved</source>
         <translation>Proje kaydedilmedi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="629"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="623"/>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
         <translation>Mevcut proje, son kayıttan bu yana değiştirildi. Şimdi kaydetmek ister misin?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="765"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="759"/>
         <source>Open Project</source>
         <translation>Projeyi Aç</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="765"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="759"/>
         <source>LMMS (*.mmp *.mmpz)</source>
         <translation>LMMS (*.mmp *.mmpz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="808"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="802"/>
         <source>Save Project</source>
         <translation>Projeyi Kaydet</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="809"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="803"/>
         <source>LMMS Project</source>
         <translation>LMMS Projesi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="810"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="804"/>
         <source>LMMS Project Template</source>
         <translation>LMMS Proje Şablonu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="840"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="834"/>
         <source>Save project template</source>
         <translation>Proje şablonunu kaydet</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="888"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="882"/>
         <source>Overwrite default template?</source>
         <translation>Varsayılan şablonun üzerine yazılsın mı?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="889"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="883"/>
         <source>This will overwrite your current default template.</source>
         <translation>Bu, mevcut varsayılan şablonunuzun üzerine yazacaktır.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="922"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="916"/>
         <source>Help not available</source>
         <translation>Yardım mevcut değil</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="923"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="917"/>
         <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>Şu anda LMMS&apos;de yardım bulunmamaktadır.
 LMMS ile ilgili belgeler için lütfen http://lmms.sf.net/wiki adresini ziyaret edin.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1091"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1085"/>
         <source>Controller Rack</source>
         <translation>Denetleyici Rafı</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1095"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1089"/>
         <source>Project Notes</source>
         <translation>Proje Notları</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1102"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1096"/>
         <source>Fullscreen</source>
         <translation>Tam ekran</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1111"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1105"/>
         <source>Volume as dBFS</source>
         <translation>DBFS olarak düzey</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1117"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1111"/>
         <source>Smooth scroll</source>
         <translation>Düzgün kaydırma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1131"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1125"/>
         <source>Enable note labels in piano roll</source>
         <translation>Piyano rulosunda not etiketlerini etkinleştirin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1421"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1415"/>
         <source>MIDI File (*.mid)</source>
         <translation>MIDI Dosyası (*.mid)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1433"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1490"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1427"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1484"/>
         <source>untitled</source>
         <translation>başlıksız</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1437"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1493"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1431"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1487"/>
         <source>Select file for project-export...</source>
         <translation>Proje dışa aktarımı için dosya seçin...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1462"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1456"/>
         <source>Select directory for writing exported tracks...</source>
         <translation>Dışa aktarılan parkurları yazmak için dizin seçin...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1524"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1518"/>
         <source>Save project</source>
         <translation>Projeyi kaydet</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1541"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1535"/>
         <source>Project saved</source>
         <translation>Proje kaydedildi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1541"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1535"/>
         <source>The project %1 is now saved.</source>
         <translation>%1 projesi şimdi kaydedildi.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1548"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1542"/>
         <source>Project NOT saved.</source>
         <translation>Proje kaydedilmedi.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1548"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1542"/>
         <source>The project %1 was not saved!</source>
         <translation>%1 projesi kaydedilmedi!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1587"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1581"/>
         <source>Import file</source>
         <translation>Dosyayı içe aktar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1589"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1583"/>
         <source>MIDI sequences</source>
         <translation>MIDI dizileri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1591"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1585"/>
         <source>Hydrogen projects</source>
         <translation>Hidrojen projeleri</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1593"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1587"/>
         <source>All file types</source>
         <translation>Tüm dosya türleri</translation>
     </message>
@@ -17014,92 +17014,92 @@ Gecikme: %2 ms</translation>
 <context>
     <name>lmms::gui::SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="163"/>
+        <location filename="../../src/core/DataFile.cpp" line="164"/>
         <source>Could not open file</source>
         <translation>Dosya açılamadı</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="164"/>
+        <location filename="../../src/core/DataFile.cpp" line="165"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>%1 dosyası açılamadı. Muhtemelen bu dosyayı okuma izniniz yok.
   Lütfen dosya için en azından okuma izninizin olduğundan emin olun ve tekrar deneyin.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="353"/>
+        <location filename="../../src/core/DataFile.cpp" line="354"/>
         <source>Operation denied</source>
         <translation>İşlem reddedildi</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="354"/>
+        <location filename="../../src/core/DataFile.cpp" line="355"/>
         <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation>Bu ada sahip bir paket klasörü zaten seçili yolda bulunuyor. Proje paketinin üzerine yazılamaz. Lütfen farklı bir isim seçin.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="364"/>
-        <location filename="../../src/core/DataFile.cpp" line="372"/>
-        <location filename="../../src/core/DataFile.cpp" line="380"/>
+        <location filename="../../src/core/DataFile.cpp" line="365"/>
+        <location filename="../../src/core/DataFile.cpp" line="373"/>
+        <location filename="../../src/core/DataFile.cpp" line="381"/>
         <source>Error</source>
         <translation>Sorun</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="365"/>
+        <location filename="../../src/core/DataFile.cpp" line="366"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation>Paket klasörü oluşturulamadı.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="373"/>
+        <location filename="../../src/core/DataFile.cpp" line="374"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation>Kaynaklar klasörü oluşturulamadı.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="381"/>
+        <location filename="../../src/core/DataFile.cpp" line="382"/>
         <source>Failed to copy resources.</source>
         <translation>Kaynaklar kopyalanamadı.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="390"/>
-        <location filename="../../src/core/DataFile.cpp" line="414"/>
+        <location filename="../../src/core/DataFile.cpp" line="391"/>
+        <location filename="../../src/core/DataFile.cpp" line="415"/>
         <source>Could not write file</source>
         <translation>Dosya yazılamadı</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="391"/>
+        <location filename="../../src/core/DataFile.cpp" line="392"/>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="415"/>
+        <location filename="../../src/core/DataFile.cpp" line="416"/>
         <source>An unknown error has occured and the file could not be saved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1987"/>
+        <location filename="../../src/core/DataFile.cpp" line="2026"/>
         <source>Error in file</source>
         <translation>Dosyada hata</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="1988"/>
+        <location filename="../../src/core/DataFile.cpp" line="2027"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Görünüşe göre %1 dosyası hatalar içeriyor ve bu nedenle yüklenemiyor.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2028"/>
+        <location filename="../../src/core/DataFile.cpp" line="2067"/>
         <source>template</source>
         <translation>şablon</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2028"/>
+        <location filename="../../src/core/DataFile.cpp" line="2067"/>
         <source>project</source>
         <translation>proje</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2031"/>
+        <location filename="../../src/core/DataFile.cpp" line="2070"/>
         <source>Version difference</source>
         <translation>Sürüm farkı</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2032"/>
+        <location filename="../../src/core/DataFile.cpp" line="2071"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>Bu %1, %2 LMMS ile oluşturuldu</translation>
     </message>
