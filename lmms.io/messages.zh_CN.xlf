@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="Tdd9OuD" resname="Get Involved">
         <source>Get Involved</source>
-        <target>帮助我们</target>
+        <target>加入我们</target>
         
       </trans-unit>
       <trans-unit id="wgWSTeD" resname="Documentation">
@@ -385,7 +385,7 @@
       </trans-unit>
       <trans-unit id="zDYCQUA" resname="Making beats has never been easier.">
         <source>Making beats has never been easier.</source>
-        <target>音乐创作其实很简单</target>
+        <target>音乐创作从未如此简单</target>
         
       </trans-unit>
       <trans-unit id="HXvrE6h" resname="Produce music with your computer">
@@ -445,7 +445,7 @@
       </trans-unit>
       <trans-unit id="CaD6ze3" resname="Linux, Windows or macOS.">
         <source>Linux, Windows or macOS.</source>
-        <target>Linux, Windows 或是 macOS</target>
+        <target>Linux，Windows 或是 macOS</target>
         
       </trans-unit>
       <trans-unit id="vEX6OG8" resname="Houston, we have a problem.">
@@ -515,7 +515,7 @@
       </trans-unit>
       <trans-unit id="e0XmaMu" resname="We &lt;3 open source.">
         <source>We &lt;3 open source.</source>
-        <target>我们 &lt;3 开源</target>
+        <target>我们 ❤️ 开源</target>
         
       </trans-unit>
       <trans-unit id="opjPraT" resname="Fork us on GitHub">
@@ -1238,6 +1238,37 @@
 			 - The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.
 
 			**Note: Entries are approved to appear on the submission list by hand, so if you don't see yours, sit tight! It might take a while.**</source>
+        <target>我们隆重推出第八届 LMMS 最佳音乐大赛！
+本次比赛旨在激发社区创作和分享音乐的热情。在 2021 年 4 月 5 日午夜(UTC 23:59.59)之前通过以下链接提交您的曲目，您将有机会被收录到 BoL v8 专辑中。合辑将上传到 Bandcamp，所有收益将用于 LMMS 的进一步发展。
+
+&lt;p class=&quot;center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg center&quot; href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScfJNvVtoCJ8SVQ8TWiPMjbIsl49RvwGiy1nODuvKdJ8Er_Bg/viewform&quot;&gt;在此提交&lt;/a&gt;&lt;/p&gt;
+#### 比赛规则：
+
+1. **截止日期：**
+- 曲目必须在 2021 年 4 月 5 日 23:59.59 UTC 之前使用此表格提交。
+2. **要求：**
+- 必须使用 LMMS 制作。
+- 您可以使用其他程序进行母带处理和后期处理。
+- 长度必须在 10 分钟以内。
+- 不得使用以往 LMMS 最佳专辑中的获奖曲目。
+- 不得翻唱或混音他人作品。
+- 经评委批准，可重新制作自己的曲目。
+3. **提交作品：**
+- 您必须使用此表格提交作品。
+- 每位艺术家只能提交一份作品。
+- 每位艺术家的合作作品均视为一份参赛作品。
+- 参赛作品不得与评委合作。
+- 只允许在 Soundcloud、YouTube 或 Clyp 上提交作品。
+- 完整曲目应在所提供的提交链接中提供
+- 在评审结束前，您的参赛作品必须可供收听。否则，您的参赛作品将被取消资格。
+4. **评委：**
+- 评委包括 Woods Alive、Hotel Zero、Jousboxx、Blageez、Noeroti 和 JVSTDARE。
+5. **评审：**
+- 截止日期后，评委将在 14-21天内做出决定并公布结果，具体时间视个人日程安排而定。
+6. **发布：**
+- 得分最高的 25 首歌曲将在 Bandcamp 上以 &quot;按需付费 &quot;的方式发行专辑。所有所得资金将捐献给我们所热爱的 LMMS 项目，用于进一步发展。
+
+**注：参赛作品将通过人工审核出现在提交列表中，因此如果您没有看到您的作品，请稍候！可能需要一段时间。</target>
         
       </trans-unit>
       <trans-unit id="yzGLm.Z" resname="The Best of LMMS vol. VII">
@@ -1631,10 +1662,13 @@
       <trans-unit id="86sS5b_" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 		Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>LMMS 包含在大多数主要 Linux 发行版的软件包仓库中。&lt;br&gt;
+如果此处未列出您的发行版，请&lt;a href=&quot;/get-involved/#contact&quot;&gt;联系我们&lt;/a&gt;。</target>
         
       </trans-unit>
       <trans-unit id="wVgk0cT" resname="Anyone can open a pull request against LMMS; we are not responsible for the builds on this page.&lt;br&gt;Unless you were directed here to test a pull request, please download an official build from the &lt;a href=&quot;%download%&quot;&gt;main download page&lt;/a&gt; instead.">
         <source>Anyone can open a pull request against LMMS; we are not responsible for the builds on this page.&lt;br&gt;Unless you were directed here to test a pull request, please download an official build from the &lt;a href=&quot;%download%&quot;&gt;main download page&lt;/a&gt; instead.</source>
+        <target>任何人都可以针对 LMMS 发起拉取请求；我们对本页面上的构建版本不负任何责任。&lt;br&gt;除非您是被指引到此测试拉取请求，否则请从&lt;a href=&quot;%download%&quot;&gt;主下载页面&lt;/a&gt;下载正式构建版本。</target>
         
       </trans-unit>
       <trans-unit id="x19HYlO" resname="Pull Request #%id%">
@@ -1647,14 +1681,17 @@
       </trans-unit>
       <trans-unit id="KLF9W5d" resname="There are currently no builds available for this pull request. Building may have failed, or may not have completed yet.&lt;br&gt;If this is an old pull request, the builds may have expired.">
         <source>There are currently no builds available for this pull request. Building may have failed, or may not have completed yet.&lt;br&gt;If this is an old pull request, the builds may have expired.</source>
+        <target>该请求目前没有可用的构建。&lt;br&gt;如果是旧的拉取请求，该构建可能已过期。</target>
         
       </trans-unit>
       <trans-unit id="ed.Z2cG" resname="Alpha Versions">
         <source>Alpha Versions</source>
+        <target>Alpha 版本</target>
         
       </trans-unit>
       <trans-unit id="7wM4KTV" resname="Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.">
         <source>Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.</source>
+        <target>标有 Alpha、Beta 或 Nightly 的下载为预发布软件，稳定性可能会受到影响。</target>
         
       </trans-unit>
     </body>
