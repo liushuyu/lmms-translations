@@ -18,8 +18,8 @@ jobs:
       - name: Install Dependencies
         run: |
           apt-get update
-          apt-get install -y qttools5-dev-tools git bash composer php8.2-cli php8.2-intl php8.2-xml php8.2-curl php8.2-gd gettext curl
-          curl -sL https://github.com/transifex/cli/releases/download/v1.6.10/tx-linux-amd64.tar.gz -o /tmp/tx.tar.gz
+          apt-get install -y qttools5-dev-tools git bash composer php8.3-cli php8.3-intl php8.3-xml php8.3-curl php8.3-gd gettext curl
+          curl -sL https://github.com/transifex/cli/releases/download/v1.6.16/tx-linux-amd64.tar.gz -o /tmp/tx.tar.gz
           tar -C /tmp/ -xf /tmp/tx.tar.gz
           cp -v /tmp/tx /usr/local/bin/tx
 
