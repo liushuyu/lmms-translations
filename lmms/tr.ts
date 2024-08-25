@@ -8815,32 +8815,32 @@ Nedeni: &quot;%2&quot;</translation>
         <translation>Ana sahne</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1029"/>
+        <location filename="../../src/core/Song.cpp" line="1026"/>
         <source>Aborting project load</source>
         <translation>Proje yüklemesi iptal ediliyor</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1030"/>
+        <location filename="../../src/core/Song.cpp" line="1027"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
         <translation>Proje dosyası, kötü amaçlı kod çalıştırmak için kullanılabilecek eklentilere giden yerel yolları içerir.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1035"/>
+        <location filename="../../src/core/Song.cpp" line="1032"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
         <translation>Proje yüklenemiyor: Proje dosyası, eklentilere giden yerel yolları içerir.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1197"/>
+        <location filename="../../src/core/Song.cpp" line="1194"/>
         <source>LMMS Error report</source>
         <translation>LMMS Hata raporu</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1495"/>
+        <location filename="../../src/core/Song.cpp" line="1492"/>
         <source> (repeated %1 times)</source>
         <translation> (%1 kez tekrarlandı)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1502"/>
+        <location filename="../../src/core/Song.cpp" line="1499"/>
         <source>The following errors occurred while loading: </source>
         <translation>Yükleme sırasında aşağıdaki hatalar oluştu: </translation>
     </message>
@@ -9540,7 +9540,7 @@ Lütfen dosyayı ve dosyayı içeren dizini okuma iznine sahip olduğunuzdan emi
 <context>
     <name>lmms::gui::AudioFileProcessorWaveView</name>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessorWaveView.cpp" line="297"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessorWaveView.cpp" line="303"/>
         <source>Sample length:</source>
         <translation>Örnek uzunluğu:</translation>
     </message>
@@ -12466,7 +12466,7 @@ Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun v
         <translation>XML hazır ayar dosyası (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="462"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="461"/>
         <source>Plugin</source>
         <translation>Eklenti</translation>
     </message>

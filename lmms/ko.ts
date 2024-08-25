@@ -8817,32 +8817,32 @@ Reason: &quot;%2&quot;</source>
         <translation>마스터 피치</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1029"/>
+        <location filename="../../src/core/Song.cpp" line="1026"/>
         <source>Aborting project load</source>
         <translation>프로젝트 불러오기 중단하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1030"/>
+        <location filename="../../src/core/Song.cpp" line="1027"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
         <translation>프로젝트 파일에는 악성 코드를 실행하는 데 사용될 수 있는 플러그인의 로컬 경로가 포함되어 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1035"/>
+        <location filename="../../src/core/Song.cpp" line="1032"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
         <translation>프로젝트 불러올 수 없음: 프로젝트 파일에 플러그인에 대한 로컬 경로가 포함되어 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1197"/>
+        <location filename="../../src/core/Song.cpp" line="1194"/>
         <source>LMMS Error report</source>
         <translation>LMMS 오류 보고</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1495"/>
+        <location filename="../../src/core/Song.cpp" line="1492"/>
         <source> (repeated %1 times)</source>
         <translation> (%1번 반복됨)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1502"/>
+        <location filename="../../src/core/Song.cpp" line="1499"/>
         <source>The following errors occurred while loading: </source>
         <translation>불러오는 동안 다음 오류가 발생했습니다: </translation>
     </message>
@@ -9542,7 +9542,7 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::AudioFileProcessorWaveView</name>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessorWaveView.cpp" line="297"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessorWaveView.cpp" line="303"/>
         <source>Sample length:</source>
         <translation>샘플 길이:</translation>
     </message>
@@ -12468,7 +12468,7 @@ Please make sure you have write permission to the file and the directory contain
         <translation>XML 프리셋 파일 (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="462"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="461"/>
         <source>Plugin</source>
         <translation>플러그인</translation>
     </message>

@@ -8635,32 +8635,32 @@ Razlog: &quot;%2&quot;</translation>
         <translation>Glavna višina</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1029"/>
+        <location filename="../../src/core/Song.cpp" line="1026"/>
         <source>Aborting project load</source>
         <translation>Prekinjam nalaganje projekta</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1030"/>
+        <location filename="../../src/core/Song.cpp" line="1027"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
         <translation>Projektna datoteka vsebuje lokalne poti do vtičnkkov, ki bi lahko vsebovale škodljivo kodo.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1035"/>
+        <location filename="../../src/core/Song.cpp" line="1032"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
         <translation>Projekta ni mogoče naložiti: Projektna datoteka vsebuje lokalne poti do vtičnikov.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1197"/>
+        <location filename="../../src/core/Song.cpp" line="1194"/>
         <source>LMMS Error report</source>
         <translation>Poročilo o LMMS napaki</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1495"/>
+        <location filename="../../src/core/Song.cpp" line="1492"/>
         <source> (repeated %1 times)</source>
         <translation>(ponovljeno %1 krat)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1502"/>
+        <location filename="../../src/core/Song.cpp" line="1499"/>
         <source>The following errors occurred while loading: </source>
         <translation>Pri nalaganju je prišlo do naslednjih napak:</translation>
     </message>
@@ -9360,7 +9360,7 @@ Prepričajte se, da imate pravico za branje te datoteke in njeno mapo ter poskus
 <context>
     <name>lmms::gui::AudioFileProcessorWaveView</name>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessorWaveView.cpp" line="297"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessorWaveView.cpp" line="303"/>
         <source>Sample length:</source>
         <translation>Dolžina vzorca:</translation>
     </message>
@@ -12286,7 +12286,7 @@ Prepričajte se, da imate pravico za zapisovanje v to datoteko in njeno mapo ter
         <translation>XML predloga (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="462"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="461"/>
         <source>Plugin</source>
         <translation>Vtičnik</translation>
     </message>

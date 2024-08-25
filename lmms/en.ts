@@ -8529,32 +8529,32 @@ Reason: &quot;%2&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1029"/>
+        <location filename="../../src/core/Song.cpp" line="1026"/>
         <source>Aborting project load</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1030"/>
+        <location filename="../../src/core/Song.cpp" line="1027"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1035"/>
+        <location filename="../../src/core/Song.cpp" line="1032"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1197"/>
+        <location filename="../../src/core/Song.cpp" line="1194"/>
         <source>LMMS Error report</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1495"/>
+        <location filename="../../src/core/Song.cpp" line="1492"/>
         <source> (repeated %1 times)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1502"/>
+        <location filename="../../src/core/Song.cpp" line="1499"/>
         <source>The following errors occurred while loading: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -9252,7 +9252,7 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::AudioFileProcessorWaveView</name>
     <message>
-        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessorWaveView.cpp" line="297"/>
+        <location filename="../../plugins/AudioFileProcessor/AudioFileProcessorWaveView.cpp" line="303"/>
         <source>Sample length:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12177,7 +12177,7 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="462"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="461"/>
         <source>Plugin</source>
         <translation type="unfinished"></translation>
     </message>
