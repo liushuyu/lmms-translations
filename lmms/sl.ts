@@ -3330,7 +3330,7 @@ Reactvate them to start the process again, with the last saved state applied to 
         <translation>Vtičnik za multitap eho zamik</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="50"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="51"/>
         <source>A NES-like synthesizer</source>
         <translation>NES-u podoben sintetizator</translation>
     </message>
@@ -7724,177 +7724,177 @@ Ime vtičnika
 <context>
     <name>lmms::NesInstrument</name>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="485"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="486"/>
         <source>Channel 1 enable</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="486"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="487"/>
         <source>Channel 1 coarse detune</source>
         <translation>Kanal 1 groba razglasitev</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="487"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="488"/>
         <source>Channel 1 volume</source>
         <translation>Kanal 1 glasnost</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="489"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="490"/>
         <source>Channel 1 envelope enable</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="490"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="491"/>
         <source>Channel 1 envelope loop</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="491"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="492"/>
         <source>Channel 1 envelope length</source>
         <translation>Kanal 1 dolžina ovoja</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="493"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="494"/>
         <source>Channel 1 duty cycle</source>
         <translation>Kanal 1 cikelj izvajanja</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="495"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="496"/>
         <source>Channel 1 sweep enable</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="496"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="497"/>
         <source>Channel 1 sweep amount</source>
         <translation>Kanal 1 količina preleta</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="497"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="498"/>
         <source>Channel 1 sweep rate</source>
         <translation>Kanal 1 stopnja preleta</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="499"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="500"/>
         <source>Channel 2 enable</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="500"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="501"/>
         <source>Channel 2 coarse detune</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="501"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="502"/>
         <source>Channel 2 volume</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="503"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="504"/>
         <source>Channel 2 envelope enable</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="504"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="505"/>
         <source>Channel 2 envelope loop</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="505"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="506"/>
         <source>Channel 2 envelope length</source>
         <translation>Kanal 2 dolžina ovoja</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="507"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="508"/>
         <source>Channel 2 duty cycle</source>
         <translation>Kanal 2 cikelj izvajanja</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="509"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="510"/>
         <source>Channel 2 sweep enable</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="510"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="511"/>
         <source>Channel 2 sweep amount</source>
         <translation>Kanal 2 količina preleta</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="511"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="512"/>
         <source>Channel 2 sweep rate</source>
         <translation>Kanal 2 stopnja preleta</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="514"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="515"/>
         <source>Channel 3 enable</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="515"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="516"/>
         <source>Channel 3 coarse detune</source>
         <translation>Kanal 3 groba razglasitev</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="516"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="517"/>
         <source>Channel 3 volume</source>
         <translation>Kanal 3 glasnost</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="519"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="520"/>
         <source>Channel 4 enable</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="520"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="521"/>
         <source>Channel 4 volume</source>
         <translation>Kanal 4 glasnost</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="522"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="523"/>
         <source>Channel 4 envelope enable</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="523"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="524"/>
         <source>Channel 4 envelope loop</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="524"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="525"/>
         <source>Channel 4 envelope length</source>
         <translation>Kanal 4 dolžina ovoja</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="526"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="527"/>
         <source>Channel 4 noise mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="527"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="528"/>
         <source>Channel 4 frequency mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="528"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="529"/>
         <source>Channel 4 noise frequency</source>
         <translation>Kanal 4 frekvenca šuma</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="530"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="531"/>
         <source>Channel 4 noise frequency sweep</source>
         <translation>Kanal 4 šum preleta frekvence</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="531"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="532"/>
         <source>Channel 4 quantize</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="534"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="535"/>
         <source>Master volume</source>
         <translation>Glavna glasnost</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="535"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="536"/>
         <source>Vibrato</source>
         <translation>Vibrato</translation>
     </message>
@@ -14961,155 +14961,155 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::NesInstrumentView</name>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="749"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="780"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="811"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="816"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="750"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="781"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="812"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="817"/>
         <source>Volume</source>
         <translation>Glasnost</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="750"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="781"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="812"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="751"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="782"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="813"/>
         <source>Coarse detune</source>
         <translation>Groba razglasitev</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="751"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="782"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="818"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="752"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="783"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="819"/>
         <source>Envelope length</source>
         <translation>Dolžina ovoja</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="753"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="754"/>
         <source>Enable channel 1</source>
         <translation>Vklopi kanal 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="754"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="755"/>
         <source>Enable envelope 1</source>
         <translation>Vklopi ovoj 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="755"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="756"/>
         <source>Enable envelope 1 loop</source>
         <translation>Vklopi ovoj 1 zanko</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="757"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="758"/>
         <source>Enable sweep 1</source>
         <translation>Vklopi prelet 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="758"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="789"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="759"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="790"/>
         <source>Sweep amount</source>
         <translation>Količina preleta</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="759"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="790"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="760"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="791"/>
         <source>Sweep rate</source>
         <translation>Stopnja preleta</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="762"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="793"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="763"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="794"/>
         <source>12.5% Duty cycle</source>
         <translation>12,5% cikelj izvajanja</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="764"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="795"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="765"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="796"/>
         <source>25% Duty cycle</source>
         <translation>25% cikelj izvajanja</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="766"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="797"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="767"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="798"/>
         <source>50% Duty cycle</source>
         <translation>50% cikelj izvajanja</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="768"/>
-        <location filename="../../plugins/Nes/Nes.cpp" line="799"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="769"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="800"/>
         <source>75% Duty cycle</source>
         <translation>75% cikelj izvajanja</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="784"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="785"/>
         <source>Enable channel 2</source>
         <translation>Vklopi kanal 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="785"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="786"/>
         <source>Enable envelope 2</source>
         <translation>Vklopi ovoj 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="786"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="787"/>
         <source>Enable envelope 2 loop</source>
         <translation>Vklopi ovoj 2 zanko</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="788"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="789"/>
         <source>Enable sweep 2</source>
         <translation>Vklopi prelet 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="810"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="811"/>
         <source>Enable channel 3</source>
         <translation>Vklopi kanal 3</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="817"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="818"/>
         <source>Noise Frequency</source>
         <translation>Frekvenca šuma</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="819"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="820"/>
         <source>Frequency sweep</source>
         <translation>Prelet frekvence</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="821"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="822"/>
         <source>Enable channel 4</source>
         <translation>Vklopi kanal 4</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="822"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="823"/>
         <source>Enable envelope 4</source>
         <translation>Vklopi ovoj 4</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="823"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="824"/>
         <source>Enable envelope 4 loop</source>
         <translation>Vklopi ovoj 4 zanko</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="825"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="826"/>
         <source>Quantize noise frequency when using note frequency</source>
         <translation>Kvantizacija frekvence šuma, kadar je uporabljena frekvenca note</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="827"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="828"/>
         <source>Use note frequency for noise</source>
         <translation>Za šum uporabi frekvenco note</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="828"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="829"/>
         <source>Noise mode</source>
         <translation>Način šuma</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="832"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="833"/>
         <source>Master volume</source>
         <translation>Glavna glasnost</translation>
     </message>
     <message>
-        <location filename="../../plugins/Nes/Nes.cpp" line="833"/>
+        <location filename="../../plugins/Nes/Nes.cpp" line="834"/>
         <source>Vibrato</source>
         <translation>Vibrato</translation>
     </message>
