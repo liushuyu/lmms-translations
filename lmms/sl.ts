@@ -8635,32 +8635,32 @@ Razlog: &quot;%2&quot;</translation>
         <translation>Glavna višina</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1026"/>
+        <location filename="../../src/core/Song.cpp" line="1039"/>
         <source>Aborting project load</source>
         <translation>Prekinjam nalaganje projekta</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1027"/>
+        <location filename="../../src/core/Song.cpp" line="1040"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
         <translation>Projektna datoteka vsebuje lokalne poti do vtičnkkov, ki bi lahko vsebovale škodljivo kodo.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1032"/>
+        <location filename="../../src/core/Song.cpp" line="1045"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
         <translation>Projekta ni mogoče naložiti: Projektna datoteka vsebuje lokalne poti do vtičnikov.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1194"/>
+        <location filename="../../src/core/Song.cpp" line="1207"/>
         <source>LMMS Error report</source>
         <translation>Poročilo o LMMS napaki</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1492"/>
+        <location filename="../../src/core/Song.cpp" line="1505"/>
         <source> (repeated %1 times)</source>
         <translation>(ponovljeno %1 krat)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1499"/>
+        <location filename="../../src/core/Song.cpp" line="1512"/>
         <source>The following errors occurred while loading: </source>
         <translation>Pri nalaganju je prišlo do naslednjih napak:</translation>
     </message>
@@ -11177,8 +11177,8 @@ Prepričajte se, da imate pravico za branje te datoteke in njeno mapo ter poskus
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="113"/>
-        <source>Resonance : </source>
-        <translation>Resonanca :</translation>
+        <source>Resonance: </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="119"/>
@@ -13478,426 +13478,426 @@ Prepričajte se, da imate pravico za zapisovanje v to datoteko in njeno mapo ter
         <translation>Različica %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="109"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="110"/>
         <source>Preparing plugin browser</source>
         <translation>Pripravljam brskalnik za vtičnike</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="111"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="112"/>
         <source>Preparing file browsers</source>
         <translation>Prirpavljam datotečni brskalnik</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="116"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="117"/>
         <source>My Projects</source>
         <translation>Moji projekti</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="123"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="124"/>
         <source>My Samples</source>
         <translation>Moji vzorci</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="129"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="130"/>
         <source>My Presets</source>
         <translation>Moje predloge</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="134"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="135"/>
         <source>My Home</source>
         <translation>Moj dom</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="138"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="139"/>
         <source>Root Directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="142"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="143"/>
         <source>Volumes</source>
         <translation>Nosilci</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="145"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="146"/>
         <source>My Computer</source>
         <translation>Moj računalnik</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="163"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="164"/>
         <source>Loading background picture</source>
         <translation>Nalagam sliko ozadja</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="272"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="273"/>
         <source>&amp;File</source>
         <translation>&amp;Datoteka</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="274"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="275"/>
         <source>&amp;New</source>
         <translation>&amp;Novo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="282"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="283"/>
         <source>&amp;Open...</source>
         <translation>&amp;Odpri...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="289"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="290"/>
         <source>&amp;Save</source>
         <translation>&amp;Shrani</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="293"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="294"/>
         <source>Save &amp;As...</source>
         <translation>Shr&amp;ani kot...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="297"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="298"/>
         <source>Save as New &amp;Version</source>
         <translation>Shrani kot no&amp;vo različico</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="302"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="303"/>
         <source>Save as default template</source>
         <translation>Shrani kot privzeto predlogo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="307"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="308"/>
         <source>Import...</source>
         <translation>Uvozi...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="311"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="312"/>
         <source>E&amp;xport...</source>
         <translation>&amp;Izvozi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="316"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="317"/>
         <source>E&amp;xport Tracks...</source>
         <translation>Iz&amp;vozi steze...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="322"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="323"/>
         <source>Export &amp;MIDI...</source>
         <translation>Izvozi &amp;MIDI...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="328"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="329"/>
         <source>&amp;Quit</source>
         <translation>I&amp;zhod</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="333"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="334"/>
         <source>&amp;Edit</source>
         <translation>&amp;Uredi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="335"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="336"/>
         <source>Undo</source>
         <translation>Razveljavi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="339"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="340"/>
         <source>Redo</source>
         <translation>Uveljavi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="353"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="354"/>
         <source>Scales and keymaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="355"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="356"/>
         <source>Settings</source>
         <translation>Nastavitve</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="361"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="362"/>
         <source>&amp;View</source>
         <translation>&amp;Prikaz</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="377"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="378"/>
         <source>&amp;Tools</source>
         <translation>&amp;Orodja</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="385"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="386"/>
         <source>&amp;Help</source>
         <translation>&amp;Pomoč</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="390"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="391"/>
         <source>Online Help</source>
         <translation>Spletna pomoč</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="396"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="397"/>
         <source>Help</source>
         <translation>Pomoč</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="401"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="402"/>
         <source>About</source>
         <translation>O programu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="406"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="407"/>
         <source>Create new project</source>
         <translation>Ustvari nov projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="409"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="410"/>
         <source>Create new project from template</source>
         <translation>Ustvari nov projekt iz predloge</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="414"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="415"/>
         <source>Open existing project</source>
         <translation>Odpri obstoječi projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="417"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="418"/>
         <source>Recently opened projects</source>
         <translation>Nedavno odprti projekti</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="422"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="423"/>
         <source>Save current project</source>
         <translation>Shrani trenutni projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="425"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="426"/>
         <source>Export current project</source>
         <translation>Izvozi trenutni projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="429"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="430"/>
         <source>Metronome</source>
         <translation>Metronom</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="446"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1064"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="447"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1065"/>
         <source>Song Editor</source>
         <translation>Urejevalnik skladbe</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="451"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1068"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="452"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1069"/>
         <source>Pattern Editor</source>
         <translation>Urejevalnik matrik</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="455"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1072"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="456"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1073"/>
         <source>Piano Roll</source>
         <translation>Klavirsko črtovje</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="459"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1076"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="460"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1077"/>
         <source>Automation Editor</source>
         <translation>Urejevalnik avtomatizacije </translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="463"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1081"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="464"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1082"/>
         <source>Mixer</source>
         <translation>Mešalka</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="467"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="468"/>
         <source>Show/hide controller rack</source>
         <translation>Prikaži/skrij regal krmilnikov</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="471"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="472"/>
         <source>Show/hide project notes</source>
         <translation>Prikaži/skrij beležke projekta</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="579"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="580"/>
         <source>Untitled</source>
         <translation>neimenovano</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="594"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="595"/>
         <source>Recover session. Please save your work!</source>
         <translation>Obnovitvena seja. Shranite dokumente!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="597"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="598"/>
         <source>LMMS %1</source>
         <translation>LMMS %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="616"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="617"/>
         <source>Recovered project not saved</source>
         <translation>Obnovljen projekt ni bil shranjen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="617"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="618"/>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
         <translation>Ta projekt je bil obnovljen s prejšnje seje. Trenutno ni shranjen in bo izgubljen, če ga ne shranite. Ali ga želite shraniti?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="622"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="623"/>
         <source>Project not saved</source>
         <translation>Projekt ni shranjen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="623"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="624"/>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
         <translation>Trenutni projekt je bil po zadnjem shranjevanju spremenjen. Ali ga želite sedaj shraniti?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="759"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="760"/>
         <source>Open Project</source>
         <translation>Odpri projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="759"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="760"/>
         <source>LMMS (*.mmp *.mmpz)</source>
         <translation>LMMS (*.mmp *.mmpz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="802"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="803"/>
         <source>Save Project</source>
         <translation>Shrani projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="803"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="804"/>
         <source>LMMS Project</source>
         <translation>LMMS projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="804"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="805"/>
         <source>LMMS Project Template</source>
         <translation>Predloga za LMMS projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="834"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="835"/>
         <source>Save project template</source>
         <translation>Shrani predlogo projekta</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="882"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="883"/>
         <source>Overwrite default template?</source>
         <translation>Prepišem privzeto predlogo?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="883"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="884"/>
         <source>This will overwrite your current default template.</source>
         <translation>To bo prepisalo vašo trenutno privzeto predlogo.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="916"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="917"/>
         <source>Help not available</source>
         <translation>Pomoč ni na voljo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="917"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="918"/>
         <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>Trenutno LMMS ne ponuja pomoči.
 Obiščite http://lmms.sf.net/wiki za ogled LMMS dokumentacije.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1085"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1086"/>
         <source>Controller Rack</source>
         <translation>Regal krmilnikov</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1089"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1090"/>
         <source>Project Notes</source>
         <translation>Projektne beležke</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1096"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1097"/>
         <source>Fullscreen</source>
         <translation>Celozaslonsko</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1105"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1106"/>
         <source>Volume as dBFS</source>
         <translation>Glasnost kot dBFS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1111"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1112"/>
         <source>Smooth scroll</source>
         <translation>Mehko drsenje</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1125"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1126"/>
         <source>Enable note labels in piano roll</source>
         <translation>Na klavirskem črtovju prikaži oznake not</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1415"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1416"/>
         <source>MIDI File (*.mid)</source>
         <translation>MIDI datoteka (*.mid)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1427"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1484"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1428"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1485"/>
         <source>untitled</source>
         <translation>neimenovano</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1431"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1487"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1432"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1488"/>
         <source>Select file for project-export...</source>
         <translation>Izberi datoteko za izvoz projekta...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1456"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1457"/>
         <source>Select directory for writing exported tracks...</source>
         <translation>Izberite mapo za zapisovanje izvoženih datotek...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1518"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1519"/>
         <source>Save project</source>
         <translation>Shrani projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1535"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1536"/>
         <source>Project saved</source>
         <translation>Projekt je shranjen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1535"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1536"/>
         <source>The project %1 is now saved.</source>
         <translation>Projekt %1 je zdaj shranjen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1542"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1543"/>
         <source>Project NOT saved.</source>
         <translation>Projekt NI shranjen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1542"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1543"/>
         <source>The project %1 was not saved!</source>
         <translation>Projekt %1 ni bil shranjen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1581"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1582"/>
         <source>Import file</source>
         <translation>Uvozi datoteko</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1583"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1584"/>
         <source>MIDI sequences</source>
         <translation>MIDI sekvence</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1585"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1586"/>
         <source>Hydrogen projects</source>
         <translation>Hydrogen projekti</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1587"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1588"/>
         <source>All file types</source>
         <translation>Vse vrste datotek</translation>
     </message>
@@ -17132,7 +17132,7 @@ Poskrbite, da boste imeli vsaj bralne pravice in poskusite znova.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="417"/>
-        <source>An unknown error has occured and the file could not be saved.</source>
+        <source>An unknown error has occurred and the file could not be saved.</source>
         <translation type="unfinished"/>
     </message>
     <message>

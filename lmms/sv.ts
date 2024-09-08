@@ -8812,32 +8812,32 @@ Reason: &quot;%2&quot;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1026"/>
+        <location filename="../../src/core/Song.cpp" line="1039"/>
         <source>Aborting project load</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1027"/>
+        <location filename="../../src/core/Song.cpp" line="1040"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1032"/>
+        <location filename="../../src/core/Song.cpp" line="1045"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1194"/>
+        <location filename="../../src/core/Song.cpp" line="1207"/>
         <source>LMMS Error report</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1492"/>
+        <location filename="../../src/core/Song.cpp" line="1505"/>
         <source> (repeated %1 times)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1499"/>
+        <location filename="../../src/core/Song.cpp" line="1512"/>
         <source>The following errors occurred while loading: </source>
         <translation type="unfinished"/>
     </message>
@@ -11352,7 +11352,7 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="113"/>
-        <source>Resonance : </source>
+        <source>Resonance: </source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -13650,425 +13650,425 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="109"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="110"/>
         <source>Preparing plugin browser</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="111"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="112"/>
         <source>Preparing file browsers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="116"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="117"/>
         <source>My Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="123"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="124"/>
         <source>My Samples</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="129"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="130"/>
         <source>My Presets</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="134"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="135"/>
         <source>My Home</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="138"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="139"/>
         <source>Root Directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="142"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="143"/>
         <source>Volumes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="145"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="146"/>
         <source>My Computer</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="163"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="164"/>
         <source>Loading background picture</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="272"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="273"/>
         <source>&amp;File</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="274"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="275"/>
         <source>&amp;New</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="282"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="283"/>
         <source>&amp;Open...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="289"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="290"/>
         <source>&amp;Save</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="293"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="294"/>
         <source>Save &amp;As...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="297"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="298"/>
         <source>Save as New &amp;Version</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="302"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="303"/>
         <source>Save as default template</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="307"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="308"/>
         <source>Import...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="311"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="312"/>
         <source>E&amp;xport...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="316"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="317"/>
         <source>E&amp;xport Tracks...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="322"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="323"/>
         <source>Export &amp;MIDI...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="328"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="329"/>
         <source>&amp;Quit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="333"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="334"/>
         <source>&amp;Edit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="335"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="336"/>
         <source>Undo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="339"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="340"/>
         <source>Redo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="353"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="354"/>
         <source>Scales and keymaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="355"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="356"/>
         <source>Settings</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="361"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="362"/>
         <source>&amp;View</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="377"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="378"/>
         <source>&amp;Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="385"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="386"/>
         <source>&amp;Help</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="390"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="391"/>
         <source>Online Help</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="396"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="397"/>
         <source>Help</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="401"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="402"/>
         <source>About</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="406"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="407"/>
         <source>Create new project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="409"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="410"/>
         <source>Create new project from template</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="414"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="415"/>
         <source>Open existing project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="417"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="418"/>
         <source>Recently opened projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="422"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="423"/>
         <source>Save current project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="425"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="426"/>
         <source>Export current project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="429"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="430"/>
         <source>Metronome</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="446"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1064"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="447"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1065"/>
         <source>Song Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="451"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1068"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="452"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1069"/>
         <source>Pattern Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="455"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1072"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="456"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1073"/>
         <source>Piano Roll</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="459"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1076"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="460"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1077"/>
         <source>Automation Editor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="463"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1081"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="464"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1082"/>
         <source>Mixer</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="467"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="468"/>
         <source>Show/hide controller rack</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="471"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="472"/>
         <source>Show/hide project notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="579"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="580"/>
         <source>Untitled</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="594"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="595"/>
         <source>Recover session. Please save your work!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="597"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="598"/>
         <source>LMMS %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="616"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="617"/>
         <source>Recovered project not saved</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="617"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="618"/>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="622"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="623"/>
         <source>Project not saved</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="623"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="624"/>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="759"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="760"/>
         <source>Open Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="759"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="760"/>
         <source>LMMS (*.mmp *.mmpz)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="802"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="803"/>
         <source>Save Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="803"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="804"/>
         <source>LMMS Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="804"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="805"/>
         <source>LMMS Project Template</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="834"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="835"/>
         <source>Save project template</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="882"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="883"/>
         <source>Overwrite default template?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="883"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="884"/>
         <source>This will overwrite your current default template.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="916"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="917"/>
         <source>Help not available</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="917"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="918"/>
         <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1085"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1086"/>
         <source>Controller Rack</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1089"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1090"/>
         <source>Project Notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1096"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1097"/>
         <source>Fullscreen</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1105"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1106"/>
         <source>Volume as dBFS</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1111"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1112"/>
         <source>Smooth scroll</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1125"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1126"/>
         <source>Enable note labels in piano roll</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1415"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1416"/>
         <source>MIDI File (*.mid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1427"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1484"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1428"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1485"/>
         <source>untitled</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1431"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1487"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1432"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1488"/>
         <source>Select file for project-export...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1456"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1457"/>
         <source>Select directory for writing exported tracks...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1518"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1519"/>
         <source>Save project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1535"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1536"/>
         <source>Project saved</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1535"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1536"/>
         <source>The project %1 is now saved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1542"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1543"/>
         <source>Project NOT saved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1542"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1543"/>
         <source>The project %1 was not saved!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1581"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1582"/>
         <source>Import file</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1583"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1584"/>
         <source>MIDI sequences</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1585"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1586"/>
         <source>Hydrogen projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1587"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1588"/>
         <source>All file types</source>
         <translation type="unfinished"/>
     </message>
@@ -17295,7 +17295,7 @@ Latency: %2 ms</source>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="417"/>
-        <source>An unknown error has occured and the file could not be saved.</source>
+        <source>An unknown error has occurred and the file could not be saved.</source>
         <translation type="unfinished"/>
     </message>
     <message>

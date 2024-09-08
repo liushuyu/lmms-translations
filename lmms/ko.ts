@@ -8817,32 +8817,32 @@ Reason: &quot;%2&quot;</source>
         <translation>마스터 피치</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1026"/>
+        <location filename="../../src/core/Song.cpp" line="1039"/>
         <source>Aborting project load</source>
         <translation>프로젝트 불러오기 중단하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1027"/>
+        <location filename="../../src/core/Song.cpp" line="1040"/>
         <source>Project file contains local paths to plugins, which could be used to run malicious code.</source>
         <translation>프로젝트 파일에는 악성 코드를 실행하는 데 사용될 수 있는 플러그인의 로컬 경로가 포함되어 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1032"/>
+        <location filename="../../src/core/Song.cpp" line="1045"/>
         <source>Can&apos;t load project: Project file contains local paths to plugins.</source>
         <translation>프로젝트 불러올 수 없음: 프로젝트 파일에 플러그인에 대한 로컬 경로가 포함되어 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1194"/>
+        <location filename="../../src/core/Song.cpp" line="1207"/>
         <source>LMMS Error report</source>
         <translation>LMMS 오류 보고</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1492"/>
+        <location filename="../../src/core/Song.cpp" line="1505"/>
         <source> (repeated %1 times)</source>
         <translation> (%1번 반복됨)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1499"/>
+        <location filename="../../src/core/Song.cpp" line="1512"/>
         <source>The following errors occurred while loading: </source>
         <translation>불러오는 동안 다음 오류가 발생했습니다: </translation>
     </message>
@@ -11359,8 +11359,8 @@ Please make sure you have read-permission to the file and the directory containi
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="113"/>
-        <source>Resonance : </source>
-        <translation>공명 : </translation>
+        <source>Resonance: </source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="119"/>
@@ -13660,426 +13660,426 @@ Please make sure you have write permission to the file and the directory contain
         <translation>버전 %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="109"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="110"/>
         <source>Preparing plugin browser</source>
         <translation>플러그인 탐색기 준비하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="111"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="112"/>
         <source>Preparing file browsers</source>
         <translation>파일 탐색기 준비하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="116"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="117"/>
         <source>My Projects</source>
         <translation>내 프로젝트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="123"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="124"/>
         <source>My Samples</source>
         <translation>내 샘플</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="129"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="130"/>
         <source>My Presets</source>
         <translation>내 프리셋</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="134"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="135"/>
         <source>My Home</source>
         <translation>내 홈</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="138"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="139"/>
         <source>Root Directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="142"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="143"/>
         <source>Volumes</source>
         <translation>볼륨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="145"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="146"/>
         <source>My Computer</source>
         <translation>내 컴퓨터</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="163"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="164"/>
         <source>Loading background picture</source>
         <translation>배경 사진 불러오는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="272"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="273"/>
         <source>&amp;File</source>
         <translation>파일(&amp;F)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="274"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="275"/>
         <source>&amp;New</source>
         <translation>새로 만들기(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="282"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="283"/>
         <source>&amp;Open...</source>
         <translation>열기(&amp;O)...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="289"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="290"/>
         <source>&amp;Save</source>
         <translation>저장(&amp;S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="293"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="294"/>
         <source>Save &amp;As...</source>
         <translation>다른 이름으로 저장(&amp;A)...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="297"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="298"/>
         <source>Save as New &amp;Version</source>
         <translation>새 버전으로 저장(&amp;V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="302"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="303"/>
         <source>Save as default template</source>
         <translation>기본 템플릿으로 저장하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="307"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="308"/>
         <source>Import...</source>
         <translation>가져오기...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="311"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="312"/>
         <source>E&amp;xport...</source>
         <translation>내보내기(&amp;X)...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="316"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="317"/>
         <source>E&amp;xport Tracks...</source>
         <translation>트랙 내보내기(&amp;X)...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="322"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="323"/>
         <source>Export &amp;MIDI...</source>
         <translation>MIDI 내보내기(&amp;M)...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="328"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="329"/>
         <source>&amp;Quit</source>
         <translation>종료(&amp;Q)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="333"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="334"/>
         <source>&amp;Edit</source>
         <translation>편집(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="335"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="336"/>
         <source>Undo</source>
         <translation>실행 취소</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="339"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="340"/>
         <source>Redo</source>
         <translation>다시 실행</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="353"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="354"/>
         <source>Scales and keymaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="355"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="356"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="361"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="362"/>
         <source>&amp;View</source>
         <translation>보기(&amp;V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="377"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="378"/>
         <source>&amp;Tools</source>
         <translation>도구(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="385"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="386"/>
         <source>&amp;Help</source>
         <translation>도움말(&amp;H)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="390"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="391"/>
         <source>Online Help</source>
         <translation>온라인 도움말</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="396"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="397"/>
         <source>Help</source>
         <translation>도움말</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="401"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="402"/>
         <source>About</source>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="406"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="407"/>
         <source>Create new project</source>
         <translation>새 프로젝트 만들기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="409"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="410"/>
         <source>Create new project from template</source>
         <translation>템플릿에서 새 프로젝트 만들기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="414"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="415"/>
         <source>Open existing project</source>
         <translation>기존 프로젝트 열기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="417"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="418"/>
         <source>Recently opened projects</source>
         <translation>최근에 열린 프로젝트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="422"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="423"/>
         <source>Save current project</source>
         <translation>현재 프로젝트 저장하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="425"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="426"/>
         <source>Export current project</source>
         <translation>현재 프로젝트 내보내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="429"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="430"/>
         <source>Metronome</source>
         <translation>메트로놈</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="446"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1064"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="447"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1065"/>
         <source>Song Editor</source>
         <translation>노래 편집기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="451"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1068"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="452"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1069"/>
         <source>Pattern Editor</source>
         <translation>패턴 편집기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="455"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1072"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="456"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1073"/>
         <source>Piano Roll</source>
         <translation>피아노 롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="459"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1076"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="460"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1077"/>
         <source>Automation Editor</source>
         <translation>오토메이션 편집기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="463"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1081"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="464"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1082"/>
         <source>Mixer</source>
         <translation>믹서</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="467"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="468"/>
         <source>Show/hide controller rack</source>
         <translation>컨트롤러 랙 표시하기/숨기기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="471"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="472"/>
         <source>Show/hide project notes</source>
         <translation>프로젝트 노트 표시하기/숨기기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="579"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="580"/>
         <source>Untitled</source>
         <translation>제목 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="594"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="595"/>
         <source>Recover session. Please save your work!</source>
         <translation>복구 세션입니다. 프로젝트 파일을 저장해 주세요!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="597"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="598"/>
         <source>LMMS %1</source>
         <translation>LMMS %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="616"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="617"/>
         <source>Recovered project not saved</source>
         <translation>복구된 프로젝트가 저장되지 않음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="617"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="618"/>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
         <translation>이 프로젝트는 이전 세션에서 복구되었습니다. 현재 저장되지 않은 상태이며 저장하지 않으면 손실됩니다. 지금 저장하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="622"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="623"/>
         <source>Project not saved</source>
         <translation>프로젝트 저장되지 않음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="623"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="624"/>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
         <translation>현재 프로젝트는 마지막 저장 이후 수정되었습니다. 지금 저장하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="759"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="760"/>
         <source>Open Project</source>
         <translation>프로젝트 열기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="759"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="760"/>
         <source>LMMS (*.mmp *.mmpz)</source>
         <translation>LMMS (*.mmp *.mmpz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="802"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="803"/>
         <source>Save Project</source>
         <translation>프로젝트 저장하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="803"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="804"/>
         <source>LMMS Project</source>
         <translation>LMMS 프로젝트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="804"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="805"/>
         <source>LMMS Project Template</source>
         <translation>LMMS 프로젝트 템플릿</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="834"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="835"/>
         <source>Save project template</source>
         <translation>프로젝트 템플릿 저장하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="882"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="883"/>
         <source>Overwrite default template?</source>
         <translation>기본 템플릿을 덮어쓰시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="883"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="884"/>
         <source>This will overwrite your current default template.</source>
         <translation>이 작업은 현재의 기본 템플릿을 덮어씁니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="916"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="917"/>
         <source>Help not available</source>
         <translation>도움말 사용할 수 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="917"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="918"/>
         <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>현재 LMMS에서 사용할 수 있는 도움말이 없습니다.
 LMMS에 대한 문서는 http://lmms.sf.net/wiki를 방문하세요.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1085"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1086"/>
         <source>Controller Rack</source>
         <translation>컨트롤러 랙</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1089"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1090"/>
         <source>Project Notes</source>
         <translation>프로젝트 노트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1096"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1097"/>
         <source>Fullscreen</source>
         <translation>전체화면</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1105"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1106"/>
         <source>Volume as dBFS</source>
         <translation>볼륨을 dBFS 단위로</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1111"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1112"/>
         <source>Smooth scroll</source>
         <translation>부드러운 스크롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1125"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1126"/>
         <source>Enable note labels in piano roll</source>
         <translation>피아노 롤에서 노트 레이블 활성화</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1415"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1416"/>
         <source>MIDI File (*.mid)</source>
         <translation>MIDI 파일 (*.mid)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1427"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1484"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1428"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1485"/>
         <source>untitled</source>
         <translation>제목 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1431"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1487"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1432"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1488"/>
         <source>Select file for project-export...</source>
         <translation>프로젝트를 내보낼 파일 선택하기...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1456"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1457"/>
         <source>Select directory for writing exported tracks...</source>
         <translation>내보낸 트랙을 저장할 디렉터리 선택하기...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1518"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1519"/>
         <source>Save project</source>
         <translation>프로젝트 저장하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1535"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1536"/>
         <source>Project saved</source>
         <translation>프로젝트 저장됨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1535"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1536"/>
         <source>The project %1 is now saved.</source>
         <translation>%1 프로젝트가 저장되었습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1542"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1543"/>
         <source>Project NOT saved.</source>
         <translation>프로젝트가 저장되지 않았습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1542"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1543"/>
         <source>The project %1 was not saved!</source>
         <translation>%1 프로젝트가 저장되지 않았습니다!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1581"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1582"/>
         <source>Import file</source>
         <translation>파일 가져오기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1583"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1584"/>
         <source>MIDI sequences</source>
         <translation>MIDI 시퀀스</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1585"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1586"/>
         <source>Hydrogen projects</source>
         <translation>Hydrogen 프로젝트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1587"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1588"/>
         <source>All file types</source>
         <translation>모든 파일 유형</translation>
     </message>
@@ -17314,7 +17314,7 @@ Latency: %2 ms</source>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="417"/>
-        <source>An unknown error has occured and the file could not be saved.</source>
+        <source>An unknown error has occurred and the file could not be saved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
