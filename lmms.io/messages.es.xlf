@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="G87JnBY" resname="VST Support">
         <source>VST Support</source>
-        <target>Suporte VST</target>
+        <target>Soporte VST</target>
         
       </trans-unit>
       <trans-unit id="Dm1Wbjx" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
@@ -108,14 +108,17 @@
       </trans-unit>
       <trans-unit id="jeTovr1" resname="Run the following command as root in a terminal:">
         <source>Run the following command as root in a terminal:</source>
+        <target>Ejecuta el siguiente comando como root en una terminal:</target>
         
       </trans-unit>
       <trans-unit id="yYlHSDn" resname="Run the following command in a terminal:">
         <source>Run the following command in a terminal:</source>
+        <target>Ejecuta el siguiente comando en una terminal:</target>
         
       </trans-unit>
       <trans-unit id="FHRDQvS" resname="For VST support, please install wine or wine-staging from the repository">
         <source>For VST support, please install wine or wine-staging from the repository</source>
+        <target>Para el soporte de VST, por favor instala wine o wine-staging desde el repositorio</target>
         
       </trans-unit>
       <trans-unit id="6Fx.qBW" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
@@ -124,10 +127,12 @@
       </trans-unit>
       <trans-unit id="MgLmIXj" resname="To install LMMS on AOSC OS with PackageKit (recommended):">
         <source>To install LMMS on AOSC OS with PackageKit (recommended):</source>
+        <target>Para instalar LMMS en AOSC OS utilizando PackageKit (recomendado):</target>
         
       </trans-unit>
       <trans-unit id="ocLqJck" resname="To install LMMS on AOSC OS with DPKG:">
         <source>To install LMMS on AOSC OS with DPKG:</source>
+        <target>Para instalar LMMS en AOSC OS con DPKG:</target>
         
       </trans-unit>
       <trans-unit id="3E_Z6Ww" resname="Build LMMS from source">
@@ -136,66 +141,82 @@
       </trans-unit>
       <trans-unit id="XF2XfTd" resname="If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.">
         <source>If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.</source>
+        <target>Si su distribución de Linux no proporciona un paquete lmms (o solo uno desactualizado), aún puede compilar &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS desde el código fuente. Visite la wiki de desarrollo de LMMS en GitHub&lt;/a&gt; para obtener instrucciones sobre cómo compilar LMMS para Linux.</target>
         
       </trans-unit>
       <trans-unit id="_qygR0H" resname="Download LMMS">
         <source>Download LMMS</source>
+        <target>Descargar LMMS</target>
         
       </trans-unit>
       <trans-unit id="3KQyvmZ" resname="Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:">
         <source>Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:</source>
+        <target>¡Descargar y usar LMMS es completamente gratis! Solo elige el sistema operativo en el que deseas ejecutar LMMS:</target>
         
       </trans-unit>
       <trans-unit id="il5xUz7" resname="Install LMMS on Linux">
         <source>Install LMMS on Linux</source>
+        <target>Instalar LMMS en Linux</target>
         
       </trans-unit>
       <trans-unit id="MaMF3_X" resname="Click one of the buttons below to download LMMS for Linux.">
         <source>Click one of the buttons below to download LMMS for Linux.</source>
+        <target>Haz clic en uno de los botones aca abajo para descargar LMMS para Linux.</target>
         
       </trans-unit>
       <trans-unit id="fe0jPF7" resname="Stable Versions">
         <source>Stable Versions</source>
+        <target>Versiones Estables</target>
         
       </trans-unit>
       <trans-unit id="49kH3Yb" resname="Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running">
         <source>Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running</source>
+        <target>Ejecuta &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; para establecer el archivo &lt;code&gt;.AppImage&lt;/code&gt; como ejecutable antes de ejecutarlo</target>
         
       </trans-unit>
       <trans-unit id="OzIyYFY" resname="Beta Versions">
         <source>Beta Versions</source>
+        <target>Versiones Beta</target>
         
       </trans-unit>
       <trans-unit id="g3QeHa0" resname="Other options">
         <source>Other options</source>
+        <target>Otras opciones</target>
         
       </trans-unit>
       <trans-unit id="qvfBNXu" resname="Install LMMS on Windows">
         <source>Install LMMS on Windows</source>
+        <target>Instalar LMMS en Windows</target>
         
       </trans-unit>
       <trans-unit id="L4N.x7z" resname="Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows">
         <source>Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows</source>
+        <target>Haz clic en uno de los botones de abajo (sea 32 bits o 64 bits) para descargar LMMS para Windows</target>
         
       </trans-unit>
       <trans-unit id="D47H5zq" resname="Install LMMS on macOS">
         <source>Install LMMS on macOS</source>
+        <target>Instalar LMMS en macOS</target>
         
       </trans-unit>
       <trans-unit id="q_jbBQk" resname="Click one of the buttons below to download LMMS for macOS">
         <source>Click one of the buttons below to download LMMS for macOS</source>
+        <target>Haz click en uno de los botones de abajo para descargar LMMS para macOS</target>
         
       </trans-unit>
       <trans-unit id="i4b9jxT" resname="Downloads labeled Beta are pre-release software, stability may suffer.">
         <source>Downloads labeled Beta are pre-release software, stability may suffer.</source>
+        <target>Las descargas etiquetadas como Beta son software en pre-lanzamiento; la estabilidad puede verse afectada</target>
         
       </trans-unit>
       <trans-unit id="u9r1mHX" resname="Previous releases">
         <source>Previous releases</source>
+        <target>Versiones anteriores</target>
         
       </trans-unit>
       <trans-unit id="p2JwKTn" resname="Show release notes">
         <source>Show release notes</source>
+        <target>Mostrar notas de la version</target>
         
       </trans-unit>
       <trans-unit id="JeB7PmY" resname="LMMS is a free, open-source software built entirely by a small number of&#10;&#9;volunteers in their free time. But to keep the project going, we need this&#10;&#9;number to grow. So if you feel like giving something back to the community,&#10;&#9;join us in making LMMS better!">
@@ -203,18 +224,25 @@
 	volunteers in their free time. But to keep the project going, we need this
 	number to grow. So if you feel like giving something back to the community,
 	join us in making LMMS better!</source>
+        <target>LMMS es un software gratuito y de código abierto desarrollado por un pequeño número de 
+	voluntarios en su tiempo libre. Pero para mantener el proyecto en marcha, necesitamos que
+	número crezca. Así que, si sientes que quieres contribuir a la comunidad,
+	¡únete a nosotros para hacer que LMMS sea cada vez mejor!</target>
         
       </trans-unit>
       <trans-unit id="SfCm20f" resname="What you can do">
         <source>What you can do</source>
+        <target>Lo que puedes hacer</target>
         
       </trans-unit>
       <trans-unit id="zaIp1qn" resname="There are multiple ways of contributing:">
         <source>There are multiple ways of contributing:</source>
+        <target>Hay múltiples formas de contribuir:</target>
         
       </trans-unit>
       <trans-unit id="tOhjAdN" resname="Join Development">
         <source>Join Development</source>
+        <target>Únete al desarrollo</target>
         
       </trans-unit>
       <trans-unit id="iMD1g4u" resname="We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt&#10;&#9;&#9;&#9;&#9;&#9;   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with&#10;&#9;&#9;&#9;&#9;&#9;   coding!">

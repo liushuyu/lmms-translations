@@ -4813,27 +4813,27 @@ Nome Plugin
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="44"/>
         <source>Sample rate</source>
-        <translation type="unfinished"/>
+        <translation>Frequenza di campionamento</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="45"/>
         <source>Stereo difference</source>
-        <translation type="unfinished"/>
+        <translation>Differenza di stereo</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="46"/>
         <source>Levels</source>
-        <translation type="unfinished"/>
+        <translation>Livelli</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="47"/>
         <source>Rate enabled</source>
-        <translation type="unfinished"/>
+        <translation>Frequenza abilitata</translation>
     </message>
     <message>
         <location filename="../../plugins/Bitcrush/BitcrushControls.cpp" line="48"/>
         <source>Depth enabled</source>
-        <translation type="unfinished"/>
+        <translation>Profondità abilitata</translation>
     </message>
 </context>
 <context>
@@ -4841,7 +4841,7 @@ Nome Plugin
     <message>
         <location filename="../../src/core/Clip.cpp" line="50"/>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Muto</translation>
     </message>
 </context>
 <context>
@@ -4849,142 +4849,142 @@ Nome Plugin
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="38"/>
         <source>Threshold</source>
-        <translation type="unfinished"/>
+        <translation>Threshold</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="39"/>
         <source>Ratio</source>
-        <translation type="unfinished"/>
+        <translation>Ratio</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="40"/>
         <source>Attack</source>
-        <translation type="unfinished"/>
+        <translation>Attack</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="41"/>
         <source>Release</source>
-        <translation type="unfinished"/>
+        <translation>Release</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="42"/>
         <source>Knee</source>
-        <translation type="unfinished"/>
+        <translation>Knee</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="43"/>
         <source>Hold</source>
-        <translation type="unfinished"/>
+        <translation>Hold</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="44"/>
         <source>Range</source>
-        <translation type="unfinished"/>
+        <translation>Range</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="45"/>
         <source>RMS Size</source>
-        <translation type="unfinished"/>
+        <translation>RMS Size</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="46"/>
         <source>Mid/Side</source>
-        <translation type="unfinished"/>
+        <translation>Mid/Side</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="47"/>
         <source>Peak Mode</source>
-        <translation type="unfinished"/>
+        <translation>Peak Mode</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="48"/>
         <source>Lookahead Length</source>
-        <translation type="unfinished"/>
+        <translation>Lunghezza di lookahead</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="49"/>
         <source>Input Balance</source>
-        <translation type="unfinished"/>
+        <translation>Input bilanciamento</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="50"/>
         <source>Output Balance</source>
-        <translation type="unfinished"/>
+        <translation>Output bilanciamento</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="51"/>
         <source>Limiter</source>
-        <translation type="unfinished"/>
+        <translation>Limiter</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="52"/>
         <source>Output Gain</source>
-        <translation type="unfinished"/>
+        <translation>Output Gain</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="53"/>
         <source>Input Gain</source>
-        <translation type="unfinished"/>
+        <translation>Input Gain</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="54"/>
         <source>Blend</source>
-        <translation type="unfinished"/>
+        <translation>Blend</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="55"/>
         <source>Stereo Balance</source>
-        <translation type="unfinished"/>
+        <translation>Stereo bilanciamento</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="56"/>
         <source>Auto Makeup Gain</source>
-        <translation type="unfinished"/>
+        <translation>Auto Makeup Gain</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="57"/>
         <source>Audition</source>
-        <translation type="unfinished"/>
+        <translation>Audition</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="58"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Feedback</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="59"/>
         <source>Auto Attack</source>
-        <translation type="unfinished"/>
+        <translation>Auto Attack</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="60"/>
         <source>Auto Release</source>
-        <translation type="unfinished"/>
+        <translation>Auto Release</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="61"/>
         <source>Lookahead</source>
-        <translation type="unfinished"/>
+        <translation>Lookahead</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="62"/>
         <source>Tilt</source>
-        <translation type="unfinished"/>
+        <translation>Tilt</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="63"/>
         <source>Tilt Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Tilt Frequenza</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="64"/>
         <source>Stereo Link</source>
-        <translation type="unfinished"/>
+        <translation>Stereo Link</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="65"/>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Mix</translation>
     </message>
 </context>
 <context>
@@ -4992,7 +4992,7 @@ Nome Plugin
     <message>
         <location filename="../../src/core/Controller.cpp" line="62"/>
         <source>Controller %1</source>
-        <translation type="unfinished"/>
+        <translation>Controller %1</translation>
     </message>
 </context>
 <context>
@@ -5000,27 +5000,27 @@ Nome Plugin
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="37"/>
         <source>Delay samples</source>
-        <translation type="unfinished"/>
+        <translation>Delay samples</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="38"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Feedback</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="39"/>
         <source>LFO frequency</source>
-        <translation type="unfinished"/>
+        <translation>LFO frequenza</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="40"/>
         <source>LFO amount</source>
-        <translation type="unfinished"/>
+        <translation>LFO quantità</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControls.cpp" line="41"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Output gain</translation>
     </message>
 </context>
 <context>
@@ -5028,27 +5028,27 @@ Nome Plugin
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="37"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Quantità</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="38"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frequenza</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="39"/>
         <source>Resonance</source>
-        <translation type="unfinished"/>
+        <translation>Risonanza</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="40"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Feedback</translation>
     </message>
     <message>
         <location filename="../../plugins/Dispersion/DispersionControls.cpp" line="41"/>
         <source>DC Offset Removal</source>
-        <translation type="unfinished"/>
+        <translation>Rimozione di DC Offset</translation>
     </message>
 </context>
 <context>
@@ -5056,189 +5056,189 @@ Nome Plugin
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="43"/>
         <source>Filter 1 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filtro 1 abilitato</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="44"/>
         <source>Filter 1 type</source>
-        <translation type="unfinished"/>
+        <translation>Filtro 1 tipo</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="45"/>
         <source>Cutoff frequency 1</source>
-        <translation type="unfinished"/>
+        <translation>Frequenza di cutoff 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="46"/>
         <source>Q/Resonance 1</source>
-        <translation type="unfinished"/>
+        <translation>Q/Risonanza 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="47"/>
         <source>Gain 1</source>
-        <translation type="unfinished"/>
+        <translation>Gain 1</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="49"/>
         <source>Mix</source>
-        <translation type="unfinished"/>
+        <translation>Mix</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="51"/>
         <source>Filter 2 enabled</source>
-        <translation type="unfinished"/>
+        <translation>Filtro 2 abilitato</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="52"/>
         <source>Filter 2 type</source>
-        <translation type="unfinished"/>
+        <translation>Filtro 2 tipo</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="53"/>
         <source>Cutoff frequency 2</source>
-        <translation type="unfinished"/>
+        <translation>Frequenza di cutoff 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="54"/>
         <source>Q/Resonance 2</source>
-        <translation type="unfinished"/>
+        <translation>Q/Risonanza 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="55"/>
         <source>Gain 2</source>
-        <translation type="unfinished"/>
+        <translation>Gain 2</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="57"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="80"/>
         <source>Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>Low-pass</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="58"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="81"/>
         <source>Hi-pass</source>
-        <translation type="unfinished"/>
+        <translation>Hi-pass</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="59"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="82"/>
         <source>Band-pass csg</source>
-        <translation type="unfinished"/>
+        <translation>Band-pass csg</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="60"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="83"/>
         <source>Band-pass czpg</source>
-        <translation type="unfinished"/>
+        <translation>Band-pass czpg</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="61"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="84"/>
         <source>Notch</source>
-        <translation type="unfinished"/>
+        <translation>Notch</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="62"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="85"/>
         <source>All-pass</source>
-        <translation type="unfinished"/>
+        <translation>All-pass</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="63"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="86"/>
         <source>Moog</source>
-        <translation type="unfinished"/>
+        <translation>Moog</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="64"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="87"/>
         <source>2x Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>2x Low-pass</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="65"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="88"/>
         <source>RC Low-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Low-pass 12 dB/oct</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="66"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="89"/>
         <source>RC Band-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Band-pass 12 dB/oct</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="67"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="90"/>
         <source>RC High-pass 12 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC High-pass 12 dB/oct</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="68"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="91"/>
         <source>RC Low-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Low-pass 24 dB/oct</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="69"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="92"/>
         <source>RC Band-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC Band-pass 24 dB/oct</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="70"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="93"/>
         <source>RC High-pass 24 dB/oct</source>
-        <translation type="unfinished"/>
+        <translation>RC High-pass 24 dB/oct</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="71"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="94"/>
         <source>Vocal Formant</source>
-        <translation type="unfinished"/>
+        <translation>Formante della voce</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="72"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="95"/>
         <source>2x Moog</source>
-        <translation type="unfinished"/>
+        <translation>2x Moog</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="73"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="96"/>
         <source>SV Low-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV Low-pass</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="74"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="97"/>
         <source>SV Band-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV Band-pass</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="75"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="98"/>
         <source>SV High-pass</source>
-        <translation type="unfinished"/>
+        <translation>SV High-pass</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="76"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="99"/>
         <source>SV Notch</source>
-        <translation type="unfinished"/>
+        <translation>SV Notch</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="77"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="100"/>
         <source>Fast Formant</source>
-        <translation type="unfinished"/>
+        <translation>Formante veloce</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="78"/>
         <location filename="../../plugins/DualFilter/DualFilterControls.cpp" line="101"/>
         <source>Tripole</source>
-        <translation type="unfinished"/>
+        <translation>Tripole</translation>
     </message>
 </context>
 <context>
@@ -5246,27 +5246,27 @@ Nome Plugin
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="45"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Input gain</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="46"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Output gain</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="47"/>
         <source>Attack time</source>
-        <translation type="unfinished"/>
+        <translation>Tempo di attacco</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="48"/>
         <source>Release time</source>
-        <translation type="unfinished"/>
+        <translation>Tempo di rilascio</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessorControls.cpp" line="50"/>
         <source>Stereo mode</source>
-        <translation type="unfinished"/>
+        <translation>Modalità stereo</translation>
     </message>
 </context>
 <context>
@@ -5274,22 +5274,22 @@ Nome Plugin
     <message>
         <location filename="../../src/core/Effect.cpp" line="51"/>
         <source>Effect enabled</source>
-        <translation type="unfinished"/>
+        <translation>Effetto abilitato</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="52"/>
         <source>Wet/Dry mix</source>
-        <translation type="unfinished"/>
+        <translation>Wet/Dry mix</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="53"/>
         <source>Gate</source>
-        <translation type="unfinished"/>
+        <translation>Gate</translation>
     </message>
     <message>
         <location filename="../../src/core/Effect.cpp" line="54"/>
         <source>Decay</source>
-        <translation type="unfinished"/>
+        <translation>Decadimento</translation>
     </message>
 </context>
 <context>
@@ -5297,7 +5297,7 @@ Nome Plugin
     <message>
         <location filename="../../src/core/EffectChain.cpp" line="42"/>
         <source>Effects enabled</source>
-        <translation type="unfinished"/>
+        <translation>Effetti abilitati</translation>
     </message>
 </context>
 <context>
@@ -5305,22 +5305,22 @@ Nome Plugin
     <message>
         <location filename="../../src/core/Engine.cpp" line="62"/>
         <source>Generating wavetables</source>
-        <translation type="unfinished"/>
+        <translation>Generazione di wavetable</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="68"/>
         <source>Initializing data structures</source>
-        <translation type="unfinished"/>
+        <translation>Inizializzazione di strutture dati</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="83"/>
         <source>Opening audio and midi devices</source>
-        <translation type="unfinished"/>
+        <translation>Apertura di audio e dispositivi midi</translation>
     </message>
     <message>
         <location filename="../../src/core/Engine.cpp" line="88"/>
         <source>Launching audio engine threads</source>
-        <translation type="unfinished"/>
+        <translation>Avvio dei thread del motore audio</translation>
     </message>
 </context>
 <context>
@@ -5328,37 +5328,37 @@ Nome Plugin
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="100"/>
         <source>Env pre-delay</source>
-        <translation type="unfinished"/>
+        <translation>Env pre-delay</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="101"/>
         <source>Env attack</source>
-        <translation type="unfinished"/>
+        <translation>Env attack</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="102"/>
         <source>Env hold</source>
-        <translation type="unfinished"/>
+        <translation>Env hold</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="103"/>
         <source>Env decay</source>
-        <translation type="unfinished"/>
+        <translation>Env decay</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="104"/>
         <source>Env sustain</source>
-        <translation type="unfinished"/>
+        <translation>Env sustain</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="105"/>
         <source>Env release</source>
-        <translation type="unfinished"/>
+        <translation>Env release</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="106"/>
         <source>Env mod amount</source>
-        <translation type="unfinished"/>
+        <translation>Env mod amount</translation>
     </message>
     <message>
         <location filename="../../src/core/EnvelopeAndLfoParameters.cpp" line="114"/>
@@ -14460,52 +14460,52 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>lmms::gui::MixerChannelView</name>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="80"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="78"/>
         <source>Channel send amount</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="112"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="110"/>
         <source>Mute</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="117"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="115"/>
         <source>Mute this channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="119"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="117"/>
         <source>Solo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="124"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="122"/>
         <source>Solo this channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="132"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="130"/>
         <source>Fader %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="162"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="160"/>
         <source>Move &amp;left</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="163"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="161"/>
         <source>Move &amp;right</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="166"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="164"/>
         <source>Rename &amp;channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="171"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="170"/>
         <source>R&amp;emove channel</source>
         <translation type="unfinished"/>
     </message>
@@ -14535,7 +14535,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="407"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="398"/>
         <source>This Mixer Channel is being used.
 Are you sure you want to remove this channel?
 
@@ -14543,12 +14543,12 @@ Warning: This operation can not be undone.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="411"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="402"/>
         <source>Confirm removal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="412"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="403"/>
         <source>Don&apos;t ask again</source>
         <translation type="unfinished"/>
     </message>

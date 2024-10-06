@@ -14734,52 +14734,52 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
 <context>
     <name>lmms::gui::MixerChannelView</name>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="80"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="78"/>
         <source>Channel send amount</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="112"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="110"/>
         <source>Mute</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="117"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="115"/>
         <source>Mute this channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="119"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="117"/>
         <source>Solo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="124"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="122"/>
         <source>Solo this channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="132"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="130"/>
         <source>Fader %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="162"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="160"/>
         <source>Move &amp;left</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="163"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="161"/>
         <source>Move &amp;right</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="166"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="164"/>
         <source>Rename &amp;channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="171"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="170"/>
         <source>R&amp;emove channel</source>
         <translation type="unfinished"/>
     </message>
@@ -14809,7 +14809,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="407"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="398"/>
         <source>This Mixer Channel is being used.
 Are you sure you want to remove this channel?
 
@@ -14817,12 +14817,12 @@ Warning: This operation can not be undone.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="411"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="402"/>
         <source>Confirm removal</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="412"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="403"/>
         <source>Don&apos;t ask again</source>
         <translation type="unfinished"/>
     </message>

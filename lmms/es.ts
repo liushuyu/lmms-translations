@@ -60,7 +60,7 @@
         <location filename="../../src/gui/modals/about_dialog.ui" line="220"/>
         <source>Current language not translated (or native English).
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation type="unfinished"/>
+        <translation>El idioma actual no está traducido (o es inglés nativo). Si estás interesado en traducir LMMS a otro idioma o deseas mejorar las traducciones existentes, ¡estás bienvenido a ayudarnos! Simplemente contacta al mantenedor</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/about_dialog.ui" line="229"/>
@@ -73,17 +73,17 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/aboutjucedialog.ui" line="14"/>
         <source>About JUCE</source>
-        <translation type="unfinished"/>
+        <translation>Acerca de JUCE</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/aboutjucedialog.ui" line="61"/>
         <source>&lt;b&gt;About JUCE&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Acerca de JUCE&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/aboutjucedialog.ui" line="84"/>
         <source>This program uses JUCE version 3.x.x.</source>
-        <translation type="unfinished"/>
+        <translation>Este programa utiliza la versión 3.x.x de JUCE.</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/aboutjucedialog.ui" line="107"/>
@@ -106,7 +106,7 @@ Copyright (C) 2022 Raw Material Software Limited.</source>
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="227"/>
         <source>[System Default]</source>
-        <translation type="unfinished"/>
+        <translation>[System Default]</translation>
     </message>
 </context>
 <context>
@@ -114,7 +114,7 @@ Copyright (C) 2022 Raw Material Software Limited.</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="14"/>
         <source>About Carla</source>
-        <translation type="unfinished"/>
+        <translation>Acerca de Carla</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="24"/>
@@ -144,7 +144,7 @@ Copyright (C) 2022 Raw Material Software Limited.</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="239"/>
         <source>Contains some knobs, backgrounds and other small artwork from Calf Studio Gear, OpenAV and OpenOctave projects.</source>
-        <translation type="unfinished"/>
+        <translation>Contiene algunos botones, fondos y otras pequeñas ilustraciones de los proyectos Calf Studio Gear, OpenAV y OpenOctave.</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="486"/>
@@ -174,7 +174,7 @@ Copyright (C) 2022 Raw Material Software Limited.</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="695"/>
         <source>Features</source>
-        <translation type="unfinished"/>
+        <translation>Características</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="701"/>
@@ -231,7 +231,7 @@ Copyright (C) 2022 Raw Material Software Limited.</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="1018"/>
         <source>Valid commands:</source>
-        <translation type="unfinished"/>
+        <translation>Comandos válidos:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="1028"/>
@@ -241,7 +241,7 @@ Copyright (C) 2022 Raw Material Software Limited.</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="1041"/>
         <source>Example:</source>
-        <translation type="unfinished"/>
+        <translation>Ejemplo:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="1108"/>
@@ -602,32 +602,32 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="179"/>
         <source>Logs</source>
-        <translation type="unfinished"/>
+        <translation>Registros</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="214"/>
         <source>Loading...</source>
-        <translation type="unfinished"/>
+        <translation>Cargando...</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="266"/>
         <source> Save</source>
-        <translation type="unfinished"/>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="305"/>
         <source> Clear</source>
-        <translation type="unfinished"/>
+        <translation>Limpiar</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="318"/>
         <source>Ctrl+L</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="338"/>
         <source>Auto-Scroll</source>
-        <translation type="unfinished"/>
+        <translation>Auto-Scroll</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="376"/>
@@ -692,7 +692,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="574"/>
         <source>Tool Bar</source>
-        <translation type="unfinished"/>
+        <translation>Barra de herramientas</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="670"/>
@@ -789,7 +789,7 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1103"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1106"/>
         <source>Open...</source>
-        <translation type="unfinished"/>
+        <translation>Abrir...</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1109"/>
@@ -815,7 +815,7 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1139"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1142"/>
         <source>Save As...</source>
-        <translation type="unfinished"/>
+        <translation>Guardar como...</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1145"/>
@@ -870,12 +870,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1225"/>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Habilitar</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1233"/>
         <source>Disable</source>
-        <translation type="unfinished"/>
+        <translation>Deshabilitar</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1241"/>
@@ -971,12 +971,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1374"/>
         <source>Auto-Fit</source>
-        <translation type="unfinished"/>
+        <translation>Ajuste automático</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1389"/>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Aumentar zoom</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1392"/>
@@ -986,7 +986,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1404"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Disminuir zoom</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1407"/>
@@ -1061,7 +1061,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1535"/>
         <source>Ctrl+P</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1547"/>
@@ -1126,22 +1126,22 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1649"/>
         <source>Save Image... (2x zoom)</source>
-        <translation type="unfinished"/>
+        <translation>Guardar Imagen... (2x zoom)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1654"/>
         <source>Save Image... (4x zoom)</source>
-        <translation type="unfinished"/>
+        <translation>Guardar Imagen... (4x zoom)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1659"/>
         <source>Copy as Image to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Copiar como imagen al portapapeles</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1662"/>
         <source>Ctrl+Shift+C</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Shift+C</translation>
     </message>
 </context>
 <context>
@@ -1149,7 +1149,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_host.cpp" line="313"/>
         <source>Export as...</source>
-        <translation type="unfinished"/>
+        <translation>Exportar como...</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_host.cpp" line="703"/>
@@ -1162,12 +1162,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_host.cpp" line="704"/>
         <source>Failed to load project</source>
-        <translation type="unfinished"/>
+        <translation>Error al cargar el proyecto</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_host.cpp" line="721"/>
         <source>Failed to save project</source>
-        <translation type="unfinished"/>
+        <translation>Error al guardar el proyecto</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_host.cpp" line="1335"/>
@@ -1177,7 +1177,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_host.cpp" line="1336"/>
         <source>Are you sure you want to quit Carla?</source>
-        <translation type="unfinished"/>
+        <translation>¿Seguro de que quieres salir de Carla?</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_host.cpp" line="1717"/>
@@ -1321,7 +1321,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="415"/>
         <source>Interface refresh interval:</source>
-        <translation type="unfinished"/>
+        <translation>Intervalo de actualización de la interfaz:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="425"/>
@@ -1337,13 +1337,13 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="448"/>
         <source>Show a confirmation dialog before quitting</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar un diálogo de confirmación antes de salir</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="458"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="614"/>
         <source>Theme</source>
-        <translation type="unfinished"/>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="464"/>
@@ -1353,12 +1353,12 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="474"/>
         <source>Color scheme:</source>
-        <translation type="unfinished"/>
+        <translation>Esquema de colores:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="488"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Negro</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="493"/>
@@ -1368,7 +1368,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="526"/>
         <source>Enable experimental features</source>
-        <translation type="unfinished"/>
+        <translation>Activar características experimentales</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="567"/>
@@ -1383,7 +1383,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="656"/>
         <source>Theme:</source>
-        <translation type="unfinished"/>
+        <translation>Tema:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="692"/>
@@ -1393,47 +1393,47 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="703"/>
         <source>775x600</source>
-        <translation type="unfinished"/>
+        <translation>775x600</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="708"/>
         <source>1550x1200</source>
-        <translation type="unfinished"/>
+        <translation>1550x1200</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="713"/>
         <source>3100x2400</source>
-        <translation type="unfinished"/>
+        <translation>3100x2400</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="718"/>
         <source>4650x3600</source>
-        <translation type="unfinished"/>
+        <translation>4650x3600</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="723"/>
         <source>6200x4800</source>
-        <translation type="unfinished"/>
+        <translation>6200x4800</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="728"/>
         <source>12400x9600</source>
-        <translation type="unfinished"/>
+        <translation>12400x9600</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="752"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opciones</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="758"/>
         <source>Auto-hide groups with no ports</source>
-        <translation type="unfinished"/>
+        <translation>Ocultar automáticamente grupos sin puertos</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="765"/>
         <source>Auto-select items on hover</source>
-        <translation type="unfinished"/>
+        <translation>Seleccionar automáticamente elementos al pasar el mouse</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="772"/>
@@ -1469,12 +1469,12 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="915"/>
         <source>Single Client</source>
-        <translation type="unfinished"/>
+        <translation>Cliente único</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="920"/>
         <source>Multiple Clients</source>
-        <translation type="unfinished"/>
+        <translation>Clientes multiples</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="925"/>
@@ -1491,7 +1491,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="975"/>
         <source>Audio driver:</source>
-        <translation type="unfinished"/>
+        <translation>Controlador de Audio:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="985"/>
@@ -1504,12 +1504,12 @@ Do you want to do this now?</source>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1448"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1519"/>
         <source>Maximum number of parameters to allow in the built-in &apos;Edit&apos; dialog</source>
-        <translation type="unfinished"/>
+        <translation>Número máximo de parámetros permitidos en el diálogo &apos;Editar&apos; incorporado</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="998"/>
         <source>Max Parameters:</source>
-        <translation type="unfinished"/>
+        <translation>Parámetros máximos:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1018"/>
@@ -1571,23 +1571,23 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1252"/>
         <source>&lt;b&gt;OSC&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;OSC&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1305"/>
         <source>Enable OSC</source>
-        <translation type="unfinished"/>
+        <translation>Activar OSC</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1341"/>
         <source>Enable TCP port</source>
-        <translation type="unfinished"/>
+        <translation>Activar puerto TCP</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1350"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1483"/>
         <source>Use specific port:</source>
-        <translation type="unfinished"/>
+        <translation>Usar puerto específico:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1394"/>
@@ -1598,12 +1598,12 @@ Do you want to do this now?</source>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1461"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1532"/>
         <source>Use randomly assigned port</source>
-        <translation type="unfinished"/>
+        <translation>Usar puerto asignado aleatoriamente</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1474"/>
         <source>Enable UDP port</source>
-        <translation type="unfinished"/>
+        <translation>Activar puerto UDP</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1579"/>
@@ -1618,7 +1618,7 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1774"/>
         <source>&lt;b&gt;File Paths&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Rutas del archivo&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1833"/>
@@ -1633,100 +1633,100 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1874"/>
         <source>Used for the &quot;audiofile&quot; plugin</source>
-        <translation type="unfinished"/>
+        <translation>Utilizado para el plugin &apos;audiofile&apos;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1900"/>
         <source>Used for the &quot;midifile&quot; plugin</source>
-        <translation type="unfinished"/>
+        <translation>Utilizado para el  plugin &quot;midifile&quot;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1981"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2422"/>
         <source>Add...</source>
-        <translation type="unfinished"/>
+        <translation>Agregar...</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1992"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2433"/>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2019"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2460"/>
         <source>Change...</source>
-        <translation type="unfinished"/>
+        <translation>Cambiar...</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2065"/>
         <source>&lt;b&gt;Plugin Paths&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Rutas de plugin&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2124"/>
         <source>LADSPA</source>
-        <translation type="unfinished"/>
+        <translation>LADSPA</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2129"/>
         <source>DSSI</source>
-        <translation type="unfinished"/>
+        <translation>DSSI</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2134"/>
         <source>LV2</source>
-        <translation type="unfinished"/>
+        <translation>LV2</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2139"/>
         <source>VST2</source>
-        <translation type="unfinished"/>
+        <translation>VST2</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2144"/>
         <source>VST3</source>
-        <translation type="unfinished"/>
+        <translation>VST3</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2149"/>
         <source>SF2/3</source>
-        <translation type="unfinished"/>
+        <translation>SF2/3</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2154"/>
         <source>SFZ</source>
-        <translation type="unfinished"/>
+        <translation>SFZ</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2159"/>
         <source>JSFX</source>
-        <translation type="unfinished"/>
+        <translation>JSFX</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2164"/>
         <source>CLAP</source>
-        <translation type="unfinished"/>
+        <translation>CLAP</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2277"/>
         <source>Restart Carla to find new plugins</source>
-        <translation type="unfinished"/>
+        <translation>Reinicia Carla para encontrar nuevos plugins</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2506"/>
         <source>&lt;b&gt;Wine&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Wine&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2553"/>
         <source>Executable</source>
-        <translation type="unfinished"/>
+        <translation>Ejecutable</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2559"/>
         <source>Path to &apos;wine&apos; binary:</source>
-        <translation type="unfinished"/>
+        <translation>Ruta del archivo binario de &apos;wine&apos;:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2575"/>
@@ -1741,12 +1741,12 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2588"/>
         <source>Fallback:</source>
-        <translation type="unfinished"/>
+        <translation>Alternativa:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2601"/>
         <source>Note: WINEPREFIX env var is preferred over this fallback</source>
-        <translation type="unfinished"/>
+        <translation>Nota: La variable de entorno WINEPREFIX es preferida sobre esta alternativa</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2614"/>
@@ -1761,22 +1761,22 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2669"/>
         <source>WineServer priority:</source>
-        <translation type="unfinished"/>
+        <translation>Prioridad de WineServer:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2755"/>
         <source>These options are not available for Carla as plugin</source>
-        <translation type="unfinished"/>
+        <translation>Estas opciones no están disponibles para Carla como plugin</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2821"/>
         <source>&lt;b&gt;Experimental&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Experimental&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2908"/>
         <source>Experimental options! Likely to be unstable!</source>
-        <translation type="unfinished"/>
+        <translation>¡Opciones experimentales! ¡Probablemente inestables!</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2936"/>
@@ -1796,12 +1796,12 @@ Do you want to do this now?</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2960"/>
         <source>Export single plugins to LV2</source>
-        <translation type="unfinished"/>
+        <translation>Exportar plugins individuales a LV2</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2967"/>
         <source>Use system/desktop-theme icons (needs restart)</source>
-        <translation type="unfinished"/>
+        <translation>Usar tema de íconos del sistema/escritorio (necesita reinicio)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2974"/>
@@ -3345,7 +3345,7 @@ Este chip fue usado en las computadoras Commodore 64.</translation>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterEffect.cpp" line="41"/>
         <source>Granular pitch shifter</source>
-        <translation type="unfinished"/>
+        <translation>Granular pitch shifter</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMM.cpp" line="39"/>
@@ -4201,47 +4201,47 @@ Plugin Name
     <message>
         <location filename="../../src/core/DataFile.cpp" line="2010"/>
         <source>LADSPA plugins</source>
-        <translation type="unfinished"/>
+        <translation>Plugins LADSPA</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="2011"/>
         <source>The project contains %1 LADSPA plugin(s) which might have not been restored correctly! Please check the project.</source>
-        <translation type="unfinished"/>
+        <translation>¡El proyecto contiene %1 plugin(s) LADSPA que pueden no haberse restaurado correctamente! Por favor, verifica el proyecto.</translation>
     </message>
     <message>
         <location filename="../../src/core/lv2/Lv2SubPluginFeatures.cpp" line="161"/>
         <source>URI: </source>
-        <translation type="unfinished"/>
+        <translation>URI: </translation>
     </message>
     <message>
         <location filename="../../src/core/lv2/Lv2SubPluginFeatures.cpp" line="162"/>
         <source>Project: </source>
-        <translation type="unfinished"/>
+        <translation>Proyecto:  </translation>
     </message>
     <message>
         <location filename="../../src/core/lv2/Lv2SubPluginFeatures.cpp" line="164"/>
         <source>Maker: </source>
-        <translation type="unfinished"/>
+        <translation>Creador: </translation>
     </message>
     <message>
         <location filename="../../src/core/lv2/Lv2SubPluginFeatures.cpp" line="172"/>
         <source>Homepage: </source>
-        <translation type="unfinished"/>
+        <translation>Página de inicio: </translation>
     </message>
     <message>
         <location filename="../../src/core/lv2/Lv2SubPluginFeatures.cpp" line="177"/>
         <source>License: </source>
-        <translation type="unfinished"/>
+        <translation>Licencia: </translation>
     </message>
     <message>
         <location filename="../../src/core/lv2/Lv2SubPluginFeatures.cpp" line="188"/>
         <source>File: %1</source>
-        <translation type="unfinished"/>
+        <translation>Archivo: %1</translation>
     </message>
     <message>
         <location filename="../../src/core/lv2/Lv2SubPluginFeatures.cpp" line="235"/>
         <source>failed to load description</source>
-        <translation type="unfinished"/>
+        <translation>falló al cargar la descripción</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleLoader.cpp" line="41"/>
@@ -4633,12 +4633,12 @@ Plugin Name
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="239"/>
         <source>Playback device</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo de reproducción</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="245"/>
         <source>Input device</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo de entrada</translation>
     </message>
 </context>
 <context>
@@ -5792,7 +5792,7 @@ Plugin Name
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="36"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Tono</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="37"/>
@@ -5837,12 +5837,12 @@ Plugin Name
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="45"/>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Feedback</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="46"/>
         <source>Minimum Allowed Latency</source>
-        <translation type="unfinished"/>
+        <translation>Latencia mínima permitida</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="47"/>
@@ -5852,7 +5852,7 @@ Plugin Name
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="48"/>
         <source>Density</source>
-        <translation type="unfinished"/>
+        <translation>Densidad</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="49"/>
@@ -5867,27 +5867,27 @@ Plugin Name
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="59"/>
         <source>5 Seconds</source>
-        <translation type="unfinished"/>
+        <translation>5 Segundos</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="60"/>
         <source>10 Seconds (Size)</source>
-        <translation type="unfinished"/>
+        <translation>10 Segundos (Tamaño)</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="61"/>
         <source>40 Seconds (Size and Pitch)</source>
-        <translation type="unfinished"/>
+        <translation>40 Segundos (Tamaño y Tono)</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="62"/>
         <source>40 Seconds (Size and Spray and Jitter)</source>
-        <translation type="unfinished"/>
+        <translation>40 Segundos (Tamaño, Spray y Jitter)</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="63"/>
         <source>120 Seconds (All of the above)</source>
-        <translation type="unfinished"/>
+        <translation>120 Segundos (Todo lo anterior)</translation>
     </message>
 </context>
 <context>
@@ -10964,37 +10964,37 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="65"/>
         <source>Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Escalado</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="86"/>
         <source>Dynamic</source>
-        <translation type="unfinished"/>
+        <translation>Dinámico</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="87"/>
         <source>Uses absolute spacings but switches to relative spacing if it&apos;s running out of space</source>
-        <translation type="unfinished"/>
+        <translation>Utiliza espaciados absolutos, pero cambia a espaciado relativo si se queda sin espacio</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="90"/>
         <source>Absolute</source>
-        <translation type="unfinished"/>
+        <translation>Absoluto</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="91"/>
         <source>Provides enough potential space for each segment but does not scale</source>
-        <translation type="unfinished"/>
+        <translation>Proporciona suficiente espacio potencial para cada segmento, pero no se escala</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="94"/>
         <source>Relative</source>
-        <translation type="unfinished"/>
+        <translation>Relativo</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="95"/>
         <source>Always uses all of the available space to display the envelope graph</source>
-        <translation type="unfinished"/>
+        <translation>Siempre utiliza todo el espacio disponible para mostrar el gráfico de envolvente</translation>
     </message>
 </context>
 <context>
@@ -11069,7 +11069,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="113"/>
         <source>Resonance: </source>
-        <translation type="unfinished"/>
+        <translation>Resonancia:</translation>
     </message>
     <message>
         <location filename="../../plugins/Eq/EqControlsDialog.cpp" line="119"/>
@@ -11165,7 +11165,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/widgets/Fader.cpp" line="251"/>
         <source>Volume: %1 dBFS</source>
-        <translation type="unfinished"/>
+        <translation>Volumen: %1 dBFS</translation>
     </message>
 </context>
 <context>
@@ -11198,7 +11198,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="185"/>
         <source>Hidden content</source>
-        <translation type="unfinished"/>
+        <translation>Contenido oculto</translation>
     </message>
 </context>
 <context>
@@ -11611,17 +11611,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="56"/>
         <source>Spray:</source>
-        <translation type="unfinished"/>
+        <translation>Spray:</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="57"/>
         <source>Jitter:</source>
-        <translation type="unfinished"/>
+        <translation>Jitter:</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="58"/>
         <source>Twitch:</source>
-        <translation type="unfinished"/>
+        <translation>Twitch:</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="59"/>
@@ -11641,39 +11641,39 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="62"/>
         <source>Feedback:</source>
-        <translation type="unfinished"/>
+        <translation>Feedback:</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="63"/>
         <source>Minimum Allowed Latency:</source>
-        <translation type="unfinished"/>
+        <translation>Latencia mínima permitida:</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="64"/>
         <source>Density:</source>
-        <translation type="unfinished"/>
+        <translation>Densidad:</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="65"/>
         <source>Glide:</source>
-        <translation type="unfinished"/>
+        <translation>Deslizamiento:</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="67"/>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="70"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Altura:</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="73"/>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="76"/>
         <source>Pitch Stereo Spread</source>
-        <translation type="unfinished"/>
+        <translation>Expansión estéreo de tono</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="86"/>
         <source>Open help window</source>
-        <translation type="unfinished"/>
+        <translation>Abrir ventana de ayuda</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="89"/>
@@ -11949,7 +11949,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentMidiIOView.cpp" line="156"/>
         <source>MIDI notes at this velocity correspond to 100% note velocity.</source>
-        <translation type="unfinished"/>
+        <translation>Las notas MIDI a esta velocidad corresponden al 100% de la velocidad de la nota.</translation>
     </message>
 </context>
 <context>
@@ -13302,7 +13302,7 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/gui/instrument/LfoGraph.cpp" line="165"/>
         <source>%1 Hz</source>
-        <translation type="unfinished"/>
+        <translation>%1 Hz</translation>
     </message>
 </context>
 <context>
@@ -13398,7 +13398,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="139"/>
         <source>Root Directory</source>
-        <translation type="unfinished"/>
+        <translation>Directorio raíz</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="143"/>
@@ -14443,63 +14443,63 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/widgets/MixerChannelLcdSpinBox.cpp" line="88"/>
         <source>Please enter a new value between %1 and %2:</source>
-        <translation type="unfinished"/>
+        <translation>Por favor, introduce un nuevo valor entre %1 y %2:</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MixerChannelLcdSpinBox.cpp" line="91"/>
         <source>Set value</source>
-        <translation type="unfinished"/>
+        <translation>Establecer valor</translation>
     </message>
 </context>
 <context>
     <name>lmms::gui::MixerChannelView</name>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="80"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="78"/>
         <source>Channel send amount</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="112"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="110"/>
         <source>Mute</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="117"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="115"/>
         <source>Mute this channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="119"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="117"/>
         <source>Solo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="124"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="122"/>
         <source>Solo this channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="132"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="130"/>
         <source>Fader %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="162"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="160"/>
         <source>Move &amp;left</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="163"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="161"/>
         <source>Move &amp;right</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="166"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="164"/>
         <source>Rename &amp;channel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="171"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="170"/>
         <source>R&amp;emove channel</source>
         <translation type="unfinished"/>
     </message>
@@ -14529,22 +14529,25 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="407"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="398"/>
         <source>This Mixer Channel is being used.
 Are you sure you want to remove this channel?
 
 Warning: This operation can not be undone.</source>
-        <translation type="unfinished"/>
+        <translation>Este canal de mezcla está en uso..
+&quot;¿Seguro de que deseas eliminar este canal?&quot;
+
+Advertencia: Esta operación no se puede deshacer.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="411"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="402"/>
         <source>Confirm removal</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar eliminación</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="412"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="403"/>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"/>
+        <translation>No preguntar de nuevo</translation>
     </message>
 </context>
 <context>
@@ -15696,7 +15699,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="63"/>
         <source>Drag an instrument into either the Song Editor, the Pattern Editor or an existing instrument track.</source>
-        <translation type="unfinished"/>
+        <translation>Arrastra un instrumento al Editor de Canciones, al Editor de Patrones o a una pista de instrumento existente.</translation>
     </message>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="71"/>
@@ -16512,17 +16515,17 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="714"/>
         <source>Behavior when recording</source>
-        <translation type="unfinished"/>
+        <translation>Comportamiento al grabar</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="717"/>
         <source>Auto-quantize notes in Piano Roll</source>
-        <translation type="unfinished"/>
+        <translation>Cuantizar automáticamente las notas en el Piano Roll</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="721"/>
         <source>If enabled, notes will be automatically quantized when recording them from a MIDI controller. If disabled, they are always recorded at the highest possible resolution.</source>
-        <translation type="unfinished"/>
+        <translation>Si está habilitado, las notas se cuantizarán automáticamente al grabarlas desde un controlador MIDI. Si está deshabilitado, siempre se graban con la máxima resolución posible.</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="740"/>
@@ -16882,7 +16885,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/SlicerT/SlicerTView.cpp" line="68"/>
         <source>Sync sample</source>
-        <translation type="unfinished"/>
+        <translation>Sync sample</translation>
     </message>
     <message>
         <location filename="../../plugins/SlicerT/SlicerTView.cpp" line="72"/>
@@ -16912,12 +16915,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/SlicerT/SlicerTView.cpp" line="95"/>
         <source>Open sample selector</source>
-        <translation type="unfinished"/>
+        <translation>Abrir selector de samples</translation>
     </message>
     <message>
         <location filename="../../plugins/SlicerT/SlicerTView.cpp" line="100"/>
         <source>Reset slices</source>
-        <translation type="unfinished"/>
+        <translation>Restablecer slices</translation>
     </message>
     <message>
         <location filename="../../plugins/SlicerT/SlicerTView.cpp" line="219"/>
@@ -17017,7 +17020,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="417"/>
         <source>An unknown error has occurred and the file could not be saved.</source>
-        <translation type="unfinished"/>
+        <translation>Ha ocurrido un error desconocido y el archivo no se pudo guardar.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="2095"/>
@@ -17619,17 +17622,17 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="92"/>
         <source>Stepped auto scrolling</source>
-        <translation type="unfinished"/>
+        <translation>Desplazamiento automático escalonado</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="93"/>
         <source>Continuous auto scrolling</source>
-        <translation type="unfinished"/>
+        <translation>Desplazamiento automático continuo</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="94"/>
         <source>Auto scrolling disabled</source>
-        <translation type="unfinished"/>
+        <translation>Desplazamiento automático desactivado</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="99"/>
