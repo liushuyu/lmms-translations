@@ -6,26 +6,32 @@
     <body>
       <trans-unit id="iMlLPDz" resname="Download">
         <source>Download</source>
+        <target>Завантажити</target>
         
       </trans-unit>
       <trans-unit id="ZaeZFa6" resname="Get Involved">
         <source>Get Involved</source>
+        <target>Долучитися</target>
         
       </trans-unit>
       <trans-unit id="OJyuyp1" resname="Documentation">
         <source>Documentation</source>
+        <target>Документація</target>
         
       </trans-unit>
       <trans-unit id="Qk7UVra" resname="Docs">
         <source>Docs</source>
+        <target>Документація</target>
         
       </trans-unit>
       <trans-unit id="fpoF0p6" resname="Forum">
         <source>Forum</source>
+        <target>Форум</target>
         
       </trans-unit>
       <trans-unit id="6V59OAe" resname="Sharing Platform">
         <source>Sharing Platform</source>
+        <target>Обмін піснями</target>
         
       </trans-unit>
       <trans-unit id="Coc0Gni" resname="Share">
@@ -34,6 +40,7 @@
       </trans-unit>
       <trans-unit id="o3vRjwz" resname="More">
         <source>More</source>
+        <target>Більше</target>
         
       </trans-unit>
       <trans-unit id="Ht_qF85" resname="Showcase">
@@ -42,6 +49,7 @@
       </trans-unit>
       <trans-unit id="wGF.lTR" resname="Competitions">
         <source>Competitions</source>
+        <target>Конкурси</target>
         
       </trans-unit>
       <trans-unit id="H1qhdmo" resname="Branding">
@@ -55,34 +63,43 @@
       <trans-unit id="9J4GlgV" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 	Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>LMMS є в репозиторіях більшості основних дистрибутивів Linux.&lt;br&gt;
+	&lt;a href=&quot;/get-involved/#contact&quot;&gt;Сконтактуйте з нами&lt;/a&gt;, якщо вашого дистрибутиву тут нема.</target>
         
       </trans-unit>
       <trans-unit id="5vVNzXU" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
         <source>For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.</source>
+        <target>Щоб встановити LMMS на похідний від Debian дистрибутив, наприклад на сам Debian, Ubuntu чи Linux Mint, натисніть кнопку внизу.</target>
         
       </trans-unit>
       <trans-unit id="HUQRYlK" resname="Install LMMS now">
         <source>Install LMMS now</source>
+        <target>Встановити LMMS</target>
         
       </trans-unit>
       <trans-unit id="7WRfkFI" resname="From your package manager">
         <source>From your package manager</source>
+        <target>Через менеджер пакунків</target>
         
       </trans-unit>
       <trans-unit id="HoDeeQg" resname="If this doesn't work for you, run this command in a terminal.">
         <source>If this doesn't work for you, run this command in a terminal.</source>
+        <target>Якщо це не спрацьовує, виконайте наступну команду в терміналі.</target>
         
       </trans-unit>
       <trans-unit id="EOfny91" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
         <source>If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.</source>
+        <target>Якщо версія в звичних репозиторіях відстає, спробуйте &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;репозиторій KXStudio&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="G87JnBY" resname="VST Support">
         <source>VST Support</source>
+        <target>Підтримка VST</target>
         
       </trans-unit>
       <trans-unit id="Dm1Wbjx" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
         <source>If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.</source>
+        <target>Якщо ваш дистрибутив надає підтримку VST (потрібно встановити Wine), вона зазвичай надається окремим пакунком. Наприклад, використовуючи &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;репозиторій KXStudio&lt;/a&gt;, виконайте наступну команду в терміналі.</target>
         
       </trans-unit>
       <trans-unit id="jeTovr1" resname="Run the following command as root in a terminal:">
@@ -111,50 +128,62 @@
       </trans-unit>
       <trans-unit id="3E_Z6Ww" resname="Build LMMS from source">
         <source>Build LMMS from source</source>
+        <target>Зібрати LMMS із сирців</target>
         
       </trans-unit>
       <trans-unit id="XF2XfTd" resname="If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.">
         <source>If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.</source>
+        <target>Якщо ваш дистрибутив Linux не надає пакунку lmms (або надає застарілий), ви можете зібрати LMMS із вихідного коду. Щоб отримати інструкції, як зібрати LMMS на Linux, відвідайте &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;GitHub-вікі розробки LMMS&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="_qygR0H" resname="Download LMMS">
         <source>Download LMMS</source>
+        <target>Завантажити LMMS</target>
         
       </trans-unit>
       <trans-unit id="3KQyvmZ" resname="Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:">
         <source>Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:</source>
+        <target>Завантажити й користуватися LMMS — безкоштовно! Оберіть операційну систему, на якій ви бажаєте запустити LMMS:</target>
         
       </trans-unit>
       <trans-unit id="il5xUz7" resname="Install LMMS on Linux">
         <source>Install LMMS on Linux</source>
+        <target>Встановити LMMS на Linux</target>
         
       </trans-unit>
       <trans-unit id="MaMF3_X" resname="Click one of the buttons below to download LMMS for Linux.">
         <source>Click one of the buttons below to download LMMS for Linux.</source>
+        <target>Натисніть одну з кнопок унизу, щоб завантажити LMMS для Linux.</target>
         
       </trans-unit>
       <trans-unit id="fe0jPF7" resname="Stable Versions">
         <source>Stable Versions</source>
+        <target>Стабільні версії</target>
         
       </trans-unit>
       <trans-unit id="49kH3Yb" resname="Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running">
         <source>Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running</source>
+        <target>Виконайте &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt;, перш ніж запустити &lt;code&gt;.AppImage&lt;/code&gt;, щоб власне дозволити його запуск.</target>
         
       </trans-unit>
       <trans-unit id="OzIyYFY" resname="Beta Versions">
         <source>Beta Versions</source>
+        <target>Бета-версії</target>
         
       </trans-unit>
       <trans-unit id="g3QeHa0" resname="Other options">
         <source>Other options</source>
+        <target>Інші опції</target>
         
       </trans-unit>
       <trans-unit id="qvfBNXu" resname="Install LMMS on Windows">
         <source>Install LMMS on Windows</source>
+        <target>Встановити LMMS на Windows</target>
         
       </trans-unit>
       <trans-unit id="L4N.x7z" resname="Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows">
         <source>Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows</source>
+        <target>Щоб завантажити LMMS для Windows, натисніть одну з кнопок унизу (32 чи 64 біти)</target>
         
       </trans-unit>
       <trans-unit id="D47H5zq" resname="Install LMMS on macOS">
@@ -171,10 +200,12 @@
       </trans-unit>
       <trans-unit id="u9r1mHX" resname="Previous releases">
         <source>Previous releases</source>
+        <target>Попередні випуски</target>
         
       </trans-unit>
       <trans-unit id="p2JwKTn" resname="Show release notes">
         <source>Show release notes</source>
+        <target>Примітки про випуск</target>
         
       </trans-unit>
       <trans-unit id="JeB7PmY" resname="LMMS is a free, open-source software built entirely by a small number of&#10;&#9;volunteers in their free time. But to keep the project going, we need this&#10;&#9;number to grow. So if you feel like giving something back to the community,&#10;&#9;join us in making LMMS better!">
@@ -186,20 +217,24 @@
       </trans-unit>
       <trans-unit id="SfCm20f" resname="What you can do">
         <source>What you can do</source>
+        <target>Чим ви можете допомогти</target>
         
       </trans-unit>
       <trans-unit id="zaIp1qn" resname="There are multiple ways of contributing:">
         <source>There are multiple ways of contributing:</source>
+        <target>Є декілька шляхів долучитися:</target>
         
       </trans-unit>
       <trans-unit id="tOhjAdN" resname="Join Development">
         <source>Join Development</source>
+        <target>Розробка</target>
         
       </trans-unit>
       <trans-unit id="iMD1g4u" resname="We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt&#10;&#9;&#9;&#9;&#9;&#9;   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with&#10;&#9;&#9;&#9;&#9;&#9;   coding!">
         <source>We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt
 					   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with
 					   coding!</source>
+        <target>Нашій команді вкрай необхідні нові розробники. LMMS написано на C++ на основі фреймворка Qt, тож якщо ви трохи розбираєтеся в цих речах, не соромтеся спробувати себе в кодуванні!</target>
         
       </trans-unit>
       <trans-unit id="IPnxpHq" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
@@ -207,39 +242,47 @@
 					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place
 					   to introduce yourself.</source>
+        <target>Щоб розпочати роботу, перегляньте наші &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub-вікі&lt;/a&gt; й &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;трекер помилок&lt;/a&gt;. Крім того, &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;список листування&lt;/a&gt; LMMS — хороше місце, щоб представити себе.</target>
         
       </trans-unit>
       <trans-unit id="s5EAueb" resname="Website &amp; Docs">
         <source>Website &amp; Docs</source>
+        <target>Вебсайт і документація</target>
         
       </trans-unit>
       <trans-unit id="w8z9ITy" resname="You can help us by improving this website or documenting the software. The website sources are in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.">
         <source>You can help us by improving this website or documenting the software. The website sources are in our
 					   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a
 					   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.</source>
+        <target>Допоможіть нам удосконалити цей вебсайт чи документувати нашу програму. Сирці вебсайту — в GitHub-репозиторії &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, а документація — на &lt;a href=&quot;//lmms.io/wiki&quot;&gt;сервері MediaWiki&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="bJn4bJq" resname="Public registration on our Wiki is disabled due to spam issues. Please post to the&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're&#10;&#9;&#9;&#9;&#9;&#9;   interested in helping out with the documentation!">
         <source>Public registration on our Wiki is disabled due to spam issues. Please post to the
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're
 					   interested in helping out with the documentation!</source>
+        <target>Реєстрацію на вікі вимкнено для загалу через проблеми зі спамом. Будь ласка, напишіть у &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;список листування&lt;/a&gt;, якщо бажаєте допомогти нам із документацією!</target>
         
       </trans-unit>
       <trans-unit id="SP5.ra2" resname="Donate">
         <source>Donate</source>
+        <target>Пожертва</target>
         
       </trans-unit>
       <trans-unit id="B4BWBCj" resname="Even though donations are not the thing we need the most (that'd be developers), they help us pay&#10;&#9;&#9;&#9;&#9;&#9;   our bills, for our domain lmms.io for instance.">
         <source>Even though donations are not the thing we need the most (that'd be developers), they help us pay
 					   our bills, for our domain lmms.io for instance.</source>
+        <target>Понад усе нам треба не так пожертви, як розробники, та все ж ви можете допомогти нам сплатити рахунки, зокрема оренду домену lmms.io.</target>
         
       </trans-unit>
       <trans-unit id="eWaNqUZ" resname="Donate via PayPal">
         <source>Donate via PayPal</source>
+        <target>Підтримати через PayPal</target>
         
       </trans-unit>
       <trans-unit id="mBTJrw1" resname="Translations">
         <source>Translations</source>
+        <target>Переклад</target>
         
       </trans-unit>
       <trans-unit id="M6pv5xx" resname="If your language is missing in LMMS, help the project and other users speaking the same language by&#10;&#9;&#9;&#9;&#9;&#9;   translating the software. You can find instructions on the page&#10;&#9;&#9;&#9;&#9;&#9;   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub Wiki.">
@@ -247,6 +290,7 @@
 					   translating the software. You can find instructions on the page
 					   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our
 					   GitHub Wiki.</source>
+        <target>Якщо LMMS браку підтримки вашої мови, допоможіть проєкту й іншим користувачам, переклавши нашу програму. Ви можете знайти інструкції на сторінці «&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Створення локалізації&lt;/a&gt;» в нашій GitHub-вікі.</target>
         
       </trans-unit>
       <trans-unit id="zFcpmbO" resname="How to get in touch">
@@ -286,70 +330,87 @@
       </trans-unit>
       <trans-unit id="VjlY4ZS" resname="Let's make music">
         <source>Let's make music</source>
+        <target>Робімо музику</target>
         
       </trans-unit>
       <trans-unit id="dZRnmrq" resname="with a free, cross-platform tool for your computer.">
         <source>with a free, cross-platform tool for your computer.</source>
+        <target>з вільним багатоплатформовим інструментом для вашого комп'ютера.</target>
         
       </trans-unit>
       <trans-unit id="EZF7eRF" resname="Download now">
         <source>Download now</source>
+        <target>Завантажити</target>
         
       </trans-unit>
       <trans-unit id="ArGBWxo" resname="Get involved">
         <source>Get involved</source>
+        <target>Долучитися</target>
         
       </trans-unit>
       <trans-unit id="UpbkC0B" resname="Making beats has never been easier.">
         <source>Making beats has never been easier.</source>
+        <target>Робити біти ще ніколи не було так просто.</target>
         
       </trans-unit>
       <trans-unit id="vjIfigK" resname="Produce music with your computer">
         <source>Produce music with your computer</source>
+        <target>Продюсуйте музику на своєму комп'ютері —</target>
         
       </trans-unit>
       <trans-unit id="8mG9Pcf" resname="by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.">
         <source>by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.</source>
+        <target>створюючи мелодії й ритми, синтезуючи й мікшуючи звуки, аранжуючи семпли й не тільки.</target>
         
       </trans-unit>
       <trans-unit id="JBqjQwd" resname="Playback instruments, samples and plugins">
         <source>Playback instruments, samples and plugins</source>
+        <target>Запускайте інструменти, семпли й модулі</target>
         
       </trans-unit>
       <trans-unit id="Dj4EFcb" resname="with a typing or MIDI keyboard in a user-friendly and modern interface.">
         <source>with a typing or MIDI keyboard in a user-friendly and modern interface.</source>
+        <target>текстовою чи MIDI-клавіатурою в зручному й сучасному інтерфейсі.</target>
         
       </trans-unit>
       <trans-unit id="zpXHztT" resname="Bundled with ready-to-use content">
         <source>Bundled with ready-to-use content</source>
+        <target>В комплекті готові засоби:</target>
         
       </trans-unit>
       <trans-unit id="YfCobRV" resname="from an assortment of instrument and effect plugins, presets and samples to VST and SoundFont support.">
         <source>from an assortment of instrument and effect plugins, presets and samples to VST and SoundFont support.</source>
+        <target>набір модульних інструментів і ефектів, шаблонів і семплів, а також підтримка VST й SoundFont.</target>
         
       </trans-unit>
       <trans-unit id="aR_YNC6" resname="Made by musicians, for musicians.">
         <source>Made by musicians, for musicians.</source>
+        <target>Зроблено музикантами — для музикантів.</target>
         
       </trans-unit>
       <trans-unit id="srTfzhp" resname="Download for Linux">
         <source>Download for Linux</source>
+        <target>Завантажити для Linux</target>
         
       </trans-unit>
       <trans-unit id="HRNzywF" resname="Download for Windows">
         <source>Download for Windows</source>
+        <target>Завантажити для Windows</target>
         
       </trans-unit>
       <trans-unit id="aKnCvOj" resname="Download for macOS">
         <source>Download for macOS</source>
+        <target>Завантажити для macOS</target>
         
       </trans-unit>
       <trans-unit id="aE6mbky" resname="Pick your flavor.">
         <source>Pick your flavor.</source>
+        <target>Оберіть, що вам підходить.</target>
         
       </trans-unit>
       <trans-unit id="G6ICHUf" resname="Linux, Windows or macOS.">
         <source>Linux, Windows or macOS.</source>
+        <target>Linux, Windows чи macOS.</target>
         
       </trans-unit>
       <trans-unit id="EVSIl0P" resname="Houston, we have a problem.">
