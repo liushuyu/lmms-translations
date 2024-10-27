@@ -3453,7 +3453,7 @@ Reactvate them to start the process again, with the last saved state applied to 
         <translation>Spelare för GIG-filer</translation>
     </message>
     <message>
-        <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="29"/>
+        <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="30"/>
         <source>Filter for importing Hydrogen files into LMMS</source>
         <translation>Filter för att importera Hydrogen-filer till LMMS</translation>
     </message>

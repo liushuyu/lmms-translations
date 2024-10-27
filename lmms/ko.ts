@@ -3457,7 +3457,7 @@ Reactvate them to start the process again, with the last saved state applied to 
         <translation>GIG 파일용 재생기</translation>
     </message>
     <message>
-        <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="29"/>
+        <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="30"/>
         <source>Filter for importing Hydrogen files into LMMS</source>
         <translation>Hydrogen 파일을 LMMS로 읽어오기 위한 필터링</translation>
     </message>

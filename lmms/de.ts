@@ -3172,7 +3172,7 @@ Reactvate them to start the process again, with the last saved state applied to 
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="29"/>
+        <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="30"/>
         <source>Filter for importing Hydrogen files into LMMS</source>
         <translation>Filter zum importieren von Hydrogendateien in LMMS</translation>
     </message>

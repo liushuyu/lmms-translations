@@ -3468,7 +3468,7 @@ Reactvate them to start the process again, with the last saved state applied to 
         <translation>播放 GIG 文件的播放器</translation>
     </message>
     <message>
-        <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="29"/>
+        <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="30"/>
         <source>Filter for importing Hydrogen files into LMMS</source>
         <translation>导入 Hydrogen 工程文件到 LMMS 的解析器</translation>
     </message>

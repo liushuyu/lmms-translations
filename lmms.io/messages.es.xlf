@@ -41,7 +41,7 @@
       </trans-unit>
       <trans-unit id="o3vRjwz" resname="More">
         <source>More</source>
-        <target>Mas</target>
+        <target>Más</target>
         
       </trans-unit>
       <trans-unit id="Ht_qF85" resname="Showcase">
@@ -123,6 +123,7 @@
       </trans-unit>
       <trans-unit id="6Fx.qBW" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
         <source>AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.</source>
+        <target>AOSC OS lanza LMMS en ports para varias arquitecturas (AMD64/x86_64, ARMv7 y más por venir), con soporte VST habilitado por defecto en AMD64.</target>
         
       </trans-unit>
       <trans-unit id="MgLmIXj" resname="To install LMMS on AOSC OS with PackageKit (recommended):">
@@ -137,6 +138,7 @@
       </trans-unit>
       <trans-unit id="3E_Z6Ww" resname="Build LMMS from source">
         <source>Build LMMS from source</source>
+        <target>Compilar LMMS desde el código fuente</target>
         
       </trans-unit>
       <trans-unit id="XF2XfTd" resname="If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.">
@@ -249,6 +251,9 @@
         <source>We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt
 					   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with
 					   coding!</source>
+        <target>Necesitamos desesperadamente nuevos desarrolladores que se unan a nuestro equipo. LMMS está escrito
+					 en C++ bajo Qt Framework, así que si sabes una cosa o dos sobre estas, ¡no dudes en
+					ensuciarte las manos y programar!</target>
         
       </trans-unit>
       <trans-unit id="IPnxpHq" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
@@ -256,39 +261,53 @@
 					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place
 					   to introduce yourself.</source>
+        <target>Mira nuestra &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;Wiki de Github&lt;/a&gt; y nuestro
+					&lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;Seguimiento de errores&lt;/a&gt; para empezar. Además, la &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;lista
+					de correo&lt;/a&gt; es un buen lugar para presentarte. </target>
         
       </trans-unit>
       <trans-unit id="s5EAueb" resname="Website &amp; Docs">
         <source>Website &amp; Docs</source>
+        <target>Sitio web y documentación</target>
         
       </trans-unit>
       <trans-unit id="w8z9ITy" resname="You can help us by improving this website or documenting the software. The website sources are in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.">
         <source>You can help us by improving this website or documenting the software. The website sources are in our
 					   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a
 					   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.</source>
+        <target>Puedes ayudarnos mejorando este sitio web o documentando el programa. El código fuente del sitio está alojado en nuestro
+					repositorio de GitHub &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, y nuestra documentación se aloja usando una
+					&lt;a href=&quot;//lmms.io/wiki&quot;&gt;instancia de MediaWiki&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="bJn4bJq" resname="Public registration on our Wiki is disabled due to spam issues. Please post to the&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're&#10;&#9;&#9;&#9;&#9;&#9;   interested in helping out with the documentation!">
         <source>Public registration on our Wiki is disabled due to spam issues. Please post to the
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; if you're
 					   interested in helping out with the documentation!</source>
+        <target>En nuestra Wiki, el registro público se encuentra deshabilitado debido al spam. ¡Si deseas ayudar en
+            la documentación, anúnciate en la &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;lista de correo&lt;/a&gt;!</target>
         
       </trans-unit>
       <trans-unit id="SP5.ra2" resname="Donate">
         <source>Donate</source>
+        <target>Donar</target>
         
       </trans-unit>
       <trans-unit id="B4BWBCj" resname="Even though donations are not the thing we need the most (that'd be developers), they help us pay&#10;&#9;&#9;&#9;&#9;&#9;   our bills, for our domain lmms.io for instance.">
         <source>Even though donations are not the thing we need the most (that'd be developers), they help us pay
 					   our bills, for our domain lmms.io for instance.</source>
+        <target>Aunque las donaciones no son nuestra prioridad (sino los desarrolladores), nos ayudan
+					  a pagar las cuentas, como las del dominio lmms.io, entre otras.</target>
         
       </trans-unit>
       <trans-unit id="eWaNqUZ" resname="Donate via PayPal">
         <source>Donate via PayPal</source>
+        <target>Donar via Paypal</target>
         
       </trans-unit>
       <trans-unit id="mBTJrw1" resname="Translations">
         <source>Translations</source>
+        <target>Traducciones</target>
         
       </trans-unit>
       <trans-unit id="M6pv5xx" resname="If your language is missing in LMMS, help the project and other users speaking the same language by&#10;&#9;&#9;&#9;&#9;&#9;   translating the software. You can find instructions on the page&#10;&#9;&#9;&#9;&#9;&#9;   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub Wiki.">
@@ -296,73 +315,97 @@
 					   translating the software. You can find instructions on the page
 					   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our
 					   GitHub Wiki.</source>
+        <target>Si LMMS no se encuentra disponible en tu idioma, ayuda al proyecto y a otros usuarios de tu misma lengua
+					  traduciendo el programa. Puedes encontrar las instrucciones en la página
+					  &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;&quot;Crear una localización&quot;&lt;/a&gt;&quot; en nuestra
+					  wiki de GitHub.</target>
         
       </trans-unit>
       <trans-unit id="zFcpmbO" resname="How to get in touch">
         <source>How to get in touch</source>
+        <target>Cómo contactarnos</target>
         
       </trans-unit>
       <trans-unit id="1RlrT04" resname="Mailing List">
         <source>Mailing List</source>
+        <target>Lista de correo</target>
         
       </trans-unit>
       <trans-unit id="7Z4qF_z" resname="Posting to the mailing list is the best way to reach out to our developers:">
         <source>Posting to the mailing list is the best way to reach out to our developers:</source>
+        <target>Escribir a la lista de correo es el mejor modo de ponerte en contacto con nuestros desarrolladores:</target>
         
       </trans-unit>
       <trans-unit id="atpN9gp" resname="Subscribe to LMMS-Devel mailing list">
         <source>Subscribe to LMMS-Devel mailing list</source>
+        <target>Suscríbete a la lista de correo LMMS-Devel</target>
         
       </trans-unit>
       <trans-unit id="XggihdT" resname="Our IRC channel is &lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt; on&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;https://freenode.net&quot;&gt;Freenode&lt;/a&gt;.">
         <source>Our IRC channel is &lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt; on
 					&lt;a href=&quot;https://freenode.net&quot;&gt;Freenode&lt;/a&gt;.</source>
+        <target>Nuestro canal IRC es &lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt; en
+					&lt;a href=&quot;https://freenode.net&quot;&gt;Freenode&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="cvRq46k" resname="&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;is a more modern alternative to IRC. Join our server &#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.">
         <source>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
 					is a more modern alternative to IRC. Join our server 
 					&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.</source>
+        <target>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
+					es una alternativa más moderna a IRC. Únete a nuestro
+					servidor &lt;a href=&quot;/chat/&quot;&gt;haciendo clic aquí&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="xY3keOp" resname="We host a forum for our users here on this website:">
         <source>We host a forum for our users here on this website:</source>
+        <target>Alojamos un foro para nuestros usuarios en este mismo sitio:</target>
         
       </trans-unit>
       <trans-unit id="WCsBNji" resname="For reporting a bug or suggesting a new feature, please use the GitHub issue tracker:">
         <source>For reporting a bug or suggesting a new feature, please use the GitHub issue tracker:</source>
+        <target>Para reportar bugs o sugerir nuevas características, usa el seguidor de problemas de GitHub.</target>
         
       </trans-unit>
       <trans-unit id="VjlY4ZS" resname="Let's make music">
         <source>Let's make music</source>
+        <target>Hagamos música</target>
         
       </trans-unit>
       <trans-unit id="dZRnmrq" resname="with a free, cross-platform tool for your computer.">
         <source>with a free, cross-platform tool for your computer.</source>
+        <target>en una herramienta libre y
+multiplataforma para tu computadora.</target>
         
       </trans-unit>
       <trans-unit id="EZF7eRF" resname="Download now">
         <source>Download now</source>
+        <target>Descárgala ahora</target>
         
       </trans-unit>
       <trans-unit id="ArGBWxo" resname="Get involved">
         <source>Get involved</source>
+        <target>Participa</target>
         
       </trans-unit>
       <trans-unit id="UpbkC0B" resname="Making beats has never been easier.">
         <source>Making beats has never been easier.</source>
+        <target>Crear ritmos nunca fue tan sencillo.</target>
         
       </trans-unit>
       <trans-unit id="vjIfigK" resname="Produce music with your computer">
         <source>Produce music with your computer</source>
+        <target>Produce música con tu computadora</target>
         
       </trans-unit>
       <trans-unit id="8mG9Pcf" resname="by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.">
         <source>by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.</source>
+        <target>haciendo melodías y ritmos, sintetizando y mezclando sonidos, arreglando muestras y mucho más.</target>
         
       </trans-unit>
       <trans-unit id="JBqjQwd" resname="Playback instruments, samples and plugins">
         <source>Playback instruments, samples and plugins</source>
+        <target>Reproduce instrumentos, muestras y plugins</target>
         
       </trans-unit>
       <trans-unit id="Dj4EFcb" resname="with a typing or MIDI keyboard in a user-friendly and modern interface.">
@@ -371,14 +414,17 @@
       </trans-unit>
       <trans-unit id="zpXHztT" resname="Bundled with ready-to-use content">
         <source>Bundled with ready-to-use content</source>
+        <target>Cargado de contenido listo para usar</target>
         
       </trans-unit>
       <trans-unit id="YfCobRV" resname="from an assortment of instrument and effect plugins, presets and samples to VST and SoundFont support.">
         <source>from an assortment of instrument and effect plugins, presets and samples to VST and SoundFont support.</source>
+        <target>desde un surtido de instrumentos y efectos, preajustes y muestras, hasta el soporte para VST y SoundFont.</target>
         
       </trans-unit>
       <trans-unit id="aR_YNC6" resname="Made by musicians, for musicians.">
         <source>Made by musicians, for musicians.</source>
+        <target>Hecho por músicos y para músicos.</target>
         
       </trans-unit>
       <trans-unit id="srTfzhp" resname="Download for Linux">

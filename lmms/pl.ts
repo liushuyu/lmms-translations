@@ -3468,7 +3468,7 @@ Reaktywuj je, aby ponownie uruchomić proces, stosując do niego ostatni zapisan
         <translation>Odtwarzacz plików GIG</translation>
     </message>
     <message>
-        <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="29"/>
+        <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="30"/>
         <source>Filter for importing Hydrogen files into LMMS</source>
         <translation>Filtr importujący pliki Hydrogen do LMMS</translation>
     </message>

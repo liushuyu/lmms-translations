@@ -3171,7 +3171,7 @@ Reactvate them to start the process again, with the last saved state applied to 
         <translation>Reproductor para archivos GIG</translation>
     </message>
     <message>
-        <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="29"/>
+        <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="30"/>
         <source>Filter for importing Hydrogen files into LMMS</source>
         <translation>Filtro para importar archivos de Hydrogen a LMMS</translation>
     </message>
