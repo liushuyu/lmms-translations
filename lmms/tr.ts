@@ -8326,12 +8326,12 @@ Eklenti İsmi
         <translation>Tepe Kontrolörü</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="214"/>
+        <location filename="../../src/core/PeakController.cpp" line="205"/>
         <source>Peak Controller Bug</source>
         <translation>Tepe Kontrol Hatası</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="215"/>
+        <location filename="../../src/core/PeakController.cpp" line="206"/>
         <source>Due to a bug in older version of LMMS, the peak controllers may not be connect properly. Please ensure that peak controllers are connected properly and re-save this file. Sorry for any inconvenience caused.</source>
         <translation>LMMS&apos;nin eski sürümündeki bir hata nedeniyle, tepe denetleyicileri doğru şekilde bağlanamayabilir. Lütfen tepe denetleyicilerin doğru şekilde bağlandığından emin olun ve bu dosyayı yeniden kaydedin. Herhangi bir rahatsızlık verdiysem üzgünüm.</translation>
     </message>

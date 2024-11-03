@@ -8146,12 +8146,12 @@ Ime vtičnika
         <translation>Kontroler vrha</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="214"/>
+        <location filename="../../src/core/PeakController.cpp" line="205"/>
         <source>Peak Controller Bug</source>
         <translation>Hrošč kontrolerja vrha</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="215"/>
+        <location filename="../../src/core/PeakController.cpp" line="206"/>
         <source>Due to a bug in older version of LMMS, the peak controllers may not be connect properly. Please ensure that peak controllers are connected properly and re-save this file. Sorry for any inconvenience caused.</source>
         <translation>Zaradi hrošča v starejši različici LMMS se kontrolerji vrha morda ne bodo pravilno povezali. Prepričajte se, da so kontrolerji vrha pravilno povezani in ponovno shranite datoteko. Opravičujemo se za nevšečnosti.</translation>
     </message>

@@ -8339,12 +8339,12 @@ Nazwa wtyczki
         <translation>Kontroler szczytu</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="214"/>
+        <location filename="../../src/core/PeakController.cpp" line="205"/>
         <source>Peak Controller Bug</source>
         <translation>Błąd kontrolera szczytu</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="215"/>
+        <location filename="../../src/core/PeakController.cpp" line="206"/>
         <source>Due to a bug in older version of LMMS, the peak controllers may not be connect properly. Please ensure that peak controllers are connected properly and re-save this file. Sorry for any inconvenience caused.</source>
         <translation>Z powodu błędu w starszej wersji LMMS kontrolery szczytu mogą nie być prawidłowo podłączone. Upewnij się, że kontrolery szczytu są prawidłowo podłączone i ponownie zapisz ten plik.</translation>
     </message>

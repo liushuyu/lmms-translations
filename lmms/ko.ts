@@ -8328,12 +8328,12 @@ Plugin Name
         <translation>피크 컨트롤러</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="214"/>
+        <location filename="../../src/core/PeakController.cpp" line="205"/>
         <source>Peak Controller Bug</source>
         <translation>피크 컨트롤러 버그</translation>
     </message>
     <message>
-        <location filename="../../src/core/PeakController.cpp" line="215"/>
+        <location filename="../../src/core/PeakController.cpp" line="206"/>
         <source>Due to a bug in older version of LMMS, the peak controllers may not be connect properly. Please ensure that peak controllers are connected properly and re-save this file. Sorry for any inconvenience caused.</source>
         <translation>이전 버전 LMMS의 버그로 인해 피크 컨트롤러가 제대로 연결되지 않았을 수 있습니다. 피크 컨트롤러가 제대로 연결되었는지 확인 후 이 파일을 다시 저장해 주시기 바랍니다. 불편을 드려 죄송합니다.</translation>
     </message>
