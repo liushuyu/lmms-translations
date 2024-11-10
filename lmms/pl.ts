@@ -14841,7 +14841,7 @@ Wprowadź „x”, jeśli chcesz pozostawić klawisz wyłączony/niemapowany.</t
         <translation>Wybierz losowe</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="398"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="334"/>
         <source>This Mixer Channel is being used.
 Are you sure you want to remove this channel?
 
@@ -14852,12 +14852,12 @@ Na pewno chcesz usunąć ten kanał?
 Ostrzeżenie: Tej operacji nie można cofnąć.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="402"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="338"/>
         <source>Confirm removal</source>
         <translation>Potwierdź usunięcie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="403"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="339"/>
         <source>Don&apos;t ask again</source>
         <translation>Nie pytaj ponownie</translation>
     </message>

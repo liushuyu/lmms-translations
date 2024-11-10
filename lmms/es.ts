@@ -14529,7 +14529,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="398"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="334"/>
         <source>This Mixer Channel is being used.
 Are you sure you want to remove this channel?
 
@@ -14540,12 +14540,12 @@ Warning: This operation can not be undone.</source>
 Advertencia: Esta operación no se puede deshacer.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="402"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="338"/>
         <source>Confirm removal</source>
         <translation>Confirmar eliminación</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MixerChannelView.cpp" line="403"/>
+        <location filename="../../src/gui/MixerChannelView.cpp" line="339"/>
         <source>Don&apos;t ask again</source>
         <translation>No preguntar de nuevo</translation>
     </message>
