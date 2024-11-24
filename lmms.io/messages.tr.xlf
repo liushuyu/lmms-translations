@@ -6,34 +6,42 @@
     <body>
       <trans-unit id="iMlLPDz" resname="Download">
         <source>Download</source>
+        <target>İndir</target>
         
       </trans-unit>
       <trans-unit id="ZaeZFa6" resname="Get Involved">
         <source>Get Involved</source>
+        <target>Dahil Ol</target>
         
       </trans-unit>
       <trans-unit id="OJyuyp1" resname="Documentation">
         <source>Documentation</source>
+        <target>Dokümantasyon</target>
         
       </trans-unit>
       <trans-unit id="Qk7UVra" resname="Docs">
         <source>Docs</source>
+        <target>Dokümanlar</target>
         
       </trans-unit>
       <trans-unit id="fpoF0p6" resname="Forum">
         <source>Forum</source>
+        <target>Forum</target>
         
       </trans-unit>
       <trans-unit id="6V59OAe" resname="Sharing Platform">
         <source>Sharing Platform</source>
+        <target>Paylaşım Platformu</target>
         
       </trans-unit>
       <trans-unit id="Coc0Gni" resname="Share">
         <source>Share</source>
+        <target>Paylaş</target>
         
       </trans-unit>
       <trans-unit id="o3vRjwz" resname="More">
         <source>More</source>
+        <target>Dahası</target>
         
       </trans-unit>
       <trans-unit id="Ht_qF85" resname="Showcase">
@@ -42,6 +50,7 @@
       </trans-unit>
       <trans-unit id="wGF.lTR" resname="Competitions">
         <source>Competitions</source>
+        <target>Yarışmalar</target>
         
       </trans-unit>
       <trans-unit id="H1qhdmo" resname="Branding">
@@ -55,22 +64,28 @@
       <trans-unit id="9J4GlgV" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 	Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>LMMS, Linux dağıtım paketlerinin çoğunda bulunur.&lt;br&gt;
+	Linux dağıtımınız burada listelenmemiş ise, lütfen bizimle &lt;a href=&quot;/get-involved/#contact&quot;&gt; iletişime geçin &lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="5vVNzXU" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
         <source>For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.</source>
+        <target>LMMS'i Debian'ın kendisi, Ubuntu veya Linux Mint gibi Debian bazlı dağıtımlara yüklemek için aşağıdaki butona basmanız yeterli.</target>
         
       </trans-unit>
       <trans-unit id="HUQRYlK" resname="Install LMMS now">
         <source>Install LMMS now</source>
+        <target>LMMS'i şimdi yükle</target>
         
       </trans-unit>
       <trans-unit id="7WRfkFI" resname="From your package manager">
         <source>From your package manager</source>
+        <target>Paket yöneticinizden</target>
         
       </trans-unit>
       <trans-unit id="HoDeeQg" resname="If this doesn't work for you, run this command in a terminal.">
         <source>If this doesn't work for you, run this command in a terminal.</source>
+        <target>Eğer bu işe yaramazsa komutu terminalde çalıştırın.</target>
         
       </trans-unit>
       <trans-unit id="EOfny91" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
@@ -79,22 +94,27 @@
       </trans-unit>
       <trans-unit id="G87JnBY" resname="VST Support">
         <source>VST Support</source>
+        <target>VST Desteği</target>
         
       </trans-unit>
       <trans-unit id="Dm1Wbjx" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
         <source>If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.</source>
+        <target>Dağıtımınız VST desteği sunuyorsa (WINE kurulumu gerektirir) genellikle ayrı bir pakette sunulur.  Örneğin bu komutu, &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio deposu&lt;/a&gt;nu kullanarak terminalde çalıştırın.</target>
         
       </trans-unit>
       <trans-unit id="jeTovr1" resname="Run the following command as root in a terminal:">
         <source>Run the following command as root in a terminal:</source>
+        <target>Aşağıdaki komutu terminalde yönetici (root) olarak çalıştırın:</target>
         
       </trans-unit>
       <trans-unit id="yYlHSDn" resname="Run the following command in a terminal:">
         <source>Run the following command in a terminal:</source>
+        <target>Aşağıdaki komutu terminalde çalıştırın:</target>
         
       </trans-unit>
       <trans-unit id="FHRDQvS" resname="For VST support, please install wine or wine-staging from the repository">
         <source>For VST support, please install wine or wine-staging from the repository</source>
+        <target>VST desteği için, lütfen depodan wine veya wine-staging kurun</target>
         
       </trans-unit>
       <trans-unit id="6Fx.qBW" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
@@ -103,78 +123,97 @@
       </trans-unit>
       <trans-unit id="MgLmIXj" resname="To install LMMS on AOSC OS with PackageKit (recommended):">
         <source>To install LMMS on AOSC OS with PackageKit (recommended):</source>
+        <target>PackageKit ile AOSC OS'te LMMS yüklemek için (önerilir):</target>
         
       </trans-unit>
       <trans-unit id="ocLqJck" resname="To install LMMS on AOSC OS with DPKG:">
         <source>To install LMMS on AOSC OS with DPKG:</source>
+        <target>LMMS'yi DPKG ile AOSC OS'te kurmak için:</target>
         
       </trans-unit>
       <trans-unit id="3E_Z6Ww" resname="Build LMMS from source">
         <source>Build LMMS from source</source>
+        <target>LMMS'yi kaynak kodundan derleyin</target>
         
       </trans-unit>
       <trans-unit id="XF2XfTd" resname="If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.">
         <source>If your Linux distribution does not provide a lmms package (or only an outdated one), you can still build LMMS from source. Visit the &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; for instructions on how to compile LMMS for Linux.</source>
+        <target>Linux dağıtımınız bir lmms paketi sağlamazsa (veya eski bir lmms varsa), geçerli kaynaktan LMMS edinebilirsiniz. LMMS'yi derleme talimatları için &lt;a href=&quot;https://github.com/LMMS/lmms/wiki/Compiling&quot;&gt;LMMS development wiki on GitHub&lt;/a&gt; sayfasını ziyaret edin.</target>
         
       </trans-unit>
       <trans-unit id="_qygR0H" resname="Download LMMS">
         <source>Download LMMS</source>
+        <target>LMMS'i İndir</target>
         
       </trans-unit>
       <trans-unit id="3KQyvmZ" resname="Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:">
         <source>Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:</source>
+        <target>LMMS'i indirmek ve kullanmak ücretsiz! LMMS'yi üzerinde çalıştırmak istediğiniz işletim sistemini seçmeniz yeterli:</target>
         
       </trans-unit>
       <trans-unit id="il5xUz7" resname="Install LMMS on Linux">
         <source>Install LMMS on Linux</source>
+        <target>Linux'a LMMS yükle</target>
         
       </trans-unit>
       <trans-unit id="MaMF3_X" resname="Click one of the buttons below to download LMMS for Linux.">
         <source>Click one of the buttons below to download LMMS for Linux.</source>
+        <target>Linux'a LMMS indirmek için aşağıdaki butonlardan birine tıklayın.</target>
         
       </trans-unit>
       <trans-unit id="fe0jPF7" resname="Stable Versions">
         <source>Stable Versions</source>
+        <target>Kararlı Sürümler</target>
         
       </trans-unit>
       <trans-unit id="49kH3Yb" resname="Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running">
         <source>Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running</source>
+        <target>Çalıştırmadan önce &lt;code&gt;.AppImage&lt;/code&gt; yürütülebilir dosyasını ayarlamak için &lt;code&gt;chmod+x~/Downloads/*.AppImage&lt;/code&gt; komutunu çalıştırın</target>
         
       </trans-unit>
       <trans-unit id="OzIyYFY" resname="Beta Versions">
         <source>Beta Versions</source>
+        <target>Beta Sürümleri</target>
         
       </trans-unit>
       <trans-unit id="g3QeHa0" resname="Other options">
         <source>Other options</source>
+        <target>Diğer seçenekler</target>
         
       </trans-unit>
       <trans-unit id="qvfBNXu" resname="Install LMMS on Windows">
         <source>Install LMMS on Windows</source>
+        <target>Windows'a LMMS yükle</target>
         
       </trans-unit>
       <trans-unit id="L4N.x7z" resname="Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows">
         <source>Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows</source>
+        <target>Windows'a LMMS'i indirmek için aşağıdaki düğmelerden birine (32bit veya 64bit) tıklayın</target>
         
       </trans-unit>
       <trans-unit id="D47H5zq" resname="Install LMMS on macOS">
         <source>Install LMMS on macOS</source>
+        <target>MacOS'e LMMS yükle</target>
         
       </trans-unit>
       <trans-unit id="q_jbBQk" resname="Click one of the buttons below to download LMMS for macOS">
         <source>Click one of the buttons below to download LMMS for macOS</source>
+        <target>MacOS'e LMMS'i indirmek için aşağıdaki düğmelerden birini tıklayın</target>
         
       </trans-unit>
       <trans-unit id="i4b9jxT" resname="Downloads labeled Beta are pre-release software, stability may suffer.">
         <source>Downloads labeled Beta are pre-release software, stability may suffer.</source>
+        <target>Beta etiketli indirmeler yayın öncesi yazılımlardır, kararlılıkta sorun yaşanabilir.</target>
         
       </trans-unit>
       <trans-unit id="u9r1mHX" resname="Previous releases">
         <source>Previous releases</source>
+        <target>Önceki sürümler</target>
         
       </trans-unit>
       <trans-unit id="p2JwKTn" resname="Show release notes">
         <source>Show release notes</source>
+        <target>Sürüm notlarını göster</target>
         
       </trans-unit>
       <trans-unit id="JeB7PmY" resname="LMMS is a free, open-source software built entirely by a small number of&#10;&#9;volunteers in their free time. But to keep the project going, we need this&#10;&#9;number to grow. So if you feel like giving something back to the community,&#10;&#9;join us in making LMMS better!">
@@ -182,24 +221,34 @@
 	volunteers in their free time. But to keep the project going, we need this
 	number to grow. So if you feel like giving something back to the community,
 	join us in making LMMS better!</source>
+        <target>LMMS az sayıda gönüllünün boş zamanlarında yaptıkları tamamen ücretsiz,
+	açık kaynak kodlu bir programdır. Fakat projeyi sürdürebilmek için bu sayının artmasına ihtiyacımız var.
+	Yani eğer siz de bu projeye bir şeyler katmak istiyorsanız,
+	LMMS'i daha iyi yapmak için siz de bize katılın!</target>
         
       </trans-unit>
       <trans-unit id="SfCm20f" resname="What you can do">
         <source>What you can do</source>
+        <target>Neler yapabilirsin</target>
         
       </trans-unit>
       <trans-unit id="zaIp1qn" resname="There are multiple ways of contributing:">
         <source>There are multiple ways of contributing:</source>
+        <target>Katkıda bulunmanın birçok yolu var:</target>
         
       </trans-unit>
       <trans-unit id="tOhjAdN" resname="Join Development">
         <source>Join Development</source>
+        <target>Yazılımı Geliştirin</target>
         
       </trans-unit>
       <trans-unit id="iMD1g4u" resname="We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt&#10;&#9;&#9;&#9;&#9;&#9;   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with&#10;&#9;&#9;&#9;&#9;&#9;   coding!">
         <source>We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt
 					   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with
 					   coding!</source>
+        <target>Ekibimize dahil olacak yeni geliştiricilere ihtiyacımız var. LMMS, Qt
+					   Framework'ü kullanılarak C++ ile yazılmıştır. Bu ikisi hakkında bir iki şey biliyorsan  
+					   kodlamaya girişmekten çekinmeyin!</target>
         
       </trans-unit>
       <trans-unit id="IPnxpHq" resname="See our &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt; and our&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place&#10;&#9;&#9;&#9;&#9;&#9;   to introduce yourself.">
@@ -207,10 +256,15 @@
 					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;bug tracker&lt;/a&gt; to get started. Furthermore, the LMMS
 					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;mailing list&lt;/a&gt; is a great place
 					   to introduce yourself.</source>
+        <target>Başlamak için &lt;a href=&quot;//github.com/LMMS/lmms/wiki&quot;&gt;GitHub Wiki&lt;/a&gt;mize ve
+					   &lt;a href=&quot;//github.com/LMMS/lmms/issues&quot;&gt;sorun takipçimize&lt;/a&gt; (bug tracker) göz at. Ayrıca, LMMS
+					   &lt;a href=&quot;https://lists.sourceforge.net/lists/listinfo/lmms-devel&quot;&gt;posta listesi&lt;/a&gt; de kendini tanıtmak için 
+					   harika bir yer.</target>
         
       </trans-unit>
       <trans-unit id="s5EAueb" resname="Website &amp; Docs">
         <source>Website &amp; Docs</source>
+        <target>Web Sitesi &amp; Dokümanlar</target>
         
       </trans-unit>
       <trans-unit id="w8z9ITy" resname="You can help us by improving this website or documenting the software. The website sources are in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.">
