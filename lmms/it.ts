@@ -19,7 +19,7 @@
     <message>
         <location filename="../../src/gui/modals/about_dialog.ui" line="78"/>
         <source>About</source>
-        <translation>Informazioni su</translation>
+        <translation>Riguardo a</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/about_dialog.ui" line="100"/>
@@ -49,7 +49,7 @@
     <message>
         <location filename="../../src/gui/modals/about_dialog.ui" line="196"/>
         <source>Contributors ordered by number of commits:</source>
-        <translation>Hanno collaborato (ordinati per numero di contributi):</translation>
+        <translation>Collaboratori ordinati per numero di contributi:</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/about_dialog.ui" line="211"/>
@@ -60,7 +60,8 @@
         <location filename="../../src/gui/modals/about_dialog.ui" line="220"/>
         <source>Current language not translated (or native English).
 If you&apos;re interested in translating LMMS in another language or want to improve existing translations, you&apos;re welcome to help us! Simply contact the maintainer!</source>
-        <translation>La lingua corrente è tradotta dall&apos; inglese (nativo).Se sei interessato a tradurre LMMS o desideri migliorare la traduzione esistente, sei il benvenuto! E&apos; sufficiente contattare il manutentore: Roberto Giaconia &lt;derobyj@gmail.com&gt;</translation>
+        <translation>La lingua corrente è tradotta dall&apos; inglese (nativo).
+Se sei interessato a tradurre LMMS in un&apos;altra lingua o desideri migliorare le traduzione esistenti, sei il benvenuto ad aiutarci! Semplicemente contatta il manutentore: Roberto Giaconia &lt;derobyj@gmail.com&gt;</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/about_dialog.ui" line="229"/>
@@ -73,12 +74,12 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/aboutjucedialog.ui" line="14"/>
         <source>About JUCE</source>
-        <translation>Informazioni su JUCE</translation>
+        <translation>Riguardo a JUCE</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/aboutjucedialog.ui" line="61"/>
         <source>&lt;b&gt;About JUCE&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Informazioni su JUCE&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Riguardo a JUCE&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/aboutjucedialog.ui" line="84"/>
@@ -119,12 +120,12 @@ Copyright (C) 2022 Raw Material Software Limited.</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="24"/>
         <source>About</source>
-        <translation>Informazioni su</translation>
+        <translation>Riguardo a</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="30"/>
         <source>About text here</source>
-        <translation>Informazioni sul testo qui</translation>
+        <translation>Riguardo al testo qui</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="102"/>
@@ -134,7 +135,7 @@ Copyright (C) 2022 Raw Material Software Limited.</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="122"/>
         <source>Artwork</source>
-        <translation>Materiale grafico</translation>
+        <translation>Artwork</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="153"/>
@@ -154,7 +155,7 @@ Copyright (C) 2022 Raw Material Software Limited.</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="603"/>
         <source>Special thanks to António Saraiva for a few extra icons and artwork!</source>
-        <translation>Un ringraziamento speciale ad Antonio Saraiva per qualche icona e lavori grafici in più!</translation>
+        <translation>Ringraziamenti speciali ad Antonio Saraiva per qualche icona e lavori grafici in più!</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="613"/>
@@ -226,7 +227,7 @@ Copyright (C) 2022 Raw Material Software Limited.</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="998"/>
         <source>Host URLs:</source>
-        <translation>URLs host:</translation>
+        <translation>Host URLs:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="1018"/>
@@ -536,12 +537,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_widgets.cpp" line="67"/>
         <source>OSC Bridge Version</source>
-        <translation>Versione ponte OSC</translation>
+        <translation>OSC Bridge Versione</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_widgets.cpp" line="69"/>
         <source>Plugin Version</source>
-        <translation>Versione plugin</translation>
+        <translation>Plugin Versione</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_widgets.cpp" line="71"/>
@@ -575,7 +576,7 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_widgets.cpp" line="162"/>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_widgets.cpp" line="171"/>
         <source>Using Juce host</source>
-        <translation>Tramite l&apos;host Juce</translation>
+        <translation>Usando Juce host</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_widgets.cpp" line="164"/>
@@ -628,17 +629,17 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="338"/>
         <source>Auto-Scroll</source>
-        <translation>Scorrimento automatico</translation>
+        <translation>Auto-Scroll</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="376"/>
         <source>Buffer Size:</source>
-        <translation>Dimensione buffer:</translation>
+        <translation>Buffer Dimensione:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="399"/>
         <source>Sample Rate:</source>
-        <translation>Frequenza campionamento:</translation>
+        <translation>Frequenza di campionamento:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="422"/>
@@ -678,7 +679,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="526"/>
         <source>Zoom</source>
-        <translation>Ingrandimento</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="548"/>
@@ -714,17 +715,17 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="749"/>
         <source>Playback Controls</source>
-        <translation>Controlli riproduzione</translation>
+        <translation>Controlli di Playback</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="811"/>
         <source>Time Information</source>
-        <translation>Informazioni tempo</translation>
+        <translation>Informazioni sul Tempo</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="819"/>
         <source>Frame:</source>
-        <translation>Periodo</translation>
+        <translation>Frame:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="834"/>
@@ -764,12 +765,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="968"/>
         <source>Use JACK Transport</source>
-        <translation>Usa trasporto JACK</translation>
+        <translation>Usa JACK Trasporto</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="975"/>
         <source>Use Ableton Link</source>
-        <translation>Usa collegamento Ableton</translation>
+        <translation>Usa Ableton Link</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1085"/>
@@ -846,7 +847,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1187"/>
         <source>St&amp;op</source>
-        <translation>Arrest&amp;a</translation>
+        <translation>Ar&amp;resta</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1190"/>
@@ -856,7 +857,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1202"/>
         <source>&amp;Add Plugin...</source>
-        <translation>&amp;Aggiungi plug-in...</translation>
+        <translation>&amp;Aggiungi Plugin...</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1205"/>
@@ -866,7 +867,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1217"/>
         <source>&amp;Remove All</source>
-        <translation>&amp;Rimuovi tutto</translation>
+        <translation>&amp;Rimuovi Tutto</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1225"/>
@@ -881,12 +882,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1241"/>
         <source>0% Wet (Bypass)</source>
-        <translation>0% bagnato (bypass)</translation>
+        <translation>0% Wet (Bypass)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1249"/>
         <source>100% Wet</source>
-        <translation>100% bagnato</translation>
+        <translation>100% Wet</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1257"/>
@@ -972,7 +973,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1374"/>
         <source>Auto-Fit</source>
-        <translation>Adatta-automatico</translation>
+        <translation>Auto-Adatta</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1389"/>
@@ -997,7 +998,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1419"/>
         <source>Zoom 100%</source>
-        <translation>Ingrandimento 100%</translation>
+        <translation>Zoom 100%</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1422"/>
@@ -1007,7 +1008,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1433"/>
         <source>Show &amp;Toolbar</source>
-        <translation>Mostra &amp;barra strumenti</translation>
+        <translation>Mostra &amp;Barra strumenti</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1445"/>
@@ -1052,12 +1053,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1524"/>
         <source>Show Time Panel</source>
-        <translation>Mostra pannello temporale</translation>
+        <translation>Mostra Pannello Temporale</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1532"/>
         <source>Show &amp;Side Panel</source>
-        <translation>Mostra &amp;pannello laterale</translation>
+        <translation>Mostra &amp;Pannello Laterale</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1535"/>
@@ -1072,12 +1073,12 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1567"/>
         <source>Compact Slots</source>
-        <translation>Comprimi alloggiamenti</translation>
+        <translation>Comprimi Slot</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1575"/>
         <source>Expand Slots</source>
-        <translation>Espandi alloggiamenti</translation>
+        <translation>Espandi Slot</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1583"/>
@@ -1107,7 +1108,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1612"/>
         <source>Add &amp;JACK Application...</source>
-        <translation>Aggiungi applicazione &amp;JACK...</translation>
+        <translation>Aggiungi &amp;JACK Applicazione...</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1624"/>
@@ -1184,13 +1185,13 @@ POSSIBILITY OF SUCH DAMAGES.
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_host.cpp" line="1717"/>
         <source>Could not connect to Audio backend '%1', possible reasons:
 %2</source>
-        <translation>Impossibile connettersi al back-end Audio &apos;%1&apos;, possibili motivi:
-2%</translation>
+        <translation>Impossibile connettersi al backend Audio &apos;%1&apos;, possibili motivi:
+%2</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_host.cpp" line="1723"/>
         <source>Could not connect to Audio backend &apos;%1&apos;</source>
-        <translation>Impossibile connettersi al backend audio &apos;%1&apos;</translation>
+        <translation>Impossibile connettersi al backend Audio &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_host.cpp" line="1740"/>
@@ -1235,12 +1236,12 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="91"/>
         <source>file-paths</source>
-        <translation>Percorsi dei file</translation>
+        <translation>Percorsi di file</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="96"/>
         <source>plugin-paths</source>
-        <translation>Percorsi plugin</translation>
+        <translation>Percorsi di plugin</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="101"/>
@@ -1250,7 +1251,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="106"/>
         <source>experimental</source>
-        <translation>Sperimentale</translation>
+        <translation>sperimentale</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="111"/>
@@ -1278,12 +1279,12 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="194"/>
         <source>File Paths</source>
-        <translation>Percorsi dei file</translation>
+        <translation>Percorsi File</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="212"/>
         <source>Plugin Paths</source>
-        <translation>Percorsi plugins</translation>
+        <translation>Percorsi Plugin</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="230"/>
@@ -1309,7 +1310,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="348"/>
         <source>Default project folder:</source>
-        <translation>Cartella progetto predefinita:</translation>
+        <translation>Cartella di progetto predefinita:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="386"/>
@@ -1340,7 +1341,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="448"/>
         <source>Show a confirmation dialog before quitting</source>
-        <translation>Visualizza messaggio di conferma prima di uscire</translation>
+        <translation>Mostra un messaggio di conferma prima di uscire</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="458"/>
@@ -1356,7 +1357,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="474"/>
         <source>Color scheme:</source>
-        <translation>Combinazione colori:</translation>
+        <translation>Combinazione di colori:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="488"/>
@@ -1391,7 +1392,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="692"/>
         <source>Size:</source>
-        <translation>Grandezza:</translation>
+        <translation>Dimensione:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="703"/>
@@ -1512,7 +1513,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="998"/>
         <source>Max Parameters:</source>
-        <translation>Parametri massimi:</translation>
+        <translation>Max Parametri:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1018"/>
@@ -1527,18 +1528,18 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1067"/>
         <source>Plugin UIs</source>
-        <translation>UIs plugin</translation>
+        <translation>Plugin UIs</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1073"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1086"/>
         <source>How much time to wait for OSC GUIs to ping back the host</source>
-        <translation>Tempo di attesa che le GUI OSC eseguano il ping dell&apos;host</translation>
+        <translation>Tempo di attesa in modo che le GUI OSC eseguano il ping dell&apos;host</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1076"/>
         <source>UI Bridge Timeout:</source>
-        <translation>Sospensione bridge UI:</translation>
+        <translation>UI Bridge Timeout:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1115"/>
@@ -1584,7 +1585,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1341"/>
         <source>Enable TCP port</source>
-        <translation>Abilita porta TCP</translation>
+        <translation>Abilita TCP porta</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1350"/>
@@ -1606,7 +1607,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1474"/>
         <source>Enable UDP port</source>
-        <translation>Abilita porta UDP</translation>
+        <translation>Abilita UDP porta</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1579"/>
@@ -1621,7 +1622,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1774"/>
         <source>&lt;b&gt;File Paths&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Percorsi file&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Percorsi File&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="1833"/>
@@ -1664,7 +1665,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2065"/>
         <source>&lt;b&gt;Plugin Paths&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Percorsi plugin&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Percorsi Plugin&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2124"/>
@@ -1729,7 +1730,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2559"/>
         <source>Path to &apos;wine&apos; binary:</source>
-        <translation>Percorso per binario &apos;wine&apos;:</translation>
+        <translation>Percorso per &apos;wine&apos; binario:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2575"/>
@@ -1739,7 +1740,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2581"/>
         <source>Auto-detect Wine prefix based on plugin filename</source>
-        <translation>Rilevamento automatico del prefisso Wine in base al nome del file del plug-in</translation>
+        <translation>Rilevamento automatico del prefisso Wine in base al nome di file plugin</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2588"/>
@@ -1779,17 +1780,17 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2908"/>
         <source>Experimental options! Likely to be unstable!</source>
-        <translation>Opzioni sperimentali! Probabilmente instabile!</translation>
+        <translation>Opzioni sperimentali! Probabilmente instabili!</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2936"/>
         <source>Enable plugin bridges</source>
-        <translation>Abilita i bridges plugin</translation>
+        <translation>Abilita i plugin bridgers</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2946"/>
         <source>Enable Wine bridges</source>
-        <translation>Abilita i bridges Wine</translation>
+        <translation>Abilita i Wine bridgers</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2953"/>
@@ -1829,7 +1830,7 @@ Vuoi farlo adesso?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="3014"/>
         <source>Render Ardour-style &quot;Inline Displays&quot;</source>
-        <translation>Renderizza in stile-Ardour : &quot;Visualizza in linea&quot;</translation>
+        <translation>Renderizza in stile-Ardour : &quot;Inline Display&quot;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="3030"/>
@@ -1871,7 +1872,7 @@ Reactvate them to start the process again, with the last saved state applied to 
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_settings.cpp" line="1674"/>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_settings.cpp" line="1719"/>
         <source>Add Path</source>
-        <translation>Aggiungi percorso</translation>
+        <translation>Aggiungi Percorso</translation>
     </message>
 </context>
 <context>
@@ -1889,7 +1890,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_osc_connect.ui" line="26"/>
         <source>UDP Port:</source>
-        <translation>Porta UDP:</translation>
+        <translation>UDP Porta:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_osc_connect.ui" line="36"/>
@@ -1899,7 +1900,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_osc_connect.ui" line="66"/>
         <source>TCP Port:</source>
-        <translation>Porta TCP:</translation>
+        <translation>TCP Porta:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/inputdialog_value.ui" line="14"/>
@@ -1922,7 +1923,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings_driver.ui" line="20"/>
         <source>Driver Settings</source>
-        <translation>Impostazioni driver</translation>
+        <translation>Impostazioni Driver</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings_driver.ui" line="79"/>
@@ -1932,7 +1933,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings_driver.ui" line="95"/>
         <source>Buffer size:</source>
-        <translation>Dimensione buffer:</translation>
+        <translation>Buffer Dimensione:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings_driver.ui" line="114"/>
@@ -1947,7 +1948,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings_driver.ui" line="187"/>
         <source>Show Driver Control Panel</source>
-        <translation>Mostra pannello di controllo driver</translation>
+        <translation>Mostra Pannello di Controllo Driver</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings_driver.ui" line="249"/>
@@ -1975,7 +1976,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="61"/>
         <source>Render Looped Section:</source>
-        <translation>Rendering sezione ciclica:</translation>
+        <translation>Rendering Sezione Ciclica:</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="68"/>
@@ -1990,7 +1991,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="95"/>
         <source>File format:</source>
-        <translation>Formato file:</translation>
+        <translation>File Formato:</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="120"/>
@@ -2025,17 +2026,17 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="174"/>
         <source>Bit depth:</source>
-        <translation>Risoluzione Bit:</translation>
+        <translation>Bit risoluzione:</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="185"/>
         <source>16 Bit integer</source>
-        <translation>Interi 16 Bit</translation>
+        <translation>16 Bit interi</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="190"/>
         <source>24 Bit integer</source>
-        <translation>Interi 24 Bit</translation>
+        <translation>Interi 24 Bit interi</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="195"/>
@@ -2050,17 +2051,17 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="232"/>
         <source>Mono</source>
-        <translation>Monofonico</translation>
+        <translation>Mono</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="237"/>
         <source>Stereo</source>
-        <translation>Stereofonico</translation>
+        <translation>Stereo</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="242"/>
         <source>Joint stereo</source>
-        <translation>Stereofonia compressa (Joint stereo)</translation>
+        <translation>Joint stereo</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="268"/>
@@ -2647,7 +2648,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="54"/>
         <source>RESO</source>
-        <translation>RISO</translation>
+        <translation>RESO</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="55"/>
@@ -2660,7 +2661,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="14"/>
         <source>Add JACK Application</source>
-        <translation>Aggiungi applicazione JACK</translation>
+        <translation>Aggiungi JACK Applicazione</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="20"/>
@@ -2685,7 +2686,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="104"/>
         <source>From template</source>
-        <translation>Dal modello</translation>
+        <translation>Dal template</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="117"/>
@@ -2695,7 +2696,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="137"/>
         <source>Template:</source>
-        <translation>Modello:</translation>
+        <translation>Template:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="167"/>
@@ -2720,22 +2721,22 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="277"/>
         <source>Audio inputs:</source>
-        <translation>Audio ingresso:</translation>
+        <translation>Audio ingressi:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="339"/>
         <source>MIDI inputs:</source>
-        <translation>MIDI ingresso:</translation>
+        <translation>MIDI ingressi:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="391"/>
         <source>Audio outputs:</source>
-        <translation>Audio uscita:</translation>
+        <translation>Audio uscite:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="440"/>
         <source>MIDI outputs:</source>
-        <translation>MIDI uscita:</translation>
+        <translation>MIDI uscite:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="470"/>
@@ -2750,7 +2751,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="486"/>
         <source>Wait for external application start (Advanced, for Debug only)</source>
-        <translation>Attendi l&apos;avvio di un&apos;applicazione esterna (avanzato, solo per debug)</translation>
+        <translation>Attendi l&apos;avvio di un&apos;applicazione esterna (Avanzato, solo per Debug)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="496"/>
@@ -10970,37 +10971,37 @@ Assicurati di avere i permessi di lettura per il file e la directory contenente 
 <context>
     <name>lmms::gui::EnvelopeGraph</name>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="65"/>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="69"/>
         <source>Scaling</source>
         <translation>Ridimensionamento</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="86"/>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="90"/>
         <source>Dynamic</source>
         <translation>Dinamico</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="87"/>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="91"/>
         <source>Uses absolute spacings but switches to relative spacing if it&apos;s running out of space</source>
         <translation>Utilizza spaziature assolute ma passa alla spaziatura relativa se sta esaurendo lo spazio</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="90"/>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="94"/>
         <source>Absolute</source>
         <translation>Assoluto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="91"/>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="95"/>
         <source>Provides enough potential space for each segment but does not scale</source>
         <translation>Fornisce spazio potenziale sufficiente per ogni segmento ma non è scalabile</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="94"/>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="98"/>
         <source>Relative</source>
         <translation>Relativo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="95"/>
+        <location filename="../../src/gui/instrument/EnvelopeGraph.cpp" line="99"/>
         <source>Always uses all of the available space to display the envelope graph</source>
         <translation>Utilizza sempre tutto lo spazio disponibile per visualizzare il grafico dell&apos;inviluppo</translation>
     </message>
@@ -15325,118 +15326,118 @@ Attenzione: questa operazione non può essere annullata.</translation>
 <context>
     <name>lmms::gui::PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="218"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="221"/>
         <source>Note Velocity</source>
         <translation>Nota Velocità</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="219"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="222"/>
         <source>Note Panning</source>
         <translation>Nota Panning</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="232"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="235"/>
         <source>Mark/unmark current semitone</source>
         <translation>Evidenzia/deseleziona il semitono corrente</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="233"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="236"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>Evidenzia/deseleziona tutti i semitoni dell&apos;ottava corrispondenti</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="234"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="237"/>
         <source>Mark current scale</source>
         <translation>Evidenzia scala corrente</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="235"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="238"/>
         <source>Mark current chord</source>
         <translation>Evidenzia accordo corrente</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="236"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="239"/>
         <source>Unmark all</source>
         <translation>Deseleziona tutto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="237"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="240"/>
         <source>Select all notes on this key</source>
         <translation>Seleziona tutte le note su questo tasto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="334"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="337"/>
         <source>Note lock</source>
         <translation>Note lock</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="344"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="347"/>
         <source>Last note</source>
         <translation>Ultima nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="368"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="371"/>
         <source>No key</source>
         <translation>No tasto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="381"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="384"/>
         <source>No scale</source>
         <translation>No scala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="398"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="401"/>
         <source>No chord</source>
         <translation>No accordo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="428"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="431"/>
         <source>Nudge</source>
         <translation>Nudge</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="429"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="432"/>
         <source>Snap</source>
         <translation>Snap</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="470"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="473"/>
         <source>Velocity: %1%</source>
         <translation>Velocità: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="479"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="482"/>
         <source>Panning: %1% left</source>
         <translation>Panning: %1% a sinistra</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="483"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="486"/>
         <source>Panning: %1% right</source>
         <translation>Panning: %1% a destra</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="487"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="490"/>
         <source>Panning: center</source>
         <translation>Panning: centro</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="655"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="658"/>
         <source>Glue notes failed</source>
         <translation>Note glue non riuscite</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="656"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="659"/>
         <source>Please select notes to glue first.</source>
         <translation>Per favore seleziona le note per glue prima.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3616"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3619"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation>Si prega di aprire una clip con doppio clic su questa!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4270"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4289"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4273"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4292"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Per favore inserisci un nuovo valore tra %1 e %2:</translation>
     </message>
@@ -15444,241 +15445,241 @@ Attenzione: questa operazione non può essere annullata.</translation>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
         <source>Play/pause current clip (Space)</source>
         <translation>Riproduci/sospendi la clip corrente (Spazio)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Registra le note dal dispositivo MIDI/canale del piano</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4755"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation>Registra le note dal dispositivo MIDI/canale del piano durante la riproduzione di una canzone o traccia di pattern</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Registra le note dal dispositivo MIDI/canale del piano, un passo alla volta</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4757"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>Arresta la riproduzione della clip corrente (Spazio)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
         <source>Edit actions</source>
         <translation>Modifica azioni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Modalità di disegno (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4761"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Modalità di cancellazione (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4762"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
         <source>Select mode (Shift+S)</source>
         <translation>Modalità di selezione (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Modalità di Pitch Bend (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4778"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4781"/>
         <source>Quantize</source>
         <translation>Quantizza</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4779"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4782"/>
         <source>Quantize positions</source>
         <translation>Quantizza posizioni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4780"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4783"/>
         <source>Quantize lengths</source>
         <translation>Quantizza lunghezze</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4800"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4803"/>
         <source>File actions</source>
         <translation>Azioni di file</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4808"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
         <source>Import clip</source>
         <translation>Importa clip</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4810"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4813"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5270"/>
         <source>Export clip</source>
         <translation>Esporta clip</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4821"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4824"/>
         <source>Copy paste controls</source>
         <translation>Controlli di copia-incolla</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4826"/>
         <source>Cut (%1+X)</source>
         <translation>Taglia (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
         <source>Copy (%1+C)</source>
         <translation>Copia (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4827"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4830"/>
         <source>Paste (%1+V)</source>
         <translation>Incolla (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4842"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4845"/>
         <source>Timeline controls</source>
         <translation>Controlli della sequenza temporale</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4850"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4853"/>
         <source>Glue</source>
         <translation>Glue</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4854"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4857"/>
         <source>Knife</source>
         <translation>Knife</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4861"/>
         <source>Fill</source>
         <translation>Fill</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4862"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4865"/>
         <source>Cut overlaps</source>
         <translation>Taglia le sovrapposizioni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4866"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
         <source>Min length as last</source>
         <translation>Lunghezza minima come ultima</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4872"/>
         <source>Max length as last</source>
         <translation>Lunghezza massima come ultima</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4884"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4887"/>
         <source>Zoom and note controls</source>
         <translation>Controlli di zoom e note</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4892"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
         <source>Horizontal zooming</source>
         <translation>Zooming orizzontale</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4900"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4903"/>
         <source>Vertical zooming</source>
         <translation>Zooming verticale</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4909"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4912"/>
         <source>Quantization</source>
         <translation>Quantizzazione</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4918"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4921"/>
         <source>Note length</source>
         <translation>Lunghezza di nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4924"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4927"/>
         <source>Key</source>
         <translation>Tasto</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4933"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4936"/>
         <source>Scale</source>
         <translation>Scala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4942"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4945"/>
         <source>Chord</source>
         <translation>Accordo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4951"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4954"/>
         <source>Snap mode</source>
         <translation>Modalità di snap</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4956"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4959"/>
         <source>Clear ghost notes</source>
         <translation>Rimuovi le note fantasma</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5065"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5244"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5068"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5247"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano-Roll - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5072"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5249"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5075"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5252"/>
         <source>Piano-Roll - no clip</source>
         <translation>Piano-Roll - no clip</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5271"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5318"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation>XML clip file (*.xpt *.xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5291"/>
         <source>Export clip success</source>
         <translation>Esporta clip riuscita</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5292"/>
         <source>Clip saved to %1</source>
         <translation>Clip salvata in %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5304"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5307"/>
         <source>Import clip.</source>
         <translation>Importa clip.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5308"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation>Stai per importare una clip, questa operazione sovrascriverà la clip corrente. Vuoi continuare?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5314"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5317"/>
         <source>Open clip</source>
         <translation>Apri clip</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5334"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5337"/>
         <source>Import clip success</source>
         <translation>Importa clip riuscita</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5338"/>
         <source>Imported clip %1!</source>
         <translation>Importata clip %1!</translation>
     </message>
