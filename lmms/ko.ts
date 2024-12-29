@@ -7205,9 +7205,9 @@ Plugin Name
     </message>
     <message>
         <location filename="../../src/core/midi/MidiJack.cpp" line="60"/>
-        <source>The JACK server seems to be shuted down.</source>
+        <source>The JACK server seems to be shut down.</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
-        <translation>JACK 서버가 종료된 것 같습니다.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17281,8 +17281,8 @@ Latency: %2 ms</source>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="356"/>
-        <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
-        <translation>선택한 경로에 해당 이름의 번들 폴더가 이미 존재합니다. 프로젝트 번들을 덮어쓸 수 없습니다. 다른 이름을 선택하세요.</translation>
+        <source>A bundle folder with that name already exists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="366"/>
@@ -17536,8 +17536,8 @@ Latency: %2 ms</source>
     </message>
     <message>
         <location filename="../../src/gui/editors/StepRecorderWidget.cpp" line="97"/>
-        <source>Move recording curser using &lt;Left/Right&gt; arrows</source>
-        <translation>&lt;좌/우&gt; 방향키를 사용하여 녹음 커서 이동하기</translation>
+        <source>Move recording cursor using &lt;Left/Right&gt; arrows</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

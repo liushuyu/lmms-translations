@@ -7216,9 +7216,9 @@ Nazwa wtyczki
     </message>
     <message>
         <location filename="../../src/core/midi/MidiJack.cpp" line="60"/>
-        <source>The JACK server seems to be shuted down.</source>
+        <source>The JACK server seems to be shut down.</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
-        <translation>Wygląda na to, że serwer JACK jest wyłączony.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17295,8 +17295,8 @@ Upewnij się, że masz przynajmniej uprawnienia do odczytu pliku i spróbuj pono
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="356"/>
-        <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
-        <translation>Folder pakietu o tej nazwie już istnieje w wybranej ścieżce. Nie można zastąpić pakietu projektu. Wybierz inną nazwę.</translation>
+        <source>A bundle folder with that name already exists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="366"/>
@@ -17550,8 +17550,8 @@ Upewnij się, że masz przynajmniej uprawnienia do odczytu pliku i spróbuj pono
     </message>
     <message>
         <location filename="../../src/gui/editors/StepRecorderWidget.cpp" line="97"/>
-        <source>Move recording curser using &lt;Left/Right&gt; arrows</source>
-        <translation>Przesuń kursor nagrywania za pomocą strzałek &lt;lewo/prawo&gt;</translation>
+        <source>Move recording cursor using &lt;Left/Right&gt; arrows</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

@@ -24,6 +24,7 @@
       </trans-unit>
       <trans-unit id="fpoF0p6" resname="Forum">
         <source>Forum</source>
+        <target>フォーラム</target>
         
       </trans-unit>
       <trans-unit id="6V59OAe" resname="Sharing Platform">
@@ -41,6 +42,7 @@
       </trans-unit>
       <trans-unit id="Ht_qF85" resname="Showcase">
         <source>Showcase</source>
+        <target>ショーケース</target>
         
       </trans-unit>
       <trans-unit id="wGF.lTR" resname="Competitions">
@@ -66,6 +68,7 @@
       </trans-unit>
       <trans-unit id="HUQRYlK" resname="Install LMMS now">
         <source>Install LMMS now</source>
+        <target>すぐにLMMSをインストールする</target>
         
       </trans-unit>
       <trans-unit id="7WRfkFI" resname="From your package manager">
@@ -74,6 +77,7 @@
       </trans-unit>
       <trans-unit id="HoDeeQg" resname="If this doesn't work for you, run this command in a terminal.">
         <source>If this doesn't work for you, run this command in a terminal.</source>
+        <target>うまくいかない場合は、このコマンドをターミナルで実行して下さい。</target>
         
       </trans-unit>
       <trans-unit id="EOfny91" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
@@ -91,14 +95,17 @@
       </trans-unit>
       <trans-unit id="jeTovr1" resname="Run the following command as root in a terminal:">
         <source>Run the following command as root in a terminal:</source>
+        <target>次のコマンドを、root権限のターミナルで実行してください：</target>
         
       </trans-unit>
       <trans-unit id="yYlHSDn" resname="Run the following command in a terminal:">
         <source>Run the following command in a terminal:</source>
+        <target>次のコマンドを、ターミナルで実行して下さい：</target>
         
       </trans-unit>
       <trans-unit id="FHRDQvS" resname="For VST support, please install wine or wine-staging from the repository">
         <source>For VST support, please install wine or wine-staging from the repository</source>
+        <target>VSTを使用する場合は、wineもしくはwine-stagingをリポジトリからインストールして下さい。</target>
         
       </trans-unit>
       <trans-unit id="6Fx.qBW" resname="AOSC OS ships LMMS on various architectural ports (AMD64/x86_64, ARMv7, and more to come in the future), with VST support enabled by default on AMD64.">
@@ -124,6 +131,7 @@
       </trans-unit>
       <trans-unit id="_qygR0H" resname="Download LMMS">
         <source>Download LMMS</source>
+        <target>LMMSをダウンロードする</target>
         
       </trans-unit>
       <trans-unit id="3KQyvmZ" resname="Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:">
@@ -136,10 +144,12 @@
       </trans-unit>
       <trans-unit id="MaMF3_X" resname="Click one of the buttons below to download LMMS for Linux.">
         <source>Click one of the buttons below to download LMMS for Linux.</source>
+        <target>Linux用のLMMSをダウンロードするには、以下のいずれかのボタンをクリックして下さい。</target>
         
       </trans-unit>
       <trans-unit id="fe0jPF7" resname="Stable Versions">
         <source>Stable Versions</source>
+        <target>安定版</target>
         
       </trans-unit>
       <trans-unit id="49kH3Yb" resname="Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running">
@@ -148,6 +158,7 @@
       </trans-unit>
       <trans-unit id="OzIyYFY" resname="Beta Versions">
         <source>Beta Versions</source>
+        <target>ベータ版</target>
         
       </trans-unit>
       <trans-unit id="g3QeHa0" resname="Other options">
@@ -156,6 +167,7 @@
       </trans-unit>
       <trans-unit id="qvfBNXu" resname="Install LMMS on Windows">
         <source>Install LMMS on Windows</source>
+        <target>LMMSをWindowsにインストールする</target>
         
       </trans-unit>
       <trans-unit id="L4N.x7z" resname="Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows">
@@ -164,6 +176,7 @@
       </trans-unit>
       <trans-unit id="D47H5zq" resname="Install LMMS on macOS">
         <source>Install LMMS on macOS</source>
+        <target>LMMSをmacOSにインストールする</target>
         
       </trans-unit>
       <trans-unit id="q_jbBQk" resname="Click one of the buttons below to download LMMS for macOS">
@@ -191,6 +204,7 @@
       </trans-unit>
       <trans-unit id="SfCm20f" resname="What you can do">
         <source>What you can do</source>
+        <target>あなたにできること</target>
         
       </trans-unit>
       <trans-unit id="zaIp1qn" resname="There are multiple ways of contributing:">
@@ -199,6 +213,7 @@
       </trans-unit>
       <trans-unit id="tOhjAdN" resname="Join Development">
         <source>Join Development</source>
+        <target>開発に参加する</target>
         
       </trans-unit>
       <trans-unit id="iMD1g4u" resname="We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt&#10;&#9;&#9;&#9;&#9;&#9;   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with&#10;&#9;&#9;&#9;&#9;&#9;   coding!">
@@ -216,6 +231,7 @@
       </trans-unit>
       <trans-unit id="s5EAueb" resname="Website &amp; Docs">
         <source>Website &amp; Docs</source>
+        <target>ウェブサイト &amp; ドキュメント</target>
         
       </trans-unit>
       <trans-unit id="w8z9ITy" resname="You can help us by improving this website or documenting the software. The website sources are in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.">
@@ -241,10 +257,12 @@
       </trans-unit>
       <trans-unit id="eWaNqUZ" resname="Donate via PayPal">
         <source>Donate via PayPal</source>
+        <target>PayPalで寄付をする</target>
         
       </trans-unit>
       <trans-unit id="mBTJrw1" resname="Translations">
         <source>Translations</source>
+        <target>翻訳する</target>
         
       </trans-unit>
       <trans-unit id="M6pv5xx" resname="If your language is missing in LMMS, help the project and other users speaking the same language by&#10;&#9;&#9;&#9;&#9;&#9;   translating the software. You can find instructions on the page&#10;&#9;&#9;&#9;&#9;&#9;   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub Wiki.">
@@ -260,6 +278,7 @@
       </trans-unit>
       <trans-unit id="1RlrT04" resname="Mailing List">
         <source>Mailing List</source>
+        <target>メーリングリスト</target>
         
       </trans-unit>
       <trans-unit id="7Z4qF_z" resname="Posting to the mailing list is the best way to reach out to our developers:">
@@ -291,6 +310,7 @@
       </trans-unit>
       <trans-unit id="VjlY4ZS" resname="Let's make music">
         <source>Let's make music</source>
+        <target>音楽をつくろう</target>
         
       </trans-unit>
       <trans-unit id="dZRnmrq" resname="with a free, cross-platform tool for your computer.">
@@ -299,6 +319,7 @@
       </trans-unit>
       <trans-unit id="EZF7eRF" resname="Download now">
         <source>Download now</source>
+        <target>ダウンロードする</target>
         
       </trans-unit>
       <trans-unit id="ArGBWxo" resname="Get involved">
@@ -339,14 +360,17 @@
       </trans-unit>
       <trans-unit id="srTfzhp" resname="Download for Linux">
         <source>Download for Linux</source>
+        <target>Linux版をダウンロード</target>
         
       </trans-unit>
       <trans-unit id="HRNzywF" resname="Download for Windows">
         <source>Download for Windows</source>
+        <target>Windows版をダウンロード</target>
         
       </trans-unit>
       <trans-unit id="aKnCvOj" resname="Download for macOS">
         <source>Download for macOS</source>
+        <target>macOS版をダウンロード</target>
         
       </trans-unit>
       <trans-unit id="aE6mbky" resname="Pick your flavor.">
@@ -415,10 +439,12 @@
       </trans-unit>
       <trans-unit id="RVx1NT_" resname="Fork us on GitHub">
         <source>Fork us on GitHub</source>
+        <target>GitHubでフォークする</target>
         
       </trans-unit>
       <trans-unit id="RBChPaR" resname="LMMS is a 100% free, open source, community-driven project.">
         <source>LMMS is a 100% free, open source, community-driven project.</source>
+        <target>LMMSは100%フリーでオープンソースなコミュニティ主導のプロジェクトです。</target>
         
       </trans-unit>
       <trans-unit id="9pw3MDf" resname="Proudly hosted on GitHub.">
@@ -1190,6 +1216,10 @@
       </trans-unit>
       <trans-unit id="CsljZ9f" resname="Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.">
         <source>Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.</source>
+        
+      </trans-unit>
+      <trans-unit id="jSq_P3u" resname="Note: 32 bit nightly builds no longer available.">
+        <source>Note: 32 bit nightly builds no longer available.</source>
         
       </trans-unit>
     </body>

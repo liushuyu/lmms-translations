@@ -115,7 +115,7 @@ Copyright (C) 2022 Raw Material Software Limited.</source>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="14"/>
         <source>About Carla</source>
-        <translation>Informazioni su Carla</translation>
+        <translation>Riguardo a Carla</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_about.ui" line="24"/>
@@ -2794,7 +2794,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/C++/carla_widgets.cpp" line="217"/>
         <source>This program uses JUCE version %1.</source>
-        <translation>Questo programma utilizza la versione JUCE % 1.</translation>
+        <translation>Questo programma utilizza la versione di JUCE % 1.</translation>
     </message>
 </context>
 <context>
@@ -2807,7 +2807,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="39"/>
         <source>Time Signature:</source>
-        <translation>Indicazione di tempo:</translation>
+        <translation>Indicazione di Tempo:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="56"/>
@@ -2871,7 +2871,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="139"/>
         <source>5</source>
-        <translation>Quinta</translation>
+        <translation>5</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="144"/>
@@ -2984,7 +2984,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="298"/>
         <source>Quantize:</source>
-        <translation>Quantizzazione:</translation>
+        <translation>Quantizza:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="411"/>
@@ -3009,17 +3009,17 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="440"/>
         <source>&amp;Insert Mode</source>
-        <translation>&amp;Modo Inserimento</translation>
+        <translation>&amp;Modalità di Inserimento</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="443"/>
         <source>F</source>
-        <translation>F</translation>
+        <translation>Fa</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="451"/>
         <source>&amp;Velocity Mode</source>
-        <translation>&amp;Modo Velocity</translation>
+        <translation>&amp;Modalità di Velocità</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="454"/>
@@ -3043,7 +3043,7 @@ Reactvate them to start the process again, with the last saved state applied to 
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="39"/>
         <location filename="../../plugins/Sf2Player/PatchesDialog.ui" line="39"/>
         <source>Qsynth: Channel Preset</source>
-        <translation>Qsynth: Preset Canale</translation>
+        <translation>Qsynth: Canale Preset</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="67"/>
@@ -3061,13 +3061,13 @@ Reactvate them to start the process again, with the last saved state applied to 
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="98"/>
         <location filename="../../plugins/Sf2Player/PatchesDialog.ui" line="98"/>
         <source>Program selector</source>
-        <translation>Selezione programma</translation>
+        <translation>Selezionatore di programma</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="123"/>
         <location filename="../../plugins/Sf2Player/PatchesDialog.ui" line="123"/>
         <source>Patch</source>
-        <translation>Programma</translation>
+        <translation>Patch</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="128"/>
@@ -3085,7 +3085,7 @@ Reactvate them to start the process again, with the last saved state applied to 
         <location filename="../../plugins/GigPlayer/PatchesDialog.ui" line="192"/>
         <location filename="../../plugins/Sf2Player/PatchesDialog.ui" line="192"/>
         <source>Cancel</source>
-        <translation>Annulla</translation>
+        <translation>Cancella</translation>
     </message>
 </context>
 <context>
@@ -3143,12 +3143,12 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/Delay/DelayEffect.cpp" line="44"/>
         <source>A native delay plugin</source>
-        <translation>Un plugin di ritardi eco nativo</translation>
+        <translation>Un plugin nativo di ritardo</translation>
     </message>
     <message>
         <location filename="../../plugins/DualFilter/DualFilter.cpp" line="43"/>
         <source>A Dual filter plugin</source>
-        <translation>Un plugin di duplice filtraggio</translation>
+        <translation>Un plugin di doppio filtro</translation>
     </message>
     <message>
         <location filename="../../plugins/DynamicsProcessor/DynamicsProcessor.cpp" line="46"/>
@@ -3163,12 +3163,12 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/Flanger/FlangerEffect.cpp" line="45"/>
         <source>A native flanger plugin</source>
-        <translation>Un plugin di flager nativo</translation>
+        <translation>Un plugin di flanger nativo</translation>
     </message>
     <message>
         <location filename="../../plugins/FreeBoy/FreeBoy.cpp" line="61"/>
         <source>Emulation of GameBoy (TM) APU</source>
-        <translation>Emulatore di GameBoy™ APU</translation>
+        <translation>Emulazione di GameBoy (TM) APU</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="69"/>
@@ -3248,7 +3248,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/Patman/Patman.cpp" line="60"/>
         <source>GUS-compatible patch instrument</source>
-        <translation>strumento compatibile con GUS</translation>
+        <translation>Strumento di patch compatibile con GUS</translation>
     </message>
     <message>
         <location filename="../../plugins/PeakControllerEffect/PeakControllerEffect.cpp" line="47"/>
@@ -3258,7 +3258,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSC.cpp" line="42"/>
         <source>Reverb algorithm by Sean Costello</source>
-        <translation>Algoritmo di Riverbero di Sean Costello</translation>
+        <translation>Algoritmo di riverbero di Sean Costello</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="64"/>
@@ -3268,7 +3268,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/Sfxr/Sfxr.cpp" line="66"/>
         <source>LMMS port of sfxr</source>
-        <translation>Port di sfxr su LMMS</translation>
+        <translation>Porta di sfxr su LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="80"/>
@@ -3315,7 +3315,7 @@ Questo chip era utilizzato nel Commode 64.</translation>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="55"/>
         <source>Vibrating string modeler</source>
-        <translation>Modulatore di corde vibranti</translation>
+        <translation>Modellatore di corde vibranti</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstEffect.cpp" line="48"/>
@@ -3335,7 +3335,7 @@ Questo chip era utilizzato nel Commode 64.</translation>
     <message>
         <location filename="../../plugins/Xpressive/Xpressive.cpp" line="58"/>
         <source>Mathematical expression parser</source>
-        <translation>Analisi sintattica dell&apos;espressione</translation>
+        <translation>Analizzatore di espressione matematica</translation>
     </message>
     <message>
         <location filename="../../plugins/ZynAddSubFx/ZynAddSubFx.cpp" line="65"/>
@@ -3398,7 +3398,7 @@ Questo chip era utilizzato nel Commode 64.</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="128"/>
         <source>Output dry/wet (100%)</source>
-        <translation>Uscita dry/wet (100%)</translation>
+        <translation>Output dry/wet (100%)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="150"/>
@@ -3408,13 +3408,13 @@ Questo chip era utilizzato nel Commode 64.</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="203"/>
         <source>Balance Left (0%)</source>
-        <translation>Bilanciamento a sinistra (0%)</translation>
+        <translation>Bilancia a Sinistra (0%)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="225"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="266"/>
         <source>Balance Right (0%)</source>
-        <translation>Bilanciamento destro (0%)</translation>
+        <translation>Bilancia a Destra (0%)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="282"/>
@@ -3434,12 +3434,12 @@ Questo chip era utilizzato nel Commode 64.</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="331"/>
         <source>Use Chunks</source>
-        <translation>Usa blocchi</translation>
+        <translation>Usa Chunks</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="357"/>
         <source>    Audio:</source>
-        <translation> Audio:</translation>
+        <translation>    Audio:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="364"/>
@@ -3604,7 +3604,7 @@ Nome Plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="83"/>
         <source>Stereo only</source>
-        <translation>Solo Stereo</translation>
+        <translation>Solo stereo</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="90"/>
@@ -4758,7 +4758,7 @@ Nome Plugin
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="38"/>
         <source>Frequency</source>
-        <translation>Frequency</translation>
+        <translation>Frequenza</translation>
     </message>
     <message>
         <location filename="../../plugins/BassBooster/BassBoosterControls.cpp" line="39"/>
@@ -5874,27 +5874,27 @@ Nome Plugin
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="59"/>
         <source>5 Seconds</source>
-        <translation>5 secondi</translation>
+        <translation>5 Secondi</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="60"/>
         <source>10 Seconds (Size)</source>
-        <translation>10 secondi (Misura)</translation>
+        <translation>10 Secondi (Misura)</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="61"/>
         <source>40 Seconds (Size and Pitch)</source>
-        <translation>40 secondi (Misura e intonazione)</translation>
+        <translation>40 Secondi (Misura e intonazione)</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="62"/>
         <source>40 Seconds (Size and Spray and Jitter)</source>
-        <translation>40 secondi (Misura e Spray e Jitter)</translation>
+        <translation>40 Secondi (Misura e Spray e Jitter)</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="63"/>
         <source>120 Seconds (All of the above)</source>
-        <translation>120 secondi (Tutti i precedenti)</translation>
+        <translation>120 Secondi (Tutti i precedenti)</translation>
     </message>
 </context>
 <context>
@@ -6649,7 +6649,7 @@ Nome Plugin
     <message>
         <location filename="../../src/core/LfoController.cpp" line="48"/>
         <source>Frequency Multiplier</source>
-        <translation>Moltiplicatore di frequenza</translation>
+        <translation>Moltiplicatore di Frequenza</translation>
     </message>
     <message>
         <location filename="../../src/core/LfoController.cpp" line="248"/>
@@ -6924,9 +6924,9 @@ Nome Plugin
     </message>
     <message>
         <location filename="../../src/core/midi/MidiJack.cpp" line="60"/>
-        <source>The JACK server seems to be shuted down.</source>
+        <source>The JACK server seems to be shut down.</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
-        <translation>Il JACK server sembra essere spento.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7850,7 +7850,7 @@ Nome Plugin
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="108"/>
         <source>Op 1 key scaling rate</source>
-        <translation>Op 1 velocità di ridimensionamento chiave</translation>
+        <translation>Op 1 velocità di ridimensionamento tasto</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="109"/>
@@ -7910,7 +7910,7 @@ Nome Plugin
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="126"/>
         <source>Op 2 key scaling rate</source>
-        <translation>Op 2 velocità di ridimensionamento chiave</translation>
+        <translation>Op 2 velocità di ridimensionamento tasto</translation>
     </message>
     <message>
         <location filename="../../plugins/OpulenZ/OpulenZ.cpp" line="127"/>
@@ -9504,7 +9504,7 @@ Assicurati di avere i permessi di lettura per il file e la directory contenente 
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="319"/>
         <source>Sample length</source>
-        <translation>Lunghezza di sample</translation>
+        <translation>Lunghezza del sample</translation>
     </message>
     <message>
         <location filename="../../plugins/BitInvader/BitInvader.cpp" line="326"/>
@@ -10439,7 +10439,7 @@ Assicurati di avere i permessi di lettura per il file e la directory contenente 
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="51"/>
         <source>DELAY</source>
-        <translation>RITARDO</translation>
+        <translation>DELAY</translation>
     </message>
     <message>
         <location filename="../../plugins/Delay/DelayControlsDialog.cpp" line="52"/>
@@ -11302,7 +11302,7 @@ Per favore assicurati di avere i permessi di scrittura sul file e sulla director
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="49"/>
         <source>DELAY</source>
-        <translation>RITARDO</translation>
+        <translation>DELAY</translation>
     </message>
     <message>
         <location filename="../../plugins/Flanger/FlangerControlsDialog.cpp" line="50"/>
@@ -16999,7 +16999,7 @@ Latency: %2 ms</source>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="356"/>
-        <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
+        <source>A bundle folder with that name already exists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -17254,7 +17254,7 @@ Latency: %2 ms</source>
     </message>
     <message>
         <location filename="../../src/gui/editors/StepRecorderWidget.cpp" line="97"/>
-        <source>Move recording curser using &lt;Left/Right&gt; arrows</source>
+        <source>Move recording cursor using &lt;Left/Right&gt; arrows</source>
         <translation type="unfinished"/>
     </message>
 </context>

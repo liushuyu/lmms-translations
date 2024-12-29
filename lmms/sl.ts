@@ -7023,9 +7023,9 @@ Ime vtičnika
     </message>
     <message>
         <location filename="../../src/core/midi/MidiJack.cpp" line="60"/>
-        <source>The JACK server seems to be shuted down.</source>
+        <source>The JACK server seems to be shut down.</source>
         <extracomment>When JACK(JACK Audio Connection Kit) disconnects, it will show the following message (dialog message)</extracomment>
-        <translation>JACK server je izklopljen.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17099,8 +17099,8 @@ Poskrbite, da boste imeli vsaj bralne pravice in poskusite znova.</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="356"/>
-        <source>A bundle folder with that name already eists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
-        <translation>Paketna mapa z imenom, ki že obstaja v izbrani poti. Paktenega projekta ni mogoče prepisati. Izberite drugo ime.</translation>
+        <source>A bundle folder with that name already exists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="366"/>
@@ -17354,8 +17354,8 @@ Poskrbite, da boste imeli vsaj bralne pravice in poskusite znova.</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/StepRecorderWidget.cpp" line="97"/>
-        <source>Move recording curser using &lt;Left/Right&gt; arrows</source>
-        <translation>Premikaj snemalni kurzor s pomočjo smernih tipk &lt;levo/desno&gt;</translation>
+        <source>Move recording cursor using &lt;Left/Right&gt; arrows</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

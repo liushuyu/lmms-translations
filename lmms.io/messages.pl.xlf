@@ -1401,6 +1401,10 @@
         <target>Wersje oznaczone jako Alpha, Beta i Nightly są wersjami testowymi programu. Mogą więc mieć problemy ze stabilnością.</target>
         
       </trans-unit>
+      <trans-unit id="jSq_P3u" resname="Note: 32 bit nightly builds no longer available.">
+        <source>Note: 32 bit nightly builds no longer available.</source>
+        
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -6,6 +6,7 @@
     <body>
       <trans-unit id="iMlLPDz" resname="Download">
         <source>Download</source>
+        <target>下载</target>
         
       </trans-unit>
       <trans-unit id="ZaeZFa6" resname="Get Involved">
@@ -14,38 +15,47 @@
       </trans-unit>
       <trans-unit id="OJyuyp1" resname="Documentation">
         <source>Documentation</source>
+        <target>文档</target>
         
       </trans-unit>
       <trans-unit id="Qk7UVra" resname="Docs">
         <source>Docs</source>
+        <target>文档</target>
         
       </trans-unit>
       <trans-unit id="fpoF0p6" resname="Forum">
         <source>Forum</source>
+        <target>论坛</target>
         
       </trans-unit>
       <trans-unit id="6V59OAe" resname="Sharing Platform">
         <source>Sharing Platform</source>
+        <target>分享平台</target>
         
       </trans-unit>
       <trans-unit id="Coc0Gni" resname="Share">
         <source>Share</source>
+        <target>分享</target>
         
       </trans-unit>
       <trans-unit id="o3vRjwz" resname="More">
         <source>More</source>
+        <target>更多</target>
         
       </trans-unit>
       <trans-unit id="Ht_qF85" resname="Showcase">
         <source>Showcase</source>
+        <target>展示</target>
         
       </trans-unit>
       <trans-unit id="wGF.lTR" resname="Competitions">
         <source>Competitions</source>
+        <target>竞赛</target>
         
       </trans-unit>
       <trans-unit id="H1qhdmo" resname="Branding">
         <source>Branding</source>
+        <target>品牌推广</target>
         
       </trans-unit>
       <trans-unit id="sx6LMMr" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
@@ -63,10 +73,12 @@
       </trans-unit>
       <trans-unit id="HUQRYlK" resname="Install LMMS now">
         <source>Install LMMS now</source>
+        <target>立即安装 LMMS</target>
         
       </trans-unit>
       <trans-unit id="7WRfkFI" resname="From your package manager">
         <source>From your package manager</source>
+        <target>使用你的包管理器</target>
         
       </trans-unit>
       <trans-unit id="HoDeeQg" resname="If this doesn't work for you, run this command in a terminal.">
@@ -91,6 +103,7 @@
       </trans-unit>
       <trans-unit id="yYlHSDn" resname="Run the following command in a terminal:">
         <source>Run the following command in a terminal:</source>
+        <target>在终端中运行以下命令：</target>
         
       </trans-unit>
       <trans-unit id="FHRDQvS" resname="For VST support, please install wine or wine-staging from the repository">
@@ -1185,6 +1198,10 @@
       </trans-unit>
       <trans-unit id="CsljZ9f" resname="Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.">
         <source>Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.</source>
+        
+      </trans-unit>
+      <trans-unit id="jSq_P3u" resname="Note: 32 bit nightly builds no longer available.">
+        <source>Note: 32 bit nightly builds no longer available.</source>
         
       </trans-unit>
     </body>
