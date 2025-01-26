@@ -74,12 +74,12 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/aboutjucedialog.ui" line="14"/>
         <source>About JUCE</source>
-        <translation type="unfinished"/>
+        <translation>À propos de JUCE</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/aboutjucedialog.ui" line="61"/>
         <source>&lt;b&gt;About JUCE&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;À propos de JUCE&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/aboutjucedialog.ui" line="84"/>
@@ -893,7 +893,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="266"/>
         <source> Save</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="305"/>
@@ -903,7 +903,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="318"/>
         <source>Ctrl+L</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="338"/>
@@ -973,7 +973,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="574"/>
         <source>Tool Bar</source>
-        <translation type="unfinished"/>
+        <translation>Barre des tâches</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="670"/>
@@ -1342,7 +1342,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1535"/>
         <source>Ctrl+P</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1547"/>
@@ -1407,22 +1407,22 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1649"/>
         <source>Save Image... (2x zoom)</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer l&apos;image...(2x zoom)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1654"/>
         <source>Save Image... (4x zoom)</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer l&apos;image...(4x zoom)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1659"/>
         <source>Copy as Image to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Copier l&apos;image dans le presse papier</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1662"/>
         <source>Ctrl+Shift+C</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Shift+C</translation>
     </message>
 </context>
 <context>
@@ -1701,7 +1701,7 @@ Voulez-vous le faire maintenant ?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="728"/>
         <source>12400x9600</source>
-        <translation type="unfinished"/>
+        <translation>12400x9600 </translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="752"/>
@@ -2940,92 +2940,92 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="14"/>
         <source>Add JACK Application</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter l&apos;application JACK</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="20"/>
         <source>Note: Features not implemented yet are greyed out</source>
-        <translation type="unfinished"/>
+        <translation>Note :Les fonctionnalités qui ne sont pas encore implémentées sont grisés</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="27"/>
         <source>Application</source>
-        <translation type="unfinished"/>
+        <translation>Application</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="49"/>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Nom:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="85"/>
         <source>Application:</source>
-        <translation type="unfinished"/>
+        <translation>Application :</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="104"/>
         <source>From template</source>
-        <translation type="unfinished"/>
+        <translation>Depuis le modèle</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="117"/>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Personnalisé</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="137"/>
         <source>Template:</source>
-        <translation type="unfinished"/>
+        <translation>Modèle :</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="167"/>
         <source>Command:</source>
-        <translation type="unfinished"/>
+        <translation>Commande</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="187"/>
         <source>Setup</source>
-        <translation type="unfinished"/>
+        <translation>installation</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="224"/>
         <source>Session Manager:</source>
-        <translation type="unfinished"/>
+        <translation>Gestionnaire de session:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="238"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="277"/>
         <source>Audio inputs:</source>
-        <translation type="unfinished"/>
+        <translation>Entées audio:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="339"/>
         <source>MIDI inputs:</source>
-        <translation type="unfinished"/>
+        <translation>Entrées midi:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="391"/>
         <source>Audio outputs:</source>
-        <translation type="unfinished"/>
+        <translation>Sorties audio:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="440"/>
         <source>MIDI outputs:</source>
-        <translation type="unfinished"/>
+        <translation>Sorties MIDI:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="470"/>
         <source>Take control of main application window</source>
-        <translation type="unfinished"/>
+        <translation>Prendre le contrôle de la fenêtre principale de l&apos;application </translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="480"/>
         <source>Workarounds</source>
-        <translation type="unfinished"/>
+        <translation>Contournement</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="486"/>
@@ -3050,7 +3050,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="583"/>
         <source>Error here</source>
-        <translation type="unfinished"/>
+        <translation>erreur ici</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.cpp" line="172"/>
@@ -3293,7 +3293,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="443"/>
         <source>F</source>
-        <translation type="unfinished"/>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="451"/>
@@ -3672,7 +3672,7 @@ Cette puce était utilisée dans l&apos;ordinateur Commodore 64.</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="67"/>
         <source>N</source>
-        <translation type="unfinished"/>
+        <translation>N</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="128"/>
@@ -3728,7 +3728,7 @@ Cette puce était utilisée dans l&apos;ordinateur Commodore 64.</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="371"/>
         <source>Force Stereo (needs reload)</source>
-        <translation type="unfinished"/>
+        <translation>Forcer la stéréo (doit être recharger)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="397"/>
@@ -3743,7 +3743,7 @@ Cette puce était utilisée dans l&apos;ordinateur Commodore 64.</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="411"/>
         <source>Send Notes</source>
-        <translation type="unfinished"/>
+        <translation>Envoyer notes</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="418"/>
@@ -3858,7 +3858,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="14"/>
         <source>Carla - Add New</source>
-        <translation type="unfinished"/>
+        <translation>Carla - ajouter nouveau</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="55"/>
@@ -3883,7 +3883,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="83"/>
         <source>Stereo only</source>
-        <translation type="unfinished"/>
+        <translation>Stéréo seulement</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="90"/>
@@ -3893,7 +3893,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="97"/>
         <source>Favorites only</source>
-        <translation type="unfinished"/>
+        <translation>Uniquement les favoris</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="110"/>
@@ -3903,7 +3903,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="133"/>
         <source>&amp;Add Plugin</source>
-        <translation type="unfinished"/>
+        <translation>&amp; Ajouter Plugin</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="144"/>
@@ -3953,7 +3953,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="247"/>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Type :</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="277"/>
@@ -3973,7 +3973,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="307"/>
         <source>MIDI Outs:</source>
-        <translation type="unfinished"/>
+        <translation>Sorties MIDI:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="317"/>
@@ -4023,12 +4023,12 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="504"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Information</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="608"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="613"/>
@@ -4043,7 +4043,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="623"/>
         <source>Binary/Filename</source>
-        <translation type="unfinished"/>
+        <translation>Binaire/nom du fichier</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="643"/>
@@ -4053,7 +4053,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="649"/>
         <source>Internal</source>
-        <translation type="unfinished"/>
+        <translation>Interne</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="656"/>
@@ -4068,17 +4068,17 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="670"/>
         <source>LV2</source>
-        <translation type="unfinished"/>
+        <translation>LV2</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="677"/>
         <source>VST2</source>
-        <translation type="unfinished"/>
+        <translation>VST2</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="684"/>
         <source>VST3</source>
-        <translation type="unfinished"/>
+        <translation>VST3</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="691"/>
@@ -4103,7 +4103,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="741"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Type</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="747"/>
@@ -4128,12 +4128,12 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="797"/>
         <source>Category</source>
-        <translation type="unfinished"/>
+        <translation>Catégorie</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="803"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tous</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="810"/>
@@ -4158,7 +4158,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="838"/>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtre</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="845"/>
@@ -4173,13 +4173,13 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="859"/>
         <source>Utility</source>
-        <translation type="unfinished"/>
+        <translation>Utilitaires</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="866"/>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.cpp" line="1863"/>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Autre</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="895"/>
@@ -4190,7 +4190,7 @@ Nom du plugin
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="901"/>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.cpp" line="1853"/>
         <source>Native</source>
-        <translation type="unfinished"/>
+        <translation>Natif</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="908"/>
@@ -4210,7 +4210,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="942"/>
         <source>Ctrl+F</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+F</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.cpp" line="880"/>
@@ -4275,7 +4275,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.cpp" line="1865"/>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Inconnu</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.cpp" line="1880"/>
@@ -4283,7 +4283,7 @@ Nom du plugin
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.cpp" line="1882"/>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.cpp" line="1883"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Oui</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.cpp" line="1880"/>
@@ -4291,7 +4291,7 @@ Nom du plugin
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.cpp" line="1882"/>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.cpp" line="1883"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Non</translation>
     </message>
 </context>
 <context>
@@ -4322,7 +4322,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginrefreshdialog.ui" line="14"/>
         <source>Plugin Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Recharger le plugin</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginrefreshdialog.ui" line="38"/>
@@ -4337,7 +4337,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginrefreshdialog.ui" line="56"/>
         <source>Updated plugins only</source>
-        <translation type="unfinished"/>
+        <translation>Plugins a jour seulement</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginrefreshdialog.ui" line="63"/>
@@ -4362,7 +4362,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginrefreshdialog.ui" line="145"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
@@ -4392,7 +4392,7 @@ Nom du plugin
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_plugin_default.ui" line="241"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_plugin_presets.ui" line="229"/>
         <source>PluginName</source>
-        <translation type="unfinished"/>
+        <translation>Nom du plugin</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_plugin_calf.ui" line="171"/>
@@ -4532,7 +4532,7 @@ Nom du plugin
     <message>
         <location filename="../../src/gui/SampleLoader.cpp" line="41"/>
         <source>Open audio file</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir un fichier audio</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleLoader.cpp" line="123"/>
@@ -4658,92 +4658,92 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="308"/>
         <source>(All)</source>
-        <translation type="unfinished"/>
+        <translation>(Tous)</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="316"/>
         <source>1</source>
-        <translation type="unfinished"/>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="324"/>
         <source>2</source>
-        <translation type="unfinished"/>
+        <translation>2</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="332"/>
         <source>3</source>
-        <translation type="unfinished"/>
+        <translation>3</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="340"/>
         <source>4</source>
-        <translation type="unfinished"/>
+        <translation>4</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="348"/>
         <source>5</source>
-        <translation type="unfinished"/>
+        <translation>5</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="356"/>
         <source>6</source>
-        <translation type="unfinished"/>
+        <translation>6</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="364"/>
         <source>7</source>
-        <translation type="unfinished"/>
+        <translation>7</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="372"/>
         <source>8</source>
-        <translation type="unfinished"/>
+        <translation>8</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="380"/>
         <source>9</source>
-        <translation type="unfinished"/>
+        <translation>9</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="388"/>
         <source>10</source>
-        <translation type="unfinished"/>
+        <translation>10</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="396"/>
         <source>11</source>
-        <translation type="unfinished"/>
+        <translation>11</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="404"/>
         <source>12</source>
-        <translation type="unfinished"/>
+        <translation>12</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="412"/>
         <source>13</source>
-        <translation type="unfinished"/>
+        <translation>13</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="420"/>
         <source>14</source>
-        <translation type="unfinished"/>
+        <translation>14</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="428"/>
         <source>15</source>
-        <translation type="unfinished"/>
+        <translation>15</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="436"/>
         <source>16</source>
-        <translation type="unfinished"/>
+        <translation>16</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="445"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Quitter</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="448"/>
@@ -4753,7 +4753,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="453"/>
         <source>(None)</source>
-        <translation type="unfinished"/>
+        <translation>(Non)</translation>
     </message>
 </context>
 <context>
@@ -6153,12 +6153,12 @@ Nom du plugin
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="59"/>
         <source>5 Seconds</source>
-        <translation type="unfinished"/>
+        <translation>5 Secondes</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="60"/>
         <source>10 Seconds (Size)</source>
-        <translation type="unfinished"/>
+        <translation>10 Secondes ( taille)</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="61"/>
@@ -6500,7 +6500,7 @@ Nom du plugin
     <message>
         <location filename="../../src/core/Keymap.cpp" line="37"/>
         <source>empty</source>
-        <translation type="unfinished"/>
+        <translation>vide</translation>
     </message>
 </context>
 <context>
@@ -6576,17 +6576,17 @@ Nom du plugin
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="39"/>
         <source>Time</source>
-        <translation type="unfinished"/>
+        <translation>Temps</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="40"/>
         <source>Input Volume</source>
-        <translation type="unfinished"/>
+        <translation>Volume d&apos;entré</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="41"/>
         <source>Output Volume</source>
-        <translation type="unfinished"/>
+        <translation>Volume de sortie</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="42"/>
@@ -8384,7 +8384,7 @@ Nom du plugin
     <message>
         <location filename="../../src/core/Plugin.cpp" line="220"/>
         <source>Plugin not found</source>
-        <translation type="unfinished"/>
+        <translation>Plugin non trouver</translation>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="221"/>
@@ -8395,7 +8395,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="242"/>
         <source>Error while loading plugin</source>
-        <translation type="unfinished"/>
+        <translation>Erreur pendant le chargement du plugin</translation>
     </message>
     <message>
         <location filename="../../src/core/Plugin.cpp" line="243"/>
@@ -8408,22 +8408,22 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="39"/>
         <source>Input gain</source>
-        <translation type="unfinished"/>
+        <translation>Volume d&apos;entrée</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="40"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Taille</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="41"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Couleur</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControls.cpp" line="42"/>
         <source>Output gain</source>
-        <translation type="unfinished"/>
+        <translation>Volume de sortie</translation>
     </message>
 </context>
 <context>
@@ -8451,7 +8451,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="46"/>
         <source>Stereo</source>
-        <translation type="unfinished"/>
+        <translation>Stéréo</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="47"/>
@@ -8608,7 +8608,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/SampleClip.cpp" line="304"/>
         <source>Sample not found</source>
-        <translation type="unfinished"/>
+        <translation>Échantillon non trouvé </translation>
     </message>
 </context>
 <context>
@@ -8640,7 +8640,7 @@ Reason: &quot;%2&quot;</source>
     <message>
         <location filename="../../src/core/Scale.cpp" line="76"/>
         <source>empty</source>
-        <translation type="unfinished"/>
+        <translation>vide</translation>
     </message>
 </context>
 <context>
@@ -8962,17 +8962,12 @@ Please make sure you have read-permission to the file and the directory containi
     <name>lmms::VecControls</name>
     <message>
         <location filename="../../plugins/Vectorscope/VecControls.cpp" line="41"/>
-        <source>Display persistence amount</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/Vectorscope/VecControls.cpp" line="42"/>
         <source>Logarithmic scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Vectorscope/VecControls.cpp" line="43"/>
-        <source>High quality</source>
+        <location filename="../../plugins/Vectorscope/VecControls.cpp" line="42"/>
+        <source>Lines rendering</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -11423,7 +11418,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="262"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="263"/>
@@ -11464,7 +11459,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="105"/>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Chercher</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="112"/>
@@ -11492,7 +11487,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="637"/>
         <source>Send to active instrument-track</source>
-        <translation type="unfinished"/>
+        <translation>Envoyer vers la piste d&apos;instrument actif</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="645"/>
@@ -11532,17 +11527,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="741"/>
         <source>Loading sample</source>
-        <translation type="unfinished"/>
+        <translation>Chargement de l&apos;échantillon</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="742"/>
         <source>Please wait, loading sample for preview...</source>
-        <translation type="unfinished"/>
+        <translation>Veuillez patienter, chargement de l&apos;échantillon pour un aperçu...</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="772"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="773"/>
@@ -11560,17 +11555,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/SampleLoader.cpp" line="59"/>
         <source>%1 files</source>
-        <translation type="unfinished"/>
+        <translation>%1 Fichiers</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleLoader.cpp" line="63"/>
         <source>All audio files</source>
-        <translation type="unfinished"/>
+        <translation>Tous les fichiers audio</translation>
     </message>
     <message>
         <location filename="../../src/gui/SampleLoader.cpp" line="65"/>
         <source>Other files</source>
-        <translation type="unfinished"/>
+        <translation>Autres fichiers</translation>
     </message>
 </context>
 <context>
@@ -11874,7 +11869,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="945"/>
         <source>Choose patch</source>
-        <translation type="unfinished"/>
+        <translation>Choisir le patch</translation>
     </message>
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="962"/>
@@ -11937,7 +11932,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="64"/>
         <source>Density:</source>
-        <translation type="unfinished"/>
+        <translation>Densité</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControlDialog.cpp" line="65"/>
@@ -12061,7 +12056,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="126"/>
         <source>time(s)</source>
-        <translation type="unfinished"/>
+        <translation>Temps</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="129"/>
@@ -12108,7 +12103,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="141"/>
         <source>TIME</source>
-        <translation type="unfinished"/>
+        <translation>TEMPS</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="142"/>
@@ -12118,7 +12113,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="142"/>
         <source>ms</source>
-        <translation type="unfinished"/>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="145"/>
@@ -12138,7 +12133,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="151"/>
         <source>Direction:</source>
-        <translation type="unfinished"/>
+        <translation>Direction :</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentFunctionViews.cpp" line="154"/>
@@ -12263,7 +12258,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="72"/>
         <source>Hz</source>
-        <translation type="unfinished"/>
+        <translation>Hz</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="76"/>
@@ -12291,47 +12286,47 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="81"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Volume</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="84"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Volume :</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="85"/>
         <source>VOL</source>
-        <translation type="unfinished"/>
+        <translation>VOL</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="89"/>
         <source>Panning</source>
-        <translation type="unfinished"/>
+        <translation>Panoramisation</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="91"/>
         <source>Panning:</source>
-        <translation type="unfinished"/>
+        <translation>Panoramisation :</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="92"/>
         <source>PAN</source>
-        <translation type="unfinished"/>
+        <translation>PAN</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="95"/>
         <source>MIDI</source>
-        <translation type="unfinished"/>
+        <translation>MIDI</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="127"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Entrée</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="128"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Sortie</translation>
     </message>
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="130"/>
@@ -12341,7 +12336,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/tracks/InstrumentTrackView.cpp" line="389"/>
         <source>%1: %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 : %2</translation>
     </message>
 </context>
 <context>
@@ -13596,7 +13591,7 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="512"/>
         <source>Configuration file</source>
-        <translation type="unfinished"/>
+        <translation>Fichier de configuration</translation>
     </message>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="513"/>
@@ -13606,7 +13601,7 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="630"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Impossible d&apos;ouvrir le fichier</translation>
     </message>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="631"/>
@@ -13649,7 +13644,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/GuiApplication.cpp" line="120"/>
         <source>Version %1</source>
-        <translation type="unfinished"/>
+        <translation>Version %1</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="111"/>
@@ -13664,17 +13659,17 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="118"/>
         <source>My Projects</source>
-        <translation type="unfinished"/>
+        <translation>Mes projets</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="125"/>
         <source>My Samples</source>
-        <translation type="unfinished"/>
+        <translation>Mes échantillons</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="131"/>
         <source>My Presets</source>
-        <translation type="unfinished"/>
+        <translation>Mes pré-réglages</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="136"/>
@@ -13689,57 +13684,57 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="144"/>
         <source>Volumes</source>
-        <translation type="unfinished"/>
+        <translation>Volumes</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="147"/>
         <source>My Computer</source>
-        <translation type="unfinished"/>
+        <translation>Mon ordinateur</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="165"/>
         <source>Loading background picture</source>
-        <translation type="unfinished"/>
+        <translation>Chargement de l&apos;image de fond</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="274"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Fichier</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="276"/>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nouveau</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="284"/>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ouvrir...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="291"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Enregistrer</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="295"/>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer &amp;sous...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="299"/>
         <source>Save as New &amp;Version</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer en tant que nouvelle &amp;version</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="304"/>
         <source>Save as default template</source>
-        <translation type="unfinished"/>
+        <translation>Sauvegarder en tant que modèle par défaut</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="309"/>
         <source>Import...</source>
-        <translation type="unfinished"/>
+        <translation>Importer...</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="313"/>
@@ -13759,22 +13754,22 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="330"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Quitter</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="335"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Éditer</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="337"/>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Défaire</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="341"/>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Refaire</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="355"/>
@@ -13784,72 +13779,74 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="357"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Configuration</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="363"/>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Afficher</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="379"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Outils</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="387"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aide</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="392"/>
         <source>Online Help</source>
-        <translation type="unfinished"/>
+        <translation>Aide en ligne</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="398"/>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Aide</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="403"/>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>A propos</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="408"/>
         <source>Create new project</source>
-        <translation type="unfinished"/>
+        <translation>Créer un nouveau projet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="411"/>
         <source>Create new project from template</source>
-        <translation type="unfinished"/>
+        <translation>Créer un nouveau projet à partir d&apos;un modèle</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="416"/>
         <source>Open existing project</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir un projet existant</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="419"/>
         <source>Recently opened projects</source>
-        <translation type="unfinished"/>
+        <translation>Projets récemment ouvert
+ 
+ </translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="424"/>
         <source>Save current project</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer le projet courant</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="427"/>
         <source>Export current project</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer le projet courant</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="431"/>
         <source>Metronome</source>
-        <translation type="unfinished"/>
+        <translation>Métronome</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="448"/>
@@ -13919,7 +13916,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="624"/>
         <source>Project not saved</source>
-        <translation type="unfinished"/>
+        <translation>Projet non sauvegardé</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="625"/>
@@ -13934,42 +13931,42 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="761"/>
         <source>LMMS (*.mmp *.mmpz)</source>
-        <translation type="unfinished"/>
+        <translation>LMMS (*.mmp *.mmpz)</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="804"/>
         <source>Save Project</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer le projet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="805"/>
         <source>LMMS Project</source>
-        <translation type="unfinished"/>
+        <translation>Projet LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="806"/>
         <source>LMMS Project Template</source>
-        <translation type="unfinished"/>
+        <translation>Modèle de projet LMMS</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="836"/>
         <source>Save project template</source>
-        <translation type="unfinished"/>
+        <translation>Sauvegarder le modèle de projet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="884"/>
         <source>Overwrite default template?</source>
-        <translation type="unfinished"/>
+        <translation>Écrire par dessus le modèle par défaut ?</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="885"/>
         <source>This will overwrite your current default template.</source>
-        <translation type="unfinished"/>
+        <translation>Ceci ré-écrira votre modèle par défaut actuel.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="918"/>
         <source>Help not available</source>
-        <translation type="unfinished"/>
+        <translation>L&apos;aide n&apos;est pas disponible</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="919"/>
@@ -13990,7 +13987,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1093"/>
         <source>Fullscreen</source>
-        <translation type="unfinished"/>
+        <translation>Plein écran</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1102"/>
@@ -14010,7 +14007,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1412"/>
         <source>MIDI File (*.mid)</source>
-        <translation type="unfinished"/>
+        <translation>Fichier MIDI (*.mid)</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1424"/>
@@ -14032,17 +14029,17 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1515"/>
         <source>Save project</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer le projet</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1532"/>
         <source>Project saved</source>
-        <translation type="unfinished"/>
+        <translation>Projet enregistrer</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1532"/>
         <source>The project %1 is now saved.</source>
-        <translation type="unfinished"/>
+        <translation>Le projet %1 est maintenant enregistrer</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1539"/>
@@ -14374,13 +14371,13 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="103"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="141"/>
         <source>Load</source>
-        <translation type="unfinished"/>
+        <translation>Charger</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="104"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="142"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="105"/>
@@ -14797,7 +14794,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MixerChannelView.cpp" line="178"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Couleur</translation>
     </message>
     <message>
         <location filename="../../src/gui/MixerChannelView.cpp" line="180"/>
@@ -16159,7 +16156,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/RenameDialog.cpp" line="40"/>
         <source>Rename...</source>
-        <translation type="unfinished"/>
+        <translation>Renommer</translation>
     </message>
 </context>
 <context>
@@ -16177,27 +16174,27 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="54"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Taille</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="55"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Taille:</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="60"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Couleur</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="61"/>
         <source>Color:</source>
-        <translation type="unfinished"/>
+        <translation>Couleur:</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="66"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Sortie</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="67"/>
@@ -16210,7 +16207,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="90"/>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Pause</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="91"/>
@@ -17564,7 +17561,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/SubWindow.cpp" line="61"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="../../src/gui/SubWindow.cpp" line="64"/>
@@ -17582,7 +17579,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="55"/>
         <source>0</source>
-        <translation type="unfinished"/>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="57"/>
@@ -17598,7 +17595,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="62"/>
         <source>0.0 ms</source>
-        <translation type="unfinished"/>
+        <translation>0.0 ms</translation>
     </message>
     <message>
         <location filename="../../plugins/TapTempo/TapTempoView.cpp" line="64"/>
@@ -18237,38 +18234,36 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::VecControlsDialog</name>
     <message>
-        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="64"/>
-        <source>HQ</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="65"/>
-        <source>Double the resolution and simulate continuous analog-like trace.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="71"/>
+        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="58"/>
         <source>Log. scale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="72"/>
+        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="59"/>
         <source>Display amplitude on logarithmic scale to better see small values.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="82"/>
-        <source>Persist.</source>
+        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="67"/>
+        <source>Lines</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="83"/>
-        <source>Trace persistence: higher amount means the trace will stay bright for longer time.</source>
+        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="68"/>
+        <source>Render with lines.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>lmms::gui::VectorView</name>
+    <message>
+        <location filename="../../plugins/Vectorscope/VectorView.cpp" line="212"/>
+        <source>Exec avg.: %1 ms</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="84"/>
-        <source>Trace persistence</source>
+        <location filename="../../plugins/Vectorscope/VectorView.cpp" line="269"/>
+        <source>Zoom: %1 %</source>
         <translation type="unfinished"/>
     </message>
 </context>

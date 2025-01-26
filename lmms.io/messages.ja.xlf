@@ -33,6 +33,7 @@
       </trans-unit>
       <trans-unit id="Coc0Gni" resname="Share">
         <source>Share</source>
+        <target>共有</target>
         
       </trans-unit>
       <trans-unit id="o3vRjwz" resname="More">
@@ -55,15 +56,19 @@
       </trans-unit>
       <trans-unit id="sx6LMMr" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
         <source>We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</source>
+        <target> 申し訳ありません、最新のリリース情報の取得に失敗しました。 &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;でリリースをダウンロードできます。</target>
         
       </trans-unit>
       <trans-unit id="9J4GlgV" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
         <source>LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;
 	Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.</source>
+        <target>LMMSは、ほとんどの主要なLinuxディストリビューションのパッケージリポジトリに含まれています。&lt;br&gt;
+	あなたの配布がここにリストされていない場合は、&lt;a href=&quot;/get-involved/#contact&quot;&gt;お問い合わせください。&lt;/a&gt;</target>
         
       </trans-unit>
       <trans-unit id="5vVNzXU" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
         <source>For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.</source>
+        <target>LMMSをDebianやUbutu,Linux MintなどのDebianベースのディストリビューションにインストールする場合は、以下のボタンをクリックしてください。</target>
         
       </trans-unit>
       <trans-unit id="HUQRYlK" resname="Install LMMS now">
@@ -73,6 +78,7 @@
       </trans-unit>
       <trans-unit id="7WRfkFI" resname="From your package manager">
         <source>From your package manager</source>
+        <target>パッケージマネージャからインストール</target>
         
       </trans-unit>
       <trans-unit id="HoDeeQg" resname="If this doesn't work for you, run this command in a terminal.">
@@ -114,10 +120,12 @@
       </trans-unit>
       <trans-unit id="MgLmIXj" resname="To install LMMS on AOSC OS with PackageKit (recommended):">
         <source>To install LMMS on AOSC OS with PackageKit (recommended):</source>
+        <target>AOSC OS に LMMS を PackageKit でインストールする (推奨)：</target>
         
       </trans-unit>
       <trans-unit id="ocLqJck" resname="To install LMMS on AOSC OS with DPKG:">
         <source>To install LMMS on AOSC OS with DPKG:</source>
+        <target>To install LMMS on AOSC OS with DPKG:</target>
         
       </trans-unit>
       <trans-unit id="3E_Z6Ww" resname="Build LMMS from source">
@@ -136,10 +144,12 @@
       </trans-unit>
       <trans-unit id="3KQyvmZ" resname="Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:">
         <source>Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:</source>
+        <target>LMMS のダウンロードと使用は無料で、 LMMS を実行したいオペレーティングシステムを選択するだけです！：</target>
         
       </trans-unit>
       <trans-unit id="il5xUz7" resname="Install LMMS on Linux">
         <source>Install LMMS on Linux</source>
+        <target>LinuxにLMMSをインストールする</target>
         
       </trans-unit>
       <trans-unit id="MaMF3_X" resname="Click one of the buttons below to download LMMS for Linux.">
@@ -163,6 +173,7 @@
       </trans-unit>
       <trans-unit id="g3QeHa0" resname="Other options">
         <source>Other options</source>
+        <target>他のオプション</target>
         
       </trans-unit>
       <trans-unit id="qvfBNXu" resname="Install LMMS on Windows">
@@ -172,6 +183,7 @@
       </trans-unit>
       <trans-unit id="L4N.x7z" resname="Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows">
         <source>Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows</source>
+        <target>以下のボタン（32 ビット版または 64 ビット版）のいずれかをクリックし、Windows 版のLMMS をダウンロードしてください。</target>
         
       </trans-unit>
       <trans-unit id="D47H5zq" resname="Install LMMS on macOS">
@@ -181,6 +193,7 @@
       </trans-unit>
       <trans-unit id="q_jbBQk" resname="Click one of the buttons below to download LMMS for macOS">
         <source>Click one of the buttons below to download LMMS for macOS</source>
+        <target>以下のボタンをクリックして、macOS 版のLMMS をダウンロードしてください。</target>
         
       </trans-unit>
       <trans-unit id="i4b9jxT" resname="Downloads labeled Beta are pre-release software, stability may suffer.">
@@ -189,10 +202,12 @@
       </trans-unit>
       <trans-unit id="u9r1mHX" resname="Previous releases">
         <source>Previous releases</source>
+        <target>以前のリリース</target>
         
       </trans-unit>
       <trans-unit id="p2JwKTn" resname="Show release notes">
         <source>Show release notes</source>
+        <target>リリースノート</target>
         
       </trans-unit>
       <trans-unit id="JeB7PmY" resname="LMMS is a free, open-source software built entirely by a small number of&#10;&#9;volunteers in their free time. But to keep the project going, we need this&#10;&#9;number to grow. So if you feel like giving something back to the community,&#10;&#9;join us in making LMMS better!">
@@ -209,6 +224,7 @@
       </trans-unit>
       <trans-unit id="zaIp1qn" resname="There are multiple ways of contributing:">
         <source>There are multiple ways of contributing:</source>
+        <target>ソフトウェアへの貢献には、さまざまな方法があります:</target>
         
       </trans-unit>
       <trans-unit id="tOhjAdN" resname="Join Development">
@@ -248,6 +264,7 @@
       </trans-unit>
       <trans-unit id="SP5.ra2" resname="Donate">
         <source>Donate</source>
+        <target>寄付する</target>
         
       </trans-unit>
       <trans-unit id="B4BWBCj" resname="Even though donations are not the thing we need the most (that'd be developers), they help us pay&#10;&#9;&#9;&#9;&#9;&#9;   our bills, for our domain lmms.io for instance.">
@@ -274,6 +291,7 @@
       </trans-unit>
       <trans-unit id="zFcpmbO" resname="How to get in touch">
         <source>How to get in touch</source>
+        <target>連絡方法</target>
         
       </trans-unit>
       <trans-unit id="1RlrT04" resname="Mailing List">
@@ -283,10 +301,12 @@
       </trans-unit>
       <trans-unit id="7Z4qF_z" resname="Posting to the mailing list is the best way to reach out to our developers:">
         <source>Posting to the mailing list is the best way to reach out to our developers:</source>
+        <target>メーリングリストへの投稿は、開発者に連絡を取るための最良の方法です：</target>
         
       </trans-unit>
       <trans-unit id="atpN9gp" resname="Subscribe to LMMS-Devel mailing list">
         <source>Subscribe to LMMS-Devel mailing list</source>
+        <target>LMMS-Devel メーリングリストに登録する</target>
         
       </trans-unit>
       <trans-unit id="XggihdT" resname="Our IRC channel is &lt;a href=&quot;http://webchat.freenode.net/?channels=%23lmms&quot;&gt;#lmms&lt;/a&gt; on&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;https://freenode.net&quot;&gt;Freenode&lt;/a&gt;.">
@@ -302,10 +322,12 @@
       </trans-unit>
       <trans-unit id="xY3keOp" resname="We host a forum for our users here on this website:">
         <source>We host a forum for our users here on this website:</source>
+        <target>このウェブサイトでは、ユーザーのためのフォーラムを設置しています：</target>
         
       </trans-unit>
       <trans-unit id="WCsBNji" resname="For reporting a bug or suggesting a new feature, please use the GitHub issue tracker:">
         <source>For reporting a bug or suggesting a new feature, please use the GitHub issue tracker:</source>
+        <target>バグの報告や新機能の提案については、GitHub issue trackerをご利用ください：</target>
         
       </trans-unit>
       <trans-unit id="VjlY4ZS" resname="Let's make music">
@@ -315,6 +337,7 @@
       </trans-unit>
       <trans-unit id="dZRnmrq" resname="with a free, cross-platform tool for your computer.">
         <source>with a free, cross-platform tool for your computer.</source>
+        <target>LMMSデベロッパのメーリングリストに登録する</target>
         
       </trans-unit>
       <trans-unit id="EZF7eRF" resname="Download now">
@@ -324,10 +347,12 @@
       </trans-unit>
       <trans-unit id="ArGBWxo" resname="Get involved">
         <source>Get involved</source>
+        <target>参加する</target>
         
       </trans-unit>
       <trans-unit id="UpbkC0B" resname="Making beats has never been easier.">
         <source>Making beats has never been easier.</source>
+        <target>ビート作りはかつてないほど簡単になりました。</target>
         
       </trans-unit>
       <trans-unit id="vjIfigK" resname="Produce music with your computer">
@@ -379,6 +404,7 @@
       </trans-unit>
       <trans-unit id="G6ICHUf" resname="Linux, Windows or macOS.">
         <source>Linux, Windows or macOS.</source>
+        <target>Linux、WindowsまたはmacOS。</target>
         
       </trans-unit>
       <trans-unit id="EVSIl0P" resname="Houston, we have a problem.">
@@ -391,6 +417,7 @@
       </trans-unit>
       <trans-unit id="fyjeU2U" resname="Visit our forum">
         <source>Visit our forum</source>
+        <target>フォーラムを見る</target>
         
       </trans-unit>
       <trans-unit id="4IYBsTg" resname="Visit our Facebook page">
@@ -423,6 +450,7 @@
       </trans-unit>
       <trans-unit id="Hb7e4zL" resname="Visit the LMMS Sharing Platform (LSP)">
         <source>Visit the LMMS Sharing Platform (LSP)</source>
+        <target>LMMS共有プラットフォーム（LSP）を見る</target>
         
       </trans-unit>
       <trans-unit id="6257bfM" resname="Don't be modest.">
@@ -431,6 +459,7 @@
       </trans-unit>
       <trans-unit id="DAVa1iw" resname="Show us your creations.">
         <source>Show us your creations.</source>
+        <target>あなたの作品を見せてください。</target>
         
       </trans-unit>
       <trans-unit id="VyUc58p" resname="We &lt;3 open source.">
@@ -485,6 +514,7 @@
       </trans-unit>
       <trans-unit id="tZFbdRk" resname="Consolidate instrument tracks using Beat+Bassline Editor">
         <source>Consolidate instrument tracks using Beat+Bassline Editor</source>
+        <target>Beat+Basslineエディターでインストゥルメントトラックを統合</target>
         
       </trans-unit>
       <trans-unit id="fwnUI9h" resname="Fine tune patterns, notes, chords and melodies using Piano Roll Editor">
@@ -549,14 +579,17 @@
       </trans-unit>
       <trans-unit id="LIt3K0." resname="LMMS Logo">
         <source>LMMS Logo</source>
+        <target>LMMSロゴ</target>
         
       </trans-unit>
       <trans-unit id="yAHu8Cu" resname="LMMS Development Team">
         <source>LMMS Development Team</source>
+        <target>LMMS開発チーム</target>
         
       </trans-unit>
       <trans-unit id="CihD2JO" resname="LMMS Project Icon">
         <source>LMMS Project Icon</source>
+        <target>LMMSプロジェクトアイコン</target>
         
       </trans-unit>
       <trans-unit id="JUgrr05" resname="Official competitions organised by LMMS and its community members">
@@ -1212,14 +1245,17 @@
       </trans-unit>
       <trans-unit id="FcQqkED" resname="Alpha Versions">
         <source>Alpha Versions</source>
+        <target>Alpha 版</target>
         
       </trans-unit>
       <trans-unit id="CsljZ9f" resname="Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.">
         <source>Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.</source>
+        <target>Alpha、Beta、Nightlyと表示されたダウンロードはプレリリースソフトウェアであり、安定性が損なわれる可能性があります。</target>
         
       </trans-unit>
       <trans-unit id="jSq_P3u" resname="Note: 32 bit nightly builds no longer available.">
         <source>Note: 32 bit nightly builds no longer available.</source>
+        <target>注：32bitの nightly ビルドはもう入手できません。</target>
         
       </trans-unit>
     </body>

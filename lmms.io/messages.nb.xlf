@@ -6,14 +6,17 @@
     <body>
       <trans-unit id="iMlLPDz" resname="Download">
         <source>Download</source>
+        <target>Last ned</target>
         
       </trans-unit>
       <trans-unit id="ZaeZFa6" resname="Get Involved">
         <source>Get Involved</source>
+        <target>Bidra</target>
         
       </trans-unit>
       <trans-unit id="OJyuyp1" resname="Documentation">
         <source>Documentation</source>
+        <target>Dokumentasjon</target>
         
       </trans-unit>
       <trans-unit id="Qk7UVra" resname="Docs">
@@ -22,18 +25,22 @@
       </trans-unit>
       <trans-unit id="fpoF0p6" resname="Forum">
         <source>Forum</source>
+        <target>Forum</target>
         
       </trans-unit>
       <trans-unit id="6V59OAe" resname="Sharing Platform">
         <source>Sharing Platform</source>
+        <target>Delingsplattform</target>
         
       </trans-unit>
       <trans-unit id="Coc0Gni" resname="Share">
         <source>Share</source>
+        <target>Del</target>
         
       </trans-unit>
       <trans-unit id="o3vRjwz" resname="More">
         <source>More</source>
+        <target>Mer</target>
         
       </trans-unit>
       <trans-unit id="Ht_qF85" resname="Showcase">
@@ -42,6 +49,7 @@
       </trans-unit>
       <trans-unit id="wGF.lTR" resname="Competitions">
         <source>Competitions</source>
+        <target>Konkurranser</target>
         
       </trans-unit>
       <trans-unit id="H1qhdmo" resname="Branding">
@@ -50,6 +58,7 @@
       </trans-unit>
       <trans-unit id="sx6LMMr" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
         <source>We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</source>
+        <target>Beklager, men noe gikk galt under henting av informasjon om den seneste utgivelsen. Du kan fortsatt laste ned utgivelser på &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="9J4GlgV" resname="LMMS is included in most major Linux distribution's package repositories.&lt;br&gt;&#10;&#9;Please &lt;a href=&quot;/get-involved/#contact&quot;&gt;contact us&lt;/a&gt; if your distribution is not listed here.">
@@ -59,10 +68,12 @@
       </trans-unit>
       <trans-unit id="5vVNzXU" resname="For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.">
         <source>For installing LMMS on Debian based distributions such as Debian itself, Ubuntu or Linux Mint, just click the button below.</source>
+        <target>For å installere LMMS på Debian-baserte distribusjoner som Debian selv, Ubuntu eller Linux Mint, bare klikk på knappen under.</target>
         
       </trans-unit>
       <trans-unit id="HUQRYlK" resname="Install LMMS now">
         <source>Install LMMS now</source>
+        <target>Installer LMMS nå</target>
         
       </trans-unit>
       <trans-unit id="7WRfkFI" resname="From your package manager">
@@ -71,6 +82,7 @@
       </trans-unit>
       <trans-unit id="HoDeeQg" resname="If this doesn't work for you, run this command in a terminal.">
         <source>If this doesn't work for you, run this command in a terminal.</source>
+        <target>Om dette ikke virker for deg, bruk denne kommandoen i en terminal.</target>
         
       </trans-unit>
       <trans-unit id="EOfny91" resname="If the traditional repositories lag behind on versions, try the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;.">
@@ -79,6 +91,7 @@
       </trans-unit>
       <trans-unit id="G87JnBY" resname="VST Support">
         <source>VST Support</source>
+        <target>Støtte for VST</target>
         
       </trans-unit>
       <trans-unit id="Dm1Wbjx" resname="If your distribution offers VST support (requires the installation of Wine) it is generally offered in a separate package.  For example, using the &lt;a href=&quot;https://kx.studio/Repositories#Ubuntu&quot;&gt;KXStudio repository&lt;/a&gt;, run this command in a terminal.">
