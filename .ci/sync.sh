@@ -6,7 +6,7 @@ abinfo(){ printf "[\e[96mINFO\e[0m]: \e[1m%s\e[0m\n" "$*" >&2; }
 function push_repo_translation() {
     set +e
     if ! git log -1 | grep '\[skip ci\]'; then
-        CHANGED="$(git diff --name-only HEAD^ | grep -E 'lmms(.io)?/.*\.(xlf|ts)')"
+        CHANGED="$(git diff --name-only HEAD^ -- | grep -E 'lmms(.io)?/.*\.(xlf|ts)')"
         abinfo "Detected changes: $CHANGED"
         for i in $CHANGED; do
             FILE_RES="${i%/*}" # strip content after /
