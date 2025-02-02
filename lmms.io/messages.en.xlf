@@ -1583,6 +1583,18 @@
         <source>Note: 32 bit nightly builds no longer available.</source>
         <target>Note: 32 bit nightly builds no longer available.</target>
       </trans-unit>
+      <trans-unit id="pliNGgu" resname="Run the following command to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running:">
+        <source>Run the following command to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running:</source>
+        <target><![CDATA[Run the following command to set the <code>.AppImage</code> executable before running:]]></target>
+      </trans-unit>
+      <trans-unit id="Wv2POvn" resname="Click one of the buttons below to download LMMS for Windows">
+        <source>Click one of the buttons below to download LMMS for Windows</source>
+        <target>Click one of the buttons below to download LMMS for Windows</target>
+      </trans-unit>
+      <trans-unit id="Eo65RyS" resname="Run the following command to mark the application as safe before running:">
+        <source>Run the following command to mark the application as safe before running:</source>
+        <target>Run the following command to mark the application as safe before running:</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
