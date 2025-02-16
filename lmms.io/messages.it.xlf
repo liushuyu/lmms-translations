@@ -1779,6 +1779,10 @@
         <source>Run the following command to mark the application as safe before running:</source>
         
       </trans-unit>
+      <trans-unit id="TL7Dj39" resname="Pull Request">
+        <source>Pull Request</source>
+        
+      </trans-unit>
     </body>
   </file>
 </xliff>
