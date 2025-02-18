@@ -898,7 +898,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="266"/>
         <source> Save</source>
-        <translation>Salvar</translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="305"/>
@@ -938,7 +938,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="471"/>
         <source>&amp;File</source>
-        <translation>&amp;Arquivo</translation>
+        <translation>&amp;Ficheiro</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="484"/>
@@ -1085,7 +1085,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1121"/>
         <source>&amp;Save</source>
-        <translation>&amp;Salvar</translation>
+        <translation>&amp;Guardar</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1124"/>
@@ -1095,7 +1095,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1136"/>
         <source>Save &amp;As...</source>
-        <translation>Salvar &amp;como...</translation>
+        <translation>Guardar &amp;como...</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1139"/>
@@ -2023,7 +2023,7 @@ Você quer fazer isso agora?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2581"/>
         <source>Auto-detect Wine prefix based on plugin filename</source>
-        <translation>Detectar automaticamente o prefixo Wine baseado no nome de arquivo do plugin</translation>
+        <translation>Detectar automaticamente o prefixo Wine baseado no nome de ficheiro do plugin</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2588"/>
@@ -2268,12 +2268,12 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="89"/>
         <source>File format settings</source>
-        <translation>Ajuste no formato do arquivo</translation>
+        <translation>Ajuste no formato do ficheiro</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="95"/>
         <source>File format:</source>
-        <translation>Formato do arquivo:</translation>
+        <translation>Formato do ficheiro:</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="120"/>
@@ -3271,7 +3271,7 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="411"/>
         <source>&amp;File</source>
-        <translation>&amp;Arquivo</translation>
+        <translation>&amp;Ficheiro</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/midipattern.ui" line="417"/>
@@ -3455,12 +3455,12 @@ Reactvate them to start the process again, with the last saved state applied to 
     <message>
         <location filename="../../plugins/GigPlayer/GigPlayer.cpp" line="69"/>
         <source>Player for GIG files</source>
-        <translation>Tocador para arquivos GIG</translation>
+        <translation>Leitor para ficheiros GIG</translation>
     </message>
     <message>
         <location filename="../../plugins/HydrogenImport/HydrogenImport.cpp" line="30"/>
         <source>Filter for importing Hydrogen files into LMMS</source>
-        <translation>Filtro para importação de arquivos do Hydrogen para o LMMS</translation>
+        <translation>Filtro para importação de ficheiros do Hydrogen para o LMMS</translation>
     </message>
     <message>
         <location filename="../../plugins/Kicker/Kicker.cpp" line="53"/>
@@ -3844,12 +3844,12 @@ Plugin Name
 <context>
     <name>PluginFactory</name>
     <message>
-        <location filename="../../src/core/PluginFactory.cpp" line="139"/>
+        <location filename="../../src/core/PluginFactory.cpp" line="140"/>
         <source>Plugin not found.</source>
         <translation>Plugin não achado.</translation>
     </message>
     <message>
-        <location filename="../../src/core/PluginFactory.cpp" line="188"/>
+        <location filename="../../src/core/PluginFactory.cpp" line="192"/>
         <source>LMMS plugin %1 does not have a plugin descriptor named %2!</source>
         <translation type="unfinished"/>
     </message>
@@ -4523,7 +4523,7 @@ Plugin Name
     <message>
         <location filename="../../src/core/lv2/Lv2SubPluginFeatures.cpp" line="188"/>
         <source>File: %1</source>
-        <translation>Arquivo: %1</translation>
+        <translation>Ficheiro: %1</translation>
     </message>
     <message>
         <location filename="../../src/core/lv2/Lv2SubPluginFeatures.cpp" line="235"/>
@@ -4606,12 +4606,12 @@ Plugin Name
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaSubPluginFeatures.cpp" line="70"/>
         <source>File: %1</source>
-        <translation>Arquivo: %1</translation>
+        <translation>Ficheiro: %1</translation>
     </message>
     <message>
         <location filename="../../plugins/VstEffect/VstSubPluginFeatures.cpp" line="49"/>
         <source>File: </source>
-        <translation>Arquivo: </translation>
+        <translation>Ficheiro: </translation>
     </message>
 </context>
 <context>
@@ -4649,7 +4649,7 @@ Plugin Name
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="291"/>
         <source>&amp;File</source>
-        <translation>&amp;Arquivo</translation>
+        <translation>&amp;Ficheiro</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="303"/>
@@ -9123,7 +9123,7 @@ Please make sure you have read-permission to the file and the directory containi
     <message>
         <location filename="../../plugins/VstBase/VstPlugin.cpp" line="582"/>
         <source>Save Preset</source>
-        <translation>Salvar Predefinição</translation>
+        <translation>Guardar predefinição</translation>
     </message>
     <message>
         <location filename="../../plugins/VstBase/VstPlugin.cpp" line="582"/>
@@ -11548,7 +11548,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/FileBrowser.cpp" line="1079"/>
         <source>--- Factory files ---</source>
-        <translation>--- Arquivos de fábrica ---</translation>
+        <translation>--- Ficheiros de fábrica ---</translation>
     </message>
 </context>
 <context>
@@ -12455,7 +12455,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="404"/>
         <source>XML preset file (*.xpf)</source>
-        <translation>Arquivo de predefinição XML (*.xpf)</translation>
+        <translation>Ficheiro de predefinição XML (*.xpf)</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="464"/>
@@ -13605,7 +13605,7 @@ Double click to pick a file.</source>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="512"/>
         <source>Configuration file</source>
-        <translation>Arquivo de configuração</translation>
+        <translation>Ficheiro de configuração</translation>
     </message>
     <message>
         <location filename="../../src/core/ConfigManager.cpp" line="513"/>
@@ -13713,7 +13713,7 @@ Please make sure you have write permission to the file and the directory contain
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="274"/>
         <source>&amp;File</source>
-        <translation>&amp;Arquivo</translation>
+        <translation>&amp;Ficheiro</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="276"/>
@@ -14019,7 +14019,7 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1412"/>
         <source>MIDI File (*.mid)</source>
-        <translation>Arquivo MIDI (*.mid)</translation>
+        <translation>Ficheiro MIDI (*.mid)</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1424"/>
@@ -15419,7 +15419,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../plugins/Patman/Patman.cpp" line="497"/>
         <source>Patch-Files (*.pat)</source>
-        <translation>Arquivos-Patch (*.pat)</translation>
+        <translation>Ficheiros-Patch (*.pat)</translation>
     </message>
 </context>
 <context>
@@ -17024,7 +17024,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1207"/>
         <source>SoundFont Files (*.sf2 *.sf3)</source>
-        <translation>Arquivos SoundFont (*.sf2 *.sf3)</translation>
+        <translation>Ficheiros SoundFont (*.sf2 *.sf3)</translation>
     </message>
 </context>
 <context>
