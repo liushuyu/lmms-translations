@@ -599,7 +599,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="40"/>
         <source>Rack</source>
-        <translation type="unfinished"/>
+        <translation>Rack</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="144"/>
@@ -679,7 +679,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="522"/>
         <source>&amp;Canvas</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Leinwand</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="526"/>
@@ -978,7 +978,7 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1374"/>
         <source>Auto-Fit</source>
-        <translation type="unfinished"/>
+        <translation>Automatisch anpassen</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1389"/>
@@ -1038,22 +1038,22 @@ POSSIBILITY OF SUCH DAMAGES.
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1480"/>
         <source>Show Canvas &amp;Meters</source>
-        <translation type="unfinished"/>
+        <translation>Leinwand-&amp;Messinstrumente anzeigen</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1491"/>
         <source>Show Canvas &amp;Keyboard</source>
-        <translation type="unfinished"/>
+        <translation>Leinwand-&amp;Keyboard anzeigen</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1502"/>
         <source>Show Internal</source>
-        <translation type="unfinished"/>
+        <translation>Intern anzeigen</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1513"/>
         <source>Show External</source>
-        <translation type="unfinished"/>
+        <translation>Extern anzeigen</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_host.ui" line="1524"/>
@@ -1226,7 +1226,7 @@ Möchten Sie das jetzt tun?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="76"/>
         <source>canvas</source>
-        <translation type="unfinished"/>
+        <translation>Leinwand</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="81"/>
@@ -1273,7 +1273,7 @@ Möchten Sie das jetzt tun?</translation>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="134"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="2984"/>
         <source>Canvas</source>
-        <translation type="unfinished"/>
+        <translation>Leinwand</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="152"/>
@@ -1382,7 +1382,7 @@ Möchten Sie das jetzt tun?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="567"/>
         <source>&lt;b&gt;Canvas&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Leinwand&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="646"/>
@@ -1442,7 +1442,7 @@ Möchten Sie das jetzt tun?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="765"/>
         <source>Auto-select items on hover</source>
-        <translation type="unfinished"/>
+        <translation>Items beim Überfahren automatisch auswählen</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="772"/>
@@ -1489,7 +1489,7 @@ Möchten Sie das jetzt tun?</translation>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="925"/>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="958"/>
         <source>Continuous Rack</source>
-        <translation type="unfinished"/>
+        <translation>Fortlaufender Rack</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="930"/>
@@ -1835,7 +1835,7 @@ Möchten Sie das jetzt tun?</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="3014"/>
         <source>Render Ardour-style &quot;Inline Displays&quot;</source>
-        <translation type="unfinished"/>
+        <translation>»Inline Displays« wie in Ardour rendern</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_settings.ui" line="3030"/>
@@ -1922,7 +1922,7 @@ Reaktivieren Sie sie, um den Prozess neuzustarten, wobei der letzte gespeicherte
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/inputdialog_value.ui" line="30"/>
         <source>Scale Points</source>
-        <translation type="unfinished"/>
+        <translation>Skalierungspunkte</translation>
     </message>
 </context>
 <context>
@@ -2068,7 +2068,7 @@ Reaktivieren Sie sie, um den Prozess neuzustarten, wobei der letzte gespeicherte
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="242"/>
         <source>Joint stereo</source>
-        <translation type="unfinished"/>
+        <translation>Verbund-Stereo</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/export_project.ui" line="268"/>
@@ -2622,7 +2622,7 @@ Reaktivieren Sie sie, um den Prozess neuzustarten, wobei der letzte gespeicherte
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="144"/>
         <source>Phrygian dominant</source>
-        <translation type="unfinished"/>
+        <translation>Phrygisch-dominant</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentFunctions.cpp" line="145"/>
@@ -3140,7 +3140,7 @@ Reaktivieren Sie sie, um den Prozess neuzustarten, wobei der letzte gespeicherte
     <message>
         <location filename="../../plugins/Compressor/Compressor.cpp" line="45"/>
         <source>A dynamic range compressor.</source>
-        <translation type="unfinished"/>
+        <translation>Ein Dynamikbereichkompressor.</translation>
     </message>
     <message>
         <location filename="../../plugins/CrossoverEQ/CrossoverEQ.cpp" line="43"/>
@@ -3312,7 +3312,7 @@ Dieser Chip wurde in Commodore-64-Computern genutzt.</translation>
     <message>
         <location filename="../../plugins/Vectorscope/Vectorscope.cpp" line="39"/>
         <source>A stereo field visualizer.</source>
-        <translation type="unfinished"/>
+        <translation>Ein Stereofeldvisualisierer.</translation>
     </message>
     <message>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="76"/>
@@ -3352,17 +3352,17 @@ Dieser Chip wurde in Commodore-64-Computern genutzt.</translation>
     <message>
         <location filename="../../plugins/Dispersion/Dispersion.cpp" line="40"/>
         <source>An all-pass filter allowing for extremely high orders.</source>
-        <translation type="unfinished"/>
+        <translation>Ein Allpassfilter, der extrem hohe Ordnungen ermöglicht.</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterEffect.cpp" line="42"/>
         <source>Granular pitch shifter</source>
-        <translation type="unfinished"/>
+        <translation>Granularer Tonhöhen-Shifter</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMM.cpp" line="40"/>
         <source>Upwards/downwards multiband compression plugin powered by the eldritch elder god LOMMUS.</source>
-        <translation type="unfinished"/>
+        <translation>Aufwärts-/Abwärts-Multiband-Kompressions-Plugin, betrieben vom unheimlichen Ältestengott LOMMUS.</translation>
     </message>
     <message>
         <location filename="../../plugins/SlicerT/SlicerT.cpp" line="46"/>
@@ -3466,7 +3466,7 @@ Dieser Chip wurde in Commodore-64-Computern genutzt.</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="404"/>
         <source>Map Program Changes</source>
-        <translation type="unfinished"/>
+        <translation>Programmänderungen mappen</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="411"/>
@@ -3491,7 +3491,7 @@ Dieser Chip wurde in Commodore-64-Computern genutzt.</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="439"/>
         <source>Send Note Aftertouch</source>
-        <translation type="unfinished"/>
+        <translation>Note Aftertouch senden</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="446"/>
@@ -3501,7 +3501,7 @@ Dieser Chip wurde in Commodore-64-Computern genutzt.</translation>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="453"/>
         <source>Send All Sound/Notes Off</source>
-        <translation type="unfinished"/>
+        <translation>All Sound/Notes Off senden</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/carla_edit.ui" line="481"/>
@@ -3616,7 +3616,7 @@ Pluginname
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="90"/>
         <source>With Inline Display</source>
-        <translation type="unfinished"/>
+        <translation>Mit Inline-Anzeige</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="97"/>
@@ -3731,7 +3731,7 @@ Pluginname
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="367"/>
         <source>Has Inline Display:</source>
-        <translation type="unfinished"/>
+        <translation>Hat Inline-Anzeige:</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="377"/>
@@ -3771,7 +3771,7 @@ Pluginname
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="623"/>
         <source>Binary/Filename</source>
-        <translation type="unfinished"/>
+        <translation>Binary/Dateiname</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="643"/>
@@ -3933,7 +3933,7 @@ Pluginname
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="939"/>
         <source>Focus Text Search</source>
-        <translation type="unfinished"/>
+        <translation>Fokus auf Textsuche</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/pluginlist/pluginlistdialog.ui" line="942"/>
@@ -4897,7 +4897,7 @@ Pluginname
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="46"/>
         <source>Mid/Side</source>
-        <translation type="unfinished"/>
+        <translation>Mid/Größe</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="47"/>
@@ -4947,7 +4947,7 @@ Pluginname
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="56"/>
         <source>Auto Makeup Gain</source>
-        <translation type="unfinished"/>
+        <translation>Auto-Makeup-Verstärkung</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControls.cpp" line="57"/>
@@ -5896,7 +5896,7 @@ Pluginname
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="62"/>
         <source>40 Seconds (Size and Spray and Jitter)</source>
-        <translation type="unfinished"/>
+        <translation>40 Sekunden (Größe und Spray und Jitter)</translation>
     </message>
     <message>
         <location filename="../../plugins/GranularPitchShifter/GranularPitchShifterControls.cpp" line="63"/>
@@ -6324,42 +6324,42 @@ Pluginname
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="43"/>
         <source>Downward Depth</source>
-        <translation type="unfinished"/>
+        <translation>Abwärtstiefe</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="44"/>
         <source>High/Mid Split</source>
-        <translation type="unfinished"/>
+        <translation>Hoch/Mittel-Teilung</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="45"/>
         <source>Mid/Low Split</source>
-        <translation type="unfinished"/>
+        <translation>Mittel/Tief-Teilung</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="46"/>
         <source>Enable High/Mid Split</source>
-        <translation type="unfinished"/>
+        <translation>Hoch-/Mittel-Teilung aktivieren</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="47"/>
         <source>Enable Mid/Low Split</source>
-        <translation type="unfinished"/>
+        <translation>Mittel-/Tief-Teilung aktivieren</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="48"/>
         <source>Enable High Band</source>
-        <translation type="unfinished"/>
+        <translation>Hochband aktivieren</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="49"/>
         <source>Enable Mid Band</source>
-        <translation type="unfinished"/>
+        <translation>Mittelband aktivieren</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="50"/>
         <source>Enable Low Band</source>
-        <translation type="unfinished"/>
+        <translation>Tiefband aktivieren</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="51"/>
@@ -6469,17 +6469,17 @@ Pluginname
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="72"/>
         <source>Release High</source>
-        <translation type="unfinished"/>
+        <translation>Release hoch</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="73"/>
         <source>Release Mid</source>
-        <translation type="unfinished"/>
+        <translation>Release mittel</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="74"/>
         <source>Release Low</source>
-        <translation type="unfinished"/>
+        <translation>Release niedrig</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="75"/>
@@ -6529,7 +6529,7 @@ Pluginname
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="84"/>
         <source>Mid/Side</source>
-        <translation type="unfinished"/>
+        <translation>Mid/Größe</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="85"/>
@@ -6544,7 +6544,7 @@ Pluginname
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="87"/>
         <source>Suppress upward compression for side band</source>
-        <translation type="unfinished"/>
+        <translation>Aufwärtskompression für Seitenband unterdrücken</translation>
     </message>
 </context>
 <context>
@@ -8165,12 +8165,12 @@ Grund: »%2«</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="42"/>
         <source>Reference freeze</source>
-        <translation type="unfinished"/>
+        <translation>Referenz einfrieren</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="44"/>
         <source>Waterfall</source>
-        <translation type="unfinished"/>
+        <translation>Wasserfall</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="45"/>
@@ -8185,7 +8185,7 @@ Grund: »%2«</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="47"/>
         <source>Peak hold</source>
-        <translation type="unfinished"/>
+        <translation>Peak halten</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="49"/>
@@ -8240,12 +8240,12 @@ Grund: »%2«</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="63"/>
         <source>Waterfall history size</source>
-        <translation type="unfinished"/>
+        <translation>Wasserfallhistoriengröße</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="64"/>
         <source>Waterfall gamma correction</source>
-        <translation type="unfinished"/>
+        <translation>Wasserfallgammakorrektur</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControls.cpp" line="65"/>
@@ -9969,7 +9969,7 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="148"/>
         <source>Stereo Link Blend:</source>
-        <translation type="unfinished"/>
+        <translation>Stereoverknüpfungsüberblendung:</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="150"/>
@@ -10085,7 +10085,7 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="209"/>
         <source>Mid/Side</source>
-        <translation type="unfinished"/>
+        <translation>Mid/Größe</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="212"/>
@@ -10165,7 +10165,7 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="267"/>
         <source>Auto Makeup Gain</source>
-        <translation type="unfinished"/>
+        <translation>Auto-Makeup-Verstärkung</translation>
     </message>
     <message>
         <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="270"/>
@@ -12341,7 +12341,7 @@ Bitte stellen Sie sicher, dass Sie Schreibrechte sowohl auf die Datei als auch d
     <message>
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="48"/>
         <source>Upward Depth:</source>
-        <translation type="unfinished"/>
+        <translation>Aufwärtstiefe:</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="48"/>
@@ -12351,7 +12351,7 @@ Bitte stellen Sie sicher, dass Sie Schreibrechte sowohl auf die Datei als auch d
     <message>
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="49"/>
         <source>Downward Depth:</source>
-        <translation type="unfinished"/>
+        <translation>Abwärtstiefe:</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="49"/>
@@ -12381,17 +12381,17 @@ Bitte stellen Sie sicher, dass Sie Schreibrechte sowohl auf die Datei als auch d
     <message>
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="57"/>
         <source>Enable High Band</source>
-        <translation type="unfinished"/>
+        <translation>Hochband aktivieren</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="58"/>
         <source>Enable Mid Band</source>
-        <translation type="unfinished"/>
+        <translation>Mittelband aktivieren</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="59"/>
         <source>Enable Low Band</source>
-        <translation type="unfinished"/>
+        <translation>Tiefband aktivieren</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="61"/>
@@ -12726,7 +12726,7 @@ Bitte stellen Sie sicher, dass Sie Schreibrechte sowohl auf die Datei als auch d
     <message>
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="104"/>
         <source>Mid/Side</source>
-        <translation type="unfinished"/>
+        <translation>Mid/Größe</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="104"/>
@@ -12737,7 +12737,7 @@ Bitte stellen Sie sicher, dass Sie Schreibrechte sowohl auf die Datei als auch d
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="105"/>
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="106"/>
         <source>Suppress upward compression for side band</source>
-        <translation type="unfinished"/>
+        <translation>Aufwärtskompression für Seitenband unterdrücken</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControlDialog.cpp" line="107"/>
@@ -12897,7 +12897,7 @@ Bitte stellen Sie sicher, dass Sie Schreibrechte sowohl auf die Datei als auch d
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaMatrixControlDialog.cpp" line="115"/>
         <source>Link</source>
-        <translation type="unfinished"/>
+        <translation>Verknüpfen</translation>
     </message>
     <message>
         <location filename="../../plugins/LadspaEffect/LadspaMatrixControlDialog.cpp" line="139"/>
@@ -14031,23 +14031,23 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="53"/>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="60"/>
         <source>Meter Numerator</source>
-        <translation type="unfinished"/>
+        <translation>Takt/Zähler</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="54"/>
         <source>Meter numerator</source>
-        <translation type="unfinished"/>
+        <translation>Takt/Zähler</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="72"/>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="83"/>
         <source>Meter Denominator</source>
-        <translation type="unfinished"/>
+        <translation>Takt/Nenner</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="73"/>
         <source>Meter denominator</source>
-        <translation type="unfinished"/>
+        <translation>Takt/Nenner</translation>
     </message>
     <message>
         <location filename="../../src/gui/widgets/MeterDialog.cpp" line="76"/>
@@ -14071,25 +14071,25 @@ Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</tra
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="61"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="159"/>
         <source>First key</source>
-        <translation type="unfinished"/>
+        <translation>Erste Taste</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="62"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="165"/>
         <source>Last key</source>
-        <translation type="unfinished"/>
+        <translation>Letzte Taste</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="63"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="171"/>
         <source>Middle key</source>
-        <translation type="unfinished"/>
+        <translation>Mitteltaste</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="64"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="177"/>
         <source>Base key</source>
-        <translation type="unfinished"/>
+        <translation>Basistaste</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="65"/>
@@ -14191,7 +14191,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="161"/>
         <source>First MIDI key that will be mapped</source>
-        <translation type="unfinished"/>
+        <translation>Die erste MIDI-Taste, die zugewiesen wird</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="166"/>
@@ -14201,7 +14201,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="167"/>
         <source>Last MIDI key that will be mapped</source>
-        <translation type="unfinished"/>
+        <translation>Die letzte MIDI-Taste, die zugewiesen wird</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="172"/>
@@ -14211,7 +14211,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="173"/>
         <source>First line in the keymap refers to this MIDI key</source>
-        <translation type="unfinished"/>
+        <translation>Die erste Zeile in der Keymap bezieht sich auf diese MIDI-Taste</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="178"/>
@@ -14221,7 +14221,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="179"/>
         <source>Base note frequency will be assigned to this MIDI key</source>
-        <translation type="unfinished"/>
+        <translation>Basisnotenfrequenz wird zu dieser MIDI-Taste zugewiesen</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="184"/>
@@ -14291,12 +14291,12 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="399"/>
         <source>Scale degree cannot be converted to a whole number</source>
-        <translation type="unfinished"/>
+        <translation>Tonstufe kann nicht zu einer Ganzzahl konvertiert werden</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="400"/>
         <source>Scale degree cannot be negative</source>
-        <translation type="unfinished"/>
+        <translation>Tonstufe kann nicht negativ sein</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="497"/>
@@ -14306,7 +14306,7 @@ Enter &apos;x&apos; if you wish to leave the key disabled / not mapped.</source>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="497"/>
         <source>Base key is not mapped to any scale degree. No sound will be produced as there is no way to assign reference frequency to any note.</source>
-        <translation type="unfinished"/>
+        <translation>Die Basistaste wurde nicht zu einer Tonstufe zugewiesen. Es wird kein Ton erzeugt, da es keine Möglichkeit gibt, eine Referenzfrequenz zu irgendeiner Note zuzuweisen.</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="509"/>
@@ -15505,7 +15505,7 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
         <source>Pitch Bend mode (Shift+T)</source>
-        <translation type="unfinished"/>
+        <translation>Tonhöhenverzerrungsmodus (Umschalt+T)</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4778"/>
@@ -15566,7 +15566,7 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4850"/>
         <source>Glue</source>
-        <translation type="unfinished"/>
+        <translation>Klebstoff</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4854"/>
@@ -15581,17 +15581,17 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4862"/>
         <source>Cut overlaps</source>
-        <translation type="unfinished"/>
+        <translation>Überlappungen ausschneiden</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4866"/>
         <source>Min length as last</source>
-        <translation type="unfinished"/>
+        <translation>Min. Länge als letzte</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
         <source>Max length as last</source>
-        <translation type="unfinished"/>
+        <translation>Max. Länge als letzte</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="4884"/>
@@ -15702,7 +15702,7 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     <message>
         <location filename="../../src/gui/instrument/PianoView.cpp" line="782"/>
         <source>Base note</source>
-        <translation type="unfinished"/>
+        <translation>Grundton</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/PianoView.cpp" line="787"/>
@@ -15968,7 +15968,7 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="104"/>
         <source>Reference freeze</source>
-        <translation type="unfinished"/>
+        <translation>Referenz einfrieren</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="105"/>
@@ -15978,7 +15978,7 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="119"/>
         <source>Waterfall</source>
-        <translation type="unfinished"/>
+        <translation>Wasserfall</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="120"/>
@@ -15993,7 +15993,7 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="127"/>
         <source>Enable exponential moving average</source>
-        <translation type="unfinished"/>
+        <translation>Exponentiellen gleitenden Durchschnitt aktivieren</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="133"/>
@@ -16062,7 +16062,7 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="241"/>
         <source>Envelope res.</source>
-        <translation type="unfinished"/>
+        <translation>Hüllkurven-Res.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="242"/>
@@ -16077,7 +16077,7 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="249"/>
         <source>Spectrum res.</source>
-        <translation type="unfinished"/>
+        <translation>Spektrumsres.</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="250"/>
@@ -16117,12 +16117,12 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="267"/>
         <source>New sample contributes</source>
-        <translation type="unfinished"/>
+        <translation>Neues Sample gibt</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="273"/>
         <source>Waterfall height</source>
-        <translation type="unfinished"/>
+        <translation>Wasserfallhöhe</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="274"/>
@@ -16132,12 +16132,12 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="275"/>
         <source>Number of lines to keep:</source>
-        <translation type="unfinished"/>
+        <translation>Anzahl der zu behaltenden Zeilen:</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="283"/>
         <source>Waterfall gamma</source>
-        <translation type="unfinished"/>
+        <translation>Wasserfallgamma</translation>
     </message>
     <message>
         <location filename="../../plugins/SpectrumAnalyzer/SaControlsDialog.cpp" line="284"/>
@@ -16739,7 +16739,7 @@ Latenz: %2 ms</translation>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1069"/>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1096"/>
         <source>Level:</source>
-        <translation type="unfinished"/>
+        <translation>Stufe:</translation>
     </message>
     <message>
         <location filename="../../plugins/Sf2Player/Sf2Player.cpp" line="1089"/>
