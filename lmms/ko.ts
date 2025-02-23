@@ -4487,12 +4487,12 @@ Plugin Name
         <translation>도움말</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2010"/>
+        <location filename="../../src/core/DataFile.cpp" line="2056"/>
         <source>LADSPA plugins</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2011"/>
+        <location filename="../../src/core/DataFile.cpp" line="2057"/>
         <source>The project contains %1 LADSPA plugin(s) which might have not been restored correctly! Please check the project.</source>
         <translation type="unfinished"/>
     </message>
@@ -8832,17 +8832,17 @@ Reason: &quot;%2&quot;</source>
         <translation>프로젝트 불러올 수 없음: 프로젝트 파일에 플러그인에 대한 로컬 경로가 포함되어 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1207"/>
+        <location filename="../../src/core/Song.cpp" line="1201"/>
         <source>LMMS Error report</source>
         <translation>LMMS 오류 보고</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1505"/>
+        <location filename="../../src/core/Song.cpp" line="1498"/>
         <source> (repeated %1 times)</source>
         <translation> (%1번 반복됨)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1512"/>
+        <location filename="../../src/core/Song.cpp" line="1505"/>
         <source>The following errors occurred while loading: </source>
         <translation>불러오는 동안 다음 오류가 발생했습니다: </translation>
     </message>
@@ -9545,52 +9545,52 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::AutomationClipView</name>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="163"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="161"/>
         <source>Open in Automation editor</source>
         <translation>오토메이션 편집기에서 열기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="171"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="169"/>
         <source>Clear</source>
         <translation>지우기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="174"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="172"/>
         <source>Reset name</source>
         <translation>이름 재설정</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="177"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="175"/>
         <source>Change name</source>
         <translation>이름 변경하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="180"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="178"/>
         <source>Set/clear record</source>
         <translation>녹음 지정하기/지우기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="183"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="181"/>
         <source>Flip Vertically (Visible)</source>
         <translation>수직으로 뒤집기 (표시됨)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="186"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="184"/>
         <source>Flip Horizontally (Visible)</source>
         <translation>수평으로 뒤집기 (표시됨)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="191"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="189"/>
         <source>%1 Connections</source>
         <translation>%1 연결</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="196"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="194"/>
         <source>Disconnect &quot;%1&quot;</source>
         <translation>&quot;%1&quot; 연결끊기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="427"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="425"/>
         <source>Model is already connected to this clip.</source>
         <translation>모델이 이미 이 클립에 연결되어 있습니다.</translation>
     </message>
@@ -9598,22 +9598,22 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::AutomationEditor</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="353"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="351"/>
         <source>Edit Value</source>
         <translation>값 편집하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="355"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="353"/>
         <source>New outValue</source>
         <translation>새 출력값</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="356"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="354"/>
         <source>New inValue</source>
         <translation>새 입력값</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1396"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1394"/>
         <source>Please open an automation clip by double-clicking on it!</source>
         <translation type="unfinished"/>
     </message>
@@ -9621,124 +9621,124 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::AutomationEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2034"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2032"/>
         <source>Play/pause current clip (Space)</source>
         <translation>현재 클립 연주하기/일시중지 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2036"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2034"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>현재 클립 연주 중지하기 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2039"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2037"/>
         <source>Edit actions</source>
         <translation>편집 작업</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2042"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2040"/>
         <source>Draw mode (Shift+D)</source>
         <translation>그리기 모드 (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2046"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2044"/>
         <source>Erase mode (Shift+E)</source>
         <translation>지우기 모드 (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2049"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2047"/>
         <source>Draw outValues mode (Shift+C)</source>
         <translation>출력값 그리기 모드 (Shift+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2052"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2050"/>
         <source>Edit tangents mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2056"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2054"/>
         <source>Flip vertically</source>
         <translation>수직으로 뒤집기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2057"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2055"/>
         <source>Flip horizontally</source>
         <translation>수평으로 뒤집기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2069"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2067"/>
         <source>Interpolation controls</source>
         <translation>인터폴레이션 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2074"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2072"/>
         <source>Discrete progression</source>
         <translation>디스크리트 프로그레션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2078"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2076"/>
         <source>Linear progression</source>
         <translation>리니어 프로그레션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2080"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2078"/>
         <source>Cubic Hermite progression</source>
         <translation>큐빅 에르미트 프로그레션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2087"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2085"/>
         <source>Tension value for spline</source>
         <translation>스플라인의 텐션 값</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2096"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2094"/>
         <source>Tension: </source>
         <translation>텐션: </translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2104"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2102"/>
         <source>Zoom controls</source>
         <translation>컨트롤 확대/축소</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2111"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2109"/>
         <source>Horizontal zooming</source>
         <translation>수평 주밍</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2129"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2127"/>
         <source>Vertical zooming</source>
         <translation>수직 주밍</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2150"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2148"/>
         <source>Quantization controls</source>
         <translation>퀀티제이션 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2157"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2155"/>
         <source>Quantization</source>
         <translation>퀀티제이션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2166"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2164"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2198"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2314"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2196"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2312"/>
         <source>Automation Editor - no clip</source>
         <translation>오토메이션 편집기 - 클립 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2202"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2318"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2200"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2316"/>
         <source>Automation Editor - %1</source>
         <translation>오토메이션 편집기 - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2255"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2253"/>
         <source>Model is already connected to this clip.</source>
         <translation>모델이 이미 이 클립에 연결되어 있습니다.</translation>
     </message>
@@ -9943,27 +9943,27 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::CPULoadWidget</name>
     <message>
-        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="103"/>
+        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="102"/>
         <source>DSP total: %1%</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="104"/>
+        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="103"/>
         <source> - Notes and setup: %1%</source>
         <translation> - 노트 및 셋업: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="105"/>
+        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="104"/>
         <source> - Instruments: %1%</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="106"/>
+        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="105"/>
         <source> - Effects: %1%</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="107"/>
+        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="106"/>
         <source> - Mixing: %1%</source>
         <translation type="unfinished"/>
     </message>
@@ -10017,103 +10017,103 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::ClipView</name>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="700"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="699"/>
         <source>Current position</source>
         <translation>현재 포지션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="708"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="707"/>
         <source>Current length</source>
         <translation>현재 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="709"/>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="974"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="708"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="973"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 ~ %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="728"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="727"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation>&lt;%1&gt;을 누르고 드래그하여 복사합니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="729"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="728"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation>자유롭게 크기를 조정하려면 &lt;%1&gt;을 누르십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="730"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="729"/>
         <source>Hint</source>
         <translation>힌트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1073"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1072"/>
         <source>Delete (middle mousebutton)</source>
         <translation>삭제하기 (마우스 가운데 버튼)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1074"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1073"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation>선택항목 삭제하기 (마우스 가운데 버튼)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1082"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1081"/>
         <source>Cut</source>
         <translation>잘라내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1083"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1082"/>
         <source>Cut selection</source>
         <translation>선택항목 잘라내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1090"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1089"/>
         <source>Merge Selection</source>
         <translation>선택항목 합치기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1099"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1098"/>
         <source>Copy</source>
         <translation>복사하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1100"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1099"/>
         <source>Copy selection</source>
         <translation>선택항목 복사하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1105"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1104"/>
         <source>Paste</source>
         <translation>붙여넣기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1113"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1112"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation>음소거/음소거 해제 (&lt;%1&gt; + 가운데 버튼 클릭)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1114"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1113"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation>선택항목 음소거/음소거 해제 (&lt;%1&gt; + 가운데 버튼 클릭)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1119"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1118"/>
         <source>Clip color</source>
         <translation>클립 색상</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1121"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1120"/>
         <source>Change</source>
         <translation>변경하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1122"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1121"/>
         <source>Reset</source>
         <translation>재설정</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1123"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1122"/>
         <source>Pick random</source>
         <translation>무작위 고르기</translation>
     </message>
@@ -10121,354 +10121,354 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::CompressorControlDialog</name>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="88"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="87"/>
         <source>Threshold:</source>
         <translation>스레시홀드:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="90"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="89"/>
         <source>Volume at which the compression begins to take place</source>
         <translation>압축이 시작되는 지점의 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="93"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="92"/>
         <source>Ratio:</source>
         <translation>레시오:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="95"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="94"/>
         <source>How far the compressor must turn the volume down after crossing the threshold</source>
         <translation>컴프레서가 스레시홀드를 초과한 후 볼륨을 낮춰야 하는 정도</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="98"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="97"/>
         <source>Attack:</source>
         <translation>어택:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="100"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="99"/>
         <source>Speed at which the compressor starts to compress the audio</source>
         <translation>컴프레서가 오디오 압축을 시작하는 속도</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="103"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="102"/>
         <source>Release:</source>
         <translation>릴리즈:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="105"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="104"/>
         <source>Speed at which the compressor ceases to compress the audio</source>
         <translation>컴프레서가 오디오 압축을 중단하는 속도</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="108"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="107"/>
         <source>Knee:</source>
         <translation>니(Knee):</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="110"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="109"/>
         <source>Smooth out the gain reduction curve around the threshold</source>
         <translation>스레시홀드 주변에서 게인 감소 곡선 부드럽게 펴기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="113"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="112"/>
         <source>Range:</source>
         <translation>범위:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="115"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="114"/>
         <source>Maximum gain reduction</source>
         <translation>최대 게인 감소</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="118"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="117"/>
         <source>Lookahead Length:</source>
         <translation>룩어헤드 길이:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="120"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="119"/>
         <source>How long the compressor has to react to the sidechain signal ahead of time</source>
         <translation>컴프레서가 미리 사이드체인 신호에 반응해야 하는 시간</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="123"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="122"/>
         <source>Hold:</source>
         <translation>홀드:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="125"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="124"/>
         <source>Delay between attack and release stages</source>
         <translation>어택과 릴리즈 단계 사이의 딜레이</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="128"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="127"/>
         <source>RMS Size:</source>
         <translation>RMS 크기:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="130"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="129"/>
         <source>Size of the RMS buffer</source>
         <translation>RMS 버퍼의 크기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="133"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="132"/>
         <source>Input Balance:</source>
         <translation>입력 밸런스:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="135"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="134"/>
         <source>Bias the input audio to the left/right or mid/side</source>
         <translation>입력 오디오를 좌/우 또는 중간/측면으로 치우치게하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="138"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="137"/>
         <source>Output Balance:</source>
         <translation>출력 밸런스:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="140"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="139"/>
         <source>Bias the output audio to the left/right or mid/side</source>
         <translation>출력 오디오를 좌/우 또는 중간/측면으로 치우치게하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="143"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="142"/>
         <source>Stereo Balance:</source>
         <translation>스테레오 밸런스:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="145"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="144"/>
         <source>Bias the sidechain signal to the left/right or mid/side</source>
         <translation>사이드 체인 신호를 좌/우 또는 중간/측면으로 치우치게하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="148"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="147"/>
         <source>Stereo Link Blend:</source>
         <translation>스테레오 링크 섞기:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="150"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="149"/>
         <source>Blend between unlinked/maximum/average/minimum stereo linking modes</source>
         <translation>림크해제된/최대/평균/최소 스테레오 링킹 모드 간 섞기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="153"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="152"/>
         <source>Tilt Gain:</source>
         <translation>틸트 게인:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="155"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="154"/>
         <source>Bias the sidechain signal to the low or high frequencies.  -6 db is lowpass, 6 db is highpass.</source>
         <translation>사이드체인 신호를 저주파 또는 고주파로 치우치게 합니다. -6db는 로패스, 6db는 하이패스입니다.</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="158"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="157"/>
         <source>Tilt Frequency:</source>
         <translation>틸트 주파수:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="160"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="159"/>
         <source>Center frequency of sidechain tilt filter</source>
         <translation>사이드 체인 틸트 필터의 중심 주파수</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="163"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="162"/>
         <source>Mix:</source>
         <translation>믹스:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="165"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="164"/>
         <source>Balance between wet and dry signals</source>
         <translation>웨트 신호와 드라이 신호 간의 밸런스</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="168"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="167"/>
         <source>Auto Attack:</source>
         <translation>자동 어택:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="170"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="169"/>
         <source>Automatically control attack value depending on crest factor</source>
         <translation>파고율에 따른 어택 값 자동적으로 제어</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="173"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="172"/>
         <source>Auto Release:</source>
         <translation>자동 릴리즈:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="175"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="174"/>
         <source>Automatically control release value depending on crest factor</source>
         <translation>파고율에 따른 릴리즈 값 자동적으로 제어</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="177"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="176"/>
         <source>Output gain</source>
         <translation>출력 게인</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="180"/>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="186"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="179"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="185"/>
         <source>Gain</source>
         <translation>게인</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="181"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="180"/>
         <source>Output volume</source>
         <translation>출력 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="183"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="182"/>
         <source>Input gain</source>
         <translation>입력 게인</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="187"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="186"/>
         <source>Input volume</source>
         <translation>입력 볼륨</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="189"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="188"/>
         <source>Root Mean Square</source>
         <translation>제곱 평균 제곱근</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="192"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="191"/>
         <source>Use RMS of the input</source>
         <translation>입력의 RMS 사용하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="194"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="193"/>
         <source>Peak</source>
         <translation>피크</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="197"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="196"/>
         <source>Use absolute value of the input</source>
         <translation>입력의 절대값 사용하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="204"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="203"/>
         <source>Left/Right</source>
         <translation>좌/우</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="207"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="206"/>
         <source>Compress left and right audio</source>
         <translation>좌측 및 우측 오디오 압축하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="209"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="208"/>
         <source>Mid/Side</source>
         <translation>중간/측면</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="212"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="211"/>
         <source>Compress mid and side audio</source>
         <translation>중간 및 측면 오디오 압축하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="219"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="218"/>
         <source>Compressor</source>
         <translation>컴프레서</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="222"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="221"/>
         <source>Compress the audio</source>
         <translation>오디오 압축하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="224"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="223"/>
         <source>Limiter</source>
         <translation>리미터</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="227"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="226"/>
         <source>Set Ratio to infinity (is not guaranteed to limit audio volume)</source>
         <translation>레시오를 무한대로 지정 (오디오 볼륨 제한이 보장되지 않음)</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="234"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="233"/>
         <source>Unlinked</source>
         <translation>링크 해제됨</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="237"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="236"/>
         <source>Compress each channel separately</source>
         <translation>각 채널 따로따로 압축하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="239"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="238"/>
         <source>Maximum</source>
         <translation>최댓값</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="242"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="241"/>
         <source>Compress based on the loudest channel</source>
         <translation>가장 소리가 큰 채널을 기준으로 압축하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="244"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="243"/>
         <source>Average</source>
         <translation>평균</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="247"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="246"/>
         <source>Compress based on the averaged channel volume</source>
         <translation>평균 채널 볼륨을 기준으로 압축</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="249"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="248"/>
         <source>Minimum</source>
         <translation>최솟값</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="252"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="251"/>
         <source>Compress based on the quietest channel</source>
         <translation>가장 조용한 채널을 기준으로 압축하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="254"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="253"/>
         <source>Blend</source>
         <translation>섞기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="257"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="256"/>
         <source>Blend between stereo linking modes</source>
         <translation>스테레오 링킹 모드 간 섞기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="267"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="266"/>
         <source>Auto Makeup Gain</source>
         <translation>자동 메이크업 게인</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="270"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="269"/>
         <source>Automatically change makeup gain depending on threshold, knee, and ratio settings</source>
         <translation>스레시홀드, 니(Knee) 및 레시오 설정에 따라 자동으로 메이크업 게인 변경</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="274"/>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="281"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="273"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="280"/>
         <source>Soft Clip</source>
         <translation>소프트 클립</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="277"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="276"/>
         <source>Play the delta signal</source>
         <translation>델타 신호 연주하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="284"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="283"/>
         <source>Use the compressor&apos;s output as the sidechain input</source>
         <translation>컴프레서의 출력을 사이드체인 입력으로 사용하기</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="288"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="287"/>
         <source>Lookahead Enabled</source>
         <translation>룩어헤드 활성화됨</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="291"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="290"/>
         <source>Enable Lookahead, which introduces 20 milliseconds of latency</source>
         <translation>20밀리초의 레이턴시를 유발하는 룩어헤드 활성화</translation>
     </message>
@@ -11440,17 +11440,17 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>lmms::gui::Fader</name>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="167"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="166"/>
         <source>Set value</source>
         <translation>값 지정하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="168"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="167"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>%1부터 %2까지의 값을 입력하세요:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="252"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="251"/>
         <source>Volume: %1 dBFS</source>
         <translation type="unfinished"/>
     </message>
@@ -15383,12 +15383,12 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::Oscilloscope</name>
     <message>
-        <location filename="../../src/gui/widgets/Oscilloscope.cpp" line="63"/>
+        <location filename="../../src/gui/widgets/Oscilloscope.cpp" line="62"/>
         <source>Oscilloscope</source>
         <translation>오실로스코프</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Oscilloscope.cpp" line="207"/>
+        <location filename="../../src/gui/widgets/Oscilloscope.cpp" line="206"/>
         <source>Click to enable</source>
         <translation>클릭하여 활성화</translation>
     </message>
@@ -15654,78 +15654,78 @@ Warning: This operation can not be undone.</source>
         <translation>이 키의 노트 모두 선택하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="334"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="332"/>
         <source>Note lock</source>
         <translation>노트 잠금</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="344"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="342"/>
         <source>Last note</source>
         <translation>마지막 노트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="368"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="366"/>
         <source>No key</source>
         <translation>키 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="381"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="379"/>
         <source>No scale</source>
         <translation>스케일 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="398"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="396"/>
         <source>No chord</source>
         <translation>코드 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="428"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="426"/>
         <source>Nudge</source>
         <translation>넛지</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="429"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="427"/>
         <source>Snap</source>
         <translation>스냅</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="470"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="468"/>
         <source>Velocity: %1%</source>
         <translation>벨로시티: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="479"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="477"/>
         <source>Panning: %1% left</source>
         <translation>패닝: %1% 좌측</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="483"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="481"/>
         <source>Panning: %1% right</source>
         <translation>패닝: %1% 우측</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="487"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="485"/>
         <source>Panning: center</source>
         <translation>패닝: 중앙</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="655"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="653"/>
         <source>Glue notes failed</source>
         <translation>노트 붙이기 실패</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="656"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="654"/>
         <source>Please select notes to glue first.</source>
         <translation>먼저 붙여넣을 노트를 선택하세요.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3616"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3614"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation>클립을 두 번 클릭하여 열어주세요!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4270"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4289"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4268"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4287"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>%1부터 %2까지의 값을 입력하세요:</translation>
     </message>
@@ -15733,241 +15733,241 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4748"/>
         <source>Play/pause current clip (Space)</source>
         <translation>현재 클립 연주하기/일시중지 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>MIDI 디바이스/채널 피아노에서 노트 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation>노래 또는 패턴 트랙을 연주하는 동안 MIDI 디바이스/채널 피아노에서 노트 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>MIDI 디바이스/채널 피아노에서 한 번에 한 스탭씩 노트 녹음하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>현재 클립 연주 중지하기 (Space)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <source>Edit actions</source>
         <translation>편집 작업</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
         <source>Draw mode (Shift+D)</source>
         <translation>그리기 모드 (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4761"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
         <source>Erase mode (Shift+E)</source>
         <translation>지우기 모드 (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4762"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
         <source>Select mode (Shift+S)</source>
         <translation>선택하기 모드 (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4761"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>피치 밴드 모드 (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4778"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4776"/>
         <source>Quantize</source>
         <translation>퀀타이즈</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4779"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4777"/>
         <source>Quantize positions</source>
         <translation>퀀타이즈 포지션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4780"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4778"/>
         <source>Quantize lengths</source>
         <translation>퀀타이즈 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4800"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4798"/>
         <source>File actions</source>
         <translation>파일 작업</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4808"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4806"/>
         <source>Import clip</source>
         <translation>클립 가져오기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4810"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4808"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5265"/>
         <source>Export clip</source>
         <translation>클립 내보내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4821"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4819"/>
         <source>Copy paste controls</source>
         <translation>복사 붙여넣기 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4821"/>
         <source>Cut (%1+X)</source>
         <translation>잘라내기 (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
         <source>Copy (%1+C)</source>
         <translation>복사하기 (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4827"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
         <source>Paste (%1+V)</source>
         <translation>붙여넣기 (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4842"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4840"/>
         <source>Timeline controls</source>
         <translation>타임라인 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4850"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
         <source>Glue</source>
         <translation>붙이기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4854"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4852"/>
         <source>Knife</source>
         <translation>자르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4856"/>
         <source>Fill</source>
         <translation>채우기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4862"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4860"/>
         <source>Cut overlaps</source>
         <translation>오버랩 잘라내기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4866"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4864"/>
         <source>Min length as last</source>
         <translation>마지막 최소 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4867"/>
         <source>Max length as last</source>
         <translation>마지막 최대 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4884"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4882"/>
         <source>Zoom and note controls</source>
         <translation>확대/축소 및 노트 컨트롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4892"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4890"/>
         <source>Horizontal zooming</source>
         <translation>수평 주밍</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4900"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4898"/>
         <source>Vertical zooming</source>
         <translation>수직 주밍</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4909"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4907"/>
         <source>Quantization</source>
         <translation>퀀티제이션</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4918"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4916"/>
         <source>Note length</source>
         <translation>노트 길이</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4924"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4922"/>
         <source>Key</source>
         <translation>키</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4933"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4931"/>
         <source>Scale</source>
         <translation>스케일</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4942"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4940"/>
         <source>Chord</source>
         <translation>코드</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4951"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4949"/>
         <source>Snap mode</source>
         <translation>스냅 모드</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4956"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4954"/>
         <source>Clear ghost notes</source>
         <translation>고스트 노트 지우기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5065"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5244"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5063"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5242"/>
         <source>Piano-Roll - %1</source>
         <translation>피아노-롤 - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5072"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5249"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5070"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5247"/>
         <source>Piano-Roll - no clip</source>
         <translation>피아노-롤 - 클립 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5266"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5313"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation>XML 클립 파일 (*.xpt *.xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5286"/>
         <source>Export clip success</source>
         <translation>클립 내보내기 성공</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5287"/>
         <source>Clip saved to %1</source>
         <translation>%1에 저장된 클립</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5304"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5302"/>
         <source>Import clip.</source>
         <translation>클립을 가져옵니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5303"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation>클립을 가져오려는 중이며, 사용자의 현재 클립을 덮어씁니다. 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5314"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5312"/>
         <source>Open clip</source>
         <translation>클립 열기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5334"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5332"/>
         <source>Import clip success</source>
         <translation>클립 가져오기 성공</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5333"/>
         <source>Imported clip %1!</source>
         <translation>%1 클립을 가져왔습니다!</translation>
     </message>
@@ -15975,17 +15975,17 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::PianoView</name>
     <message>
-        <location filename="../../src/gui/instrument/PianoView.cpp" line="782"/>
+        <location filename="../../src/gui/instrument/PianoView.cpp" line="781"/>
         <source>Base note</source>
         <translation>기본 노트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/PianoView.cpp" line="787"/>
+        <location filename="../../src/gui/instrument/PianoView.cpp" line="786"/>
         <source>First note</source>
         <translation>처음 노트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/PianoView.cpp" line="792"/>
+        <location filename="../../src/gui/instrument/PianoView.cpp" line="791"/>
         <source>Last note</source>
         <translation>마지막 노트</translation>
     </message>
@@ -17271,92 +17271,92 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="165"/>
+        <location filename="../../src/core/DataFile.cpp" line="166"/>
         <source>Could not open file</source>
         <translation>파일을 열 수 없음</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="166"/>
+        <location filename="../../src/core/DataFile.cpp" line="167"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>%1 파일을 열 수 없습니다. 이 파일을 읽을 수 있는 권한이 없는 것 같습니다.
 최소한 파일에 대한 읽기 권한이 있는지 확인하고 다시 시도하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="355"/>
+        <location filename="../../src/core/DataFile.cpp" line="356"/>
         <source>Operation denied</source>
         <translation>오퍼레이션 거부됨</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <location filename="../../src/core/DataFile.cpp" line="357"/>
         <source>A bundle folder with that name already exists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="366"/>
-        <location filename="../../src/core/DataFile.cpp" line="374"/>
-        <location filename="../../src/core/DataFile.cpp" line="382"/>
+        <location filename="../../src/core/DataFile.cpp" line="367"/>
+        <location filename="../../src/core/DataFile.cpp" line="375"/>
+        <location filename="../../src/core/DataFile.cpp" line="383"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="367"/>
+        <location filename="../../src/core/DataFile.cpp" line="368"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation>번들 폴더를 만들 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="375"/>
+        <location filename="../../src/core/DataFile.cpp" line="376"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation>리소스 폴더를 만들 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="383"/>
+        <location filename="../../src/core/DataFile.cpp" line="384"/>
         <source>Failed to copy resources.</source>
         <translation>리소스를 복사하지 못했습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="392"/>
-        <location filename="../../src/core/DataFile.cpp" line="416"/>
+        <location filename="../../src/core/DataFile.cpp" line="393"/>
+        <location filename="../../src/core/DataFile.cpp" line="417"/>
         <source>Could not write file</source>
         <translation>파일을 쓸 수 없음</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="393"/>
+        <location filename="../../src/core/DataFile.cpp" line="394"/>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="417"/>
+        <location filename="../../src/core/DataFile.cpp" line="418"/>
         <source>An unknown error has occurred and the file could not be saved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2095"/>
+        <location filename="../../src/core/DataFile.cpp" line="2141"/>
         <source>Error in file</source>
         <translation>파일에서 오류 발생</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2096"/>
+        <location filename="../../src/core/DataFile.cpp" line="2142"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>%1 파일에 오류가 있는 것 같으므로 불러올 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2136"/>
+        <location filename="../../src/core/DataFile.cpp" line="2182"/>
         <source>template</source>
         <translation>템플릿</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2136"/>
+        <location filename="../../src/core/DataFile.cpp" line="2182"/>
         <source>project</source>
         <translation>프로젝트</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2139"/>
+        <location filename="../../src/core/DataFile.cpp" line="2185"/>
         <source>Version difference</source>
         <translation>버전 차이</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2140"/>
+        <location filename="../../src/core/DataFile.cpp" line="2186"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>이 %1은(는) LMMS %2(으)로 만들어졌습니다</translation>
     </message>
@@ -17923,82 +17923,82 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::TimeLineWidget</name>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="92"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="91"/>
         <source>Auto scrolling</source>
         <translation>자동 스크롤링</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="93"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="92"/>
         <source>Stepped auto scrolling</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="94"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="93"/>
         <source>Continuous auto scrolling</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="95"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="94"/>
         <source>Auto scrolling disabled</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="100"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="99"/>
         <source>Loop points</source>
         <translation>루프 포인트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="110"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="109"/>
         <source>After stopping go back to beginning</source>
         <translation>중지한 후 처음으로 돌아가기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="113"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="112"/>
         <source>After stopping go back to position at which playing was started</source>
         <translation>중지한 후 연주가 시작된 위치로 돌아가기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="117"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="116"/>
         <source>After stopping keep position</source>
         <translation>중지한 후 위치 유지하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="319"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="318"/>
         <source>Hint</source>
         <translation>힌트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="320"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="319"/>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
         <translation>마그네틱 루프 포인트를 비활성화하려면 &lt;%1&gt; 키를 누릅니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="424"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="423"/>
         <source>Set loop begin here</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="432"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="431"/>
         <source>Set loop end here</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="443"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="442"/>
         <source>Loop edit mode (hold shift)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="452"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="451"/>
         <source>Dual-button</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="453"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="452"/>
         <source>Grab closest</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="454"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="453"/>
         <source>Handles</source>
         <translation type="unfinished"/>
     </message>

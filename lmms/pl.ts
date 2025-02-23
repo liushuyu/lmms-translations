@@ -4498,12 +4498,12 @@ Nazwa wtyczki
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2010"/>
+        <location filename="../../src/core/DataFile.cpp" line="2056"/>
         <source>LADSPA plugins</source>
         <translation>Wtyczki LADSPA</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2011"/>
+        <location filename="../../src/core/DataFile.cpp" line="2057"/>
         <source>The project contains %1 LADSPA plugin(s) which might have not been restored correctly! Please check the project.</source>
         <translation>Projekt zawiera %1 wtyczek LADSPA, które mogły nie zostać prawidłowo przywrócone! Sprawdź projekt.</translation>
     </message>
@@ -8843,17 +8843,17 @@ Powód: „%2”</translation>
         <translation>Nie można załadować projektu. Plik projektu zawiera ścieżki lokalne do wtyczek.</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1207"/>
+        <location filename="../../src/core/Song.cpp" line="1201"/>
         <source>LMMS Error report</source>
         <translation>Zgłoszenie błędu LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1505"/>
+        <location filename="../../src/core/Song.cpp" line="1498"/>
         <source> (repeated %1 times)</source>
         <translation> (powtórzone %1 razy)</translation>
     </message>
     <message>
-        <location filename="../../src/core/Song.cpp" line="1512"/>
+        <location filename="../../src/core/Song.cpp" line="1505"/>
         <source>The following errors occurred while loading: </source>
         <translation>Podczas ładowania wystąpiły następujące błędy:</translation>
     </message>
@@ -9556,52 +9556,52 @@ Upewnij się, że masz uprawnienia do odczytu do pliku i katalogu zawierającego
 <context>
     <name>lmms::gui::AutomationClipView</name>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="163"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="161"/>
         <source>Open in Automation editor</source>
         <translation>Otwórz w edytorze automatyki</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="171"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="169"/>
         <source>Clear</source>
         <translation>Wyczyść</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="174"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="172"/>
         <source>Reset name</source>
         <translation>Resetuj nazwę</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="177"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="175"/>
         <source>Change name</source>
         <translation>Zmień nazwę</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="180"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="178"/>
         <source>Set/clear record</source>
         <translation>Ustaw/wyczyść nagranie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="183"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="181"/>
         <source>Flip Vertically (Visible)</source>
         <translation>Odwróć pionowo (widoczne)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="186"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="184"/>
         <source>Flip Horizontally (Visible)</source>
         <translation>Odwróć poziomo (widoczne)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="191"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="189"/>
         <source>%1 Connections</source>
         <translation>%1 połączenia</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="196"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="194"/>
         <source>Disconnect &quot;%1&quot;</source>
         <translation>Rozłącz „%1”</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="427"/>
+        <location filename="../../src/gui/clips/AutomationClipView.cpp" line="425"/>
         <source>Model is already connected to this clip.</source>
         <translation>Model jest już podłączony do tego klipu.</translation>
     </message>
@@ -9609,22 +9609,22 @@ Upewnij się, że masz uprawnienia do odczytu do pliku i katalogu zawierającego
 <context>
     <name>lmms::gui::AutomationEditor</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="353"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="351"/>
         <source>Edit Value</source>
         <translation>Edytuj wartość</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="355"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="353"/>
         <source>New outValue</source>
         <translation>Nowa wartość wyjściowa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="356"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="354"/>
         <source>New inValue</source>
         <translation>Nowa wartość wejściowa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1396"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1394"/>
         <source>Please open an automation clip by double-clicking on it!</source>
         <translation>Otwórz klip automatyzacji, klikając na niego dwukrotnie myszką!</translation>
     </message>
@@ -9632,124 +9632,124 @@ Upewnij się, że masz uprawnienia do odczytu do pliku i katalogu zawierającego
 <context>
     <name>lmms::gui::AutomationEditorWindow</name>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2034"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2032"/>
         <source>Play/pause current clip (Space)</source>
         <translation>Odtwarzaj/wstrzymaj bieżący klip (Spacja)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2036"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2034"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>Zatrzymaj odtwarzanie bieżącego klipu (Spacja)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2039"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2037"/>
         <source>Edit actions</source>
         <translation>Edytuj czynności</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2042"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2040"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Tryb rysowania (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2046"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2044"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Tryb wymazywania (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2049"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2047"/>
         <source>Draw outValues mode (Shift+C)</source>
         <translation>Tryb rysowania wartości wyjściowych (Shift+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2052"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2050"/>
         <source>Edit tangents mode (Shift+T)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2056"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2054"/>
         <source>Flip vertically</source>
         <translation>Odwróć pionowo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2057"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2055"/>
         <source>Flip horizontally</source>
         <translation>Odwróć poziomo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2069"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2067"/>
         <source>Interpolation controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2074"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2072"/>
         <source>Discrete progression</source>
         <translation>Progresja oddzielna</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2078"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2076"/>
         <source>Linear progression</source>
         <translation>Progresja liniowa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2080"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2078"/>
         <source>Cubic Hermite progression</source>
         <translation>Progresja sześcienna Hermite’a</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2087"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2085"/>
         <source>Tension value for spline</source>
         <translation>Wartość napięcia dla krzywej składanej</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2096"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2094"/>
         <source>Tension: </source>
         <translation>Napięcie:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2104"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2102"/>
         <source>Zoom controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2111"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2109"/>
         <source>Horizontal zooming</source>
         <translation>Powiększanie poziome</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2129"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2127"/>
         <source>Vertical zooming</source>
         <translation>Powiększanie pionowe</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2150"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2148"/>
         <source>Quantization controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2157"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2155"/>
         <source>Quantization</source>
         <translation>Kwantyzacja</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2166"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2164"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2198"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2314"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2196"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2312"/>
         <source>Automation Editor - no clip</source>
         <translation>Edytor automatyki - brak klipu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2202"/>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2318"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2200"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2316"/>
         <source>Automation Editor - %1</source>
         <translation>Edytor automatyki - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2255"/>
+        <location filename="../../src/gui/editors/AutomationEditor.cpp" line="2253"/>
         <source>Model is already connected to this clip.</source>
         <translation>Model jest już podłączony do tego klipu.</translation>
     </message>
@@ -9954,27 +9954,27 @@ Upewnij się, że masz uprawnienia do odczytu do pliku i katalogu zawierającego
 <context>
     <name>lmms::gui::CPULoadWidget</name>
     <message>
-        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="103"/>
+        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="102"/>
         <source>DSP total: %1%</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="104"/>
+        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="103"/>
         <source> - Notes and setup: %1%</source>
         <translation> - Nuty i konfiguracja: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="105"/>
+        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="104"/>
         <source> - Instruments: %1%</source>
         <translation> - Instrumenty: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="106"/>
+        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="105"/>
         <source> - Effects: %1%</source>
         <translation> - Efekty: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="107"/>
+        <location filename="../../src/gui/widgets/CPULoadWidget.cpp" line="106"/>
         <source> - Mixing: %1%</source>
         <translation> - Miksowanie: %1%</translation>
     </message>
@@ -10028,103 +10028,103 @@ Upewnij się, że masz uprawnienia do odczytu do pliku i katalogu zawierającego
 <context>
     <name>lmms::gui::ClipView</name>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="700"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="699"/>
         <source>Current position</source>
         <translation>Bieżąca pozycja</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="708"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="707"/>
         <source>Current length</source>
         <translation>Bieżąca długość</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="709"/>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="974"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="708"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="973"/>
         <source>%1:%2 (%3:%4 to %5:%6)</source>
         <translation>%1:%2 (%3:%4 do %5:%6)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="728"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="727"/>
         <source>Press &lt;%1&gt; and drag to make a copy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="729"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="728"/>
         <source>Press &lt;%1&gt; for free resizing.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="730"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="729"/>
         <source>Hint</source>
         <translation>Podpowiedź</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1073"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1072"/>
         <source>Delete (middle mousebutton)</source>
         <translation>Usuń (środkowy przycisk myszki)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1074"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1073"/>
         <source>Delete selection (middle mousebutton)</source>
         <translation>Usuń zaznaczone (środkowy przycisk myszki)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1082"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1081"/>
         <source>Cut</source>
         <translation>Wytnij</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1083"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1082"/>
         <source>Cut selection</source>
         <translation>Wytnij zaznaczenie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1090"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1089"/>
         <source>Merge Selection</source>
         <translation>Połącz zaznaczenie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1099"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1098"/>
         <source>Copy</source>
         <translation>Kopiuj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1100"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1099"/>
         <source>Copy selection</source>
         <translation>Kopiuj zaznaczenie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1105"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1104"/>
         <source>Paste</source>
         <translation>Wklej</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1113"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1112"/>
         <source>Mute/unmute (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1114"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1113"/>
         <source>Mute/unmute selection (&lt;%1&gt; + middle click)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1119"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1118"/>
         <source>Clip color</source>
         <translation>Kolor klipu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1121"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1120"/>
         <source>Change</source>
         <translation>Zmień</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1122"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1121"/>
         <source>Reset</source>
         <translation>Resetuj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/clips/ClipView.cpp" line="1123"/>
+        <location filename="../../src/gui/clips/ClipView.cpp" line="1122"/>
         <source>Pick random</source>
         <translation>Wybierz losowe</translation>
     </message>
@@ -10132,354 +10132,354 @@ Upewnij się, że masz uprawnienia do odczytu do pliku i katalogu zawierającego
 <context>
     <name>lmms::gui::CompressorControlDialog</name>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="88"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="87"/>
         <source>Threshold:</source>
         <translation>Próg:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="90"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="89"/>
         <source>Volume at which the compression begins to take place</source>
         <translation>Głośność, przy której rozpoczyna się kompresja</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="93"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="92"/>
         <source>Ratio:</source>
         <translation>Współczynnik:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="95"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="94"/>
         <source>How far the compressor must turn the volume down after crossing the threshold</source>
         <translation>O ile kompresor musi zmniejszyć głośność po przekroczeniu progu</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="98"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="97"/>
         <source>Attack:</source>
         <translation>Narastanie:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="100"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="99"/>
         <source>Speed at which the compressor starts to compress the audio</source>
         <translation>Prędkość, z jaką kompresor rozpoczyna kompresować dźwięk</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="103"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="102"/>
         <source>Release:</source>
         <translation>Opadanie:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="105"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="104"/>
         <source>Speed at which the compressor ceases to compress the audio</source>
         <translation>Prędkość, z jaką kompresor przestaje kompresować dźwięk</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="108"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="107"/>
         <source>Knee:</source>
         <translation>Czułość:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="110"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="109"/>
         <source>Smooth out the gain reduction curve around the threshold</source>
         <translation>Wygładzanie krzywej redukcji wzmocnienia wokół progu</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="113"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="112"/>
         <source>Range:</source>
         <translation>Zakres:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="115"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="114"/>
         <source>Maximum gain reduction</source>
         <translation>Maksymalna redukcja wzmocnienia</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="118"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="117"/>
         <source>Lookahead Length:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="120"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="119"/>
         <source>How long the compressor has to react to the sidechain signal ahead of time</source>
         <translation>Jak długo kompresor musi zareagować na sygnał łańcucha bocznego z wyprzedzeniem</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="123"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="122"/>
         <source>Hold:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="125"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="124"/>
         <source>Delay between attack and release stages</source>
         <translation>Opóźnienie między etapami narastania i opadania</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="128"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="127"/>
         <source>RMS Size:</source>
         <translation>Rozmiar RMS:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="130"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="129"/>
         <source>Size of the RMS buffer</source>
         <translation>Rozmiar bufora RMS</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="133"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="132"/>
         <source>Input Balance:</source>
         <translation>Równowaga wejścia:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="135"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="134"/>
         <source>Bias the input audio to the left/right or mid/side</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="138"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="137"/>
         <source>Output Balance:</source>
         <translation>Równowaga wyjścia:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="140"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="139"/>
         <source>Bias the output audio to the left/right or mid/side</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="143"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="142"/>
         <source>Stereo Balance:</source>
         <translation>Równowaga stereo:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="145"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="144"/>
         <source>Bias the sidechain signal to the left/right or mid/side</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="148"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="147"/>
         <source>Stereo Link Blend:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="150"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="149"/>
         <source>Blend between unlinked/maximum/average/minimum stereo linking modes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="153"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="152"/>
         <source>Tilt Gain:</source>
         <translation>Wzmocnienie nachylenia:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="155"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="154"/>
         <source>Bias the sidechain signal to the low or high frequencies.  -6 db is lowpass, 6 db is highpass.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="158"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="157"/>
         <source>Tilt Frequency:</source>
         <translation>Częstotliwość nachylenia:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="160"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="159"/>
         <source>Center frequency of sidechain tilt filter</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="163"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="162"/>
         <source>Mix:</source>
         <translation>Miks:</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="165"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="164"/>
         <source>Balance between wet and dry signals</source>
         <translation>Równowaga między sygnałami mokrymi i suchymi</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="168"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="167"/>
         <source>Auto Attack:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="170"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="169"/>
         <source>Automatically control attack value depending on crest factor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="173"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="172"/>
         <source>Auto Release:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="175"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="174"/>
         <source>Automatically control release value depending on crest factor</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="177"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="176"/>
         <source>Output gain</source>
         <translation>Wzmocnienie wyjścia</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="180"/>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="186"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="179"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="185"/>
         <source>Gain</source>
         <translation>Wzmocnienie</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="181"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="180"/>
         <source>Output volume</source>
         <translation>Głośność wyjściowa</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="183"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="182"/>
         <source>Input gain</source>
         <translation>Wzmocnienie wejścia</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="187"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="186"/>
         <source>Input volume</source>
         <translation>Głośność wejściowa</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="189"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="188"/>
         <source>Root Mean Square</source>
         <translation>Średnia kwadratowa</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="192"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="191"/>
         <source>Use RMS of the input</source>
         <translation>Użyj RMS wejścia</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="194"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="193"/>
         <source>Peak</source>
         <translation>Szczyt</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="197"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="196"/>
         <source>Use absolute value of the input</source>
         <translation>Użyj wartości bezwzględnej wejścia</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="204"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="203"/>
         <source>Left/Right</source>
         <translation>Lewy/prawy</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="207"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="206"/>
         <source>Compress left and right audio</source>
         <translation>Kompresuj lewy i prawy</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="209"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="208"/>
         <source>Mid/Side</source>
         <translation>Śr./b.</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="212"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="211"/>
         <source>Compress mid and side audio</source>
         <translation>Kompresuj środkowy i boczny</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="219"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="218"/>
         <source>Compressor</source>
         <translation>Kompresor</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="222"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="221"/>
         <source>Compress the audio</source>
         <translation>Kompresuj dźwięk</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="224"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="223"/>
         <source>Limiter</source>
         <translation>Limiter</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="227"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="226"/>
         <source>Set Ratio to infinity (is not guaranteed to limit audio volume)</source>
         <translation>Ustaw współczynnik na nieskończoność (nie ma gwarancji ograniczenia głośności dźwięku)</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="234"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="233"/>
         <source>Unlinked</source>
         <translation>Niepołączone</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="237"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="236"/>
         <source>Compress each channel separately</source>
         <translation>Kompresuj każdy kanał oddzielnie</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="239"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="238"/>
         <source>Maximum</source>
         <translation>Maksimum</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="242"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="241"/>
         <source>Compress based on the loudest channel</source>
         <translation>Kompresuj w oparciu o najgłośniejszy kanał</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="244"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="243"/>
         <source>Average</source>
         <translation>Średnie</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="247"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="246"/>
         <source>Compress based on the averaged channel volume</source>
         <translation>Kompresuj w oparciu o średniej głośności kanał</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="249"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="248"/>
         <source>Minimum</source>
         <translation>Minimum</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="252"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="251"/>
         <source>Compress based on the quietest channel</source>
         <translation>Kompresuj w oparciu o najcichszy kanał</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="254"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="253"/>
         <source>Blend</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="257"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="256"/>
         <source>Blend between stereo linking modes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="267"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="266"/>
         <source>Auto Makeup Gain</source>
         <translation>Autoupiększanie wzmocnienia</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="270"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="269"/>
         <source>Automatically change makeup gain depending on threshold, knee, and ratio settings</source>
         <translation>Automatyczna zmiana upiększania wzmocnienia w zależności od ustawień progu, czułości i współczynnika</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="274"/>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="281"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="273"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="280"/>
         <source>Soft Clip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="277"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="276"/>
         <source>Play the delta signal</source>
         <translation>Odtwrzaj sygnał delta</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="284"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="283"/>
         <source>Use the compressor&apos;s output as the sidechain input</source>
         <translation>Użyj wyjścia kompresora jako wejścia łańcucha bocznego</translation>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="288"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="287"/>
         <source>Lookahead Enabled</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="291"/>
+        <location filename="../../plugins/Compressor/CompressorControlDialog.cpp" line="290"/>
         <source>Enable Lookahead, which introduces 20 milliseconds of latency</source>
         <translation type="unfinished"/>
     </message>
@@ -11451,17 +11451,17 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
 <context>
     <name>lmms::gui::Fader</name>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="167"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="166"/>
         <source>Set value</source>
         <translation>Ustaw wartość</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="168"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="167"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Wprowadź nową wartość między %1 a %2:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="252"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="251"/>
         <source>Volume: %1 dBFS</source>
         <translation>Głośność: %1 dBFS</translation>
     </message>
@@ -15397,12 +15397,12 @@ Ostrzeżenie: Tej operacji nie można cofnąć.</translation>
 <context>
     <name>lmms::gui::Oscilloscope</name>
     <message>
-        <location filename="../../src/gui/widgets/Oscilloscope.cpp" line="63"/>
+        <location filename="../../src/gui/widgets/Oscilloscope.cpp" line="62"/>
         <source>Oscilloscope</source>
         <translation>Oscyloskop</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Oscilloscope.cpp" line="207"/>
+        <location filename="../../src/gui/widgets/Oscilloscope.cpp" line="206"/>
         <source>Click to enable</source>
         <translation>Kliknij, aby włączyć</translation>
     </message>
@@ -15668,78 +15668,78 @@ Ostrzeżenie: Tej operacji nie można cofnąć.</translation>
         <translation>Zaznacz wszystkie nuty dla tej tonacji</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="334"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="332"/>
         <source>Note lock</source>
         <translation>Blokada nuty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="344"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="342"/>
         <source>Last note</source>
         <translation>Ostatnia nuta</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="368"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="366"/>
         <source>No key</source>
         <translation>Brak tonacji</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="381"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="379"/>
         <source>No scale</source>
         <translation>Brak skali</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="398"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="396"/>
         <source>No chord</source>
         <translation>Brak akordu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="428"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="426"/>
         <source>Nudge</source>
         <translation>Szturchaj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="429"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="427"/>
         <source>Snap</source>
         <translation>Przyciągaj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="470"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="468"/>
         <source>Velocity: %1%</source>
         <translation>Głośność: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="479"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="477"/>
         <source>Panning: %1% left</source>
         <translation>Panoramowanie: %1% w lewo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="483"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="481"/>
         <source>Panning: %1% right</source>
         <translation>Panoramowanie: %1% w prawo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="487"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="485"/>
         <source>Panning: center</source>
         <translation>Panoramowanie: środek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="655"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="653"/>
         <source>Glue notes failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="656"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="654"/>
         <source>Please select notes to glue first.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3616"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3614"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation>Otwórz klip, klikając na niego dwukrotnie myszką!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4270"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4289"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4268"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4287"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Wprowadź nową wartość między %1 a %2:</translation>
     </message>
@@ -15747,241 +15747,241 @@ Ostrzeżenie: Tej operacji nie można cofnąć.</translation>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4748"/>
         <source>Play/pause current clip (Space)</source>
         <translation>Odtwarzaj/wstrzymaj bieżący klip (Spacja)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4753"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>Zatrzymaj odtwarzanie bieżącego klipu (Spacja)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4756"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
         <source>Edit actions</source>
         <translation>Edytuj czynności</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Tryb rysowania (Shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4761"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Tryb wymazywania (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4762"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
         <source>Select mode (Shift+S)</source>
         <translation>Tryb zaznaczania (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4763"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4761"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Tryb pitchbend (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4778"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4776"/>
         <source>Quantize</source>
         <translation>Kwantyzuj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4779"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4777"/>
         <source>Quantize positions</source>
         <translation>Kwantyzuj pozycje</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4780"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4778"/>
         <source>Quantize lengths</source>
         <translation>Kwantyzuj długości</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4800"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4798"/>
         <source>File actions</source>
         <translation>Czynności pliku</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4808"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4806"/>
         <source>Import clip</source>
         <translation>Importuj klip</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4810"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5267"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4808"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5265"/>
         <source>Export clip</source>
         <translation>Eksportuj klip</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4821"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4819"/>
         <source>Copy paste controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4821"/>
         <source>Cut (%1+X)</source>
         <translation>Wytnij (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
         <source>Copy (%1+C)</source>
         <translation>Kopiuj (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4827"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
         <source>Paste (%1+V)</source>
         <translation>Wklej (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4842"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4840"/>
         <source>Timeline controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4850"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
         <source>Glue</source>
         <translation>Klej</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4854"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4852"/>
         <source>Knife</source>
         <translation>Nóż</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4858"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4856"/>
         <source>Fill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4862"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4860"/>
         <source>Cut overlaps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4866"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4864"/>
         <source>Min length as last</source>
         <translation>Minimalna długość jako ostatnia</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4869"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4867"/>
         <source>Max length as last</source>
         <translation>Maksymalna długość jako ostatnia</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4884"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4882"/>
         <source>Zoom and note controls</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4892"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4890"/>
         <source>Horizontal zooming</source>
         <translation>Powiększanie poziome</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4900"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4898"/>
         <source>Vertical zooming</source>
         <translation>Powiększanie pionowe</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4909"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4907"/>
         <source>Quantization</source>
         <translation>Kwantyzacja</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4918"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4916"/>
         <source>Note length</source>
         <translation>Długość nuty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4924"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4922"/>
         <source>Key</source>
         <translation>Tonacja</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4933"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4931"/>
         <source>Scale</source>
         <translation>Skala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4942"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4940"/>
         <source>Chord</source>
         <translation>Akord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4951"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4949"/>
         <source>Snap mode</source>
         <translation>Tryb przyciągania</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4956"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4954"/>
         <source>Clear ghost notes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5065"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5244"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5063"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5242"/>
         <source>Piano-Roll - %1</source>
         <translation>Edytor pianolowy - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5072"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5249"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5070"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5247"/>
         <source>Piano-Roll - no clip</source>
         <translation>Edytor pianolowy - brak klipu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5268"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5315"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5266"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5313"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation>Plik XML klipu (*.xpt *.xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5288"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5286"/>
         <source>Export clip success</source>
         <translation>Eksportowanie klipu zakończone pomyślnie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5289"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5287"/>
         <source>Clip saved to %1</source>
         <translation>Klip zapisany do %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5304"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5302"/>
         <source>Import clip.</source>
         <translation>Importuj klip</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5305"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5303"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation>Zamierzasz zaimportować klip. To zastąpi Twój bieżący klip. Chcesz kontynuować?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5314"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5312"/>
         <source>Open clip</source>
         <translation>Otwórz klip</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5334"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5332"/>
         <source>Import clip success</source>
         <translation>Importowanie klipu zakończone pomyślnie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5335"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5333"/>
         <source>Imported clip %1!</source>
         <translation>Zaimportowano klip %1!</translation>
     </message>
@@ -15989,17 +15989,17 @@ Ostrzeżenie: Tej operacji nie można cofnąć.</translation>
 <context>
     <name>lmms::gui::PianoView</name>
     <message>
-        <location filename="../../src/gui/instrument/PianoView.cpp" line="782"/>
+        <location filename="../../src/gui/instrument/PianoView.cpp" line="781"/>
         <source>Base note</source>
         <translation>Nuta bazowa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/PianoView.cpp" line="787"/>
+        <location filename="../../src/gui/instrument/PianoView.cpp" line="786"/>
         <source>First note</source>
         <translation>Pierwsza nuta</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/PianoView.cpp" line="792"/>
+        <location filename="../../src/gui/instrument/PianoView.cpp" line="791"/>
         <source>Last note</source>
         <translation>Ostatnia nuta</translation>
     </message>
@@ -17285,92 +17285,92 @@ Opóźnienie: %2 ms</translation>
 <context>
     <name>lmms::gui::SongEditor</name>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="165"/>
+        <location filename="../../src/core/DataFile.cpp" line="166"/>
         <source>Could not open file</source>
         <translation>Nie można otworzyć pliku</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="166"/>
+        <location filename="../../src/core/DataFile.cpp" line="167"/>
         <source>Could not open file %1. You probably have no permissions to read this file.
  Please make sure to have at least read permissions to the file and try again.</source>
         <translation>Nie można otworzyć pliku %1. Prawdopodobnie nie masz uprawnień do odczytu tego pliku.
 Upewnij się, że masz przynajmniej uprawnienia do odczytu pliku i spróbuj ponownie.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="355"/>
+        <location filename="../../src/core/DataFile.cpp" line="356"/>
         <source>Operation denied</source>
         <translation>Operacja odrzucona</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="356"/>
+        <location filename="../../src/core/DataFile.cpp" line="357"/>
         <source>A bundle folder with that name already exists on the selected path. Can&apos;t overwrite a project bundle. Please select a different name.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="366"/>
-        <location filename="../../src/core/DataFile.cpp" line="374"/>
-        <location filename="../../src/core/DataFile.cpp" line="382"/>
+        <location filename="../../src/core/DataFile.cpp" line="367"/>
+        <location filename="../../src/core/DataFile.cpp" line="375"/>
+        <location filename="../../src/core/DataFile.cpp" line="383"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="367"/>
+        <location filename="../../src/core/DataFile.cpp" line="368"/>
         <source>Couldn&apos;t create bundle folder.</source>
         <translation>Nie można utworzyć folderu pakietu.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="375"/>
+        <location filename="../../src/core/DataFile.cpp" line="376"/>
         <source>Couldn&apos;t create resources folder.</source>
         <translation>Nie można utworzyć folderu zasobów.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="383"/>
+        <location filename="../../src/core/DataFile.cpp" line="384"/>
         <source>Failed to copy resources.</source>
         <translation>Nie można skopiować zasobów.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="392"/>
-        <location filename="../../src/core/DataFile.cpp" line="416"/>
+        <location filename="../../src/core/DataFile.cpp" line="393"/>
+        <location filename="../../src/core/DataFile.cpp" line="417"/>
         <source>Could not write file</source>
         <translation>Nie można zapisać pliku.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="393"/>
+        <location filename="../../src/core/DataFile.cpp" line="394"/>
         <source>Could not open %1 for writing. You probably are not permitted to write to this file. Please make sure you have write-access to the file and try again.</source>
         <translation>Nie można otworzyć %1 do zapisu. Prawdopodobnie nie masz uprawnień do zapisu do tego pliku. Upewnij się, że masz uprawnienia do zapisu do pliku i spróbuj ponownie.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="417"/>
+        <location filename="../../src/core/DataFile.cpp" line="418"/>
         <source>An unknown error has occurred and the file could not be saved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2095"/>
+        <location filename="../../src/core/DataFile.cpp" line="2141"/>
         <source>Error in file</source>
         <translation>Błąd w pliku</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2096"/>
+        <location filename="../../src/core/DataFile.cpp" line="2142"/>
         <source>The file %1 seems to contain errors and therefore can&apos;t be loaded.</source>
         <translation>Wygląda na to, że plik %1 zawiera błędy i nie może zostać załadowany.</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2136"/>
+        <location filename="../../src/core/DataFile.cpp" line="2182"/>
         <source>template</source>
         <translation>szablon</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2136"/>
+        <location filename="../../src/core/DataFile.cpp" line="2182"/>
         <source>project</source>
         <translation>projekt</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2139"/>
+        <location filename="../../src/core/DataFile.cpp" line="2185"/>
         <source>Version difference</source>
         <translation>Różnica wersji</translation>
     </message>
     <message>
-        <location filename="../../src/core/DataFile.cpp" line="2140"/>
+        <location filename="../../src/core/DataFile.cpp" line="2186"/>
         <source>This %1 was created with LMMS %2</source>
         <translation>%1 został utworzony w LMMS %2.</translation>
     </message>
@@ -17937,82 +17937,82 @@ Upewnij się, że masz przynajmniej uprawnienia do odczytu pliku i spróbuj pono
 <context>
     <name>lmms::gui::TimeLineWidget</name>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="92"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="91"/>
         <source>Auto scrolling</source>
         <translation>Autoprzewijanie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="93"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="92"/>
         <source>Stepped auto scrolling</source>
         <translation>Autoprzewijanie stopniowe</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="94"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="93"/>
         <source>Continuous auto scrolling</source>
         <translation>Autoprzewijanie ciągłe</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="95"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="94"/>
         <source>Auto scrolling disabled</source>
         <translation>Autoprzewijanie wyłączone</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="100"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="99"/>
         <source>Loop points</source>
         <translation>Znaczniki zapętlania</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="110"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="109"/>
         <source>After stopping go back to beginning</source>
         <translation>Po zatrzymaniu wróć do początku</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="113"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="112"/>
         <source>After stopping go back to position at which playing was started</source>
         <translation>Po zatrzymaniu wróć do pozycji, z której rozpoczęto odtwarzanie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="117"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="116"/>
         <source>After stopping keep position</source>
         <translation>Po zatrzymaniu zapamiętaj pozycję</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="319"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="318"/>
         <source>Hint</source>
         <translation>Podpowiedź</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="320"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="319"/>
         <source>Press &lt;%1&gt; to disable magnetic loop points.</source>
         <translation>Naciśnij &lt;%1&gt;, aby wyłączyć punkty pętli magnetycznej.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="424"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="423"/>
         <source>Set loop begin here</source>
         <translation>Ustaw początek pętli tutaj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="432"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="431"/>
         <source>Set loop end here</source>
         <translation>Ustaw koniec pętli tutaj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="443"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="442"/>
         <source>Loop edit mode (hold shift)</source>
         <translation>Tryb edycji pętli (przytrzymaj Shift)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="452"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="451"/>
         <source>Dual-button</source>
         <translation>Podwójny przycisk</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="453"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="452"/>
         <source>Grab closest</source>
         <translation>Złap najbliższy</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="454"/>
+        <location filename="../../src/gui/editors/TimeLineWidget.cpp" line="453"/>
         <source>Handles</source>
         <translation>Uchwyty</translation>
     </message>
