@@ -1770,22 +1770,6 @@
         <target>Note: 32 bit nightly builds no longer available.</target>
         
       </trans-unit>
-      <trans-unit id="pliNGgu" resname="Run the following command to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running:">
-        <source>Run the following command to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running:</source>
-        
-      </trans-unit>
-      <trans-unit id="Wv2POvn" resname="Click one of the buttons below to download LMMS for Windows">
-        <source>Click one of the buttons below to download LMMS for Windows</source>
-        
-      </trans-unit>
-      <trans-unit id="Eo65RyS" resname="Run the following command to mark the application as safe before running:">
-        <source>Run the following command to mark the application as safe before running:</source>
-        
-      </trans-unit>
-      <trans-unit id="TL7Dj39" resname="Pull Request">
-        <source>Pull Request</source>
-        
-      </trans-unit>
       <trans-unit id="O7M80Zp" resname="The Best of LMMS vol. X">
         <source>The Best of LMMS vol. X</source>
         
@@ -1836,6 +1820,22 @@
 			 - The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.
 
 			**Note: Entries are approved to appear on the submission list by hand, so if you don't see yours, sit tight! It might take a while.**</source>
+        
+      </trans-unit>
+      <trans-unit id="pliNGgu" resname="Run the following command to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running:">
+        <source>Run the following command to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running:</source>
+        
+      </trans-unit>
+      <trans-unit id="Wv2POvn" resname="Click one of the buttons below to download LMMS for Windows">
+        <source>Click one of the buttons below to download LMMS for Windows</source>
+        
+      </trans-unit>
+      <trans-unit id="Eo65RyS" resname="Run the following command to mark the application as safe before running:">
+        <source>Run the following command to mark the application as safe before running:</source>
+        
+      </trans-unit>
+      <trans-unit id="TL7Dj39" resname="Pull Request">
+        <source>Pull Request</source>
         
       </trans-unit>
     </body>

@@ -6442,67 +6442,67 @@ Nazwa wtyczki
     <name>lmms::InstrumentTrack</name>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="52"/>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="64"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="63"/>
         <source>unnamed_track</source>
         <translation>nienazwana_ścieżka</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="58"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="57"/>
         <source>Base note</source>
         <translation>Nuta bazowa</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="59"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="58"/>
         <source>First note</source>
         <translation>Pierwsza nuta</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="60"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="59"/>
         <source>Last note</source>
         <translation>Ostatnia nuta</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="62"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="61"/>
         <source>Volume</source>
         <translation>Głośność</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="63"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="62"/>
         <source>Panning</source>
         <translation>Panoramowanie</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="65"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="64"/>
         <source>Pitch</source>
         <translation>Odstrojenie</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="66"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="65"/>
         <source>Pitch range</source>
         <translation>Zakres odstrojenia</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="67"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="66"/>
         <source>Mixer channel</source>
         <translation>Kanał miksera</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="68"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="67"/>
         <source>Master pitch</source>
         <translation>Odstrojenie główne</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="94"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="93"/>
         <source>Enable/Disable MIDI CC</source>
         <translation>Włącz/wyłącz MIDI CC</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="101"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="100"/>
         <source>CC Controller %1</source>
         <translation>Kontroler CC %1</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="107"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="106"/>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="341"/>
         <source>Default preset</source>
         <translation>Preset domyślny</translation>
@@ -7282,29 +7282,29 @@ Nazwa wtyczki
 <context>
     <name>lmms::Mixer</name>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="718"/>
+        <location filename="../../src/core/Mixer.cpp" line="765"/>
         <source>Master</source>
         <translation>Master</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="718"/>
-        <location filename="../../src/core/Mixer.cpp" line="840"/>
-        <location filename="../../src/core/Mixer.cpp" line="842"/>
+        <location filename="../../src/core/Mixer.cpp" line="765"/>
+        <location filename="../../src/core/Mixer.cpp" line="887"/>
+        <location filename="../../src/core/Mixer.cpp" line="889"/>
         <source>Channel %1</source>
         <translation>Kanał %1</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="719"/>
+        <location filename="../../src/core/Mixer.cpp" line="766"/>
         <source>Volume</source>
         <translation>Głośność</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="720"/>
+        <location filename="../../src/core/Mixer.cpp" line="767"/>
         <source>Mute</source>
         <translation>Cisza</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="721"/>
+        <location filename="../../src/core/Mixer.cpp" line="768"/>
         <source>Solo</source>
         <translation>Solo</translation>
     </message>
@@ -11140,118 +11140,118 @@ Upewnij się, że masz uprawnienia do odczytu do pliku i katalogu zawierającego
 <context>
     <name>lmms::gui::EnvelopeAndLfoView</name>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="89"/>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="175"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="91"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="178"/>
         <source>AMT</source>
         <translation>WAR</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="89"/>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="175"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="91"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="178"/>
         <source>Modulation amount:</source>
         <translation>Wartość modulacji:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="95"/>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="164"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="97"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="167"/>
         <source>DEL</source>
         <translation>DEL</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="95"/>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="164"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="97"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="167"/>
         <source>Pre-delay:</source>
         <translation>Opóźnienie wstępne:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="98"/>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="167"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="100"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="170"/>
         <source>ATT</source>
         <translation>NAR</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="98"/>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="167"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="100"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="170"/>
         <source>Attack:</source>
         <translation>Narastanie:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="101"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="103"/>
         <source>HOLD</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="101"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="103"/>
         <source>Hold:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="104"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="106"/>
         <source>DEC</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="104"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="106"/>
         <source>Decay:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="107"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="109"/>
         <source>SUST</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="107"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="109"/>
         <source>Sustain:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="110"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="112"/>
         <source>REL</source>
         <translation>OPA</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="110"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="112"/>
         <source>Release:</source>
         <translation>Opadanie:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="171"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="174"/>
         <source>SPD</source>
         <translation>SPD</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="172"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="175"/>
         <source>Frequency:</source>
         <translation>Częstotliwość:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="181"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="184"/>
         <source>FREQ x 100</source>
         <translation>CZĘST. x 100</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="182"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="185"/>
         <source>Multiply LFO frequency by 100</source>
         <translation>Pomnóż częstotliwość LFO przez 100</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="185"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="188"/>
         <source>MOD ENV AMOUNT</source>
         <translation>MODULUJ WARTOŚĆ OBWIEDNI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="186"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="189"/>
         <source>Control envelope amount by this LFO</source>
         <translation>Kontroluj wartość obwiedni przez ten LFO</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="274"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="277"/>
         <source>Hint</source>
         <translation>Podpowiedź</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="275"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="278"/>
         <source>Drag and drop a sample into this window.</source>
         <translation>Przeciągnij i upuść próbkę do tego okna.</translation>
     </message>
@@ -11451,50 +11451,57 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
 <context>
     <name>lmms::gui::Fader</name>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="166"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="136"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="151"/>
         <source>Set value</source>
         <translation>Ustaw wartość</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="167"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="137"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="152"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Wprowadź nową wartość między %1 a %2:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="251"/>
-        <source>Volume: %1 dBFS</source>
-        <translation>Głośność: %1 dBFS</translation>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="517"/>
+        <source>Volume: %1 dB</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="523"/>
+        <source>-inf</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>lmms::gui::FileBrowser</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="94"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="93"/>
         <source>Browser</source>
         <translation>Przeglądarka</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="106"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="105"/>
         <source>Search</source>
         <translation>Szukaj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="113"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="112"/>
         <source>Refresh list</source>
         <translation>Odśwież listę</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="177"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="176"/>
         <source>User content</source>
         <translation>Zawartość użytkownika</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="182"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="181"/>
         <source>Factory content</source>
         <translation>Zawartość fabryczna</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="186"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="185"/>
         <source>Hidden content</source>
         <translation>Zawartość ukryta</translation>
     </message>
@@ -11502,67 +11509,87 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
 <context>
     <name>lmms::gui::FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="638"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="629"/>
+        <source>Finder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="631"/>
+        <source>Explorer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="633"/>
+        <source>file manager</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="649"/>
         <source>Send to active instrument-track</source>
         <translation>Wyślij do aktywnej ścieżki instrumentu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="646"/>
-        <source>Open containing folder</source>
-        <translation>Otwórz folder zawierający</translation>
+        <location filename="../../src/gui/FileBrowser.cpp" line="653"/>
+        <source>Show in %1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="650"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="656"/>
         <source>Song Editor</source>
         <translation>Edytor utworu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="655"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="661"/>
         <source>Pattern Editor</source>
         <translation>Edytor szablonów</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="674"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="669"/>
+        <source>Open in %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="686"/>
         <source>Send to new AudioFileProcessor instance</source>
         <translation>Wyślij do nowej instancji AudioFileProcessorze</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="675"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="687"/>
         <source>Send to new instrument track</source>
         <translation>Wyślij do nowej ścieżki instrumentu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="678"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="690"/>
         <source> (%2Enter)</source>
         <translation> (%2Enter)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="685"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="697"/>
         <source>Send to new sample track (Shift + Enter)</source>
         <translation>Wyślij do nowej ścieżki próbek (Shift+Enter)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="742"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="754"/>
         <source>Loading sample</source>
         <translation>Ładowanie próbki</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="743"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="755"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>Czekaj. Ładowanie próbki do podglądu...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="773"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="785"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="774"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="786"/>
         <source>%1 does not appear to be a valid %2 file</source>
         <translation>%1 nie wydaje się być prawidłowym plikiem %2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="1079"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="1075"/>
         <source>--- Factory files ---</source>
         <translation>--- Pliki fabryczne ---</translation>
     </message>
@@ -11666,18 +11693,18 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
         <translation>Ustaw logarytmicznie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="397"/>
-        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="414"/>
+        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="385"/>
+        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="402"/>
         <source>Set value</source>
         <translation>Ustaw wartość</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="398"/>
+        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="386"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation>Wprowadź nową wartość między -96.0 dBFS a 6.0 dBFS:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="415"/>
+        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="403"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Wprowadź nową wartość między %1 a %2:</translation>
     </message>
@@ -14022,83 +14049,78 @@ Odwiedź http://lmms.sf.net/wiki w celu uzyskania dokumentacji na temat LMMS.</t
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1102"/>
-        <source>Volume as dBFS</source>
-        <translation>Głośność jako dBFS</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1108"/>
         <source>Smooth scroll</source>
         <translation>Płynne przewijanie</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1122"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1116"/>
         <source>Enable note labels in piano roll</source>
         <translation>Włącz etykiety nut w edytorze pianolowym</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1412"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1401"/>
         <source>MIDI File (*.mid)</source>
         <translation>Plik MIDI (*.mid)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1424"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1481"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1413"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1470"/>
         <source>untitled</source>
         <translation>bez nazwy</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1428"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1484"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1417"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1473"/>
         <source>Select file for project-export...</source>
         <translation>Wybierz plik do eksportu projektu...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1453"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1442"/>
         <source>Select directory for writing exported tracks...</source>
         <translation>Wybierz katalog do zapisu eksportowanych ścieżek...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1515"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1504"/>
         <source>Save project</source>
         <translation>Zapisz projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1532"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1521"/>
         <source>Project saved</source>
         <translation>Projekt został zapisany</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1532"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1521"/>
         <source>The project %1 is now saved.</source>
         <translation>Projekt %1 został zapisany.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1539"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1528"/>
         <source>Project NOT saved.</source>
         <translation>Projekt NIE został zapisany.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1539"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1528"/>
         <source>The project %1 was not saved!</source>
         <translation>Projekt %1 nie został zapisany!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1578"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1567"/>
         <source>Import file</source>
         <translation>Importuj plik</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1580"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1569"/>
         <source>MIDI sequences</source>
         <translation>Sekwencje MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1582"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1571"/>
         <source>Hydrogen projects</source>
         <translation>Projekty Hydrogen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1584"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1573"/>
         <source>All file types</source>
         <translation>Wszystkie typy plików</translation>
     </message>
@@ -16621,23 +16643,23 @@ Ostrzeżenie: Tej operacji nie można cofnąć.</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="234"/>
-        <source>Display volume as dBFS </source>
-        <translation>Wyświetlaj głośność jako dBFS</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="236"/>
         <source>Enable tooltips</source>
         <translation>Włącz podpowiedzi</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="238"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="236"/>
         <source>Enable master oscilloscope by default</source>
         <translation>Włącz domyślnie oscyloskop główny</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="240"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="238"/>
         <source>Enable all note labels in piano roll</source>
         <translation>Włącz etykiety wszystkich nut w edytorze pianolowym</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="240"/>
+        <source>Show fader ticks</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="242"/>
@@ -16909,79 +16931,79 @@ Ostrzeżenie: Tej operacji nie można cofnąć.</translation>
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1107"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1105"/>
         <source>minutes</source>
         <translation>minuty</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1107"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1105"/>
         <source>minute</source>
         <translation>minuta</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1109"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1107"/>
         <source>Disabled</source>
         <translation>Wyłączono</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1111"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1109"/>
         <source>Autosave interval: %1</source>
         <translation>Częstotliwość autozpisywnia: %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1189"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1187"/>
         <source>The currently selected value is not a power of 2 (32, 64, 128, 256). Some plugins may not be available.</source>
         <translation>Aktualnie wybrana wartość nie jest potęgą 2 (32, 64, 128, 256). Niektóre wtyczki mogą być niedostępne.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1194"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1192"/>
         <source>The currently selected value is less than or equal to 32. Some plugins may not be available.</source>
         <translation>Aktualnie wybrana wartość jest mniejsza lub równa 32. Niektóre wtyczki mogą być niedostępne.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1225"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1223"/>
         <source>Frames: %1
 Latency: %2 ms</source>
         <translation>Ramki: %1
 Opóźnienie: %2 ms</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1261"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1259"/>
         <source>Choose the LMMS working directory</source>
         <translation>Wybierz katalog roboczy LMMS</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1278"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1276"/>
         <source>Choose your VST plugins directory</source>
         <translation>Wybierz swój katalog wtyczek VST</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1295"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1293"/>
         <source>Choose your LADSPA plugins directory</source>
         <translation>Wybierz swój katalog wtyczek LADSPA</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1320"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1318"/>
         <source>Choose your SF2 directory</source>
         <translation>Wybierz swój katalog z SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1338"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1336"/>
         <source>Choose your default SF2</source>
         <translation>Wybierz swój domyślny plik SF2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1359"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1357"/>
         <source>Choose your GIG directory</source>
         <translation>Wybierz swój katalog z plikami GIG</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1376"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1374"/>
         <source>Choose your theme directory</source>
         <translation>Wybierz swój katalog motywów</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1410"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1408"/>
         <source>Choose your background picture</source>
         <translation>Wybierz swój obraz tła</translation>
     </message>

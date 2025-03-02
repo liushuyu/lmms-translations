@@ -6431,67 +6431,67 @@ Plugin Name
     <name>lmms::InstrumentTrack</name>
     <message>
         <location filename="../../src/tracks/InstrumentTrack.cpp" line="52"/>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="64"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="63"/>
         <source>unnamed_track</source>
         <translation>이름없는_트랙</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="58"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="57"/>
         <source>Base note</source>
         <translation>기본 노트</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="59"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="58"/>
         <source>First note</source>
         <translation>처음 노트</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="60"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="59"/>
         <source>Last note</source>
         <translation>마지막 노트</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="62"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="61"/>
         <source>Volume</source>
         <translation>볼륨</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="63"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="62"/>
         <source>Panning</source>
         <translation>패닝</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="65"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="64"/>
         <source>Pitch</source>
         <translation>피치</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="66"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="65"/>
         <source>Pitch range</source>
         <translation>피치 범위</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="67"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="66"/>
         <source>Mixer channel</source>
         <translation>믹서 채널</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="68"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="67"/>
         <source>Master pitch</source>
         <translation>마스터 피치</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="94"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="93"/>
         <source>Enable/Disable MIDI CC</source>
         <translation>MIDI CC 활성화/비활성화</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="101"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="100"/>
         <source>CC Controller %1</source>
         <translation>CC 컨트롤러 %1</translation>
     </message>
     <message>
-        <location filename="../../src/tracks/InstrumentTrack.cpp" line="107"/>
+        <location filename="../../src/tracks/InstrumentTrack.cpp" line="106"/>
         <location filename="../../plugins/Vestige/Vestige.cpp" line="341"/>
         <source>Default preset</source>
         <translation>기본 프리셋</translation>
@@ -7271,29 +7271,29 @@ Plugin Name
 <context>
     <name>lmms::Mixer</name>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="718"/>
+        <location filename="../../src/core/Mixer.cpp" line="765"/>
         <source>Master</source>
         <translation>마스터</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="718"/>
-        <location filename="../../src/core/Mixer.cpp" line="840"/>
-        <location filename="../../src/core/Mixer.cpp" line="842"/>
+        <location filename="../../src/core/Mixer.cpp" line="765"/>
+        <location filename="../../src/core/Mixer.cpp" line="887"/>
+        <location filename="../../src/core/Mixer.cpp" line="889"/>
         <source>Channel %1</source>
         <translation>채널 %1</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="719"/>
+        <location filename="../../src/core/Mixer.cpp" line="766"/>
         <source>Volume</source>
         <translation>볼륨</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="720"/>
+        <location filename="../../src/core/Mixer.cpp" line="767"/>
         <source>Mute</source>
         <translation>음소거</translation>
     </message>
     <message>
-        <location filename="../../src/core/Mixer.cpp" line="721"/>
+        <location filename="../../src/core/Mixer.cpp" line="768"/>
         <source>Solo</source>
         <translation>솔로 연주</translation>
     </message>
@@ -11129,118 +11129,118 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::gui::EnvelopeAndLfoView</name>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="89"/>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="175"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="91"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="178"/>
         <source>AMT</source>
         <translation>AMT</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="89"/>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="175"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="91"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="178"/>
         <source>Modulation amount:</source>
         <translation>모듈레이션 양:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="95"/>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="164"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="97"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="167"/>
         <source>DEL</source>
         <translation>DEL</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="95"/>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="164"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="97"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="167"/>
         <source>Pre-delay:</source>
         <translation>프리-딜레이:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="98"/>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="167"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="100"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="170"/>
         <source>ATT</source>
         <translation>ATT</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="98"/>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="167"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="100"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="170"/>
         <source>Attack:</source>
         <translation>어택:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="101"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="103"/>
         <source>HOLD</source>
         <translation>HOLD</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="101"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="103"/>
         <source>Hold:</source>
         <translation>홀드:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="104"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="106"/>
         <source>DEC</source>
         <translation>DEC</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="104"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="106"/>
         <source>Decay:</source>
         <translation>디케이:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="107"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="109"/>
         <source>SUST</source>
         <translation>SUST</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="107"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="109"/>
         <source>Sustain:</source>
         <translation>서스테인:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="110"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="112"/>
         <source>REL</source>
         <translation>REL</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="110"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="112"/>
         <source>Release:</source>
         <translation>릴리즈:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="171"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="174"/>
         <source>SPD</source>
         <translation>SPD</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="172"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="175"/>
         <source>Frequency:</source>
         <translation>주파수:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="181"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="184"/>
         <source>FREQ x 100</source>
         <translation>FREQ x 100</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="182"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="185"/>
         <source>Multiply LFO frequency by 100</source>
         <translation>LFO 주파수를 100으로 곱합니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="185"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="188"/>
         <source>MOD ENV AMOUNT</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="186"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="189"/>
         <source>Control envelope amount by this LFO</source>
         <translation>이 LFO로 엔벨로프 양 제어하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="274"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="277"/>
         <source>Hint</source>
         <translation>힌트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="275"/>
+        <location filename="../../src/gui/instrument/EnvelopeAndLfoView.cpp" line="278"/>
         <source>Drag and drop a sample into this window.</source>
         <translation>샘플을 이 창으로 끌어다 놓으세요.</translation>
     </message>
@@ -11440,50 +11440,57 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>lmms::gui::Fader</name>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="166"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="136"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="151"/>
         <source>Set value</source>
         <translation>값 지정하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="167"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="137"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="152"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>%1부터 %2까지의 값을 입력하세요:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="251"/>
-        <source>Volume: %1 dBFS</source>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="517"/>
+        <source>Volume: %1 dB</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="523"/>
+        <source>-inf</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>lmms::gui::FileBrowser</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="94"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="93"/>
         <source>Browser</source>
         <translation>탐색기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="106"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="105"/>
         <source>Search</source>
         <translation>검색</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="113"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="112"/>
         <source>Refresh list</source>
         <translation>목록 새로고침</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="177"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="176"/>
         <source>User content</source>
         <translation>사용자 콘텐츠</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="182"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="181"/>
         <source>Factory content</source>
         <translation>팩토리 콘텐츠</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="186"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="185"/>
         <source>Hidden content</source>
         <translation type="unfinished"/>
     </message>
@@ -11491,67 +11498,87 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>lmms::gui::FileBrowserTreeWidget</name>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="638"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="629"/>
+        <source>Finder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="631"/>
+        <source>Explorer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="633"/>
+        <source>file manager</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="649"/>
         <source>Send to active instrument-track</source>
         <translation>활성 악기 트랙으로 전송하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="646"/>
-        <source>Open containing folder</source>
-        <translation>포함된 폴더 열기</translation>
+        <location filename="../../src/gui/FileBrowser.cpp" line="653"/>
+        <source>Show in %1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="650"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="656"/>
         <source>Song Editor</source>
         <translation>노래 편집기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="655"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="661"/>
         <source>Pattern Editor</source>
         <translation>패턴 편집기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="674"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="669"/>
+        <source>Open in %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/FileBrowser.cpp" line="686"/>
         <source>Send to new AudioFileProcessor instance</source>
         <translation>새 AudioFileProcessor 인스턴스로 전송하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="675"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="687"/>
         <source>Send to new instrument track</source>
         <translation>새 악기 트랙으로 전송하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="678"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="690"/>
         <source> (%2Enter)</source>
         <translation> (%2Enter)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="685"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="697"/>
         <source>Send to new sample track (Shift + Enter)</source>
         <translation>새 샘플 트랙으로 전송하기 (Shift + Enter)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="742"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="754"/>
         <source>Loading sample</source>
         <translation>샘플 불러오는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="743"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="755"/>
         <source>Please wait, loading sample for preview...</source>
         <translation>잠시만 기다려 주세요. 미리보기용 샘플 불러오는 중...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="773"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="785"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="774"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="786"/>
         <source>%1 does not appear to be a valid %2 file</source>
         <translation>%1은(는) 올바른 %2 파일이 아닌 것 같습니다</translation>
     </message>
     <message>
-        <location filename="../../src/gui/FileBrowser.cpp" line="1079"/>
+        <location filename="../../src/gui/FileBrowser.cpp" line="1075"/>
         <source>--- Factory files ---</source>
         <translation>--- 팩토리 파일 ---</translation>
     </message>
@@ -11655,18 +11682,18 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="397"/>
-        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="414"/>
+        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="385"/>
+        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="402"/>
         <source>Set value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="398"/>
+        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="386"/>
         <source>Please enter a new value between -96.0 dBFS and 6.0 dBFS:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="415"/>
+        <location filename="../../src/gui/widgets/FloatModelEditorBase.cpp" line="403"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation type="unfinished"/>
     </message>
@@ -14011,83 +14038,78 @@ LMMS에 대한 문서는 http://lmms.sf.net/wiki를 방문하세요.</translatio
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="1102"/>
-        <source>Volume as dBFS</source>
-        <translation>볼륨을 dBFS 단위로</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1108"/>
         <source>Smooth scroll</source>
         <translation>부드러운 스크롤</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1122"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1116"/>
         <source>Enable note labels in piano roll</source>
         <translation>피아노 롤에서 노트 레이블 활성화</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1412"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1401"/>
         <source>MIDI File (*.mid)</source>
         <translation>MIDI 파일 (*.mid)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1424"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1481"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1413"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1470"/>
         <source>untitled</source>
         <translation>제목 없음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1428"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1484"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1417"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1473"/>
         <source>Select file for project-export...</source>
         <translation>프로젝트를 내보낼 파일 선택하기...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1453"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1442"/>
         <source>Select directory for writing exported tracks...</source>
         <translation>내보낸 트랙을 저장할 디렉터리 선택하기...</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1515"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1504"/>
         <source>Save project</source>
         <translation>프로젝트 저장하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1532"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1521"/>
         <source>Project saved</source>
         <translation>프로젝트 저장됨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1532"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1521"/>
         <source>The project %1 is now saved.</source>
         <translation>%1 프로젝트가 저장되었습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1539"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1528"/>
         <source>Project NOT saved.</source>
         <translation>프로젝트가 저장되지 않았습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1539"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1528"/>
         <source>The project %1 was not saved!</source>
         <translation>%1 프로젝트가 저장되지 않았습니다!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1578"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1567"/>
         <source>Import file</source>
         <translation>파일 가져오기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1580"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1569"/>
         <source>MIDI sequences</source>
         <translation>MIDI 시퀀스</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1582"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1571"/>
         <source>Hydrogen projects</source>
         <translation>Hydrogen 프로젝트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1584"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1573"/>
         <source>All file types</source>
         <translation>모든 파일 유형</translation>
     </message>
@@ -16607,23 +16629,23 @@ Warning: This operation can not be undone.</source>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="234"/>
-        <source>Display volume as dBFS </source>
-        <translation>볼륨을 dBFS 단위로 화면표시 </translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="236"/>
         <source>Enable tooltips</source>
         <translation>툴팁 활성화</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="238"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="236"/>
         <source>Enable master oscilloscope by default</source>
         <translation>기본적으로 마스터 오실로스코프 활성화</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="240"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="238"/>
         <source>Enable all note labels in piano roll</source>
         <translation>피아노 롤의 모든 노트 레이블 활성화</translation>
+    </message>
+    <message>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="240"/>
+        <source>Show fader ticks</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="242"/>
@@ -16895,79 +16917,79 @@ Warning: This operation can not be undone.</source>
         <translation>취소</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1107"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1105"/>
         <source>minutes</source>
         <translation>분</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1107"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1105"/>
         <source>minute</source>
         <translation>분</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1109"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1107"/>
         <source>Disabled</source>
         <translation>비활성화됨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1111"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1109"/>
         <source>Autosave interval: %1</source>
         <translation>자동저장 간격: %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1189"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1187"/>
         <source>The currently selected value is not a power of 2 (32, 64, 128, 256). Some plugins may not be available.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1194"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1192"/>
         <source>The currently selected value is less than or equal to 32. Some plugins may not be available.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1225"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1223"/>
         <source>Frames: %1
 Latency: %2 ms</source>
         <translation>프레임: %1
 레이턴시: %2 ms</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1261"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1259"/>
         <source>Choose the LMMS working directory</source>
         <translation>LMMS 작업 디렉터리 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1278"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1276"/>
         <source>Choose your VST plugins directory</source>
         <translation>사용자의 VST 플러그인 디렉터리 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1295"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1293"/>
         <source>Choose your LADSPA plugins directory</source>
         <translation>사용자의 LADSPA 플러그인 디렉터리 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1320"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1318"/>
         <source>Choose your SF2 directory</source>
         <translation>사용자의 SF2 디렉터리 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1338"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1336"/>
         <source>Choose your default SF2</source>
         <translation>사용자의 기본 SF2 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1359"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1357"/>
         <source>Choose your GIG directory</source>
         <translation>사용자의 GIG 디렉터리 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1376"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1374"/>
         <source>Choose your theme directory</source>
         <translation>사용자의 테마 디렉터리 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1410"/>
+        <location filename="../../src/gui/modals/SetupDialog.cpp" line="1408"/>
         <source>Choose your background picture</source>
         <translation>사용자의 배경 사진 고르기</translation>
     </message>

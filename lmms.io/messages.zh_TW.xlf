@@ -1468,8 +1468,8 @@
 					is the most active forum for LMMS development. Join our server 
 					&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.</source>
         <target>&lt;a href=&quot;https://discordapp.com/&quot;&gt;Discord&lt;/a&gt;
-					is the most active forum for LMMS development. Join our server 
-					&lt;a href=&quot;/chat/&quot;&gt;by clicking here&lt;/a&gt;.</target>
+					是 LMMS 開發最活躍的論壇。想加入我們的伺服器 
+					&lt;a href=&quot;/chat/&quot;&gt;點擊這裡&lt;/a&gt;.</target>
         
       </trans-unit>
       <trans-unit id="oIdf0M8" resname="Our IRC channel is &lt;a href=&quot;https://web.libera.chat/#lmms&quot;&gt;#lmms&lt;/a&gt; on&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;https://web.libera.chat&quot;&gt;Libera Chat&lt;/a&gt;.">
@@ -1773,28 +1773,12 @@
       </trans-unit>
       <trans-unit id="CsljZ9f" resname="Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.">
         <source>Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.</source>
-        <target>Downloads labeled Alpha, Beta, or Nightly are pre-release software, stability may suffer.</target>
+        <target>標記 Alpha, Beta,或 Nightly 的下載為預發佈軟體，穩定性可能會受到影響。</target>
         
       </trans-unit>
       <trans-unit id="jSq_P3u" resname="Note: 32 bit nightly builds no longer available.">
         <source>Note: 32 bit nightly builds no longer available.</source>
         <target>Note: 32 bit nightly builds no longer available.</target>
-        
-      </trans-unit>
-      <trans-unit id="pliNGgu" resname="Run the following command to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running:">
-        <source>Run the following command to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running:</source>
-        
-      </trans-unit>
-      <trans-unit id="Wv2POvn" resname="Click one of the buttons below to download LMMS for Windows">
-        <source>Click one of the buttons below to download LMMS for Windows</source>
-        
-      </trans-unit>
-      <trans-unit id="Eo65RyS" resname="Run the following command to mark the application as safe before running:">
-        <source>Run the following command to mark the application as safe before running:</source>
-        
-      </trans-unit>
-      <trans-unit id="TL7Dj39" resname="Pull Request">
-        <source>Pull Request</source>
         
       </trans-unit>
       <trans-unit id="O7M80Zp" resname="The Best of LMMS vol. X">
@@ -1847,6 +1831,23 @@
 			 - The 25 highest scoring songs will be released as an album on Bandcamp with the price of “Pay what you want”. All the received funds will be donated for further development of LMMS, the program that we love.
 
 			**Note: Entries are approved to appear on the submission list by hand, so if you don't see yours, sit tight! It might take a while.**</source>
+        
+      </trans-unit>
+      <trans-unit id="pliNGgu" resname="Run the following command to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running:">
+        <source>Run the following command to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running:</source>
+        
+      </trans-unit>
+      <trans-unit id="Wv2POvn" resname="Click one of the buttons below to download LMMS for Windows">
+        <source>Click one of the buttons below to download LMMS for Windows</source>
+        <target>點擊下方的一個按鍵以下載 LMMS Windows 版</target>
+        
+      </trans-unit>
+      <trans-unit id="Eo65RyS" resname="Run the following command to mark the application as safe before running:">
+        <source>Run the following command to mark the application as safe before running:</source>
+        
+      </trans-unit>
+      <trans-unit id="TL7Dj39" resname="Pull Request">
+        <source>Pull Request</source>
         
       </trans-unit>
     </body>
