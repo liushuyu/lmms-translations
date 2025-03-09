@@ -2111,47 +2111,42 @@ Reaktivieren Sie sie, um den Prozess neuzustarten, wobei der letzte gespeicherte
         <translation>320 KBit/s</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/export_project.ui" line="344"/>
-        <source>Use variable bitrate</source>
-        <translation>Variable Bitrate benutzen</translation>
-    </message>
-    <message>
-        <location filename="../../src/gui/modals/export_project.ui" line="370"/>
+        <location filename="../../src/gui/modals/export_project.ui" line="363"/>
         <source>Quality settings</source>
         <translation>Qualitätseinstellungen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/export_project.ui" line="376"/>
+        <location filename="../../src/gui/modals/export_project.ui" line="369"/>
         <source>Interpolation:</source>
         <translation>Interpolation:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/export_project.ui" line="387"/>
+        <location filename="../../src/gui/modals/export_project.ui" line="380"/>
         <source>Zero order hold</source>
         <translation>Zero-Order-Hold</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/export_project.ui" line="392"/>
+        <location filename="../../src/gui/modals/export_project.ui" line="385"/>
         <source>Sinc worst (fastest)</source>
         <translation>Sinc – am schlechtesten (am schnellsten)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/export_project.ui" line="397"/>
+        <location filename="../../src/gui/modals/export_project.ui" line="390"/>
         <source>Sinc medium (recommended)</source>
         <translation>Sinc – mittel (empfohlen)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/export_project.ui" line="402"/>
+        <location filename="../../src/gui/modals/export_project.ui" line="395"/>
         <source>Sinc best (slowest)</source>
         <translation>Sinc – am besten (am langsamsten)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/export_project.ui" line="443"/>
+        <location filename="../../src/gui/modals/export_project.ui" line="436"/>
         <source>Start</source>
         <translation>Start</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/export_project.ui" line="450"/>
+        <location filename="../../src/gui/modals/export_project.ui" line="443"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
@@ -11148,17 +11143,17 @@ Bitte stellen Sie sicher, dass Sie Schreibrechte sowohl auf die Datei als auch d
         <translation>( Langsamstes – kleinstes )</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="262"/>
+        <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="256"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="263"/>
+        <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="257"/>
         <source>Error while determining file-encoder device. Please try to choose a different output format.</source>
         <translation>Fehler beim Bestimmen des Datei-Enkoder-Geräts. Bitte wählen Sie ein anderes Ausgabeformat.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="294"/>
+        <location filename="../../src/gui/modals/ExportProjectDialog.cpp" line="288"/>
         <source>Rendering: %1%</source>
         <translation>Rendern: %1 %</translation>
     </message>
@@ -13384,34 +13379,34 @@ Please make sure you have write permission to the file and the directory contain
 Bitte stellen Sie sicher, dass Sie Schreibrechte sowohl auf die Datei als auch das Verzeichnis, das sie enthält, haben, und versuchen Sie es erneut!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="824"/>
+        <location filename="../../src/core/main.cpp" line="822"/>
         <source>Project recovery</source>
         <translation>Projekt wiederherstellen</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="839"/>
+        <location filename="../../src/core/main.cpp" line="837"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>Es gibt eine Wiederherstellungsdatei. Es sieht so aus, als sei die letzte Sitzung nicht ordnungsgemäß beendet worden, oder eine andere Instanz von LMMS läuft bereits. Möchten Sie das Projekt dieser Sitzung wiederherstellen?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="844"/>
-        <location filename="../../src/core/main.cpp" line="859"/>
+        <location filename="../../src/core/main.cpp" line="842"/>
+        <location filename="../../src/core/main.cpp" line="857"/>
         <source>Recover</source>
         <translation>Wiederherstellen</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="845"/>
+        <location filename="../../src/core/main.cpp" line="843"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Diese Datei wiederherstellen. Bitte lassen Sie nicht mehrere Instanzen von LMMS gleichzeitig laufen, wenn Sie das tun.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="847"/>
-        <location filename="../../src/core/main.cpp" line="858"/>
+        <location filename="../../src/core/main.cpp" line="845"/>
+        <location filename="../../src/core/main.cpp" line="856"/>
         <source>Discard</source>
         <translation>Verwerfen</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="848"/>
+        <location filename="../../src/core/main.cpp" line="846"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Eine Standardsitzung starten und die wiederhergestellten Dateien löschen. Das kann nicht rückgängig gemacht werden.</translation>
     </message>
@@ -13622,31 +13617,31 @@ Bitte stellen Sie sicher, dass Sie Schreibrechte sowohl auf die Datei als auch d
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="448"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1061"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1053"/>
         <source>Song Editor</source>
         <translation>Song-Editor</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="453"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1065"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1057"/>
         <source>Pattern Editor</source>
         <translation>Pattern-Editor</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="457"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1069"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1061"/>
         <source>Piano Roll</source>
         <translation>Piano-Roll</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="461"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1073"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1065"/>
         <source>Automation Editor</source>
         <translation>Automations-Editor</translation>
     </message>
     <message>
         <location filename="../../src/gui/MainWindow.cpp" line="465"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1078"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1070"/>
         <source>Mixer</source>
         <translation>Mixer</translation>
     </message>
@@ -13661,181 +13656,181 @@ Bitte stellen Sie sicher, dass Sie Schreibrechte sowohl auf die Datei als auch d
         <translation>Zeige/verstecke Projektnotizen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="581"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="579"/>
         <source>Untitled</source>
         <translation>Unbenannt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="596"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="594"/>
         <source>Recover session. Please save your work!</source>
         <translation>Wiederherstellungssitzung. Bitte speichern Sie Ihre Arbeit!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="599"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="597"/>
         <source>LMMS %1</source>
         <translation>LMMS %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="618"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="616"/>
         <source>Recovered project not saved</source>
         <translation>Wiederhergestelltes Projekt nicht gespeichert</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="619"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="617"/>
         <source>This project was recovered from the previous session. It is currently unsaved and will be lost if you don&apos;t save it. Do you want to save it now?</source>
         <translation>Dieses Projekt wurde von der vorherigen Sitzung wiederhergestellt. Es ist im Moment nicht gespeichert und wird verloren gehen, wenn Sie es nicht speichern. Möchten Sie es jetzt speichern?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="624"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="622"/>
         <source>Project not saved</source>
         <translation>Projekt nicht gespeichert</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="625"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="623"/>
         <source>The current project was modified since last saving. Do you want to save it now?</source>
         <translation>Das aktuelle Projekt wurde seit dem letzten Speichern geändert. Wollen Sie es jetzt speichern?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="761"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="759"/>
         <source>Open Project</source>
         <translation>Projekt öffnen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="761"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="759"/>
         <source>LMMS (*.mmp *.mmpz)</source>
         <translation>LMMS (*.mmp *.mmpz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="804"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="802"/>
         <source>Save Project</source>
         <translation>Projekt speichern</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="805"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="803"/>
         <source>LMMS Project</source>
         <translation>LMMS-Projekt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="806"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="804"/>
         <source>LMMS Project Template</source>
         <translation>LMMS-Projektvorlage</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="836"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="834"/>
         <source>Save project template</source>
         <translation>Projektvorlage speichern</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="884"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="882"/>
         <source>Overwrite default template?</source>
         <translation>Standardvorlage überschreiben?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="885"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="883"/>
         <source>This will overwrite your current default template.</source>
         <translation>Dies wird Ihre aktuelle Standardvorlage überschreiben.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="918"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="916"/>
         <source>Help not available</source>
         <translation>Hilfe nicht verfügbar</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="919"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="917"/>
         <source>Currently there's no help available in LMMS.
 Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <translation>Derzeit ist in LMMS keine Hilfe verfügbar.
 Bitte besuchen Sie http://lmms.sf.net/wiki für Dokumentationen über LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1082"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1074"/>
         <source>Controller Rack</source>
         <translation>Controller-Einheit</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1086"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1078"/>
         <source>Project Notes</source>
         <translation>Projektnotizen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1093"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1085"/>
         <source>Fullscreen</source>
         <translation>Vollbild</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1102"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1094"/>
         <source>Smooth scroll</source>
         <translation>Weiches Scrollen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1116"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1108"/>
         <source>Enable note labels in piano roll</source>
         <translation>Notenbeschriftung in Piano-Roll aktivieren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1401"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1393"/>
         <source>MIDI File (*.mid)</source>
         <translation>MIDI-Datei (*.mid)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1413"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1470"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1405"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1462"/>
         <source>untitled</source>
         <translation>Unbenannt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1417"/>
-        <location filename="../../src/gui/MainWindow.cpp" line="1473"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1409"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1465"/>
         <source>Select file for project-export...</source>
         <translation>Datei für Projekt-Export wählen …</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1442"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1434"/>
         <source>Select directory for writing exported tracks...</source>
         <translation>Verzeichnis für das Schreiben der zu exportierenden Spuren wählen …</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1504"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1496"/>
         <source>Save project</source>
         <translation>Projekt speichern</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1521"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1513"/>
         <source>Project saved</source>
         <translation>Projekt gespeichert</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1521"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1513"/>
         <source>The project %1 is now saved.</source>
         <translation>Das Projekt %1 ist nun gespeichert.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1528"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1520"/>
         <source>Project NOT saved.</source>
         <translation>Projekt NICHT gespeichert.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1528"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1520"/>
         <source>The project %1 was not saved!</source>
         <translation>Das Projekt %1 wurde nicht gespeichert!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1567"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1559"/>
         <source>Import file</source>
         <translation>Datei importieren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1569"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1561"/>
         <source>MIDI sequences</source>
         <translation>MIDI-Sequenzen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1571"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1563"/>
         <source>Hydrogen projects</source>
         <translation>Hydrogen-Projekte</translation>
     </message>
     <message>
-        <location filename="../../src/gui/MainWindow.cpp" line="1573"/>
+        <location filename="../../src/gui/MainWindow.cpp" line="1565"/>
         <source>All file types</source>
         <translation>Alle Dateitypen</translation>
     </message>
@@ -15466,13 +15461,13 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
         <translation>Bitte wählen Sie zuerest die zu klebenden Noten.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3614"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3602"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation>Bitte öffnen Sie einen Clip, indem Sie ihn doppelklicken!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4268"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4287"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4256"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4275"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Bitte geben Sie einen neuen Wert zwischen %1 und %2 ein:</translation>
     </message>
@@ -15480,241 +15475,241 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4748"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4736"/>
         <source>Play/pause current clip (Space)</source>
         <translation>Aktuellen Clip abspielen/pausieren (Leertaste)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4737"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Noten von einem MIDI-Gerät/Kanal-Piano aufzeichnen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4750"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4738"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation>Noten von einem MIDI-Gerät/Kanal-Piano aufzeichnen, während der Song oder die Pattern-Spur abgespielt wird</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4751"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4739"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Noten von einem MIDI-Gerät/Kanal-Piano aufzeichnen, Schritt für Schritt</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4752"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4740"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>Wiedergabe des aktuellen Clips stoppen (Leertaste)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4754"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4742"/>
         <source>Edit actions</source>
         <translation>Aktionen bearbeiten</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4758"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4746"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Zeichnenmodus (Umschalt+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4759"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4747"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Radiermodus (Umschalt+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4760"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4748"/>
         <source>Select mode (Shift+S)</source>
         <translation>Auswahlmodus (Umschalt+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4761"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Tonhöhenverzerrungsmodus (Umschalt+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4776"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
         <source>Quantize</source>
         <translation>Quantisieren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4777"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
         <source>Quantize positions</source>
         <translation>Positionen quantisieren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4778"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
         <source>Quantize lengths</source>
         <translation>Längen quantisieren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4798"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
         <source>File actions</source>
         <translation>Dateiaktionen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4806"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4794"/>
         <source>Import clip</source>
         <translation>Clip importieren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4808"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5265"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4796"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5253"/>
         <source>Export clip</source>
         <translation>Clip exportieren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4819"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4807"/>
         <source>Copy paste controls</source>
         <translation>Kopieren-Einfügen-Steuerung</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4821"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4809"/>
         <source>Cut (%1+X)</source>
         <translation>Ausschneiden (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4823"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
         <source>Copy (%1+C)</source>
         <translation>Kopieren (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4825"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4813"/>
         <source>Paste (%1+V)</source>
         <translation>Einfügen (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4840"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
         <source>Timeline controls</source>
         <translation>Zeitachsensteuerung</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4836"/>
         <source>Glue</source>
         <translation>Klebstoff</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4852"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4840"/>
         <source>Knife</source>
         <translation>Messer</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4856"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4844"/>
         <source>Fill</source>
         <translation>Füllen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4860"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
         <source>Cut overlaps</source>
         <translation>Überlappungen ausschneiden</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4864"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4852"/>
         <source>Min length as last</source>
         <translation>Min. Länge als letzte</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4867"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4855"/>
         <source>Max length as last</source>
         <translation>Max. Länge als letzte</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4882"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4870"/>
         <source>Zoom and note controls</source>
         <translation>Zoom- und Notensteuerung</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4890"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4878"/>
         <source>Horizontal zooming</source>
         <translation>Horizontales zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4898"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4886"/>
         <source>Vertical zooming</source>
         <translation>Vertikales zoomen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4907"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
         <source>Quantization</source>
         <translation>Quantisierung</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4916"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4904"/>
         <source>Note length</source>
         <translation>Notenlänge</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4922"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4910"/>
         <source>Key</source>
         <translation>Tonart</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4931"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4919"/>
         <source>Scale</source>
         <translation>Tonleiter</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4940"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4928"/>
         <source>Chord</source>
         <translation>Akkord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4949"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4937"/>
         <source>Snap mode</source>
         <translation>Einrastmodus</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4954"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4942"/>
         <source>Clear ghost notes</source>
         <translation>Geistnoten leeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5063"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5242"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5051"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5230"/>
         <source>Piano-Roll - %1</source>
         <translation>Piano-Roll – %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5070"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5247"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5058"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5235"/>
         <source>Piano-Roll - no clip</source>
         <translation>Piano-Roll – kein Clip</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5266"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5313"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5254"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5301"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation>XML-Clipdatei (*.xpt *xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5286"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5274"/>
         <source>Export clip success</source>
         <translation>Clip-Export erfolgreich</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5287"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5275"/>
         <source>Clip saved to %1</source>
         <translation>Clip nach %1 abgespeichert</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5302"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5290"/>
         <source>Import clip.</source>
         <translation>Clip importieren.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5303"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5291"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation>Sie sind im Begriff, einen Clip zu importieren, dies wird Ihren aktuellen Clip überschreiben. Möchten Sie fortfahren?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5312"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5300"/>
         <source>Open clip</source>
         <translation>Clip öffnen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5332"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5320"/>
         <source>Import clip success</source>
         <translation>Clip-Import erfolgreich</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5333"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5321"/>
         <source>Imported clip %1!</source>
         <translation>Clip %1 importiert!</translation>
     </message>
