@@ -2626,39 +2626,6 @@ Reaktivieren Sie sie, um den Prozess neuzustarten, wobei der letzte gespeicherte
     </message>
 </context>
 <context>
-    <name>InstrumentSoundShaping</name>
-    <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="50"/>
-        <source>VOLUME</source>
-        <translation>LAUTSTÄRKE</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="51"/>
-        <source>Volume</source>
-        <translation>Lautstärke</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="52"/>
-        <source>CUTOFF</source>
-        <translation>KENNFREQ</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="53"/>
-        <source>Cutoff frequency</source>
-        <translation>Kennfrequenz</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="54"/>
-        <source>RESO</source>
-        <translation>RESO</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="55"/>
-        <source>Resonance</source>
-        <translation>Resonanz</translation>
-    </message>
-</context>
-<context>
     <name>JackAppDialog</name>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="14"/>
@@ -6018,132 +5985,143 @@ Pluginname
 <context>
     <name>lmms::InstrumentSoundShaping</name>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="62"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="47"/>
         <source>Envelopes/LFOs</source>
         <translation>Hüllkurven/LFOs</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="65"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="53"/>
         <source>Filter type</source>
         <translation>Filtertyp</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="66"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="54"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="58"/>
         <source>Cutoff frequency</source>
         <translation>Kennfrequenz</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="67"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="55"/>
         <source>Q/Resonance</source>
         <translation>Q/Resonanz</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="83"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="57"/>
+        <source>Volume</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="59"/>
+        <source>Resonance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="61"/>
         <source>Low-pass</source>
         <translation>Tiefpass</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="84"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="62"/>
         <source>Hi-pass</source>
         <translation>Hochpass</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="85"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="63"/>
         <source>Band-pass csg</source>
         <translation>Bandpass csg</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="86"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="64"/>
         <source>Band-pass czpg</source>
         <translation>Bandpass czpg</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="87"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="65"/>
         <source>Notch</source>
         <translation>Notch</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="88"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="66"/>
         <source>All-pass</source>
         <translation>Allpass</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="89"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="67"/>
         <source>Moog</source>
         <translation>Moog</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="90"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="68"/>
         <source>2x Low-pass</source>
         <translation>2× Tiefpass</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="91"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="69"/>
         <source>RC Low-pass 12 dB/oct</source>
         <translation>RC-Tiefpass 12 dB/Okt.</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="92"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="70"/>
         <source>RC Band-pass 12 dB/oct</source>
         <translation>RC-Bandpass 12 dB/Okt.</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="93"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="71"/>
         <source>RC High-pass 12 dB/oct</source>
         <translation>RC-Hochpass 12 dB/Okt.</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="94"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="72"/>
         <source>RC Low-pass 24 dB/oct</source>
         <translation>RC-Tiefpass 24 dB/Okt.</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="95"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="73"/>
         <source>RC Band-pass 24 dB/oct</source>
         <translation>RC-Bandbass 24 dB/Okt.</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="96"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="74"/>
         <source>RC High-pass 24 dB/oct</source>
         <translation>RC-Hochbass 24 dB/Okt.</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="97"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="75"/>
         <source>Vocal Formant</source>
         <translation>Vokalformant</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="98"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="76"/>
         <source>2x Moog</source>
         <translation>2× Moog</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="99"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="77"/>
         <source>SV Low-pass</source>
         <translation>SV-Tiefpass</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="100"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="78"/>
         <source>SV Band-pass</source>
         <translation>SV-Bandpass</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="101"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="79"/>
         <source>SV High-pass</source>
         <translation>SV-Hochpass</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="102"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="80"/>
         <source>SV Notch</source>
         <translation>SV-Notch</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="103"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="81"/>
         <source>Fast Formant</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="104"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="82"/>
         <source>Tripole</source>
         <translation type="unfinished"/>
     </message>
@@ -9141,7 +9119,7 @@ Bitte stellen Sie sicher, dass Sie Leserechte auf diese Datei sowie das Verzeich
 <context>
     <name>lmms::graphModel</name>
     <message>
-        <location filename="../../src/gui/widgets/Graph.cpp" line="464"/>
+        <location filename="../../src/gui/widgets/Graph.cpp" line="463"/>
         <source>Graph</source>
         <translation>Graph</translation>
     </message>
@@ -11995,37 +11973,52 @@ Bitte stellen Sie sicher, dass Sie Schreibrechte sowohl auf die Datei als auch d
         <translation>ZIEL</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="61"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="55"/>
+        <source>VOLUME</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="56"/>
+        <source>CUTOFF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="57"/>
+        <source>RESO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="62"/>
         <source>FILTER</source>
         <translation>FILTER</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="71"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="72"/>
         <source>FREQ</source>
         <translation>FREQ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="72"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="73"/>
         <source>Cutoff frequency:</source>
         <translation>Kennfrequenz:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="72"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="73"/>
         <source>Hz</source>
         <translation>Hz</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="76"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="77"/>
         <source>Q/RESO</source>
         <translation>Q/RESO</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="77"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="78"/>
         <source>Q/Resonance:</source>
         <translation>Q/Resonanz:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="83"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="84"/>
         <source>Envelopes, LFOs and filters are not supported by the current instrument.</source>
         <translation>Hüllkurven, LFOs und Filter werden vom aktuellen Instrument nicht unterstützt.</translation>
     </message>
@@ -12096,122 +12089,142 @@ Bitte stellen Sie sicher, dass Sie Schreibrechte sowohl auf die Datei als auch d
 <context>
     <name>lmms::gui::InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="144"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="147"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="152"/>
+        <source>Mute this instrument</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="155"/>
+        <source>Solo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="160"/>
+        <source>Solo this instrument</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="166"/>
         <source>Volume</source>
         <translation>Lautstärke</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="146"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="168"/>
         <source>Volume:</source>
         <translation>Lautstärke:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="151"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="173"/>
         <source>VOL</source>
         <translation>LAU</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="158"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="179"/>
         <source>Panning</source>
         <translation>Balance</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="159"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="180"/>
         <source>Panning:</source>
         <translation>Balance:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="164"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="185"/>
         <source>PAN</source>
         <translation>BAL</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="174"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="193"/>
         <source>Pitch</source>
         <translation>Tonhöhe</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="175"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="194"/>
         <source>Pitch:</source>
         <translation>Tonhöhe:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="175"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="194"/>
         <source>cents</source>
         <translation>Cent</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="180"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="199"/>
         <source>PITCH</source>
         <translation>HÖHE</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="187"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="205"/>
         <source>Pitch range (semitones)</source>
         <translation>Tonhöhenbereich (Halbtöne)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="192"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="210"/>
         <source>RANGE</source>
         <translation>BEREI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="202"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="218"/>
         <source>Mixer channel</source>
         <translation>Mischkanal</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="207"/>
-        <source>CHANNEL</source>
-        <translation>KANAL</translation>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="223"/>
+        <source>CHAN</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="217"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="233"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>Aktuelle Instrumentenspur-Einstellungen in einer Presetdatei speichern</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="221"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="237"/>
         <source>SAVE</source>
         <translation>SPEICHERN</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="260"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="276"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation>Hüllkurve, Filter u. LFO</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="261"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="277"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation>Akkord-Stacking u. Arpeggio</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="262"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="278"/>
         <source>Effects</source>
         <translation>Effekte</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="263"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="279"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="264"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="280"/>
         <source>Tuning and transposition</source>
         <translation>Tuning und Transponierung</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="404"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="420"/>
         <source>Save preset</source>
         <translation>Preset speichern</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="404"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="420"/>
         <source>XML preset file (*.xpf)</source>
         <translation>XML-Presetdatei (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="464"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="480"/>
         <source>Plugin</source>
         <translation>Plugin</translation>
     </message>
@@ -16276,44 +16289,64 @@ Achtung: Diese Aktion kann nicht rückgängig gemacht werden.</translation>
 <context>
     <name>lmms::gui::SampleTrackWindow</name>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="100"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="104"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="109"/>
+        <source>Mute this sample track</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="112"/>
+        <source>Solo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="117"/>
+        <source>Solo this sample track</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="123"/>
         <source>Sample volume</source>
         <translation>Sample-Lautstärke</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="102"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="125"/>
         <source>Volume:</source>
         <translation>Lautstärke:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="107"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="130"/>
         <source>VOL</source>
         <translation>LAU</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="114"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="136"/>
         <source>Panning</source>
         <translation>Balance</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="115"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="137"/>
         <source>Panning:</source>
         <translation>Balance:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="120"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="142"/>
         <source>PAN</source>
         <translation>BAL</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="130"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="151"/>
         <source>Mixer channel</source>
         <translation>Mixerkanal</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="135"/>
-        <source>CHANNEL</source>
-        <translation>KANAL</translation>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="156"/>
+        <source>CHAN</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17766,87 +17799,87 @@ Latenz: %2 ms</translation>
         <translation>Aktionen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="127"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="126"/>
         <source>Mute</source>
         <translation>Stumm</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="128"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="127"/>
         <source>Solo</source>
         <translation>Solo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="224"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="197"/>
         <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
         <translation>Nachdem Sie eine Spur entfernt haben, kann sie nicht wiederhergestellt werden. Möchten Sie die Spur »%1« wirklich entfernen?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="227"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="200"/>
         <source>Confirm removal</source>
         <translation>Entfernen bestätigen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="228"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="201"/>
         <source>Don&apos;t ask again</source>
         <translation>Nicht erneut fragen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="359"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="324"/>
         <source>Clone this track</source>
         <translation>Diese Spur klonen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="362"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="327"/>
         <source>Remove this track</source>
         <translation>Diese Spur entfernen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="367"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="332"/>
         <source>Clear this track</source>
         <translation>Diese Spur leeren</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="369"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="334"/>
         <source>Channel %1: %2</source>
         <translation>Kanal %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="369"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="334"/>
         <source>Assign to new Mixer Channel</source>
         <translation>Zu neuem Mischkanal zuweisen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="381"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="346"/>
         <source>Turn all recording on</source>
         <translation>Alle Aufnahmen einschalten</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="382"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="347"/>
         <source>Turn all recording off</source>
         <translation>Alle Aufnahmen ausschalten</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="387"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="352"/>
         <source>Track color</source>
         <translation>Spurfarbe</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="389"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="354"/>
         <source>Change</source>
         <translation>Ändern</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="390"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="355"/>
         <source>Reset</source>
         <translation>Zurücksetzen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="391"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="356"/>
         <source>Pick random</source>
         <translation>Zufällig wählen</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="393"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="358"/>
         <source>Reset clip colors</source>
         <translation>Clip-Farben zurücksetzen</translation>
     </message>

@@ -2900,39 +2900,6 @@ Reactvate them to start the process again, with the last saved state applied to 
     </message>
 </context>
 <context>
-    <name>InstrumentSoundShaping</name>
-    <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="50"/>
-        <source>VOLUME</source>
-        <translation>볼륨</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="51"/>
-        <source>Volume</source>
-        <translation>볼륨</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="52"/>
-        <source>CUTOFF</source>
-        <translation>컷오프</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="53"/>
-        <source>Cutoff frequency</source>
-        <translation>차단 주파수</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="54"/>
-        <source>RESO</source>
-        <translation>공명</translation>
-    </message>
-    <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="55"/>
-        <source>Resonance</source>
-        <translation>공명</translation>
-    </message>
-</context>
-<context>
     <name>JackAppDialog</name>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/jackappdialog.ui" line="14"/>
@@ -6292,132 +6259,143 @@ Plugin Name
 <context>
     <name>lmms::InstrumentSoundShaping</name>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="62"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="47"/>
         <source>Envelopes/LFOs</source>
         <translation>엔벨로프/LFO</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="65"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="53"/>
         <source>Filter type</source>
         <translation>필터 유형</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="66"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="54"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="58"/>
         <source>Cutoff frequency</source>
         <translation>컷오프 주파수</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="67"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="55"/>
         <source>Q/Resonance</source>
         <translation>Q/공명</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="83"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="57"/>
+        <source>Volume</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="59"/>
+        <source>Resonance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="61"/>
         <source>Low-pass</source>
         <translation>로패스</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="84"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="62"/>
         <source>Hi-pass</source>
         <translation>하이패스</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="85"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="63"/>
         <source>Band-pass csg</source>
         <translation>밴드패스 csg</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="86"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="64"/>
         <source>Band-pass czpg</source>
         <translation>밴드패스 czpg</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="87"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="65"/>
         <source>Notch</source>
         <translation>노치</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="88"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="66"/>
         <source>All-pass</source>
         <translation>올패스</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="89"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="67"/>
         <source>Moog</source>
         <translation>모그</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="90"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="68"/>
         <source>2x Low-pass</source>
         <translation>2x 로패스</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="91"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="69"/>
         <source>RC Low-pass 12 dB/oct</source>
         <translation>RC 로패스 12 dB/oct</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="92"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="70"/>
         <source>RC Band-pass 12 dB/oct</source>
         <translation>RC 밴드패스 12 dB/oct</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="93"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="71"/>
         <source>RC High-pass 12 dB/oct</source>
         <translation>RC 하이패스 12 dB/oct</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="94"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="72"/>
         <source>RC Low-pass 24 dB/oct</source>
         <translation>RC 로패스 24 dB/oct</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="95"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="73"/>
         <source>RC Band-pass 24 dB/oct</source>
         <translation>RC 밴드패스 24 dB/oct</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="96"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="74"/>
         <source>RC High-pass 24 dB/oct</source>
         <translation>RC 하이패스 24 dB/oct</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="97"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="75"/>
         <source>Vocal Formant</source>
         <translation>보컬 포르만트</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="98"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="76"/>
         <source>2x Moog</source>
         <translation>2x 모그</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="99"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="77"/>
         <source>SV Low-pass</source>
         <translation>SV 로패스</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="100"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="78"/>
         <source>SV Band-pass</source>
         <translation>SV 밴드패스</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="101"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="79"/>
         <source>SV High-pass</source>
         <translation>SV 하이패스</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="102"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="80"/>
         <source>SV Notch</source>
         <translation>SV 노치</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="103"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="81"/>
         <source>Fast Formant</source>
         <translation>패스트 포르만트</translation>
     </message>
     <message>
-        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="104"/>
+        <location filename="../../src/core/InstrumentSoundShaping.cpp" line="82"/>
         <source>Tripole</source>
         <translation>트리폴</translation>
     </message>
@@ -9415,7 +9393,7 @@ Please make sure you have read-permission to the file and the directory containi
 <context>
     <name>lmms::graphModel</name>
     <message>
-        <location filename="../../src/gui/widgets/Graph.cpp" line="464"/>
+        <location filename="../../src/gui/widgets/Graph.cpp" line="463"/>
         <source>Graph</source>
         <translation>그래프</translation>
     </message>
@@ -12269,37 +12247,52 @@ Please make sure you have write permission to the file and the directory contain
         <translation>대상</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="61"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="55"/>
+        <source>VOLUME</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="56"/>
+        <source>CUTOFF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="57"/>
+        <source>RESO</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="62"/>
         <source>FILTER</source>
         <translation>필터</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="71"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="72"/>
         <source>FREQ</source>
         <translation>FREQ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="72"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="73"/>
         <source>Cutoff frequency:</source>
         <translation>컷오프 주파수:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="72"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="73"/>
         <source>Hz</source>
         <translation>Hz</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="76"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="77"/>
         <source>Q/RESO</source>
         <translation>Q/공명</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="77"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="78"/>
         <source>Q/Resonance:</source>
         <translation>Q/공명:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="83"/>
+        <location filename="../../src/gui/instrument/InstrumentSoundShapingView.cpp" line="84"/>
         <source>Envelopes, LFOs and filters are not supported by the current instrument.</source>
         <translation>엔벨로프, LFO 및 필터는 현재 악기에서 지원되지 않습니다.</translation>
     </message>
@@ -12370,122 +12363,142 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>lmms::gui::InstrumentTrackWindow</name>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="144"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="147"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="152"/>
+        <source>Mute this instrument</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="155"/>
+        <source>Solo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="160"/>
+        <source>Solo this instrument</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="166"/>
         <source>Volume</source>
         <translation>볼륨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="146"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="168"/>
         <source>Volume:</source>
         <translation>볼륨:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="151"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="173"/>
         <source>VOL</source>
         <translation>볼륨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="158"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="179"/>
         <source>Panning</source>
         <translation>패닝</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="159"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="180"/>
         <source>Panning:</source>
         <translation>패닝:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="164"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="185"/>
         <source>PAN</source>
         <translation>패닝</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="174"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="193"/>
         <source>Pitch</source>
         <translation>피치</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="175"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="194"/>
         <source>Pitch:</source>
         <translation>피치:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="175"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="194"/>
         <source>cents</source>
         <translation>센트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="180"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="199"/>
         <source>PITCH</source>
         <translation>피치</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="187"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="205"/>
         <source>Pitch range (semitones)</source>
         <translation>피치 범위 (반음)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="192"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="210"/>
         <source>RANGE</source>
         <translation>범위</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="202"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="218"/>
         <source>Mixer channel</source>
         <translation>믹서 채널</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="207"/>
-        <source>CHANNEL</source>
-        <translation>채널</translation>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="223"/>
+        <source>CHAN</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="217"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="233"/>
         <source>Save current instrument track settings in a preset file</source>
         <translation>현재 악기 트랙 설정을 프리셋 파일에 저장하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="221"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="237"/>
         <source>SAVE</source>
         <translation>저장하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="260"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="276"/>
         <source>Envelope, filter &amp; LFO</source>
         <translation>엔벨로프, 필터 &amp; LFO</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="261"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="277"/>
         <source>Chord stacking &amp; arpeggio</source>
         <translation>코드 스태킹 &amp; 아르페지오</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="262"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="278"/>
         <source>Effects</source>
         <translation>이펙트</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="263"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="279"/>
         <source>MIDI</source>
         <translation>MIDI</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="264"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="280"/>
         <source>Tuning and transposition</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="404"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="420"/>
         <source>Save preset</source>
         <translation>프리셋 저장하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="404"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="420"/>
         <source>XML preset file (*.xpf)</source>
         <translation>XML 프리셋 파일 (*.xpf)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="464"/>
+        <location filename="../../src/gui/instrument/InstrumentTrackWindow.cpp" line="480"/>
         <source>Plugin</source>
         <translation>플러그인</translation>
     </message>
@@ -16551,44 +16564,64 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::SampleTrackWindow</name>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="100"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="104"/>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="109"/>
+        <source>Mute this sample track</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="112"/>
+        <source>Solo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="117"/>
+        <source>Solo this sample track</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="123"/>
         <source>Sample volume</source>
         <translation>샘플 볼륨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="102"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="125"/>
         <source>Volume:</source>
         <translation>볼륨:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="107"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="130"/>
         <source>VOL</source>
         <translation>볼륨</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="114"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="136"/>
         <source>Panning</source>
         <translation>패닝</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="115"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="137"/>
         <source>Panning:</source>
         <translation>패닝:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="120"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="142"/>
         <source>PAN</source>
         <translation>패닝</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="130"/>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="151"/>
         <source>Mixer channel</source>
         <translation>믹서 채널</translation>
     </message>
     <message>
-        <location filename="../../src/gui/SampleTrackWindow.cpp" line="135"/>
-        <source>CHANNEL</source>
-        <translation>채널</translation>
+        <location filename="../../src/gui/SampleTrackWindow.cpp" line="156"/>
+        <source>CHAN</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18041,87 +18074,87 @@ Latency: %2 ms</source>
         <translation>작업</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="127"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="126"/>
         <source>Mute</source>
         <translation>음소거</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="128"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="127"/>
         <source>Solo</source>
         <translation>솔로 연주</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="224"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="197"/>
         <source>After removing a track, it can not be recovered. Are you sure you want to remove track &quot;%1&quot;?</source>
         <translation>트랙을 삭제하면 되돌릴 수 없습니다. 정말 &quot;%1&quot; 트랙을 삭제하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="227"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="200"/>
         <source>Confirm removal</source>
         <translation>제거 확인</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="228"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="201"/>
         <source>Don&apos;t ask again</source>
         <translation>다시 묻지 않음</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="359"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="324"/>
         <source>Clone this track</source>
         <translation>이 트랙 복제하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="362"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="327"/>
         <source>Remove this track</source>
         <translation>이 트랙 제거하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="367"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="332"/>
         <source>Clear this track</source>
         <translation>이 트랙 지우기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="369"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="334"/>
         <source>Channel %1: %2</source>
         <translation>채널 %1: %2</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="369"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="334"/>
         <source>Assign to new Mixer Channel</source>
         <translation>새 믹서 채널에 할당하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="381"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="346"/>
         <source>Turn all recording on</source>
         <translation>모든 녹음 켜기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="382"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="347"/>
         <source>Turn all recording off</source>
         <translation>모든 녹음 끄기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="387"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="352"/>
         <source>Track color</source>
         <translation>트랙 색상</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="389"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="354"/>
         <source>Change</source>
         <translation>변경하기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="390"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="355"/>
         <source>Reset</source>
         <translation>재설정</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="391"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="356"/>
         <source>Pick random</source>
         <translation>무작위 고르기</translation>
     </message>
     <message>
-        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="393"/>
+        <location filename="../../src/gui/tracks/TrackOperationsWidget.cpp" line="358"/>
         <source>Reset clip colors</source>
         <translation>클립 색상 재설정</translation>
     </message>

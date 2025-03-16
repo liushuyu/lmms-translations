@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="Qk7UVra" resname="Docs">
         <source>Docs</source>
-        <target>Dokumentacja</target>
+        <target>Dokumentacje</target>
         
       </trans-unit>
       <trans-unit id="fpoF0p6" resname="Forum">
@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="H1qhdmo" resname="Branding">
         <source>Branding</source>
-        <target>Branding</target>
+        <target>Firma</target>
         
       </trans-unit>
       <trans-unit id="sx6LMMr" resname="We're sorry, something went wrong fetching the latest release info. You can still download releases on &lt;a href=&quot;//github.com/LMMS/lmms/releases&quot;&gt;GitHub&lt;/a&gt;.">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="eWaNqUZ" resname="Donate via PayPal">
         <source>Donate via PayPal</source>
-        <target>Przekaż darowiznę przez PayPal</target>
+        <target>Przekaż darowiznę poprzez PayPal</target>
         
       </trans-unit>
       <trans-unit id="mBTJrw1" resname="Translations">
@@ -1403,6 +1403,7 @@
       </trans-unit>
       <trans-unit id="jSq_P3u" resname="Note: 32 bit nightly builds no longer available.">
         <source>Note: 32 bit nightly builds no longer available.</source>
+        <target>Notatka: 32-bitowe wersje nightly nie są dostępne.</target>
         
       </trans-unit>
       <trans-unit id="O7M80Zp" resname="The Best of LMMS vol. X">
