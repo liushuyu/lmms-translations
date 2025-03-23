@@ -6,7 +6,7 @@
     <body>
       <trans-unit id="iMlLPDz" resname="Download">
         <source>Download</source>
-        <target>Descárgalo</target>
+        <target>Descargas</target>
         
       </trans-unit>
       <trans-unit id="ZaeZFa6" resname="Get Involved">
@@ -654,7 +654,7 @@
       </trans-unit>
       <trans-unit id="805.g33" resname="Download LMMS Artwork">
         <source>Download LMMS Artwork</source>
-        <target>Descargar el arte (artwork) de LMMS</target>
+        <target>Descarga el arte de LMMS</target>
         
       </trans-unit>
       <trans-unit id="LIt3K0." resname="LMMS Logo">
@@ -664,12 +664,12 @@
       </trans-unit>
       <trans-unit id="yAHu8Cu" resname="LMMS Development Team">
         <source>LMMS Development Team</source>
-        <target>Equipo de Desarrolladores de LMMS</target>
+        <target>Equipo de desarrolladores de LMMS</target>
         
       </trans-unit>
       <trans-unit id="CihD2JO" resname="LMMS Project Icon">
         <source>LMMS Project Icon</source>
-        <target>Ícono de Proyecto de LMMS</target>
+        <target>Ícono de proyecto de LMMS</target>
         
       </trans-unit>
       <trans-unit id="JUgrr05" resname="Official competitions organised by LMMS and its community members">

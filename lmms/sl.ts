@@ -10407,97 +10407,57 @@ Prepričajte se, da imate pravico za branje te datoteke in njeno mapo ter poskus
 <context>
     <name>lmms::gui::CrossoverEQControlDialog</name>
     <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="56"/>
-        <source>Band 1/2 crossover:</source>
-        <translation>Pas 1/2 prekrižaj:</translation>
+        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="70"/>
+        <source>Band 1/2 crossover</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="62"/>
-        <source>Band 2/3 crossover:</source>
-        <translation>Pas 2/3 prekrižaj:</translation>
+        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="71"/>
+        <source>Band 2/3 crossover</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="68"/>
-        <source>Band 3/4 crossover:</source>
-        <translation>Pas 3/4 prekrižaj:</translation>
+        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="72"/>
+        <source>Band 3/4 crossover</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="73"/>
+        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="90"/>
         <source>Band 1 gain</source>
         <translation>Pas 1 jakost</translation>
     </message>
     <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="76"/>
-        <source>Band 1 gain:</source>
-        <translation>Pas 1 jakost:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="79"/>
+        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="91"/>
         <source>Band 2 gain</source>
         <translation>Pas 2 jakost</translation>
     </message>
     <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="82"/>
-        <source>Band 2 gain:</source>
-        <translation>Pas 2 jakost:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="85"/>
+        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="92"/>
         <source>Band 3 gain</source>
         <translation>Pas 3 jakost</translation>
     </message>
     <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="88"/>
-        <source>Band 3 gain:</source>
-        <translation>Pas 3 jakost:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="91"/>
+        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="93"/>
         <source>Band 4 gain</source>
         <translation>Pas 4 jakost</translation>
     </message>
     <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="94"/>
-        <source>Band 4 gain:</source>
-        <translation>Pas 4 jakost:</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="98"/>
-        <source>Band 1 mute</source>
-        <translation>Pas 1 utišaj</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="101"/>
+        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="112"/>
         <source>Mute band 1</source>
         <translation>Utišaj pas 1</translation>
     </message>
     <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="103"/>
-        <source>Band 2 mute</source>
-        <translation>Pas 2 utišaj</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="106"/>
+        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="113"/>
         <source>Mute band 2</source>
         <translation>Utišaj pas 2</translation>
     </message>
     <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="108"/>
-        <source>Band 3 mute</source>
-        <translation>Pas 3 utišaj</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="111"/>
+        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="114"/>
         <source>Mute band 3</source>
         <translation>Utišaj pas 3</translation>
     </message>
     <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="113"/>
-        <source>Band 4 mute</source>
-        <translation>Pas 4 utišaj</translation>
-    </message>
-    <message>
-        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="116"/>
+        <location filename="../../plugins/CrossoverEQ/CrossoverEQControlDialog.cpp" line="115"/>
         <source>Mute band 4</source>
         <translation>Utišaj pas 4</translation>
     </message>
@@ -11231,24 +11191,25 @@ Prepričajte se, da imate pravico za zapisovanje v to datoteko in njeno mapo ter
 <context>
     <name>lmms::gui::Fader</name>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="136"/>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="151"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="137"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="152"/>
         <source>Set value</source>
         <translation>Določi vrednost</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="137"/>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="152"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="138"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="153"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Prosim vpišite novo vrednost med %1 in %2:</translation>
     </message>
     <message>
-        <location filename="../../src/gui/widgets/Fader.cpp" line="517"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="516"/>
         <source>Volume: %1 dB</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/gui/widgets/Fader.cpp" line="523"/>
+        <location filename="../../src/gui/widgets/Fader.cpp" line="531"/>
         <source>-inf</source>
         <translation type="unfinished"/>
     </message>
@@ -15462,118 +15423,118 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::PianoRoll</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="218"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="219"/>
         <source>Note Velocity</source>
         <translation>Hitrost note</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="219"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="220"/>
         <source>Note Panning</source>
         <translation>Panorama note</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="232"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="233"/>
         <source>Mark/unmark current semitone</source>
         <translation>Označi/odznači trenutni polton</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="233"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="234"/>
         <source>Mark/unmark all corresponding octave semitones</source>
         <translation>Označi/odznači vse pripadajoče poltone oktave</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="234"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="235"/>
         <source>Mark current scale</source>
         <translation>Označi trenutno lestvico</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="235"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="236"/>
         <source>Mark current chord</source>
         <translation>Označi trenutni akord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="236"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="237"/>
         <source>Unmark all</source>
         <translation>Odznači vse</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="237"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="238"/>
         <source>Select all notes on this key</source>
         <translation>Izberi vse note tega ključa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="332"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="333"/>
         <source>Note lock</source>
         <translation>Zaklep note</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="342"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="343"/>
         <source>Last note</source>
         <translation>Zadnja nota</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="366"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="367"/>
         <source>No key</source>
         <translation>Ni ključa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="379"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="380"/>
         <source>No scale</source>
         <translation>Ni lestivce</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="396"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="397"/>
         <source>No chord</source>
         <translation>Ni akorda</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="426"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="427"/>
         <source>Nudge</source>
         <translation>Potisni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="427"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="428"/>
         <source>Snap</source>
         <translation>Preskok</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="468"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="469"/>
         <source>Velocity: %1%</source>
         <translation>Hitrost: %1%</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="477"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="478"/>
         <source>Panning: %1% left</source>
         <translation>Panorama: %1% levo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="481"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="482"/>
         <source>Panning: %1% right</source>
         <translation>Panorama: %1% desno</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="485"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="486"/>
         <source>Panning: center</source>
         <translation>Panorama: sredina</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="653"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="654"/>
         <source>Glue notes failed</source>
         <translation>Lepljenje not ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="654"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="655"/>
         <source>Please select notes to glue first.</source>
         <translation>Najprej izberite note za lepljenje.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3602"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="3769"/>
         <source>Please open a clip by double-clicking on it!</source>
         <translation>Odprite izsek z dvojnim klikom!</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4256"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4275"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4433"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4452"/>
         <source>Please enter a new value between %1 and %2:</source>
         <translation>Vnesite novo vrednost med %1 in %2:</translation>
     </message>
@@ -15581,241 +15542,246 @@ Warning: This operation can not be undone.</source>
 <context>
     <name>lmms::gui::PianoRollWindow</name>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4736"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4913"/>
         <source>Play/pause current clip (Space)</source>
         <translation>Predvajanje/premor trenutnega izseka (preslednica)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4737"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4914"/>
         <source>Record notes from MIDI-device/channel-piano</source>
         <translation>Snemaj note z MIDI naprave/kanala-pianina</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4738"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4915"/>
         <source>Record notes from MIDI-device/channel-piano while playing song or pattern track</source>
         <translation>Snema note z MIDI naprave/kanala-pianina medtem ko predvaja skladbo ali stezo z matriko</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4739"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4916"/>
         <source>Record notes from MIDI-device/channel-piano, one step at the time</source>
         <translation>Snema note z MIDI naprave/kanala-pianina, korak po koraku</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4740"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4917"/>
         <source>Stop playing of current clip (Space)</source>
         <translation>Zaustavi predvajanje trenutnega izseka (preslednica)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4742"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4919"/>
         <source>Edit actions</source>
         <translation>Uredi dejanja</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4746"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4923"/>
         <source>Draw mode (Shift+D)</source>
         <translation>Način risanja (shift+D)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4747"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4924"/>
         <source>Erase mode (Shift+E)</source>
         <translation>Način brisanja (Shift+E)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4748"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4925"/>
         <source>Select mode (Shift+S)</source>
         <translation>Način izbire (Shift+S)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4749"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4926"/>
         <source>Pitch Bend mode (Shift+T)</source>
         <translation>Način pregibanja višine (Shift+T)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4764"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4941"/>
         <source>Quantize</source>
         <translation>Kvantizacija</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4765"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4942"/>
         <source>Quantize positions</source>
         <translation>Kvantizacija položajev</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4766"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4943"/>
         <source>Quantize lengths</source>
         <translation>Kvantizacija dolžin</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4786"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4963"/>
         <source>File actions</source>
         <translation>Dejanja datoteke</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4794"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4971"/>
         <source>Import clip</source>
         <translation>Uvozi izsek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4796"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5253"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4973"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5435"/>
         <source>Export clip</source>
         <translation>Izvozi izsek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4807"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4984"/>
         <source>Copy paste controls</source>
         <translation>Nadzor kopiranja/lepljenja</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4809"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4986"/>
         <source>Cut (%1+X)</source>
         <translation>Izreži (%1+X)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4811"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4988"/>
         <source>Copy (%1+C)</source>
         <translation>Kopiraj (%1+C)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4813"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4990"/>
         <source>Paste (%1+V)</source>
         <translation>Prilepi (%1+V)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4828"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5005"/>
         <source>Timeline controls</source>
         <translation>Nadzor časovnice</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4836"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5013"/>
         <source>Glue</source>
         <translation>Lepljenje</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4840"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5017"/>
         <source>Knife</source>
         <translation>Nož</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4844"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5021"/>
+        <source>Strum</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5025"/>
         <source>Fill</source>
         <translation>Zapolni</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4848"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5029"/>
         <source>Cut overlaps</source>
         <translation>Izreži prekrito</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4852"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5033"/>
         <source>Min length as last</source>
         <translation>Minimalna dolžina vsaj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4855"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5036"/>
         <source>Max length as last</source>
         <translation>Maksimalna dolžina vsaj</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4870"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5052"/>
         <source>Zoom and note controls</source>
         <translation>Nadzor povečave in not</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4878"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5060"/>
         <source>Horizontal zooming</source>
         <translation>Vodoravna povečava</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4886"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5068"/>
         <source>Vertical zooming</source>
         <translation>Navpična povečava</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4895"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5077"/>
         <source>Quantization</source>
         <translation>Kvantizacija</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4904"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5086"/>
         <source>Note length</source>
         <translation>Dolžina note</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4910"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5092"/>
         <source>Key</source>
         <translation>Ključ</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4919"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5101"/>
         <source>Scale</source>
         <translation>Skala</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4928"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5110"/>
         <source>Chord</source>
         <translation>Akord</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4937"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5119"/>
         <source>Snap mode</source>
         <translation>Način preskoka</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="4942"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5124"/>
         <source>Clear ghost notes</source>
         <translation>Počisti zakrite note</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5051"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5230"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5233"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5412"/>
         <source>Piano-Roll - %1</source>
         <translation>Pianino-rolca - %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5058"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5235"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5240"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5417"/>
         <source>Piano-Roll - no clip</source>
         <translation>Pianino-rolca - brez izseka</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5254"/>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5301"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5436"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5483"/>
         <source>XML clip file (*.xpt *.xptz)</source>
         <translation>XML izsek (*.xpt *.xptz)</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5274"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5456"/>
         <source>Export clip success</source>
         <translation>Uspešno izvožen izsek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5275"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5457"/>
         <source>Clip saved to %1</source>
         <translation>Izsek shranjen v %1</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5290"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5472"/>
         <source>Import clip.</source>
         <translation>Uvozi izsek.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5291"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5473"/>
         <source>You are about to import a clip, this will overwrite your current clip. Do you want to continue?</source>
         <translation>Uvozili boste izsek, kar bo prepisalo trenuten izsek. Želite nadaljevati?</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5300"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5482"/>
         <source>Open clip</source>
         <translation>Odpri izsek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5320"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5502"/>
         <source>Import clip success</source>
         <translation>Uspešno uvožen izsek</translation>
     </message>
     <message>
-        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5321"/>
+        <location filename="../../src/gui/editors/PianoRoll.cpp" line="5503"/>
         <source>Imported clip %1!</source>
         <translation>Uvožen izsek %1!</translation>
     </message>
