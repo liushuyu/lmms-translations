@@ -84,7 +84,7 @@ Si vous souhaitez traduire LMMS dans une autre langue ou améliorer les traducti
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/aboutjucedialog.ui" line="84"/>
         <source>This program uses JUCE version 3.x.x.</source>
-        <translation type="unfinished"/>
+        <translation>Ce programme utilise JUCE version 3.x.x.</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/source/frontend/dialogs/aboutjucedialog.ui" line="107"/>
@@ -4580,7 +4580,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="264"/>
         <source>Channels</source>
-        <translation type="unfinished"/>
+        <translation>Canaux</translation>
     </message>
     <message>
         <location filename="../../plugins/CarlaBase/carla/resources/ui/xycontroller.ui" line="291"/>
@@ -6255,7 +6255,7 @@ Nom du plugin
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="57"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Volume</translation>
     </message>
     <message>
         <location filename="../../src/core/InstrumentSoundShaping.cpp" line="59"/>
@@ -6584,17 +6584,19 @@ Nom du plugin
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="51"/>
         <source>High Input Volume</source>
-        <translation type="unfinished"/>
+        <translation> 
+Volume d&apos;entrée haut</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="52"/>
         <source>Mid Input Volume</source>
-        <translation type="unfinished"/>
+        <translation> 
+Volume d&apos;entrée mid</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="53"/>
         <source>Low Input Volume</source>
-        <translation type="unfinished"/>
+        <translation>Volume d&apos;entrée bas</translation>
     </message>
     <message>
         <location filename="../../plugins/LOMM/LOMMControls.cpp" line="54"/>
@@ -6833,7 +6835,7 @@ Nom du plugin
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="292"/>
         <source>Dead</source>
-        <translation type="unfinished"/>
+        <translation>Mort</translation>
     </message>
     <message>
         <location filename="../../plugins/Lb302/Lb302.cpp" line="293"/>
@@ -13599,34 +13601,34 @@ Please make sure you have write permission to the file and the directory contain
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="822"/>
+        <location filename="../../src/core/main.cpp" line="823"/>
         <source>Project recovery</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="837"/>
+        <location filename="../../src/core/main.cpp" line="838"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="842"/>
-        <location filename="../../src/core/main.cpp" line="857"/>
+        <location filename="../../src/core/main.cpp" line="843"/>
+        <location filename="../../src/core/main.cpp" line="858"/>
         <source>Recover</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="843"/>
+        <location filename="../../src/core/main.cpp" line="844"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="845"/>
-        <location filename="../../src/core/main.cpp" line="856"/>
+        <location filename="../../src/core/main.cpp" line="846"/>
+        <location filename="../../src/core/main.cpp" line="857"/>
         <source>Discard</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="846"/>
+        <location filename="../../src/core/main.cpp" line="847"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation type="unfinished"/>
     </message>
@@ -14309,25 +14311,25 @@ Please visit http://lmms.sf.net/wiki for documentation on LMMS.</source>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="61"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="159"/>
         <source>First key</source>
-        <translation type="unfinished"/>
+        <translation>Première touche</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="62"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="165"/>
         <source>Last key</source>
-        <translation type="unfinished"/>
+        <translation>Dernière touche</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="63"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="171"/>
         <source>Middle key</source>
-        <translation type="unfinished"/>
+        <translation>Touche intermédiaire </translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="64"/>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="177"/>
         <source>Base key</source>
-        <translation type="unfinished"/>
+        <translation>Touche de base</translation>
     </message>
     <message>
         <location filename="../../src/gui/MicrotunerConfig.cpp" line="65"/>
@@ -14839,7 +14841,7 @@ Warning: This operation can not be undone.</source>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1682"/>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1697"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Volume</translation>
     </message>
     <message>
         <location filename="../../plugins/Monstro/Monstro.cpp" line="1670"/>
@@ -15299,7 +15301,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="437"/>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Volume:</translation>
     </message>
     <message>
         <location filename="../../plugins/Organic/Organic.cpp" line="441"/>
@@ -15839,12 +15841,12 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5059"/>
         <source>Horizontal zooming</source>
-        <translation type="unfinished"/>
+        <translation>Zoom horizontal</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5067"/>
         <source>Vertical zooming</source>
-        <translation type="unfinished"/>
+        <translation>Zoom vertical</translation>
     </message>
     <message>
         <location filename="../../src/gui/editors/PianoRoll.cpp" line="5076"/>
@@ -15940,17 +15942,17 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/instrument/PianoView.cpp" line="781"/>
         <source>Base note</source>
-        <translation type="unfinished"/>
+        <translation>Note de base</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/PianoView.cpp" line="786"/>
         <source>First note</source>
-        <translation type="unfinished"/>
+        <translation>Première note</translation>
     </message>
     <message>
         <location filename="../../src/gui/instrument/PianoView.cpp" line="791"/>
         <source>Last note</source>
-        <translation type="unfinished"/>
+        <translation>Dernière note</translation>
     </message>
 </context>
 <context>
@@ -15973,7 +15975,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/PluginBrowser.cpp" line="71"/>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Chercher</translation>
     </message>
 </context>
 <context>
@@ -16129,7 +16131,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/ProjectNotes.cpp" line="223"/>
         <source>&amp;Color...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Couleur...</translation>
     </message>
 </context>
 <context>
@@ -16153,7 +16155,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="48"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Entrée</translation>
     </message>
     <message>
         <location filename="../../plugins/ReverbSC/ReverbSCControlDialog.cpp" line="49"/>
@@ -16581,7 +16583,7 @@ Warning: This operation can not be undone.</source>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="197"/>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="872"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Général</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="232"/>
@@ -16686,7 +16688,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="291"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Langue</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="365"/>
@@ -16880,7 +16882,7 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="908"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="913"/>
@@ -16890,12 +16892,12 @@ Warning: This operation can not be undone.</source>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1147"/>
         <source>minutes</source>
-        <translation type="unfinished"/>
+        <translation>minutes</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1147"/>
         <source>minute</source>
-        <translation type="unfinished"/>
+        <translation>minute</translation>
     </message>
     <message>
         <location filename="../../src/gui/modals/SetupDialog.cpp" line="1149"/>
@@ -17133,7 +17135,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="598"/>
         <source>Noise</source>
-        <translation type="unfinished"/>
+        <translation>Bruit</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="614"/>
@@ -17153,7 +17155,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="641"/>
         <source>Test</source>
-        <translation type="unfinished"/>
+        <translation>Test</translation>
     </message>
     <message>
         <location filename="../../plugins/Sid/SidInstrument.cpp" line="673"/>
@@ -17166,7 +17168,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../src/gui/SideBarWidget.cpp" line="51"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
@@ -17239,12 +17241,12 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/SlicerT/SlicerTView.cpp" line="221"/>
         <source>Midi</source>
-        <translation type="unfinished"/>
+        <translation>Midi</translation>
     </message>
     <message>
         <location filename="../../plugins/SlicerT/SlicerTView.cpp" line="222"/>
         <source>BPM</source>
-        <translation type="unfinished"/>
+        <translation>BPM</translation>
     </message>
     <message>
         <location filename="../../plugins/SlicerT/SlicerTView.cpp" line="223"/>
@@ -17288,7 +17290,7 @@ Latency: %2 ms</source>
         <location filename="../../src/core/DataFile.cpp" line="375"/>
         <location filename="../../src/core/DataFile.cpp" line="383"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="../../src/core/DataFile.cpp" line="368"/>
@@ -17555,22 +17557,22 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::StereoMatrixControlDialog</name>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="53"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="59"/>
         <source>Left to Left Vol:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="58"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="60"/>
         <source>Left to Right Vol:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="63"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="61"/>
         <source>Right to Left Vol:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="68"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="62"/>
         <source>Right to Right Vol:</source>
         <translation type="unfinished"/>
     </message>
@@ -18239,7 +18241,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="663"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Bruit blanc</translation>
     </message>
     <message>
         <location filename="../../plugins/TripleOscillator/TripleOscillator.cpp" line="671"/>
@@ -18267,7 +18269,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="67"/>
         <source>Lines</source>
-        <translation type="unfinished"/>
+        <translation>Lignes</translation>
     </message>
     <message>
         <location filename="../../plugins/Vectorscope/VecControlsDialog.cpp" line="68"/>
@@ -18442,7 +18444,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="288"/>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="430"/>
         <source>White noise</source>
-        <translation type="unfinished"/>
+        <translation>Bruit blanc</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="289"/>
@@ -18508,7 +18510,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="356"/>
         <source>Octave</source>
-        <translation type="unfinished"/>
+        <translation>Octave</translation>
     </message>
     <message>
         <location filename="../../plugins/Vibed/Vibed.cpp" line="383"/>
@@ -18568,7 +18570,7 @@ Latency: %2 ms</source>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="689"/>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="690"/>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Volume</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="692"/>
@@ -18715,7 +18717,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="867"/>
         <source>Load waveform</source>
-        <translation type="unfinished"/>
+        <translation>Charger forme d&apos;onde</translation>
     </message>
     <message>
         <location filename="../../plugins/Watsyn/Watsyn.cpp" line="871"/>
@@ -18790,7 +18792,7 @@ Latency: %2 ms</source>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="67"/>
         <source>INPUT</source>
-        <translation type="unfinished"/>
+        <translation>ENTRE</translation>
     </message>
     <message>
         <location filename="../../plugins/WaveShaper/WaveShaperControlDialog.cpp" line="68"/>

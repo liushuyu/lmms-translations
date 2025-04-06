@@ -13605,34 +13605,34 @@ Please make sure you have write permission to the file and the directory contain
 Lütfen dosyaya ve dosyayı içeren dizine yazma izniniz olduğundan emin olun ve tekrar deneyin!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="822"/>
+        <location filename="../../src/core/main.cpp" line="823"/>
         <source>Project recovery</source>
         <translation>Proje kurtarma</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="837"/>
+        <location filename="../../src/core/main.cpp" line="838"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>Mevcut bir kurtarma dosyası var. Görünüşe göre son oturum düzgün şekilde sona ermemiş veya başka bir LMMS örneği zaten çalışıyor. Bu oturumun projesini kurtarmak istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="842"/>
-        <location filename="../../src/core/main.cpp" line="857"/>
+        <location filename="../../src/core/main.cpp" line="843"/>
+        <location filename="../../src/core/main.cpp" line="858"/>
         <source>Recover</source>
         <translation>Kurtar</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="843"/>
+        <location filename="../../src/core/main.cpp" line="844"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Dosyayı kurtarın. Lütfen bunu yaptığınızda birden fazla LMMS örneği çalıştırmayın.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="845"/>
-        <location filename="../../src/core/main.cpp" line="856"/>
+        <location filename="../../src/core/main.cpp" line="846"/>
+        <location filename="../../src/core/main.cpp" line="857"/>
         <source>Discard</source>
         <translation>Iskarta</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="846"/>
+        <location filename="../../src/core/main.cpp" line="847"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Varsayılan bir oturum başlatın ve geri yüklenen dosyaları silin. Bu geri alınamaz.</translation>
     </message>
@@ -17568,22 +17568,22 @@ Gecikme: %2 ms</translation>
 <context>
     <name>lmms::gui::StereoMatrixControlDialog</name>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="53"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="59"/>
         <source>Left to Left Vol:</source>
         <translation>Soldan Sola Düzey:</translation>
     </message>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="58"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="60"/>
         <source>Left to Right Vol:</source>
         <translation>Soldan Sağa Düzey:</translation>
     </message>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="63"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="61"/>
         <source>Right to Left Vol:</source>
         <translation>Sağdan Sola Düzey:</translation>
     </message>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="68"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="62"/>
         <source>Right to Right Vol:</source>
         <translation>Sağdan Sağa Düzey:</translation>
     </message>

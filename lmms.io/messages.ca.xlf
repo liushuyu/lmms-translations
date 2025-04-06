@@ -148,77 +148,77 @@
       </trans-unit>
       <trans-unit id="_qygR0H" resname="Download LMMS">
         <source>Download LMMS</source>
-        <target>Download LMMS</target>
+        <target>Descarregui LMMS</target>
         
       </trans-unit>
       <trans-unit id="3KQyvmZ" resname="Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:">
         <source>Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:</source>
-        <target>Downloading and using LMMS is free! Just choose the operating system you want to run LMMS on:</target>
+        <target>Descarregar i utilitzar l'LMMS és gratis! Només cal que escullis un sistema operatiu per obrir-lo</target>
         
       </trans-unit>
       <trans-unit id="il5xUz7" resname="Install LMMS on Linux">
         <source>Install LMMS on Linux</source>
-        <target>Install LMMS on Linux</target>
+        <target>Instal·la LMMS a Linux</target>
         
       </trans-unit>
       <trans-unit id="MaMF3_X" resname="Click one of the buttons below to download LMMS for Linux.">
         <source>Click one of the buttons below to download LMMS for Linux.</source>
-        <target>Click one of the buttons below to download LMMS for Linux.</target>
+        <target>Clica algun dels botons de sota per descarregar LMMS per Linux.</target>
         
       </trans-unit>
       <trans-unit id="fe0jPF7" resname="Stable Versions">
         <source>Stable Versions</source>
-        <target>Stable Versions</target>
+        <target>Versions estables</target>
         
       </trans-unit>
       <trans-unit id="49kH3Yb" resname="Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running">
         <source>Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running</source>
-        <target>Run &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; to set the &lt;code&gt;.AppImage&lt;/code&gt; executable before running</target>
+        <target>Fes funcionar el comand &lt;code&gt;chmod +x ~/Downloads/*.AppImage&lt;/code&gt; per fer &lt;code&gt;.AppImage&lt;/code&gt; executable abans d'utilitzar.</target>
         
       </trans-unit>
       <trans-unit id="OzIyYFY" resname="Beta Versions">
         <source>Beta Versions</source>
-        <target>Beta Versions</target>
+        <target>Versions beta</target>
         
       </trans-unit>
       <trans-unit id="g3QeHa0" resname="Other options">
         <source>Other options</source>
-        <target>Other options</target>
+        <target>Altres opcions</target>
         
       </trans-unit>
       <trans-unit id="qvfBNXu" resname="Install LMMS on Windows">
         <source>Install LMMS on Windows</source>
-        <target>Install LMMS on Windows</target>
+        <target>Instal·la LMMS a Windows</target>
         
       </trans-unit>
       <trans-unit id="L4N.x7z" resname="Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows">
         <source>Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows</source>
-        <target>Click one of the buttons below (either 32bit or 64bit) to download LMMS for Windows</target>
+        <target>Clica algun dels botons d'avall ( 32bit o 64bit) per descarregar LMMS per Windows</target>
         
       </trans-unit>
       <trans-unit id="D47H5zq" resname="Install LMMS on macOS">
         <source>Install LMMS on macOS</source>
-        <target>Install LMMS on macOS</target>
+        <target>Instal·la LMMS a macOS</target>
         
       </trans-unit>
       <trans-unit id="q_jbBQk" resname="Click one of the buttons below to download LMMS for macOS">
         <source>Click one of the buttons below to download LMMS for macOS</source>
-        <target>Click one of the buttons below to download LMMS for macOS</target>
+        <target>Clica un dels butons a sota per poder descarregar LMMS per macOS</target>
         
       </trans-unit>
       <trans-unit id="i4b9jxT" resname="Downloads labeled Beta are pre-release software, stability may suffer.">
         <source>Downloads labeled Beta are pre-release software, stability may suffer.</source>
-        <target>Downloads labeled Beta are pre-release software, stability may suffer.</target>
+        <target>Les descàrregues amb l'etiqueta Beta són programari previ al llançament, l'estabilitat pot patir.</target>
         
       </trans-unit>
       <trans-unit id="u9r1mHX" resname="Previous releases">
         <source>Previous releases</source>
-        <target>Previous releases</target>
+        <target>Estrenes anteriors</target>
         
       </trans-unit>
       <trans-unit id="p2JwKTn" resname="Show release notes">
         <source>Show release notes</source>
-        <target>Show release notes</target>
+        <target>Mostra notes de estrena</target>
         
       </trans-unit>
       <trans-unit id="JeB7PmY" resname="LMMS is a free, open-source software built entirely by a small number of&#10;&#9;volunteers in their free time. But to keep the project going, we need this&#10;&#9;number to grow. So if you feel like giving something back to the community,&#10;&#9;join us in making LMMS better!">
@@ -226,25 +226,25 @@
 	volunteers in their free time. But to keep the project going, we need this
 	number to grow. So if you feel like giving something back to the community,
 	join us in making LMMS better!</source>
-        <target>LMMS is a free, open-source software built entirely by a small number of
-	volunteers in their free time. But to keep the project going, we need this
-	number to grow. So if you feel like giving something back to the community,
-	join us in making LMMS better!</target>
+        <target>LMMS és un programari gratuït i de codi obert creat completament per un petit nombre de persones
+	voluntaris en el seu temps lliure. Però per mantenir el projecte en marxa, necessitem aquest
+	nombre per créixer. Així que si tens ganes de tornar alguna cosa a la comunitat,
+	acompanya'ns en el viatge de fer LMMS millor!</target>
         
       </trans-unit>
       <trans-unit id="SfCm20f" resname="What you can do">
         <source>What you can do</source>
-        <target>What you can do</target>
+        <target>Tot el que pots fer</target>
         
       </trans-unit>
       <trans-unit id="zaIp1qn" resname="There are multiple ways of contributing:">
         <source>There are multiple ways of contributing:</source>
-        <target>There are multiple ways of contributing:</target>
+        <target>Hi ha diferents maneres de contribuir:</target>
         
       </trans-unit>
       <trans-unit id="tOhjAdN" resname="Join Development">
         <source>Join Development</source>
-        <target>Join Development</target>
+        <target>Uneix-te al desenvolupament</target>
         
       </trans-unit>
       <trans-unit id="iMD1g4u" resname="We are in desperate need of new developers to join our team. LMMS is written in C++ using the Qt&#10;&#9;&#9;&#9;&#9;&#9;   Framework, so if you know a thing or two about these, don't hesitate to get yourself dirty with&#10;&#9;&#9;&#9;&#9;&#9;   coding!">
@@ -269,7 +269,7 @@
       </trans-unit>
       <trans-unit id="s5EAueb" resname="Website &amp; Docs">
         <source>Website &amp; Docs</source>
-        <target>Website &amp; Docs</target>
+        <target>Pàgina web i Documents</target>
         
       </trans-unit>
       <trans-unit id="w8z9ITy" resname="You can help us by improving this website or documenting the software. The website sources are in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub repo &lt;a href=&quot;//github.com/LMMS/lmms.io&quot;&gt;LMMS/lmms.io&lt;/a&gt;, our documentation is hosted using a&#10;&#9;&#9;&#9;&#9;&#9;   &lt;a href=&quot;//lmms.io/wiki&quot;&gt;MediaWiki instance&lt;/a&gt;.">
@@ -292,7 +292,7 @@
       </trans-unit>
       <trans-unit id="SP5.ra2" resname="Donate">
         <source>Donate</source>
-        <target>Donate</target>
+        <target>Donar</target>
         
       </trans-unit>
       <trans-unit id="B4BWBCj" resname="Even though donations are not the thing we need the most (that'd be developers), they help us pay&#10;&#9;&#9;&#9;&#9;&#9;   our bills, for our domain lmms.io for instance.">
@@ -304,12 +304,12 @@
       </trans-unit>
       <trans-unit id="eWaNqUZ" resname="Donate via PayPal">
         <source>Donate via PayPal</source>
-        <target>Donate via PayPal</target>
+        <target>Dona diners amb paypal</target>
         
       </trans-unit>
       <trans-unit id="mBTJrw1" resname="Translations">
         <source>Translations</source>
-        <target>Translations</target>
+        <target>Traduccions</target>
         
       </trans-unit>
       <trans-unit id="M6pv5xx" resname="If your language is missing in LMMS, help the project and other users speaking the same language by&#10;&#9;&#9;&#9;&#9;&#9;   translating the software. You can find instructions on the page&#10;&#9;&#9;&#9;&#9;&#9;   &quot;&lt;a href=&quot;//github.com/LMMS/lmms/wiki/Creating-a-localization&quot;&gt;Creating a localization&lt;/a&gt;&quot; in our&#10;&#9;&#9;&#9;&#9;&#9;   GitHub Wiki.">

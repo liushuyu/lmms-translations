@@ -13607,34 +13607,34 @@ Please make sure you have write permission to the file and the directory contain
 파일 및 파일이 포함된 디렉터리에 대한 쓰기 권한이 있는지 확인한 후 다시 시도하세요!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="822"/>
+        <location filename="../../src/core/main.cpp" line="823"/>
         <source>Project recovery</source>
         <translation>프로젝트 복구</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="837"/>
+        <location filename="../../src/core/main.cpp" line="838"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>복구 파일이 존재합니다. 이전에 LMMS가 비정상 종료되었거나 여러 개의 LMMS 인스턴스가 동시에 실행 중인 것 같습니다. 복구 파일로부터 프로젝트를 복구하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="842"/>
-        <location filename="../../src/core/main.cpp" line="857"/>
+        <location filename="../../src/core/main.cpp" line="843"/>
+        <location filename="../../src/core/main.cpp" line="858"/>
         <source>Recover</source>
         <translation>복구하기</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="843"/>
+        <location filename="../../src/core/main.cpp" line="844"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>파일을 복구합니다. 이 작업을 수행할 때 LMMS의 여러 인스턴스를 실행하지 마세요.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="845"/>
-        <location filename="../../src/core/main.cpp" line="856"/>
+        <location filename="../../src/core/main.cpp" line="846"/>
+        <location filename="../../src/core/main.cpp" line="857"/>
         <source>Discard</source>
         <translation>폐기하기</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="846"/>
+        <location filename="../../src/core/main.cpp" line="847"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>기본 세션을 시작하고 복원된 파일을 삭제합니다. 이 작업은 되돌릴 수 없습니다.</translation>
     </message>
@@ -17570,22 +17570,22 @@ Latency: %2 ms</source>
 <context>
     <name>lmms::gui::StereoMatrixControlDialog</name>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="53"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="59"/>
         <source>Left to Left Vol:</source>
         <translation>좌측 → 좌측 볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="58"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="60"/>
         <source>Left to Right Vol:</source>
         <translation>좌측 → 우측 볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="63"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="61"/>
         <source>Right to Left Vol:</source>
         <translation>우측 → 좌측 볼륨:</translation>
     </message>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="68"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="62"/>
         <source>Right to Right Vol:</source>
         <translation>우측 → 우측 볼륨:</translation>
     </message>

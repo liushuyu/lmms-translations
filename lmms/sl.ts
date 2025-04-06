@@ -13425,34 +13425,34 @@ Please make sure you have write permission to the file and the directory contain
 Prepričajte se, da imate pravico za zapisovanje v to datoteko in njeno mapo ter poskusite znova!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="822"/>
+        <location filename="../../src/core/main.cpp" line="823"/>
         <source>Project recovery</source>
         <translation>Obnova projekta</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="837"/>
+        <location filename="../../src/core/main.cpp" line="838"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>Na voljo je obnovitvena datoteka. Videti je, da se zadnja seja ni pravilno končala ali da je hkrati zagnana še ena instanca LMMS. Ali želite obvnoviti projekt te seje?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="842"/>
-        <location filename="../../src/core/main.cpp" line="857"/>
+        <location filename="../../src/core/main.cpp" line="843"/>
+        <location filename="../../src/core/main.cpp" line="858"/>
         <source>Recover</source>
         <translation>Obnova</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="843"/>
+        <location filename="../../src/core/main.cpp" line="844"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Obnova datoteke. Pri tem dejanju je potrebno paziti na to, da ni zagnanih več instanc LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="845"/>
-        <location filename="../../src/core/main.cpp" line="856"/>
+        <location filename="../../src/core/main.cpp" line="846"/>
+        <location filename="../../src/core/main.cpp" line="857"/>
         <source>Discard</source>
         <translation>Opusti</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="846"/>
+        <location filename="../../src/core/main.cpp" line="847"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Zaženi privzeto sejo in pobriši obnovljene datoteke. Tega ni mogoče preklicati.</translation>
     </message>
@@ -17388,22 +17388,22 @@ Poskrbite, da boste imeli vsaj bralne pravice in poskusite znova.</translation>
 <context>
     <name>lmms::gui::StereoMatrixControlDialog</name>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="53"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="59"/>
         <source>Left to Left Vol:</source>
         <translation>Levo na levo glas.:</translation>
     </message>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="58"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="60"/>
         <source>Left to Right Vol:</source>
         <translation>Levo na desno glas.:</translation>
     </message>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="63"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="61"/>
         <source>Right to Left Vol:</source>
         <translation>Desno na levo glas.:</translation>
     </message>
     <message>
-        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="68"/>
+        <location filename="../../plugins/StereoMatrix/StereoMatrixControlDialog.cpp" line="62"/>
         <source>Right to Right Vol:</source>
         <translation>Desno na desno glas.:</translation>
     </message>
