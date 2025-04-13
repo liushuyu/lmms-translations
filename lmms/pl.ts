@@ -11924,57 +11924,57 @@ Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego 
 <context>
     <name>lmms::gui::GuiApplication</name>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="81"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="92"/>
         <source>Working directory</source>
         <translation>Katalog roboczy</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="82"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="93"/>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
         <translation>Katalog roboczy LMMS %1 nie istnieje. Chcesz go utworzyć? Możesz zmienić katalog później w Edycja -&gt; Ustawienia.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="140"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="151"/>
         <source>Preparing UI</source>
         <translation>Przygotowywanie interfejsu użytkownika</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="147"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="158"/>
         <source>Preparing song editor</source>
         <translation>Przygotowywanie edytora utworu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="151"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="162"/>
         <source>Preparing mixer</source>
         <translation>Przygotowywanie miksera</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="155"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="166"/>
         <source>Preparing controller rack</source>
         <translation>Przygotowanie racka kontrolerów</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="159"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="170"/>
         <source>Preparing project notes</source>
         <translation>Przygotowanie notek projektu</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="163"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="174"/>
         <source>Preparing microtuner</source>
         <translation>Przygotowywanie mikrotunera</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="167"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="178"/>
         <source>Preparing pattern editor</source>
         <translation>Przygotowanie edytora szablonów</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="171"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="182"/>
         <source>Preparing piano roll</source>
         <translation>Przygotowywanie edytora pianolowego</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="175"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="186"/>
         <source>Preparing automation editor</source>
         <translation>Przygotowanie edytora automatyki</translation>
     </message>
@@ -13618,39 +13618,39 @@ Please make sure you have write permission to the file and the directory contain
 Upewnij się, że masz uprawnienia do zapisu do pliku i katalogu zawierającego plik i spróbuj ponownie!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="823"/>
+        <location filename="../../src/core/main.cpp" line="824"/>
         <source>Project recovery</source>
         <translation>Odzyskiwanie projektu</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="838"/>
+        <location filename="../../src/core/main.cpp" line="839"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>Istnieje plik odzyskiwania. Wygląda na to, że ostatnia sesja nie zakończyła się prawidłowo lub inna instancja LMMS jest już uruchomiona. Chcesz odzyskać projekt tej sesji?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="843"/>
-        <location filename="../../src/core/main.cpp" line="858"/>
+        <location filename="../../src/core/main.cpp" line="844"/>
+        <location filename="../../src/core/main.cpp" line="859"/>
         <source>Recover</source>
         <translation>Odzyskaj</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="844"/>
+        <location filename="../../src/core/main.cpp" line="845"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Odzyskaj plik. Nie uruchamiaj wielu instancji LMMS podczas wykonywania tej czynności.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="846"/>
-        <location filename="../../src/core/main.cpp" line="857"/>
+        <location filename="../../src/core/main.cpp" line="847"/>
+        <location filename="../../src/core/main.cpp" line="858"/>
         <source>Discard</source>
         <translation>Odrzuć</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="847"/>
+        <location filename="../../src/core/main.cpp" line="848"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Uruchom domyślną sesję i usuń przywrócone pliki. Tego nie można cofnąć.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="120"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="131"/>
         <source>Version %1</source>
         <translation>Wersja %1</translation>
     </message>

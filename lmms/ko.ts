@@ -11913,57 +11913,57 @@ Please make sure you have write permission to the file and the directory contain
 <context>
     <name>lmms::gui::GuiApplication</name>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="81"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="92"/>
         <source>Working directory</source>
         <translation>작업 디렉터리</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="82"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="93"/>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
         <translation>LMMS 작업 디렉터리 %1이(가) 없습니다. 지금 만드시겠습니까? 나중에 편집 -&gt; 설정을 통해 디렉터리를 변경할 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="140"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="151"/>
         <source>Preparing UI</source>
         <translation>UI 준비하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="147"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="158"/>
         <source>Preparing song editor</source>
         <translation>노래 편집기 준비하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="151"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="162"/>
         <source>Preparing mixer</source>
         <translation>믹서 준비하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="155"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="166"/>
         <source>Preparing controller rack</source>
         <translation>컨트롤러 랙 준비하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="159"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="170"/>
         <source>Preparing project notes</source>
         <translation>프로젝트 노트 준비하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="163"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="174"/>
         <source>Preparing microtuner</source>
         <translation>마이크로튜너 준비하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="167"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="178"/>
         <source>Preparing pattern editor</source>
         <translation>패턴 편집기 준비하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="171"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="182"/>
         <source>Preparing piano roll</source>
         <translation>피아노 롤 준비하는 중</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="175"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="186"/>
         <source>Preparing automation editor</source>
         <translation>오토메이션 편집기 준비하는 중</translation>
     </message>
@@ -13607,39 +13607,39 @@ Please make sure you have write permission to the file and the directory contain
 파일 및 파일이 포함된 디렉터리에 대한 쓰기 권한이 있는지 확인한 후 다시 시도하세요!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="823"/>
+        <location filename="../../src/core/main.cpp" line="824"/>
         <source>Project recovery</source>
         <translation>프로젝트 복구</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="838"/>
+        <location filename="../../src/core/main.cpp" line="839"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>복구 파일이 존재합니다. 이전에 LMMS가 비정상 종료되었거나 여러 개의 LMMS 인스턴스가 동시에 실행 중인 것 같습니다. 복구 파일로부터 프로젝트를 복구하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="843"/>
-        <location filename="../../src/core/main.cpp" line="858"/>
+        <location filename="../../src/core/main.cpp" line="844"/>
+        <location filename="../../src/core/main.cpp" line="859"/>
         <source>Recover</source>
         <translation>복구하기</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="844"/>
+        <location filename="../../src/core/main.cpp" line="845"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>파일을 복구합니다. 이 작업을 수행할 때 LMMS의 여러 인스턴스를 실행하지 마세요.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="846"/>
-        <location filename="../../src/core/main.cpp" line="857"/>
+        <location filename="../../src/core/main.cpp" line="847"/>
+        <location filename="../../src/core/main.cpp" line="858"/>
         <source>Discard</source>
         <translation>폐기하기</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="847"/>
+        <location filename="../../src/core/main.cpp" line="848"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>기본 세션을 시작하고 복원된 파일을 삭제합니다. 이 작업은 되돌릴 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="120"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="131"/>
         <source>Version %1</source>
         <translation>버전 %1</translation>
     </message>

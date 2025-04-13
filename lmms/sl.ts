@@ -11731,57 +11731,57 @@ Prepričajte se, da imate pravico za zapisovanje v to datoteko in njeno mapo ter
 <context>
     <name>lmms::gui::GuiApplication</name>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="81"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="92"/>
         <source>Working directory</source>
         <translation>Delovna mapa</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="82"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="93"/>
         <source>The LMMS working directory %1 does not exist. Create it now? You can change the directory later via Edit -&gt; Settings.</source>
         <translation>LMMS delovna mapa %1 ne obstaja. Jo ustvarim? Mapo lahko spremenite preko Uredi -&gt; Nastavitve.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="140"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="151"/>
         <source>Preparing UI</source>
         <translation>Pripravljanje uporabniškega vmesnika</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="147"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="158"/>
         <source>Preparing song editor</source>
         <translation>Pripravljam Urejevalnik skladbe</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="151"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="162"/>
         <source>Preparing mixer</source>
         <translation>Pripravljanje mešalke</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="155"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="166"/>
         <source>Preparing controller rack</source>
         <translation>Pripravljanje regala kontrolerjev</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="159"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="170"/>
         <source>Preparing project notes</source>
         <translation>Pripravljanje zaznamkov projekta</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="163"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="174"/>
         <source>Preparing microtuner</source>
         <translation>Pripravljanje mikoruglaševalnika</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="167"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="178"/>
         <source>Preparing pattern editor</source>
         <translation>Pripravljanje urejevalnika matrik</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="171"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="182"/>
         <source>Preparing piano roll</source>
         <translation>Pripravljanje klavirskega črtovja</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="175"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="186"/>
         <source>Preparing automation editor</source>
         <translation>Pripravljanje urejevalnika avtomatizacije</translation>
     </message>
@@ -13425,39 +13425,39 @@ Please make sure you have write permission to the file and the directory contain
 Prepričajte se, da imate pravico za zapisovanje v to datoteko in njeno mapo ter poskusite znova!</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="823"/>
+        <location filename="../../src/core/main.cpp" line="824"/>
         <source>Project recovery</source>
         <translation>Obnova projekta</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="838"/>
+        <location filename="../../src/core/main.cpp" line="839"/>
         <source>There is a recovery file present. It looks like the last session did not end properly or another instance of LMMS is already running. Do you want to recover the project of this session?</source>
         <translation>Na voljo je obnovitvena datoteka. Videti je, da se zadnja seja ni pravilno končala ali da je hkrati zagnana še ena instanca LMMS. Ali želite obvnoviti projekt te seje?</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="843"/>
-        <location filename="../../src/core/main.cpp" line="858"/>
+        <location filename="../../src/core/main.cpp" line="844"/>
+        <location filename="../../src/core/main.cpp" line="859"/>
         <source>Recover</source>
         <translation>Obnova</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="844"/>
+        <location filename="../../src/core/main.cpp" line="845"/>
         <source>Recover the file. Please don&apos;t run multiple instances of LMMS when you do this.</source>
         <translation>Obnova datoteke. Pri tem dejanju je potrebno paziti na to, da ni zagnanih več instanc LMMS.</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="846"/>
-        <location filename="../../src/core/main.cpp" line="857"/>
+        <location filename="../../src/core/main.cpp" line="847"/>
+        <location filename="../../src/core/main.cpp" line="858"/>
         <source>Discard</source>
         <translation>Opusti</translation>
     </message>
     <message>
-        <location filename="../../src/core/main.cpp" line="847"/>
+        <location filename="../../src/core/main.cpp" line="848"/>
         <source>Launch a default session and delete the restored files. This is not reversible.</source>
         <translation>Zaženi privzeto sejo in pobriši obnovljene datoteke. Tega ni mogoče preklicati.</translation>
     </message>
     <message>
-        <location filename="../../src/gui/GuiApplication.cpp" line="120"/>
+        <location filename="../../src/gui/GuiApplication.cpp" line="131"/>
         <source>Version %1</source>
         <translation>Različica %1</translation>
     </message>
